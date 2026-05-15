@@ -1,24 +1,24 @@
 {
   "prices": {
     "gold": {
-      "price_per_gram_inr": 7393.64,
-      "price_usd_oz": 2400,
-      "change_percent": 0,
-      "change_value_usd": 0,
-      "price_per_10g_inr": 73936.37
+      "price_per_gram_inr": 14073.65,
+      "price_usd_oz": 4568.35,
+      "change_percent": -1.8,
+      "change_value_usd": -83.73,
+      "price_per_10g_inr": 140736.5
     },
     "silver": {
-      "price_per_gram_inr": 92.42,
-      "price_usd_oz": 30,
-      "change_percent": 0,
-      "change_value_usd": 0,
-      "price_per_kg_inr": 92420.47
+      "price_per_gram_inr": 243.17,
+      "price_usd_oz": 78.93,
+      "change_percent": -5.45,
+      "change_value_usd": -4.55,
+      "price_per_kg_inr": 243170.57
     },
     "platinum": {
-      "price_per_gram_inr": 3019.07,
-      "price_usd_oz": 980,
-      "change_percent": 0,
-      "change_value_usd": 0
+      "price_per_gram_inr": 6206.5,
+      "price_usd_oz": 2014.65,
+      "change_percent": -2.25,
+      "change_value_usd": -46.38
     },
     "currencies": {
       "USD_INR": 95.82,
@@ -30,9 +30,9 @@
       "CAD_INR": 69.9416,
       "SGD_INR": 75.4488
     },
-    "gold_silver_ratio": 80.0,
-    "timestamp": "2026-05-15T15:55:19.959912",
-    "source": "fallback"
+    "gold_silver_ratio": 57.88,
+    "timestamp": "2026-05-15T11:00:43.316758",
+    "source": "GoldAPI"
   },
   "currencies": {
     "USD_INR": 95.82,
@@ -47,92 +47,80 @@
   "analysis": {
     "gold": {
       "metal": "gold",
-      "recommendation": "BUY",
+      "recommendation": "SELL",
       "confidence": {
-        "buy": 64,
-        "sell": 10,
-        "hold": 26
+        "buy": 15,
+        "sell": 56,
+        "hold": 29
       },
-      "summary": "Gold is showing positive signals. Technical indicators show bullish trend. Price above key moving averages. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-05-15T15:55:22.659060",
+      "summary": "Gold is showing negative signals. Significant daily drop of -1.8%. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-05-15T11:00:48.749622",
       "source": "rule-based"
     },
     "silver": {
       "metal": "silver",
-      "recommendation": "BUY",
+      "recommendation": "SELL",
       "confidence": {
-        "buy": 64,
-        "sell": 10,
-        "hold": 26
+        "buy": 15,
+        "sell": 56,
+        "hold": 29
       },
-      "summary": "Silver is showing positive signals. Technical indicators show bullish trend. Price above key moving averages. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-05-15T15:55:22.659071",
+      "summary": "Silver is showing negative signals. Significant daily drop of -5.5%. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-05-15T11:00:48.849370",
       "source": "rule-based"
     },
     "platinum": {
       "metal": "platinum",
-      "recommendation": "BUY",
+      "recommendation": "SELL",
       "confidence": {
-        "buy": 64,
-        "sell": 10,
-        "hold": 26
+        "buy": 15,
+        "sell": 56,
+        "hold": 29
       },
-      "summary": "Platinum is showing positive signals. Technical indicators show bullish trend. Price above key moving averages. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-05-15T15:55:22.659077",
+      "summary": "Platinum is showing negative signals. Significant daily drop of -2.2%. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-05-15T11:00:48.943735",
       "source": "rule-based"
     }
   },
   "technical": {
     "gold": {
-      "trend": "bullish",
-      "strength": 94,
+      "trend": "neutral",
+      "strength": 50,
       "signals": [
-        "Price above 4-week moving average (bullish)",
-        "Price above 12-week moving average (bullish)",
-        "Short-term MA above long-term MA (uptrend)",
-        "Strong momentum: +2.6% in 4 weeks",
-        "Near resistance \u2014 potential sell zone"
+        "Insufficient data for trend analysis"
       ],
-      "support": 65619.17,
-      "resistance": 68850.44,
-      "current_price": 68850.44,
-      "ma_short": 67969.16,
-      "ma_long": 67183.77,
-      "trend_score": 3.5
+      "support": 0,
+      "resistance": 0,
+      "current_price": 0,
+      "ma_short": 0,
+      "ma_long": 0,
+      "trend_score": 0
     },
     "silver": {
-      "trend": "bearish",
-      "strength": 19,
+      "trend": "neutral",
+      "strength": 50,
       "signals": [
-        "Price below 4-week moving average (bearish)",
-        "Price below 12-week moving average (bearish)",
-        "Short-term MA below long-term MA (downtrend)",
-        "Sideways: -0.9% in 4 weeks",
-        "Near support \u2014 potential buy zone"
+        "Insufficient data for trend analysis"
       ],
-      "support": 62430.52,
-      "resistance": 67074.68,
-      "current_price": 62635.7,
-      "ma_short": 63570.4,
-      "ma_long": 64691.61,
-      "trend_score": -2.5
+      "support": 0,
+      "resistance": 0,
+      "current_price": 0,
+      "ma_short": 0,
+      "ma_long": 0,
+      "trend_score": 0
     },
     "platinum": {
       "trend": "neutral",
-      "strength": 69,
+      "strength": 50,
       "signals": [
-        "Price above 4-week moving average (bullish)",
-        "Price above 12-week moving average (bullish)",
-        "Short-term MA below long-term MA (downtrend)",
-        "Strong momentum: +5.3% in 4 weeks",
-        "Near resistance \u2014 potential sell zone"
+        "Insufficient data for trend analysis"
       ],
-      "support": 2901.36,
-      "resistance": 3082.8,
-      "current_price": 3055.82,
-      "ma_short": 2984.52,
-      "ma_long": 3011.57,
-      "trend_score": 1.5
+      "support": 0,
+      "resistance": 0,
+      "current_price": 0,
+      "ma_short": 0,
+      "ma_long": 0,
+      "trend_score": 0
     }
   },
   "news": [
@@ -173,6 +161,204 @@
       "category": "geopolitics"
     },
     {
+      "title": "Aya Gold & Silver Reports Q1-2026 Results with Record Revenue and Cash Flow",
+      "description": "MONTREAL, May 14, 2026 (GLOBE NEWSWIRE) -- Aya Gold & Silver Inc. (TSX: AYA; NASDAQ: AYA) (\u201cAya\u201d or the \u201cCorporation\u201d) today announced its financial and operational results for the first quarter ended March 31, 2026. All amounts are in U.S. dollars unless oth\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/05/14/3294717/0/en/Aya-Gold-Silver-Reports-Q1-2026-Results-with-Record-Revenue-and-Cash-Flow.html",
+      "source": "GlobeNewswire",
+      "date": "2026-05-14",
+      "image": "https://ml.globenewswire.com/Resource/Download/ccdf99dd-f612-4a6c-8f7d-c44db8e41694",
+      "category": "currency"
+    },
+    {
+      "title": "How to roll over your 401(k) to a gold IRA",
+      "description": "Learn how to roll over your 401(k) to a gold IRA for added security. Discover simple steps and key pitfalls to avoid.",
+      "url": "https://nypost.com/personal-finance/401k-to-gold-ira-rollover-guide/",
+      "source": "New York Post",
+      "date": "2026-05-14",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/05/AdobeStock_1632762028.jpeg?quality=75&strip=all&w=1200",
+      "category": "metals"
+    },
+    {
+      "title": "Idaho Strategic Reports Record First Quarter 2026 Operating and Financial Performance",
+      "description": "Highlighted by a 98.97% Increase in Revenue to $14,482,286 and Record Quarterly Net Income of $6,387,992 COEUR D\u2019ALENE, Idaho \u2014 Idaho Strategic Resources, Inc. (NYSE American: IDR) (\u201cIDR\u201d, \u201cIdaho Strategic\u201d or the \u201cCompany\u201d) today announced its consolidated o\u2026",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/idaho-strategic-reports-record-first-quarter-2026-operating-and-financial-performance",
+      "source": "Financial Post",
+      "date": "2026-05-14",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "Cerebras set for debut in stock market gripped by AI mania",
+      "description": "May 14 : Chipmaker Cerebras is set to make its U.S. market debut later on Thursday, as it looks to ride a wave of investor euphoria for companies that are at the heart of the artificial intelligence boom.The firm's IPO is the largest this year and comes as AI\u2026",
+      "url": "https://www.channelnewsasia.com/business/cerebras-set-debut-in-stock-market-gripped-ai-mania-6121286",
+      "source": "CNA",
+      "date": "2026-05-14",
+      "image": "https://dam.mediacorp.sg/image/upload/s--ZzsJIsD6--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-05-14T103818Z_1_LYNXMPEM4D0QJ_RTROPTP_3_CEREBRAS-IPO.JPG?itok=2FksU1x5",
+      "category": "market"
+    },
+    {
+      "title": "Chipmaker Cerebras indicated to open about 90% higher in US market debut",
+      "description": "May 14 : Shares of Cerebras Systems were indicated to open 90 per cent higher than their IPO price in the U.S. market debut on Thursday, as the chipmaker rides a wave of investor euphoria for companies that are at the heart of the artificial intelligence boom\u2026",
+      "url": "https://www.channelnewsasia.com/business/chipmaker-cerebras-indicated-open-about-90-higher-in-us-market-debut-6121286",
+      "source": "CNA",
+      "date": "2026-05-14",
+      "image": "https://dam.mediacorp.sg/image/upload/s--ZzsJIsD6--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-05-14T103818Z_1_LYNXMPEM4D0QJ_RTROPTP_3_CEREBRAS-IPO.JPG?itok=2FksU1x5",
+      "category": "market"
+    },
+    {
+      "title": "Sensex today | Stock Market Highlights: Sensex gains 789 pts, Nifty ends at 23,689 as US-China trade talks lift investor sentiment",
+      "description": "Sensex, Nifty, Share Prices Highlights: Indian shares rose on Thursday, supported by steady earnings \u200band signs of progress in U.S.-China trade relations, though sentiment \u200cremained fragile as elevated oil prices and foreign \u200boutflows drove the rupee to anoth\u2026",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-14th-may-2026/article70974643.ece",
+      "source": "BusinessLine",
+      "date": "2026-05-14",
+      "image": "https://bl-i.thgim.com/public/incoming/i38me4/article70974667.ece/alternates/LANDSCAPE_1200/iStock-1255683032%201.jpg",
+      "category": "currency"
+    },
+    {
+      "title": "Discovery Reports Solid Earnings and Cash Flow in Q1 2026",
+      "description": "(1)\u00a0\u00a0\u00a0Non-GAAP measure. For more information, see the section entitled, \u201cNON-GAAP MEASURES.\u201d(2)\u00a0\u00a0\u00a0AISC excludes share-based compensation costs.(3)\u00a0\u00a0\u00a0Site-level AISC includes corporate G&A allocation and excludes remaining corporate G&A, share-based compensati\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/05/14/3294696/0/en/Discovery-Reports-Solid-Earnings-and-Cash-Flow-in-Q1-2026.html",
+      "source": "GlobeNewswire",
+      "date": "2026-05-14",
+      "image": "https://ml.globenewswire.com/Resource/Download/6a44694b-2cae-4dea-b555-084425160cb6",
+      "category": "market"
+    },
+    {
+      "title": "Gold and silver prices today, Thursday, May 14: Gold holds, silver stays strong",
+      "description": "Gold opened at $4,696.80 per troy ounce on Thursday, down 0.2% from Wednesday\u2019s close. Gold moved higher this morning, trading at $4,702.90 as of 6:25 a.m...",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-and-silver-prices-today-thursday-may-14-gold-holds-silver-stays-strong-104613262.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-05-14",
+      "image": "https://s.yimg.com/ny/api/res/1.2/Zu_x0oSJvUyz2a53ggKFDQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04ODE-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/aeacafa0-fdeb-11f0-92bf-fbccb4e33186",
+      "category": "metals"
+    },
+    {
+      "title": "Trilogy Metals Announces Election of Directors and Voting Results from the 2026 Annual Meeting of Shareholders",
+      "description": "VANCOUVER, BC, May 14, 2026 /PRNewswire/ - Trilogy Metals Inc. (NYSE American: TMQ) (TSX: TMQ) (\"Trilogy Metals\", \"Trilogy\" or the \"Company\") announced today the detailed voting results on the items of business considered at its Annual Meeting of Shareholders\u2026",
+      "url": "https://www.prnewswire.com/news-releases/trilogy-metals-announces-election-of-directors-and-voting-results-from-the-2026-annual-meeting-of-shareholders-302771813.html",
+      "source": "PRNewswire",
+      "date": "2026-05-14",
+      "image": "https://mma.prnewswire.com/media/2979871/Trilogy_Metals_Inc__Trilogy_Metals_Announces_Election_of_Directo.jpg?p=facebook",
+      "category": "market"
+    },
+    {
+      "title": "Tennis is top of the racket family, but pickleball is coming for the crown",
+      "description": "Tennis is steeped in tradition, but pickleball is trendy. There is a history of tension between the two sports, but will one reign supreme?",
+      "url": "https://nationalpost.com/feature/tennis-vs-pickleball",
+      "source": "National Post",
+      "date": "2026-05-14",
+      "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/05/ball-1.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "New Poynter hub serves journalists working with AI and audiences trying to make sense of it",
+      "description": "ST. PETERSBURG, Florida (May 14, 2026) \u2014 The Poynter Institute today launched a new AI hub on Poynter.org, bringing together its work in journalism training, ethics, media literacy, fact-checking, research [\u2026]\nThe post New Poynter hub serves journalists worki\u2026",
+      "url": "https://www.poynter.org/reporting-editing/2026/new-poynter-hub-serves-journalists-working-with-ai-and-audiences-trying-to-make-sense-of-it/",
+      "source": "Poynter",
+      "date": "2026-05-14",
+      "image": "https://www.poynter.org/wp-content/uploads/2026/04/AI-General.jpg",
+      "category": "market"
+    },
+    {
+      "title": "US Efforts to End Iran War Stumble as Ship Seized Near UAE",
+      "description": "US efforts to end the war with Iran were dealt a setback after a commercial vessel was apparently seized by unauthorized personnel near the United Arab Emirates, increasing uncertainty over control of the critical Strait of Hormuz. The ship, whose \u2026",
+      "url": "https://www.insurancejournal.com/news/international/2026/05/14/869787.htm",
+      "source": "Insurance Journal",
+      "date": "2026-05-14",
+      "image": "https://www.insurancejournal.com/app/uploads/2026/05/ships-in-strait-of-hormuz-getty-scaled.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Shahpur Kabraji reappointed as Legal Trustee to the National History Museum",
+      "description": "The Prime Minister has reappointed Shahpur Kabaji as Legal Trustee of the National History Museum from 26 June 2026 to 25 June 2031",
+      "url": "https://www.gov.uk/government/news/shahpur-kabraji-reappointed-as-legal-trustee-to-the-national-history-museum",
+      "source": "Www.gov.uk",
+      "date": "2026-05-14",
+      "image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "category": "market"
+    },
+    {
+      "title": "Hantavirus outbreak isn't another Covid pandemic \u2013 but experts say it's testing U.S. readiness",
+      "description": "For some experts, the outbreak is raising broader concerns about how equipped the U.S. is to respond to future infectious disease threats.",
+      "url": "https://www.cnbc.com/2026/05/14/hantavirus-cruise-ship-outbreak-where-is-it-what-to-know.html",
+      "source": "CNBC",
+      "date": "2026-05-14",
+      "image": "https://image.cnbcfm.com/api/v1/image/108306508-1778695160244-gettyimages-2275188386-20090101260512-99-397462.jpeg?v=1778695192&w=1920&h=1080",
+      "category": "market"
+    },
+    {
+      "title": "Video: Digital Foundry Delivers Its Tech Verdict For Indiana Jones On Switch 2",
+      "description": "Does it belong in a museum?As is customary with high-profile Switch 2 ports, tech specialist Digital Foundry has delivered its verdict on how Indiana Jones and the Great Circle holds up on the hybrid console.In short, it's a marvel. The game targets 30fps, wh\u2026",
+      "url": "https://www.nintendolife.com/news/2026/05/video-digital-foundry-delivers-its-tech-verdict-for-indiana-jones-on-switch-2",
+      "source": "Nintendo Life",
+      "date": "2026-05-14",
+      "image": "https://images.nintendolife.com/8cb7da2b044b8/large.jpg",
+      "category": "market"
+    },
+    {
+      "title": "The Environmental Movement Needs to Touch Grass",
+      "description": "Yes, literally",
+      "url": "https://www.theatlantic.com/ideas/2026/05/climate-change-nature-ecosystems-environmental-movement/687162/",
+      "source": "The Atlantic",
+      "date": "2026-05-14",
+      "image": "https://cdn.theatlantic.com/thumbor/uZL5TZBxJ3VMIDjn6eoivbM-M6Y=/2x23:1147x624/960x504/media/img/mt/2026/05/CAMEMA00179_xgaplus/original.jpg",
+      "category": "market"
+    },
+    {
+      "title": "BCE to participate in the J.P. Morgan 2026 Global Technology, Media and Communications Conference in Boston",
+      "description": "MONTR\u00c9AL, May 14, 2026 /PRNewswire/ - Curtis Millen, Executive Vice President and Chief Financial Officer of BCE Inc. (TSX: BCE) (NYSE: BCE) will participate in a fireside chat at the J.P. Morgan Global Technology, Media and Communications Conference in Bosto\u2026",
+      "url": "https://www.prnewswire.com/news-releases/bce-to-participate-in-the-jp-morgan-2026-global-technology-media-and-communications-conference-in-boston-302769804.html",
+      "source": "PRNewswire",
+      "date": "2026-05-14",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "Empires of Flow Control",
+      "description": "In September 1507 the Portuguese conquistador Afonso de Albuquerque sailed his small fleet to a point off the coast of Hormuz Island, in the narrow bottleneck that provides access to the Persian Gulf. Negotiations between the Portuguese and the independent Ki\u2026",
+      "url": "https://www.nybooks.com/online/2026/05/14/empires-of-flow-control-hormuz/",
+      "source": "The New York Review of Books",
+      "date": "2026-05-14",
+      "image": "https://www.nybooks.com/wp-content/uploads/2026/05/Mulder202605_4.jpeg",
+      "category": "market"
+    },
+    {
+      "title": "Mother of transgender athlete AB Hernandez determined to push through protests",
+      "description": "Nereyda Hernandez, the mother of transgender athlete AB Hernandez previously targeted by President Trump, says she is prepared to handle more protests.",
+      "url": "https://sports.yahoo.com/articles/mother-transgender-athlete-ab-hernandez-110000018.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-05-14",
+      "image": "https://s.yimg.com/os/en/la_times_articles_853/8361a5b22d18a57ff860a72afac2307a",
+      "category": "market"
+    },
+    {
+      "title": "Grattan on Friday: Taylor\u2019s bold budget reply is a mix of sound and dubious policy commitments",
+      "description": "With his party in deep trouble, the opposition leader decided to go big in his budget reply.",
+      "url": "https://theconversation.com/grattan-on-friday-taylors-bold-budget-reply-is-a-mix-of-sound-and-dubious-policy-commitments-282264",
+      "source": "The Conversation Africa",
+      "date": "2026-05-14",
+      "image": "https://images.theconversation.com/files/735822/original/file-20260514-63-k4r18n.jpg?ixlib=rb-4.1.0&rect=0%2C689%2C8256%2C4128&q=45&auto=format&w=1356&h=668&fit=crop",
+      "category": "market"
+    },
+    {
+      "title": "Bitcoin ETFs Shed $630M in Largest Daily Exit Since January",
+      "description": "Inflation fears and Fed uncertainty trigger the biggest U.S. Bitcoin ETF outflows since January, snapping weeks of institutional inflows.",
+      "url": "https://decrypt.co/367822/bitcoin-etfs-shed-630m-in-largest-daily-exit-since-january",
+      "source": "Decrypt",
+      "date": "2026-05-14",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Florida\u2019s new history course whitewashes the founders on slavery",
+      "description": "A rival Advanced Placement curriculum is offering a dangerous\u00a0view of the Constitution and America's founders",
+      "url": "https://www.salon.com/2026/05/14/floridas-new-history-course-whitewashes-the-founders-on-slavery/",
+      "source": "Salon",
+      "date": "2026-05-14",
+      "image": "https://www.salon.com/app/uploads/2026/05/George-Washington-1442484467.jpg",
+      "category": "market"
+    },
+    {
       "title": "Customs Duty Raised on Precious Metal Findings: Gold & Silver 5%, Platinum 5.4%, Catalyst 4.35% - Taxscan",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY3MtSGVYM01VQWNtNUZOOExoa0tqOG9paTNQNGtEWUJLSFJYdFprLXpkYmtSTXNvbVRlQ3NweElWNFNUbUloaFdOMnZCNXg5bHhFN08zS0x0YmdXOUlBT0lGWmItOV81M2hReFMtQnhlYUh5aHV2NkNDd0xpMzJRellnM3RXNWkyY00wSUlUYjlrbnRiMnVOS3J4UHJVWDBzM2dKM1ZldnJzTl9hREpVQ2dGQmkyRU4xQz",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY3MtSGVYM01VQWNtNUZOOExoa0tqOG9paTNQNGtEWUJLSFJYdFprLXpkYmtSTXNvbVRlQ3NweElWNFNUbUloaFdOMnZCNXg5bHhFN08zS0x0YmdXOUlBT0lGWmItOV81M2hReFMtQnhlYUh5aHV2NkNDd0xpMzJRellnM3RXNWkyY00wSUlUYjlrbnRiMnVOS3J4UHJVWDBzM2dKM1ZldnJzTl9hREpVQ2dGQmkyRU4xQzQ4?oc=5",
@@ -207,1190 +393,24 @@
       "date": "2026-05-13",
       "image": "",
       "category": "supply_demand"
-    },
-    {
-      "title": "India raises gold, silver import tariffs to 15%; revises customs duty on precious metal findings - Mint",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNS1E2bjhSMVVhT1lhOUR1aDNCanUxWkhHRXQwYWltOEhRaTRMNmN3OGxWb09laGtRcTdpMXUzRHRDMnRhUXZsN0dROWwyTUVvWUJ0OUFQQ3ZsSGdFZ0pVU3NNWm1fbUU1MnpHQXpFR0JfYm1hcUlvMXBXRXdZOFFoUnQtUmRZaU05VUF6N0xYSnBvVndXODIycVFwd2lGRURFcUtmdXc0NVdTQTQtdEhwbFU5VDNSc2QyMz",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNS1E2bjhSMVVhT1lhOUR1aDNCanUxWkhHRXQwYWltOEhRaTRMNmN3OGxWb09laGtRcTdpMXUzRHRDMnRhUXZsN0dROWwyTUVvWUJ0OUFQQ3ZsSGdFZ0pVU3NNWm1fbUU1MnpHQXpFR0JfYm1hcUlvMXBXRXdZOFFoUnQtUmRZaU05VUF6N0xYSnBvVndXODIycVFwd2lGRURFcUtmdXc0NVdTQTQtdEhwbFU5VDNSc2QyMzlUdUpEZWlWU2pUMEUydVJvYWl2eXFlTUYtTDhNdENtTjlkdVI1YtIB5gFBVV95cUxQRTBLVjFOOVZoZ0pBbWxZX05MRU4wTXlZSklITUh1LVhyRFBHUjRLSHlvV21jNTF6eV81X05TeUhFX2dCa1J2VTJocjJZNGpxUTNteFU4NFVHYmxoZlUzZGNmUW9KQU10SklzSVQ3b0N6VmttRHdleXEwcUpFVk9MaG5wNkRHWkxGZk5fYTBwZFVNWGRwZVAzTVI4cDNWVm1qOUdtTm9vVVA3akhkbVM0ektpRmk3Rnd1Sy1Ma242UFNFY0pyOHM0ZlliTGpPYUlSSmMyU3ZWTjNXNTBDSE1aWVZrN29lUQ?oc=5",
-      "source": "Google News - Precious Metals",
-      "date": "2026-05-13",
-      "image": "",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Govt hikes tariff on precious metals to shield foreign exchange reserves - Business Standard",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPNm95OXUxOVUxdHB3VTNLQi1oS2FOTlNOWUNpSXJpc3RTdERUaUVpTUZ4X2owQkQ3NjlpN1I1dVRUaUl2TUNJeHROMXZKZXBGajhsSi1wSkFsU0RxQVRJVHFDd05Fb3VKb2FrQ2ZHb0lCMWViTTgtQ0RmUjlqMVBhNlZnNlJTNm94MV9QY3A1REQ2UDdzc1Uwc2gtemM4OEk4T3E0akN4S1pqY0dOZjFtRU1Ta0paXy1xeX",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNm95OXUxOVUxdHB3VTNLQi1oS2FOTlNOWUNpSXJpc3RTdERUaUVpTUZ4X2owQkQ3NjlpN1I1dVRUaUl2TUNJeHROMXZKZXBGajhsSi1wSkFsU0RxQVRJVHFDd05Fb3VKb2FrQ2ZHb0lCMWViTTgtQ0RmUjlqMVBhNlZnNlJTNm94MV9QY3A1REQ2UDdzc1Uwc2gtemM4OEk4T3E0akN4S1pqY0dOZjFtRU1Ta0paXy1xeXVOOFJxekRGeVJTb0JEUzh2SHHSAdIBQVVfeXFMTXlwV0x4djdVenJUc1JQZHNYN3hpZFU2OFlkNVQtVjQ0ME16dGRvWTVXNHNEdXNOcGZsYTJoczBfSjhBc3BDU05VTnNVc2xQN1ViUzUtMTYwZEwtU2Y1NFR5Y2pPdUxtbVNTSld6aXkwQkI0NXU5MkJwWmRjNlJzOTItS0syTGRIOFhJSGlfSTctdktPX0ZPS05udUNuaFRlNlgtWWphWjFpWUJ0c2lyOWdhb1pxRUltSng0enFWTTlScVNpeWJlbFBtSHJRNUNCekdR?oc=5",
-      "source": "Google News - Precious Metals",
-      "date": "2026-05-13",
-      "image": "",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Gold, silver and precious metal imports to get costlier as government hikes duty to 10% - TradingView",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQlVER0hacTZITENHZkJaRlU0LUljVHU2LTlzSGk5RWVCWVVGVExndUJIV3F5ZHFyVGJqRVhUZUgxQU5oWk9fOEIwdWVHNzI5WERVQUlLcm9xTC1hY2NJMXM2S3RsT0x0ZzdnNGwyVUN0Uy1fR0JBVHh4b2xEN0Y1bVpkaS1xOEp1QUFtZ2xsOFE4R042MngtTldOMGJkVS1mbDRheFYzVzIyZ0lmamRLbnBYd0JiaWlRdV",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQlVER0hacTZITENHZkJaRlU0LUljVHU2LTlzSGk5RWVCWVVGVExndUJIV3F5ZHFyVGJqRVhUZUgxQU5oWk9fOEIwdWVHNzI5WERVQUlLcm9xTC1hY2NJMXM2S3RsT0x0ZzdnNGwyVUN0Uy1fR0JBVHh4b2xEN0Y1bVpkaS1xOEp1QUFtZ2xsOFE4R042MngtTldOMGJkVS1mbDRheFYzVzIyZ0lmamRLbnBYd0JiaWlRdVRlNlFrSDl1U0FnT2JvWDhEai1EYWlMWS0yUEZpUWJNNV9TTW9wRA?oc=5",
-      "source": "Google News - Precious Metals",
-      "date": "2026-05-12",
-      "image": "",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Precious Metal Price Forecasts 2026: Gold, Silver Platinum and Palladium - BullionVault",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQc0N1SjRWTnE4Z0FnZDBmZmFtYjVCV2ZYcW5Dd3hYQkQ0b19sTmJIVVVPbGxJbFNFM3ZEdUxjTEJhQldjZV9mb3ZWZGtZRVJGXzRSSVRNZjQ3NU1GU1VBd2h5WXFEMnI4aEJSNERlYktTdThYa3VlY1loMXF4LXYySmNpbWJFUGw5SFdEMml5QmV4SjBu?oc=5\" target=\"_blank\">Precious Metal Price Foreca",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc0N1SjRWTnE4Z0FnZDBmZmFtYjVCV2ZYcW5Dd3hYQkQ0b19sTmJIVVVPbGxJbFNFM3ZEdUxjTEJhQldjZV9mb3ZWZGtZRVJGXzRSSVRNZjQ3NU1GU1VBd2h5WXFEMnI4aEJSNERlYktTdThYa3VlY1loMXF4LXYySmNpbWJFUGw5SFdEMml5QmV4SjBu?oc=5",
-      "source": "Google News - Precious Metals",
-      "date": "2026-05-12",
-      "image": "",
-      "category": "platinum"
-    },
-    {
-      "title": "Geopolitics and the geometry of global trade: 2026 update - McKinsey & Company",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOV2htWGFCcDktT0xscVlmTnFiUjlhY25kOXYyaVpDTWhpU2NKNWpncFpOMHV6TXZBMi0zY3IyR0F1dUFzTXM3Rm5pekhUZFhPYXlTMnFRSjBUa25VSFhQV3VXdU00VHZXVE9WYmRlZk5YZlhCeG1ERmhrWm0wdk00ZDJnU3N5a1dYRml0VjNweGdFTUc4UHhnSmhnendwU1U?oc=5\" target=\"_blank\">Geopolitics ",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV2htWGFCcDktT0xscVlmTnFiUjlhY25kOXYyaVpDTWhpU2NKNWpncFpOMHV6TXZBMi0zY3IyR0F1dUFzTXM3Rm5pekhUZFhPYXlTMnFRSjBUa25VSFhQV3VXdU00VHZXVE9WYmRlZk5YZlhCeG1ERmhrWm0wdk00ZDJnU3N5a1dYRml0VjNweGdFTUc4UHhnSmhnendwU1U?oc=5",
-      "source": "Google News - Global Economy",
-      "date": "2026-03-19",
-      "image": "",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Explainer: How geopolitics is reshaping the global economy - NewsBytes",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS0dnMWQ0cjNKRHJLWVZhZVNTNE1QMUI2Q0dwNkVWeVpsNzd2ZWtqMGw1X3Q0RldSYzF1RTlsYVRMcU44QlczS1NLb2tMVHptS3JDMUhraUt4ZXVjRnp5MkI1Y0g1dUV6NWtpZUQxRUwyR0RGRzdtQmZseGFYRmlOOVJCdVJBRU52T0o2WWtkY1pnaW1UQzBIZFZ6c0RWVE1tUmp6QThXLW8?oc=5\" target=\"_blank\">",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS0dnMWQ0cjNKRHJLWVZhZVNTNE1QMUI2Q0dwNkVWeVpsNzd2ZWtqMGw1X3Q0RldSYzF1RTlsYVRMcU44QlczS1NLb2tMVHptS3JDMUhraUt4ZXVjRnp5MkI1Y0g1dUV6NWtpZUQxRUwyR0RGRzdtQmZseGFYRmlOOVJCdVJBRU52T0o2WWtkY1pnaW1UQzBIZFZ6c0RWVE1tUmp6QThXLW8?oc=5",
-      "source": "Google News - Global Economy",
-      "date": "2026-03-14",
-      "image": "",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Geopolitical Outlook for Investors in 2026 - Reuters",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQQnN1cW5ZU01zaVFtMVdBMFZub1pydW93aWhrU2NxWlJjTGg4ZXFlTFNQTmFCaHFHUnZVMWFyOFZDdzM4aFZFUHliSndvbXJia1dxNU1id0ZoU0FkUHRVT1V6dWdJZl9wV1YyV1ZwVlVyeWdpei0xcHdlZURCQzh2QlJ5bHdiVHpsVi1zLUVrQjE2X1Jab3djMVBIRkFURGFoOE43YUY2WDVZOUhBTEtrSA?oc=5\" targe",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQnN1cW5ZU01zaVFtMVdBMFZub1pydW93aWhrU2NxWlJjTGg4ZXFlTFNQTmFCaHFHUnZVMWFyOFZDdzM4aFZFUHliSndvbXJia1dxNU1id0ZoU0FkUHRVT1V6dWdJZl9wV1YyV1ZwVlVyeWdpei0xcHdlZURCQzh2QlJ5bHdiVHpsVi1zLUVrQjE2X1Jab3djMVBIRkFURGFoOE43YUY2WDVZOUhBTEtrSA?oc=5",
-      "source": "Google News - Global Economy",
-      "date": "2026-03-01",
-      "image": "",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Geopolitical risk and supply chain diversification - CEPR",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWmNVamkzVlR3TDR6S1Z5TGYzR0VtSGtXRTdtZDNrWjhMWmJqVDd1cVNIemxNWXUyUmlicG1HWjR5RFpNR3liRV9BOE9fM0FRRGpEd0VsenBRNDUxX0RzYWZzTlhMQS1XX2o0TVVMUW94eHFFWDI1QzByWXljRU9fMzQ0ZFZ6STlO?oc=5\" target=\"_blank\">Geopolitical risk and supply chain diversif",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWmNVamkzVlR3TDR6S1Z5TGYzR0VtSGtXRTdtZDNrWjhMWmJqVDd1cVNIemxNWXUyUmlicG1HWjR5RFpNR3liRV9BOE9fM0FRRGpEd0VsenBRNDUxX0RzYWZzTlhMQS1XX2o0TVVMUW94eHFFWDI1QzByWXljRU9fMzQ0ZFZ6STlO?oc=5",
-      "source": "Google News - Global Economy",
-      "date": "2026-02-23",
-      "image": "",
-      "category": "geopolitics"
-    },
-    {
-      "title": "The Changing Character of U.S.-China Economic Relations: From Competition to Geopolitical Rivalry, 2018\u201323 - The National Bureau of Asian Research (NBR)",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaTgyLXNfZk41a0tFOXFaaGQ5RUMzZ2dOejJuVllKTUlfcmhpN3JZckxLM3h3cE9EWjdGSHgzNFZaUFNVWHp3cGp5VkVXR1VDRGtGWWRaek1yZzNLTE4tNWMzVkFDMjMyck1oMUNtSFpmX2Jndl92N1pCTWM4am02X3NrempsWFlJb3ZOX1JfY2hkbWhJSjBKNTNjeHF0TF81dW5JZ0h4VXBXQkpQZzRKNVR5cHFqaTBrT2",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaTgyLXNfZk41a0tFOXFaaGQ5RUMzZ2dOejJuVllKTUlfcmhpN3JZckxLM3h3cE9EWjdGSHgzNFZaUFNVWHp3cGp5VkVXR1VDRGtGWWRaek1yZzNLTE4tNWMzVkFDMjMyck1oMUNtSFpmX2Jndl92N1pCTWM4am02X3NrempsWFlJb3ZOX1JfY2hkbWhJSjBKNTNjeHF0TF81dW5JZ0h4VXBXQkpQZzRKNVR5cHFqaTBrT2JhbURlVU1YaHNuUFo1ekU2MVZrRFlPRFE?oc=5",
-      "source": "Google News - Global Economy",
-      "date": "2026-01-28",
-      "image": "",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Trump tariff threats risk triggering \u2018spiral of escalation\u2019 in world economy, says IMF - The Guardian",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQMXdSNU1pb0IwaC16TVpSMzhmejUxSnF0MXBNMmxRZXF1UGFGLWRDd2dnUW0wTTd0OEQzY1dkblJyekVweTY0MEt4QUZRS2VacVVwS3l2SXA0Zzk2ZEs2NGMxQWJCNGZTWUFhWXB3Q3JkMU4yaG5vOF9sNENVUVo4b0h0M2pZbjRDaWJHblkzWEtDODQtaHlmN3ZjbUdBQ1FaOTBmT3hvUTRGSGtfaDlaU2RhQi1nVFBfVk",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMXdSNU1pb0IwaC16TVpSMzhmejUxSnF0MXBNMmxRZXF1UGFGLWRDd2dnUW0wTTd0OEQzY1dkblJyekVweTY0MEt4QUZRS2VacVVwS3l2SXA0Zzk2ZEs2NGMxQWJCNGZTWUFhWXB3Q3JkMU4yaG5vOF9sNENVUVo4b0h0M2pZbjRDaWJHblkzWEtDODQtaHlmN3ZjbUdBQ1FaOTBmT3hvUTRGSGtfaDlaU2RhQi1nVFBfVkpMZXRYd291MUhmNkE?oc=5",
-      "source": "Google News - Global Economy",
-      "date": "2026-01-19",
-      "image": "",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Geopolitics, Trade Wars, and AI Fears Push World to the Brink, WEF Warns as Global Risks Intensify Heading Into 2026 - Tekedia",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPazl6ZngyUDlqZWxLc3BEVWc4blpka0Vqak1NZVlxS1lrRjhTb0dJd1h4NXFaVElvMFU1eG90X00wX0c0ZDJuWVZtZV9Nckk1Vy1Rbk1NSWNkQk91am5PaUlwY19LVzRaUDFzRFFOZC1tU1NBcXhURWdKVzRrOF9DRGp4aDhRQU03WXdleEFzVWI3dVZGU0h0amdWdzFONkRDSHJmeDgxcHAxU3ZWT1pHX2lNbHZNR1g2RG",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPazl6ZngyUDlqZWxLc3BEVWc4blpka0Vqak1NZVlxS1lrRjhTb0dJd1h4NXFaVElvMFU1eG90X00wX0c0ZDJuWVZtZV9Nckk1Vy1Rbk1NSWNkQk91am5PaUlwY19LVzRaUDFzRFFOZC1tU1NBcXhURWdKVzRrOF9DRGp4aDhRQU03WXdleEFzVWI3dVZGU0h0amdWdzFONkRDSHJmeDgxcHAxU3ZWT1pHX2lNbHZNR1g2RGRTT09KRF8tWWxic190U2kyeUpIbjVMd0Q3SA?oc=5",
-      "source": "Google News - Global Economy",
-      "date": "2026-01-14",
-      "image": "",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Agri Picks Report: Geojit",
-      "description": "<img align=\" left\" alt=\"Agri Picks Report: Geojit\" border=\"0\" height=\"75\" hspace=\"5\" src=\"https://www.moneycontrol.com/news_image_files/2019/200x200/c/commodities_07jan_200.jpg\" title=\"Agri Picks Report: Geojit\" width=\"75\" /> According to Geojit, Madhya Pradesh is preparing to spend 11.6 bln rupees ",
-      "url": "https://www.moneycontrol.com/news/brokerage-recos-commodities/agri-picks-report-geojit_14265141.html",
-      "source": "Moneycontrol Commodities",
-      "date": "2020-09-11",
-      "image": "",
-      "category": "currency"
-    },
-    {
-      "title": "Gold may remain choppy, but buying may emerge at lower levels: Kotak Securities",
-      "description": "<img align=\" left\" alt=\"Ravindra Rao\" border=\"0\" height=\"75\" hspace=\"5\" src=\"https://www.moneycontrol.com/news_image_files/2020/200x200/o/oilcrude-oil_200.jpg\" title=\"Ravindra Rao\" width=\"75\" /> Gold may remain choppy but buying may emerge at lower levels amid increasing global uncertainty and also ",
-      "url": "https://www.moneycontrol.com/news/commodities/gold-may-remain-choppybuying-may-emerge-at-lower-levels-kotak-securities_14259821.html",
-      "source": "Moneycontrol Commodities",
-      "date": "2020-09-09",
-      "image": "",
-      "category": "central_bank"
-    },
-    {
-      "title": "Oil breaks below $40/bbl on demand concerns, improving supply",
-      "description": "<img align=\" left\" alt=\"Ravindra Rao\" border=\"0\" height=\"75\" hspace=\"5\" src=\"https://www.moneycontrol.com/news_image_files/2020/200x200/o/oilcrude-oil_200.jpg\" title=\"Ravindra Rao\" width=\"75\" /> Fed#39;s dovish stance may also limit any major upside in the US dollar.",
-      "url": "https://www.moneycontrol.com/news/commodities/oil-breaks-below-3640bbldemand-concerns-improving-supply_14259281.html",
-      "source": "Moneycontrol Commodities",
-      "date": "2020-09-09",
-      "image": "",
-      "category": "central_bank"
     }
   ],
   "history": [
     {
-      "date": "2024-05-15",
-      "week": "2024-W20",
-      "gold_10g": 64166.1,
-      "silver_kg": 73455.88,
-      "platinum_g": 3168.08,
-      "gold_usd_oz": 2404.57,
-      "silver_usd_oz": 27.53,
-      "platinum_usd_oz": 1187.21
-    },
-    {
-      "date": "2024-05-22",
-      "week": "2024-W21",
-      "gold_10g": 65360.11,
-      "silver_kg": 72306.81,
-      "platinum_g": 3238.1,
-      "gold_usd_oz": 2449.31,
-      "silver_usd_oz": 27.1,
-      "platinum_usd_oz": 1213.45
-    },
-    {
-      "date": "2024-05-29",
-      "week": "2024-W22",
-      "gold_10g": 64976.58,
-      "silver_kg": 72953.09,
-      "platinum_g": 3196.4,
-      "gold_usd_oz": 2434.94,
-      "silver_usd_oz": 27.34,
-      "platinum_usd_oz": 1197.82
-    },
-    {
-      "date": "2024-06-05",
-      "week": "2024-W23",
-      "gold_10g": 65263.24,
-      "silver_kg": 74184.83,
-      "platinum_g": 3130.53,
-      "gold_usd_oz": 2445.68,
-      "silver_usd_oz": 27.8,
-      "platinum_usd_oz": 1173.14
-    },
-    {
-      "date": "2024-06-12",
-      "week": "2024-W24",
-      "gold_10g": 65333.1,
-      "silver_kg": 76014.27,
-      "platinum_g": 3137.69,
-      "gold_usd_oz": 2448.3,
-      "silver_usd_oz": 28.49,
-      "platinum_usd_oz": 1175.82
-    },
-    {
-      "date": "2024-06-19",
-      "week": "2024-W25",
-      "gold_10g": 65419.14,
-      "silver_kg": 74042.81,
-      "platinum_g": 3091.44,
-      "gold_usd_oz": 2451.52,
-      "silver_usd_oz": 27.75,
-      "platinum_usd_oz": 1158.49
-    },
-    {
-      "date": "2024-06-26",
-      "week": "2024-W26",
-      "gold_10g": 66583.1,
-      "silver_kg": 75221.84,
-      "platinum_g": 3041.0,
-      "gold_usd_oz": 2495.14,
-      "silver_usd_oz": 28.19,
-      "platinum_usd_oz": 1139.59
-    },
-    {
-      "date": "2024-07-03",
-      "week": "2024-W27",
-      "gold_10g": 65630.51,
-      "silver_kg": 77062.04,
-      "platinum_g": 3087.26,
-      "gold_usd_oz": 2459.44,
-      "silver_usd_oz": 28.88,
-      "platinum_usd_oz": 1156.92
-    },
-    {
-      "date": "2024-07-10",
-      "week": "2024-W28",
-      "gold_10g": 65925.61,
-      "silver_kg": 78352.14,
-      "platinum_g": 3016.99,
-      "gold_usd_oz": 2470.5,
-      "silver_usd_oz": 29.36,
-      "platinum_usd_oz": 1130.59
-    },
-    {
-      "date": "2024-07-17",
-      "week": "2024-W29",
-      "gold_10g": 66928.15,
-      "silver_kg": 76883.79,
-      "platinum_g": 2994.04,
-      "gold_usd_oz": 2508.07,
-      "silver_usd_oz": 28.81,
-      "platinum_usd_oz": 1121.99
-    },
-    {
-      "date": "2024-07-24",
-      "week": "2024-W30",
-      "gold_10g": 66725.78,
-      "silver_kg": 77225.54,
-      "platinum_g": 2970.98,
-      "gold_usd_oz": 2500.49,
-      "silver_usd_oz": 28.94,
-      "platinum_usd_oz": 1113.35
-    },
-    {
-      "date": "2024-07-31",
-      "week": "2024-W31",
-      "gold_10g": 67833.77,
-      "silver_kg": 78793.44,
-      "platinum_g": 2918.22,
-      "gold_usd_oz": 2542.01,
-      "silver_usd_oz": 29.53,
-      "platinum_usd_oz": 1093.58
-    },
-    {
-      "date": "2024-08-07",
-      "week": "2024-W32",
-      "gold_10g": 67514.75,
-      "silver_kg": 78399.39,
-      "platinum_g": 2927.22,
-      "gold_usd_oz": 2530.05,
-      "silver_usd_oz": 29.38,
-      "platinum_usd_oz": 1096.95
-    },
-    {
-      "date": "2024-08-14",
-      "week": "2024-W33",
-      "gold_10g": 67528.98,
-      "silver_kg": 79237.35,
-      "platinum_g": 2999.49,
-      "gold_usd_oz": 2530.59,
-      "silver_usd_oz": 29.69,
-      "platinum_usd_oz": 1124.03
-    },
-    {
-      "date": "2024-08-21",
-      "week": "2024-W34",
-      "gold_10g": 68841.71,
-      "silver_kg": 78968.97,
-      "platinum_g": 2946.47,
-      "gold_usd_oz": 2579.78,
-      "silver_usd_oz": 29.59,
-      "platinum_usd_oz": 1104.16
-    },
-    {
-      "date": "2024-08-28",
-      "week": "2024-W35",
-      "gold_10g": 68021.19,
-      "silver_kg": 77129.72,
-      "platinum_g": 2880.95,
-      "gold_usd_oz": 2549.03,
-      "silver_usd_oz": 28.9,
-      "platinum_usd_oz": 1079.61
-    },
-    {
-      "date": "2024-09-04",
-      "week": "2024-W36",
-      "gold_10g": 67766.78,
-      "silver_kg": 77843.15,
-      "platinum_g": 2825.19,
-      "gold_usd_oz": 2539.5,
-      "silver_usd_oz": 29.17,
-      "platinum_usd_oz": 1058.72
-    },
-    {
-      "date": "2024-09-11",
-      "week": "2024-W37",
-      "gold_10g": 66980.99,
-      "silver_kg": 75911.81,
-      "platinum_g": 2756.58,
-      "gold_usd_oz": 2510.05,
-      "silver_usd_oz": 28.45,
-      "platinum_usd_oz": 1033.0
-    },
-    {
-      "date": "2024-09-18",
-      "week": "2024-W38",
-      "gold_10g": 66201.55,
-      "silver_kg": 75550.94,
-      "platinum_g": 2727.1,
-      "gold_usd_oz": 2480.84,
-      "silver_usd_oz": 28.31,
-      "platinum_usd_oz": 1021.95
-    },
-    {
-      "date": "2024-09-25",
-      "week": "2024-W39",
-      "gold_10g": 66741.99,
-      "silver_kg": 74735.6,
-      "platinum_g": 2728.51,
-      "gold_usd_oz": 2501.1,
-      "silver_usd_oz": 28.01,
-      "platinum_usd_oz": 1022.48
-    },
-    {
-      "date": "2024-10-02",
-      "week": "2024-W40",
-      "gold_10g": 66693.47,
-      "silver_kg": 74372.3,
-      "platinum_g": 2694.27,
-      "gold_usd_oz": 2499.28,
-      "silver_usd_oz": 27.87,
-      "platinum_usd_oz": 1009.65
-    },
-    {
-      "date": "2024-10-09",
-      "week": "2024-W41",
-      "gold_10g": 65772.84,
-      "silver_kg": 75453.14,
-      "platinum_g": 2707.47,
-      "gold_usd_oz": 2464.78,
-      "silver_usd_oz": 28.28,
-      "platinum_usd_oz": 1014.6
-    },
-    {
-      "date": "2024-10-16",
-      "week": "2024-W42",
-      "gold_10g": 66576.64,
-      "silver_kg": 74456.9,
-      "platinum_g": 2686.88,
-      "gold_usd_oz": 2494.9,
-      "silver_usd_oz": 27.9,
-      "platinum_usd_oz": 1006.88
-    },
-    {
-      "date": "2024-10-23",
-      "week": "2024-W43",
-      "gold_10g": 66005.23,
-      "silver_kg": 74900.51,
-      "platinum_g": 2743.86,
-      "gold_usd_oz": 2473.49,
-      "silver_usd_oz": 28.07,
-      "platinum_usd_oz": 1028.24
-    },
-    {
-      "date": "2024-10-30",
-      "week": "2024-W44",
-      "gold_10g": 65262.29,
-      "silver_kg": 76582.32,
-      "platinum_g": 2793.62,
-      "gold_usd_oz": 2445.65,
-      "silver_usd_oz": 28.7,
-      "platinum_usd_oz": 1046.88
-    },
-    {
-      "date": "2024-11-06",
-      "week": "2024-W45",
-      "gold_10g": 65447.08,
-      "silver_kg": 76625.38,
-      "platinum_g": 2738.57,
-      "gold_usd_oz": 2452.57,
-      "silver_usd_oz": 28.71,
-      "platinum_usd_oz": 1026.25
-    },
-    {
-      "date": "2024-11-13",
-      "week": "2024-W46",
-      "gold_10g": 65814.57,
-      "silver_kg": 75990.29,
-      "platinum_g": 2749.89,
-      "gold_usd_oz": 2466.34,
-      "silver_usd_oz": 28.48,
-      "platinum_usd_oz": 1030.5
-    },
-    {
-      "date": "2024-11-20",
-      "week": "2024-W47",
-      "gold_10g": 64625.55,
-      "silver_kg": 73724.37,
-      "platinum_g": 2755.28,
-      "gold_usd_oz": 2421.78,
-      "silver_usd_oz": 27.63,
-      "platinum_usd_oz": 1032.52
-    },
-    {
-      "date": "2024-11-27",
-      "week": "2024-W48",
-      "gold_10g": 64096.44,
-      "silver_kg": 73863.25,
-      "platinum_g": 2772.9,
-      "gold_usd_oz": 2401.96,
-      "silver_usd_oz": 27.68,
-      "platinum_usd_oz": 1039.12
-    },
-    {
-      "date": "2024-12-04",
-      "week": "2024-W49",
-      "gold_10g": 62906.92,
-      "silver_kg": 74574.2,
-      "platinum_g": 2703.89,
-      "gold_usd_oz": 2357.38,
-      "silver_usd_oz": 27.95,
-      "platinum_usd_oz": 1013.26
-    },
-    {
-      "date": "2024-12-11",
-      "week": "2024-W50",
-      "gold_10g": 63644.36,
-      "silver_kg": 75339.01,
-      "platinum_g": 2641.17,
-      "gold_usd_oz": 2385.01,
-      "silver_usd_oz": 28.23,
-      "platinum_usd_oz": 989.75
-    },
-    {
-      "date": "2024-12-18",
-      "week": "2024-W51",
-      "gold_10g": 64731.12,
-      "silver_kg": 73491.19,
-      "platinum_g": 2704.67,
-      "gold_usd_oz": 2425.74,
-      "silver_usd_oz": 27.54,
-      "platinum_usd_oz": 1013.55
-    },
-    {
-      "date": "2024-12-25",
-      "week": "2024-W52",
-      "gold_10g": 64264.14,
-      "silver_kg": 73863.9,
-      "platinum_g": 2739.27,
-      "gold_usd_oz": 2408.24,
-      "silver_usd_oz": 27.68,
-      "platinum_usd_oz": 1026.52
-    },
-    {
-      "date": "2025-01-01",
-      "week": "2025-W01",
-      "gold_10g": 64746.16,
-      "silver_kg": 73237.17,
-      "platinum_g": 2769.02,
-      "gold_usd_oz": 2426.3,
-      "silver_usd_oz": 27.44,
-      "platinum_usd_oz": 1037.66
-    },
-    {
-      "date": "2025-01-08",
-      "week": "2025-W02",
-      "gold_10g": 64560.31,
-      "silver_kg": 74919.95,
-      "platinum_g": 2758.54,
-      "gold_usd_oz": 2419.34,
-      "silver_usd_oz": 28.08,
-      "platinum_usd_oz": 1033.74
-    },
-    {
-      "date": "2025-01-15",
-      "week": "2025-W03",
-      "gold_10g": 64850.24,
-      "silver_kg": 74784.83,
-      "platinum_g": 2802.6,
-      "gold_usd_oz": 2430.2,
-      "silver_usd_oz": 28.02,
-      "platinum_usd_oz": 1050.25
-    },
-    {
-      "date": "2025-01-22",
-      "week": "2025-W04",
-      "gold_10g": 63848.5,
-      "silver_kg": 76689.52,
-      "platinum_g": 2843.27,
-      "gold_usd_oz": 2392.66,
-      "silver_usd_oz": 28.74,
-      "platinum_usd_oz": 1065.49
-    },
-    {
-      "date": "2025-01-29",
-      "week": "2025-W05",
-      "gold_10g": 63958.34,
-      "silver_kg": 78472.12,
-      "platinum_g": 2799.38,
-      "gold_usd_oz": 2396.78,
-      "silver_usd_oz": 29.41,
-      "platinum_usd_oz": 1049.04
-    },
-    {
-      "date": "2025-02-05",
-      "week": "2025-W06",
-      "gold_10g": 64106.66,
-      "silver_kg": 77274.18,
-      "platinum_g": 2749.75,
-      "gold_usd_oz": 2402.34,
-      "silver_usd_oz": 28.96,
-      "platinum_usd_oz": 1030.44
-    },
-    {
-      "date": "2025-02-12",
-      "week": "2025-W07",
-      "gold_10g": 65317.77,
-      "silver_kg": 75893.97,
-      "platinum_g": 2805.73,
-      "gold_usd_oz": 2447.72,
-      "silver_usd_oz": 28.44,
-      "platinum_usd_oz": 1051.42
-    },
-    {
-      "date": "2025-02-19",
-      "week": "2025-W08",
-      "gold_10g": 65848.42,
-      "silver_kg": 74670.95,
-      "platinum_g": 2854.93,
-      "gold_usd_oz": 2467.61,
-      "silver_usd_oz": 27.98,
-      "platinum_usd_oz": 1069.86
-    },
-    {
-      "date": "2025-02-26",
-      "week": "2025-W09",
-      "gold_10g": 65947.25,
-      "silver_kg": 76418.88,
-      "platinum_g": 2916.05,
-      "gold_usd_oz": 2471.31,
-      "silver_usd_oz": 28.64,
-      "platinum_usd_oz": 1092.76
-    },
-    {
-      "date": "2025-03-05",
-      "week": "2025-W10",
-      "gold_10g": 64893.61,
-      "silver_kg": 76595.97,
-      "platinum_g": 2911.67,
-      "gold_usd_oz": 2431.83,
-      "silver_usd_oz": 28.7,
-      "platinum_usd_oz": 1091.12
-    },
-    {
-      "date": "2025-03-12",
-      "week": "2025-W11",
-      "gold_10g": 64755.34,
-      "silver_kg": 77346.15,
-      "platinum_g": 2962.29,
-      "gold_usd_oz": 2426.65,
-      "silver_usd_oz": 28.98,
-      "platinum_usd_oz": 1110.09
-    },
-    {
-      "date": "2025-03-19",
-      "week": "2025-W12",
-      "gold_10g": 63508.51,
-      "silver_kg": 75207.66,
-      "platinum_g": 2918.85,
-      "gold_usd_oz": 2379.92,
-      "silver_usd_oz": 28.18,
-      "platinum_usd_oz": 1093.81
-    },
-    {
-      "date": "2025-03-26",
-      "week": "2025-W13",
-      "gold_10g": 63137.55,
-      "silver_kg": 76827.13,
-      "platinum_g": 2867.31,
-      "gold_usd_oz": 2366.02,
-      "silver_usd_oz": 28.79,
-      "platinum_usd_oz": 1074.5
-    },
-    {
-      "date": "2025-04-02",
-      "week": "2025-W14",
-      "gold_10g": 62353.58,
-      "silver_kg": 77386.76,
-      "platinum_g": 2934.57,
-      "gold_usd_oz": 2336.64,
-      "silver_usd_oz": 29.0,
-      "platinum_usd_oz": 1099.71
-    },
-    {
-      "date": "2025-04-09",
-      "week": "2025-W15",
-      "gold_10g": 61977.48,
-      "silver_kg": 75801.94,
-      "platinum_g": 2936.12,
-      "gold_usd_oz": 2322.55,
-      "silver_usd_oz": 28.41,
-      "platinum_usd_oz": 1100.29
-    },
-    {
-      "date": "2025-04-16",
-      "week": "2025-W16",
-      "gold_10g": 60803.32,
-      "silver_kg": 77001.11,
-      "platinum_g": 2949.58,
-      "gold_usd_oz": 2278.55,
-      "silver_usd_oz": 28.86,
-      "platinum_usd_oz": 1105.33
-    },
-    {
-      "date": "2025-04-23",
-      "week": "2025-W17",
-      "gold_10g": 62007.85,
-      "silver_kg": 76493.15,
-      "platinum_g": 2991.14,
-      "gold_usd_oz": 2323.69,
-      "silver_usd_oz": 28.67,
-      "platinum_usd_oz": 1120.9
-    },
-    {
-      "date": "2025-04-30",
-      "week": "2025-W18",
-      "gold_10g": 62454.06,
-      "silver_kg": 74955.11,
-      "platinum_g": 2929.45,
-      "gold_usd_oz": 2340.41,
-      "silver_usd_oz": 28.09,
-      "platinum_usd_oz": 1097.79
-    },
-    {
-      "date": "2025-05-07",
-      "week": "2025-W19",
-      "gold_10g": 62595.73,
-      "silver_kg": 75456.94,
-      "platinum_g": 2875.68,
-      "gold_usd_oz": 2345.72,
-      "silver_usd_oz": 28.28,
-      "platinum_usd_oz": 1077.63
-    },
-    {
-      "date": "2025-05-14",
-      "week": "2025-W20",
-      "gold_10g": 62934.49,
-      "silver_kg": 76118.18,
-      "platinum_g": 2828.59,
-      "gold_usd_oz": 2358.41,
-      "silver_usd_oz": 28.52,
-      "platinum_usd_oz": 1059.99
-    },
-    {
-      "date": "2025-05-21",
-      "week": "2025-W21",
-      "gold_10g": 63687.94,
-      "silver_kg": 76675.75,
-      "platinum_g": 2829.1,
-      "gold_usd_oz": 2386.65,
-      "silver_usd_oz": 28.73,
-      "platinum_usd_oz": 1060.18
-    },
-    {
-      "date": "2025-05-28",
-      "week": "2025-W22",
-      "gold_10g": 62712.04,
-      "silver_kg": 78723.43,
-      "platinum_g": 2836.55,
-      "gold_usd_oz": 2350.08,
-      "silver_usd_oz": 29.5,
-      "platinum_usd_oz": 1062.97
-    },
-    {
-      "date": "2025-06-04",
-      "week": "2025-W23",
-      "gold_10g": 63293.12,
-      "silver_kg": 77265.88,
-      "platinum_g": 2784.06,
-      "gold_usd_oz": 2371.85,
-      "silver_usd_oz": 28.95,
-      "platinum_usd_oz": 1043.3
-    },
-    {
-      "date": "2025-06-11",
-      "week": "2025-W24",
-      "gold_10g": 64246.35,
-      "silver_kg": 75226.15,
-      "platinum_g": 2763.46,
-      "gold_usd_oz": 2407.57,
-      "silver_usd_oz": 28.19,
-      "platinum_usd_oz": 1035.58
-    },
-    {
-      "date": "2025-06-18",
-      "week": "2025-W25",
-      "gold_10g": 64185.45,
-      "silver_kg": 75740.23,
-      "platinum_g": 2822.6,
-      "gold_usd_oz": 2405.29,
-      "silver_usd_oz": 28.38,
-      "platinum_usd_oz": 1057.74
-    },
-    {
-      "date": "2025-06-25",
-      "week": "2025-W26",
-      "gold_10g": 64005.01,
-      "silver_kg": 74470.77,
-      "platinum_g": 2832.5,
-      "gold_usd_oz": 2398.53,
-      "silver_usd_oz": 27.91,
-      "platinum_usd_oz": 1061.45
-    },
-    {
-      "date": "2025-07-02",
-      "week": "2025-W27",
-      "gold_10g": 63286.0,
-      "silver_kg": 73067.23,
-      "platinum_g": 2884.77,
-      "gold_usd_oz": 2371.59,
-      "silver_usd_oz": 27.38,
-      "platinum_usd_oz": 1081.04
-    },
-    {
-      "date": "2025-07-09",
-      "week": "2025-W28",
-      "gold_10g": 63298.12,
-      "silver_kg": 74042.14,
-      "platinum_g": 2815.93,
-      "gold_usd_oz": 2372.04,
-      "silver_usd_oz": 27.75,
-      "platinum_usd_oz": 1055.25
-    },
-    {
-      "date": "2025-07-16",
-      "week": "2025-W29",
-      "gold_10g": 62659.89,
-      "silver_kg": 74533.43,
-      "platinum_g": 2797.36,
-      "gold_usd_oz": 2348.12,
-      "silver_usd_oz": 27.93,
-      "platinum_usd_oz": 1048.28
-    },
-    {
-      "date": "2025-07-23",
-      "week": "2025-W30",
-      "gold_10g": 63018.4,
-      "silver_kg": 73688.77,
-      "platinum_g": 2770.22,
-      "gold_usd_oz": 2361.56,
-      "silver_usd_oz": 27.61,
-      "platinum_usd_oz": 1038.11
-    },
-    {
-      "date": "2025-07-30",
-      "week": "2025-W31",
-      "gold_10g": 63570.39,
-      "silver_kg": 74359.17,
-      "platinum_g": 2703.27,
-      "gold_usd_oz": 2382.24,
-      "silver_usd_oz": 27.87,
-      "platinum_usd_oz": 1013.02
-    },
-    {
-      "date": "2025-08-06",
-      "week": "2025-W32",
-      "gold_10g": 63936.62,
-      "silver_kg": 72269.13,
-      "platinum_g": 2705.43,
-      "gold_usd_oz": 2395.97,
-      "silver_usd_oz": 27.08,
-      "platinum_usd_oz": 1013.84
-    },
-    {
-      "date": "2025-08-13",
-      "week": "2025-W33",
-      "gold_10g": 64458.37,
-      "silver_kg": 73459.68,
-      "platinum_g": 2666.62,
-      "gold_usd_oz": 2415.52,
-      "silver_usd_oz": 27.53,
-      "platinum_usd_oz": 999.29
-    },
-    {
-      "date": "2025-08-20",
-      "week": "2025-W34",
-      "gold_10g": 64692.52,
-      "silver_kg": 73405.39,
-      "platinum_g": 2695.48,
-      "gold_usd_oz": 2424.29,
-      "silver_usd_oz": 27.51,
-      "platinum_usd_oz": 1010.11
-    },
-    {
-      "date": "2025-08-27",
-      "week": "2025-W35",
-      "gold_10g": 64923.07,
-      "silver_kg": 74173.28,
-      "platinum_g": 2679.79,
-      "gold_usd_oz": 2432.93,
-      "silver_usd_oz": 27.8,
-      "platinum_usd_oz": 1004.23
-    },
-    {
-      "date": "2025-09-03",
-      "week": "2025-W36",
-      "gold_10g": 64818.32,
-      "silver_kg": 75253.46,
-      "platinum_g": 2707.95,
-      "gold_usd_oz": 2429.01,
-      "silver_usd_oz": 28.2,
-      "platinum_usd_oz": 1014.78
-    },
-    {
-      "date": "2025-09-10",
-      "week": "2025-W37",
-      "gold_10g": 63662.6,
-      "silver_kg": 74346.23,
-      "platinum_g": 2721.07,
-      "gold_usd_oz": 2385.7,
-      "silver_usd_oz": 27.86,
-      "platinum_usd_oz": 1019.7
-    },
-    {
-      "date": "2025-09-17",
-      "week": "2025-W38",
-      "gold_10g": 64071.33,
-      "silver_kg": 73201.39,
-      "platinum_g": 2720.85,
-      "gold_usd_oz": 2401.02,
-      "silver_usd_oz": 27.43,
-      "platinum_usd_oz": 1019.61
-    },
-    {
-      "date": "2025-09-24",
-      "week": "2025-W39",
-      "gold_10g": 63002.15,
-      "silver_kg": 73968.54,
-      "platinum_g": 2771.42,
-      "gold_usd_oz": 2360.95,
-      "silver_usd_oz": 27.72,
-      "platinum_usd_oz": 1038.57
-    },
-    {
-      "date": "2025-10-01",
-      "week": "2025-W40",
-      "gold_10g": 63938.97,
-      "silver_kg": 75793.21,
-      "platinum_g": 2749.53,
-      "gold_usd_oz": 2396.05,
-      "silver_usd_oz": 28.4,
-      "platinum_usd_oz": 1030.36
-    },
-    {
-      "date": "2025-10-08",
-      "week": "2025-W41",
-      "gold_10g": 64415.41,
-      "silver_kg": 77848.87,
-      "platinum_g": 2699.59,
-      "gold_usd_oz": 2413.91,
-      "silver_usd_oz": 29.17,
-      "platinum_usd_oz": 1011.65
-    },
-    {
-      "date": "2025-10-15",
-      "week": "2025-W42",
-      "gold_10g": 65649.07,
-      "silver_kg": 78865.49,
-      "platinum_g": 2755.7,
-      "gold_usd_oz": 2460.14,
-      "silver_usd_oz": 29.55,
-      "platinum_usd_oz": 1032.67
-    },
-    {
-      "date": "2025-10-22",
-      "week": "2025-W43",
-      "gold_10g": 66240.08,
-      "silver_kg": 78676.59,
-      "platinum_g": 2789.18,
-      "gold_usd_oz": 2482.29,
-      "silver_usd_oz": 29.48,
-      "platinum_usd_oz": 1045.22
-    },
-    {
-      "date": "2025-10-29",
-      "week": "2025-W44",
-      "gold_10g": 65287.91,
-      "silver_kg": 77735.01,
-      "platinum_g": 2822.52,
-      "gold_usd_oz": 2446.61,
-      "silver_usd_oz": 29.13,
-      "platinum_usd_oz": 1057.71
-    },
-    {
-      "date": "2025-11-05",
-      "week": "2025-W45",
-      "gold_10g": 65278.15,
-      "silver_kg": 79998.95,
-      "platinum_g": 2871.27,
-      "gold_usd_oz": 2446.24,
-      "silver_usd_oz": 29.98,
-      "platinum_usd_oz": 1075.98
-    },
-    {
-      "date": "2025-11-12",
-      "week": "2025-W46",
-      "gold_10g": 65036.98,
-      "silver_kg": 81093.27,
-      "platinum_g": 2924.37,
-      "gold_usd_oz": 2437.2,
-      "silver_usd_oz": 30.39,
-      "platinum_usd_oz": 1095.88
-    },
-    {
-      "date": "2025-11-19",
-      "week": "2025-W47",
-      "gold_10g": 63878.19,
-      "silver_kg": 80351.8,
-      "platinum_g": 2996.98,
-      "gold_usd_oz": 2393.78,
-      "silver_usd_oz": 30.11,
-      "platinum_usd_oz": 1123.09
-    },
-    {
-      "date": "2025-11-26",
-      "week": "2025-W48",
-      "gold_10g": 63953.49,
-      "silver_kg": 79285.29,
-      "platinum_g": 2926.01,
-      "gold_usd_oz": 2396.6,
-      "silver_usd_oz": 29.71,
-      "platinum_usd_oz": 1096.5
-    },
-    {
-      "date": "2025-12-03",
-      "week": "2025-W49",
-      "gold_10g": 64491.68,
-      "silver_kg": 77667.47,
-      "platinum_g": 2979.76,
-      "gold_usd_oz": 2416.77,
-      "silver_usd_oz": 29.11,
-      "platinum_usd_oz": 1116.64
-    },
-    {
-      "date": "2025-12-10",
-      "week": "2025-W50",
-      "gold_10g": 64849.3,
-      "silver_kg": 75968.01,
-      "platinum_g": 2977.37,
-      "gold_usd_oz": 2430.17,
-      "silver_usd_oz": 28.47,
-      "platinum_usd_oz": 1115.74
-    },
-    {
-      "date": "2025-12-17",
-      "week": "2025-W51",
-      "gold_10g": 65414.29,
-      "silver_kg": 74184.61,
-      "platinum_g": 2993.84,
-      "gold_usd_oz": 2451.34,
-      "silver_usd_oz": 27.8,
-      "platinum_usd_oz": 1121.91
-    },
-    {
-      "date": "2025-12-24",
-      "week": "2025-W52",
-      "gold_10g": 65391.05,
-      "silver_kg": 73233.28,
-      "platinum_g": 3032.2,
-      "gold_usd_oz": 2450.47,
-      "silver_usd_oz": 27.44,
-      "platinum_usd_oz": 1136.29
-    },
-    {
-      "date": "2025-12-31",
-      "week": "2025-W01",
-      "gold_10g": 65884.7,
-      "silver_kg": 73396.0,
-      "platinum_g": 2987.85,
-      "gold_usd_oz": 2468.97,
-      "silver_usd_oz": 27.5,
-      "platinum_usd_oz": 1119.67
-    },
-    {
-      "date": "2026-01-07",
-      "week": "2026-W02",
-      "gold_10g": 65124.2,
-      "silver_kg": 72263.2,
-      "platinum_g": 3055.77,
-      "gold_usd_oz": 2440.47,
-      "silver_usd_oz": 27.08,
-      "platinum_usd_oz": 1145.12
-    },
-    {
-      "date": "2026-01-14",
-      "week": "2026-W03",
-      "gold_10g": 65833.93,
-      "silver_kg": 72148.56,
-      "platinum_g": 3085.9,
-      "gold_usd_oz": 2467.07,
-      "silver_usd_oz": 27.04,
-      "platinum_usd_oz": 1156.41
-    },
-    {
-      "date": "2026-01-21",
-      "week": "2026-W04",
-      "gold_10g": 65872.49,
-      "silver_kg": 70520.25,
-      "platinum_g": 3020.5,
-      "gold_usd_oz": 2468.51,
-      "silver_usd_oz": 26.43,
-      "platinum_usd_oz": 1131.91
-    },
-    {
-      "date": "2026-01-28",
-      "week": "2026-W05",
-      "gold_10g": 65911.6,
-      "silver_kg": 70737.68,
-      "platinum_g": 3046.68,
-      "gold_usd_oz": 2469.98,
-      "silver_usd_oz": 26.51,
-      "platinum_usd_oz": 1141.71
-    },
-    {
-      "date": "2026-02-04",
-      "week": "2026-W06",
-      "gold_10g": 66473.05,
-      "silver_kg": 69812.29,
-      "platinum_g": 3020.04,
-      "gold_usd_oz": 2491.02,
-      "silver_usd_oz": 26.16,
-      "platinum_usd_oz": 1131.73
-    },
-    {
-      "date": "2026-02-11",
-      "week": "2026-W07",
-      "gold_10g": 66963.16,
-      "silver_kg": 68585.12,
-      "platinum_g": 3022.31,
-      "gold_usd_oz": 2509.38,
-      "silver_usd_oz": 25.7,
-      "platinum_usd_oz": 1132.58
-    },
-    {
-      "date": "2026-02-18",
-      "week": "2026-W08",
-      "gold_10g": 66163.58,
-      "silver_kg": 67067.6,
-      "platinum_g": 3022.33,
-      "gold_usd_oz": 2479.42,
-      "silver_usd_oz": 25.13,
-      "platinum_usd_oz": 1132.59
-    },
-    {
-      "date": "2026-02-25",
-      "week": "2026-W09",
-      "gold_10g": 66950.1,
-      "silver_kg": 66137.92,
-      "platinum_g": 3036.69,
-      "gold_usd_oz": 2508.89,
-      "silver_usd_oz": 24.78,
-      "platinum_usd_oz": 1137.97
-    },
-    {
-      "date": "2026-03-04",
-      "week": "2026-W10",
-      "gold_10g": 65619.17,
-      "silver_kg": 65269.57,
-      "platinum_g": 3082.8,
-      "gold_usd_oz": 2459.02,
-      "silver_usd_oz": 24.46,
-      "platinum_usd_oz": 1155.25
-    },
-    {
-      "date": "2026-03-11",
-      "week": "2026-W11",
-      "gold_10g": 66817.42,
-      "silver_kg": 66617.54,
-      "platinum_g": 3077.31,
-      "gold_usd_oz": 2503.92,
-      "silver_usd_oz": 24.96,
-      "platinum_usd_oz": 1153.2
-    },
-    {
-      "date": "2026-03-18",
-      "week": "2026-W12",
-      "gold_10g": 66044.63,
-      "silver_kg": 67074.68,
-      "platinum_g": 3069.47,
-      "gold_usd_oz": 2474.96,
-      "silver_usd_oz": 25.14,
-      "platinum_usd_oz": 1150.25
-    },
-    {
-      "date": "2026-03-25",
-      "week": "2026-W13",
-      "gold_10g": 66398.79,
-      "silver_kg": 66286.81,
-      "platinum_g": 3048.26,
-      "gold_usd_oz": 2488.23,
-      "silver_usd_oz": 24.84,
-      "platinum_usd_oz": 1142.31
-    },
-    {
-      "date": "2026-04-01",
-      "week": "2026-W14",
-      "gold_10g": 67520.81,
-      "silver_kg": 64786.3,
-      "platinum_g": 2984.62,
-      "gold_usd_oz": 2530.28,
-      "silver_usd_oz": 24.28,
-      "platinum_usd_oz": 1118.46
-    },
-    {
-      "date": "2026-04-08",
-      "week": "2026-W15",
-      "gold_10g": 67222.45,
-      "silver_kg": 63414.32,
-      "platinum_g": 2942.66,
-      "gold_usd_oz": 2519.1,
-      "silver_usd_oz": 23.76,
-      "platinum_usd_oz": 1102.73
-    },
-    {
-      "date": "2026-04-15",
-      "week": "2026-W16",
-      "gold_10g": 67755.23,
-      "silver_kg": 62430.52,
-      "platinum_g": 2958.98,
-      "gold_usd_oz": 2539.07,
-      "silver_usd_oz": 23.4,
-      "platinum_usd_oz": 1108.85
-    },
-    {
-      "date": "2026-04-22",
-      "week": "2026-W17",
-      "gold_10g": 67092.05,
-      "silver_kg": 63173.09,
-      "platinum_g": 2901.36,
-      "gold_usd_oz": 2514.21,
-      "silver_usd_oz": 23.67,
-      "platinum_usd_oz": 1087.26
-    },
-    {
-      "date": "2026-04-29",
-      "week": "2026-W18",
-      "gold_10g": 68419.93,
-      "silver_kg": 64200.27,
-      "platinum_g": 2973.12,
-      "gold_usd_oz": 2563.98,
-      "silver_usd_oz": 24.06,
-      "platinum_usd_oz": 1114.15
-    },
-    {
-      "date": "2026-05-06",
-      "week": "2026-W19",
-      "gold_10g": 67514.23,
-      "silver_kg": 64272.54,
-      "platinum_g": 3007.76,
-      "gold_usd_oz": 2530.03,
-      "silver_usd_oz": 24.09,
-      "platinum_usd_oz": 1127.13
-    },
-    {
-      "date": "2026-05-13",
+      "date": "2026-05-15",
       "week": "2026-W20",
-      "gold_10g": 68850.44,
-      "silver_kg": 62635.7,
-      "platinum_g": 3055.82,
-      "gold_usd_oz": 2580.11,
-      "silver_usd_oz": 23.47,
-      "platinum_usd_oz": 1145.14
+      "gold_10g": 140736.5,
+      "silver_kg": 243170.57,
+      "platinum_g": 6206.5,
+      "gold_usd_oz": 4568.35,
+      "silver_usd_oz": 78.93,
+      "platinum_usd_oz": 2014.65
     }
   ],
-  "timestamp": "2026-05-15T15:55:22.706999+05:30",
+  "timestamp": "2026-05-15T16:30:48.957959+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
-    "source": "fallback"
+    "source": "GoldAPI"
   }
 }
