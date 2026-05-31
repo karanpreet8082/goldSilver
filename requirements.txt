@@ -19,3 +19,5 @@ pytz>=2024.1
 
 # For development/testing
 pytest>=7.4.0
+
+yfinance>=0.2.54
