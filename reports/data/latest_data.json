@@ -1,24 +1,24 @@
 {
   "prices": {
     "gold": {
-      "price_per_gram_inr": 13863.98,
-      "price_usd_oz": 4534.51,
-      "change_percent": 1.1,
-      "change_value_usd": 49.45,
-      "price_per_10g_inr": 138639.79
+      "price_per_gram_inr": 13804.39,
+      "price_usd_oz": 4515.02,
+      "change_percent": 0.67,
+      "change_value_usd": 29.96,
+      "price_per_10g_inr": 138043.9
     },
     "silver": {
-      "price_per_gram_inr": 233.31,
-      "price_usd_oz": 76.31,
-      "change_percent": 1.96,
-      "change_value_usd": 1.47,
-      "price_per_kg_inr": 233305.64
+      "price_per_gram_inr": 232.57,
+      "price_usd_oz": 76.07,
+      "change_percent": 1.6,
+      "change_value_usd": 1.2,
+      "price_per_kg_inr": 232571.85
     },
     "platinum": {
-      "price_per_gram_inr": 5987.08,
-      "price_usd_oz": 1958.2,
-      "change_percent": 1.55,
-      "change_value_usd": 29.89
+      "price_per_gram_inr": 5994.23,
+      "price_usd_oz": 1960.54,
+      "change_percent": 1.67,
+      "change_value_usd": 32.23
     },
     "currencies": {
       "USD_INR": 95.0971,
@@ -30,8 +30,8 @@
       "CAD_INR": 68.7465,
       "SGD_INR": 74.3876
     },
-    "gold_silver_ratio": 59.42,
-    "timestamp": "2026-06-02T11:02:58.137944",
+    "gold_silver_ratio": 59.36,
+    "timestamp": "2026-06-02T12:55:12.697146",
     "source": "GoldAPI"
   },
   "currencies": {
@@ -47,14 +47,14 @@
   "analysis": {
     "gold": {
       "metal": "gold",
-      "recommendation": "BUY",
+      "recommendation": "HOLD",
       "confidence": {
-        "buy": 56,
-        "sell": 15,
-        "hold": 29
+        "buy": 25,
+        "sell": 25,
+        "hold": 50
       },
-      "summary": "Gold is showing positive signals. Strong daily gain of 1.1%. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-02T11:03:03.822190",
+      "summary": "Gold is showing positive signals. Positive daily movement of 0.7%. Recommendation: HOLD with moderate confidence based on current indicators.",
+      "timestamp": "2026-06-02T12:55:17.583641",
       "source": "rule-based"
     },
     "silver": {
@@ -65,8 +65,8 @@
         "sell": 15,
         "hold": 29
       },
-      "summary": "Silver is showing positive signals. Strong daily gain of 2.0%. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-02T11:03:03.900664",
+      "summary": "Silver is showing positive signals. Strong daily gain of 1.6%. Recommendation: BUY with moderate confidence based on current indicators.",
+      "timestamp": "2026-06-02T12:55:17.661861",
       "source": "rule-based"
     },
     "platinum": {
@@ -77,8 +77,8 @@
         "sell": 15,
         "hold": 29
       },
-      "summary": "Platinum is showing positive signals. Strong daily gain of 1.6%. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-02T11:03:03.979894",
+      "summary": "Platinum is showing positive signals. Strong daily gain of 1.7%. Recommendation: BUY with moderate confidence based on current indicators.",
+      "timestamp": "2026-06-02T12:55:17.726483",
       "source": "rule-based"
     }
   },
@@ -125,7 +125,7 @@
   },
   "news": [
     {
-      "title": "Central bank hand contains rupee's fall, shrinks dollar-rupee forward premiums",
+      "title": "RBI contains rupee's fall, shrinks dollar-rupee forward premiums",
       "description": "The Indian rupee and dollar-rupee forward premiums declined as importer hedging, foreign portfolio outflows, and likely central bank interventions across FX market segments exerted opposing forces. Despite Reserve Bank of India's dollar-selling interventions and buy/sell swaps, pressure on the rupee",
       "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/central-bank-hand-contains-rupees-fall-shrinks-dollar-rupee-forward-premiums/articleshow/131461572.cms",
       "source": "Economic Times Markets",
@@ -134,84 +134,102 @@
       "category": "geopolitics"
     },
     {
-      "title": "TCS shares soar 7%, up nearly 10% in just two sessions! What are technical charts indicating?",
-      "description": "TCS shares jumped as much as 7% on Tuesday, extending their two-day gain to nearly 9% as investors snapped up the stock after months of underperformance. The rally was driven by optimism around AI-related opportunities and attractive valuations following a sharp sector-wide selloff. Analysts at Nuva",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-shares-soar-7-up-nearly-10-in-just-two-sessions-what-are-technical-charts-indicating/articleshow/131460701.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-06-02",
-      "image": "",
+      "title": "McFarlane Lake Announces Participation in The Mining Investment Event, Qu\u00e9bec City, June 2\u20134, 2026",
+      "description": "TORONTO, June 01, 2026 (GLOBE NEWSWIRE) \u2014 McFarlane Lake Mining Limited (\u201cMcFarlane\u201d or the \u201cCompany\u201d) (CSE: MLM | OTC: MLMLF | FRA: W2Z), a Canadian gold exploration company focused on advancing its flagship Juby Gold Project in the Abitibi Greenstone Belt, \u2026",
+      "url": "https://financialpost.com/globe-newswire/mcfarlane-lake-announces-participation-in-the-mining-investment-event-quebec-city-june-2-4-2026",
+      "source": "Financial Post",
+      "date": "2026-06-01",
+      "image": null,
+      "category": "supply_demand"
+    },
+    {
+      "title": "Osisko Development Announces Closings of Additional US$75 Million Aggregate Principal Amount of 4.125% Convertible Senior Notes Bringing Total Offering to US$300 Million",
+      "description": "Additional Notes represent full exercise of Initial Purchasers\u2019 Option from previously announced Offering and closing of non-brokered private placement notes with Double Zero Capital Opportunistic capital raise with net proceeds expected to be used for the de\u2026",
+      "url": "https://financialpost.com/globe-newswire/osisko-development-announces-closings-of-additional-us75-million-aggregate-principal-amount-of-4-125-convertible-senior-notes-bringing-total-offering-to-us300-million",
+      "source": "Financial Post",
+      "date": "2026-06-01",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "Evolve Royalties Provides Year-To-Date Royalty Payments and Portfolio Updates",
+      "description": "(All amounts in Canadian dollars unless otherwise noted) VANCOUVER, British Columbia, June 01, 2026 (GLOBE NEWSWIRE) \u2014 Evolve Royalties Ltd. (\u201cEvolve\u201d or the \u201cCompany\u201d) (CSE: EVR; OTCQX: EVRYF) is pleased to provide an update on its year-to-date royalty payme\u2026",
+      "url": "https://financialpost.com/globe-newswire/evolve-royalties-provides-year-to-date-royalty-payments-and-portfolio-updates",
+      "source": "Financial Post",
+      "date": "2026-06-01",
+      "image": null,
+      "category": "currency"
+    },
+    {
+      "title": "New inflation warning from bond market...",
+      "description": "The world is getting more uptight about lending money to President Donald Trump\u2019s government. The energy price spike triggered by the Iran war has seeped into the price of bonds that help fund the U.S. government. That's caused interest rates to climb in ways\u2026",
+      "url": "https://apnews.com/article/trump-interest-rates-debt-deficit-8deb3ed0c013a9c43a58e857ad1d615d",
+      "source": "Associated Press",
+      "date": "2026-06-01",
+      "image": "https://dims.apnews.com/dims4/default/7a5fcfe/2147483647/strip/true/crop/5616x3742+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F92%2F5e%2Feb8ef6f4667bbd9cc64dbacc466a%2F76445f9a73da40bf96d5d5d46c3ea69d",
       "category": "geopolitics"
     },
     {
-      "title": "Kamada Announces FDA Approval of its New In-House Rabies Virus Neutralization Testing Laboratory",
-      "description": "REHOVOT, Israel and HOBOKEN, N.J., June 01, 2026 (GLOBE NEWSWIRE) -- Kamada Ltd. (NASDAQ: KMDA; TASE: KMDA.TA), a global biopharmaceutical company with a portfolio of marketed products indicated for rare and serious conditions and a leader in the specialty pl\u2026",
-      "url": "https://www.globenewswire.com/news-release/2026/06/01/3304178/0/en/Kamada-Announces-FDA-Approval-of-its-New-In-House-Rabies-Virus-Neutralization-Testing-Laboratory.html",
-      "source": "GlobeNewswire",
+      "title": "Here Are Monday\u2019s Top Wall Street Analyst Research Calls: Accenture, Caesars Entertainment, Carnival, Dell Technologies, IBM, Kohls, Microsoft, Zscaler and More",
+      "description": "Pre-Market Stock Futures: Futures are trading higher to start a new trading week and a new month after what was an incredible May, and anybody who followed \u201c...",
+      "url": "https://247wallst.com/investing/2026/06/01/here-are-mondays-top-wall-street-analyst-research-calls-accenture-caesars-entertainment-carnival-dell-technologies-ibm-kohls-microsoft-zscaler-and-more/",
+      "source": "24/7 Wall St.",
       "date": "2026-06-01",
-      "image": "https://ml.globenewswire.com/Resource/Download/6334b598-e958-4ac2-b196-aac2c24ea458",
+      "image": "https://s.yimg.com/ny/api/res/1.2/SRuoWif2rhoFOIsT_gjjUQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/24_7_wall_st__718/4db12ae34e5f05cd9360d5607213d6b9",
       "category": "market"
     },
     {
-      "title": "Kinross releases 2025 Sustainability Report",
-      "description": "Strong ongoing commitment to Sustainability, contributing $4.9 billion in economic benefits through payments to governments, wages, procurement and community support Strong ongoing commitment to Sustainability, contributing $4.9 billion in economic benefits t\u2026",
-      "url": "https://www.globenewswire.com/news-release/2026/06/01/3304183/0/en/Kinross-releases-2025-Sustainability-Report.html",
-      "source": "GlobeNewswire",
+      "title": "Morgan Stanley Details Opportunities Outside of Tech Trade, Names Energy, Infrastructure, Gold and More",
+      "description": "Financial services titan Morgan Stanley is revealing alternative trading opportunities outside of the technology sector. In a new interview with CNBC Television, Kathleen Entwistle, Morgan Stanley\u2019s private wealth managing director and advisor, says the bank \u2026",
+      "url": "https://dailyhodl.com/2026/06/01/morgan-stanley-details-opportunities-outside-of-tech-trade-names-energy-infrastructure-gold-and-more/",
+      "source": "The Daily Hodl",
       "date": "2026-06-01",
-      "image": "https://ml.globenewswire.com/Resource/Download/cc2b2d41-56bc-4e7d-9e0b-4ba2abe36e97",
-      "category": "market"
-    },
-    {
-      "title": "OTC Markets Group Welcomes Unico Silver Ltd. to OTCQX",
-      "description": "NEW YORK, June 01, 2026 (GLOBE NEWSWIRE) -- OTC Markets Group Inc. (OTCQX: OTCM), operator of regulated markets for trading 12,000 U.S. and international securities, today announced Unico Silver Ltd. (ASX: USL; OTCQX: USLRF), explores zinc, lead, gold, and si\u2026",
-      "url": "https://www.globenewswire.com/news-release/2026/06/01/3304188/0/en/OTC-Markets-Group-Welcomes-Unico-Silver-Ltd-to-OTCQX.html",
-      "source": "GlobeNewswire",
-      "date": "2026-06-01",
-      "image": "https://ml.globenewswire.com/Resource/Download/dd55e257-b38b-4126-98ac-4a9b42df33ee",
+      "image": "https://dailyhodl.com/wp-content/uploads/2025/08/fargo-wells-bank.jpg?resize=1365,800",
       "category": "metals"
     },
     {
-      "title": "Trilogy Metals Provides Update on U.S. Department of War Strategic Equity Investment and Extends Closing Deadline to July 31, 2026",
-      "description": "VANCOUVER, BC, June 1, 2026 /PRNewswire/ - Trilogy Metals Inc. (NYSE American: TMQ) (TSX: TMQ) (\"Trilogy Metals\", \"Trilogy\" or the \"Company\") is pleased to provide the following update on the previously announced proposed strategic equity investment of US$35.\u2026",
-      "url": "https://www.prnewswire.com/news-releases/trilogy-metals-provides-update-on-us-department-of-war-strategic-equity-investment-and-extends-closing-deadline-to-july-31-2026-302786191.html",
-      "source": "PRNewswire",
+      "title": "Gold declines \u20b92,500 to \u20b91.6 lakh/10g amid fresh US-Iran tensions",
+      "description": "Silver prices also weakened sharply, falling \u20b95,000, or nearly 2%, to \u20b92,69,700 per kilogram (inclusive of all taxes)",
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-declines-2500-to-16-lakh10g-amid-fresh-us-iran-tensions/article71048357.ece",
+      "source": "BusinessLine",
       "date": "2026-06-01",
-      "image": "https://mma.prnewswire.com/media/2991174/Trilogy_Metals_Inc__Trilogy_Metals_Provides_Update_on_U_S__Depar.jpg?p=facebook",
+      "image": "https://bl-i.thgim.com/public/incoming/8thr57/article71048610.ece/alternates/LANDSCAPE_1200/iStock-184997181.jpg",
       "category": "geopolitics"
     },
     {
-      "title": "McEwen to Host Live Bullpen Q&A Moderated by Anthony Vaccaro of the Northern Miner Group at the 2026 Annual Meeting",
-      "description": "TORONTO, June 01, 2026 (GLOBE NEWSWIRE) -- McEwen Inc. (NYSE/TSX: MUX) (\u201cMcEwen\u201d or the \u201cCompany\u201d) invites shareholders and interested stakeholders to attend its 2026 Annual Meeting on Thursday, June 4, 2026, at 4:30 p.m. EDT, in Toronto and online via live w\u2026",
-      "url": "https://www.globenewswire.com/news-release/2026/06/01/3304128/37420/en/McEwen-to-Host-Live-Bullpen-Q-A-Moderated-by-Anthony-Vaccaro-of-the-Northern-Miner-Group-at-the-2026-Annual-Meeting.html",
-      "source": "GlobeNewswire",
+      "title": "Psychodrama",
+      "description": "\u201cA sane society cannot debate its way out of psychosis. It must diagnose the patient with lethal precision and restore the ancient boundary between the mad and the free.\u201d \u2014LHGrey on X",
+      "url": "https://www.kunstler.com/p/psychodrama",
+      "source": "Kunstler.com",
       "date": "2026-06-01",
-      "image": "https://ml.globenewswire.com/Resource/Download/3c7c9746-356d-4d7d-a994-ede769eddafc",
+      "image": "https://substackcdn.com/image/fetch/$s_!EQLa!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F871133ad-5c5d-4ec9-bbad-811879f76a6a_700x344.heic",
       "category": "market"
     },
     {
-      "title": "Toobit Kicks Off Win the World Tournament, Offering 1 Million USDT and Gold World Cup Trophy",
-      "description": "GEORGE TOWN, Cayman Islands, June 01, 2026 (GLOBE NEWSWIRE) -- Toobit, the award-winning global cryptocurrency exchange, today announces the launch of Win the World, a premier interactive trading tournament celebrating the 2026 World Cup.",
-      "url": "https://www.globenewswire.com/news-release/2026/06/01/3304119/0/en/Toobit-Kicks-Off-Win-the-World-Tournament-Offering-1-Million-USDT-and-Gold-World-Cup-Trophy.html",
+      "title": "Abaxx Exchange Reports Record May 2026 Trading Volume, Including Record LNG Activity",
+      "description": "Abaxx Exchange reports May 2026 trading volume, including record LNG futures activity across its physically deliverable GOM and NPA futures contracts...",
+      "url": "https://www.globenewswire.com/news-release/2026/06/01/3304380/0/en/Abaxx-Exchange-Reports-Record-May-2026-Trading-Volume-Including-Record-LNG-Activity.html",
       "source": "GlobeNewswire",
       "date": "2026-06-01",
-      "image": "https://ml.globenewswire.com/Resource/Download/3fc5c4f6-5f03-4e67-be4e-5f9551adf0cb",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Georgia Toffolo and James Watt enjoy a \u00a32,000-a-night luxury stay in the South of France after saying they need 'time together more than ever' after BrewDog collapse",
-      "description": "Georgia Toffolo and James Watt enjoyed a \u00a32,000-a-night luxury stay in the South of France at the weekend, posting pictures of their trip on Instagram.",
-      "url": "https://www.dailymail.com/tvshowbiz/article-15863587/Georgia-Toffolo-James-Watt-enjoy-2-000-night-luxury-stay-South-France-saying-need-time-BrewDog-collapse.html",
-      "source": "Dailymail.com",
-      "date": "2026-06-01",
-      "image": "https://i.dailymail.com/1s/2026/06/01/10/109005279-0-image-m-25_1780305658235.jpg",
+      "image": "https://ml.globenewswire.com/Resource/Download/f22dee8d-4a5d-452c-8ccc-ca30385a94b5",
       "category": "market"
     },
     {
-      "title": "Trump faces new inflation warning from bond markets",
-      "description": "The world is getting more uptight about lending money to President Donald Trump\u2019s government \u2014 causing interest rates to climb in ways that are worsening affordability pressures, hampering economic growth and creating a new risk for Republicans in November\u2019s \u2026",
-      "url": "https://www.hurriyetdailynews.com/trump-faces-new-inflation-warning-from-bond-markets-222751",
-      "source": "Hurriyet Daily News",
+      "title": "Is Triple Flag Precious Metals (TFPM) The Best Mining Stock to Buy in 2026?",
+      "description": "We just covered the Top 10 Stock Picks of Billionaire Paul Singer. Triple Flag Precious Metals Corp. (NYSE:TFPM) ranks #1 (see Top 5 Stock Picks of...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/triple-flag-precious-metals-tfpm-113845124.html",
+      "source": "Yahoo Entertainment",
       "date": "2026-06-01",
-      "image": "https://image.hurimg.com/i/hurriyet/75/200x200/6a1d4bb3cd2f8ff319452087.jpg",
+      "image": "https://s.yimg.com/ny/api/res/1.2/lMnl7C1cbrApslGAFxHfsw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NDE-/https://media.zenfs.com/en/insidermonkey.com/01f87fe9ebf10f123978e7863785cdc1",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Silver prices today, Monday, June 1, 2026: Price moving upward this morning",
+      "description": "Silver July futures opened at $74.10 per ounce on Monday, June 1, 2026, 2.3% lower than the previous closing price on Friday. However, the price of silver...",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-june-1-2026-price-moving-upward-this-morning-113559041.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-06-01",
+      "image": "https://s.yimg.com/ny/api/res/1.2/1sy6upWiMhjtGJqlHL9MIw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NTQ-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/21b3a190-027e-11ef-bbb5-a0f6297c401d",
       "category": "geopolitics"
     },
     {
@@ -224,175 +242,157 @@
       "category": "metals"
     },
     {
-      "title": "Yukon Metals Breaks Ground on 5,000-Metre Drill Program at AZ and Birch",
-      "description": "VANCOUVER, British Columbia, June 01, 2026 (GLOBE NEWSWIRE) -- Yukon Metals Corp. (CSE: YMC, FSE: E770, OTCQB: YMMCF) (\u201cYukon Metals\u201d or the \u201cCompany\u201d) is pleased to announce the start of its 2026 exploration programs at the AZ (\u201cAZ\u201d) and the Birch (\u201cBirch\u201d) \u2026",
-      "url": "https://www.globenewswire.com/news-release/2026/06/01/3304182/0/en/Yukon-Metals-Breaks-Ground-on-5-000-Metre-Drill-Program-at-AZ-and-Birch.html",
-      "source": "GlobeNewswire",
+      "title": "Russia bans aviation fuel exports until November 30 amid domestic supply concerns",
+      "description": "The ban exacerbates Central Asia's energy dependency, disrupts aviation markets, and heightens investor uncertainty in regional equities.\nThe post Russia bans aviation fuel exports until November 30 amid domestic supply concerns appeared first on Crypto Brief\u2026",
+      "url": "https://cryptobriefing.com/russia-bans-aviation-fuel-exports/",
+      "source": "Crypto Briefing",
       "date": "2026-06-01",
-      "image": "https://ml.globenewswire.com/Resource/Download/46b63a5c-3e42-43da-8aa1-086aa1a26972",
-      "category": "market"
-    },
-    {
-      "title": "Thesis Gold & Silver Strengthens Team with Appointment of Dimitry Demianyuk as EVP Project Development",
-      "description": "VANCOUVER, BC, June 1, 2026 /PRNewswire/ - Thesis Gold & Silver Inc. (\"Thesis\", or the \"Company\") (TSXV: TAU) (OTCQX: THSGF) (WKN: A3EP87) is pleased to announce the appointment of Mr. Dimitry Demianyuk as Executive Vice President, Project Development, effect\u2026",
-      "url": "https://www.prnewswire.com/news-releases/thesis-gold--silver-strengthens-team-with-appointment-of-dimitry-demianyuk-as-evp-project-development-302786534.html",
-      "source": "PRNewswire",
-      "date": "2026-06-01",
-      "image": "https://mmx.prnewswire.com/media/MS1795049/Thesis_Gold_-_Silver_Inc.-Thesis_Gold_&_Silver_Strengthens_Team.jpg?id=OA2643750&p=facebook",
-      "category": "metals"
-    },
-    {
-      "title": "Pan American Silver Provides Exploration Update for its Timmins Operations; Advances Plans for Potential Production Growth and Mine Life Extension",
-      "description": "(All amounts are in United States Dollars unless otherwise indicated) VANCOUVER, British Columbia \u2014 Pan American Silver Corp. (NYSE: PAAS) (TSX: PAAS) (\u201cPan American\u201d or the \u201cCompany\u201d) is pleased to provide an update on an extensive exploration program conduc\u2026",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/pan-american-silver-provides-exploration-update-for-its-timmins-operations-advances-plans-for-potential-production-growth-and-mine-life-extension",
-      "source": "Financial Post",
-      "date": "2026-06-01",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/bw20260601510653_timmins_district_map.jpeg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Exploration Expands the High\u2013Grade Silver-Lead Cate-8 Vein Discovered in the Upper Area of the Mine",
-      "description": "KELLOGG, Idaho and VANCOUVER, British Columbia, June 01, 2026 (GLOBE NEWSWIRE) \u2014 Bunker Hill Mining Corp.\u202f(\u201cBunker Hill\u201d\u202for the \u201cCompany\u201d) (TSX: BNKR | OTCQB: BHLL)\u202freports\u00a0further\u00a0successful results from the\u00a0ongoing\u00a0exploration\u00a0drill program\u00a0testing\u00a0the\u00a0high\u2026",
-      "url": "https://financialpost.com/globe-newswire/exploration-expands-the-high-grade-silver-lead-cate-8-vein-discovered-in-the-upper-area-of-the-mine",
-      "source": "Financial Post",
-      "date": "2026-06-01",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/figure-1.png",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/01090051/russia-bans-jet-fuel-exports-as-ukraine-attacks-strain-domes-1-800x420.jpeg",
       "category": "supply_demand"
     },
     {
-      "title": "'He's a gentle giant... until you get a ball in his hand': New Zealand coach reveals the 'hostile' and 'nasty' bowler England should fear most this summer - and why he poses unique threat to Ben Stokes' side",
-      "description": "The man who helped New Zealand's bowling unit deliver a champion punch has warned England of the dangers of getting into a skirmish with a bloke he simply refers to as 'Nasty'.",
-      "url": "https://www.dailymail.com/sport/cricket/article-15863827/new-zealand-orourke-england-cricket.html",
-      "source": "Dailymail.com",
+      "title": "Rescuers dig for bodies after a massive mining explosives blast in Myanmar kills at least 38",
+      "description": "More than a dozen rescue and charity groups used excavation machinery to recover bodies following a massive blast from stored mining explosives in northeastern Myanmar",
+      "url": "https://abcnews.com/International/wireStory/rescuers-dig-bodies-after-massive-mining-explosives-blast-133479469",
+      "source": "Abcnews.com",
       "date": "2026-06-01",
-      "image": "https://i.dailymail.com/1s/2026/06/01/11/109006525-0-image-m-19_1780308566544.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Is Xiaomi\u2019s Smart Band 10 Pro the New Budget Smart Band King?",
-      "description": "It\u2019s hard to be too cynical about improved sleep and health tracking at a sub-$100 price point.",
-      "url": "https://gizmodo.com/is-xiaomis-smart-band-10-pro-the-new-budget-smart-band-king-2000764788",
-      "source": "Gizmodo.com",
-      "date": "2026-06-01",
-      "image": "https://gizmodo.com/app/uploads/2026/05/xiaomi-smart-band-10-pro-1200x675.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Invivyd Announces Completion of Enrollment in Upsized DECLARATION Clinical Trial, a Phase 3 Pivotal Study of VYD2311, an Investigational Antibody to Prevent COVID",
-      "description": "NEW HAVEN, Conn., June 01, 2026 (GLOBE NEWSWIRE) -- Invivyd, Inc. (Nasdaq: IVVD) today announced the completion of enrollment in the DECLARATION trial evaluating VYD2311, an investigational monoclonal antibody candidate for the prevention of symptomatic COVID\u2026",
-      "url": "https://www.globenewswire.com/news-release/2026/06/01/3304208/0/en/Invivyd-Announces-Completion-of-Enrollment-in-Upsized-DECLARATION-Clinical-Trial-a-Phase-3-Pivotal-Study-of-VYD2311-an-Investigational-Antibody-to-Prevent-COVID.html",
-      "source": "GlobeNewswire",
-      "date": "2026-06-01",
-      "image": "https://ml.globenewswire.com/Resource/Download/7bf12f50-1073-4ce7-81ac-89426c07add3",
-      "category": "market"
-    },
-    {
-      "title": "What Apple is Secretly Building for WWDC 2026",
-      "description": "Apple has once again captured global attention with its new announcements at WWDC 2026. This year\u2019s event highlights the company\u2019s commitment to redefining technology with a focus on artificial intelligence, innovative hardware and seamless software integrati\u2026",
-      "url": "https://www.geeky-gadgets.com/tim-cook-final-wwdc-announcements/",
-      "source": "Geeky Gadgets",
-      "date": "2026-06-01",
-      "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/05/WDDC.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "New \u2018Jurassic\u2019 Movie Will \u201cCorrect\u201d \u2018Dominion\u2019 and \u2018Rebirth\u2019",
-      "description": "It\u2019s no mystery that many longtime fans weren\u2019t impressed with the last two films in the long-running Jurassic Park series. Jurassic World Dominion (2022) might have grossed $1.004 billion worldwide; however, it received mixed to negative reviews from fans, a\u2026",
-      "url": "https://insidethemagic.net/2026/06/new-jurassic-movie-will-correct-dominion-and-rebirth-official-trailer-confirms-the-end-of-oak-street-dr1/",
-      "source": "Inside the Magic",
-      "date": "2026-06-01",
-      "image": "https://insidethemagic.net/wp-content/uploads/2022/02/Untitled-design-10.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Jimmy Kimmel Would Stop If He Could",
-      "description": "Donald Trump wants him out, late-night TV is crumbling, and he\u2019s tired. What does the end look like for Jimmy Kimmel? \u2018I know I could go out in a blaze of glory and get a lot of applause,\u2019 he says, \u2018but it would be a very selfish thing to do.\u2019",
-      "url": "http://www.vulture.com/article/jimmy-kimmel-profile-donald-trump-late-night-suspension.html",
-      "source": "Vulture",
-      "date": "2026-06-01",
-      "image": "https://pyxis.nymag.com/v1/imgs/a49/4fd/249102c5b29f2911c09f5124fbd6795890-Jimmy-Kimmel-Dan-Winters-01.1x.rsocial.w1200.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Identiv Launches ID-Pixels\u2122 3.0 to Enable Scalable, Battery-Free Intelligence Across Physical Supply Chains",
-      "description": "Built on Wiliot's Gen3 IC, the new BLE-enabled smart label delivers real-time sensing and continuous visibility to power Physical AI supply chain applications SANTA ANA, Calif., June 1, 2026 /PRNewswire/ -- Identiv, Inc. (NASDAQ: INVE), a global leader in RFI\u2026",
-      "url": "https://www.prnewswire.com/news-releases/identiv-launches-id-pixels-3-0-to-enable-scalable-battery-free-intelligence-across-physical-supply-chains-302786155.html",
-      "source": "PRNewswire",
-      "date": "2026-06-01",
-      "image": "https://mma.prnewswire.com/media/1424621/IdentivLogo_CMYK__1_Logo.jpg?p=facebook",
+      "image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
       "category": "supply_demand"
     },
     {
-      "title": "New study shows wetlands loss has increased residential flood insurance claim payments by $10 billion",
-      "description": "EDF-led research finds wetlands act as natural infrastructure, reducing riverine flood damage and helping guide smarter land use and insurance policy.",
-      "url": "https://www.edf.org/media/new-study-shows-wetlands-loss-has-increased-residential-flood-insurance-claim-payments-10",
-      "source": "Environmental Defense Fund",
+      "title": "US bombs Iranian military sites and Tehran targets American troops in Kuwait",
+      "description": "The United States says it has bombed radar and drone sites in Iran after Tehran shot down an American drone over the weekend",
+      "url": "https://abcnews.com/International/wireStory/us-bombs-iranian-military-sites-tehran-targets-american-133475287",
+      "source": "Abcnews.com",
       "date": "2026-06-01",
-      "image": "https://www.edf.org/sites/default/files/styles/share_1200_630_focal_point/public/2026-05/Wetlands%20infographic%2002%20051526.png?h=ecc7bca9&itok=xxldYDJg",
+      "image": "https://i.abcnewsfe.com/a/265850ad-f951-488f-a3ac-fd1c7a55618c/wirestory_88daa9f90b48baaa7beb18e35515c59d_16x9.jpg?w=1600",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Drugmaker Apotex Health seeks biggest Canada IPO since 2021",
+      "description": "Canadian generic drug manufacturer Apotex Health Corp. and its shareholders may raise as much as $1.15 billion through an IPO. Read here now",
+      "url": "https://financialpost.com/investing/drugmaker-apotex-health-seeks-ipo",
+      "source": "Financial Post",
+      "date": "2026-06-01",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/0602-mg-apotex.jpg",
       "category": "market"
     },
     {
-      "title": "New research shows\u00a0what\u2019s\u00a0at stake when wetlands disappear",
-      "description": "From a North Carolina field visit to a national map of flood patterns, new research shows wetlands reduce flood damages, and losing them has increased insured losses.\nThe post New research shows\u00a0what\u2019s\u00a0at stake when wetlands disappear\u00a0 appeared first on Marke\u2026",
-      "url": "https://blogs.edf.org/markets/2026/06/01/new-research-shows-whats-at-stake-when-wetlands-disappear/",
-      "source": "Environmental Defense Fund",
+      "title": "Best cricket betting sites in India \u2014 where to bet online and on live matches | June 2026",
+      "description": "Explore ten of India's finest cricket betting sites, ranked and reviewed to help you bet with confidence today.",
+      "url": "https://www.sportingnews.com/in/betting/reviews/best-cricket-betting-sites-india-where-bet-online-live-matches/27865ce53ff6d73285ab66dd",
+      "source": "Sporting News",
       "date": "2026-06-01",
-      "image": "https://blogs.edf.org/markets/wp-content/blogs.dir/32/files//55180672595_61cc8ca177_k-copy.jpg",
+      "image": "https://s.yimg.com/os/en/the_sporting_news_articles_584/002ef127f6d59c668a17ea2dba1bb8a3",
       "category": "market"
     },
     {
-      "title": "Bond Trader Bets on Fed Hike Poised for Gut Check From Jobs Data",
-      "description": "(Bloomberg) -- Bond traders are looking to a key jobs report this week to confirm their wagers that the US economy is strong enough to push the Federal...",
-      "url": "https://finance.yahoo.com/news/bond-trader-bets-on-fed-hike-poised-for-gut-check-from-jobs-data-190000432.html",
-      "source": "Yahoo Entertainment",
+      "title": "Bj\u00f6rk Opens a Major Exhibition at the National Gallery of Iceland",
+      "description": "Bj\u00f6rk has opened a major new exhibition at the National Gallery of Iceland in Reykjav\u00edk, running until 20 September 2026.\nThe post Bj\u00f6rk Opens a Major Exhibition at the National Gallery of Iceland appeared first on Fucking Young!.",
+      "url": "https://fuckingyoung.es/bjork-opens-a-major-exhibition-at-the-national-gallery-of-iceland/",
+      "source": "Fuckingyoung.es",
       "date": "2026-06-01",
-      "image": "https://s.yimg.com/ny/api/res/1.2/NTuQzocIbbeSciBCWsOABQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/a991cf8a-400c-4b53-8e5e-82d5edbccd6c/main/1280x720/1m32s694ms/match/image.jpg",
+      "image": "https://fuckingyoung.es/wp-content/uploads/2026/06/DSCF1434-copy.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Trump flips script on left, maneuvers to use foreign influence law against the them",
+      "description": "Trump aims to use FARA and other legal tools against alleged foreign influence on the left after years of probes targeting his allies, experts say.",
+      "url": "https://www.foxnews.com/politics/trump-flips-script-left-maneuvers-use-foreign-influence-law-against-them",
+      "source": "Fox News",
+      "date": "2026-06-01",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/05/donald-trump-may21.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Patient First Coalition Supports DEA's Medical Cannabis Review Process Providing Experts Advocating for Schedule III Transition Moritorium - Supporting Medical",
+      "description": "Landmark Committee Has Been Building a Comprehensive Patient Focused Blueprint WASHINGTON, June 1, 2026 /PRNewswire/ -- The Patient First Coalition (PFC), a national coalition of more than 1,100 Ambassadors representing over 50 organizations committed to putt\u2026",
+      "url": "https://www.prnewswire.com/news-releases/patient-first-coalition-supports-deas-medical-cannabis-review-process-providing-experts-advocating-for-schedule-iii-transition-moritorium--supporting-medical-302787023.html",
+      "source": "PRNewswire",
+      "date": "2026-06-01",
+      "image": "https://mmx.prnewswire.com/media/MS1851326/2.jpg?id=OA2643681&p=facebook",
+      "category": "market"
+    },
+    {
+      "title": "SoftBank\u2019s Masayoshi Son identifies next trillion-dollar opportunity",
+      "description": "Son's ambitious project could redefine US tech manufacturing, boosting AI and robotics sectors while posing significant execution challenges.\nThe post SoftBank\u2019s Masayoshi Son identifies next trillion-dollar opportunity appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/softbank-son-trillion-dollar-ai-arizona/",
+      "source": "Crypto Briefing",
+      "date": "2026-06-01",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/01085507/softbank-s-son-pitches-1-trillion-arizona-ai-hub-bloomberg-n-800x420.jpeg",
+      "category": "currency"
+    },
+    {
+      "title": "Bitcoin falls below $72K amid US-Iran tensions, impacting market confidence",
+      "description": "Geopolitical tensions and leveraged liquidations highlight Bitcoin's vulnerability, shaking investor confidence and signaling potential volatility.\nThe post Bitcoin falls below $72K amid US-Iran tensions, impacting market confidence appeared first on Crypto B\u2026",
+      "url": "https://cryptobriefing.com/bitcoin-falls-below-72k-amid-us-iran-tensions-impacting-market-confidence/",
+      "source": "Crypto Briefing",
+      "date": "2026-06-01",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/01083010/BTCfullsize-1-457x457.png",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Exclusive: Economists have been teaching a broken proof for 50 years. AI just found it",
+      "description": "Axiom Math, a $1.6B AI unicorn, is building a formally verified library of economic theorems \u2014 and already found gaps in the foundations of antitrust law.",
+      "url": "https://fortune.com/2026/06/01/axiom-math-econlib-antitrust-economic-theory-verified/",
+      "source": "Fortune",
+      "date": "2026-06-01",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/05/kominers.png?resize=1200,600",
+      "category": "market"
+    },
+    {
+      "title": "For 2 centuries, Latter-day Saints have revered religious freedom \u2013 but their definition is evolving",
+      "description": "Latter-day Saints have long valued the US Constitution\u2019s promise of religious freedom \u2013 but the church has also tested its boundaries.",
+      "url": "https://theconversation.com/for-2-centuries-latter-day-saints-have-revered-religious-freedom-but-their-definition-is-evolving-280782",
+      "source": "The Conversation Africa",
+      "date": "2026-06-01",
+      "image": "https://images.theconversation.com/files/738432/original/file-20260527-71-rbmsr0.jpg?ixlib=rb-4.1.0&rect=0%2C347%2C5022%2C2511&q=45&auto=format&w=1356&h=668&fit=crop",
+      "category": "market"
+    },
+    {
+      "title": "Getting disability benefits got harder after the Social Security Administration\u2019s staff was slashed and program rules were changed by Trump",
+      "description": "Researchers learned from dozens of interviews that the usual ways of resolving complex cases, escalating issues and holding the authorities accountable no longer work.",
+      "url": "https://theconversation.com/getting-disability-benefits-got-harder-after-the-social-security-administrations-staff-was-slashed-and-program-rules-were-changed-by-trump-279434",
+      "source": "The Conversation Africa",
+      "date": "2026-06-01",
+      "image": "https://images.theconversation.com/files/734544/original/file-20260507-57-2dsk6k.jpg?ixlib=rb-4.1.0&rect=0%2C379%2C4548%2C2274&q=45&auto=format&w=1356&h=668&fit=crop",
+      "category": "market"
+    },
+    {
+      "title": "Hurricane season is here: Federal flood insurance carries 2 moral hazards \u2013 which you face depends largely on how wealthy you are",
+      "description": "Subsidized insurance makes waterfront property seem safer than it is for wealthier buyers, while many low-income homeowners face repeat disasters with no help.",
+      "url": "https://theconversation.com/hurricane-season-is-here-federal-flood-insurance-carries-2-moral-hazards-which-you-face-depends-largely-on-how-wealthy-you-are-272345",
+      "source": "The Conversation Africa",
+      "date": "2026-06-01",
+      "image": "https://images.theconversation.com/files/710010/original/file-20251220-56-uqrxog.jpg?ixlib=rb-4.1.0&rect=665%2C963%2C3134%2C1567&q=45&auto=format&w=1356&h=668&fit=crop",
       "category": "central_bank"
     },
     {
-      "title": "Powell Uses Speech to Criticize Political Pressure",
-      "description": "Jerome Powell didn't name names Sunday night, but his message in Boston was clear. Accepting a \"Profile in Courage\" award from the family of John F. Kennedy, the former Federal Reserve chair warned that presidents should butt out of the central bank's busines\u2026",
-      "url": "https://www.newser.com/story/390177/powell-uses-speech-to-criticize-political-pressure.html",
-      "source": "Newser",
-      "date": "2026-06-01",
-      "image": "https://img2-azrcdn.newser.com/image/1688815-12-20260601054701.jpeg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Farmer Frustrations With Trump Spell Trouble for Iowa Republicans",
-      "description": "(Bloomberg) -- After years in the political wilderness, Iowa Democrats are feeling a new sensation \u2014 hope.Most Read from BloombergUS Says Deals With Iran for...",
-      "url": "https://finance.yahoo.com/economy/policy/articles/farmer-frustrations-trump-spell-trouble-104504876.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-06-01",
-      "image": "https://s.yimg.com/ny/api/res/1.2/U.KPSNQq7v6IOQuWRR_pLw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/14004147c628bcb38856aeb5ad349700",
-      "category": "market"
-    },
-    {
-      "title": "Jerome Powell uses JFK award speech to warn against political pressure on Fed, courts and schools",
-      "description": "BOSTON (AP) \u2014 Former Federal Reserve Chair Jerome Powell used one of his first major public appearances since leaving office to defend independent institutions while accepting an award Sunday honoring his efforts to preserve the central bank\u2019s independence.",
-      "url": "https://www.local10.com/business/2026/05/31/jerome-powell-uses-jfk-award-speech-to-warn-against-political-pressure-on-fed-courts-and-schools/",
-      "source": "WPLG Local 10",
-      "date": "2026-06-01",
-      "image": "https://www.local10.com/resizer/v2/RTXZD3T4TLOT54UTF5CH6LRL4M.jpg?auth=46fe645dd1f2fd66bc875ccdc33992524f4d7adaa67f490b5481ab407009b88c&width=700",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Early indicators are showing signs of economic stagnancy amid rising prices in much of the world",
-      "description": "This year\u2019s oil shock isn\u2019t over and a stubborn combination of stagnation and inflation would be particularly difficult for emerging economies to combat. Worsening conditions in India suggest that it\u2019s time for an urgent round of economic reforms.",
-      "url": "https://www.livemint.com/opinion/online-views/stagflation-global-indicators-economic-stagnancy-inflation-oil-crisis-reforms-emerging-economies-11780145909115.html",
-      "source": "Livemint",
-      "date": "2026-06-01",
-      "image": "https://www.livemint.com/lm-img/img/2026/05/30/1600x900/logo/IRAN-CRISIS-HORMUZ-12_1778785541846_1778785555406_ba70c4b3-f1e2-487c-b27f-ccc42e286b6e_1780147493393_1177182e-7788-43d8-a50a-d31df6d5680a.JPG",
-      "category": "inflation"
-    },
-    {
-      "title": "India Raises Import Duty on Gold, Silver and Platinum to Protect Economy Amid Global Uncertainty - India Business Trade",
+      "title": "India Raises Import Duty on Gold, Silver and Platinum to Protect Economy Amid Global Uncertainty - indiabusinesstrade.in",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOZlBTcG5rTVVyR182WFN6R2xtUUVRaks0dkJiTUphdUZ4QjJNWTRkM3ZQNlkyTlRNZVVPQ2hxa0hGZm5hUC01SXFCcEV4VE40UUZmSmRmbjF6Y0dkQTI4X0tjN2tfTUJhS1ZrSndtRUdlQl9BdFRxS19OS3RuMkRfRUtTSnQzd0tiVkJGWjRpMzVCajVZS084UGJQWW5BZ0J2dUI2SzI1S29USFJKdVZDM2NPOUhXT0plT2",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZlBTcG5rTVVyR182WFN6R2xtUUVRaks0dkJiTUphdUZ4QjJNWTRkM3ZQNlkyTlRNZVVPQ2hxa0hGZm5hUC01SXFCcEV4VE40UUZmSmRmbjF6Y0dkQTI4X0tjN2tfTUJhS1ZrSndtRUdlQl9BdFRxS19OS3RuMkRfRUtTSnQzd0tiVkJGWjRpMzVCajVZS084UGJQWW5BZ0J2dUI2SzI1S29USFJKdVZDM2NPOUhXT0plT2JjTkNEaWJMLXktQmFUb2RB?oc=5",
       "source": "Google News - Precious Metals",
       "date": "2026-06-01",
       "image": "",
       "category": "supply_demand"
+    },
+    {
+      "title": "Why is gold price down today, and will precious metals continue to drop or rise again? Gold falls as infla - The Economic Times",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMixwJBVV95cUxOTzMwLU00RVY2Z3AzR2ZzNF9rMGxpS2R6RE02V1FIeXJISHo2UExLN1QzYWJrSXRhRUFhRXdQVTZLV2ZnS1Z3MmxmQS1tTzVnZDE0RXlselZyM1I5dWdmU25VSTlHWDBOTmQzYV9hSGtxa3czaFRrYXQ2ZXhIdmlEb0YtVUxXWGZJanNDeDRSdTczeTk1NGI1OV9RNU8wSmxvMHpuekNzOElFWXBwWUxlcl9MWFB2cFAyT1",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOTzMwLU00RVY2Z3AzR2ZzNF9rMGxpS2R6RE02V1FIeXJISHo2UExLN1QzYWJrSXRhRUFhRXdQVTZLV2ZnS1Z3MmxmQS1tTzVnZDE0RXlselZyM1I5dWdmU25VSTlHWDBOTmQzYV9hSGtxa3czaFRrYXQ2ZXhIdmlEb0YtVUxXWGZJanNDeDRSdTczeTk1NGI1OV9RNU8wSmxvMHpuekNzOElFWXBwWUxlcl9MWFB2cFAyT1E0V2xzZDJBZzlnSmxOSDhubzNwTkVURERYYkR2SXZ2UEJVNFpvUDRFa1NOWl9ybEtjTENET2ZVZ29XbldXNkxBbm9uS1hsYWoxUWdGdklJWHdEc284QmRpM0pGdTYtT3pEeS1aTmY0YXhPUVY5WUlReGlwRW44cHVFVmVpQkQ2ZVBjRVdua0xUS3pyRTTSAcwCQVVfeXFMUDREdFpSeDREZHN3dzQ3QWJXaWFvWVNaeGtRUmtCR3lNbnR6enpmVWFJS1YxNmQzb05ZLXJUNHB0eFVhekNoNldDcTVxUUxaMExNLU03NzBNRjhqVEtlY0JremE4dDVxblpHaXZ5UWFZVUtrTWpTcWY1ci1MQzdFUGdnN2JTT0pIMUZ2YmRPdkFiLXpxZVJaYy1CY1d2U20tbkx6emtwRFV4V0xqUVZLdFZkazQzYnZDTHFOaHhSTlV1eVh6RHpBOGVLQlB4WjNic2lhai10LWpybW1WbTdMdmppMFFGSFlDSDh6R1lYUTVXRDBZMzBOeXR1Rmw3UDBIR1M0X0xHNGc1WnNjNWdoZjNtUVhJQUQ5MXgzMjc1Z2k4bmRYZVhQRzZzTExxQm1nVFh3dnJETHRRVGdvbWpMRlFhVEF6XzBvMVZ3aEc?oc=5",
+      "source": "Google News - Precious Metals",
+      "date": "2026-06-01",
+      "image": "",
+      "category": "metals"
+    },
+    {
+      "title": "Gold prices ease after two-week high as precious metals show mixed moves - Emirates 24|7",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPWnpudi1zd2NzSF80b2pFMmVnaFhpTkhBMnd5LXYteWVUTEIzQ0w5cnY0Z2JEd1c2SVRJaDY2SFRvb2FOazBNeUIwM3kwZ3JjZDVBSjIzLXlIU0o2NTB4VUJUR01neE9oY2R5U0ZjOXZmb0stc25RcnZBNy16RkloZF9uUV9uZ1MxWWw5RnM3eFEyc3hKbG10bjhnalkxS3ZxYkRYTnowcUlyVmFiQ0NrZlBWOXfSAc8BQV",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWnpudi1zd2NzSF80b2pFMmVnaFhpTkhBMnd5LXYteWVUTEIzQ0w5cnY0Z2JEd1c2SVRJaDY2SFRvb2FOazBNeUIwM3kwZ3JjZDVBSjIzLXlIU0o2NTB4VUJUR01neE9oY2R5U0ZjOXZmb0stc25RcnZBNy16RkloZF9uUV9uZ1MxWWw5RnM3eFEyc3hKbG10bjhnalkxS3ZxYkRYTnowcUlyVmFiQ0NrZlBWOXfSAc8BQVVfeXFMTTRKNGFCd0hyN01GRGtKeVZpNEV2NEc4VlB0VWlzNWwta2V6OUNibldCNUw1U05kRlZZUVRUTVFWeUpVVVRKa2JTNlQwRTlJLXJ2eG9RdWRfWkNPYlR4NDFuWUNIbUtHakVoc0JBeUQwdUxuUkN2elN6MUgweGFpbzhlVUp6WjZGdGxyRHlfaHpqR3loN2dQVmtCYnVTOXNkSGJmTmZ0a20yNE5ZVWdpbGgxdjNXbzN5V25tRzNVSTNYQ2ZmNVRBZHJfUEZQWHhz?oc=5",
+      "source": "Google News - Precious Metals",
+      "date": "2026-06-01",
+      "image": "",
+      "category": "metals"
     }
   ],
   "history": [
@@ -409,15 +409,15 @@
     {
       "date": "2026-06-02",
       "week": "2026-W23",
-      "gold_10g": 138639.79,
-      "silver_kg": 233305.64,
-      "platinum_g": 5987.08,
-      "gold_usd_oz": 4534.51,
-      "silver_usd_oz": 76.31,
-      "platinum_usd_oz": 1958.2
+      "gold_10g": 138043.9,
+      "silver_kg": 232571.85,
+      "platinum_g": 5994.23,
+      "gold_usd_oz": 4515.02,
+      "silver_usd_oz": 76.07,
+      "platinum_usd_oz": 1960.54
     }
   ],
-  "timestamp": "2026-06-02T16:33:03.989365+05:30",
+  "timestamp": "2026-06-02T18:25:17.738419+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
