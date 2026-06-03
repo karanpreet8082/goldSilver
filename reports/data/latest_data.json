@@ -1,48 +1,48 @@
 {
   "prices": {
     "gold": {
-      "price_per_gram_inr": 13729.97,
-      "price_usd_oz": 4490.68,
-      "change_percent": 0.13,
-      "change_value_usd": 5.62,
-      "price_per_10g_inr": 137299.72
+      "price_per_gram_inr": 13659.29,
+      "price_usd_oz": 4456.12,
+      "change_percent": -0.73,
+      "change_value_usd": -32.9,
+      "price_per_10g_inr": 136592.94
     },
     "silver": {
-      "price_per_gram_inr": 230.62,
-      "price_usd_oz": 75.43,
-      "change_percent": 0.76,
-      "change_value_usd": 0.56,
-      "price_per_kg_inr": 230616.62
+      "price_per_gram_inr": 227.8,
+      "price_usd_oz": 74.32,
+      "change_percent": -1.09,
+      "change_value_usd": -0.82,
+      "price_per_kg_inr": 227802.8
     },
     "platinum": {
-      "price_per_gram_inr": 5931.28,
-      "price_usd_oz": 1939.95,
-      "change_percent": 0.6,
-      "change_value_usd": 11.64
+      "price_per_gram_inr": 5897.29,
+      "price_usd_oz": 1923.89,
+      "change_percent": -0.53,
+      "change_value_usd": -10.22
     },
     "currencies": {
-      "USD_INR": 95.0971,
-      "EUR_INR": 110.6295,
-      "GBP_INR": 127.9391,
-      "JPY_INR": 0.5958,
-      "CHF_INR": 120.9887,
-      "AUD_INR": 68.1358,
-      "CAD_INR": 68.7465,
-      "SGD_INR": 74.3876
+      "USD_INR": 95.3411,
+      "EUR_INR": 110.8875,
+      "GBP_INR": 128.3537,
+      "JPY_INR": 0.5963,
+      "CHF_INR": 121.0988,
+      "AUD_INR": 68.4086,
+      "CAD_INR": 68.898,
+      "SGD_INR": 74.5202
     },
-    "gold_silver_ratio": 59.54,
-    "timestamp": "2026-06-02T17:04:03.381046",
+    "gold_silver_ratio": 59.96,
+    "timestamp": "2026-06-03T08:32:25.343963",
     "source": "GoldAPI"
   },
   "currencies": {
-    "USD_INR": 95.0971,
-    "EUR_INR": 110.6295,
-    "GBP_INR": 127.9391,
-    "JPY_INR": 0.5958,
-    "CHF_INR": 120.9887,
-    "AUD_INR": 68.1358,
-    "CAD_INR": 68.7465,
-    "SGD_INR": 74.3876
+    "USD_INR": 95.3411,
+    "EUR_INR": 110.8875,
+    "GBP_INR": 128.3537,
+    "JPY_INR": 0.5963,
+    "CHF_INR": 121.0988,
+    "AUD_INR": 68.4086,
+    "CAD_INR": 68.898,
+    "SGD_INR": 74.5202
   },
   "analysis": {
     "gold": {
@@ -53,20 +53,20 @@
         "sell": 25,
         "hold": 50
       },
-      "summary": "Gold is showing positive signals. Positive daily movement of 0.1%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-02T17:04:08.408188",
+      "summary": "Gold is showing negative signals. Slight decline of -0.7%. Recommendation: HOLD with moderate confidence based on current indicators.",
+      "timestamp": "2026-06-03T08:32:32.345282",
       "source": "rule-based"
     },
     "silver": {
       "metal": "silver",
-      "recommendation": "HOLD",
+      "recommendation": "SELL",
       "confidence": {
-        "buy": 25,
-        "sell": 25,
-        "hold": 50
+        "buy": 15,
+        "sell": 56,
+        "hold": 29
       },
-      "summary": "Silver is showing positive signals. Positive daily movement of 0.8%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-02T17:04:08.484635",
+      "summary": "Silver is showing negative signals. Significant daily drop of -1.1%. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-06-03T08:32:32.426948",
       "source": "rule-based"
     },
     "platinum": {
@@ -77,8 +77,8 @@
         "sell": 25,
         "hold": 50
       },
-      "summary": "Platinum is showing positive signals. Positive daily movement of 0.6%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-02T17:04:08.557755",
+      "summary": "Platinum is showing negative signals. Slight decline of -0.5%. Recommendation: HOLD with moderate confidence based on current indicators.",
+      "timestamp": "2026-06-03T08:32:32.523774",
       "source": "rule-based"
     }
   },
@@ -125,273 +125,273 @@
   },
   "news": [
     {
-      "title": "Alkem Labs sees Rs 930 crore block deal as promoter family entities pare stake; Goldman, Morgan Stanley among key buyers",
-      "description": "Alkem Laboratories shares experienced significant block deals totaling Rs 930 crore. Promoter family entities divested shares to a group of domestic mutual funds and foreign institutional investors. This transaction occurred after a strong performance by Alkem Laboratories shares over the past year.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/alkem-laboratories-promoters-sell-1-5-stake-for-rs-930-crore/articleshow/131467327.cms",
+      "title": "Beyond GPUs: Why Marvell is capturing Wall Street's attention",
+      "description": "Nvidia CEO Jensen Huang sees Marvell as a potential trillion-dollar company, driven by AI networking, custom chips, optical connectivity, and its Nvidia partnership, positioning it as a key AI infrastructure beneficiary.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/beyond-gpus-why-marvell-is-capturing-wall-streets-attention/slideshow/131478665.cms",
       "source": "Economic Times Markets",
-      "date": "2026-06-02",
+      "date": "2026-06-03",
       "image": "",
-      "category": "metals"
-    },
-    {
-      "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
-      "description": "Indian benchmark indices ended higher after a volatile session, with late buying in heavyweight IT stocks lifting sentiment. Sensex gained 382 points and Nifty closed above 23,480, while investors tracked monsoon progress, inflation trends, RBI policy outlook and liquidity conditions.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/131466696.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-06-02",
-      "image": "",
-      "category": "central_bank"
-    },
-    {
-      "title": "CMR Green raises Rs 188 crore in IPO anchor round; SBI MF, ICICI Pru MF among top investors",
-      "description": "CMR Green Technologies raised Rs 188 crore from anchor investors before its IPO opening, attracting strong participation from mutual funds, insurers and global institutions. The robust demand underscores investor interest in sustainability-focused businesses and India's growing metal recycling and c",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/cmr-green-raises-rs-188-crore-in-ipo-anchor-round-sbi-mf-icici-pru-mf-among-top-investors/articleshow/131466506.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-06-02",
-      "image": "",
-      "category": "supply_demand"
-    },
-    {
-      "title": "US SEC, Elon Musk defend 'compromise' settlement over Twitter purchases",
-      "description": "Musk called the settlement a fair, adequate \u200cand reasonable resolution where \"each \u2060side gave \u2060something up and each side gained something,\" according to a Monday night filing in the Washington, D.C., federal court.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-sec-elon-musk-defend-compromise-settlement-over-twitter-purchases/articleshow/131465554.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-06-02",
-      "image": "",
-      "category": "central_bank"
-    },
-    {
-      "title": "Today\u2019s News in a Nutshell",
-      "description": "KATHMANDU: Khabarhub brings you a glimpse of major developments of the day in Nepal, including politics, business/economy, sports, entertainment, and more. House of Representatives adjourned till Tuesday amid continued opposition protest The House of Represen\u2026",
-      "url": "https://english.khabarhub.com/2026/01/551880/",
-      "source": "Khabarhub.com",
-      "date": "2026-06-01",
-      "image": "https://english.khabarhub.com/wp-content/uploads/2024/05/News-Nutshell.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Leviathan Metals Provides Clarifying News Release Regarding Promotional Activities",
-      "description": "VANCOUVER, British Columbia, June 01, 2026 (GLOBE NEWSWIRE) -- Leviathan Metals Corp. (TSXV: LVX) (OTCQB: LVXFF) (FSE: 0GP) (\u201cLeviathan\u201d or the \u201cCompany\u201d) announces that, as a result of a review by the British Columbia Securities Commission (the \"BCSC\"), the \u2026",
-      "url": "https://www.globenewswire.com/news-release/2026/06/01/3304591/0/en/Leviathan-Metals-Provides-Clarifying-News-Release-Regarding-Promotional-Activities.html",
-      "source": "GlobeNewswire",
-      "date": "2026-06-01",
-      "image": "https://ml.globenewswire.com/Resource/Download/a39df9f3-ddd0-42e7-a15b-1ca80bec3914",
-      "category": "market"
-    },
-    {
-      "title": "Elliott Publishes Presentation Outlining Perspectives on Value Creation at Northern Star Resources Ltd",
-      "description": "WEST PALM BEACH, Fla., June 1, 2026 /PRNewswire/ -- Elliott Investment Management L.P. (\"Elliott\"), which manages funds that together hold an investment of well over A$1 billion in Northern Star Resources Ltd (\"Northern Star\" or the \"Company\"), today publishe\u2026",
-      "url": "https://www.prnewswire.com/news-releases/elliott-publishes-presentation-outlining-perspectives-on-value-creation-at-northern-star-resources-ltd-302787191.html",
-      "source": "PRNewswire",
-      "date": "2026-06-01",
-      "image": "https://mma.prnewswire.com/media/2705826/Elliott_WhiteText_Green_Logo.jpg?p=facebook",
-      "category": "market"
-    },
-    {
-      "title": "AI stocks surge on expectations, but face \u2018token mirage\u2019 concerns",
-      "description": "AI stock valuations may face corrections if token-based metrics fail to reflect true productivity gains, echoing past tech hype cycles.\nThe post AI stocks surge on expectations, but face \u2018token mirage\u2019 concerns appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/ai-stocks-token-mirage-concerns/",
-      "source": "Crypto Briefing",
-      "date": "2026-06-01",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/01105602/the-token-mirage-how-corporate-ai-policy-fueled-a-8-tillion--800x420.jpeg",
-      "category": "market"
-    },
-    {
-      "title": "I tried the new collection from Zara Tindall's favourite brand - here's what I really thought",
-      "description": "The Daily Mail's Senior Features Writer Rebekah Absalom gets a first-hand look at the latest pieces from Fairfax & Favor.",
-      "url": "https://www.dailymail.com/news/royals/article-15859229/i-tried-new-collection-zara-tindall-favourite-brand-fairfax-favor.html",
-      "source": "Dailymail.com",
-      "date": "2026-06-01",
-      "image": "https://i.dailymail.com/1s/2026/06/01/12/109008005-0-image-a-15_1780314781093.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Box Office Unicorn \u2018Obsession\u2019 On Track To Become One Of The Most Profitable Movies Ever Made With Astounding ~400x Return On Investment",
-      "description": "Box office unicorn Obsession has gone far beyond being a success. The $750K-produced horror film is now on track to become one of the most profitable movies ever made Since being released in movie theaters on May 15, Obsession \u2014 which stars breakout Inde Nara\u2026",
-      "url": "https://brobible.com/culture/article/obsession-most-profitable-movies-ever-made/",
-      "source": "BroBible",
-      "date": "2026-06-01",
-      "image": "https://brobible.com/wp-content/uploads/2026/06/inde-navarrette-obsession.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Can Adaptive Asset Allocation Improve Long-Term Investment Outcomes?",
-      "description": "Can Adaptive Asset Allocation Improve Long-Term Investment Outcomes?",
-      "url": "https://www.thehindubusinessline.com/brandhub/can-adaptive-asset-allocation-improve-long-term-investment-outcomes/article71047914.ece",
-      "source": "BusinessLine",
-      "date": "2026-06-01",
-      "image": "https://th-i.thgim.com/public/incoming/crolih/article71047909.ece/alternates/LANDSCAPE_1200/KAKANI%20JI.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Glitter Bug Gold Buyers Releases New Data on Gold Selling Trends in North Orange County",
-      "description": "Anaheim, California, June 01, 2026 (GLOBE NEWSWIRE) -- Glitter Bug Gold Buyers, a precious metals buyer based in Anaheim Hills, today released new insights on emerging gold selling trends across North Orange County as elevated gold prices drive increased cons\u2026",
-      "url": "https://www.globenewswire.com/news-release/2026/06/01/3304492/0/en/Glitter-Bug-Gold-Buyers-Releases-New-Data-on-Gold-Selling-Trends-in-North-Orange-County.html",
-      "source": "GlobeNewswire",
-      "date": "2026-06-01",
-      "image": "https://ml.globenewswire.com/Resource/Download/47110364-db2c-4900-9a00-38b59119f706",
-      "category": "metals"
-    },
-    {
-      "title": "Gold declines \u20b92,500 to \u20b91.6 lakh/10g amid fresh US-Iran tensions",
-      "description": "Silver prices also weakened sharply, falling \u20b95,000, or nearly 2%, to \u20b92,69,700 per kilogram (inclusive of all taxes)",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-declines-2500-to-16-lakh10g-amid-fresh-us-iran-tensions/article71048357.ece",
-      "source": "BusinessLine",
-      "date": "2026-06-01",
-      "image": "https://bl-i.thgim.com/public/incoming/8thr57/article71048610.ece/alternates/LANDSCAPE_1200/iStock-184997181.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Psychodrama",
-      "description": "\u201cA sane society cannot debate its way out of psychosis. It must diagnose the patient with lethal precision and restore the ancient boundary between the mad and the free.\u201d \u2014LHGrey on X",
-      "url": "https://www.kunstler.com/p/psychodrama",
-      "source": "Kunstler.com",
-      "date": "2026-06-01",
-      "image": "https://substackcdn.com/image/fetch/$s_!EQLa!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F871133ad-5c5d-4ec9-bbad-811879f76a6a_700x344.heic",
-      "category": "market"
-    },
-    {
-      "title": "Abaxx Exchange Reports Record May 2026 Trading Volume, Including Record LNG Activity",
-      "description": "Abaxx Exchange reports May 2026 trading volume, including record LNG futures activity across its physically deliverable GOM and NPA futures contracts...",
-      "url": "https://www.globenewswire.com/news-release/2026/06/01/3304380/0/en/Abaxx-Exchange-Reports-Record-May-2026-Trading-Volume-Including-Record-LNG-Activity.html",
-      "source": "GlobeNewswire",
-      "date": "2026-06-01",
-      "image": "https://ml.globenewswire.com/Resource/Download/f22dee8d-4a5d-452c-8ccc-ca30385a94b5",
-      "category": "market"
-    },
-    {
-      "title": "Evolve Royalties Provides Year-To-Date Royalty Payments and Portfolio Updates",
-      "description": "(All amounts in Canadian dollars unless otherwise noted) VANCOUVER, British Columbia, June 01, 2026 (GLOBE NEWSWIRE) \u2014 Evolve Royalties Ltd. (\u201cEvolve\u201d or the \u201cCompany\u201d) (CSE: EVR; OTCQX: EVRYF) is pleased to provide an update on its year-to-date royalty payme\u2026",
-      "url": "https://financialpost.com/globe-newswire/evolve-royalties-provides-year-to-date-royalty-payments-and-portfolio-updates",
-      "source": "Financial Post",
-      "date": "2026-06-01",
-      "image": null,
       "category": "currency"
     },
     {
-      "title": "Here Are Monday\u2019s Top Wall Street Analyst Research Calls: Accenture, Caesars Entertainment, Carnival, Dell Technologies, IBM, Kohls, Microsoft, Zscaler and More",
-      "description": "Pre-Market Stock Futures: Futures are trading higher to start a new trading week and a new month after what was an incredible May, and anybody who followed \u201c...",
-      "url": "https://247wallst.com/investing/2026/06/01/here-are-mondays-top-wall-street-analyst-research-calls-accenture-caesars-entertainment-carnival-dell-technologies-ibm-kohls-microsoft-zscaler-and-more/",
-      "source": "24/7 Wall St.",
-      "date": "2026-06-01",
-      "image": "https://s.yimg.com/ny/api/res/1.2/SRuoWif2rhoFOIsT_gjjUQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/24_7_wall_st__718/4db12ae34e5f05cd9360d5607213d6b9",
+      "title": "Rupee@100? India\u2019s Economists Weigh In",
+      "description": "",
+      "url": "https://economictimes.indiatimes.com/markets/forex/rupee100-indias-economists-weigh-in/videoshow/131478213.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-06-03",
+      "image": "",
+      "category": "currency"
+    },
+    {
+      "title": "Laboratory Equipment Services Market by Service Type, Service Provider, Equipment Type, Contract Type - Global Forecast to 2030",
+      "description": "The global laboratory equipment services market is set to soar, reaching USD 35.4 billion by 2030, expanding from USD 18 billion in 2025, with a CAGR of 14.5%. This growth is spurred by increased R&D investments, higher healthcare spending, and technological \u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/06/02/3304891/28124/en/Laboratory-Equipment-Services-Market-by-Service-Type-Service-Provider-Equipment-Type-Contract-Type-Global-Forecast-to-2030.html",
+      "source": "GlobeNewswire",
+      "date": "2026-06-02",
+      "image": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "category": "currency"
+    },
+    {
+      "title": "The Toll Booth at the Throat of World Trade",
+      "description": "In late February 2026, Iran closed the Strait of Hormuz to foreign shipping. What began as a chaotic wartime closure has, in the past few days, hardened into something more consequential: an official sovereign toll regime, codified in Iranian law, and priced \u2026",
+      "url": "https://warontherocks.com/the-toll-booth-at-the-throat-of-world-trade/",
+      "source": "War on the Rocks",
+      "date": "2026-06-02",
+      "image": "https://warontherocks.com/wp-content/uploads/2026/06/10000_in_100_USD_bills_with_25_BTC_Gold_Casascius_coin_by_Gage_Skidmore.jpg?v=1780336046",
+      "category": "geopolitics"
+    },
+    {
+      "title": "BFI Pleaded With Government To Exclude UK Screen Industries From Trump Trade Deal, Saying It Would Cause \u201cFundamental Harm\u201d",
+      "description": "EXCLUSIVE: The British Film Institute lobbied ministers to request that the UK\u2019s film and TV business not be included in any trade deal signed with U.S. President Donald Trump. The BFI sent the British Foreign Office a policy document in May 2025 outlining wh\u2026",
+      "url": "http://deadline.com/2026/06/bfi-uk-government-film-tv-deal-donald-trump-1236932021/",
+      "source": "Deadline",
+      "date": "2026-06-02",
+      "image": "https://deadline.com/wp-content/uploads/2026/06/GettyImages-2277731827-e1780328482691.jpg?w=1024",
       "category": "market"
     },
     {
-      "title": "Is Triple Flag Precious Metals (TFPM) The Best Mining Stock to Buy in 2026?",
-      "description": "We just covered the Top 10 Stock Picks of Billionaire Paul Singer. Triple Flag Precious Metals Corp. (NYSE:TFPM) ranks #1 (see Top 5 Stock Picks of...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/triple-flag-precious-metals-tfpm-113845124.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-06-01",
-      "image": "https://s.yimg.com/ny/api/res/1.2/lMnl7C1cbrApslGAFxHfsw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NDE-/https://media.zenfs.com/en/insidermonkey.com/01f87fe9ebf10f123978e7863785cdc1",
+      "title": "How can I transfer or gift 800 grams of gold to my daughters?",
+      "description": "ET Wealth Reader's Query: I am a 50-year-old widower. My wife passed away a few years ago. I currently have around 800 grams of gold that belonged to her and my late mother, combined. I have two daughters, aged 12 and 13. I would like to understand how I can \u2026",
+      "url": "https://economictimes.indiatimes.com/wealth/save/how-can-i-transfer-or-gift-800-grams-of-gold-to-my-daughters/articleshow/131457014.cms",
+      "source": "The Times of India",
+      "date": "2026-06-02",
+      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-45450,resizemode-75,msid-131457014/wealth/save/how-can-i-transfer-or-gift-800-grams-of-gold-to-my-daughters.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "NatGold Digital Announces NATG Ready to Enter European Market",
+      "description": "MIAMI, June 2, 2026 /PRNewswire/ -- NatGold Digital Ltd. (\"NatGold\" or the \"Company\"), a pioneering digital gold mining company with a patent-pending process for sustainably unlocking the intrinsic value of in-ground gold resources through blockchain-based to\u2026",
+      "url": "https://www.prnewswire.com/news-releases/natgold-digital-announces-natg-ready-to-enter-european-market-302787963.html",
+      "source": "PRNewswire",
+      "date": "2026-06-02",
+      "image": "https://i.ytimg.com/vi/AWXjw9DUJrM/hqdefault.jpg",
+      "category": "currency"
+    },
+    {
+      "title": "S&P/ASX 200 Slips 0.06% to 8,724.4 on June 1 as Australian Markets Open Month Cautiously",
+      "description": "The ASX 200 index fell slightly on June 1, 2026, as investors remained cautious amid mixed global signals and upcoming economic data. Materials and financial stocks faced pressure, while energy and technology sectors offered support.",
+      "url": "https://www.ibtimes.com.au/asx-200-edges-lower-amid-mixed-global-cues-1869930",
+      "source": "Ibtimes.com.au",
+      "date": "2026-06-02",
+      "image": "https://d.ibtimes.com.au/en/full/1893186/ftse-100-surges-08-today-oil-eases-markets.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Damang Owners Prove Capacity Of Local Mining Coys",
+      "description": "The ongoing transformation of Damang Gold Mine by indigenous operator, Damang Gold Mine Limited, is being touted as a strong justification for Ghana\u2019s growing push towards local ownership of strategic mineral assets, following a massive US$250 million investm\u2026",
+      "url": "https://thechronicle.com.gh/damang-owners-prove-capacity-of-local-mining-coys/",
+      "source": "Thechronicle.com.gh",
+      "date": "2026-06-02",
+      "image": "https://thechronicle.com.gh/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-01-at-5.25.26-PM-2.jpeg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Gold Holds Decline as Traders Weigh Iran War Confusion",
+      "description": "Gold held a decline as conflicting signals from the US and Iran cast doubt over a diplomatic resolution to the war, fanning concerns over inflation and prolonged trade disruptions.",
+      "url": "https://financialpost.com/pmn/business-pmn/gold-holds-decline-as-traders-weigh-iran-war-confusion",
+      "source": "Financial Post",
+      "date": "2026-06-02",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/gold-has-lost-about-15-since-war-started.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Gold Drops Nearly 2% as Middle East Tensions Fuel Rate Hike Expectations",
+      "description": "Gold fell nearly 2% on Monday\u00a0\u2013 testing the $4,500 per ounce level\u00a0\u2013 according to market data, as renewed U.S. military strikes on Iranian sites intensified expectations that the Federal Reserve will keep interest rates elevated. Three-month futures in New Yo\u2026",
+      "url": "https://www.naturalnews.com/2026-06-02-gold-price-drops-amid-middle-east-tensions.html",
+      "source": "Naturalnews.com",
+      "date": "2026-06-02",
+      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/gold-gold-price-decline-middle-east-tensions-1835-original.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "The Silver Imperative: Breaking the fiat chains and securing your wealth before the globalist collapse",
+      "description": "The COMEX and London Bullion Market Association operate a \u201csilver psyop\u201d using derivatives at 100:1 ratios to suppress the true price of physical silver, creating a disconnect where spot prices ($22) are fake and actual physical metal costs $45-50 or more due\u2026",
+      "url": "https://www.naturalnews.com/2026-06-02-the-silver-imperative-breaking-the-fiat-chains.html",
+      "source": "Naturalnews.com",
+      "date": "2026-06-02",
+      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/The-Silver-Imperative.png",
+      "category": "metals"
+    },
+    {
+      "title": "Silver, gold open flat as investors assess Iran war peace deal uncertainty. Where are precious metals headed?",
+      "description": "Gold and silver prices were largely steady on MCX on Tuesday, with gains capped by a stronger U.S. dollar and higher crude oil prices as markets awaited U.S. President Donald Trump's decision on extending the Iran ceasefire. MCX silver futures for July 2026 r\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-gold-open-flat-as-investors-assess-iran-war-peace-deal-uncertainty-where-are-precious-metals-headed/articleshow/131454340.cms",
+      "source": "The Times of India",
+      "date": "2026-06-02",
+      "image": "https://img.etimg.com/thumb/msid-131454352,width-1200,height-630,imgsize-72974,overlay-etmarkets/articleshow.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Gold Holds Decline as Traders Weigh Confusion Over US-Iran Talks",
+      "description": "Gold held a decline as conflicting signals from the US and Iran cast doubt over a diplomatic resolution to the war, fanning concerns over inflation and prolonged trade disruptions.",
+      "url": "https://financialpost.com/pmn/business-pmn/gold-holds-decline-as-traders-weigh-confusion-over-us-iran-talks",
+      "source": "Financial Post",
+      "date": "2026-06-02",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/gold-has-lost-about-15-since-war-started.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Why Devina Mehra keeps 85% of her portfolio outside India",
+      "description": "The First Global founder explains why asset allocation matters more than stock picking, why she remains underweight on the US and why she avoids real estate and private credit.",
+      "url": "https://www.livemint.com/money/personal-finance/devina-mehra-global-diversification-asset-allocation-ai-risks-investing-strategy-guru-portfolio-11780300064111.html",
+      "source": "Livemint",
+      "date": "2026-06-02",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/01/1600x900/logo/Devina_Mehra_1713604123238_1780313907356_2f565468-58af-4d67-843e-0f6cc11e6194.JPG",
+      "category": "market"
+    },
+    {
+      "title": "Acemoglu: Pope Leo could\u2019ve gone further in his encyclical on AI\u2014this technology demands deep thought",
+      "description": "The pope raised the question of what AI's purpose ought to be. This is a good starting point for questions like what choices humanity must make in response to the technology. Here are some policy options.",
+      "url": "https://www.livemint.com/opinion/online-views/daron-acemoglu-pope-leo-encyclical-ai-technology-artificial-intelligence-policy-11780320547380.html",
+      "source": "Livemint",
+      "date": "2026-06-02",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/01/1600x900/logo/tug_of_war_istockphoto_1780327067959_1780327073122_69c173cf-8ec3-43cd-9a6b-552ec35f54cd.jpg",
       "category": "supply_demand"
     },
     {
-      "title": "Silver prices today, Monday, June 1, 2026: Price moving upward this morning",
-      "description": "Silver July futures opened at $74.10 per ounce on Monday, June 1, 2026, 2.3% lower than the previous closing price on Friday. However, the price of silver...",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-june-1-2026-price-moving-upward-this-morning-113559041.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-06-01",
-      "image": "https://s.yimg.com/ny/api/res/1.2/1sy6upWiMhjtGJqlHL9MIw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NTQ-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/21b3a190-027e-11ef-bbb5-a0f6297c401d",
-      "category": "geopolitics"
+      "title": "Meridian Holdings Subsidiary Expanse Studios Signs Content Distribution Agreement with Flutter Subsidiary MaxBet for Serbian Market",
+      "description": "Expanse Studios partners with Flutter's MaxBet to expand its live iGaming portfolio in Serbia....",
+      "url": "https://www.globenewswire.com/news-release/2026/06/02/3304897/0/en/Meridian-Holdings-Subsidiary-Expanse-Studios-Signs-Content-Distribution-Agreement-with-Flutter-Subsidiary-MaxBet-for-Serbian-Market.html",
+      "source": "GlobeNewswire",
+      "date": "2026-06-02",
+      "image": "https://ml-eu.globenewswire.com/Resource/Download/c7eaad01-0216-4704-a215-b78086cd54b4",
+      "category": "central_bank"
     },
     {
-      "title": "Iran Halts Talks With US and Threatens Full Hormuz Closure",
-      "description": "Iran said it would suspend negotiations with the US in protest for Israel\u2019s offensive in Lebanon, escalating tensions at a time when Washington and Tehran have been working on the terms of an interim peace deal.",
-      "url": "https://financialpost.com/pmn/business-pmn/iran-halts-talks-with-us-and-threatens-full-hormuz-closure",
-      "source": "Financial Post",
-      "date": "2026-06-01",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/05/key-sticking-points-in-us-iran-talks-over-interim-deal.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Nifty-50 valuation faces test as global capital chases faster earnings growth",
-      "description": "India\u2019s benchmark Nifty 50 remains one of the most expensive major emerging market (EM) indices, despite posting some of the weakest earnings growth in 2026 \u2014 a combination that has coincided with one of the poorest market performances among its EM peers this\u2026",
-      "url": "https://www.thehindubusinessline.com/data-stories/data-focus/nifty-50-valuation-faces-test-as-global-capital-chases-faster-earnings-growth/article71048335.ece",
-      "source": "BusinessLine",
-      "date": "2026-06-01",
-      "image": "https://bl-i.thgim.com/public/incoming/eumisb/article71049878.ece/alternates/LANDSCAPE_1200/Nifty-50-may-hiG5FG0RVS5.4.jpg.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Owen Doyle: Rugby union in grave danger of being thrown to the wolves by new \u2018innovations\u2019",
-      "description": "The sport is in rude health here. If the situation was reversed, would SRP really be pushing for heavy-handed change?",
-      "url": "https://www.irishtimes.com/sport/rugby/2026/06/01/owen-doyle-rugby-union-in-grave-danger-of-being-thrown-to-the-wolves-by-new-innovations/",
-      "source": "The Irish Times",
-      "date": "2026-06-01",
-      "image": "https://www.irishtimes.com/resizer/v2/TDLZYGWCWRDGDLWRZ3CM5Q56OI.jpg?smart=true&auth=cfb9d85db89fcf9660153cf71157e70801dd00dc4b928c782b6caccac270f909&width=1200&height=630",
-      "category": "market"
-    },
-    {
-      "title": "BHI Lends $170M on Third Avenue Office-to-Resi Conversion",
-      "description": "A joint venture between Quantum Pacific Realty and Metro Loft has landed $169.5 million of construction financing to execute an office-to-residential conversion in Midtown East, Commercial Observer can first report. BHI provided the loan for the sponsorship\u2019s\u2026",
-      "url": "http://commercialobserver.com/2026/06/bhi-metro-loft-third-avenue-manhattan-office-to-resi-conversion/",
-      "source": "Commercial Observer",
-      "date": "2026-06-01",
-      "image": "https://commercialobserver.com/wp-content/uploads/sites/3/2026/06/Illana-Druyan-767-Third-Ave-credit-Propertyshark.jpg?quality=80&crop=0px%2C34px%2C1500px%2C788px&resize=1200%2C630&strip",
-      "category": "market"
-    },
-    {
-      "title": "Kendall Jenner calls this $22 K-beauty buy her \u2018holy grail\u2019: \u2018Helped so much with calming my skin\u2019",
-      "description": "Plus, the cleanser she says \"changed\" her skin.",
-      "url": "https://pagesix.com/2026/06/01/style/kendall-jenner-calls-this-22-k-beauty-skincare-serum-her-holy-grail/",
-      "source": "Page Six",
-      "date": "2026-06-01",
-      "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/06/129406612.jpg?quality=75&strip=all&w=1200",
-      "category": "market"
-    },
-    {
-      "title": "Perceptive Discovery and Certis Oncology Announce Strategic Collaboration to Advance Radiopharmaceutical Development",
-      "description": "BOSTON, June 1, 2026 /PRNewswire/ -- Perceptive Discovery, a leading preclinical CRO supporting radiopharmaceutical and oncology drug development, and Certis Oncology, an AI-enabled precision oncology and translational science company, today announced a strat\u2026",
-      "url": "https://www.prnewswire.com/news-releases/perceptive-discovery-and-certis-oncology-announce-strategic-collaboration-to-advance-radiopharmaceutical-development-302787356.html",
+      "title": "Generation C Debuts in Hunan with Massive Success: More Than 100 million Views and Tens of Thousands Onsite Spectators. Marking the First Time Football Legends Rivaldo and Javier Saviola Play Matches in Mainland China. A Landmark Football Event Celebrated by Fans, Legends and Communities",
+      "description": "HONG KONG, June 2, 2026 /PRNewswire/ -- CSTS Enterprises (CSTS) proudly announces the completion of the inaugural Generation C event in Hunan province, marking a highly successful debut for the international football initiative. Held in Yongzhou (\u6c38\u5dde) and Xian\u2026",
+      "url": "https://www.prnewswire.com/news-releases/generation-c-debuts-in-hunan-with-massive-success-more-than-100-million-views-and-tens-of-thousands-onsite-spectators-marking-the-first-time-football-legends-rivaldo-and-javier-saviola-play-matches-in-mainland-china-a-landmark--302788259.html",
       "source": "PRNewswire",
-      "date": "2026-06-01",
-      "image": "https://mma.prnewswire.com/media/2868098/Perceptive_Discovery_Logo.jpg?p=facebook",
+      "date": "2026-06-02",
+      "image": "https://mma.prnewswire.com/media/2993013/Picture1.jpg?p=facebook",
       "category": "market"
     },
     {
-      "title": "Roger Williams University Welcomes Dr. Brian G. Williams as Interim President",
-      "description": "Williams succeeds retiring President Ioannis N. Miaoulis, bringing decades of experience in student-centered leadership and university administration. BRISTOL, R.I., June 01, 2026 (GLOBE NEWSWIRE) \u2014 Roger Williams University welcomes Brian G. Williams, D.M., \u2026",
-      "url": "https://financialpost.com/globe-newswire/roger-williams-university-welcomes-dr-brian-g-williams-as-interim-president",
-      "source": "Financial Post",
-      "date": "2026-06-01",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/brian-williams-interim-president-of-roger-williams-universit.jpeg",
+      "title": "AI becomes the ultimate CEO performance test in the UAE",
+      "description": "Study shows that success with artificial intelligence directly affects how long chief executives keep their jobs in the UAE",
+      "url": "https://www.computerweekly.com/news/366643779/AI-becomes-the-ultimate-CEO-performance-test-in-the-UAE",
+      "source": "ComputerWeekly.com",
+      "date": "2026-06-02",
+      "image": "https://www.computerweekly.com/visuals/German/article/business-meeting-whiteboard-2-adobe.jpg",
       "category": "market"
     },
     {
-      "title": "Trans Canada Trail Celebrates Volunteers Ahead of International Trails Day",
-      "description": "Annual Trail Care Program commits more than $300,000 in grants to support 119 community projects across Canada OTTAWA, June 01, 2026 (GLOBE NEWSWIRE) \u2014 Ahead of International Trails Day,\u00a0Trans Canada Trail is celebrating\u00a0and supporting\u00a0the volunteers who help\u2026",
-      "url": "https://financialpost.com/globe-newswire/trans-canada-trail-celebrates-volunteers-ahead-of-international-trails-day",
-      "source": "Financial Post",
-      "date": "2026-06-01",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/qc-la-montagnarde-eastman-2025-06-07-trail-care.jpeg",
+      "title": "Research: Acute flaccid paralysis and myelitis (AFP/M) in England",
+      "description": "Data up to 2025 on acute flaccid paralysis and myelitis in England (AFP/M).",
+      "url": "https://www.gov.uk/government/publications/acute-flaccid-paralysis-and-myelitis-afpm-in-england",
+      "source": "Www.gov.uk",
+      "date": "2026-06-02",
+      "image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
       "category": "market"
     },
     {
-      "title": "After issuing more than $20 billion in tariff refunds, the Trump administration is now pursuing legal action to bring the process to a standstill",
-      "description": "The Justice Department said in a court filing it would appeal a federal judge\u2019s order allowing all importers\u2014not just those who sued the administration\u2014to...",
-      "url": "https://finance.yahoo.com/economy/policy/articles/issuing-more-20-billion-tariff-170059984.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-06-01",
-      "image": "https://s.yimg.com/ny/api/res/1.2/kHL_va0BU2n7jXI7eOe92A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MjA-/https://media.zenfs.com/en/fortune_175/95255e3953924a5d70ea11264ed42166",
+      "title": "St. John's churches struggling to heat 'very big' buildings amid high oil prices",
+      "description": "After months of high fuel prices, some churches in St. John's are struggling to pay unheavenly high oil bills to heat the large buildings \u2014 eating up budgets and leaving few options.",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/churches-oil-prices-9.7215296",
+      "source": "CBC News",
+      "date": "2026-06-02",
+      "image": "https://i.cbc.ca/ais/066e9052-384a-47ce-909d-48e09d5b9b96,1779988202094/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
+      "category": "market"
+    },
+    {
+      "title": "Video: The Reign Ends Here - \"All the Queen's Men\" Reveals Trailer and First Look at Fifth and Final Season Premiering June 10 Only on Paramount+",
+      "description": "The series will launch with two episodes, followed by a weekly rollout culminating in the mid-season finale on Wednesday, July 22.",
+      "url": "http://www.thefutoncritic.com/video/2026/06/02/video-the-reign-ends-here-all-the-queens-men-reveals-trailer-and-first-look-at-fifth-and-final-season-premiering-june-10-only-on-paramountplus-714413/20260602paramount01/",
+      "source": "Thefutoncritic.com",
+      "date": "2026-06-02",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "WeRide, Uber and AVOMO Bring Robotaxis to Madrid",
+      "description": "WeRide and Uber announced plans to launch Spain\u2019s first commercial Robotaxi pilot in Madrid, marking their first joint entry into the European market....",
+      "url": "https://www.globenewswire.com/news-release/2026/06/02/3304896/0/en/WeRide-Uber-and-AVOMO-Bring-Robotaxis-to-Madrid.html",
+      "source": "GlobeNewswire",
+      "date": "2026-06-02",
+      "image": "https://ml.globenewswire.com/Resource/Download/3ace52a2-1a87-4938-80d3-70e50d6afb8f",
+      "category": "currency"
+    },
+    {
+      "title": "Canada's cloud market is 'broken,' report warns",
+      "description": "A new report calls the market for cloud computing in Canada \"broken\" and warns that without requiring compatibility between  shared processing providers, domestic alternatives to U.S. tech giants risk Canadians buying into \"maplewashed dependencies.\"",
+      "url": "https://www.cbc.ca/news/business/cloud-computing-competition-9.7219996",
+      "source": "CBC News",
+      "date": "2026-06-02",
+      "image": "https://i.cbc.ca/ais/7e99d038-cad6-45d3-b075-a61efae728f1,1768612474697/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
       "category": "geopolitics"
     },
     {
-      "title": "Payment system key to lifting Nigerians from poverty \u2013 Cardoso",
-      "description": "CBN Governor Cardoso unveils Nigeria Payments System Vision 2028, highlighting an efficient payment system as crucial for poverty reduction and economic gr\n\nRead More: https://punchng.com/payment-system-key-to-lifting-nigerians-from-poverty-cardoso/",
-      "url": "https://punchng.com/payment-system-key-to-lifting-nigerians-from-poverty-cardoso/",
-      "source": "The Punch",
-      "date": "2026-06-01",
-      "image": "https://cdn.punchng.com/wp-content/uploads/2025/09/23160958/IMG_8132.jpeg",
+      "title": "Treasury yields fall amid hopes of Israel-Hezbollah ceasefire",
+      "description": "U.S. Treasury yields fell on Tuesday, following global yields lower after Lebanon announced a ceasefire between Israel and Iran-backed Hezbollah.",
+      "url": "https://www.cnbc.com/2026/06/02/treasury-yields-investors-pin-hopes-israel-hezbollah-ceasefire.html",
+      "source": "CNBC",
+      "date": "2026-06-02",
+      "image": "https://image.cnbcfm.com/api/v1/image/108285632-1774986309800-cnbc_versant_share.png?v=1774986411&w=1920&h=1080",
       "category": "market"
     },
     {
-      "title": "California Governor\u2019s Primary Closes As a 3-Way Brawl",
-      "description": "The California governor\u2019s primary is closing as a three-way brawl. Steyer used his wealth to pry progressives from Becerra as Hilton consolidated the GOP vote. In Tuesday\u2019s election, we\u2019ll see which two make it to November.",
-      "url": "http://nymag.com/intelligencer/article/california-governor-primary-3-way-brawl.html",
-      "source": "New York Magazine",
-      "date": "2026-06-01",
-      "image": "https://pyxis.nymag.com/v1/imgs/81c/61d/f1b160d69bd3dd72ce74a70ab0a226611a-steyer-spend.1x.rsocial.w1200.jpg",
+      "title": "Pell Recipients Face Higher Food Insecurity",
+      "description": "Pell Recipients Face Higher Food Insecurity\n\n \n\n\n \nJoshua.Bay\n\nTue, 06/02/2026 - 03:00 AM\n\nNew analysis from the Institute for Higher Education Policy reveals that Pell Grant recipients also show lower persistence and completion.\n \n Byline(s)\r\n\n \n Joshua Bay",
+      "url": "https://www.insidehighered.com/news/student-success/college-experience/2026/06/02/pell-recipients-face-higher-food-insecurity",
+      "source": "Inside Higher Ed",
+      "date": "2026-06-02",
+      "image": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-06/CompleteCollegeAmerica_N028.jpg?itok=8f8GoUTE",
+      "category": "market"
+    },
+    {
+      "title": "The Uninsured Crisis: Letter from Arizona",
+      "description": "By EMMANUEL SARKEES Arizona consistently ranks among the states with the highest uninsured rates in the nation. Over 800,000 residents lack health coverage, a number shaped not by failure, but by aContinue reading...",
+      "url": "https://thehealthcareblog.com/blog/2026/06/02/the-uninsured-crisis-letter-from-arizona/",
+      "source": "Thehealthcareblog.com",
+      "date": "2026-06-02",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "Gold Edges Higher as Traders Weigh Confusion Over US-Iran Talks",
+      "description": "Gold edged higher as traders assessed conflicting signals from the US and Iran about a diplomatic resolution to the war.",
+      "url": "https://financialpost.com/pmn/business-pmn/gold-edges-higher-as-traders-weigh-confusion-over-us-iran-talks",
+      "source": "Financial Post",
+      "date": "2026-06-02",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/776460375.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Labor MP calls for AUKUS 'renegotiation'",
+      "description": "An outspoken backbencher has pointed to changes that will see Australia buy three used Virginia-class submarines as a catalyst to consider changes.",
+      "url": "https://www.abc.net.au/news/2026-06-02/ed-husic-calls-for-aukus-deal-rethink-submarines/106750234",
+      "source": "ABC News (AU)",
+      "date": "2026-06-02",
+      "image": "https://live-production.wcms.abc-cdn.net.au/0f681da3e12883fb588342d947dfc5f1?impolicy=wcms_watermark_news&cropH=2880&cropW=5120&xPos=0&yPos=265&width=862&height=485&imformat=generic",
+      "category": "market"
+    },
+    {
+      "title": "Los Angeles Sheriff Shares Big Update Over ICE World Cup Fears",
+      "description": "\u201cAny of that is subject to change, but I have trust that they\u2019re giving me the appropriate information.\"",
+      "url": "https://www.huffpost.com/entry/ice-world-cup-los-angeles-shefriff_n_6a1e71f6e4b08a03cfbc1fc2",
+      "source": "HuffPost",
+      "date": "2026-06-02",
+      "image": "https://img.huffingtonpost.com/asset/6a1e7313140000c59d6b3f2d.jpeg?cache=opIDfFPiQN&ops=1200_630",
       "category": "market"
     }
   ],
@@ -407,17 +407,17 @@
       "platinum_usd_oz": 2014.65
     },
     {
-      "date": "2026-06-02",
+      "date": "2026-06-03",
       "week": "2026-W23",
-      "gold_10g": 137299.72,
-      "silver_kg": 230616.62,
-      "platinum_g": 5931.28,
-      "gold_usd_oz": 4490.68,
-      "silver_usd_oz": 75.43,
-      "platinum_usd_oz": 1939.95
+      "gold_10g": 136592.94,
+      "silver_kg": 227802.8,
+      "platinum_g": 5897.29,
+      "gold_usd_oz": 4456.12,
+      "silver_usd_oz": 74.32,
+      "platinum_usd_oz": 1923.89
     }
   ],
-  "timestamp": "2026-06-02T22:34:08.570131+05:30",
+  "timestamp": "2026-06-03T14:02:32.536133+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
