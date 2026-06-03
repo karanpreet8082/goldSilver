@@ -1,24 +1,24 @@
 {
   "prices": {
     "gold": {
-      "price_per_gram_inr": 13679.33,
-      "price_usd_oz": 4462.66,
-      "change_percent": -0.59,
-      "change_value_usd": -26.36,
-      "price_per_10g_inr": 136793.26
+      "price_per_gram_inr": 13657.62,
+      "price_usd_oz": 4455.58,
+      "change_percent": -0.74,
+      "change_value_usd": -33.44,
+      "price_per_10g_inr": 136576.24
     },
     "silver": {
-      "price_per_gram_inr": 227.97,
-      "price_usd_oz": 74.37,
-      "change_percent": -1.02,
-      "change_value_usd": -0.77,
-      "price_per_kg_inr": 227965.26
+      "price_per_gram_inr": 226.25,
+      "price_usd_oz": 73.81,
+      "change_percent": -1.76,
+      "change_value_usd": -1.33,
+      "price_per_kg_inr": 226250.24
     },
     "platinum": {
-      "price_per_gram_inr": 5920.75,
-      "price_usd_oz": 1931.55,
-      "change_percent": -0.13,
-      "change_value_usd": -2.57
+      "price_per_gram_inr": 5835.05,
+      "price_usd_oz": 1903.59,
+      "change_percent": -1.58,
+      "change_value_usd": -30.53
     },
     "currencies": {
       "USD_INR": 95.3411,
@@ -30,8 +30,8 @@
       "CAD_INR": 68.898,
       "SGD_INR": 74.5202
     },
-    "gold_silver_ratio": 60.01,
-    "timestamp": "2026-06-03T11:26:22.543552",
+    "gold_silver_ratio": 60.37,
+    "timestamp": "2026-06-03T14:12:40.910005",
     "source": "GoldAPI"
   },
   "currencies": {
@@ -53,8 +53,8 @@
         "sell": 25,
         "hold": 50
       },
-      "summary": "Gold is showing negative signals. Slight decline of -0.6%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-03T11:26:27.559909",
+      "summary": "Gold is showing negative signals. Slight decline of -0.7%. Recommendation: HOLD with moderate confidence based on current indicators.",
+      "timestamp": "2026-06-03T14:12:47.439967",
       "source": "rule-based"
     },
     "silver": {
@@ -65,20 +65,20 @@
         "sell": 56,
         "hold": 29
       },
-      "summary": "Silver is showing negative signals. Significant daily drop of -1.0%. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-03T11:26:27.670376",
+      "summary": "Silver is showing negative signals. Significant daily drop of -1.8%. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-06-03T14:12:47.525536",
       "source": "rule-based"
     },
     "platinum": {
       "metal": "platinum",
-      "recommendation": "HOLD",
+      "recommendation": "SELL",
       "confidence": {
-        "buy": 25,
-        "sell": 25,
-        "hold": 50
+        "buy": 15,
+        "sell": 56,
+        "hold": 29
       },
-      "summary": "Platinum is showing negative signals. Slight decline of -0.1%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-03T11:26:27.798057",
+      "summary": "Platinum is showing negative signals. Significant daily drop of -1.6%. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-06-03T14:12:47.623879",
       "source": "rule-based"
     }
   },
@@ -125,6 +125,24 @@
   },
   "news": [
     {
+      "title": "US stocks today: US stocks open lower on fresh Mideast tensions",
+      "description": "US stocks opened lower as rising crude oil prices and renewed Middle East tensions pressured sentiment, after reports of Iranian missile activity near Kuwait and Bahrain. Dow, S&amp;P 500 and Nasdaq slipped at open, while concerns over new US tariff proposals added to risk-off mood despite strong AI",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-open-lower-on-fresh-mideast-tensions/articleshow/131485773.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-06-03",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Realty firm Dalcore awards Rs 225 cr contract to BL Gupta Construction for Gurugram housing project",
+      "description": "The project, spread across nearly 2 acres, has 5 lakh sq ft of built-up area. It will have 96 apartments.",
+      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/realty-firm-dalcore-awards-rs-225-cr-contract-to-bl-gupta-construction-for-gurugram-housing-project/articleshow/131483367.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-06-03",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
       "title": "Rupee falls 31 paise to close at 95.67 against US dollar",
       "description": "The rupee depreciated by 31 paise to 95.67 against the US dollar on Wednesday, influenced by proposed US additional duties on Indian imports due to labor violations. Strong dollar demand, rising crude oil prices, geopolitical tensions, and foreign capital outflows further weakened investor sentiment",
       "url": "https://economictimes.indiatimes.com/markets/forex/rupee-falls-31-paise-to-close-at-95-67-against-us-dollar/articleshow/131482466.cms",
@@ -134,22 +152,85 @@
       "category": "geopolitics"
     },
     {
-      "title": "RBI unlikely to hike rates despite El Ni\u00f1o and fuel price pressures, says Nomura's Aurodeep Nandi",
-      "description": "India's central bank is likely to maintain current interest rates.  Despite rising fuel costs and potential monsoon issues, a key inflation measure remains low.  Experts suggest firms are absorbing price pressures.  The Reserve Bank of India will monitor data before considering any policy changes.  ",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/rbi-unlikely-to-hike-rates-despite-el-nio-and-fuel-price-pressures-says-nomuras-aurodeep-nandi/articleshow/131481097.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-06-03",
-      "image": "",
+      "title": "From Transylvania to Gold: Vibre Hotel Wins Romania's Highest Hospitality Distinction for Independent Boutique Hotels",
+      "description": "CLUJ-NAPOCA, Romania, June 2, 2026 /PRNewswire/ -- In an industry dominated by international hotel brands and large hospitality groups, an independent boutique hotel from Transylvania has achieved one of Romania's highest hospitality distinctions. Vibre Hotel\u2026",
+      "url": "https://www.prnewswire.com/news-releases/from-transylvania-to-gold-vibre-hotel-wins-romanias-highest-hospitality-distinction-for-independent-boutique-hotels-302788697.html",
+      "source": "PRNewswire",
+      "date": "2026-06-02",
+      "image": "https://mma.prnewswire.com/media/2993292/Vibre_Top_Hotel_Awards.jpg?p=facebook",
+      "category": "metals"
+    },
+    {
+      "title": "Mindy Kaling\u2019s \u2018Not Suitable for Work\u2019 Is a Bland \u2018Friends\u2019 Copycat With Hints of a Sharper Show: TV Review",
+      "description": "Mindy Kaling is moving through the stages of life. With Netflix\u2019s \u201cNever Have I Ever,\u201d the comedy mogul took on high school; with HBO Max\u2019s \u201cThe Sex Lives of College Girls,\u201d she (literally) graduated to college. Hulu\u2019s \u201cNot Suitable for Work\u201d \u2014 Kaling\u2019s first\u2026",
+      "url": "https://variety.com/2026/tv/reviews/not-suitable-for-work-review-mindy-kaling-hulu-1236764439/",
+      "source": "Variety",
+      "date": "2026-06-02",
+      "image": "https://variety.com/wp-content/uploads/2026/06/179188_0289_R1.jpg?w=1000&h=563&crop=1",
+      "category": "market"
+    },
+    {
+      "title": "A Greenland Palladium Giant Is Building Toward a Mine \u2014 and Just Added Rare Earths",
+      "description": "Issued on behalf of Greenland Mines Ltd (Nasdaq: GRML) Issued on behalf of Greenland Mines Ltd (Nasdaq: GRML)",
+      "url": "https://www.globenewswire.com/news-release/2026/06/02/3305288/0/en/A-Greenland-Palladium-Giant-Is-Building-Toward-a-Mine-and-Just-Added-Rare-Earths.html",
+      "source": "GlobeNewswire",
+      "date": "2026-06-02",
+      "image": "https://ml.globenewswire.com/Resource/Download/8706309d-9878-47a1-b292-8cc7e952fd84",
       "category": "geopolitics"
     },
     {
-      "title": "Market correction nearing its end; bet on banking, pharma: Rohit Srivastava",
-      "description": "Market correction may be nearing its end, with Nifty approaching a key support zone around 23,077. Banking, energy, and metals sectors show strength, while pharma is poised for a long-term breakout. Investors are advised patience as the market potentially turns upwards.",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/market-correction-nearing-its-end-bet-on-banking-pharma-rohit-srivastava/articleshow/131480037.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-06-03",
-      "image": "",
+      "title": "Strengthening the Foundation: A Predictable, Customer focused Response to AI-Accelerated Vulnerability Discovery",
+      "description": "Cisco is moving to a scheduled, twice-monthly security release model to address AI-accelerated vulnerability discovery, providing customers with greater predictability and streamlined, systemic security updates.",
+      "url": "https://blogs.cisco.com/?p=492452",
+      "source": "Cisco.com",
+      "date": "2026-06-02",
+      "image": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/06/FY26_Q4_strengthening-the-foundation-a-predictable-customer-focused-response-to-ai-accelerated-vulnerability-discovery.jpeg",
+      "category": "market"
+    },
+    {
+      "title": "Wall Street set to open lower even as AI, data center companies soar",
+      "description": "Wall Street set to open lower even as AI, data center companies soarbostonherald.com",
+      "url": "https://www.bostonherald.com/2026/06/02/wall-street-ai-data-center-companies/",
+      "source": "Boston Herald",
+      "date": "2026-06-02",
+      "image": "https://www.bostonherald.com/wp-content/uploads/2026/06/Financial_Markets_Wall_Street_629_1.jpg?w=1024&h=682",
+      "category": "market"
+    },
+    {
+      "title": "$170 Billion in Border and Security Funding Highlights Growing Demand for AI-Powered Surveillance and Machine Vision Technologies",
+      "description": "The AI gold rush continues as government funding and industry growth accelerate adoption of machine vision technologies....",
+      "url": "https://www.globenewswire.com/news-release/2026/06/02/3305202/0/en/170-Billion-in-Border-and-Security-Funding-Highlights-Growing-Demand-for-AI-Powered-Surveillance-and-Machine-Vision-Technologies.html",
+      "source": "GlobeNewswire",
+      "date": "2026-06-02",
+      "image": "https://ml.globenewswire.com/Resource/Download/ee1293de-5e6e-442d-adc1-742b2c98505c",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Diamond drilling program under way at Leviathan Metals\u2019 Central Project, Kalahari Copper Belt, Botswana",
+      "description": "Drilling to target copper mineralization of the style and scale observed at MMG Limited\u2019s adjoining Khoemacau property in closely comparable structures Over 20 kilometers of prospective contact interpreted beneath sand cover at Central from recent airborne el\u2026",
+      "url": "https://financialpost.com/globe-newswire/diamond-drilling-program-under-way-at-leviathan-metals-central-project-kalahari-copper-belt-botswana",
+      "source": "Financial Post",
+      "date": "2026-06-02",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/figure-1-6.png",
+      "category": "market"
+    },
+    {
+      "title": "IT stocks recovery arrests Sensex, Nifty slide",
+      "description": "IT stocks lead recovery in Indian markets, reversing losses despite geopolitical tensions and foreign selling pressures.",
+      "url": "https://www.thehindubusinessline.com/markets/it-stocks-recovery-arrests-sensex-nifty-slide/article71052535.ece",
+      "source": "BusinessLine",
+      "date": "2026-06-02",
+      "image": "https://bl-i.thgim.com/public/incoming/eufqu/article71053389.ece/alternates/LANDSCAPE_1200/2025-09-22T041342Z_1920943076_RC2RWGAMJTDC_RTRMADP_3_INDIA-IT-STOCKS.JPG",
       "category": "geopolitics"
+    },
+    {
+      "title": "Aya Gold & Silver Reports High-Grade Exploration Drill Results Near Pit Depth at Zgounder",
+      "description": "MONTREAL, June 02, 2026 (GLOBE NEWSWIRE) \u2014 Aya Gold & Silver Inc. (TSX: AYA; NASDAQ: AYA) (\u201cAya\u201d or the \u201cCorporation\u201d) is pleased to announce high-grade silver drill results from its at-depth drill exploration program at the Zgounder Silver Mine (\u201cZgounder\u201d) \u2026",
+      "url": "https://financialpost.com/press-releases/globenewswire/aya-gold-silver-reports-high-grade-exploration-drill-results-near-pit-depth-at-zgounder",
+      "source": "Financial Post",
+      "date": "2026-06-02",
+      "image": "https://montrealgazette.com/wp-content/uploads/sites/2/2026/06/figure-1_138165.jpeg",
+      "category": "metals"
     },
     {
       "title": "Trump wants Fort Knox \u2018physically audited\u2019 after stunning $40M arrest \u2014 here's why so many are after the yellow metal",
@@ -170,60 +251,6 @@
       "category": "market"
     },
     {
-      "title": "\u2018Where we are today is frightening\u2019: a Pulitzer-winning historian sees a doomsday scenario involving China and the national debt",
-      "description": "Liaquat Ahamed, whose\u00a0\"Lords of Finance\"\u00a0redefined the Great Depression, says America's debt crisis has a clear historical precedent.",
-      "url": "https://fortune.com/2026/06/02/liaquat-ahamed-interview-author-1873-lords-of-finance-national-debt-frightening/",
-      "source": "Fortune",
-      "date": "2026-06-02",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/IMG_1552-e1779916258886.jpeg?resize=1200,600",
-      "category": "market"
-    },
-    {
-      "title": "Hyland releases AI agent platform and vertical integrations",
-      "description": "Can Hyland be all things to all customers?",
-      "url": "https://www.techtarget.com/searchcontentmanagement/news/366643717/Hyland-releases-AI-agent-platform-and-vertical-integrations",
-      "source": "Techtarget.com",
-      "date": "2026-06-02",
-      "image": "https://www.techtarget.com/visuals/searchEnterpriseAI/ai-platforms/searchEnterpriseAI_021.png",
-      "category": "market"
-    },
-    {
-      "title": "ExGen Appoints Dr. Cynthia Li To Its Board",
-      "description": "NOT FOR DISTRIBUTION TO UNITED STATES NEWSWIRE SERVICES OR FOR DISSEMINATION IN THE UNITED STATES VANCOUVER, British Columbia, June 02, 2026 (GLOBE NEWSWIRE) \u2014 ExGen Resources Inc.\u00a0(TSX.V: EXG; OTC: BXXRF) (\u201cExGen\u201d or the \u201cCompany\u201d) is pleased to announce tha\u2026",
-      "url": "https://financialpost.com/press-releases/globenewswire/exgen-appoints-dr-cynthia-li-to-its-board",
-      "source": "Financial Post",
-      "date": "2026-06-02",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "The World\u2019s Mineral Powers Seize Their Moment",
-      "description": "Resource-rich countries haven\u2019t always benefited from extraction. Can this time be different?",
-      "url": "http://foreignpolicy.com/2026/06/02/critical-mineral-trade-trump-china-supply-chain-africa-latin-america/",
-      "source": "Foreign Policy",
-      "date": "2026-06-02",
-      "image": "https://foreignpolicy.com/wp-content/uploads/2026/06/GettyImages-1595691689_831808.jpg",
-      "category": "market"
-    },
-    {
-      "title": "K92 Mining Releases 2025 Sustainability Report: Delivering Sustainable Value",
-      "description": "K92 Mining Releases 2025 Sustainability Report: Delivering Sustainable Value...",
-      "url": "https://www.globenewswire.com/news-release/2026/06/02/3304936/0/en/K92-Mining-Releases-2025-Sustainability-Report-Delivering-Sustainable-Value.html",
-      "source": "GlobeNewswire",
-      "date": "2026-06-02",
-      "image": "https://ml.globenewswire.com/Resource/Download/b777f2ea-6c46-42ed-a4b8-0567039a812d",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Aya Gold & Silver Reports High-Grade Exploration Drill Results Near Pit Depth at Zgounder",
-      "description": "MONTREAL, June 02, 2026 (GLOBE NEWSWIRE) \u2014 Aya Gold & Silver Inc. (TSX: AYA; NASDAQ: AYA) (\u201cAya\u201d or the \u201cCorporation\u201d) is pleased to announce high-grade silver drill results from its at-depth drill exploration program at the Zgounder Silver Mine (\u201cZgounder\u201d) \u2026",
-      "url": "https://financialpost.com/press-releases/globenewswire/aya-gold-silver-reports-high-grade-exploration-drill-results-near-pit-depth-at-zgounder",
-      "source": "Financial Post",
-      "date": "2026-06-02",
-      "image": "https://montrealgazette.com/wp-content/uploads/sites/2/2026/06/figure-1_138165.jpeg",
-      "category": "metals"
-    },
-    {
       "title": "Discovery Announces Management Changes",
       "description": "TORONTO, June 02, 2026 (GLOBE NEWSWIRE) -- Discovery Silver Corp. (TSX: DSV, OTCQX: DSVSF) (\u201cDiscovery\u201d or the \u201cCompany\u201d) is pleased to announce management appointments in conjunction with the closing of the Company\u2019s acquisition of Glencore Canada Corporatio\u2026",
       "url": "https://www.globenewswire.com/news-release/2026/06/02/3304947/0/en/Discovery-Announces-Management-Changes.html",
@@ -231,6 +258,15 @@
       "date": "2026-06-02",
       "image": "https://ml.globenewswire.com/Resource/Download/6a44694b-2cae-4dea-b555-084425160cb6",
       "category": "metals"
+    },
+    {
+      "title": "K92 Mining Releases 2025 Sustainability Report: Delivering Sustainable Value",
+      "description": "VANCOUVER, British Columbia, June 02, 2026 (GLOBE NEWSWIRE) \u2014 K92 Mining Inc. (\u201cK92\u201d or the \u201cCompany\u201d) (TSX: KNT; OTCQX: KNTNF) is pleased to announce that it has published its 2025 Sustainability Report. This is K92\u2019s seventh annual sustainability report and\u2026",
+      "url": "https://financialpost.com/press-releases/globenewswire/k92-mining-releases-2025-sustainability-report-delivering-sustainable-value",
+      "source": "Financial Post",
+      "date": "2026-06-02",
+      "image": null,
+      "category": "supply_demand"
     },
     {
       "title": "Gold rises as lower oil eases inflation, rate-hike fears",
@@ -242,157 +278,121 @@
       "category": "inflation"
     },
     {
-      "title": "Gold Holds Decline as Traders Weigh Iran War Confusion",
-      "description": "Gold held a decline as conflicting signals from the US and Iran cast doubt over a diplomatic resolution to the war, fanning concerns over inflation and prolonged trade disruptions.",
-      "url": "https://financialpost.com/pmn/business-pmn/gold-holds-decline-as-traders-weigh-iran-war-confusion",
-      "source": "Financial Post",
-      "date": "2026-06-02",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/gold-has-lost-about-15-since-war-started.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "China's security vision resonates at Shangri-La Dialogue",
-      "description": "The Shangri-La Dialogue 2026, Asia's premier defense and security summit, concluded in Singapore on Sunday amid intensifying geopolitical tensions, expanding military activities and growing security uncertainties in the world.",
-      "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/06/china-260602-pdo01.htm",
-      "source": "Globalsecurity.org",
-      "date": "2026-06-02",
-      "image": null,
-      "category": "geopolitics"
-    },
-    {
-      "title": "IRGC Quds Force chief warns Bab al-Mandab will become like Strait of Hormuz",
-      "description": "The commander of the Islamic Revolution Guards Corps Quds Force, Brigadier General Esmail Qa'ani, has warned that the Bab al-Mandab Strait will be subjected to the same traffic restrictions as the Strait of Hormuz if the Zionist regime continues its crimes in\u2026",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260602-presstv01.htm",
-      "source": "Globalsecurity.org",
-      "date": "2026-06-02",
-      "image": null,
-      "category": "geopolitics"
-    },
-    {
-      "title": "Chinese envoy calls for immediate cease-fire, Israeli withdrawal from Lebanon at UN Security Council meeting",
-      "description": "Lebanon's sovereignty, security and territorial integrity must be respected, and Israel should immediately withdraw all its troops from Lebanon, Fu Cong, China's permanent representative to the United Nations, said at an emergency UN Security Council meeting \u2026",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260602-globaltimes01.htm",
-      "source": "Globalsecurity.org",
-      "date": "2026-06-02",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "Trump: Iran Deal Expected 'Over the Next Week'",
-      "description": "President Donald Trump told ABC News that he expects to reach an agreement with Iran to extend the cease-fire and reopen the Strait of Hormuz within the next week.",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260602-rferl01.htm",
-      "source": "Globalsecurity.org",
-      "date": "2026-06-02",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "Foreign Ministry Spokeswoman Maria Zakharova's comment on the detention of the Tagor vessel on the high seas by French military forces",
-      "description": "\"On May 31, French military forces, with support from the United Kingdom, intercepted and detained the Tagor - a vessel sailing from the Russian port of Murmansk to Cameroon with virtually no cargo on board - on the high seas, some 400 nautical miles west of \u2026",
-      "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/06/russia-260602-russia-mfa01.htm",
-      "source": "Globalsecurity.org",
-      "date": "2026-06-02",
-      "image": null,
-      "category": "geopolitics"
-    },
-    {
-      "title": "SK hynix to double memory wafer capacity within five years, chairman says \u2014 AI-driven shortage will persist until at least 2030",
-      "description": "SK hynix will double its memory wafer capacity within five years, SK Group chairman Chey Tae-won told reporters at Computex in Taipei on June 2nd.",
-      "url": "https://www.tomshardware.com/pc-components/dram/sk-hynix-to-double-memory-wafer-capacity-over-five-years",
-      "source": "Tom's Hardware UK",
-      "date": "2026-06-02",
-      "image": "https://cdn.mos.cms.futurecdn.net/YXYewYRJiVjG7hRG47HLkR-2000-80.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Life sciences policy to make Telangana Global hub: Revanth Reddy",
-      "description": "CM highlights \u20b95.75 lakh crore investments, GCC hub status and plans for $3-trillion economy by 2047",
-      "url": "https://www.thehindubusinessline.com/news/national/life-sciences-policy-to-make-telangana-global-hub-revanth-reddy/article71052394.ece",
-      "source": "BusinessLine",
-      "date": "2026-06-02",
-      "image": "https://bl-i.thgim.com/public/incoming/sgozmh/article71052440.ece/alternates/LANDSCAPE_1200/DSC3879.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Rehumanizing global health care with agentic AI",
-      "description": "The global health care sector is under increasing strain.\u00a0 Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populations. Gaps in provision are already taking a toll, with fragmented\u2026",
-      "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
-      "source": "MIT Technology Review",
-      "date": "2026-06-02",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/MIT-Abstract-Thumbnail-2_-V1.png?resize=1200,600",
-      "category": "supply_demand"
-    },
-    {
-      "title": "School is not vocational education\u2019s only venue",
-      "description": "School is not vocational education\u2019s only venue, Bryan Caplan points out (in The Case Against Education): If learning job skills in the school is good, wouldn\u2019t learning job skills on the job be better? Unfortunately, we have an innocuous yet infamous label f\u2026",
-      "url": "https://www.isegoria.net/2026/06/school-is-not-vocational-educations-only-venue/",
-      "source": "Isegoria.net",
-      "date": "2026-06-02",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "News24 | US court blocks Trump plan to expel transgender military service members",
-      "description": "A US appeals court said US President Donald Trump\u2019s administration could, for now, bar transgender people from enlisting in the military, but blocked the expulsion \u200cof current service members while a lawsuit plays out.",
-      "url": "https://www.news24.com/world/us-court-blocks-trump-plan-to-expel-transgender-military-service-members-20260602-0667",
-      "source": "News24",
-      "date": "2026-06-02",
-      "image": "https://news24cobalt.24.co.za/resources/02a6-20c58b78a299-fa6ee39060b1-1000/format/inline/pete_hegseth_pentagon.jpeg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Proposed 'billionaire tax' in California spurs controversy and heavy spending",
-      "description": "Factions for and against California's so-called \"billionaire's tax\" have expended tens of millions weighing in on the measure likely to land on the November ballot.",
-      "url": "https://abcnews.com/Politics/proposed-billionaire-tax-california-spurs-controversy-heavy-spending/story?id=133429896",
-      "source": "Abcnews.com",
-      "date": "2026-06-02",
-      "image": "https://i.abcnewsfe.com/a/5c5c7c19-2e72-4ca3-ab44-c9e7a673d22e/billionaire-tax-sanders-20260531-gty-jh_1780262056046_hpMain_16x9.jpg?w=1600",
-      "category": "market"
-    },
-    {
-      "title": "How Calgary will replace blanket rezoning still unclear, after council's latest housing motion fails",
-      "description": "After Mayor Jeromy Farkas suggested more aggressive local area plan development could replace blanket rezoning's work to increase housing density, city council voted down a motion to follow through on that plan, leaving it unclear how the city will replace th\u2026",
-      "url": "https://www.cbc.ca/news/canada/calgary/blanket-rezoning-replacement-unclear-9.7219404",
-      "source": "CBC News",
-      "date": "2026-06-02",
-      "image": "https://i.cbc.ca/ais/60ee19be-b842-42b4-9325-ec1ec9ad66c8,1774212883416/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
-      "category": "market"
-    },
-    {
-      "title": "Genco Shipping & Trading Limited Board of Directors Unanimously Rejects Diana Shipping\u2019s Revised, Unsolicited Tender Offer",
-      "description": "Offer Continues to Undervalue Genco\u2019s Assets and Business and Fails to Provide Control Premium for Its Leading Drybulk Platform  Genco Has Strong Momentum...",
-      "url": "https://www.globenewswire.com/news-release/2026/06/02/3304957/37397/en/Genco-Shipping-Trading-Limited-Board-of-Directors-Unanimously-Rejects-Diana-Shipping-s-Revised-Unsolicited-Tender-Offer.html",
+      "title": "McCain Foods and ISN\u00ae Celebrate 10-Year Partnership of Contractor Oversight and Worker Verification",
+      "description": "ISN announced the 10-year milestone of its partnership with McCain Foods, a leading prepared foods manufacturer. ...",
+      "url": "https://www.globenewswire.com/news-release/2026/06/02/3305383/0/en/McCain-Foods-and-ISN-Celebrate-10-Year-Partnership-of-Contractor-Oversight-and-Worker-Verification.html",
       "source": "GlobeNewswire",
       "date": "2026-06-02",
-      "image": "https://ml.globenewswire.com/Resource/Download/cba8f69f-b632-4f2a-857f-fd93ff625be0",
+      "image": "https://ml.globenewswire.com/Resource/Download/df28445b-fc24-4c50-91b5-d00417186414",
       "category": "market"
     },
     {
-      "title": "20 Journalist Events in June You Should Know About",
-      "description": "June journalist events will cover housing journalism, fact-checking, travel writing and more.",
-      "url": "https://mediablog.prnewswire.com/2026/06/02/journalist-events-june-2026/",
-      "source": "PRNewswire",
+      "title": "A hidden pollutant is changing how the world's forests breathe",
+      "description": "A massive global analysis found that nitrogen pollution can either speed up or dramatically slow the natural &quot;breathing&quot; of forest soils, depending on the ecosystem&apos;s condition. The results reveal hidden tipping points that could affect how for\u2026",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260602021659.htm",
+      "source": "Science Daily",
       "date": "2026-06-02",
-      "image": "https://i0.wp.com/mediablog.prnewswire.com/wp-content/uploads/2026/06/journalist-events-june-2026.png",
+      "image": "https://www.sciencedaily.com/images/1920/misty-landscape-foggy-fir-forest.webp",
       "category": "market"
     },
     {
-      "title": "EV Charging Station Market to Reach USD 143 Billion by 2035 as Fast-Charging Networks, Smart Energy Management, and Transport Electrification Accelerate Global Infrastructure Expansion",
-      "description": "NEWARK, Del., June 2, 2026 /PRNewswire/ -- The global EV Charging Station Market is projected to grow from USD 26.87 billion in 2025 to USD 143 billion by 2035, expanding at a CAGR of 18.2% during the forecast period. According to Future Market Insights (FMI)\u2026",
-      "url": "https://www.prnewswire.com/news-releases/ev-charging-station-market-to-reach-usd-143-billion-by-2035-as-fast-charging-networks-smart-energy-management-and-transport-electrification-accelerate-global-infrastructure-expansion-302788399.html",
-      "source": "PRNewswire",
+      "title": "Netanyahu Maneuvers Between Trump and Voters as Election Looms",
+      "description": "Within hours of US President Donald Trump forcing Prime Minister Benjamin Netanyahu to abandon a plan to bomb south Beirut, Israel\u2019s parliament began preparing for elections \u2014 highlighting the combustible interplay between war and politics facing the premier.",
+      "url": "https://financialpost.com/pmn/business-pmn/netanyahu-maneuvers-between-trump-and-voters-as-election-looms",
+      "source": "Financial Post",
       "date": "2026-06-02",
-      "image": "https://mmx.prnewswire.com/media/MS1212296/FMI_Logo.jpg?id=OA2644246&p=facebook",
+      "image": null,
       "category": "geopolitics"
     },
     {
-      "title": "Silver, platinum to form part of CBK vault reserves under new proposal - Business Daily",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUWJnX2YzUzN0YzVVcXZwekxZSmR0c1NiQzV2TWtZRDhZLTRLa0xubnF0b3V4RDhWRDczS2ctMkN2ZlROeFNrRmFHYUw2WjRnWXNrQ3ZGUHl5VDllNENUTUJXS3c3RWRyME9GSG5fbGNuUlBKa2JWOVo2WkR3UXNZMVJGR25aSmVTQ3pGMWd3dVBkVFRkZ1pjVlhRVURWZWd6cHRiMDB2Q1hRYUY5bDluek5lRHlnSUxQX1",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUWJnX2YzUzN0YzVVcXZwekxZSmR0c1NiQzV2TWtZRDhZLTRLa0xubnF0b3V4RDhWRDczS2ctMkN2ZlROeFNrRmFHYUw2WjRnWXNrQ3ZGUHl5VDllNENUTUJXS3c3RWRyME9GSG5fbGNuUlBKa2JWOVo2WkR3UXNZMVJGR25aSmVTQ3pGMWd3dVBkVFRkZ1pjVlhRVURWZWd6cHRiMDB2Q1hRYUY5bDluek5lRHlnSUxQX1pTbVVJSVQwOEk?oc=5",
-      "source": "Google News - Precious Metals",
+      "title": "research-os added to PyPI",
+      "description": "MCP server for reproducible, grounded, citation-verified research \u2014 sub-task pipelines, provenance sidecars, publication-grade visualisation, grounded reasoning, and self-tested dashboards.",
+      "url": "https://pypi.org/project/research-os/",
+      "source": "Pypi.org",
       "date": "2026-06-02",
-      "image": "",
-      "category": "platinum"
+      "image": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+      "category": "market"
+    },
+    {
+      "title": "HOFA Gallery Presents Specimens of Time: The Glitched Sublime by Maja Petri\u0107 opening during SXSW London 2026",
+      "description": "LONDON, June 02, 2026 (GLOBE NEWSWIRE) \u2014 HOFA Gallery is pleased to present Specimens of Time: The Glitched Sublime, a new exhibition by Maja Petri\u0107 opening during SXSW London 2026. At a moment increasingly shaped by speed, automation, and relentless digital \u2026",
+      "url": "https://financialpost.com/globe-newswire/hofa-gallery-presents-specimens-of-time-the-glitched-sublime-by-maja-petric-opening-during-sxsw-london-2026",
+      "source": "Financial Post",
+      "date": "2026-06-02",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "A Kickstarter First: SEA-GULL Debuts Meteorite Rattrapante Chronograph Limited Edition",
+      "description": "Limited to 200 pieces worldwide, the collection combines a genuine Muonionalusta meteorite dial with SEA-GULL's upgraded in-house ST1961-2 split-seconds caliber. NEW YORK and TIANJIN, China, June 2, 2026 /PRNewswire/ -- SEA-GULL has officially launched its Me\u2026",
+      "url": "https://www.prnewswire.com/news-releases/a-kickstarter-first-sea-gull-debuts-meteorite-rattrapante-chronograph-limited-edition-302788185.html",
+      "source": "PRNewswire",
+      "date": "2026-06-02",
+      "image": "https://mma.prnewswire.com/media/2992805/SEA_GULL_Launches_World_s_First_Meteorite_Rattrapante_Chronograph_on_Kickstarter_1.jpg?p=facebook",
+      "category": "market"
+    },
+    {
+      "title": "Legend Biotech Shares Surge 20% on Promising ASCO Data for Solid Tumor CAR-T Therapy",
+      "description": "Legend Biotech's shares rose 20% following positive clinical data on its LB2102 CAR-T therapy for solid tumors, presented at ASCO. The results indicate potential expansion beyond multiple myeloma.",
+      "url": "https://www.ibtimes.com.au/legend-biotech-shares-surge-car-t-therapy-data-1869968",
+      "source": "Ibtimes.com.au",
+      "date": "2026-06-02",
+      "image": "https://d.ibtimes.com.au/en/full/1894593/legend-biotech-shares-surge-20-promising-asco-data.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Trailer: David Leitch\u2019s \u201cHow to Rob a Bank\u201d",
+      "description": "Amazon MGM Studios has premiered the official trailer for \u201cBullet Train\u201d and \u201cDeadpool 2\u201d director David Leitch\u2019s new film \u201cHow to Rob a Bank\u201d. The story follows a crew of social media-savvy bank robbers broadcasts their daring heists, unaware that their grow\u2026",
+      "url": "https://www.darkhorizons.com/trailer-david-leitchs-how-to-rob-a-bank/",
+      "source": "Dark Horizons",
+      "date": "2026-06-02",
+      "image": "https://cdndark.darkhorizons.com/wp-content/uploads/2026/06/trailer-david-leitchs-how-to-rob-a-bank.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Remote work \u2014 not AI \u2014 has sidelined recent college graduates, research finds",
+      "description": "The buzz on college campuses is that AI is disrupting the job market for young college graduates. But new research from the Federal Reserve Bank of New York finds that the culprit may be something else: remote work. An analysis of federal employment data, pai\u2026",
+      "url": "https://freerepublic.com/focus/f-chat/4382036/posts",
+      "source": "Freerepublic.com",
+      "date": "2026-06-02",
+      "image": null,
+      "category": "central_bank"
+    },
+    {
+      "title": "Largest-Ever Study of Medically Tailored Meals Finds 31% Reduction in Hospitalizations and Significant Cost Savings for Massachusetts Medicaid Patients",
+      "description": "Published in Nature Medicine, the study of nearly 2,000 people receiving meals from Boston-based Community Servings shows that medically tailored meals essentially pay for themselves \u2014 and save thousands of dollars per patient with certain serious illnesses. \u2026",
+      "url": "https://www.prnewswire.com/news-releases/largest-ever-study-of-medically-tailored-meals-finds-31-reduction-in-hospitalizations-and-significant-cost-savings-for-massachusetts-medicaid-patients-302788698.html",
+      "source": "PRNewswire",
+      "date": "2026-06-02",
+      "image": "https://mma.prnewswire.com/media/2993288/The_AMPL_Institute_at_Community_Servings.jpg?p=facebook",
+      "category": "currency"
+    },
+    {
+      "title": "Bitcoin extends losses below $69K as Fed\u2019s Hammack warns sticky inflation may force rate hike",
+      "description": "Rising interest rates could dampen investment in cryptocurrencies, impacting market stability and investor confidence.\nThe post Bitcoin extends losses below $69K as Fed\u2019s Hammack warns sticky inflation may force rate hike appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/bitcoin-sinks-below-69k-feds-hammack-warns-sticky-inflation-force-rate-hike/",
+      "source": "Crypto Briefing",
+      "date": "2026-06-02",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/02091925/Bitcoin-sinks-below-69K-as-Feds-Hammack-warns-sticky-inflation-may-force-rate-hike-800x420.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "AI Billionaires Are Starting to Get Scared",
+      "description": "The world's tech billionaires are starting to moderate their rhetoric on AI automation, but that doesn't mean it's all in good faith.",
+      "url": "https://futurism.com/future-society/ai-billionaires-scared-labor-automation",
+      "source": "Futurism",
+      "date": "2026-06-02",
+      "image": "https://futurism.com/wp-content/uploads/2026/06/ai-billionaires-scared-labor-automation.jpg?w=1200",
+      "category": "market"
+    },
+    {
+      "title": "Validation and evaluation of diagnostic tests for Schistosoma mansoni in Brazil: The ValidaXisto study protocol",
+      "description": "The persistence of schistosomiasis as a serious public health problem can be attributed, in part, to the lack of more accurate diagnostic techniques, particularly in areas with low prevalence and low parasitic burden. Thus, an effective diagnostic tool with b\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0350547",
+      "source": "Plos.org",
+      "date": "2026-06-02",
+      "image": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0350547.g001&size=inline",
+      "category": "market"
     }
   ],
   "history": [
@@ -409,15 +409,15 @@
     {
       "date": "2026-06-03",
       "week": "2026-W23",
-      "gold_10g": 136793.26,
-      "silver_kg": 227965.26,
-      "platinum_g": 5920.75,
-      "gold_usd_oz": 4462.66,
-      "silver_usd_oz": 74.37,
-      "platinum_usd_oz": 1931.55
+      "gold_10g": 136576.24,
+      "silver_kg": 226250.24,
+      "platinum_g": 5835.05,
+      "gold_usd_oz": 4455.58,
+      "silver_usd_oz": 73.81,
+      "platinum_usd_oz": 1903.59
     }
   ],
-  "timestamp": "2026-06-03T16:56:27.811205+05:30",
+  "timestamp": "2026-06-03T19:42:47.633176+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
