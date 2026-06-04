@@ -1,24 +1,24 @@
 {
   "prices": {
     "gold": {
-      "price_per_gram_inr": 13771.13,
-      "price_usd_oz": 4471.51,
-      "change_percent": 0.83,
-      "change_value_usd": 36.7,
-      "price_per_10g_inr": 137711.31
+      "price_per_gram_inr": 13850.54,
+      "price_usd_oz": 4497.29,
+      "change_percent": 1.41,
+      "change_value_usd": 62.48,
+      "price_per_10g_inr": 138505.43
     },
     "silver": {
-      "price_per_gram_inr": 226.43,
-      "price_usd_oz": 73.52,
-      "change_percent": 1.07,
-      "change_value_usd": 0.78,
-      "price_per_kg_inr": 226426.53
+      "price_per_gram_inr": 229.03,
+      "price_usd_oz": 74.37,
+      "change_percent": 2.23,
+      "change_value_usd": 1.62,
+      "price_per_kg_inr": 229033.54
     },
     "platinum": {
-      "price_per_gram_inr": 5822.89,
-      "price_usd_oz": 1890.7,
-      "change_percent": 1.54,
-      "change_value_usd": 28.68
+      "price_per_gram_inr": 5859.45,
+      "price_usd_oz": 1902.57,
+      "change_percent": 2.18,
+      "change_value_usd": 40.55
     },
     "currencies": {
       "USD_INR": 95.7911,
@@ -30,8 +30,8 @@
       "CAD_INR": 69.0138,
       "SGD_INR": 74.6734
     },
-    "gold_silver_ratio": 60.82,
-    "timestamp": "2026-06-04T10:15:04.511856",
+    "gold_silver_ratio": 60.47,
+    "timestamp": "2026-06-04T12:26:24.436712",
     "source": "GoldAPI"
   },
   "currencies": {
@@ -47,14 +47,14 @@
   "analysis": {
     "gold": {
       "metal": "gold",
-      "recommendation": "HOLD",
+      "recommendation": "BUY",
       "confidence": {
-        "buy": 25,
-        "sell": 25,
-        "hold": 50
+        "buy": 56,
+        "sell": 15,
+        "hold": 29
       },
-      "summary": "Gold is showing positive signals. Positive daily movement of 0.8%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-04T10:15:09.534828",
+      "summary": "Gold is showing positive signals. Strong daily gain of 1.4%. Recommendation: BUY with moderate confidence based on current indicators.",
+      "timestamp": "2026-06-04T12:26:30.272505",
       "source": "rule-based"
     },
     "silver": {
@@ -65,8 +65,8 @@
         "sell": 15,
         "hold": 29
       },
-      "summary": "Silver is showing positive signals. Strong daily gain of 1.1%. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-04T10:15:09.686103",
+      "summary": "Silver is showing positive signals. Strong daily gain of 2.2%. Recommendation: BUY with moderate confidence based on current indicators.",
+      "timestamp": "2026-06-04T12:26:30.363717",
       "source": "rule-based"
     },
     "platinum": {
@@ -77,8 +77,8 @@
         "sell": 15,
         "hold": 29
       },
-      "summary": "Platinum is showing positive signals. Strong daily gain of 1.5%. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-04T10:15:09.783324",
+      "summary": "Platinum is showing positive signals. Strong daily gain of 2.2%. Recommendation: BUY with moderate confidence based on current indicators.",
+      "timestamp": "2026-06-04T12:26:30.455675",
       "source": "rule-based"
     }
   },
@@ -125,6 +125,33 @@
   },
   "news": [
     {
+      "title": "Vodafone Idea among 4 stocks hit a 52-week high, rally up to 45% in a month",
+      "description": "The Great Wealth Shift: Where India\u2019s Next Fortunes Will Be MadeVodafone Idea, Polycab India, CG Power and Federal Bank hit fresh 52-week highs, with Vodafone Idea leading the pack after a 45% rally in the past month.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/vodafone-idea-among-4-stocks-hit-a-52-week-high-rally-up-to-45-in-a-month/slideshow/131506446.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-06-04",
+      "image": "",
+      "category": "central_bank"
+    },
+    {
+      "title": "Withholding tax removal could unlock $25 billion in bond Inflows, says Citi's Aditya Bagree",
+      "description": "India anticipates substantial foreign investment. Two key policy shifts, removing withholding tax on government bonds and inclusion in the Bloomberg Global AGG Index, could attract billions. This influx would strengthen India's balance of payments and ease fiscal pressures. Citi believes these devel",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/withholding-tax-removal-could-unlock-25-billion-in-bond-inflows-says-citis-aditya-bagree/articleshow/131504872.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-06-04",
+      "image": "",
+      "category": "market"
+    },
+    {
+      "title": "Rupee closes at 95.78 vs USD ahead of crucial central bank rate review",
+      "description": "The Indian rupee declined for a second day ahead of the Reserve Bank of India's monetary policy review, with traders anticipating measures to support the currency. The rupee's recent recovery, aided by RBI intervention and expectations of boosted inflows, faces renewed pressure if Friday's policy fa",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-closes-at-95-78-vs-usd-ahead-of-crucial-central-bank-rate-review/articleshow/131504168.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-06-04",
+      "image": "",
+      "category": "central_bank"
+    },
+    {
       "title": "ET Alpha Wealth Summit: Markets forget wars, don't stress too much on geopolitics, says Devina Mehra",
       "description": "Devina Mehra advises investors to prioritize long-term portfolio construction over geopolitical events, citing over a century of market history where wars have had minimal lasting impact. She also stresses the importance of genuine global diversification, as market leadership frequently rotates betw",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-markets-forget-wars-dont-stress-too-much-on-geopolitics-says-devina-mehra/articleshow/131503666.cms",
@@ -134,40 +161,58 @@
       "category": "geopolitics"
     },
     {
-      "title": "Reliance traders said to game plan in case RBI raises rates",
-      "description": "Reliance Industries' treasury department is exploring strategies to manage its cash reserves amid potential interest rate hikes by the Reserve Bank of India. Traders are considering shifting funds to short-dated money market instruments, anticipating capital gains as yield spreads are expected to na",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/reliance-traders-said-to-game-plan-in-case-rbi-raises-rates/articleshow/131501952.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-06-04",
-      "image": "",
-      "category": "central_bank"
+      "title": "Pratap Bhanu Mehta writes: Dear Students Struggling with Exam Chaos and Scams",
+      "description": "I will let you in on a secret. The whole purpose of India\u2019s exam industry, with a few minor exceptions, is no longer to expand opportunity or prepare the country for global competition. Our education ministers, at both the Centre and the states, have been amo\u2026",
+      "url": "https://indianexpress.com/article/opinion/columns/exam-warriors-scams-systemic-failure-neet-cuetopinion-10722314/",
+      "source": "The Indian Express",
+      "date": "2026-06-03",
+      "image": "https://images.indianexpress.com/2026/06/cbse-osm-neet-ug-2026-parliamentary-panel.jpg",
+      "category": "market"
     },
     {
-      "title": "Dollar at two-month high as Gulf hostilities flare, yen near intervention zone",
-      "description": "Although Israel and \u2060Lebanon \u2060agreed to a ceasefire, a broader peace deal remained elusive, keeping oil prices elevated and supporting demand for the safe-haven \u200bdollar.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-at-two-month-high-as-gulf-hostilities-flare-yen-near-intervention-zone/articleshow/131501886.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-06-04",
-      "image": "",
-      "category": "currency"
+      "title": "Legacy Minerals signs agreement with Aurelia Metals for Cobar Project",
+      "description": "Under the terms of the agreement, Aurelia Metals can earn an initial 51% interest in the Cobar Project.",
+      "url": "https://www.mining-technology.com/news/legacy-minerals-agreement-aurelia-cobar-project/",
+      "source": "Mining Technology",
+      "date": "2026-06-03",
+      "image": "https://s.yimg.com/ny/api/res/1.2/JG1qQx.Jdh1HTipAr3.e3A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/mining_technology_700/7aa15e02ab59f6c03400bc822600cc4c",
+      "category": "market"
     },
     {
-      "title": "Nifty faces key resistance near 23,450 as markets await policy outcome, says Ajit Nayak",
-      "description": "Indian stock markets experienced a mixed trading session as investors awaited the upcoming monetary policy. The Nifty is facing resistance near 23,450. Federal Bank shows promise above 301. The auto sector is gaining momentum with opportunities in Mahindra &amp; Mahindra, Bajaj Auto, and Jamna Auto.",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/markets-range-bound-ahead-of-policy-decision-auto-stocks-show-strength-says-ajit-nayak/articleshow/131501464.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-06-04",
-      "image": "",
-      "category": "central_bank"
-    },
-    {
-      "title": "US economy remains strong, India must accelerate reforms and AI adoption: Ajay Srivastava",
-      "description": "Market veteran Ajay Srivastava highlights the U.S. economy's robust performance, contrasting it with Indian investors' perceptions. He emphasizes the global economy's resilience despite geopolitical tensions and urges India to focus on its own economic development and embrace global diversification,",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/us-economy-remains-strong-india-must-accelerate-reforms-and-ai-adoption-ajay-srivastava/articleshow/131500945.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-06-04",
-      "image": "",
+      "title": "Gold prices today, Wednesday, June 3: Prices falling as Middle East tensions flare",
+      "description": "This is today's gold price, Wednesday, June 3, 2026. Gold futures opened at $4,520 this morning, flat with Tuesday\u2019s close, but gold is falling. As of 7:04...",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-wednesday-june-3-prices-falling-as-middle-east-tensions-flare-110823191.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-06-03",
+      "image": "https://s.yimg.com/ny/api/res/1.2/Yn.RHF5UMVbsJoXLEWkfuQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-03/edb7f57c-4e9c-418e-863a-3025d9486f77",
       "category": "geopolitics"
+    },
+    {
+      "title": "Generac's 3.25MW Generator Named Gold Winner in 2026 Consulting-Specifying Engineer Product of the Year Awards",
+      "description": "This recognition underscores Generac's momentum in delivering large-scale, mission-critical backup power. WAUKESHA, Wis., June 3, 2026 /PRNewswire/ -- Generac Holdings Inc. (NYSE: GNRC), a leading global designer, manufacturer and provider of energy technolog\u2026",
+      "url": "https://www.prnewswire.com/news-releases/generacs-3-25mw-generator-named-gold-winner-in-2026-consulting-specifying-engineer-product-of-the-year-awards-302788962.html",
+      "source": "PRNewswire",
+      "date": "2026-06-03",
+      "image": "https://mmx.prnewswire.com/media/MS1852311/Generac_SD3250_generator.jpg?id=OA2644056&p=facebook",
+      "category": "geopolitics"
+    },
+    {
+      "title": "DENARIUS METALS ANNOUNCES CONSENT SOLICITATION PROCESS TO RETIRE ITS CONVERTIBLE DEBENTURES TO STRENGTHEN ITS LIQUIDITY AS IT DEVELOPS ITS GOLD, SILVER AND CRITICAL MINERALS PROJECTS IN COLOMBIA AND SPAIN",
+      "description": "The proposed transaction will fix the Company's capital structure, using its common shares to fully retire the Convertible Debentures. Dramatically strengthens the Company's liquidity as it develops its portfolio of projects by retaining a total of approximat\u2026",
+      "url": "https://www.prnewswire.com/news-releases/denarius-metals-announces-consent-solicitation-process-to-retire-its-convertible-debentures-to-strengthen-its-liquidity-as-it-develops-its-gold-silver-and-critical-minerals-projects-in-colombia-and-spain-302789369.html",
+      "source": "PRNewswire",
+      "date": "2026-06-03",
+      "image": "https://mma.prnewswire.com/media/2993765/Denarius_Metals_Corp__DENARIUS_METALS_ANNOUNCES_CONSENT_SOLICITA.jpg?p=facebook",
+      "category": "metals"
+    },
+    {
+      "title": "How to Write a Freelance Contract \u2013 What to Include and Why (2026)",
+      "description": "How to write a freelance contract: every freelance contract needs seven things \u2014 a clear project scope with specific deliverables, your rate and payment schedule, a revision limit, a kill fee for cancelled projects, intellectual property ownership terms, a co\u2026",
+      "url": "https://www.smashingapps.com/how-to-write-a-freelance-contract/",
+      "source": "Smashingapps.com",
+      "date": "2026-06-03",
+      "image": "https://www.smashingapps.com/wp-content/uploads/2026/06/How-to-Write-a-Freelance-Contract.jpg",
+      "category": "market"
     },
     {
       "title": "DPM Metals Announces Discovery of High-Grade Porphyry Mineralization Adjacent to Chelopech Mine; Results include 713 Metres at 2.52 g/t AuEq (comprising of 1.31 g/t Au and 1.16% Cu)",
@@ -179,63 +224,27 @@
       "category": "metals"
     },
     {
-      "title": "Please Renew Goldfields\u2019 Lease \u2026 Chiefs, Queen Mothers Of Huniso Plead With Government",
-      "description": "The Chief, Queen mother and people of Huniso, in the Western Region, have thrown their support behind the renewal of Gold Fields Ghana Limited\u2019s mining lease, citing the company\u2019s significant contribution to the socio-economic development of host communities \u2026",
-      "url": "https://thechronicle.com.gh/please-renew-goldfields-lease-chiefs-queen-mothers-of-huniso-plead-with-government/",
-      "source": "Thechronicle.com.gh",
-      "date": "2026-06-03",
-      "image": "https://thechronicle.com.gh/wp-content/uploads/2026/06/Nana-Nvida-chief-of-Huniso.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Versant joins US studios microdrama gold rush with GammaTime investment",
-      "description": "Versant Media Group, the publicly traded media company that was spun off from Comcast in January, has made an undisclosed investment in US-based microdrama platform GammaTime. The vertical video app an...",
-      "url": "https://www.c21media.net/news/versant-joins-us-studio-microdrama-rush-with-gammatime-investment/",
-      "source": "C21media.net",
-      "date": "2026-06-03",
-      "image": "https://cdn.c21media.net/wp-content/uploads/2024/11/mark-lazarus.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "Devina Mehra: why should India let foreign investors go beyond using derivatives to hedge portfolios?",
-      "description": "While the country is trying maintain the rupee's exchange rate a reasonable level, foreign players are making speculative money off derivatives while draining our forex and the pockets of Indian retail investors. It\u2019s time for restrictions.",
-      "url": "https://www.livemint.com/opinion/online-views/devina-mehra-india-foreign-investors-derivatives-hedge-portfolios-rupee-exchange-11780395197370.html",
-      "source": "Livemint",
-      "date": "2026-06-03",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/02/1600x900/logo/pexels-photo-16594725_1780397491747_1780397504558_75caa956-0dba-4595-89cc-d71594afb409.jpeg",
-      "category": "currency"
-    },
-    {
-      "title": "RBI denies report of $12 billion gold sale, says holdings unchanged",
-      "description": "The Reserve Bank of India has refuted claims of selling gold reserves. Reports suggested a sale of approximately $12 billion in gold. The RBI stated its physical gold stock remains unchanged at 880.52 tonnes. These reports are inaccurate, according to the cen\u2026",
-      "url": "https://economictimes.indiatimes.com/news/economy/finance/rbi-denies-report-of-12-billion-gold-sale-says-holdings-unchanged/articleshow/131477827.cms",
-      "source": "The Times of India",
-      "date": "2026-06-03",
-      "image": "https://img.etimg.com/thumb/msid-131477864,width-1200,height-630,imgsize-229216,overlay-economictimes/articleshow.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "Stocks Extend Record Rally on AI, Crude Oil Climbs: Markets Wrap",
-      "description": "Global equities advanced to new highs as demand for artificial-intelligence stocks intensified, cementing the sector\u2019s role as the market\u2019s main driver.",
-      "url": "https://financialpost.com/pmn/business-pmn/stocks-extend-record-rally-on-ai-crude-oil-climbs-markets-wrap-2",
+      "title": "Terra Balcanica Obtains Exploration Licence in Bosnia-Herzegovina",
+      "description": "Vancouver, British Columbia, June 03, 2026 (GLOBE NEWSWIRE) \u2014 Terra Balcanica Resources Corp. (\u201cTerra\u201d or the \u201cCompany\u201d) (CSE:TERA; FRA:UB1; OTCQB:TEBAF) is pleased to announce that it has secured a new mineral exploration licence (\u201cPermit\u201d) comprising the Vi\u2026",
+      "url": "https://financialpost.com/globe-newswire/terra-balcanica-obtains-exploration-licence-in-bosnia-herzegovina",
       "source": "Financial Post",
       "date": "2026-06-03",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/stocks-get-tech-lift-to-hit-all-time-highs.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "The AI Bubble: A Financial House of Cards That\u2019s About to Collapse",
-      "description": "Why Analysts are Freaking Out About the AI Investment Numbers I have been building AI systems and using them daily for years, so I understand the genuine technological potential of this breakthrough technology. AI tech is very real and very capable, but what \u2026",
-      "url": "https://www.naturalnews.com/2026-06-03-the-ai-bubble-financial-house-of-cards.html",
-      "source": "Naturalnews.com",
-      "date": "2026-06-03",
-      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/ai-bubble-openai-softbank-1857-original.jpg",
+      "image": null,
       "category": "market"
     },
     {
+      "title": "A2GOLD ANNOUNCES HIGH-GRADE GOLD AND SILVER SURFACE CHANNEL RESULTS FROM BLACKROCK TARGET",
+      "description": "CORE DRILLING ONGOING AT CASTLE ZONE (EASTSIDE) TONOPAH, NEV., June 3, 2026 /PRNewswire/ - A2Gold Corp. (\"A2Gold\" or the \"Company\") (TSXV: AUAU) (OTCQX: AUXXF) (FRA: RR7) is pleased to announce gold and silver assay results from a recent surface channel sampl\u2026",
+      "url": "https://www.prnewswire.com/news-releases/a2gold-announces-high-grade-gold-and-silver-surface-channel-results-from-blackrock-target-302789428.html",
+      "source": "PRNewswire",
+      "date": "2026-06-03",
+      "image": "https://mma.prnewswire.com/media/2993760/A2_Gold_Corp_A2GOLD_ANNOUNCES_HIGH_GRADE_GOLD_AND_SILVER_SURFACE.jpg?p=facebook",
+      "category": "metals"
+    },
+    {
       "title": "Gold Slips as Uncertainty Clouds Negotiations to End US-Iran War",
-      "description": "Gold edged lower as renewed clashes in the Middle East cast doubt over negotiations between the US and Iran to end the war that\u2019s upended energy flows and heightened inflation concerns.",
-      "url": "https://financialpost.com/pmn/business-pmn/gold-slips-as-uncertainty-clouds-negotiations-to-end-us-iran-war",
+      "description": "Gold declined as renewed clashes in the Middle East cast doubt over negotiations between the US and Iran to end the war that\u2019s upended energy flows and heightened inflation concerns.",
+      "url": "https://financialpost.com/pmn/business-pmn/gold-slips-as-uncertainty-clouds-negotiations-to-end-us-iran-war-2",
       "source": "Financial Post",
       "date": "2026-06-03",
       "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/775870023.jpg",
@@ -251,148 +260,139 @@
       "category": "market"
     },
     {
-      "title": "Silver down Rs 700/kg, gold opens flat as Mideast tensions, rising oil prices dent sentiment. What should you do?",
-      "description": "Gold and silver prices opened lower on the MCX on Wednesday as escalating Middle East tensions pushed crude oil prices higher, raising concerns that persistent inflation could delay interest rate cuts. In the previous session, both precious metals had ended w\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-down-rs-700/kg-gold-opens-flat-as-mideast-tensions-rising-oil-prices-dent-sentiment-what-should-you-do/articleshow/131475978.cms",
+      "title": "Michelle Obama: White Men Don't Seem to Fret About This",
+      "description": "Michelle Obama says there's one group she's never heard confess to feeling like a fraud at the top: white men. Speaking at SXSW London on Tuesday during a live taping of her IMO podcast with brother Craig Robinson, the former first lady said that in all the h\u2026",
+      "url": "https://www.newser.com/story/390291/michelle-obama-white-men-dont-face-impostor-syndrome.html",
+      "source": "Newser",
+      "date": "2026-06-03",
+      "image": "https://img1-azrcdn.newser.com/image/1689420-12-20260603073646.jpeg",
+      "category": "market"
+    },
+    {
+      "title": "Cowboys' CeeDee Lamb Speaks Out As AT&T Stadium Installs World Cup Grass",
+      "description": "The World Cup is rolling out grass at AT&T Stadium and CeeDee is rallying for Cowboys to keep it come football season.",
+      "url": "https://roundtable.io/sports/nfl/cowboys/news/cowboys-ceedee-lamb-speaks-out-as-at-t-stadium-installs-world-cup-grass",
+      "source": "Roundtable.io",
+      "date": "2026-06-03",
+      "image": "https://s.yimg.com/ny/api/res/1.2/lXduS5wHnTVuia.dWmGqhA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD01MTU7Y2Y9d2VicA--/https://media.zenfs.com/en/roundtable_sports_dallas_cowboys_articles_466/a430d55f81b03d04fe79794a62757672",
+      "category": "market"
+    },
+    {
+      "title": "How New York bagels, and other traditional dishes from around the world, are becoming 'endangered' because of overtourism",
+      "description": "Have you ever heard of inanchila? What about mosbolletjies? It's no surprise if not, as they are among the traditional dishes becoming 'endangered' because of overtourism.",
+      "url": "https://www.dailymail.com/travel/article-15870075/traditional-dishes-world-endangered-overtourism.html",
+      "source": "Dailymail.com",
+      "date": "2026-06-03",
+      "image": "https://i.dailymail.com/1s/2026/06/03/13/109071397-0-image-m-9_1780488720235.jpg",
+      "category": "market"
+    },
+    {
+      "title": "India insurance market to grow 10.7% annually over next decade, fastest among major markets, says Allianz",
+      "description": "India's insurance market is set for rapid expansion, becoming the world's fastest-growing. Projections show significant annual growth over the next decade. This surge is fueled by a large underinsured population and evolving demographics. Key segments like he\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/insure/india-insurance-market-to-grow-10-7-annually-over-next-decade-fastest-among-major-markets-says-allianz/articleshow/131484233.cms",
       "source": "The Times of India",
       "date": "2026-06-03",
-      "image": "https://img.etimg.com/thumb/msid-131475983,width-1200,height-630,imgsize-66962,overlay-etmarkets/articleshow.jpg",
-      "category": "geopolitics"
+      "image": "https://img.etimg.com/thumb/msid-131484223,width-1200,height-630,imgsize-10210,overlay-economictimes/articleshow.jpg",
+      "category": "market"
     },
     {
-      "title": "Gold Edges Lower as Uncertainty Clouds Talks to End US-Iran War",
-      "description": "Gold edged lower as renewed clashes in the Middle East cast doubt over negotiations between the US and Iran to end the war that\u2019s upended energy flows and heightened inflation concerns.",
-      "url": "https://financialpost.com/pmn/business-pmn/gold-edges-lower-as-uncertainty-clouds-talks-to-end-us-iran-war",
-      "source": "Financial Post",
+      "title": "Enter the Motion Awards X Before June 30th and Save 25%",
+      "description": "The Motion Awards return for their 10th edition and Stash is excited to be part of the festivities. Submit to the awards that define motion design, and SAVE 25% off your entries with the Stash discount code. [Watch]\nThe post Enter the Motion Awards X Before J\u2026",
+      "url": "https://www.stashmedia.tv/save-25-on-your-entries-to-the-motion-awards-x/",
+      "source": "Stashmedia.tv",
       "date": "2026-06-03",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/775870023.jpg",
+      "image": "http://www.stashmedia.tv/wp-content/uploads/The-Motion-Awards-Call-for-Entries-banner-with-Stash-discount-code-_-STASH-MAGAZINE.jpg",
       "category": "geopolitics"
     },
     {
-      "title": "Gold, Silver Rate Today Live Updates: International gold prices edge down on renewed US-Iran tensions",
-      "description": "Gold, Silver Rate Today Live Updates: International and domestic gold prices are seeing a volatile period as global geopolitical tensions and elevate",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-rate-today-live-updates-18k-22-carat-24k-gold-price-10g-silver-cost-per-kg-mcx-comex-etf-stock-precious-metal-gold-prediction-city-wise-cost-latest-gold-news/liveblog/131474346.cms",
+      "title": "Stripe, Visa and Mastercard are close to launching a joint stablecoin platform: Report",
+      "description": "The collaboration could significantly enhance digital payment systems, potentially reshaping global financial transactions and infrastructure.\nThe post Stripe, Visa and Mastercard are close to launching a joint stablecoin platform: Report appeared first on Cr\u2026",
+      "url": "https://cryptobriefing.com/stripe-visa-and-mastercard-close-launching-joint-stablecoin-platform/",
+      "source": "Crypto Briefing",
+      "date": "2026-06-03",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2020/07/02092950/visa-mastercard-keyboard-payments-cover-800x420.png",
+      "category": "market"
+    },
+    {
+      "title": "India's overall white-collar hiring dips 6 pc in May; diversity recruitment surges by 21 pc: Report",
+      "description": "White-collar hiring in India saw a 6 pc dip in May 2026. Overall job postings decreased by 4 percent compared to the previous year. However, companies significantly boosted diversity hiring, with a 21 percent increase. This indicates a strategic focus on incl\u2026",
+      "url": "https://economictimes.indiatimes.com/jobs/hr-policies-trends/indias-overall-white-collar-hiring-dips-6-pc-in-may-diversity-recruitment-surges-by-21-pc-report/articleshow/131484088.cms",
       "source": "The Times of India",
       "date": "2026-06-03",
-      "image": "https://static.toiimg.com/thumb/msid-131474346,width-1280,height-720,imgsize-63704,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "image": "https://img.etimg.com/thumb/msid-131484188,width-1200,height-630,imgsize-48780,overlay-etcareers/articleshow.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Abdu Mudesir to become Verizon\u2019s top tech exec",
+      "description": "Abdu Mudesir abruptly left Deutsche Telekom, where he was head of product and technology, in late MarchNow we know why he left DT so suddenlyMudesir is set to \u2026",
+      "url": "https://www.telecomtv.com/content/5g/abdu-mudesir-to-become-verizon-s-top-tech-exec-55594/",
+      "source": "TelecomTV",
+      "date": "2026-06-03",
+      "image": "https://assets.telecomtv.com/assets/telecomtv/24088-abdu-mudesir-17963.png?w=1200",
+      "category": "market"
+    },
+    {
+      "title": "Most Americans broadly support public education for undocumented students \u2013 regardless of their political affiliation and religion",
+      "description": "Some states are trying to challenge a long-held precedent that undocumented children are allowed to attend public school free of charge.",
+      "url": "https://theconversation.com/most-americans-broadly-support-public-education-for-undocumented-students-regardless-of-their-political-affiliation-and-religion-283945",
+      "source": "The Conversation Africa",
+      "date": "2026-06-03",
+      "image": "https://images.theconversation.com/files/739211/original/file-20260601-71-akqweb.jpg?ixlib=rb-4.1.0&rect=0%2C164%2C1024%2C512&q=45&auto=format&w=1356&h=668&fit=crop",
+      "category": "market"
+    },
+    {
+      "title": "Private payrolls grew by 122,000 in May, stronger than expected, ADP reports",
+      "description": "Unlike prior months, where job growth was concentrated in healthcare and a few other sectors, gains were more broad-based.",
+      "url": "https://www.cnbc.com/2026/06/03/adp-jobs-report-may-2026-payrolls-increase-by-122000.html",
+      "source": "CNBC",
+      "date": "2026-06-03",
+      "image": "https://image.cnbcfm.com/api/v1/image/108303907-1778178630444-gettyimages-2273898116-jr_17775_nnuq2fgr.jpeg?v=1778178878&w=1920&h=1080",
+      "category": "market"
+    },
+    {
+      "title": "It's Time for a Progressive Policy to Protect Agricultural Supply Chains",
+      "description": "The race to obtain critical minerals and the war in Iran have not only exposed a dangerous dependence on fossil fuels and mining, but they have also uncovered something more surprising\u2014Republicans in Congress actually understand progressive agriculture policy\u2026",
+      "url": "https://www.commondreams.org/opinion/progressive-ag-policy",
+      "source": "Common Dreams",
+      "date": "2026-06-03",
+      "image": "https://www.commondreams.org/media-library/image.jpg?id=56532205&width=1200&height=600&coordinates=0%2C250%2C0%2C250",
       "category": "geopolitics"
     },
     {
-      "title": "Gold Steady as Uncertainty Clouds Talks to End US-Iran War",
-      "description": "Gold was steady as renewed clashes in the Middle East cast doubt over negotiations between the US and Iran to end the war that\u2019s upended energy flows and heightened inflation concerns.",
-      "url": "https://financialpost.com/pmn/business-pmn/gold-steady-as-uncertainty-clouds-talks-to-end-us-iran-war",
-      "source": "Financial Post",
+      "title": "USA Rare Earth Finalizes Definitive Agreements with U.S. Department of Commerce, Unlocking Access to Up to $1.6 Billion to Advance the Leading Rare Earth Value Chain",
+      "description": "Definitive Agreements Trigger Access to Up to $277 Million in Federal Funding and Up to $1.3 Billion in CHIPS Senior Secured Loan Capacity to advance the only vertically integrated rare earth company in the U.S. across domestic heavy rare earth mining, proces\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/06/03/3306022/0/en/USA-Rare-Earth-Finalizes-Definitive-Agreements-with-U-S-Department-of-Commerce-Unlocking-Access-to-Up-to-1-6-Billion-to-Advance-the-Leading-Rare-Earth-Value-Chain.html",
+      "source": "GlobeNewswire",
       "date": "2026-06-03",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/775870023.jpg",
+      "image": "https://ml.globenewswire.com/Resource/Download/d5c28bab-f555-48eb-9406-114bc09642a7",
+      "category": "central_bank"
+    },
+    {
+      "title": "Why do federal Medicaid work requirements cut coverage? #health",
+      "description": "What the policy change does Trump\u2019s Medicaid work requirements are moving forward with more restrictive implementation directives. In multiple summaries, Medicaid leaders and advocates say the directives were harsh and represent a shift from prior approaches,\u2026",
+      "url": "https://alltoc.com/health/why-do-federal-medicaid-work-requirements-cut-coverage",
+      "source": "Alltoc.com",
+      "date": "2026-06-03",
+      "image": "https://alltoc.com/cdn/1048/og.png",
       "category": "geopolitics"
     },
     {
-      "title": "Cannes and the feminist blind spot",
-      "description": "How many women past 60 figure in media-led feminist discourses on fashion and beauty? How much do we get to hear of their fear of disease and dependency after crossing 70?",
-      "url": "https://indianexpress.com/article/opinion/columns/cannes-and-the-feminist-blind-spot-fashion-age-beauty-10721938/",
-      "source": "The Indian Express",
+      "title": "Why did the DOJ pause the anti-weaponization fund? #politics",
+      "description": "DOJ backs off \u201canti weaponization\u201d fund after backlash and legal pressure The Trump administration\u2019s plan for a $1.8 billion \u201canti weaponization\u201d (also described as an \u201canti weaponization fund\u201d) moved into a stalemate after court challenges and escalating pol\u2026",
+      "url": "https://alltoc.com/politics/why-did-the-doj-pause-the-anti-weaponization-fund",
+      "source": "Alltoc.com",
       "date": "2026-06-03",
-      "image": "https://images.indianexpress.com/2026/06/royal-fashion_20260603101241.png",
+      "image": "https://alltoc.com/cdn/1048/og.png",
       "category": "market"
     },
     {
-      "title": "Nestle Buys Out Yfood Founders in First Acquisition for New CEO",
-      "description": "Nestle SA is taking full control of ready-to-drink meal maker yfood Labs GmbH, bolstering the company\u2019s push to focus on faster-growing brands, according to people familiar with the matter.",
-      "url": "https://financialpost.com/pmn/business-pmn/nestle-buys-out-yfood-founders-in-first-acquisition-for-new-ceo",
-      "source": "Financial Post",
+      "title": "Why do Medicaid work rules risk coverage loss? #politics",
+      "description": "Trump\u2019s Medicaid work rules and the coverage risk A new federal rule explains how states must implement Medicaid work requirements, but advocates warn it could sharply reduce coverage for low income people who are already likely to miss eligibility checkpoint\u2026",
+      "url": "https://alltoc.com/politics/why-do-medicaid-work-rules-risk-coverage-loss",
+      "source": "Alltoc.com",
       "date": "2026-06-03",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/776462375.jpg",
-      "category": "market"
-    },
-    {
-      "title": "\u2018Godzilla\u2019 El Ni\u00f1o predicted to reap chaos on entire world",
-      "description": "Global temperatures are expected to increase to record levels in the next five years with a 'Super El Ni\u00f1o' predicted for the end of 2026",
-      "url": "https://www.ladbible.com/news/super-el-nino-weather-heatwave-548886-20260603",
-      "source": "LADbible",
-      "date": "2026-06-03",
-      "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/bltf299be74dda4b6d3/6a1ffe48fd1da8075e559c98/Screenshot_2026-06-03_at_11.00.23.png",
-      "category": "market"
-    },
-    {
-      "title": "Trump Begins Rebuilding His Tariff Wall Citing Forced Labor",
-      "description": "The US is proposing new tariffs of at least 10% on imports from 60 trading partners in President Donald Trump\u2019s biggest move to rebuild his protectionist wall since his earlier levies were struck down by the Supreme Court.",
-      "url": "https://financialpost.com/pmn/business-pmn/trump-begins-rebuilding-his-tariff-wall-citing-forced-labor-2",
-      "source": "Financial Post",
-      "date": "2026-06-03",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/776478577.jpg",
+      "image": "https://alltoc.com/cdn/1048/og.png",
       "category": "geopolitics"
-    },
-    {
-      "title": "ZTE and partners nurture global ICT talent through 2026 engineering capacity building program",
-      "description": "Global ICT experts gather in Shenzhen to master cutting-edge engineering practices and foster international collaboration",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183576922",
-      "source": "Slashdot.org",
-      "date": "2026-06-03",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "AI most influential office innovation in 300 years - IWG",
-      "description": "A new reports reveals that artificial intelligence has been named as the most influential office innovation by global CEOs with 36% of bosses ranking it in top spot.",
-      "url": "https://www.rte.ie/news/business/2026/0603/1576549-international-workplace-group-report/",
-      "source": "RTE",
-      "date": "2026-06-03",
-      "image": "https://www.rte.ie/images/0022f877-1600.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Police dismantles 9 crime groups in illegal streaming crackdown",
-      "description": "European and international law enforcement agencies have dismantled nine organized crime groups and arrested 29 suspects in a major crackdown on illegal streaming operations. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crime-groups-in-illegal-streaming-crackdown/",
-      "source": "BleepingComputer",
-      "date": "2026-06-03",
-      "image": "https://www.bleepstatic.com/content/hl-images/2022/10/28/police-arrest-hacker.jpg",
-      "category": "currency"
-    },
-    {
-      "title": "Vinexpo Asia 2026 In Hong Kong Reaffirms International Confidence In Asian Markets",
-      "description": "Held from 26 to 28 May, the 2026 edition of Vinexpo Asia consolidated Hong Kong&#39;s position as a major platform for wine and spirits trade in the ...",
-      "url": "https://en.antaranews.com/news/417804/vinexpo-asia-2026-in-hong-kong-reaffirms-international-confidence-in-asian-markets",
-      "source": "Antaranews.com",
-      "date": "2026-06-03",
-      "image": "https://cdn.antaranews.com/cache/1200x800/2026/06/03/vinexpo.jpg",
-      "category": "market"
-    },
-    {
-      "title": "GoPro warns 'substantial doubt about the company\u2019s ability to continue' in regulatory filings \u2014 AI memory shortage hits action camera maker",
-      "description": "Higher memory costs and lower sales is hitting GoPro hard. The company isn't filing for bankruptcy yet, but it might end up doing that if it does not resolve the issue sooner.",
-      "url": "https://www.tomshardware.com/pc-components/ram/memory-chip-crisis-hits-action-camera-industry-gopro-says-that-its-in-substantial-doubt-about-the-companys-ability-to-continue-in-regulatory-filings",
-      "source": "Tom's Hardware UK",
-      "date": "2026-06-03",
-      "image": "https://cdn.mos.cms.futurecdn.net/uL6kyfvTkZobmzEhtKSn6F-1920-80.png",
-      "category": "geopolitics"
-    },
-    {
-      "title": "New Report Warns Canada\u2019s Progress on MMIWG2S+ Is at Serious Risk as Federal Funding Set to Collapse",
-      "description": "Expiring federal funding threatens to undo hard-won gains for Indigenous women, girls, 2SLGBTQQIA+ people WINNIPEG, Manitoba, June 03, 2026 (GLOBE NEWSWIRE) \u2014 Federal progress on implementing the 231 Calls for Justice from the\u00a0National Inquiry into Missing an\u2026",
-      "url": "https://financialpost.com/globe-newswire/new-report-warns-canadas-progress-on-mmiwg2s-is-at-serious-risk-as-federal-funding-set-to-collapse",
-      "source": "Financial Post",
-      "date": "2026-06-03",
-      "image": null,
-      "category": "geopolitics"
-    },
-    {
-      "title": "Analysis-AI building boom ripples through inflation-hit Treasury market",
-      "description": "By Karen Brettell June 3 (Reuters) - The artificial-intelligence boom already has fueled a record stock-market surge. Now it's driving up long-term Treasury ...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/analysis-ai-building-boom-ripples-100212269.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-06-03",
-      "image": "https://s.yimg.com/os/en/reuters.com/98bd49bc56ced9cb27b264305be5099e",
-      "category": "inflation"
-    },
-    {
-      "title": "Transcript: Stacey Abrams: \u201cEveryone Needs To Be Concerned\u201d",
-      "description": "This is a lightly edited transcript of the June 2 edition of Right Now With Perry Bacon. You can watch the video here or by following this show on YouTube or Substack. Perry Bacon: Good afternoon. I\u2019m Perry Bacon. I\u2019m the host of Right Now on The New Republic\u2026",
-      "url": "https://newrepublic.com/article/211261/transcript-stacey-abrams-everyone-needs-concerned",
-      "source": "The New Republic",
-      "date": "2026-06-03",
-      "image": "https://images.newrepublic.com/00fb217779b8ce2fdb7a3a3612b8608b3eec4e11.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
-      "category": "market"
     }
   ],
   "history": [
@@ -409,15 +409,15 @@
     {
       "date": "2026-06-04",
       "week": "2026-W23",
-      "gold_10g": 137711.31,
-      "silver_kg": 226426.53,
-      "platinum_g": 5822.89,
-      "gold_usd_oz": 4471.51,
-      "silver_usd_oz": 73.52,
-      "platinum_usd_oz": 1890.7
+      "gold_10g": 138505.43,
+      "silver_kg": 229033.54,
+      "platinum_g": 5859.45,
+      "gold_usd_oz": 4497.29,
+      "silver_usd_oz": 74.37,
+      "platinum_usd_oz": 1902.57
     }
   ],
-  "timestamp": "2026-06-04T15:45:09.796583+05:30",
+  "timestamp": "2026-06-04T17:56:30.467647+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
