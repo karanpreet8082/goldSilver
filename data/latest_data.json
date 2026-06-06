@@ -31,7 +31,7 @@
       "SGD_INR": 74.0172
     },
     "gold_silver_ratio": 63.87,
-    "timestamp": "2026-06-06T06:41:44.615906",
+    "timestamp": "2026-06-06T09:06:48.878949",
     "source": "GoldAPI"
   },
   "currencies": {
@@ -54,7 +54,7 @@
         "hold": 29
       },
       "summary": "Gold is showing negative signals. Significant daily drop of -3.3%. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-06T06:41:49.971102",
+      "timestamp": "2026-06-06T09:06:53.682434",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 29
       },
       "summary": "Silver is showing negative signals. Significant daily drop of -8.3%. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-06T06:41:50.074116",
+      "timestamp": "2026-06-06T09:06:53.763615",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 29
       },
       "summary": "Platinum is showing negative signals. Significant daily drop of -6.2%. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-06T06:41:50.169188",
+      "timestamp": "2026-06-06T09:06:53.849481",
       "source": "rule-based"
     }
   },
@@ -125,49 +125,40 @@
   },
   "news": [
     {
-      "title": "GIFT Nifty tumbles 1.5% as US stock market plunges. Will Dalal Street crash on Monday?",
-      "description": "GIFT Nifty plunged over 1.5% after a sharp selloff on Wall Street, signalling a weak start for Dalal Street on Monday. Strong US jobs data fuelled fears of prolonged higher interest rates, pushing Treasury yields higher and triggering a broad market decline. Analysts expect volatility amid global an",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/gift-nifty-tumbles-1-5-as-us-stock-market-plunges-will-dalal-street-crash-on-monday/articleshow/131545625.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-06-06",
-      "image": "",
-      "category": "central_bank"
+      "title": "Meet the big winners of 2026 oil price volatility \u2014 and why their strategies are now shifting focus",
+      "description": "Computer-based trend-following hedge funds have successfully capitalized on huge price moves in energy markets.",
+      "url": "https://www.cnbc.com/2026/06/05/oil-price-iran-hedge-funds-quant-traders-trends-energy-shock.html",
+      "source": "CNBC",
+      "date": "2026-06-05",
+      "image": "https://image.cnbcfm.com/api/v1/image/102193779-457534490.jpg?v=1680803611&w=1920&h=1080",
+      "category": "market"
     },
     {
-      "title": "Dollar firms after strong US jobs data, pushes yen through 160 level",
-      "description": "The dollar strengthened significantly, poised for over a 1% weekly gain following robust U.S. employment figures. Nonfarm payrolls exceeded expectations, boosting the dollar against the yen, which faces pressure near the 160 barrier.  Geopolitical tensions and safe-haven demand further supported the",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-firms-after-strong-us-jobs-data-pushes-yen-through-160-level/articleshow/131545208.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-06-06",
-      "image": "",
+      "title": "Global Markets: Australia shares log worst week in nearly a month with US-Iran talks stuck in limbo",
+      "description": "Australian shares experienced their worst week in nearly a month, with the S&P/ASX 200 index closing down 0.7% on Friday. Escalating U.S.-Iran tensions and conflicting Middle East headlines left investors uneasy, prompting profit-taking and a reassessment of \u2026",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australia-shares-log-worst-week-in-nearly-a-month-with-us-iran-talks-stuck-in-limbo/articleshow/131524855.cms",
+      "source": "The Times of India",
+      "date": "2026-06-05",
+      "image": "https://img.etimg.com/thumb/msid-131524913,width-1200,height-630,imgsize-198298,overlay-etmarkets/articleshow.jpg",
       "category": "geopolitics"
     },
     {
-      "title": "FPIs get tax relief on gilts, ease of Investment",
-      "description": "In a strategic step to lure foreign investment, India has eliminated taxes on capital gains and interest for overseas investors in its government bonds. This change, set to take effect on April 1, is part of an ordinance aimed at enhancing the appeal of Indian sovereign bonds and fortifying the stre",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-get-tax-relief-on-gilts-ease-of-investment/articleshow/131544766.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-06-06",
-      "image": "",
+      "title": "RBI holds repo rate at 5.25%; markets rise as financials gain, metals drag",
+      "description": "The MPC raised FY27 inflation projection to 5.1% and trimmed GDP growth to 6.6%, citing global risks including West Asia conflict, crude oil volatility, and rupee weakness",
+      "url": "https://www.thehindubusinessline.com/markets/stock-markets/rbi-holds-repo-rate-at-525-markets-rise-as-financials-gain-metals-drag/article71064409.ece",
+      "source": "BusinessLine",
+      "date": "2026-06-05",
+      "image": "https://bl-i.thgim.com/public/incoming/dshwa3/article71063944.ece/alternates/LANDSCAPE_1200/PO16_Rising_chart.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "San Francisco Giants Top 50 Prospects",
+      "description": "This system is in pretty good shape, with five Top 100 prospects, an international group that is firing on all cylinders, and a knack for finding quality small-dollar signings.",
+      "url": "https://blogs.fangraphs.com/san-francisco-giants-top-50-prospects/",
+      "source": "Fangraphs.com",
+      "date": "2026-06-05",
+      "image": "https://blogs.fangraphs.com/wp-content/uploads/2026/06/USATSI_28920402.jpg",
       "category": "currency"
-    },
-    {
-      "title": "Nazara Technologies allots 1.82 crore warrants, gets Rs 118.5 crore in upfront payment",
-      "description": "Nazara Technologies has approved the preferential allotment of over 1.82 crore warrants to investors. These warrants are convertible into equity shares. Nazara has received an upfront subscription amount of Rs 118.50 crore. Riambel Capital PCC-RCC1, S Gupta Family Enterprises, Founders Collective Fu",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/nse-investor-accounts-cross-26-crore-mark-as-retail-participation-surges-beyond-metro-cities/articleshow/131544699.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-06-06",
-      "image": "",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Rupee in rhapsody, passes 95 vs USD level at close",
-      "description": "On Friday, the Indian Rupee made impressive gains, climbing 84 paise against the US Dollar. This upward momentum came after the Reserve Bank of India and the government introduced initiatives to lure foreign investors. Closing at 94.95, the Rupee reached its strongest point in over two months. Analy",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-in-rhapsody-passes-95-vs-usd-level-at-close/articleshow/131544419.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-06-06",
-      "image": "",
-      "category": "geopolitics"
     },
     {
       "title": "Feroze Azeez sees better risk-reward in equities than gold despite global uncertainty",
@@ -204,42 +195,6 @@
       "date": "2026-06-05",
       "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/05015150/what-size-gold-bars-do-banks-use-robinson-s-jewelers-1-1-800x420.jpeg",
       "category": "geopolitics"
-    },
-    {
-      "title": "Markets tumble as AI rally pauses and US-Iran peace talks stall",
-      "description": "Oil prices little changed on Friday as traders await more clarity on peace talks",
-      "url": "https://www.irishtimes.com/business/markets/2026/06/05/markets-tumble-as-ai-rally-pauses-and-us-iran-peace-talks-stall/",
-      "source": "The Irish Times",
-      "date": "2026-06-05",
-      "image": "https://www.irishtimes.com/resizer/v2/SKNZI4TJRXYU3ZNMLZZN7FBZAQ.jpg?smart=true&auth=0b36ddf78027096cd6cf5e311e3d144e3be477b4a16eae99cbfe0fc60d37b862&width=1200&height=630",
-      "category": "market"
-    },
-    {
-      "title": "A Tale of Two Types of States: Those with Dumb Energy Laws, and Those with Smart Laws",
-      "description": "\u201cIt was the best of energy policies; it was the worst of energy policies\u201d \u2013 Charles Dickens,\u00a0A Tale of Two Cities.\u00a0(Apocryphal)\nThe post A Tale of Two Types of States: Those with Dumb Energy Laws, and Those with Smart Laws appeared first on Watts Up With That\u2026",
-      "url": "https://wattsupwiththat.com/2026/06/04/a-tale-of-two-types-of-states-those-with-dumb-energy-laws-and-those-with-smart-laws/",
-      "source": "Wattsupwiththat.com",
-      "date": "2026-06-05",
-      "image": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/06/Jeff_Landry_Inaugural_with_Mike_Johnson.webp?fit=1024%2C512&quality=75&ssl=1",
-      "category": "market"
-    },
-    {
-      "title": "SpaceX: Flying High on Impunity",
-      "description": "What very interesting times we live in. On the one hand, we are about to make batteries out of sodium instead of lithium, and grow bones from sheep\u2019s wool instead of punishing anyone with weakening\u2026",
-      "url": "https://georgiebc.wordpress.com/2026/06/01/flying-high-on-impunity/",
-      "source": "Wordpress.com",
-      "date": "2026-06-05",
-      "image": "https://georgiebc.wordpress.com/wp-content/uploads/2026/06/muskaltmandario.png",
-      "category": "market"
-    },
-    {
-      "title": "Gold Rate Today: Check the live price of 22K, 24K and 18K gold prices on 5 June 2026",
-      "description": "Gold Rate Today: Here are gold rates in key Indian cities on Friday, 5 June 2026. Check the price of 18K, 22K and 24K gold in Ahmedabad, Bengaluru, Chennai, Delhi, Hyderabad, Kolkata, and Mumbai today.",
-      "url": "https://www.livemint.com/money/personal-finance/gold-rate-today-check-live-price-of-22k-24k-18k-gold-prices-5-june-2026-mumbai-delhi-chennai-bengaluru-kolkata-hyderabad-11780627607556.html",
-      "source": "Livemint",
-      "date": "2026-06-05",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/05/1600x900/logo/2-0-1446757421-RTX3SM5B-0_1679738599550_1780628551149_0ffd1821-ffb3-4395-a04f-61dddb7b3ba2.jpg",
-      "category": "metals"
     },
     {
       "title": "Why are gold and silver prices down today, and will precious metals continue to drop or rise again? Analysts insights, market outlook and what should investors do now",
@@ -305,94 +260,139 @@
       "category": "geopolitics"
     },
     {
-      "title": "Southeast Asia Enjoys Some Inflation Relief as Oil Prices Ease",
-      "description": "Inflation has decelerated in the Philippines and Thailand as global crude costs eased, giving their central banks more breathing room as they assess the need to further raise interest rates.",
-      "url": "https://financialpost.com/pmn/business-pmn/southeast-asia-enjoys-some-inflation-relief-as-oil-prices-ease",
-      "source": "Financial Post",
+      "title": "Marked: school grades and the quantified life",
+      "description": "Rohde, N. (2026). Marked: school grades and the quantified life. LSE Press. https://doi.org/10.31389/lsepress.mar",
+      "url": "https://researchonline.lse.ac.uk/id/eprint/138726/",
+      "source": "Lse.ac.uk",
       "date": "2026-06-05",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/thai-philippine-inflation-cooled-in-may-consumer-price-ind.jpg",
-      "category": "central_bank"
+      "image": null,
+      "category": "market"
     },
     {
-      "title": "Seattle Welcomes the World: Space Needle Transforms into Giant Soccer Ball for FIFA World Cup 2026\u2122",
-      "description": "Iconic Landmark and SeattleFWC26 Kicks Off Celebrating Seattle's Role as a FIFA World Cup 2026\u2122 Host City SEATTLE, June 5, 2026 /PRNewswire/ -- As Seattle prepares to welcome the world for FIFA World Cup 2026\u2122, the Space Needle and Seattle FIFA World Cup 26\u2122 \u2026",
-      "url": "https://www.prnewswire.com/news-releases/seattle-welcomes-the-world-space-needle-transforms-into-giant-soccer-ball-for-fifa-world-cup-2026-302792436.html",
+      "title": "\"They Will Kill You\" Begins Streaming Exclusively on HBO Max June 12",
+      "description": "The film stars Zazie Beetz, Myha'La, Paterson Joseph, Tom Felton, Heather Graham, and Patricia Arquette.",
+      "url": "http://www.thefutoncritic.com/news/2026/06/05/they-will-kill-you-begins-streaming-exclusively-on-hbo-max-june-12-735411/20260605wbd01/",
+      "source": "Thefutoncritic.com",
+      "date": "2026-06-05",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "Why Netflix Stock Remains a Compelling Buy for Investors in 2026",
+      "description": "Netflix continues to attract investors in 2026 with strong revenue growth, expanding advertising, and a massive global subscriber base, positioning it for long-term success despite market volatility.",
+      "url": "https://www.ibtimes.com.au/netflix-strategic-growth-investment-2026-1870161",
+      "source": "Ibtimes.com.au",
+      "date": "2026-06-05",
+      "image": "https://d.ibtimes.com.au/en/full/1893801/netflix-celebrates-opening-its-production-hub-madrid.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Indonesia eyes global partners for giant sea wall project",
+      "description": "Indonesia&#39;s giant sea wall project, planned along Java&rsquo;s northern coastline (Pantura) has opened up new opportunities for international cooperation, ...",
+      "url": "https://en.antaranews.com/news/418103/indonesia-eyes-global-partners-for-giant-sea-wall-project",
+      "source": "Antaranews.com",
+      "date": "2026-06-05",
+      "image": "https://cdn.antaranews.com/cache/1200x800/2026/06/05/WhatsApp-Image-2026-06-05-at-06.26.26_edited.jpg",
+      "category": "market"
+    },
+    {
+      "title": "China's Leading Innovative Drug Developer for Allergic and Autoimmune Diseases LongBio Pharma Lists on Hong Kong Stock Exchange",
+      "description": "SHANGHAI, June 5, 2026 /PRNewswire/ -- LongBio Pharma, a portfolio company of Qiming Venture Partners and a leading innovative drug developer for allergic and autoimmune diseases in China, listed on the Hong Kong Stock Exchange on June 5, 2026 Beijing time, m\u2026",
+      "url": "https://www.prnewswire.com/news-releases/chinas-leading-innovative-drug-developer-for-allergic-and-autoimmune-diseases-longbio-pharma-lists-on-hong-kong-stock-exchange-302792533.html",
       "source": "PRNewswire",
       "date": "2026-06-05",
-      "image": "https://mmx.prnewswire.com/media/MS613936/Space_Needle_Logo.jpg?id=OA2669981&p=facebook",
+      "image": null,
       "category": "market"
     },
     {
-      "title": "Oil: Brent stabilizes at $95 due to uncertainty in the Middle East",
-      "description": "U.S. crude remains near $93 a barrel as markets assess conflicting signals from diplomatic activity in the Middle East and developments surrounding the Strait of Hormuz\nThe post Oil: Brent stabilizes at $95 due to uncertainty in the Middle East appeared first\u2026",
-      "url": "https://en.protothema.gr/2026/06/05/oil-brent-stabilizes-at-95-due-to-uncertainty-in-the-middle-east/",
-      "source": "Protothema.gr",
+      "title": "NBA chief warns fans after 'stupid' court invasion",
+      "description": "NBA commissioner Adam Silver says major sports events present an \"enormous platform to do stupid things\" and warned fans the \"consequences are dramatic\".",
+      "url": "https://www.bbc.com/sport/articles/c3e2ep9qkq0o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "source": "BBC News",
       "date": "2026-06-05",
-      "image": "https://en.protothema.gr/wp-content/uploads/2026/06/xroma-petrelaio-2.jpg-2.jpg",
+      "image": "https://s.yimg.com/os/en/bbc_us_articles_995/3af36905cc943b03620024dd86562aa4",
       "category": "geopolitics"
     },
     {
-      "title": "Indian artists did win at the 2026 Grammys Awards after all",
-      "description": "When the nominations for this year\u2019s Grammy Awards were announced in November 2025, releases by Indian acts made up half of the six nods in the Best Global Music Album [\u2026]\nThe post is from Music Ally.",
-      "url": "http://musically.com/2026/06/05/indian-artists-did-win-at-the-2026-grammys-awards-after-all/",
-      "source": "Music Ally",
+      "title": "Sphere Abacus hires Mem Bakar to head sales as Ros Ali prepares to retire",
+      "description": "UK-based Sphere Abacus has appointed Mem Bakar as its sales director for Germany, Central and Eastern Europe (CEE) and the Commonwealth of Independent States region. Bakar, who was previously senior sa...",
+      "url": "https://www.c21media.net/news/sphere-abacus-hires-mem-bakar-to-head-sales-as-ros-ali-prepares-to-retire/",
+      "source": "C21media.net",
       "date": "2026-06-05",
-      "image": "https://musically.com/wp-content/uploads/2026/06/Ayaan-Ali-Bangash-Amjad-Ali-Khan-and-Amaan-Ali-Bangash.jpg",
+      "image": "https://cdn.c21media.net/wp-content/uploads/2026/06/mem-bakar-feat.jpg",
+      "category": "currency"
+    },
+    {
+      "title": "Senate Passes $70 Billion Immigration Enforcement Bill Without Limits On Trump Slush Fund",
+      "description": "Republicans narrowly defeated multiple attempts to add language to the bill that would permanently ban the president's settlement fund.",
+      "url": "https://www.huffpost.com/entry/senate-passes-immigration-enforcement-bill_n_6a228f92e4b0ed55359e3175",
+      "source": "HuffPost",
+      "date": "2026-06-05",
+      "image": "https://img.huffingtonpost.com/asset/6a228f93140000f8251adfe4.jpeg?cache=DZpR4Do8Gq&ops=1200_630",
+      "category": "market"
+    },
+    {
+      "title": "May jobs report expected to show growth in an economy squeezed by inflation",
+      "description": "The May jobs report, set to be released Friday morning, is expected to show that hiring has remained steady despite growing inflation.",
+      "url": "https://www.nbcnews.com/business/economy/may-jobs-report-inflation-rcna348020",
+      "source": "NBC News",
+      "date": "2026-06-05",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260604-job-seekers-vsb-1928-55b709.jpg",
+      "category": "inflation"
+    },
+    {
+      "title": "Sam Altman, Mark Cuban and Elizabeth Warren are wrong: the tax code doesn\u2019t need an apocalypse clause",
+      "description": "AI-specific taxes on tokens and compute \u2014 and billionaire-backed worker displacement funds \u2014 would break the resilience of the tax code through history.",
+      "url": "https://fortune.com/2026/06/05/sam-altman-vinod-khosla-ai-tax-wrong-tax-foundation/",
+      "source": "Fortune",
+      "date": "2026-06-05",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2265445220_1fa7e6-e1780001999332.jpg?resize=1200,600",
       "category": "geopolitics"
     },
     {
-      "title": "Michael Jackson Series Finds Huge Success Ahead of Michael\u2019s Streaming Release",
-      "description": "A documentary series revisiting the 2005 trial of Michael Jackson has surged to the top of Netflix\u2019s charts, just as a major biopic about the singer prepares for its streaming release. The unexpected success of this new series proves the world\u2019s fascination w\u2026",
-      "url": "https://www.comingsoon.net/tv/news/2143496-michael-jackson-series-streaming-success-netflix",
-      "source": "ComingSoon.net",
+      "title": "Here Announces Unaudited Financial Results for the Third Quarter of Fiscal Year 2026",
+      "description": "BEIJING, June 05, 2026 (GLOBE NEWSWIRE) -- Here Group Limited (NASDAQ: HERE) (\u201cHere\u201d or the \u201cCompany\u201d), an IP1-based pop toy company dedicated to creating beloved collectibles and trend-defining experiences, today announced its unaudited financial results for\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/06/05/3307250/0/en/Here-Announces-Unaudited-Financial-Results-for-the-Third-Quarter-of-Fiscal-Year-2026.html",
+      "source": "GlobeNewswire",
       "date": "2026-06-05",
-      "image": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/06/MixCollage-05-Jun-2026-11-59-AM-7626.jpg?resize=1200,630",
+      "image": null,
       "category": "market"
     },
     {
-      "title": "RBI keeps rates unchanged, cuts growth and hikes inflation forecast",
-      "description": "India Business News: MUMBAI: RBI held key policy rates unchanged on June 5, 2026, and revised growth and inflation projections amid a deteriorating global environment, ele.",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-keeps-rates-unchanged-cuts-growth-and-hikes-inflation-forecast/articleshow/131523696.cms",
-      "source": "The Times of India",
+      "title": "Upcoming Billing Change Could Make Pregnancy Pricier",
+      "description": "Come January, pregnancy care physician billing codes will change from a bundled system to an \u00e0 la carte one. Many obstetricians say this approach will better reflect the amount and type of care they provide. But it could incentivize providers to pile on visit\u2026",
+      "url": "https://kffhealthnews.org/health-care-costs/pregnancy-costs-billing-code-changes-maternity-care-childbirth-obgyn-obstetricians/",
+      "source": "Kffhealthnews.org",
       "date": "2026-06-05",
-      "image": "https://static.toiimg.com/thumb/msid-131523736,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "category": "central_bank"
+      "image": "https://kffhealthnews.org/wp-content/uploads/sites/8/2026/06/GettyImages-57226319-resized.jpg",
+      "category": "market"
     },
     {
-      "title": "Stagflation risks rise as oil prices threaten global growth outlook: Peter Cardillo",
-      "description": "Global economic outlook darkens with stagflation fears as energy prices fuel persistent inflation. Experts warn central banks may keep interest rates high longer than anticipated. Geopolitical tensions, particularly concerning Iran, are prolonging market unce\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/stagflation-risks-rise-as-oil-prices-threaten-global-growth-outlook-peter-cardillo/articleshow/131523749.cms",
-      "source": "The Times of India",
+      "title": "Anti-Trump ex-Republicans are running in Democratic primaries. They\u2019re off to a rocky start.",
+      "description": "Some anti-Trump Republicans have taken their political journey one step further: running for office as full-fledged Democrats. But so far in 2026, their new party\u2019s primary voters haven\u2019t shown much appetite for their candidacies.",
+      "url": "https://www.nbcnews.com/politics/2026-election/anti-trump-former-republicans-are-running-democratic-primaries-rcna348339",
+      "source": "NBC News",
       "date": "2026-06-05",
-      "image": "https://img.etimg.com/thumb/msid-131523732,width-1200,height-630,imgsize-55686,overlay-etmarkets/articleshow.jpg",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260604-George-Conway-ch-1505-8c383e.jpg",
+      "category": "market"
+    },
+    {
+      "title": "How to build UX using Claude Haiku 4.5 + Custom Design Systems \u2013 Use UXPin Merge!",
+      "description": "Use AI-generated component-aware UX and code-based Merge prototypes to build consistent, accessible enterprise interfaces faster.\nThe post How to build UX using Claude Haiku 4.5 + Custom Design Systems \u2013 Use UXPin Merge! appeared first on Studio by UXPin.",
+      "url": "https://www.uxpin.com/studio/blog/build-ux-claude-haiku-4-5-custom-design-systems-uxpin-merge/",
+      "source": "Uxpin.com",
+      "date": "2026-06-05",
+      "image": "https://studio.uxpincdn.com/studio/wp-content/uploads/2026/06/image_1a61c4f9870233ce241a1dac941776ea.png.webp",
       "category": "geopolitics"
     },
     {
-      "title": "Senate in overnight session as Republicans debate limits on $1.8B Trump settlement",
-      "description": "Senate Republicans are working overnight as they try to pass legislation to fund President Donald Trump\u2019s immigration enforcement agencies",
-      "url": "https://abcnews.com/Politics/wireStory/senate-overnight-session-republicans-debate-limits-18b-trump-133608675",
-      "source": "Abcnews.com",
+      "title": "Gold, Silver, Platinum & Palladium Analysis by Jeffrey Christian | CPM Group - News and Statistics - IndexBox",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOS2twMUoxVl9ycUNObkFrUWp2NUwycS1hNF8wN1hvU0Z0d0JpTENfejlKSlFxbmlkNWlzYUVSMktxYzJTR2lvWlVhTWhfeTdOUENRdW14aDdxMmJ5QmVMbDJTbkVzLW5fbHhiaWZnSVBfUmw3YTRSNUlSVW1jZGNYaEMyYU1YOWxiR3pYVg?oc=5\" target=\"_blank\">Gold, Silver, Platinum & Palladium An",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS2twMUoxVl9ycUNObkFrUWp2NUwycS1hNF8wN1hvU0Z0d0JpTENfejlKSlFxbmlkNWlzYUVSMktxYzJTR2lvWlVhTWhfeTdOUENRdW14aDdxMmJ5QmVMbDJTbkVzLW5fbHhiaWZnSVBfUmw3YTRSNUlSVW1jZGNYaEMyYU1YOWxiR3pYVg?oc=5",
+      "source": "Google News - Precious Metals",
       "date": "2026-06-05",
-      "image": "https://i.abcnewsfe.com/a/d39ac551-48d0-4b51-99a8-8b06c984dec2/wirestory_93b9f5b487997b629d87bf59a046d7ec_16x9.jpg?w=1600",
-      "category": "market"
-    },
-    {
-      "title": "What did Todd Blanche say about Trump AG nomination? #politics",
-      "description": "Blanche calls the nomination an \u201chonor of a lifetime\u201d Acting Attorney General Todd Blanche said he was \u201chonored and humbled\u201d that President Donald Trump plans to nominate him as attorney general. The coverage ties Blanche\u2019s remarks to Trump\u2019s decision to plac\u2026",
-      "url": "https://alltoc.com/politics/what-did-todd-blanche-say-about-trump-ag-nomination",
-      "source": "Alltoc.com",
-      "date": "2026-06-05",
-      "image": "https://alltoc.com/cdn/1048/og.png",
-      "category": "market"
-    },
-    {
-      "title": "Trump Signs Executive Order Allowing Easier Firing of Senior Federal Employees",
-      "description": "President Donald Trump on June 3 signed an executive order moving roughly 8,000 senior federal employees into a new at-will classification that makes it easier to remove them for poor performance or misconduct, according to the White House and multiple news r\u2026",
-      "url": "https://www.naturalnews.com/2026-06-05-trumps-eo-allowing-easier-firing-senior-federal-employees.html",
-      "source": "Naturalnews.com",
-      "date": "2026-06-05",
-      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/executive-order-schedule-policycareer-federal-employees-1910-original.jpg",
-      "category": "central_bank"
+      "image": "",
+      "category": "platinum"
     }
   ],
   "history": [
@@ -417,7 +417,7 @@
       "platinum_usd_oz": 1779.15
     }
   ],
-  "timestamp": "2026-06-06T12:11:50.181340+05:30",
+  "timestamp": "2026-06-06T14:36:53.862900+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
