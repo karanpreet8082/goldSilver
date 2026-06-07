@@ -1,48 +1,48 @@
 {
   "prices": {
     "gold": {
-      "price_per_gram_inr": 13252.8,
+      "price_per_gram_inr": 13259.35,
       "price_usd_oz": 4328.87,
       "change_percent": -3.27,
       "change_value_usd": -146.4,
-      "price_per_10g_inr": 132527.99
+      "price_per_10g_inr": 132593.54
     },
     "silver": {
-      "price_per_gram_inr": 207.5,
+      "price_per_gram_inr": 207.6,
       "price_usd_oz": 67.78,
       "change_percent": -8.27,
       "change_value_usd": -6.11,
-      "price_per_kg_inr": 207500.24
+      "price_per_kg_inr": 207602.87
     },
     "platinum": {
-      "price_per_gram_inr": 5446.85,
+      "price_per_gram_inr": 5449.55,
       "price_usd_oz": 1779.15,
       "change_percent": -6.19,
       "change_value_usd": -117.36
     },
     "currencies": {
-      "USD_INR": 95.2231,
-      "EUR_INR": 110.0463,
-      "GBP_INR": 127.3717,
-      "JPY_INR": 0.5945,
-      "CHF_INR": 119.883,
-      "AUD_INR": 67.3193,
-      "CAD_INR": 68.4123,
-      "SGD_INR": 74.0172
+      "USD_INR": 95.2702,
+      "EUR_INR": 110.1772,
+      "GBP_INR": 127.52,
+      "JPY_INR": 0.5949,
+      "CHF_INR": 120.033,
+      "AUD_INR": 67.405,
+      "CAD_INR": 68.4707,
+      "SGD_INR": 74.0653
     },
     "gold_silver_ratio": 63.87,
-    "timestamp": "2026-06-06T14:17:54.088269",
+    "timestamp": "2026-06-07T07:40:17.844449",
     "source": "GoldAPI"
   },
   "currencies": {
-    "USD_INR": 95.2231,
-    "EUR_INR": 110.0463,
-    "GBP_INR": 127.3717,
-    "JPY_INR": 0.5945,
-    "CHF_INR": 119.883,
-    "AUD_INR": 67.3193,
-    "CAD_INR": 68.4123,
-    "SGD_INR": 74.0172
+    "USD_INR": 95.2702,
+    "EUR_INR": 110.1772,
+    "GBP_INR": 127.52,
+    "JPY_INR": 0.5949,
+    "CHF_INR": 120.033,
+    "AUD_INR": 67.405,
+    "CAD_INR": 68.4707,
+    "SGD_INR": 74.0653
   },
   "analysis": {
     "gold": {
@@ -54,7 +54,7 @@
         "hold": 29
       },
       "summary": "Gold is showing negative signals. Significant daily drop of -3.3%. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-06T14:17:59.668645",
+      "timestamp": "2026-06-07T07:40:23.371671",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 29
       },
       "summary": "Silver is showing negative signals. Significant daily drop of -8.3%. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-06T14:17:59.792158",
+      "timestamp": "2026-06-07T07:40:23.472008",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 29
       },
       "summary": "Platinum is showing negative signals. Significant daily drop of -6.2%. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-06T14:17:59.919111",
+      "timestamp": "2026-06-07T07:40:23.578062",
       "source": "rule-based"
     }
   },
@@ -125,274 +125,274 @@
   },
   "news": [
     {
-      "title": "Stock pickers\u2019 market ahead as RBI flags risks; largecaps, banks and capex plays offer value: George Thomas",
-      "description": "George Thomas of Quantum AMC believes Indian markets have entered a stock pickers\u2019 phase as RBI flags inflation and growth risks. He favours largecaps, banks, healthcare and capex-linked sectors, while cautioning against expensive smallcaps. With geopolitical tensions and rising energy prices weighi",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/stock-pickers-market-ahead-as-rbi-flags-risks-largecaps-banks-and-capex-plays-offer-value-george-thomas/articleshow/131549054.cms",
+      "title": "FIIs, weak global cues among 5 factors that could keep D-St under pressure this week",
+      "description": "Indian stock markets may remain under pressure this week amid persistent FII selling, weak global cues, rising geopolitical tensions in West Asia and elevated crude oil prices. While RBI\u2019s policy measures and steps to attract foreign capital could support sentiment, investors will closely track mons",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-weak-global-cues-among-5-factors-that-could-keep-d-st-under-pressure-this-week/articleshow/131561835.cms",
       "source": "Economic Times Markets",
-      "date": "2026-06-06",
+      "date": "2026-06-07",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "FO Exclusive: The $39 Trillion Trap \u2014 The Terrifying Reality of America\u2019s Bond Market",
-      "description": "Editor-in-Chief Atul Singh and FOI Senior Partner Glenn Carle, a retired CIA officer who now advises companies, governments and organizations on geopolitical risk, examine a global economy under mounting strain. Inflation is accelerating after the US/Israel\u2013I\u2026",
-      "url": "https://www.fairobserver.com/economics/fo-exclusive-the-39-trillion-trap-the-terrifying-reality-of-americas-bond-market/",
-      "source": "Fair Observer",
-      "date": "2026-06-05",
-      "image": "https://www.fairobserver.com/wp-content/uploads/2026/06/The-39-Trillion-Trap-The-Terrifying-Reality-of-Americas-Bond-Market-Fair-Observer-Exclusive.jpeg",
+      "title": "South America to ramp up India outreach despite geography",
+      "description": "In an era of growing diplomatic relations, South American countries are increasingly turning to India, with Argentina leading the charge by acknowledging the strategic and economic partnerships at play. As India's sixth largest trading ally, Argentina plays a\u2026",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/south-america-to-ramp-up-india-outreach-despite-geography/articleshow/131546582.cms",
+      "source": "The Times of India",
+      "date": "2026-06-06",
+      "image": "https://img.etimg.com/thumb/msid-131546768,width-1200,height-630,imgsize-175410,overlay-economictimes/articleshow.jpg",
+      "category": "market"
+    },
+    {
+      "title": "\u2018Capital has no nationality,\u2019 FII are selling India despite the growth story \u2013 5 key factors to look at",
+      "description": "FIIs withdrew roughly  \u20b91.98 lakh crore in the first four months of 2026 alone, vastly exceeding the  \u20b91.66 lakh crore withdrawn in all of 2025.",
+      "url": "https://www.livemint.com/money/personal-finance/capital-has-no-nationality-fii-are-selling-india-despite-the-growth-story-5-key-factors-to-look-at-11780725307905.html",
+      "source": "Livemint",
+      "date": "2026-06-06",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/06/1600x900/logo/FII_1780729301959_1780729302130_323638b1-6d62-4f08-adb9-b9b756cc9ee7.png",
+      "category": "market"
+    },
+    {
+      "title": "More economic safeguards on the cards as West Asia conflict persists: Report",
+      "description": "India is preparing new measures to protect its economy from the West Asia conflict. The government will introduce these steps gradually as needed. The focus is on ensuring supply of goods and raw materials. Stability in the rupee and foreign exchange is also \u2026",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/more-economic-safeguards-on-the-cards-as-west-asia-conflict-persists-report/articleshow/131546346.cms",
+      "source": "The Times of India",
+      "date": "2026-06-06",
+      "image": "https://img.etimg.com/thumb/msid-131546446,width-1200,height-630,imgsize-35926,overlay-economictimes/articleshow.jpg",
       "category": "geopolitics"
     },
     {
-      "title": "New party secretary Kostas Kyranakis, Voridis for the Constitutional Committee, Tsipras\u2019s \u201corgans\u201d and\u2026Nikos\u2019s \u201corgans,\u201d three shipping companies on the Athens Stock Exchange",
-      "description": "SpaceX threatens Cosmote, Vodafone, Nova and all traditional telecom operators\nThe post New party secretary Kostas Kyranakis, Voridis for the Constitutional Committee, Tsipras\u2019s \u201corgans\u201d and\u2026Nikos\u2019s \u201corgans,\u201d three shipping companies on the Athens Stock Excha\u2026",
-      "url": "https://en.protothema.gr/2026/06/05/new-party-secretary-kostas-kyranakis-voridis-for-the-constitutional-committee-tsiprass-organs-andnikoss-organs-three-shipping-companie/",
-      "source": "Protothema.gr",
-      "date": "2026-06-05",
-      "image": "https://en.protothema.gr/wp-content/uploads/2024/06/ProtothemaEn.png",
+      "title": "Fujimori or Sanchez? Peru vote marks 10 years of turmoil",
+      "description": "Sunday's presidential runoff in Peru pits Keiko Fujimori against Roberto Sanchez in an election marked by social tension, rising crime and declining confidence in political institutions. Nine presidents in 10 years \u2014 the figure speaks volumes about the curren\u2026",
+      "url": "https://www.dw.com/en/fujimori-or-sanchez-peru-vote-marks-10-years-of-turmoil/a-77420777",
+      "source": "DW (English)",
+      "date": "2026-06-06",
+      "image": "https://static.dw.com/image/77426098_6.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Real Estate vs equities: why wealthy investors are increasingly choosing bricks over stocks",
+      "description": "India\u2019s wealthy investors are increasingly allocating capital to premium residential real estate as market volatility prompts a search for stability and long-term wealth preservation. Experts say infrastructure-led growth, improving transparency, tangible own\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/real-estate-vs-equities-why-wealthy-investors-are-increasingly-choosing-bricks-over-stocks/articleshow/131545534.cms",
+      "source": "The Times of India",
+      "date": "2026-06-06",
+      "image": "https://img.etimg.com/thumb/msid-131545568,width-1200,height-630,imgsize-70690,overlay-etmarkets/articleshow.jpg",
       "category": "market"
     },
     {
-      "title": "G Mining Ventures Publishes 2025 Sustainability Report",
-      "description": "BROSSARD, Qu\u00e9bec, June 05, 2026 (GLOBE NEWSWIRE) -- G Mining Ventures Corp. (\u201cGMIN\u201d or the \u201cCorporation\u201d) (TSX: GMIN, OTCQX: GMINF) today announced the publication of its 2025 Sustainability Report (the \u201cReport\u201d), outlining the Corporation's environmental, so\u2026",
-      "url": "https://www.globenewswire.com/news-release/2026/06/05/3307357/0/en/G-Mining-Ventures-Publishes-2025-Sustainability-Report.html",
+      "title": "Gold Rate Today: Check the live price of 22K, 24K and 18K gold prices on 6 June 2026 in Mumbai, Delhi, Bengaluru, cities",
+      "description": "Gold Rate Today: Here are gold rates in key Indian cities on Saturday, 6 June 2026. Check the price of 18K, 22K and 24K gold in Ahmedabad, Bengaluru, Chennai, Delhi, Hyderabad, Kolkata, and Mumbai today.",
+      "url": "https://www.livemint.com/money/personal-finance/gold-rate-today-check-live-gold-prices-22k-24k-18k-6-june-2026-mumbai-delhi-bengaluru-chennai-kolkata-hyderabad-cities-11780717241476.html",
+      "source": "Livemint",
+      "date": "2026-06-06",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/06/1600x900/logo/pexels-photo-8442352_1778835998009_1778836013380_2c530988-0cd2-4870-a985-49ad6b9b03ee_1780718806470_a12017c8-1e3e-418b-879e-08b1e2865a66.jpeg",
+      "category": "metals"
+    },
+    {
+      "title": "PRECIOUS-Gold falls about 3% as robust US jobs data cements bets on higher rates",
+      "description": "Gold prices experienced a significant drop of approximately 3% on Friday, influenced by a stronger-than-expected U.S. jobs report. This data reinforced expectations that the Federal Reserve will maintain higher interest rates for an extended period due to ong\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/precious-gold-falls-about-3-as-robust-us-jobs-data-cements-bets-on-higher-rates/articleshow/131544159.cms",
+      "source": "The Times of India",
+      "date": "2026-06-06",
+      "image": "https://img.etimg.com/thumb/msid-131544172,width-1200,height-630,imgsize-150286,overlay-etmarkets/articleshow.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Gold falls most in two months as jobs fuel Fed rate-hike bets",
+      "description": "Gold prices plummet as strong US jobs data fuels expectations of Fed rate hikes, impacting bullion and bond markets.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-04/gold-steadies-as-uncertainty-surrounds-progress-in-us-iran-talks",
+      "source": "Bloomberg",
+      "date": "2026-06-06",
+      "image": "https://bl-i.thgim.com/public/incoming/67gwpw/article71068420.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_UKJ4RTL6S_R1540109267_3_e1a19a7d-5100-4331-b70a-6a580316f8a6.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "China\u2019s crude imports plunge to decade low in May as refiners drain stockpiles",
+      "description": "China's reduced crude imports may stabilize global oil prices despite Middle East tensions, altering competitive dynamics among exporters.\nThe post China\u2019s crude imports plunge to decade low in May as refiners drain stockpiles appeared first on Crypto Briefin\u2026",
+      "url": "https://cryptobriefing.com/china-crude-imports-decade-low-may/",
+      "source": "Crypto Briefing",
+      "date": "2026-06-06",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2020/12/02092245/link-bull-1024x538.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Emerging market assets fall for third straight session as South Korean equities slump",
+      "description": "The slump in South Korean equities highlights vulnerabilities in emerging markets, potentially prompting shifts in global investment strategies.\nThe post Emerging market assets fall for third straight session as South Korean equities slump appeared first on C\u2026",
+      "url": "https://cryptobriefing.com/emerging-market-assets-south-korea-equities-slump/",
+      "source": "Crypto Briefing",
+      "date": "2026-06-06",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/06033835/south-korea-pleasant-holidays-1-1-800x420.jpeg",
+      "category": "market"
+    },
+    {
+      "title": "Gulf countries targeted by Iran after exchange of fire with US, in latest threat to fragile ceasefire",
+      "description": "Iran says it targeted \u2018enemy bases\u2019 in Gulf following US strikes on Sirik and Qeshm Island",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/06/06/gulf-countries-targeted-by-iran-after-exchange-of-fire-with-us-in-latest-threat-to-fragile-ceasefire/",
+      "source": "The Irish Times",
+      "date": "2026-06-06",
+      "image": "https://www.irishtimes.com/resizer/v2/YWIV5RLSSC3JAUSEVTLIFD2KBU.jpg?smart=true&auth=498bf7495d0f254a547b4af90e2e86e3aebc288084bc9878a262ade6d0a585d8&width=1200&height=630",
+      "category": "market"
+    },
+    {
+      "title": "Kuwait and Bahrain targeted by Iran after exchange of fire with US",
+      "description": "Iran says it targeted \u2018enemy bases\u2019 in Gulf following US strikes on Sirik and Qeshm Island",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/06/06/kuwait-and-bahrain-targeted-by-iran-after-exchange-of-fire-with-us/",
+      "source": "The Irish Times",
+      "date": "2026-06-06",
+      "image": "https://www.irishtimes.com/resizer/v2/YWIV5RLSSC3JAUSEVTLIFD2KBU.jpg?smart=true&auth=498bf7495d0f254a547b4af90e2e86e3aebc288084bc9878a262ade6d0a585d8&width=1200&height=630",
+      "category": "market"
+    },
+    {
+      "title": "Zinc prices at multi-year highs: What\u2019s driving the rally and what lies ahead?",
+      "description": "Zinc prices have climbed to multi-year highs as tight global inventories, rising production costs, and supply disruptions fuel a strong rally. While infrastructure spending, renewable energy projects, and industrial demand support the long-term outlook, growi\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/zinc-prices-at-multi-year-highs-whats-driving-the-rally-and-what-lies-ahead/articleshow/131546761.cms",
+      "source": "The Times of India",
+      "date": "2026-06-06",
+      "image": "https://img.etimg.com/thumb/msid-131546796,width-1200,height-630,imgsize-35818,overlay-etmarkets/articleshow.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "k-eda 1.0.6",
+      "description": "Deep Insights EDA \u2014 Comprehensive data profiling with global AI techniques",
+      "url": "https://pypi.org/project/k-eda/1.0.6/",
+      "source": "Pypi.org",
+      "date": "2026-06-06",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "What did Justice say about anti-weaponization fund? #world",
+      "description": "DOJ tells courts the \u201canti weaponization\u201d fund isn\u2019t going forward The Justice Department sought to end legal challenges to President Donald Trump\u2019s \u201canti weaponization\u201d fund, telling federal judges that the effort is not being pursued and that related lawsui\u2026",
+      "url": "https://alltoc.com/world/what-did-justice-say-about-anti-weaponization-fund",
+      "source": "Alltoc.com",
+      "date": "2026-06-06",
+      "image": "https://alltoc.com/cdn/1048/og.png",
+      "category": "geopolitics"
+    },
+    {
+      "title": "GIFT Nifty tumbles 1.5% as US stock market plunges. Will Dalal Street crash on Monday?",
+      "description": "GIFT Nifty plunged over 1.5% after a sharp selloff on Wall Street, signalling a weak start for Dalal Street on Monday. Strong US jobs data fuelled fears of prolonged higher interest rates, pushing Treasury yields higher and triggering a broad market decline. \u2026",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/gift-nifty-tumbles-1-5-as-us-stock-market-plunges-will-dalal-street-crash-on-monday/articleshow/131545625.cms",
+      "source": "The Times of India",
+      "date": "2026-06-06",
+      "image": "https://img.etimg.com/thumb/msid-131545647,width-1200,height-630,imgsize-207422,overlay-etmarkets/articleshow.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Trump Signs Order for Government Reviews of Advanced AI Models Before Release",
+      "description": "President Donald Trump signed an executive order on June 2 requiring certain artificial intelligence (AI) companies to voluntarily submit their most advanced frontier models to the federal government for review before public release. The order, signed without\u2026",
+      "url": "https://www.naturalnews.com/2026-06-06-trump-signs-order-government-reviews-ai-models.html",
+      "source": "Naturalnews.com",
+      "date": "2026-06-06",
+      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/executive-order-advanced-ai-models-government-reviews-1883-original.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Donald Trump, Bernie Sanders and Sam Altman are all talking about public ownership in AI",
+      "description": "Trump has embraced government investment in private companies in his second term, scrambling his party's politics. His administration last year secured a 10 per cent stake in the struggling Silicon Valley company Intel, and it considered a government takeover\u2026",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/donald-trump-bernie-sanders-and-sam-altman-are-all-talking-about-public-ownership-in-ai/articleshow/131545524.cms",
+      "source": "The Times of India",
+      "date": "2026-06-06",
+      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-91874,resizemode-75,msid-131545524/tech/artificial-intelligence/donald-trump-bernie-sanders-and-sam-altman-are-all-talking-about-public-ownership-in-ai.jpg",
+      "category": "market"
+    },
+    {
+      "title": "California governor's race thrown wide open as 'afterthought' candidate surges past ex-Fox News host to become frontrunner after extraordinary come-from-behind turnaround",
+      "description": "In California's nonpartisan primary system, all candidates appear on the same ballot regardless of party, and the two candidates who receive the most votes clinch a spot in the election.",
+      "url": "https://www.dailymail.com/news/article-15878685/California-governors-race-candidate-surges-past-ex-Fox-News-host-turnaround.html",
+      "source": "Dailymail.com",
+      "date": "2026-06-06",
+      "image": "https://i.dailymail.com/1s/2026/06/06/04/109167161-0-image-m-96_1780718090053.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Trump, Sanders and Altman find common ground on public ownership in AI",
+      "description": "Sam Altman and Bernie Sanders discussed public ownership in AI firms as concerns grow over jobs, data centres and the benefits of AI expansion.",
+      "url": "https://www.thehindubusinessline.com/news/world/trump-sanders-and-altman-find-common-ground-on-public-ownership-in-ai/article71068547.ece",
+      "source": "BusinessLine",
+      "date": "2026-06-06",
+      "image": "https://bl-i.thgim.com/public/incoming/dp3dol/article71068685.ece/alternates/LANDSCAPE_1200/2026-05-20T212353Z_248202413_RC2ZFKAOWN54_RTRMADP_3_USA-TRUMP-IRS-CHALLENGES.JPG",
+      "category": "market"
+    },
+    {
+      "title": "Why Did Bitcoin Crash? On-Chain Data Points To One Missing Ingredient",
+      "description": "Bitcoin is struggling as the price tests $62,000 as support \u2014 a level that would represent a significant extension of the correction from the cycle highs and a test of the structural foundation that bulls have been pointing to throughout the decline. The weak\u2026",
+      "url": "http://www.newsbtc.com/bitcoin-news/why-did-bitcoin-crash-on-chain-data-points-to-one-missing-ingredient/",
+      "source": "newsBTC",
+      "date": "2026-06-06",
+      "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/Untitled-design-71.jpg?fit=1792%2C1024",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Trump's Next \u201cBig Buy\u201d Could Make Early Investors a Fortune",
+      "description": "A tiny $2 stock. A $2.7 trillion mineral motherlode. And a deadline of June 30 that could change everything. A tiny $2 stock. A $2.7 trillion mineral motherlode. And a deadline of June 30 that could change everything.",
+      "url": "https://www.globenewswire.com/news-release/2026/06/05/3307644/0/en/Trump-s-Next-Big-Buy-Could-Make-Early-Investors-a-Fortune.html",
       "source": "GlobeNewswire",
       "date": "2026-06-05",
-      "image": "https://ml.globenewswire.com/Resource/Download/5df21ce9-ca97-42a0-9c2f-ddff319b6698",
-      "category": "supply_demand"
-    },
-    {
-      "title": "RBI holds rates, rupee surges as markets close flat to negative",
-      "description": "RBI maintains rates, leading to flat markets; rupee strengthens sharply amidst cautious economic outlook and global uncertainties.",
-      "url": "https://www.thehindubusinessline.com/markets/rbi-holds-rates-rupee-surges-as-markets-close-flat-to-negative/article71065485.ece",
-      "source": "BusinessLine",
-      "date": "2026-06-05",
-      "image": "https://bl-i.thgim.com/public/incoming/29wxwd/article71065505.ece/alternates/LANDSCAPE_1200/IMG_PO13_trading_2_1_S09FV8DB.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "Rich retirees do 1 easy thing that makes them 4 times wealthier than the rest. How to run the race to your first million",
-      "description": "Don't forget to hydrate on the way there.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/rich-retirees-1-easy-thing-121500260.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-06-05",
-      "image": "https://s.yimg.com/lo/mysterio/api/B06B96C678B18ED6E944D7F406A24AB1AFE0BAB6E0A839482A92DE186793862F/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2F00ae9b85ca7521157edabad1a28547c7",
+      "image": null,
       "category": "market"
     },
     {
-      "title": "Economic Fury Targets Iranian LPG Smuggling and Shadow Banking Networks",
-      "description": "Today, the U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) is designating a network of individuals, entities, and vessels responsible for shipping hundreds of millions of dollars' worth of Iranian-origin liquid petroleum gas (LPG)\u2e3ain\u2026",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260605-treasury01.htm",
-      "source": "Globalsecurity.org",
+      "title": "Nasdaq Plummets 4% As Tech Selloff Triggers Market Drop",
+      "description": "The Nasdaq lost nearly a month's worth of gains Friday.",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/06/05/nasdaq-plummets-4-as-tech-selloff-triggers-market-drop/",
+      "source": "Forbes",
       "date": "2026-06-05",
-      "image": null,
-      "category": "currency"
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a232cc9f212c78dffb8614f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "category": "market"
     },
     {
-      "title": "India Growth Beats Estimates on Strong Domestic Demand",
-      "description": "India\u2019s economy grew faster than expected in the three months through March, on sustained private and government spending before higher energy costs began weighing on outlook.",
-      "url": "https://financialpost.com/pmn/business-pmn/india-growth-beats-estimates-on-strong-domestic-demand",
-      "source": "Financial Post",
+      "title": "Dollar Soars on Fed Rate Hike Expectations",
+      "description": "The dollar index (DXY00 ) on Friday rallied to a 1.75-month high and finished up by +0.66%. The dollar recovered from early losses on Friday and surged on...",
+      "url": "https://www.barchart.com/story/news/2331453/dollar-soars-on-fed-rate-hike-expectations",
+      "source": "Barchart.com",
       "date": "2026-06-05",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/india-maintains-high-growth-rate-despite-external-headwinds.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "RBI policy press conference: Here's everything that came up for discussion",
-      "description": "The Reserve Bank of India unveiled new measures to attract deposits and bolster the economy. Governor Sanjay Malhotra discussed strategies for economic growth and inflation management. The central bank aims to draw in foreign exchange through various initiati\u2026",
-      "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-policy-press-conference-heres-everything-that-came-up-for-discussion/articleshow/131529792.cms",
-      "source": "The Times of India",
-      "date": "2026-06-05",
-      "image": "https://img.etimg.com/thumb/msid-131529971,width-1200,height-630,imgsize-130202,overlay-economictimes/articleshow.jpg",
+      "image": "https://s.yimg.com/ny/api/res/1.2/373iSspxDxkglcgoBjRuNQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/1c78243ff6ea0f56104ce694dab841ee",
       "category": "central_bank"
     },
     {
-      "title": "Gold price today crashes over 1 per cent, check latest Gold rate",
-      "description": "Gold rate today: U.S. Treasury yields jumped after the release of the jobs data, increasing the opportunity cost of holding non-yielding bullion.",
-      "url": "https://economictimes.indiatimes.com/news/international/us/gold-price-today-crashes-over-1-per-cent-check-latest-gold-rate/articleshow/131533971.cms",
-      "source": "The Times of India",
+      "title": "Pope would oppose Sperrin mountains gold mine, priest tells inquiry [Northern Ireland]",
+      "description": "The Pope \u201cwould be totally opposed to the destruction of a sacred place\u201d to mine gold, a priest told a public inquiry in Northern Ireland. Fermanagh priest Father Joe McVeigh made the claim as the potential cultural and heritage impacts of Dalradian Gold\u2019s pl\u2026",
+      "url": "https://freerepublic.com/focus/f-chat/4382479/posts",
+      "source": "Freerepublic.com",
       "date": "2026-06-05",
-      "image": "https://img.etimg.com/thumb/msid-131533971,width-1200,height-630,imgsize-2462632,overlay-economictimes/articleshow.jpg",
+      "image": null,
       "category": "metals"
+    },
+    {
+      "title": "Gold And Silver Hit Lowest Prices In Months After Strong Jobs Report",
+      "description": "Strong jobs data and expectations the Federal Reserve will maintain or raise interest rates this year pushed gold and silver prices to two-month lows on Friday.",
+      "url": "https://www.forbes.com/sites/conormurray/2026/06/05/gold-and-silver-hit-lowest-prices-in-months-after-strong-jobs-report/",
+      "source": "Forbes",
+      "date": "2026-06-05",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a22eccd0926a074f5f7b579/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "category": "central_bank"
     },
     {
       "title": "Hindustan Zinc plans to double capacity, revenue",
       "description": "The report has highlighted the company\u2019s ambition to increase metal reserves from 13 million tonnes to 50 mt while supporting a mine life of over 25 years",
-      "url": "https://www.thehindubusinessline.com/news/hindustan-zinc-plans-to-double-capacity-revenue/article71066058.ece",
+      "url": "https://www.thehindubusinessline.com/companies/hindustan-zinc-plans-to-double-capacity-revenue/article71066058.ece",
       "source": "BusinessLine",
       "date": "2026-06-05",
       "image": "https://bl-i.thgim.com/public/incoming/8c7eqj/article71066118.ece/alternates/LANDSCAPE_1200/2025-08-19T080611Z_771973202_RC2KC7AAPJYQ_RTRMADP_3_INDIA-HINDUSTAN-ZINC-MINERALS.JPG",
       "category": "market"
     },
     {
-      "title": "Questions and Answers",
-      "description": "\"I\u2019m the look-around candidate. All you have to do to understand why I\u2019m surging in the polls is just look around. . . .\" \u2014 Spencer Pratt",
-      "url": "https://www.kunstler.com/p/questions-and-answers-7a8",
-      "source": "Kunstler.com",
+      "title": "Why are gold and silver prices down today, and will precious metals continue to drop or rise again? Analys - The Economic Times",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi2wJBVV95cUxPU0V2NVd6b0x6eHNMVjFoOUEwX1hlVm5tcldYOFJ1bkE4UGdDQlJwbEphNDRVWmtERjRpZjBhQ2VuSXFCYnl4RU9Nb1JGcjJHc3pLTWdIRk5USER6TVJiOFRzOXRtenBSZ1VEWVBOSXZJdURXU0JleGh4SnUyMlFCRl9iTE5ZcXRaSllwS1Zjc2t2a0lRRFU2YnlzZE0wZmVQV0lzYVhZSTVrSFdfTEFiY1NjcVFOb1NkZ1",
+      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPU0V2NVd6b0x6eHNMVjFoOUEwX1hlVm5tcldYOFJ1bkE4UGdDQlJwbEphNDRVWmtERjRpZjBhQ2VuSXFCYnl4RU9Nb1JGcjJHc3pLTWdIRk5USER6TVJiOFRzOXRtenBSZ1VEWVBOSXZJdURXU0JleGh4SnUyMlFCRl9iTE5ZcXRaSllwS1Zjc2t2a0lRRFU2YnlzZE0wZmVQV0lzYVhZSTVrSFdfTEFiY1NjcVFOb1NkZ1BjbnNzOEN0UjNiZnUtUnMxX3d5TzU3V3JCRVpqbmRQRVlzQW1QNjR1YUtJSmdPMmdaYmdNbC1TbHpXWFBnMThmekhYV1ZCNHhzSU12ZU1qaTF1SVBFM3hOWVlCVlR5bzgwNXUyRm1iNzFFblE2WGU5NmdreXFRaEpXaHhDRmg4SjdCTnRSUjdteEZyNnNLNnpyUEdtZlllU2VtZVZtbko1VdIB4AJBVV95cUxNTm4zX1VQeDUxWnZGZzVnd0xOTXlaal9vM2tkQ0J0V3ZNTnVldVNQWnQteUFkV3FtMmJCQzBWOUlZTnhacTk3ZkhWeVAwRDJYeXBzRENPZU1INDMzaFAzNmxBUDEyeEQyM3JIS0M3OUtndE1mVzNQWHJyWFgyQUxmbEhXTTRsZWE4Sm9SRk1nWjdvOVJlb1ZRODBnMFp3aHhwR0JLYjk3eG5wMWN3UE42bHkxUGwwcXVfTkNqOVpfcFRQdjVySi1CbDdaUWIteGZ6bExrdnpCdkppX2E0WjY2NDBqMnVMVHNFcGVPeHEyZ0Ewd0pjeHNOenFMOHRXRTVQbF9nTnRNaEhoRURpSldieTRSRmh6RjBpYW1Cb2lPNHc3cEtjMGhPOFRTQVJPSG1FOHJyZW5TMUNaMTFPcERxRTVqaEswZHZGd3BTQ2E2el9JYTBwMGlpdDRwSFVERXQz?oc=5",
+      "source": "Google News - Precious Metals",
       "date": "2026-06-05",
-      "image": "https://substackcdn.com/image/fetch/$s_!soKV!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F28cb4d2f-96a5-40bf-8bba-4954947ada9a_600x554.heic",
-      "category": "market"
-    },
-    {
-      "title": "Gold Resource Corporation Announces Special Shareholder Meeting to Vote on Strategic Merger With Goldgroup Mining",
-      "description": "With Proxy Materials Officially Being Mailed, the Board Urges Shareholders to Vote \u201cFOR\u201d the Milestone Deal That Will Combine Core Assets and Drive Long-Term Shareholder Value DENVER \u2014 Gold Resource Corporation (NYSE American: GORO) (the \u201cCompany,\u201d \u201cwe,\u201d \u201cour\u2026",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/gold-resource-corporation-announces-special-shareholder-meeting-to-vote-on-strategic-merger-with-goldgroup-mining",
-      "source": "Financial Post",
-      "date": "2026-06-05",
-      "image": null,
-      "category": "supply_demand"
-    },
-    {
-      "title": "GLDN- An Options Income ETF with Leverage to Gold",
-      "description": "After tremendous price gains in 2025, gold and silver prices have so far in 2026 moved sideways, with continued significant volatility. This type of sideways...",
-      "url": "https://finance.yahoo.com/markets/options/articles/gldn-options-income-etf-leverage-110000176.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-06-05",
-      "image": "https://s.yimg.com/os/en/moneyshow_610/2466d4af2c9c74847689acc9a7a3ff2c",
+      "image": "",
       "category": "metals"
     },
     {
-      "title": "Inflation swallows wage growth and American workers take a huge pay cut. Safeguard your nest egg today",
-      "description": "Here\u2019s why getting a handle on your financial plan is more important than ever.",
-      "url": "https://finance.yahoo.com/economy/articles/inflation-swallows-wage-growth-american-105500788.html",
-      "source": "Yahoo Entertainment",
+      "title": "Gold, Silver, Platinum & Palladium Analysis by Jeffrey Christian | CPM Group - News and Statistics - IndexBox",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOS2twMUoxVl9ycUNObkFrUWp2NUwycS1hNF8wN1hvU0Z0d0JpTENfejlKSlFxbmlkNWlzYUVSMktxYzJTR2lvWlVhTWhfeTdOUENRdW14aDdxMmJ5QmVMbDJTbkVzLW5fbHhiaWZnSVBfUmw3YTRSNUlSVW1jZGNYaEMyYU1YOWxiR3pYVg?oc=5\" target=\"_blank\">Gold, Silver, Platinum & Palladium An",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS2twMUoxVl9ycUNObkFrUWp2NUwycS1hNF8wN1hvU0Z0d0JpTENfejlKSlFxbmlkNWlzYUVSMktxYzJTR2lvWlVhTWhfeTdOUENRdW14aDdxMmJ5QmVMbDJTbkVzLW5fbHhiaWZnSVBfUmw3YTRSNUlSVW1jZGNYaEMyYU1YOWxiR3pYVg?oc=5",
+      "source": "Google News - Precious Metals",
       "date": "2026-06-05",
-      "image": "https://s.yimg.com/ny/api/res/1.2/zSBVIRAQLHxx1kTbjhH7gQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/moneywise_ecomm_711/b9127deb19a4221b3f3a2cd98f660306",
-      "category": "inflation"
-    },
-    {
-      "title": "Change drivers : creating industry-wide impact",
-      "description": "This article highlights individuals driving innovation and trust in various sectors. Shiva Sankeerth Reddy Yarradla is revolutionizing enterprise AI by tackling its core challenges. Prasad Maderamitla is building trust in AI systems at Salesforce. Aaditya Raj\u2026",
-      "url": "https://economictimes.indiatimes.com/tech/startups/change-drivers-creating-industry-wide-impact/articleshow/131528018.cms",
-      "source": "The Times of India",
-      "date": "2026-06-05",
-      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-58170,resizemode-75,msid-131528018/tech/startups/change-drivers-creating-industry-wide-impact.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Maulana Barkatullah: The \u2018first prime minister of India\u2019, whose name Bhopal university wants to drop",
-      "description": "Maulana Barkatullah Bhopali, after whom Barkatullah University in Bhopal is named, spent his life abroad, working for India\u2019s freedom. Here is who he was and what he stood for.",
-      "url": "https://indianexpress.com/article/explained/explained-history/maulana-barkatullah-prime-minister-name-bhopal-university-10726132/",
-      "source": "The Indian Express",
-      "date": "2026-06-05",
-      "image": "https://images.indianexpress.com/2026/06/barkatullah-Bhopali-1600.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Sotheby's International Realty Demonstrates Broad U.S. Market Representation in 2026 RealTrends Verified + The Thousand Rankings",
-      "description": "NEW YORK, June 5, 2026 /PRNewswire/ -- The Sotheby's International Realty\u00ae brand has once again demonstrated exceptional representation in the 2026 RealTrends Verified + The Thousand rankings*, which honor the top performing professionals and teams in the Uni\u2026",
-      "url": "https://www.prnewswire.com/news-releases/sothebys-international-realty-demonstrates-broad-us-market-representation-in-2026-realtrends-verified--the-thousand-rankings-302792752.html",
-      "source": "PRNewswire",
-      "date": "2026-06-05",
-      "image": "https://mmx.prnewswire.com/media/MS653848/Sotheby-Logo.jpg?id=OA2677634&p=facebook",
-      "category": "market"
-    },
-    {
-      "title": "Jalisco, Mexico Takes Center Stage as Host of the 2026 MICHELIN Guide Ceremony, Showcasing 13 Newly Recognized Restaurants",
-      "description": "GUADALAJARA, Mexico, June 5, 2026 /PRNewswire/ -- Jalisco, Mexico has firmly established itself on the global culinary stage as the official host of the 2026 MICHELIN Guide Mexico Ceremony, marking a historic milestone for the destination and its rapidly grow\u2026",
-      "url": "https://www.prnewswire.com/news-releases/jalisco-mexico-takes-center-stage-as-host-of-the-2026-michelin-guide-ceremony-showcasing-13-newly-recognized-restaurants-302792133.html",
-      "source": "PRNewswire",
-      "date": "2026-06-05",
-      "image": "https://mmx.prnewswire.com/media/MS1856161/Guadalajara_Jalisco.jpg?id=OA2669683&p=facebook",
-      "category": "market"
-    },
-    {
-      "title": "Product Launches Risk Miss Revenue Targets When Go-to-Market Strategy Lacks Buyer Insight, Says Info-Tech Research Group",
-      "description": "As launch cycles accelerate, many organizations are moving ahead without the buyer insight, competitive differentiation, and internal readiness needed to turn product investment into revenue. Info-Tech Research Group's newly published blueprint, Build a More \u2026",
-      "url": "https://www.prnewswire.com/news-releases/product-launches-risk-miss-revenue-targets-when-go-to-market-strategy-lacks-buyer-insight-says-info-tech-research-group-889268809.html",
-      "source": "PRNewswire",
-      "date": "2026-06-05",
-      "image": "https://mmx.prnewswire.com/media/MS1858277/Info-Tech_Research_Group-Product_Launches_Risk_Miss_Revenue_Targ.jpg?id=OA2677568&p=facebook",
-      "category": "market"
-    },
-    {
-      "title": "Colorado Governor Jared Polis vetoes legislation that could've upended the state's electronic payments system",
-      "description": "A bill passed in Colorado to upend the way you pay for goods and services in the state has been vetoed by the Governor.",
-      "url": "https://thepointsguy.com/news/colorado-credit-card-bill-veto/",
-      "source": "The Points Guy",
-      "date": "2026-06-05",
-      "image": "https://runway-media-production.global.ssl.fastly.net/us/originals/2024/04/Close-up-of-person-paying-with-credit-card-at-store_Jordi-Salas.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Which Gaming Hardware Companies May Have Funded Armed Conflict In 2025?",
-      "description": "Do PlayStation 5s and Amazon Basics headsets fund armed conflict? Who knows!",
-      "url": "https://kotaku.com/gaming-companies-hardware-conflict-minerals-2025-2000702545",
-      "source": "Kotaku",
-      "date": "2026-06-05",
-      "image": "https://kotaku.com/app/uploads/2026/06/conflict-minerals-reb-1200x675.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Saraga Announces debut album 'Mirrors,' releases new single \"No Time To Waste\"",
-      "description": "Saraga has released his new single \"No Time To Waste\" alongside the announcement of his debut album Mirrors, both via Stardust Records. The infectious house cut follows his previously released\u2026",
-      "url": "https://earmilk.com/2026/06/05/saraga-announces-debut-album-mirrors-releases-new-single-no-time-to-waste/",
-      "source": "Earmilk.com",
-      "date": "2026-06-05",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "From audit to prosecution: institutional collaboration as a solution to closing the expectations gap in decentralized governance",
-      "description": "Barzelay, M. ORCID logo & Seabra, S. N. (2026). From audit to prosecution: institutional collaboration as a solution to closing the expectations gap in decentralized governance. Financial Accountability and Management, [In Press]",
-      "url": "https://researchonline.lse.ac.uk/id/eprint/138729/",
-      "source": "Lse.ac.uk",
-      "date": "2026-06-05",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "Jobs in Hospitality and Healthcare Propelled Hiring in May",
-      "description": "Hiring beat expectations with 172,000 new jobs. The unemployment rate held steady at 4.3%.",
-      "url": "https://www.wsj.com/economy/consumers/may-jobs-report-unemployment-fde062e1",
-      "source": "The Wall Street Journal",
-      "date": "2026-06-05",
-      "image": "https://s.yimg.com/ny/api/res/1.2/f4p3hx_1y9lK1JZR3Q2Cyw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/the_wall_street_journal_hosted_996/1d036e260ed632657bdc286de07214ec",
-      "category": "market"
-    },
-    {
-      "title": "Blackstone-backed AirTrunk plans $30bn India data centre push as the country becomes AI\u2019s next construction site",
-      "description": "Six weeks ago, AirTrunk did not operate in India. Now it wants to spend $30 billion there. The Blackstone-backed hyperscale data centre operator announced on Thursday that it plans to invest more than INR 3,000 billion ($30 billion) in India by 2030, building\u2026",
-      "url": "https://thenextweb.com/news/airtrunk-blackstone-30-billion-india-data-centres/",
-      "source": "The Next Web",
-      "date": "2026-06-05",
-      "image": "https://media.thenextweb.com/2026/06/airtrunk-blackstone-30-billion-india-data-centres.avif",
-      "category": "market"
-    },
-    {
-      "title": "Tackle economic hardship, insecurity, health workers urge FG",
-      "description": "Nigerian health workers call on the Federal Government to urgently address worsening economic hardship, rising energy costs, and insecurity across the coun\n\nRead More: https://punchng.com/tackle-economic-hardship-insecurity-health-workers-urge-fg/",
-      "url": "https://punchng.com/tackle-economic-hardship-insecurity-health-workers-urge-fg/",
-      "source": "The Punch",
-      "date": "2026-06-05",
-      "image": "https://cdn.punchng.com/wp-content/uploads/2026/06/05145335/Untitled.webp",
-      "category": "central_bank"
-    },
-    {
-      "title": "Proposed Trump Rule Targets \u2018Woke\u2019 Federal Grants for Public Lands, Health, Science",
-      "description": "Aimed at \u201cresponsible stewardship of taxpayer dollars,\u201d the White House wants political appointees to have final say on grant review.",
-      "url": "https://www.kqed.org/news/12086267/proposed-trump-rule-targets-woke-federal-grants-for-public-lands-health-science",
-      "source": "KQED",
-      "date": "2026-06-05",
-      "image": "https://cdn.kqed.org/wp-content/uploads/sites/10/2026/02/YosemiteGetty.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Topological data analysis for predicting disease outbreaks in humanitarian settings: A machine learning approach",
-      "description": "Background Humanitarian settings are highly vulnerable to infectious disease outbreaks because displacement, crowding, disruption of health services, insecurity, and inadequate water and sanitation often interact in ways that are difficult to capture with con\u2026",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0350644",
-      "source": "Plos.org",
-      "date": "2026-06-05",
-      "image": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0350644.g001&size=inline",
-      "category": "market"
-    },
-    {
-      "title": "Dow Jones Dips Modestly in Early Trading on June 5 as Investors Digest Record High and Await Key Data",
-      "description": "The Dow Jones Industrial Average dipped after reaching a record high, as investors rotated into defensive sectors and awaited key economic indicators that could influence Federal Reserve policy.",
-      "url": "https://www.ibtimes.com.au/dow-jones-dips-after-record-high-1870183",
-      "source": "Ibtimes.com.au",
-      "date": "2026-06-05",
-      "image": "https://d.ibtimes.com.au/en/full/1893186/ftse-100-surges-08-today-oil-eases-markets.jpg",
-      "category": "central_bank"
+      "image": "",
+      "category": "platinum"
     }
   ],
   "history": [
@@ -407,17 +407,17 @@
       "platinum_usd_oz": 2014.65
     },
     {
-      "date": "2026-06-06",
+      "date": "2026-06-07",
       "week": "2026-W23",
-      "gold_10g": 132527.99,
-      "silver_kg": 207500.24,
-      "platinum_g": 5446.85,
+      "gold_10g": 132593.54,
+      "silver_kg": 207602.87,
+      "platinum_g": 5449.55,
       "gold_usd_oz": 4328.87,
       "silver_usd_oz": 67.78,
       "platinum_usd_oz": 1779.15
     }
   ],
-  "timestamp": "2026-06-06T19:47:59.932334+05:30",
+  "timestamp": "2026-06-07T13:10:23.590126+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
