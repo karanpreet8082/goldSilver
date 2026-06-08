@@ -1,24 +1,24 @@
 {
   "prices": {
     "gold": {
-      "price_per_gram_inr": 13261.81,
-      "price_usd_oz": 4334.05,
-      "change_percent": 0.12,
-      "change_value_usd": 5.18,
-      "price_per_10g_inr": 132618.14
+      "price_per_gram_inr": 13288.76,
+      "price_usd_oz": 4342.85,
+      "change_percent": 0.31,
+      "change_value_usd": 13.98,
+      "price_per_10g_inr": 132887.57
     },
     "silver": {
-      "price_per_gram_inr": 209.06,
-      "price_usd_oz": 68.32,
-      "change_percent": 0.8,
-      "change_value_usd": 0.54,
-      "price_per_kg_inr": 209056.53
+      "price_per_gram_inr": 210.39,
+      "price_usd_oz": 68.76,
+      "change_percent": 1.45,
+      "change_value_usd": 0.98,
+      "price_per_kg_inr": 210390.65
     },
     "platinum": {
-      "price_per_gram_inr": 5381.24,
-      "price_usd_oz": 1758.62,
-      "change_percent": -1.15,
-      "change_value_usd": -20.53
+      "price_per_gram_inr": 5380.68,
+      "price_usd_oz": 1758.44,
+      "change_percent": -1.16,
+      "change_value_usd": -20.71
     },
     "currencies": {
       "USD_INR": 95.1741,
@@ -30,8 +30,8 @@
       "CAD_INR": 68.2839,
       "SGD_INR": 73.8872
     },
-    "gold_silver_ratio": 63.44,
-    "timestamp": "2026-06-08T13:49:57.808173",
+    "gold_silver_ratio": 63.16,
+    "timestamp": "2026-06-08T16:36:25.506505",
     "source": "GoldAPI"
   },
   "currencies": {
@@ -53,20 +53,20 @@
         "sell": 25,
         "hold": 50
       },
-      "summary": "Gold is showing positive signals. Positive daily movement of 0.1%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-08T13:50:02.882522",
+      "summary": "Gold is showing positive signals. Positive daily movement of 0.3%. Recommendation: HOLD with moderate confidence based on current indicators.",
+      "timestamp": "2026-06-08T16:36:32.205822",
       "source": "rule-based"
     },
     "silver": {
       "metal": "silver",
-      "recommendation": "HOLD",
+      "recommendation": "BUY",
       "confidence": {
-        "buy": 25,
-        "sell": 25,
-        "hold": 50
+        "buy": 56,
+        "sell": 15,
+        "hold": 29
       },
-      "summary": "Silver is showing positive signals. Positive daily movement of 0.8%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-08T13:50:02.971110",
+      "summary": "Silver is showing positive signals. Strong daily gain of 1.4%. Recommendation: BUY with moderate confidence based on current indicators.",
+      "timestamp": "2026-06-08T16:36:32.315874",
       "source": "rule-based"
     },
     "platinum": {
@@ -77,8 +77,8 @@
         "sell": 56,
         "hold": 29
       },
-      "summary": "Platinum is showing negative signals. Significant daily drop of -1.1%. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-08T13:50:03.058920",
+      "summary": "Platinum is showing negative signals. Significant daily drop of -1.2%. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-06-08T16:36:32.407584",
       "source": "rule-based"
     }
   },
@@ -125,6 +125,15 @@
   },
   "news": [
     {
+      "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
+      "description": "Indian equities ended sharply lower as weak global cues and geopolitical tensions triggered broad-based selling. Nifty slipped 1.04% to 23,123, with analysts advising caution and a sell-on-rise strategy. Market breadth remained weak, while select stocks attracted buying interest and several counters",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/131591609.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-06-08",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
       "title": "Ray Dalio sees AI bubble bursting as wealth is converted into money",
       "description": "Billionaire investor Ray Dalio said the artificial intelligence market is displaying characteristics of a bubble, despite its transformative potential. He noted that major technological revolutions often create speculative excesses and warned that challenges around profitability and monetisation cou",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/ray-dalio-sees-ai-bubble-bursting-as-wealth-is-converted-into-money/articleshow/131589831.cms",
@@ -134,13 +143,67 @@
       "category": "geopolitics"
     },
     {
-      "title": "Quote of the day by Warren Buffett: \"As bandwagon investors join any party, they create their own truth, for a while\"",
-      "description": "Warren Buffett\u2019s quote highlights how herd behaviour can create temporary market realities detached from fundamentals. As investors chase trends, valuations may inflate beyond reason. However, such phases are short-lived, with fundamentals eventually prevailing. The lesson underscores the importance",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-warren-buffett-as-bandwagon-investors-join-any-party-they-create-their-own-truth-for-a-while/articleshow/131578099.cms",
-      "source": "Economic Times Markets",
+      "title": "Turning scrap and bad parts into gold - Aerospace Manufacturing and Design",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMjRscTkxaC1ZNjdqYVM5S1dzZTZDbmlqX2lYNGQxX1VKMEE5aEN6al8wSGNxTG05Y3JpTlB0MlpHcWRXVGV2ZExZdC1lOUJKdHJRaTNTMllLT1dDc2thQnIzZXE0VjV1ZXIyallRbkN5dUZBaE5udDVmU29OdlJ0SUhkbkZSM0loVmlHV0xFWG9lZDNtc3NkVjlEMEtIQlA4V0ZHbHlhQXNvSnV3WFdsUno4RnBvNS1yU2",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMjRscTkxaC1ZNjdqYVM5S1dzZTZDbmlqX2lYNGQxX1VKMEE5aEN6al8wSGNxTG05Y3JpTlB0MlpHcWRXVGV2ZExZdC1lOUJKdHJRaTNTMllLT1dDc2thQnIzZXE0VjV1ZXIyallRbkN5dUZBaE5udDVmU29OdlJ0SUhkbkZSM0loVmlHV0xFWG9lZDNtc3NkVjlEMEtIQlA4V0ZHbHlhQXNvSnV3WFdsUno4RnBvNS1yU2xV?oc=5",
+      "source": "Google News - Precious Metals",
       "date": "2026-06-08",
       "image": "",
+      "category": "metals"
+    },
+    {
+      "title": "Auxite Introduces Multi-Metal Digital Ownership Infrastructure for Precious Metals - The Manila Times",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQUltcm9CNVBFa3VKR2VwdlN0LXVYS1FDbzN6M2NmTnY0M3VQemZCVHFhUGN0VWd3eWJDZXB5cGlqQ3JpeXFvY1VoNEV1NFhzNTQ4NTE5cllzd18xY21BQUQ1cGpsUDFncVNIV0ZFRGtDajZOaGtvb1I0ei1GeERzUjYwUUlTcHJUUFA0dk9jUGRXeVZNR2RIZFpWNFNWdzhBMjdkYUJSOWk1ZXBVYmp0SmdOT3dnZm5zY2",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQUltcm9CNVBFa3VKR2VwdlN0LXVYS1FDbzN6M2NmTnY0M3VQemZCVHFhUGN0VWd3eWJDZXB5cGlqQ3JpeXFvY1VoNEV1NFhzNTQ4NTE5cllzd18xY21BQUQ1cGpsUDFncVNIV0ZFRGtDajZOaGtvb1I0ei1GeERzUjYwUUlTcHJUUFA0dk9jUGRXeVZNR2RIZFpWNFNWdzhBMjdkYUJSOWk1ZXBVYmp0SmdOT3dnZm5zY2xNNWt1NDJiXzFMRXhpY0QycDBFYVkzWlE4NldXN3NHaTBUWnBqQUtSQlN3UUZlUU45ZEc4ZnA3d9IB8gFBVV95cUxNQUltcm9CNVBFa3VKR2VwdlN0LXVYS1FDbzN6M2NmTnY0M3VQemZCVHFhUGN0VWd3eWJDZXB5cGlqQ3JpeXFvY1VoNEV1NFhzNTQ4NTE5cllzd18xY21BQUQ1cGpsUDFncVNIV0ZFRGtDajZOaGtvb1I0ei1GeERzUjYwUUlTcHJUUFA0dk9jUGRXeVZNR2RIZFpWNFNWdzhBMjdkYUJSOWk1ZXBVYmp0SmdOT3dnZm5zY2xNNWt1NDJiXzFMRXhpY0QycDBFYVkzWlE4NldXN3NHaTBUWnBqQUtSQlN3UUZlUU45ZEc4ZnA3dw?oc=5",
+      "source": "Google News - Precious Metals",
+      "date": "2026-06-08",
+      "image": "",
+      "category": "metals"
+    },
+    {
+      "title": "Bitcoin struggles as momentum traders shift focus to chip stocks",
+      "description": "Bitcoin's waning appeal among momentum traders highlights shifting investment trends, potentially altering its role in diversified portfolios.\nThe post Bitcoin struggles as momentum traders shift focus to chip stocks appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/bitcoin-momentum-traders-shift-chip-stocks/",
+      "source": "Crypto Briefing",
+      "date": "2026-06-07",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/07122032/bitcoin-drops-under-60-000-a-first-since-late-2024-5-1-800x420.jpeg",
+      "category": "market"
+    },
+    {
+      "title": "Today\u2019s News in a Nutshell",
+      "description": "KATHMANDU: Khabarhub brings you a glimpse of major developments of the day in Nepal, including politics, business/economy, sports, entertainment, and more. Foreign Minister Shisir Khanal bats for development-oriented bilateral ties Nepal wants to engage with \u2026",
+      "url": "https://english.khabarhub.com/2026/07/552711/",
+      "source": "Khabarhub.com",
+      "date": "2026-06-07",
+      "image": "https://english.khabarhub.com/wp-content/uploads/2024/05/News-Nutshell.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Focused on securing best deal: Piyush Goyal amid India-US trade talks",
+      "description": "Earlier, Piyush Goyal had said that India and the US will sign the \"first tranche\" of the bilateral trade deal by mid-July.",
+      "url": "https://indianexpress.com/article/business/piyush-goyal-india-us-trade-deal-negotiations-no-deadline-chinese-investment-10728628/",
+      "source": "The Indian Express",
+      "date": "2026-06-07",
+      "image": "https://images.indianexpress.com/2026/06/piyush.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Retirement vs. Crypto: Bet or Bust?",
+      "description": "Alexander Browder of the Henry Jackson Society explains how state actors and criminal networks are exploiting cryptocurrency to fund military programs, skirt...",
+      "url": "https://www.thestreet.com/retirement/retirement-vs-crypto-bet-or-bust",
+      "source": "TheStreet",
+      "date": "2026-06-07",
+      "image": "https://s.yimg.com/os/en/thestreet_881/29c66a47e98ad722a58e243bb1bd5f40",
       "category": "geopolitics"
+    },
+    {
+      "title": "Health workers at the epicenter of Congo\u2019s Ebola outbreak labor with little pay or rest",
+      "description": "Health authorities believe the outbreak, which took the eastern region of Congo by surprise after spreading silently for weeks without detection, started in the bustling mining area of Mongbwalu.",
+      "url": "https://nypost.com/2026/06/07/world-news/health-workers-at-the-epicenter-of-congos-ebola-outbreak-labor-with-little-pay-or-rest/",
+      "source": "New York Post",
+      "date": "2026-06-07",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/06/crop-39604372.jpg?quality=75&strip=all&w=1200",
+      "category": "supply_demand"
     },
     {
       "title": "Peru\u2019s Economic Miracle Is At Stake as Voters Head to Polls",
@@ -170,39 +233,12 @@
       "category": "central_bank"
     },
     {
-      "title": "Inside real-estate tycoon Satish Sanpal\u2019s \u20b9100-crore Burj Khalifa home: The billionaire who gifted his Baby a pink Rolls-Royce and own 40 kg of gold",
-      "description": "Dubai is no longer a stranger to luxury and gold. But few residents embody the city\u2019s larger-than-life lifestyle quite like the Indian-origin entrepreneur Satish Sanpal. Recently, he has become one of the most talked-about people following his appearance on a\u2026",
-      "url": "https://timesofindia.indiatimes.com/real-estate/news/inside-real-estate-tycoon-satish-sanpals-100-crore-burj-khalifa-home-the-billionaire-who-gifted-his-baby-a-pink-rolls-royce-and-own-40-kg-of-gold/photostory/131565081.cms",
-      "source": "The Times of India",
+      "title": "10 EDC Essentials Every 1930s Gentleman Carried",
+      "description": "Perhaps no decade better exemplifies the \u201cGolden Age of Menswear\u201d than the 1930s, when tailoring reached its zenith and personal style was a matter of daily discipline. But a gentleman\u2019s silhouette was only half the\u2026",
+      "url": "https://www.gentlemansgazette.com/1930s-mens-edc-essentials/",
+      "source": "Gentlemansgazette.com",
       "date": "2026-06-07",
-      "image": "https://static.toiimg.com/thumb/msid-131565199,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "Pro-US conservative faces leftist in Peru's high-stakes presidential runoff",
-      "description": "Keiko Fujimori and Roberto S\u00e1nchez face off in Peru's pivotal presidential runoff, a race that could determine the country's alignment with Washington or a leftward shift.",
-      "url": "https://www.foxnews.com/world/pro-us-conservative-faces-leftist-perus-high-stakes-presidential-runoff",
-      "source": "Fox News",
-      "date": "2026-06-07",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/sanchez-fujimori-peru-election.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Health workers at the epicenter of Congo's Ebola outbreak labor with little pay or rest",
-      "description": "Health workers inside Mongbwalu, the epicenter of Congo's outbreak, say they are working with little pay or rest",
-      "url": "https://abcnews.com/International/wireStory/health-workers-epicenter-congos-ebola-outbreak-labor-pay-133658871",
-      "source": "Abcnews.com",
-      "date": "2026-06-07",
-      "image": "https://i.abcnewsfe.com/a/33659d98-94fe-4b87-92ca-335b811841e8/wirestory_c0fa254aae429c6b2eb09d62527d6cca_16x9.jpg?w=1600",
-      "category": "market"
-    },
-    {
-      "title": "Want to trade gold 24x7? Here's how tokenised gold works, associated risks and how to buy it",
-      "description": "Tokenised gold is physical gold converted into digital tokens backed by real gold in secure storage. Investors can buy, sell, or hold gold online without owning physical bars. Here's all you need to know about the asset.",
-      "url": "https://www.livemint.com/money/personal-finance/want-to-trade-gold-24x7-heres-how-tokenised-gold-works-associated-risks-and-how-to-buy-it-11780647533798.html",
-      "source": "Livemint",
-      "date": "2026-06-07",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/06/1600x900/logo/gold_1780767580158_1780767580366_c89f824c-3510-4424-9429-28e6b69006ff.jpg",
+      "image": "https://www.gentlemansgazette.com/wp-content/uploads/2026/06/1930s-EDC-Banner-2560x1440-1-1030x579.jpg",
       "category": "metals"
     },
     {
@@ -242,156 +278,120 @@
       "category": "market"
     },
     {
-      "title": "Why has the Pentagon raised the risk of Israeli spying to the highest level?",
-      "description": "The US agencies warn against Israeli efforts to collect information on the talks to end the war, according to reports.",
-      "url": "https://www.aljazeera.com/news/2026/6/7/why-has-the-pentagon-raised-the-risk-of-israeli-spying-to-the-highest-level",
-      "source": "Al Jazeera English",
+      "title": "More traffic, but halved profits for airlines in 2026: Industry forecast",
+      "description": "The International Air Transport Association (IATA) predicted its 370 member airlines will carry 5.1 billion passengers this year.\nThe post More traffic, but halved profits for airlines in 2026: Industry forecast appeared first on Digital Journal.",
+      "url": "https://www.digitaljournal.com/article/more-traffic-but-halved-profits-for-airlines-in-2026-industry-forecast/",
+      "source": "Digital Journal",
       "date": "2026-06-07",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a253a4047a3-1780824640.jpg?resize=1920%2C1440",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Amusing Trailer for Animated Series 'Among Us' Following Crewmates",
-      "description": "\"Any one of us could be the killer!\"  Paramount+ has revealed one final official trailer for the animation series Among Us, an animated version of the popular video game series that originally arrived in 2018. The latest attempt at taking another fun concep\u2026",
-      "url": "https://www.firstshowing.net/2026/amusing-trailer-for-animated-series-among-us-following-crewmates/",
-      "source": "First Showing",
-      "date": "2026-06-07",
-      "image": "https://media2.firstshowing.net/firstshowing/img17/amonguspostermainimgsvtw1.jpg",
+      "image": "https://www.digitaljournal.com/wp-content/uploads/2026/06/fbdbb9b791814c0df3ed65f1ec422342e8dcc23c.jpg",
       "category": "market"
     },
     {
-      "title": "MIDHANI targets rare earth independence with next-gen alloys and infrastructure push",
-      "description": "MIDHANI CMD Dr SVS Narayana Murty expects significant advancements in next-generation superalloys, advanced titanium alloys, and high-temperature aerospace materials over the next decade",
-      "url": "https://www.thehindubusinessline.com/news/midhani-targets-rare-earth-independence-with-next-gen-alloys-and-infrastructure-push/article71072903.ece",
-      "source": "BusinessLine",
-      "date": "2026-06-07",
-      "image": "https://bl-i.thgim.com/public/incoming/ycsype/article71073327.ece/alternates/LANDSCAPE_1200/Passport-Photo-1-370x325.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Stewards decision to declare Benvenuto Cellini a Derby non-runner opens potential can of worms",
-      "description": "Christmas Day wins O\u2019Brien a 12th Epsom Derby but aftermath dominated by \u2018extraordinary act of self-sabotage\u2019",
-      "url": "https://www.irishtimes.com/sport/racing/2026/06/07/stewards-decision-to-declare-benvenuto-cellini-a-derby-non-runner-opens-potential-can-of-worms/",
-      "source": "The Irish Times",
-      "date": "2026-06-07",
-      "image": "https://www.irishtimes.com/resizer/v2/KRTBWNAMEUVIA4QC3BAQVWIUCQ.jpg?smart=true&auth=c5a57e75f6ebcfc52eaeadfbeda957b5003bcbca88f98e511b3e97cb3854d8e5&width=1200&height=630",
-      "category": "geopolitics"
-    },
-    {
-      "title": "codex-maintainer added to PyPI",
-      "description": "AI-powered toolkit for OSS maintainers using OpenAI Codex",
-      "url": "https://pypi.org/project/codex-maintainer/",
+      "title": "search-mcp-registry 0.1.0",
+      "description": "A native MCP Server that searches a global registry of MCP tools.",
+      "url": "https://pypi.org/project/search-mcp-registry/0.1.0/",
       "source": "Pypi.org",
       "date": "2026-06-07",
-      "image": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+      "image": null,
       "category": "market"
     },
     {
-      "title": "Farmers Warn New Crisis Could Push More Out of Agriculture",
-      "description": "Japan's agricultural sector, which supports the nation's food supply, is beginning to feel the impact of the Middle East crisis, as soaring fuel and fertilizer costs and growing shortages of essential farming materials raise fears that more producers may aban\u2026",
-      "url": "https://newsonjapan.com/article/149551.php",
-      "source": "Newsonjapan.com",
+      "title": "search-mcp-registry added to PyPI",
+      "description": "A native MCP Server that searches a global registry of MCP tools.",
+      "url": "https://pypi.org/project/search-mcp-registry/",
+      "source": "Pypi.org",
       "date": "2026-06-07",
-      "image": "https://i2.ytimg.com/vi/xyFo4NZMnGA/maxresdefault.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Global airlines slash 2026 profit forecast on fuel shock from Iran war",
-      "description": "The global airline industry has significantly lowered its 2026 profit forecast due to rising fuel costs and disruptions from the Iran war. Airlines are now expected to earn $23 billion, down from $41 billion, as conflict in the Middle East drives up jet fuel \u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/business/global-airlines-slash-2026-profit-forecast-on-fuel-shock-from-iran-war/articleshow/131567829.cms",
-      "source": "The Times of India",
-      "date": "2026-06-07",
-      "image": "https://img.etimg.com/thumb/msid-131567872,width-1200,height-630,imgsize-55786,overlay-economictimes/articleshow.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "China banks raise dollar deposit rates to curb yuan appreciation",
-      "description": "China's move to raise dollar deposit rates subtly manages yuan strength, impacting exporters and creating a complex financial landscape.\nThe post China banks raise dollar deposit rates to curb yuan appreciation appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/china-banks-dollar-deposit-rates-yuan/",
-      "source": "Crypto Briefing",
-      "date": "2026-06-07",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/07093324/china-banks-raise-dollar-deposit-rates-amid-yuan-strength-so-1-800x420.jpeg",
-      "category": "currency"
-    },
-    {
-      "title": "How the US Labor Movement Can Revive Itself and Help Save Democracy",
-      "description": "The US labor movement, like the nation at large, stands at a crossroads. The next few years might well determine whether the United States fully descends into an era of electoral autocracy, where democracy has withered and authoritarianism becomes the politic\u2026",
-      "url": "https://inthesetimes.com/article/resisting-trumpism-revive-labor-movement-protestors-strike-democracy",
-      "source": "In These Times",
-      "date": "2026-06-07",
-      "image": "https://www.commondreams.org/media-library/image.jpg?id=63887800&width=1200&height=600&coordinates=0%2C416%2C0%2C416",
+      "image": null,
       "category": "market"
     },
     {
-      "title": "Women often outlive men. Here's how they should approach their long-term care needs",
-      "description": "In addition to typically living longer than their husbands, women also are more likely to need long-term care, which can be costly.",
-      "url": "https://www.cnbc.com/2026/06/07/women-long-term-care-retirement.html",
-      "source": "CNBC",
+      "title": "The Super Mario Galaxy Movie Crosses $1 Billion at the Box Office",
+      "description": "It took some time, but The Super Mario Galaxy Movie has finally crossed the $1 billion mark at the global box office.",
+      "url": "https://www.ign.com/articles/the-super-mario-galaxy-movie-crosses-1-billion-at-the-box-office",
+      "source": "IGN",
       "date": "2026-06-07",
-      "image": "https://image.cnbcfm.com/api/v1/image/107144746-1667396730834-gettyimages-1345987998-caretaker_victor_bs_2021_038.jpeg?v=1780578595&w=1920&h=1080",
+      "image": "https://assets-prd.ignimgs.com/2026/03/31/thesupermariogalaxymovie-review-blogroll-1774980297612.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "category": "market"
     },
     {
-      "title": "100 days into Iran war, Americans face higher prices",
-      "description": "On average, US households have spent $750 more in expenses due to the war, hitting middle and lower-income people hard.",
-      "url": "https://www.aljazeera.com/economy/2026/6/7/100-days-into-iran-war-americans-face-higher-prices",
-      "source": "Al Jazeera English",
+      "title": "Enhanced Games: what\u2019s the issue?",
+      "description": "The Enhanced Games wound up on May 24 2026 without the medal shower that was widely expected, but what does the multi-sport event really stand for when it\u2019s stripped of the moral frenzy?",
+      "url": "https://theconversation.com/enhanced-games-whats-the-issue-284487",
+      "source": "The Conversation Africa",
       "date": "2026-06-07",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-03T160104Z_1722566967_RC2KQIAFVKD7_RTRMADP_3_IRAN-CRISIS-ISRAEL-TRUMP-1780504697.jpg?resize=1920%2C1440",
-      "category": "geopolitics"
-    },
-    {
-      "title": "CLARITY Act chances of passage this year falls to 60%, Galaxy Digital says",
-      "description": "The CLARITY Act, the crypto industry\u2019s biggest bill in Congress, is losing momentum just weeks after clearing a key Senate committee, raising the risk that Washington\u2019s first major digital asset rulebook slips deeper into an election year. Galaxy Digital lowe\u2026",
-      "url": "https://cryptoslate.com/clarity-act-chances-of-passage-this-year-falls-to-60-galaxy-digital-says/",
-      "source": "CryptoSlate",
-      "date": "2026-06-07",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/06/clarityAct-60.jpg",
+      "image": "https://images.theconversation.com/files/739702/original/file-20260602-57-ugsvny.jpg?ixlib=rb-4.1.0&rect=0%2C647%2C5000%2C2500&q=45&auto=format&w=1356&h=668&fit=crop",
       "category": "market"
     },
     {
-      "title": "Pentagon Raises Israeli Spy Threat as NDAA Seeks Deeper Defense Ties",
-      "description": "The elevated rating comes as Congress advances a Netanyahu-backed defense integration proposal praised by AIPAC.",
-      "url": "https://military.com/pentagon-raises-israeli-spy-threat-as-ndaa-seeks-deeper-defense-ties",
-      "source": "Military.com",
+      "title": "The fresh wind turning Suzlon 2.0 turbines",
+      "description": "Suzlon 2.0 unveils a five-year plan to transform into a comprehensive renewable solutions provider, targeting significant growth in wind and solar markets.",
+      "url": "https://www.thehindubusinessline.com/specials/clean-tech/the-fresh-wind-turning-suzlon-20-turbines/article71073941.ece",
+      "source": "BusinessLine",
       "date": "2026-06-07",
-      "image": "https://static0.mltimages.com/wordpresshttps://static0.mltimages.com/wordpress/wp-content/uploads/2026-01/image_29.png?w=1200&h=675&fit=crop",
-      "category": "market"
-    },
-    {
-      "title": "What did judge rule on legal immigration? #politics",
-      "description": "Judge blocks Trump administration\u2019s attempt to cripple legal immigration A federal judge ruled that one of the Trump administration\u2019s attempts to restrict legal immigration is illegal , holding that U.S. Citizenship and Immigration Services ( USCIS ) ran afou\u2026",
-      "url": "https://alltoc.com/politics/what-did-judge-rule-on-legal-immigration",
-      "source": "Alltoc.com",
-      "date": "2026-06-07",
-      "image": "https://alltoc.com/cdn/1048/og.png",
+      "image": "https://bl-i.thgim.com/public/incoming/oxb7w3/article71073952.ece/alternates/LANDSCAPE_1200/BL0806_Clean_Anchor_Graphic.jpg",
       "category": "central_bank"
     },
     {
-      "title": "What coal plan did Trump announce? #politics",
-      "description": "Trump announces major funding for coal President Donald Trump said his administration will invest about $700 million to modernize domestic coal plants and build new coal fired facilities, despite warnings that the move would raise costs and run counter to eff\u2026",
-      "url": "https://alltoc.com/politics/what-coal-plan-did-trump-announce",
-      "source": "Alltoc.com",
-      "date": "2026-06-07",
-      "image": "https://alltoc.com/cdn/1048/og.png",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Precious metals hit by selling pressure during 100 days of Middle East war - Anadolu Ajans\u0131",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPaF9lR3BpbkZVNGc4eG9rZVd1c2JmUER3Y1djYlVwZEg1VTI1YnNGYjJNU2FiMk5XVW5NM0ZyZnV4WjZ3bHppNlJzRkhpZ1NtWWpsTG9YbWVCMFpKY2VOS1JrS2VCbnhIYjNVNkJmbFRNY0JubWpYMkxybXZ0MFZuUjdIYXVsRmFpOFVKN1BKUXVzQXJfVlp5ZHhQRklYUlMxYzFldllDMGlCRWVkY0pPa1pLTmhpQQ?oc=",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaF9lR3BpbkZVNGc4eG9rZVd1c2JmUER3Y1djYlVwZEg1VTI1YnNGYjJNU2FiMk5XVW5NM0ZyZnV4WjZ3bHppNlJzRkhpZ1NtWWpsTG9YbWVCMFpKY2VOS1JrS2VCbnhIYjNVNkJmbFRNY0JubWpYMkxybXZ0MFZuUjdIYXVsRmFpOFVKN1BKUXVzQXJfVlp5ZHhQRklYUlMxYzFldllDMGlCRWVkY0pPa1pLTmhpQQ?oc=5",
-      "source": "Google News - Precious Metals",
-      "date": "2026-06-07",
-      "image": "",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Bullion Cues: Gold futures and silver futures exhibit weakness",
-      "description": "Precious metals face downward pressure, with gold and silver prices declining; traders advised to short or buy strategically.",
-      "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/bullion-cues-gold-futures-and-silver-futures-exhibit-weakness/article71067327.ece",
+      "title": "GEF: The conservation kitty just shrank 36%",
+      "description": "The Global Environment Facility faces a 36% funding cut, relying on private sector support to tackle environmental crises.",
+      "url": "https://www.thehindubusinessline.com/specials/clean-tech/gef-the-conservation-kitty-just-shrank-36/article71073962.ece",
       "source": "BusinessLine",
-      "date": "2026-06-06",
-      "image": "https://bl-i.thgim.com/public/incoming/edtllh/article71069266.ece/alternates/LANDSCAPE_1200/PO07_Bear_stock.jpg",
+      "date": "2026-06-07",
+      "image": "https://bl-i.thgim.com/public/incoming/dfvqg3/article71073963.ece/alternates/LANDSCAPE_1200/BL0806_Clean_Lead_Claude%20Gascon.jpg",
+      "category": "market"
+    },
+    {
+      "title": "How Hotel du Pont creates 'sense of home' for Ivory Coast in World Cup",
+      "description": "While the Hotel du Pont in Wilmington has attracted a flood of famous visitors over the years, hosting soccer stars is the new wave there.",
+      "url": "https://www.delawareonline.com/story/news/2026/06/07/ivory-coast-gets-home-feel-at-hotel-du-pont-for-fifa-world-cup-2026/90407854007/",
+      "source": "The News Journal",
+      "date": "2026-06-07",
+      "image": "https://s.yimg.com/ny/api/res/1.2/NcEoih66jKGPicJLbpcrFA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/delaware-online-the-news-journal/28c9de2395bf28c65f4010c164cf2d32",
+      "category": "market"
+    },
+    {
+      "title": "Complying In Advance \u2013 Science Edition",
+      "description": "Russell Vought wants to install political commissars to decide on federal science grants. The Auburn University Board of Trustees on Friday gave itself complete control over course offerings, curriculum, degree requirements, and academic credentials while eli\u2026",
+      "url": "https://www.lawyersgunsmoneyblog.com/2026/06/complying-in-advance-science-edition",
+      "source": "Lawyersgunsmoneyblog.com",
+      "date": "2026-06-07",
+      "image": "https://www.lawyersgunsmoneyblog.com/wp-content/uploads/2026/06/Screenshot-2026-06-07-092642.png",
+      "category": "central_bank"
+    },
+    {
+      "title": "Ekiti 2026: SDP gov candidate demands issue-based campaigns",
+      "description": "SDP governorship candidate Peter Obafemi calls for issue-based campaigns in the Ekiti 2026 election, focusing on unemployment, poverty, and infrastructure.\n\nRead More: https://punchng.com/ekiti-2026-sdp-gov-candidate-demands-issue-based-campaigns/",
+      "url": "https://punchng.com/ekiti-2026-sdp-gov-candidate-demands-issue-based-campaigns/",
+      "source": "The Punch",
+      "date": "2026-06-07",
+      "image": "https://cdn.punchng.com/wp-content/uploads/2026/06/07170752/1001186125-820x630.webp",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Readers React: What to Expect After the Supreme Court\u2019s Hikma Ruling",
+      "description": "Thursday\u2019s Supreme Court ruling in Hikma v. Amarin has been discussed as a definitive win for the generics industry and may have implications beyond pharmaceutical and Hatch-Waxman cases. The Court criticized the U.S. Court of Appeals for the Federal Circuit \u2026",
+      "url": "https://ipwatchdog.com/2026/06/07/readers-react-what-expect-after-supreme-courts-hikma-ruling/",
+      "source": "IPWatchdog.com",
+      "date": "2026-06-07",
+      "image": "https://ipwatchdog.com/wp-content/uploads/2019/04/Optimized-Depositphotos_147998477_xl-2015.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "S&P 500 sheds $1.8T as Nasdaq records its biggest single-day point drop ever",
+      "description": "The market's sharp decline highlights the vulnerability of equities and crypto to interest rate shifts, challenging diversification strategies.\nThe post S&P 500 sheds $1.8T as Nasdaq records its biggest single-day point drop ever appeared first on Crypto Brie\u2026",
+      "url": "https://cryptobriefing.com/sp500-nasdaq-record-drop-crypto/",
+      "source": "Crypto Briefing",
+      "date": "2026-06-07",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/07113244/what-is-the-nasdaq-composite-and-what-companies-are-in-it-na-1-800x420.jpeg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Tinubu did not approve new airtime credit operators, says FCCPC",
+      "description": "The FCCPC refutes claims that President Tinubu approved new airtime credit operators, stating it was unaware of and uninvolved in the reports.\n\nRead More: https://punchng.com/tinubu-did-not-approve-new-airtime-credit-operators-says-fccpc/",
+      "url": "https://punchng.com/tinubu-did-not-approve-new-airtime-credit-operators-says-fccpc/",
+      "source": "The Punch",
+      "date": "2026-06-07",
+      "image": "https://cdn.punchng.com/wp-content/uploads/2025/02/25180008/The-Director-Special-Duties-and-Strategic-Communication-in-FCCPC-Mr-Ondaje-Ijagwu-1200x630.jpg",
       "category": "geopolitics"
     }
   ],
@@ -419,15 +419,15 @@
     {
       "date": "2026-06-08",
       "week": "2026-W24",
-      "gold_10g": 132618.14,
-      "silver_kg": 209056.53,
-      "platinum_g": 5381.24,
-      "gold_usd_oz": 4334.05,
-      "silver_usd_oz": 68.32,
-      "platinum_usd_oz": 1758.62
+      "gold_10g": 132887.57,
+      "silver_kg": 210390.65,
+      "platinum_g": 5380.68,
+      "gold_usd_oz": 4342.85,
+      "silver_usd_oz": 68.76,
+      "platinum_usd_oz": 1758.44
     }
   ],
-  "timestamp": "2026-06-08T19:20:03.073103+05:30",
+  "timestamp": "2026-06-08T22:06:32.416529+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
