@@ -1,24 +1,24 @@
 {
   "prices": {
     "gold": {
-      "price_per_gram_inr": 13123.95,
-      "price_usd_oz": 4288.99,
-      "change_percent": -0.92,
-      "change_value_usd": -39.88,
-      "price_per_10g_inr": 131239.49
+      "price_per_gram_inr": 13237.73,
+      "price_usd_oz": 4326.18,
+      "change_percent": -0.06,
+      "change_value_usd": -2.69,
+      "price_per_10g_inr": 132377.32
     },
     "silver": {
-      "price_per_gram_inr": 204.93,
-      "price_usd_oz": 66.97,
-      "change_percent": -1.19,
-      "change_value_usd": -0.81,
-      "price_per_kg_inr": 204931.76
+      "price_per_gram_inr": 208.23,
+      "price_usd_oz": 68.05,
+      "change_percent": 0.4,
+      "change_value_usd": 0.27,
+      "price_per_kg_inr": 208228.82
     },
     "platinum": {
-      "price_per_gram_inr": 5389.19,
-      "price_usd_oz": 1761.22,
-      "change_percent": -1.01,
-      "change_value_usd": -17.93
+      "price_per_gram_inr": 5445.12,
+      "price_usd_oz": 1779.5,
+      "change_percent": 0.02,
+      "change_value_usd": 0.35
     },
     "currencies": {
       "USD_INR": 95.1741,
@@ -30,8 +30,8 @@
       "CAD_INR": 68.2839,
       "SGD_INR": 73.8872
     },
-    "gold_silver_ratio": 64.04,
-    "timestamp": "2026-06-08T08:26:51.263479",
+    "gold_silver_ratio": 63.57,
+    "timestamp": "2026-06-08T11:24:22.799087",
     "source": "GoldAPI"
   },
   "currencies": {
@@ -53,32 +53,32 @@
         "sell": 25,
         "hold": 50
       },
-      "summary": "Gold is showing negative signals. Slight decline of -0.9%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-08T08:26:55.659007",
+      "summary": "Gold is showing negative signals. Slight decline of -0.1%. Recommendation: HOLD with moderate confidence based on current indicators.",
+      "timestamp": "2026-06-08T11:24:27.613531",
       "source": "rule-based"
     },
     "silver": {
       "metal": "silver",
-      "recommendation": "SELL",
+      "recommendation": "HOLD",
       "confidence": {
-        "buy": 15,
-        "sell": 56,
-        "hold": 29
+        "buy": 25,
+        "sell": 25,
+        "hold": 50
       },
-      "summary": "Silver is showing negative signals. Significant daily drop of -1.2%. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-08T08:26:55.735790",
+      "summary": "Silver is showing positive signals. Positive daily movement of 0.4%. Recommendation: HOLD with moderate confidence based on current indicators.",
+      "timestamp": "2026-06-08T11:24:27.681519",
       "source": "rule-based"
     },
     "platinum": {
       "metal": "platinum",
-      "recommendation": "SELL",
+      "recommendation": "HOLD",
       "confidence": {
-        "buy": 15,
-        "sell": 56,
-        "hold": 29
+        "buy": 25,
+        "sell": 25,
+        "hold": 50
       },
-      "summary": "Platinum is showing negative signals. Significant daily drop of -1.0%. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-08T08:26:55.805738",
+      "summary": "Platinum is showing positive signals. Positive daily movement of 0.0%. Recommendation: HOLD with moderate confidence based on current indicators.",
+      "timestamp": "2026-06-08T11:24:27.739875",
       "source": "rule-based"
     }
   },
@@ -125,57 +125,39 @@
   },
   "news": [
     {
-      "title": "Rajesh Exports shares hit 5% lower circuit for third session on alleged Rs 15.15 lakh crore fraud",
-      "description": "Rajesh Exports shares hit lower circuits for a third straight session after Sebi alleged massive revenue inflation and financial irregularities. The regulator barred promoter Rajesh Mehta from trading and flagged auditor lapses. The company denied wrongdoing, attributing discrepancies to accounting ",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rajesh-exports-shares-hit-5-lower-circuit-for-third-session-on-alleged-rs-15-15-lakh-crore-fraud/articleshow/131582525.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-06-08",
-      "image": "",
-      "category": "inflation"
-    },
-    {
-      "title": "Global markets: Japan's Nikkei slumps, yen trades above 160 level on tech, Gulf concerns",
-      "description": "Japan's Nikkei share average experienced its biggest drop in three months. The yen also weakened significantly against the dollar. Concerns over technology stock valuations and escalating Middle East hostilities impacted the market. This led to a sharp decline in Japanese equities. Investors are clo",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japans-nikkei-slumps-yen-trades-above-160-level-on-tech-gulf-concerns/articleshow/131582429.cms",
+      "title": "Rupee slumps as elevated crude, Treasury yields support dollar",
+      "description": "A raft of measures aimed at supporting the currency battered by the impact of the months-long Iran war had boosted the rupee to its best \u200cday in \u2060two months \u2060on Friday.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-slumps-as-elevated-crude-treasury-yields-support-dollar/articleshow/131586144.cms",
       "source": "Economic Times Markets",
       "date": "2026-06-08",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "10 stocks crash up to 50% in just 100 days of US-Iran war. Do you own any?",
-      "description": "The Indian stock market has witnessed a sharp correction since the Iran-US-Israel conflict escalated in late February, with the Nifty 50 falling over 7%. Several mid- and large-cap stocks have been hit hard, with some losing up to 50% of their value in just 100 days amid heightened uncertainty and s",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/10-stocks-crash-up-to-50-in-just-100-days-of-us-iran-war-do-you-own-any/slideshow/131582376.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-06-08",
-      "image": "",
-      "category": "geopolitics"
+      "title": "Emkay Wealth sees more upside in gold and silver \u2014 How much should you invest?",
+      "description": "Emkay Wealth Management remains optimistic about gold and silver, driven by macroeconomic uncertainty and central bank purchases. Details here.",
+      "url": "https://www.livemint.com/money/emkay-wealth-sees-more-upside-in-gold-and-silver-how-much-should-you-invest-11780826910368.html",
+      "source": "Livemint",
+      "date": "2026-06-07",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/07/1600x900/logo/gold_and_silver_prices_March_31_markets_news_India_1743385413433_1780829030676_1b82afbc-d7c9-4ebd-a46f-7e5c27dd1170.jpg",
+      "category": "central_bank"
     },
     {
-      "title": "Textile stocks to rally? Emkay sees sector at inflection point to regain lost glory, initiates 'Buy' call on 3 stocks",
-      "description": "India\u2019s textile sector is nearing an inflection point and could regain lost global market share, according to Emkay Global. The brokerage initiated coverage with \u2018Buy\u2019 ratings on Arvind, Nitin Spinners and Sanathan Textiles, citing FTAs, tariff advantages over China, a strong domestic market and gro",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/textile-stocks-to-rally-emkay-sees-sector-at-inflection-point-to-regain-lost-glory-initiates-buy-call-on-3-stocks/articleshow/131581351.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-06-08",
-      "image": "",
-      "category": "geopolitics"
+      "title": "Inside real-estate tycoon Satish Sanpal\u2019s \u20b9100-crore Burj Khalifa home: The billionaire who gifted his Baby a pink Rolls-Royce and own 40 kg of gold",
+      "description": "Dubai is no longer a stranger to luxury and gold. But few residents embody the city\u2019s larger-than-life lifestyle quite like the Indian-origin entrepreneur Satish Sanpal. Recently, he has become one of the most talked-about people following his appearance on a\u2026",
+      "url": "https://timesofindia.indiatimes.com/real-estate/news/inside-real-estate-tycoon-satish-sanpals-100-crore-burj-khalifa-home-the-billionaire-who-gifted-his-baby-a-pink-rolls-royce-and-own-40-kg-of-gold/photostory/131565081.cms",
+      "source": "The Times of India",
+      "date": "2026-06-07",
+      "image": "https://static.toiimg.com/thumb/msid-131565199,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "category": "metals"
     },
     {
-      "title": "100 days of Iran war, Rs 4,50,000 crore wiped out: Is your stock portfolio safe from missiles?",
-      "description": "Indian equities have lost Rs 4.5 lakh crore in 100 days as the Iran-led West Asia conflict and a global AI trade unwind trigger sharp FII outflows. Banking, oil and IT stocks led declines, while pharma outperformed. Analysts warn of earnings downgrades, though valuations are turning attractive in se",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/100-days-of-iran-war-rs-450000-crore-wiped-out-is-your-stock-portfolio-safe-from-missiles/articleshow/131581114.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-06-08",
-      "image": "",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Avoid broad market bets now; focus on these 3 sectors instead:  Shibani Sircar Kurian",
-      "description": "Indian stock markets face ongoing volatility from West Asian geopolitical events. Despite this, earnings prospects remain strong. Investors should focus on specific companies with solid growth drivers. Kotak AMC favors large and mid-cap stocks. Banking, healthcare, and industrials are seen as key gr",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/avoid-broad-market-bets-now-focus-on-these-3-sectors-instead-shibani-sircar-kurian/articleshow/131580250.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-06-08",
-      "image": "",
+      "title": "Pro-US conservative faces leftist in Peru's high-stakes presidential runoff",
+      "description": "Keiko Fujimori and Roberto S\u00e1nchez face off in Peru's pivotal presidential runoff, a race that could determine the country's alignment with Washington or a leftward shift.",
+      "url": "https://www.foxnews.com/world/pro-us-conservative-faces-leftist-perus-high-stakes-presidential-runoff",
+      "source": "Fox News",
+      "date": "2026-06-07",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/sanchez-fujimori-peru-election.jpg",
       "category": "geopolitics"
     },
     {
@@ -197,31 +179,13 @@
       "category": "metals"
     },
     {
-      "title": "AlphaGrep enters MF space, targets \u20b925,000-30,000 crore AUM in 3-5 years",
-      "description": "AlphaGrep Investment Management targets \u20b925,000-30,000 crore AUM in mutual funds with its first NFO launching July 6, 2026.",
-      "url": "https://www.thehindubusinessline.com/markets/alphagrep-enters-mf-space-targets-25000-30000-crore-aum-in-3-5-years/article71072523.ece",
+      "title": "West Asia tensions, oil prices, inflation data key drivers for gold this week: Analysts",
+      "description": "Investors will watch trade and inflation data from China and the US, mid-month consumer sentiment figures from Washington, and India\u2019s CPI readings",
+      "url": "https://www.thehindubusinessline.com/markets/west-asia-tensions-oil-prices-inflation-data-key-drivers-for-gold-this-week-analysts/article71072802.ece",
       "source": "BusinessLine",
       "date": "2026-06-07",
-      "image": "https://bl-i.thgim.com/public/incoming/xbatdl/article71072541.ece/alternates/LANDSCAPE_1200/IMG_mutual_funds_2_1_0EDR8GOQ.jpg",
-      "category": "market"
-    },
-    {
-      "title": "AlphaGrep enters MF space, eyes Rs 25,000-30,000 cr AUM in 3-5 yrs; to launch maiden scheme on Jul 6",
-      "description": "The move comes after the company received approval from the Securities and Exchange Board of India (Sebi) to commence mutual fund operations.",
-      "url": "https://m.economictimes.com/mf/mf-news/alphagrep-enters-mf-space-eyes-rs-25000-30000-cr-aum-in-3-5-yrs-to-launch-maiden-scheme-on-jul-6/articleshow/131563079.cms",
-      "source": "Economictimes.com",
-      "date": "2026-06-07",
-      "image": "https://img.etimg.com/thumb/msid-131563079,width-1200,height-630,imgsize-14412,overlay-etwealthmutualfunds/articleshow.jpg",
-      "category": "market"
-    },
-    {
-      "title": "This weapon found in an Egyptian pharaoh's tomb wasn't made on Earth. Scientists solve a 3,000-year-old mystery",
-      "description": "A mysterious iron dagger found in King Tutankhamun's tomb was made from space metal. Scientists confirmed the weapon's blade contains meteoritic iron, a rare material. This discovery shows ancient Egyptians used 'sky iron' long before they mastered smelting. \u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/this-weapon-found-in-an-egyptian-pharaohs-tomb-wasnt-made-on-earth-scientists-solve-a-3000-year-old-mystery/articleshow/131562847.cms",
-      "source": "The Times of India",
-      "date": "2026-06-07",
-      "image": "https://img.etimg.com/thumb/msid-131562873,width-1200,height-630,imgsize-26840,overlay-economictimes/articleshow.jpg",
-      "category": "market"
+      "image": "https://bl-i.thgim.com/public/incoming/s5tim0/article71072825.ece/alternates/LANDSCAPE_1200/iStock-1323542329%204.jpg",
+      "category": "geopolitics"
     },
     {
       "title": "Designers are experimenting with AI to make clothes and footwear more interactive",
@@ -251,148 +215,184 @@
       "category": "market"
     },
     {
-      "title": "News24 | From a Stellenbosch dorm to UK shelves: How lifestyle brand FOM went global",
-      "description": "Roal Boezaart loved making clothes as an undergraduate at Stellenbosch University.But not even he thought his designs would be in 30 stores around the country, worn by the Springboks during a World Cup, and heading to the UK for their first global store openi\u2026",
-      "url": "https://www.news24.com/southafrica/good-news/from-a-stellenbosch-dorm-to-uk-shelves-how-lifestyle-brand-fom-went-global-20260606-1123",
-      "source": "News24",
+      "title": "David Lammy told JD Vance \u2018you\u2019re wrong\u2019 after Henry Nowak case intervention",
+      "description": "The UK\u2019s deputy prime minister said he challenged the US vice-president in a \u201crobust\u201d phone call on Saturday.",
+      "url": "https://www.thejournal.ie/david-lammy-told-jd-vance-youre-wrong-after-henry-nowak-case-intervention-7063107-Jun2026/",
+      "source": "TheJournal.ie",
       "date": "2026-06-07",
-      "image": "https://news24cobalt.24.co.za/resources/02a6-20ce3a869b64-6caf2a328820-1000/format/inline/1200.jpeg",
+      "image": "https://img2.thejournal.ie/article/7063107/river/?height=400&version=7063109",
       "category": "market"
     },
     {
-      "title": "Central bank set to meet for rate decision",
-      "description": "The Turkish Central Bank\u2019s Monetary Policy Committee is set to meet this week to decide on the key interest rate.",
-      "url": "https://www.hurriyetdailynews.com/central-bank-set-to-meet-for-rate-decision-222978",
+      "title": "Josh Holloway's Lost Follow-Up Was A Quickly Forgotten Sci-Fi Series",
+      "description": "The cyber thriller \"Intelligence\" premiered in 2014 with 18 million viewers, but lost more than half of its viewership just weeks into its first season.",
+      "url": "https://www.bgr.com/2186915/josh-holloway-lost-follow-up-forgotten-sci-fi-series-intelligence/",
+      "source": "BGR",
+      "date": "2026-06-07",
+      "image": "https://www.bgr.com/img/gallery/josh-holloways-lost-follow-up-was-a-quickly-forgotten-sci-fi-series/l-intro-1780514653.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Show HN: Lathe \u2013 Use LLMs to learn a new domain, not skip past it",
+      "description": "Hey HN!Lathe is an experiment in using LLMs to teach me something new, instead of doing the work for me. It generates a hands-on, source-backed tutorial for any technical topic you want to learn. Then you work through it yourself by reading and typing the cod\u2026",
+      "url": "https://github.com/devenjarvis/lathe",
+      "source": "Github.com",
+      "date": "2026-06-07",
+      "image": "https://opengraph.githubassets.com/bf7092ee3edd7230b68f87ac35c1435a87cccf897749feb7ec8f5847f31c0824/devenjarvis/lathe",
+      "category": "market"
+    },
+    {
+      "title": "Turkish, Azerbaijani, Georgian top diplomats to convene in Istanbul",
+      "description": "The foreign ministers from T\u00fcrkiye, Azerbaijan and Georgia will convene for a trilateral meeting in Istanbul to bolster their regional economic partnership by intensifying cooperation across transportation, connectivity and energy projects, diplomatic sources\u2026",
+      "url": "https://www.hurriyetdailynews.com/turkish-azerbaijani-georgian-top-diplomats-to-convene-in-istanbul-222989",
       "source": "Hurriyet Daily News",
       "date": "2026-06-07",
-      "image": "https://image.hurimg.com/i/hurriyet/75/200x200/6a252b0e3e732fc4269db922.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "Stealing Rain From Neighbors? Kazakhstan's Cloud-Seeding Experiment Sparks Regional Fears",
-      "description": "When Kazakhstan launched Central Asia\u2019s first large-scale cloud-seeding program on May 17, it called it a high-tech response to drought, water scarcity, and accelerating desertification.",
-      "url": "https://www.rferl.org/a/kazakhstan-cloud-seeding-central-asia-weather/33772843.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "date": "2026-06-07",
-      "image": "https://gdb.rferl.org/0E1CAE0B-9730-44DC-A7B2-8F5FB9282701_w1200_h630.jpg",
+      "image": "https://image.hurimg.com/i/hurriyet/75/200x200/6a2553033e732fc4269dba11.jpg",
       "category": "market"
     },
     {
-      "title": "Indian firms received far less govt support than Chinese peers during 2005-24: OECD report",
-      "description": "OECD report reveals Indian firms received significantly less government support than Chinese counterparts, impacting manufacturing competitiveness from 2005-2024.",
-      "url": "https://www.thehindubusinessline.com/economy/indian-firms-received-far-less-govt-support-than-chinese-peers-during-2005-24-oecd-report/article71072631.ece",
+      "title": "India must not let US Section 301 threats push it into a lopsided trade deal: Experts",
+      "description": "While Washington may be ready to \u2018lock-in\u2019 additional tariffs on India at around 18%, trade experts warn it won\u2019t buy immunity from future American protectionism",
+      "url": "https://www.thehindubusinessline.com/economy/india-must-not-let-us-section-301-threats-push-it-into-a-lopsided-trade-deal-experts/article71072860.ece",
       "source": "BusinessLine",
       "date": "2026-06-07",
-      "image": "https://bl-i.thgim.com/public/incoming/jzar3v/article71072639.ece/alternates/LANDSCAPE_1200/BL04_Think_meeting.jpg",
+      "image": "https://bl-i.thgim.com/public/incoming/6j59ke/article71072912.ece/alternates/LANDSCAPE_1200/iStock-1093163274.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Tata Motors CV redraws strategy to reduce dependence on truck cycle: Chandrasekaran",
+      "description": "Tata Motors is revamping its commercial vehicle strategy to mitigate trucking cycle volatility, focusing on software, services, exports, and clean mobility amid global geopolitical disruptions",
+      "url": "https://www.thehindubusinessline.com/companies/tata-motors-cv-redraws-strategy-to-reduce-dependence-on-truck-cycle-chandrasekaran/article71072841.ece",
+      "source": "BusinessLine",
+      "date": "2026-06-07",
+      "image": "https://bl-i.thgim.com/public/incoming/78wi78/article71072839.ece/alternates/LANDSCAPE_1200/N%20Chandrahskear.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Brit maritime agency heralds fresh global rules for crewless cargo ships",
+      "description": "If you thought driverless cars were bad, imagine a 200,000 ton container ship",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183628940",
+      "source": "Slashdot.org",
+      "date": "2026-06-07",
+      "image": null,
       "category": "market"
     },
     {
-      "title": "The World\u2019s Best Bourbon\u2014According To The American Whiskey Commission",
-      "description": "As America approaches its 250th anniversary, the American Whiskey Commission has named its \"Best In Show\" bourbon. Here's everything you need to know about the ultra premium $250 bottling.",
-      "url": "https://www.forbes.com/sites/bradjaphe/2026/06/07/the-worlds-best-bourbon-according-to-the-american-whiskey-commission/",
-      "source": "Forbes",
+      "title": "A needed $900B Treasury cash rebuild could quietly drain the liquidity Bitcoin needs",
+      "description": "Bitcoin traders have spent the past week bracing for the wrong kind of surprise, watching rate-cut bets evaporate as a run of firm labor data pushed the odds of a Federal Reserve hike by year-end toward 85% and dragged the 10-year Treasury yield up near 4.5%.\u2026",
+      "url": "https://cryptoslate.com/a-needed-900b-treasury-cash-rebuild-could-quietly-drain-the-liquidity-bitcoin-needs/",
+      "source": "CryptoSlate",
       "date": "2026-06-07",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a248abefc6c8401387fd3d0/0x0.jpg?format=jpg&crop=2374,1335,x127,y54,safe&height=900&width=1600&fit=bounds",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/06/treasury-liquidity.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Meet the Anti-Fracking Nanas",
+      "description": "It was a balmy August morning in Lancashire, a county in North West England known for its sweeping landscapes and greenery. But back in 2014, their idyllic community was facing an outside threat: Cuadrilla, an oil and gas giant and the only company in the Uni\u2026",
+      "url": "https://msmagazine.com/2026/06/07/anti-fracking-nanas/",
+      "source": "Ms. Magazine",
+      "date": "2026-06-07",
+      "image": "https://msmagazine.com/wp-content/uploads/2026/05/GettyImages-453597522.jpg",
       "category": "market"
     },
     {
-      "title": "BYD's first purpose-built global plug-in hybrid breaks cover",
-      "description": "BYD has lifted the covers off of the new Dolphin G DM-i, a car that essentially becomes its first proper global offering. With it, the auto brand looks to take on the regional players across markets; whether that be Chery and Tata in Asia, Tesla in the States\u2026",
-      "url": "https://newatlas.com/automotive/byd-dolphin-g-dm-i-global/",
-      "source": "New Atlas",
+      "title": "10 Sunday Reads",
+      "description": "Avert your eyes! My Sunday morning\u00a0look at incompetency, corruption and policy failures: \u2022 \u201cThis Is Not Financial Advice\u201d: How finfluencers prey on economic desperation. NOEMA on the meme-finance ecosystem hiding behind the disclaimer \u2014 and what regulators ha\u2026",
+      "url": "https://ritholtz.com/2026/06/10-sunday-reads-232/",
+      "source": "Ritholtz.com",
       "date": "2026-06-07",
-      "image": "https://assets.newatlas.com/dims4/default/5b6b890/2147483647/strip/true/crop/3916x2056+90+0/resize/1200x630!/quality/85/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fba%2F8e%2F26ee99b24b11991f59777a35ad88%2F5e7f993dfb425f030701c3b53c8355bb-l-jpg.jpg&na.image_optimisation=0",
+      "image": "https://ritholtz.com/wp-content/uploads/2026/06/uber-allies.png",
       "category": "market"
     },
     {
-      "title": "Harsh Goenka shares viral story of Maja Chwali\u0144ska: No hotel money a week ago, now career-high prize money. Here's how her life changed in just seven days",
-      "description": "Maja Chwali\u0144ska's journey from struggling with hotel bills to reaching the French Open final is captivating.  A week ago, she needed help with expenses. Today, she has secured over $1.6 million in prize money and her story was shared by Harsh Goenka on X.  He\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/harsh-goenka-shares-viral-story-of-maja-chwaliska-no-hotel-money-a-week-ago-now-career-high-prize-money-heres-how-her-life-changed-in-just-seven-days/articleshow/131563617.cms",
-      "source": "The Times of India",
+      "title": "Texas Democrat\u2019s congressional win is a generational shift backed by cryptocurrency",
+      "description": "Christian Menefee, 38, unseated Al Green, 78, after Texas Republicans combined their districts into one.",
+      "url": "https://www.salon.com/2026/06/07/texas-democrats-congressional-win-is-a-generational-shift-backed-by-cryptocurrency-partner/",
+      "source": "Salon",
       "date": "2026-06-07",
-      "image": "https://img.etimg.com/thumb/msid-131563678,width-1200,height-630,imgsize-106530,overlay-economictimes/articleshow.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Kosovo voters return to the polls after parties fail to agree on a new president",
-      "description": "Voters in Kosovo head to the polls for an early parliamentary election",
-      "url": "https://abcnews.com/International/wireStory/kosovo-voters-return-polls-after-parties-fail-agree-133658503",
-      "source": "Abcnews.com",
-      "date": "2026-06-07",
-      "image": "https://i.abcnewsfe.com/a/dbd5229f-68c2-4494-9770-015e21a0477c/wirestory_8e834897c0577af2e163929349bfa89a_16x9.jpg?w=1600",
-      "category": "market"
-    },
-    {
-      "title": "Week in review: Cisco SD-WAN 0-day exploited, Patch Tuesday forecast",
-      "description": "Here\u2019s an overview of some of last week\u2019s most interesting news, articles, interviews and videos: OWASP Agent Memory Guard: Stop AI agents from being weaponized through their own memory Agent Memory Guard is an open-source runtime defense layer that sits betw\u2026",
-      "url": "https://www.helpnetsecurity.com/2026/06/07/week-in-review-cisco-sd-wan-0-day-exploited-june-2026-patch-tuesday-forecast/",
-      "source": "Help Net Security",
-      "date": "2026-06-07",
-      "image": "https://img.helpnetsecurity.com/wp-content/uploads/2023/12/01112502/cybersecurity_week_in_review1.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Bitcoin\u2019s June Bloodbath Explained: Causes, Market Impact, And Outlook",
-      "description": "Bitcoin\u2019s price action in June has been marked by heavy selling pressure, with the leading cryptocurrency suffering one of its sharpest declines of the year. In the first five days of the month, Bitcoin has triggered more than $1.28 billion in long liquidatio\u2026",
-      "url": "http://www.newsbtc.com/news/bitcoin/bitcoins-june-bloodbath-explained-causes-market-impact-and-outlook/",
-      "source": "newsBTC",
-      "date": "2026-06-07",
-      "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/bitcoin-exchange-600nw-2637807235.jpg",
+      "image": "https://www.salon.com/app/uploads/2026/06/christian-menefee-2262501824.jpg",
       "category": "currency"
     },
     {
-      "title": "A Stock Trader\u2019s Guide to the Start of ECB Interest Rate Hikes",
-      "description": "European stock traders will need to add a further variable to their investment strategies this week: how rising interest rates will affect each corner of the market.",
-      "url": "https://financialpost.com/pmn/business-pmn/a-stock-traders-guide-to-the-start-of-ecb-interest-rate-hikes",
-      "source": "Financial Post",
+      "title": "Daughter of 2028 Olympics Chair Dreams of Competing in LA \u2014 for Israel",
+      "description": "Hollywood scion Casey Wasserman faced criticisms as Los Angeles Olympics chief for his connections to the late pedophile Jeffrey Epstein.\nThe post Daughter of 2028 Olympics Chair Dreams of Competing in LA \u2014 for Israel appeared first on The Intercept.",
+      "url": "https://theintercept.com/2026/06/07/olympics-la-casey-wasserman-israel/",
+      "source": "The Intercept",
       "date": "2026-06-07",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/banks-energy-autos-favored-when-bond-yield-rise-real-esta.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "2026 SkS Weekly Climate Change & Global Warming News Roundup #23",
-      "description": "A listing of 28 news and opinion articles we found interesting and shared on social media during the past week: Sun, May 31, 2026 thru Sat, June 6, 2026.\nStories we promoted this week, by category:\nClimate Policy and Politics (8 articles)\n<ul>\n<li>Scilencing \u2026",
-      "url": "https://skepticalscience.com/2026-SkS-Weekly-News-Roundup_23.html",
-      "source": "Skepticalscience.com",
-      "date": "2026-06-07",
-      "image": "https://skepticalscience.com/public/assets/images/og/button_sks_200.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Trump signs directive to develop AI capabilities for national security",
-      "description": "The directive's focus on rapid AI integration in national security could accelerate technological advancements but raises oversight and ethical concerns.\nThe post Trump signs directive to develop AI capabilities for national security appeared first on Crypto \u2026",
-      "url": "https://cryptobriefing.com/trump-ai-national-security-directive/",
-      "source": "Crypto Briefing",
-      "date": "2026-06-07",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/07022715/trump-signs-major-ai-directive-for-national-security-framewo-1-800x420.jpeg",
+      "image": "https://theintercept.com/wp-content/uploads/2026/06/GettyImages-2227968696-e1780596467212.jpg?fit=8256%2C4128&w=1200&h=800",
       "category": "market"
     },
     {
-      "title": "US economy adds 172,000 jobs in May as Fed holds rates at 3.5%-3.75%",
-      "description": "Stronger job growth and steady rates suggest prolonged Fed caution, impacting inflation control and potentially dampening risk asset appeal.\nThe post US economy adds 172,000 jobs in May as Fed holds rates at 3.5%-3.75% appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/us-jobs-report-may-fed-rates-steady/",
-      "source": "Crypto Briefing",
+      "title": "For the Nation\u2019s Birthday, Making It Harder to Become an American",
+      "description": "The Trump Administration has chosen to honor the Semiquincentennial by keeping people from entering the United States, by restricting those who have already done so from becoming full citizens, and by trying to strip naturalized citizens of their legal status\u2026",
+      "url": "https://www.newyorker.com/magazine/2026/06/15/for-the-nations-birthday-making-it-harder-to-become-an-american",
+      "source": "The New Yorker",
       "date": "2026-06-07",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/07020412/federal-reserve-system-frs-functions-and-history-4-1-800x420.jpeg",
-      "category": "central_bank"
+      "image": "https://media.newyorker.com/photos/6a234f4879958b787caabe5c/16:9/w_1280,c_limit/r49501.png",
+      "category": "market"
     },
     {
-      "title": "How will redistricting spread beyond Congress? #politics",
-      "description": "National redistricting battle shifts toward local offices A new phase of the redistricting fight is emerging after Republicans and Democrats have already taken steps at the congressional level. The reporting frames the next contest as one that could move from\u2026",
-      "url": "https://alltoc.com/politics/how-will-redistricting-spread-beyond-congress",
-      "source": "Alltoc.com",
+      "title": "Precious metals hit by selling pressure during 100 days of Middle East war - Anadolu Ajans\u0131",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPaF9lR3BpbkZVNGc4eG9rZVd1c2JmUER3Y1djYlVwZEg1VTI1YnNGYjJNU2FiMk5XVW5NM0ZyZnV4WjZ3bHppNlJzRkhpZ1NtWWpsTG9YbWVCMFpKY2VOS1JrS2VCbnhIYjNVNkJmbFRNY0JubWpYMkxybXZ0MFZuUjdIYXVsRmFpOFVKN1BKUXVzQXJfVlp5ZHhQRklYUlMxYzFldllDMGlCRWVkY0pPa1pLTmhpQQ?oc=",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaF9lR3BpbkZVNGc4eG9rZVd1c2JmUER3Y1djYlVwZEg1VTI1YnNGYjJNU2FiMk5XVW5NM0ZyZnV4WjZ3bHppNlJzRkhpZ1NtWWpsTG9YbWVCMFpKY2VOS1JrS2VCbnhIYjNVNkJmbFRNY0JubWpYMkxybXZ0MFZuUjdIYXVsRmFpOFVKN1BKUXVzQXJfVlp5ZHhQRklYUlMxYzFldllDMGlCRWVkY0pPa1pLTmhpQQ?oc=5",
+      "source": "Google News - Precious Metals",
       "date": "2026-06-07",
-      "image": "https://alltoc.com/cdn/1048/og.png",
+      "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "The Principles Paradox: A blistering examination of the Uniparty that rules us all",
-      "description": "The book exposes a decades-long merger between Democrats and Republicans into a \u201cUniparty,\u201d where both parties serve the same elite masters and have systematically betrayed voters through bipartisan agreements on policies like NAFTA, the Iraq War, the bank ba\u2026",
-      "url": "https://www.naturalnews.com/2026-06-07-the-principles-paradox-blistering-examination-of-uniparty.html",
-      "source": "Naturalnews.com",
-      "date": "2026-06-07",
-      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/The-Principles-Paradox.png",
+      "title": "Bullion Cues: Gold futures and silver futures exhibit weakness",
+      "description": "Precious metals face downward pressure, with gold and silver prices declining; traders advised to short or buy strategically.",
+      "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/bullion-cues-gold-futures-and-silver-futures-exhibit-weakness/article71067327.ece",
+      "source": "BusinessLine",
+      "date": "2026-06-06",
+      "image": "https://bl-i.thgim.com/public/incoming/edtllh/article71069266.ece/alternates/LANDSCAPE_1200/PO07_Bear_stock.jpg",
       "category": "geopolitics"
+    },
+    {
+      "title": "Former Pentagon Advisor: \u201cThe $2 Stock Sitting on America's Greatest Untapped Treasure\u201d",
+      "description": "The opportunity has a June 30 deadline. One small company holds the key. And most Americans have no idea. The opportunity has a June 30 deadline. One small company holds the key. And most Americans have no idea.",
+      "url": "https://www.globenewswire.com/news-release/2026/06/06/3307685/0/en/Former-Pentagon-Advisor-The-2-Stock-Sitting-on-America-s-Greatest-Untapped-Treasure.html",
+      "source": "GlobeNewswire",
+      "date": "2026-06-06",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "Woman finds mom\u2019s 2006 Walmart bill with 79 items for only $161.87 \u2014 includes salmon, shrimp. Could you afford that now?",
+      "description": "Here\u2019s what\u2019s at play and how to protect your finances.",
+      "url": "https://finance.yahoo.com/economy/articles/woman-finds-mom-2006-walmart-110500431.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-06-06",
+      "image": "https://s.yimg.com/ny/api/res/1.2/HI0zUHyg0VB9Y80J6FzQiA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/moneywise_ecomm_711/14f478d2a07b28347f2e6f7e8fff4a34",
+      "category": "market"
+    },
+    {
+      "title": "Why are gold and silver prices down today, and will precious metals continue to drop or rise again? Analys - The Economic Times",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi2wJBVV95cUxPU0V2NVd6b0x6eHNMVjFoOUEwX1hlVm5tcldYOFJ1bkE4UGdDQlJwbEphNDRVWmtERjRpZjBhQ2VuSXFCYnl4RU9Nb1JGcjJHc3pLTWdIRk5USER6TVJiOFRzOXRtenBSZ1VEWVBOSXZJdURXU0JleGh4SnUyMlFCRl9iTE5ZcXRaSllwS1Zjc2t2a0lRRFU2YnlzZE0wZmVQV0lzYVhZSTVrSFdfTEFiY1NjcVFOb1NkZ1",
+      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPU0V2NVd6b0x6eHNMVjFoOUEwX1hlVm5tcldYOFJ1bkE4UGdDQlJwbEphNDRVWmtERjRpZjBhQ2VuSXFCYnl4RU9Nb1JGcjJHc3pLTWdIRk5USER6TVJiOFRzOXRtenBSZ1VEWVBOSXZJdURXU0JleGh4SnUyMlFCRl9iTE5ZcXRaSllwS1Zjc2t2a0lRRFU2YnlzZE0wZmVQV0lzYVhZSTVrSFdfTEFiY1NjcVFOb1NkZ1BjbnNzOEN0UjNiZnUtUnMxX3d5TzU3V3JCRVpqbmRQRVlzQW1QNjR1YUtJSmdPMmdaYmdNbC1TbHpXWFBnMThmekhYV1ZCNHhzSU12ZU1qaTF1SVBFM3hOWVlCVlR5bzgwNXUyRm1iNzFFblE2WGU5NmdreXFRaEpXaHhDRmg4SjdCTnRSUjdteEZyNnNLNnpyUEdtZlllU2VtZVZtbko1VdIB4AJBVV95cUxNTm4zX1VQeDUxWnZGZzVnd0xOTXlaal9vM2tkQ0J0V3ZNTnVldVNQWnQteUFkV3FtMmJCQzBWOUlZTnhacTk3ZkhWeVAwRDJYeXBzRENPZU1INDMzaFAzNmxBUDEyeEQyM3JIS0M3OUtndE1mVzNQWHJyWFgyQUxmbEhXTTRsZWE4Sm9SRk1nWjdvOVJlb1ZRODBnMFp3aHhwR0JLYjk3eG5wMWN3UE42bHkxUGwwcXVfTkNqOVpfcFRQdjVySi1CbDdaUWIteGZ6bExrdnpCdkppX2E0WjY2NDBqMnVMVHNFcGVPeHEyZ0Ewd0pjeHNOenFMOHRXRTVQbF9nTnRNaEhoRURpSldieTRSRmh6RjBpYW1Cb2lPNHc3cEtjMGhPOFRTQVJPSG1FOHJyZW5TMUNaMTFPcERxRTVqaEswZHZGd3BTQ2E2el9JYTBwMGlpdDRwSFVERXQz?oc=5",
+      "source": "Google News - Precious Metals",
+      "date": "2026-06-05",
+      "image": "",
+      "category": "metals"
+    },
+    {
+      "title": "Gold, Silver, Platinum & Palladium Analysis by Jeffrey Christian | CPM Group - News and Statistics - IndexBox",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOS2twMUoxVl9ycUNObkFrUWp2NUwycS1hNF8wN1hvU0Z0d0JpTENfejlKSlFxbmlkNWlzYUVSMktxYzJTR2lvWlVhTWhfeTdOUENRdW14aDdxMmJ5QmVMbDJTbkVzLW5fbHhiaWZnSVBfUmw3YTRSNUlSVW1jZGNYaEMyYU1YOWxiR3pYVg?oc=5\" target=\"_blank\">Gold, Silver, Platinum & Palladium An",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS2twMUoxVl9ycUNObkFrUWp2NUwycS1hNF8wN1hvU0Z0d0JpTENfejlKSlFxbmlkNWlzYUVSMktxYzJTR2lvWlVhTWhfeTdOUENRdW14aDdxMmJ5QmVMbDJTbkVzLW5fbHhiaWZnSVBfUmw3YTRSNUlSVW1jZGNYaEMyYU1YOWxiR3pYVg?oc=5",
+      "source": "Google News - Precious Metals",
+      "date": "2026-06-05",
+      "image": "",
+      "category": "platinum"
+    },
+    {
+      "title": "Precious Metals News: Gold, Silver and PGM Price Floors Hold Up Against Headwinds - Investing News Network",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1MaVc4ZjNDS0tkcHpwX1JQQXF2aFZUY2FSaDBXejA2bDVZdGhheFhpbTl0R1lfckhuTEt5OXJBX29Ob2E0VUtHWlNOMHhaZnlCcEsxMWpYblRJVmtwN3czNG4tZWtWUQ?oc=5\" target=\"_blank\">Precious Metals News: Gold, Silver and PGM Price Floors Hold Up Against Headwinds</a>&nbs",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1MaVc4ZjNDS0tkcHpwX1JQQXF2aFZUY2FSaDBXejA2bDVZdGhheFhpbTl0R1lfckhuTEt5OXJBX29Ob2E0VUtHWlNOMHhaZnlCcEsxMWpYblRJVmtwN3czNG4tZWtWUQ?oc=5",
+      "source": "Google News - Precious Metals",
+      "date": "2026-05-28",
+      "image": "",
+      "category": "metals"
     }
   ],
   "history": [
@@ -419,15 +419,15 @@
     {
       "date": "2026-06-08",
       "week": "2026-W24",
-      "gold_10g": 131239.49,
-      "silver_kg": 204931.76,
-      "platinum_g": 5389.19,
-      "gold_usd_oz": 4288.99,
-      "silver_usd_oz": 66.97,
-      "platinum_usd_oz": 1761.22
+      "gold_10g": 132377.32,
+      "silver_kg": 208228.82,
+      "platinum_g": 5445.12,
+      "gold_usd_oz": 4326.18,
+      "silver_usd_oz": 68.05,
+      "platinum_usd_oz": 1779.5
     }
   ],
-  "timestamp": "2026-06-08T13:56:55.818844+05:30",
+  "timestamp": "2026-06-08T16:54:27.752738+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
