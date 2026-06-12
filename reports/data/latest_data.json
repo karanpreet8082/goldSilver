@@ -54,7 +54,7 @@
         "hold": 50
       },
       "summary": "Gold is showing positive signals. Positive daily movement of 0.0%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-12T10:47:14.362864",
+      "timestamp": "2026-06-12T12:41:26.631850",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 50
       },
       "summary": "Silver is showing positive signals. Positive daily movement of 0.2%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-12T10:47:14.462412",
+      "timestamp": "2026-06-12T12:41:26.715800",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 50
       },
       "summary": "Platinum is showing positive signals. Positive daily movement of 0.1%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-12T10:47:14.610435",
+      "timestamp": "2026-06-12T12:41:26.783675",
       "source": "rule-based"
     }
   },
@@ -125,6 +125,24 @@
   },
   "news": [
     {
+      "title": "Sebi approves IPOs of Bombay Coated, Bonfiglioli Transmissions and Swaraj Green Power",
+      "description": "Sebi has approved IPO proposals of Bombay Coated and Special Steels, Bonfiglioli Transmissions and Swaraj Green Power and Fuel. The approvals underscore sustained momentum in India\u2019s primary market, with investors showing strong interest across manufacturing, industrial and renewable energy sectors.",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/sebi-approves-ipos-of-bombay-coated-bonfiglioli-transmissions-and-swaraj-green-power/articleshow/131684453.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-06-12",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Rupee rallies as oil slump sparks unwinding of dollar longs",
+      "description": "The Indian rupee experienced a robust uptick against the dollar on Friday, sparked by newfound optimism regarding peace talks between the U.S. and Iran. This positive development resulted in a sharp decrease in oil prices, alleviating some of the pressure on India\u2019s import expenses.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rallies-as-oil-slump-sparks-unwinding-of-dollar-longs/articleshow/131682274.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-06-12",
+      "image": "",
+      "category": "currency"
+    },
+    {
       "title": "Top Indian state lenders eye first dollar bonds since RBI subsidy, sources say",
       "description": "State Bank of India and Bank of Baroda are stepping into uncharted territory as the inaugural users of the Reserve Bank of India's fresh subsidised hedging mechanism. Their target? A substantial one billion dollars through a series of five-year dollar bonds, a strategy aimed at slashing overseas bor",
       "url": "https://economictimes.indiatimes.com/markets/bonds/top-indian-state-lenders-eye-first-dollar-bonds-since-rbi-subsidy-sources-say/articleshow/131679759.cms",
@@ -134,22 +152,76 @@
       "category": "central_bank"
     },
     {
-      "title": "BlackRock says oil, FX risks loom over India's bond inflow push",
-      "description": "Indian debt is piquing the interest of foreign investors thanks to new government initiatives. Nonetheless, investment giant BlackRock remains cautious, keeping its exposure steady. Challenges like steep currency hedging expenses and volatile oil prices cast a shadow on the prospects. For foreign ca",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/blackrock-says-oil-fx-risks-loom-over-indias-bond-inflow-push/articleshow/131678605.cms",
-      "source": "Economic Times Markets",
+      "title": "Precious Metal Scrap Prices Decline: Gold, Silver, Platinum Down | ScrapMonster Report - News and Statistics - IndexBox",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxORGt5RGQzVWd3NWtVSms3SkZxVWRMTU1kSG42ZWVyTHZ1dkh3Q3Bhak5qLUIzM2plVUFuU295a2FZeTBrb2ZGRzVJbmxiZlVlbXVIbnlUdUxuSzVxSzJhX1pYU2JIblZIUktaeHVkRHJvTWI1RXMyMy1BdVBJdmRQb2FGMTVzcG5VS01aMk5KM2RNaV9xNDBLbkxUMjVOX3c?oc=5\" target=\"_blank\">Precious Met",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORGt5RGQzVWd3NWtVSms3SkZxVWRMTU1kSG42ZWVyTHZ1dkh3Q3Bhak5qLUIzM2plVUFuU295a2FZeTBrb2ZGRzVJbmxiZlVlbXVIbnlUdUxuSzVxSzJhX1pYU2JIblZIUktaeHVkRHJvTWI1RXMyMy1BdVBJdmRQb2FGMTVzcG5VS01aMk5KM2RNaV9xNDBLbkxUMjVOX3c?oc=5",
+      "source": "Google News - Precious Metals",
       "date": "2026-06-12",
       "image": "",
-      "category": "geopolitics"
+      "category": "platinum"
     },
     {
-      "title": "ETMarkets Smart Talk| RBI's rate-cut cycle may be over; bond index inclusion could bring $25 billion: DSP MF's Sandeep Yadav",
-      "description": "Sandeep Yadav of DSP Mutual Fund believes the RBI's rate-cut cycle may be nearing its end as inflation risks remain elevated. He expects India's inclusion in global bond indices to attract over $25 billion in debt inflows over time, while cautioning that such flows may offer only temporary support t",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-rbis-rate-cut-cycle-may-be-over-bond-index-inclusion-could-bring-25-billion-dsp-mfs-sandeep-yadav/articleshow/131677923.cms",
-      "source": "Economic Times Markets",
+      "title": "Bishop Gold Group Reports Growing Demand for Exclusive Precious Metals Coins Among Investors and Collectors - Morningstar",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSEpUOXlpT240azROdWdmbFRRNVZOSUV6RC1fRUtxcjQ3VE5pNmdLT1JFRVNoaWxJQ0tQRkZnSWN2a2ExalBrczgwVnVTNVNlb0Q0Z214cUFuZjMyY3NTb3ZBVXJyMF9NbnpFc1RKOEtGM3lQWHVFWFl4TmZVcjdsUVl6WEJhaWpYUU9vVEp2QjVlU2k1eEJZanpYX29hMDhwQ1MwOFotUFVMYnFSRWRkRTR3c25HSlB1ZD",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSEpUOXlpT240azROdWdmbFRRNVZOSUV6RC1fRUtxcjQ3VE5pNmdLT1JFRVNoaWxJQ0tQRkZnSWN2a2ExalBrczgwVnVTNVNlb0Q0Z214cUFuZjMyY3NTb3ZBVXJyMF9NbnpFc1RKOEtGM3lQWHVFWFl4TmZVcjdsUVl6WEJhaWpYUU9vVEp2QjVlU2k1eEJZanpYX29hMDhwQ1MwOFotUFVMYnFSRWRkRTR3c25HSlB1ZDdDM3ByTUZHZkJDYlJtdTV4TnczRmRUek1rdlkteWVidXR2UzVKdnVIbnptVVNBWDI1a2FLV2NUbElr?oc=5",
+      "source": "Google News - Precious Metals",
       "date": "2026-06-12",
       "image": "",
-      "category": "central_bank"
+      "category": "supply_demand"
+    },
+    {
+      "title": "Accused scammer gets chocolate coins instead of $700K in gold",
+      "description": "GRAND RAPIDS, Mich. (WOOD) \u2014 After being told her Social Security funds were supporting terrorism, a widow was directed to buy $700,000 in gold \u2014 but an alert store owner intervened before crooks could make off with her money, records show. A young man, who w\u2026",
+      "url": "https://freerepublic.com/focus/f-chat/4383304/posts",
+      "source": "Freerepublic.com",
+      "date": "2026-06-11",
+      "image": null,
+      "category": "metals"
+    },
+    {
+      "title": "Silver prices today, Thursday, June 11, 2026: Lowest open since Dec. '25 following U.S. strikes against Iran",
+      "description": "Silver July futures opened at just $63.52 per ounce on Thursday, June 11, 2026, down 1.9% compared to Wednesday's closing price of $64.74. The silver price i...",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-thursday-june-11-2026-lowest-open-since-dec-25-following-us-strikes-against-iran-111652646.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-06-11",
+      "image": "https://s.yimg.com/lo/mysterio/api/7B6C1FC44F8D17505763172CFC897DB3A215A0F0AF3402A830D26417DBB414AF/subgraphmysterio/resizefill_w1200_h780;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-12%2F01dc5a90-df88-11f0-bfff-e5a5c38339cf",
+      "category": "metals"
+    },
+    {
+      "title": "Coppernico Metals Announces C$5 Million LIFE Offering",
+      "description": "NOT FOR DISTRIBUTION TO UNITED STATES NEWSWIRE SERVICES OR FOR DISSEMINATION IN THE UNITED STATES  VANCOUVER, British Columbia, June  11, 2026  (GLOBE...",
+      "url": "https://www.globenewswire.com/news-release/2026/06/11/3310345/0/en/Coppernico-Metals-Announces-C-5-Million-LIFE-Offering.html",
+      "source": "GlobeNewswire",
+      "date": "2026-06-11",
+      "image": "https://ml.globenewswire.com/Resource/Download/0d16442f-a0b1-4a5d-b264-14a746b24278",
+      "category": "market"
+    },
+    {
+      "title": "What will happen to gold prices if inflation stays elevated through 2026? Here's what experts say.",
+      "description": "What impact will the latest inflation surge have on gold prices? Here's what some experts are predicting now.",
+      "url": "https://www.cbsnews.com/news/what-will-happen-gold-prices-inflation-stays-elevated-2026-experts/",
+      "source": "CBS News",
+      "date": "2026-06-11",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/06/10/b3d0ebb5-9bab-4c93-9caa-d56645049e66/thumbnail/1200x630/fb46d993a4820d2f4ec2083fed3019e5/gettyimages-2189473093.jpg",
+      "category": "inflation"
+    },
+    {
+      "title": "Fund of Funds explained: Meaning, types, benefits and limitations you must know",
+      "description": "Fund of Funds (FoFs) are a type of mutual fund that does not invest directly in stocks, bonds, or other asset classes. Instead, they invest in other mutual fund schemes or just track an ETF or index fund.",
+      "url": "https://www.livemint.com/money/personal-finance/fund-of-funds-explained-meaning-types-benefits-and-limitations-you-must-know-11781154279026.html",
+      "source": "Livemint",
+      "date": "2026-06-11",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/11/1600x900/logo/fof_1781158039571_1781158116178_16901b83-b51c-483e-841d-62258382d948.png",
+      "category": "market"
+    },
+    {
+      "title": "\u2018A Special Kind of Con Man\u2019: Jimmy Kimmel Mocks \u2018Fine Print\u2019 Warning on Trump\u2019s $12,000 UFC Gold Coin",
+      "description": "Kimmel took a closer look at the disclaimers on Trump\u2019s commemorative gold coin, on sale ahead of UFC Freedom 250 and the nation's 250th-anniversary.\nThe post \u2018A Special Kind of Con Man\u2019: Jimmy Kimmel Mocks \u2018Fine Print\u2019 Warning on Trump\u2019s $12,000 UFC Gold Coi\u2026",
+      "url": "https://www.mediaite.com/media/tv/a-special-kind-of-con-man-jimmy-kimmel-mocks-fine-print-warning-on-trumps-12000-ufc-gold-coin/",
+      "source": "Mediaite",
+      "date": "2026-06-11",
+      "image": "https://www.mediaite.com/wp-content/uploads/2026/06/Untitled-design-2026-06-11T105445-392.jpg",
+      "category": "geopolitics"
     },
     {
       "title": "Sensex today | Stock Market Highlights: Sensex, Nifty end lower as West Asia tensions weigh; IT stocks extend losing streak",
@@ -170,49 +242,31 @@
       "category": "supply_demand"
     },
     {
-      "title": "What\u2019s Going On in Donald Trump\u2019s Head? We Don\u2019t Have Brain Scans. We Do Have This.",
-      "description": "We might not have his brain scans. We do have something else.",
-      "url": "https://slate.com/news-and-politics/2026/06/donald-trump-news-age-birthday-ufc.html",
-      "source": "Slate Magazine",
+      "title": "Brixton Metals Commences 2026 Thorn Project Exploration Program",
+      "description": "VANCOUVER, British Columbia, June 11, 2026 (GLOBE NEWSWIRE) \u2014 Brixton Metals Corporation (TSX-V: BBB, OTCQX: BBBXF) (the \u201cCompany\u201d or \u201cBrixton\u201d) is pleased to announce that drilling has commenced on its fully funded 10,000-meter 2026 exploration program focus\u2026",
+      "url": "https://financialpost.com/globe-newswire/brixton-metals-commences-2026-thorn-project-exploration-program",
+      "source": "Financial Post",
       "date": "2026-06-11",
-      "image": "https://compote.slate.com/images/b1cfe207-ed01-4c2e-a67f-f283f5edb2cc.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/figure-2-2.png",
       "category": "market"
     },
     {
-      "title": "Luke Gromen: The physical world will disrupt financial markets soon, gold and Bitcoin signal turbulence ahead, and the Fed\u2019s upcoming meeting is crucial for rate policy | Forward Guidance",
-      "description": "Rising US deficits and interest rates threaten to destabilize the bond market, challenging the Fed's strategies.\nThe post Luke Gromen: The physical world will disrupt financial markets soon, gold and Bitcoin signal turbulence ahead, and the Fed\u2019s upcoming mee\u2026",
-      "url": "https://cryptobriefing.com/luke-gromen-the-physical-world-will-disrupt-financial-markets-soon-gold-and-bitcoin-signal-turbulence-ahead-and-the-feds-upcoming-meeting-is-crucial-for-rate-policy-forward-guidance/",
-      "source": "Crypto Briefing",
+      "title": "Labrador Gold to Host Investor Webinar on the Mariposa Gold Project in Yukon\u2019s White Gold District",
+      "description": "TORONTO, June 11, 2026 (GLOBE NEWSWIRE) \u2014 Labrador Gold Corp. (TSX Venture: LAB) (\u201cLabrador Gold\u201d or the \u201cCompany\u201d) is pleased to announce that it will host a live investor webinar on Wednesday, June 17, 2026, at 12:00 PM PT / 3:00 PM ET, featuring President \u2026",
+      "url": "https://financialpost.com/globe-newswire/labrador-gold-to-host-investor-webinar-on-the-mariposa-gold-project-in-yukons-white-gold-district",
+      "source": "Financial Post",
       "date": "2026-06-11",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/02/11174229/forward-guidance-cover-457x457.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Trump Bought Tobacco Stocks and Raked In Industry Donations as FDA Eased Standards",
-      "description": "The Trump administration has pursued an extensive pro-tobacco agenda as the president and his political movement have been buoyed by a flood of tobacco industry money, federal records show.",
-      "url": "https://kffhealthnews.org/courts/fda-tobacco-vape-vaping-ecigarette-smoking-trump-investments-maga-donations/",
-      "source": "Kffhealthnews.org",
-      "date": "2026-06-11",
-      "image": "https://kffhealthnews.org/wp-content/uploads/sites/8/2026/06/GettyImages-2258806478.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "Why many people fail at retirement planning: 5 mistakes to watch out for",
-      "description": "A small mistake today can weaken your finances in the future. Avoid common retirement planning mistakes, tackle inflation, diversify investments and build a stronger retirement corpus for long-term financial security.&nbsp;",
-      "url": "https://www.livemint.com/money/personal-finance/why-many-people-fail-at-retirement-planning-5-mistakes-to-watch-out-for-11781163038651.html",
-      "source": "Livemint",
-      "date": "2026-06-11",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/11/1600x900/logo/3-0-45337860-iStock-1152974275-0_1679813429320_1781163228615_0be9407b-af16-410c-823c-de3d47712b1c.jpg",
-      "category": "inflation"
-    },
-    {
-      "title": "Singapore bank DBS to offer tokenized gold to retail customers",
-      "description": "Each token is backed by one gram of physical gold held by DBS in a dedicated vault in Singapore.",
-      "url": "https://www.coindesk.com/business/2026/06/11/singapore-bank-dbs-to-offer-tokenized-gold-to-retail-customers",
-      "source": "CoinDesk",
-      "date": "2026-06-11",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/06459a5f278c79f4095c8d3c6c664bcc7185d1c5-6000x4000.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "image": null,
       "category": "metals"
+    },
+    {
+      "title": "Jim Rickards: The $2 Stock Connected to What Could Be the Largest Mineral Haul in U.S. History",
+      "description": "A former Pentagon and CIA advisor says a June 30 deadline could trigger the biggest resource unlock America has ever seen A former Pentagon and CIA advisor says a June 30 deadline could trigger the biggest resource unlock America has ever seen",
+      "url": "https://www.globenewswire.com/news-release/2026/06/11/3310312/0/en/Jim-Rickards-The-2-Stock-Connected-to-What-Could-Be-the-Largest-Mineral-Haul-in-U-S-History.html",
+      "source": "GlobeNewswire",
+      "date": "2026-06-11",
+      "image": null,
+      "category": "market"
     },
     {
       "title": "War or No War \u2013 Why Silver Matters More Than Ever",
@@ -242,156 +296,102 @@
       "category": "market"
     },
     {
-      "title": "T-minus 24 hours: On the eve of SpaceX IPO liftoff some Wall Street analysts say the stock is worth only half of Elon Musk\u2019s price",
-      "description": "Everything you need to know before you reach the office this morning.",
-      "url": "https://fortune.com/2026/06/11/spacex-ipo-wall-street-analysts-stock-elon-musk/",
-      "source": "Fortune",
-      "date": "2026-06-11",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2184685180-e1770390588141.jpg?resize=1200,600",
-      "category": "market"
-    },
-    {
-      "title": "The longest-lived people on Earth do not run marathons, lift weights, or follow structured exercise plans \u2014 instead, they live in places where physical movement is built into daily life through walking, gardening, and the simple geography of hilly terrain \u2014 meaning the most effective anti-aging routine ever identified by researchers may be one that doesn\u2019t feel like a routine at all",
-      "description": "The 75-year-old Sardinian shepherd Tonino Tola, profiled by National Geographic during Dan Buettner\u2019s original Blue Zones research in the early 2000s, walked at least five miles every day along the rugged mountain trails of his island\u2019s interior. He did not w\u2026",
-      "url": "https://spacedaily.com/d-the-longest-lived-people-on-earth-do-not-run-marathons-lift-weights-or-follow-structured-exercise-plans-instead-they-live-in-places-where-physical-movement-is-built-into-daily-life-throug/",
-      "source": "Space Daily",
-      "date": "2026-06-11",
-      "image": "https://spacedaily.com/wp-content/uploads/2026/06/Posts-1600840-2026-06-11T165703.203.png",
-      "category": "market"
-    },
-    {
-      "title": "freightapis 1.0.0",
-      "description": "Python SDK for FreightAPIs \u2014 NMFC freight classification, multi-carrier terminal locations, and global seaport data.",
-      "url": "https://pypi.org/project/freightapis/1.0.0/",
+      "title": "nvidia-nvshmem-cu13 3.7.0",
+      "description": "NVSHMEM creates a global address space that provides efficient and scalable communication for NVIDIA GPU clusters.",
+      "url": "https://pypi.org/project/nvidia-nvshmem-cu13/3.7.0/",
       "source": "Pypi.org",
       "date": "2026-06-11",
       "image": null,
       "category": "market"
     },
     {
-      "title": "freightapis added to PyPI",
-      "description": "Python SDK for FreightAPIs \u2014 NMFC freight classification, multi-carrier terminal locations, and global seaport data.",
-      "url": "https://pypi.org/project/freightapis/",
+      "title": "nvidia-nvshmem-cu12 3.7.0",
+      "description": "NVSHMEM creates a global address space that provides efficient and scalable communication for NVIDIA GPU clusters.",
+      "url": "https://pypi.org/project/nvidia-nvshmem-cu12/3.7.0/",
       "source": "Pypi.org",
       "date": "2026-06-11",
       "image": null,
       "category": "market"
     },
     {
-      "title": "Valve is Permanently Ending Physical Steam Gift Cards",
-      "description": "Valve has announced that physical Steam gift cards will be discontinued globally by the end of 2026, marking the end of a 14-year run for these popular retail items. This decision reflects the company\u2019s efforts to address fraud and adapt to shifting consumer \u2026",
-      "url": "https://www.geeky-gadgets.com/why-steam-gift-cards-ending/",
-      "source": "Geeky Gadgets",
+      "title": "Core AI Announces Launch of AI Home Design App: HomeGPT",
+      "description": "Sees Rapid Growth Across North America, Japan and South Korea as AI Renovation Platform Enters Commercial Scale-Up Phase    Miami, FL, June  11, 2026 ...",
+      "url": "https://www.globenewswire.com/news-release/2026/06/11/3310484/0/en/Core-AI-Announces-Launch-of-AI-Home-Design-App-HomeGPT.html",
+      "source": "GlobeNewswire",
       "date": "2026-06-11",
-      "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/06/steam-gift-cards.jpg",
+      "image": "https://ml.globenewswire.com/Resource/Download/9d6b0d07-1010-466e-8d83-4956989378e8",
       "category": "market"
     },
     {
-      "title": "BetBoom Team faces The MongolZ in IEM Cologne Major 2026 as betting sponsors dominate esports",
-      "description": "Esports' reliance on traditional betting sponsors over crypto highlights a shift towards stability amid regulatory scrutiny and market volatility.\nThe post BetBoom Team faces The MongolZ in IEM Cologne Major 2026 as betting sponsors dominate esports appeared \u2026",
-      "url": "https://cryptobriefing.com/betboom-mongolz-iem-cologne-major-2026/",
-      "source": "Crypto Briefing",
+      "title": "ECB raises inflation forecast, cuts growth for 2026",
+      "description": "The European Central Bank on June 11 raised its inflation forecasts while cutting growth expctations for this year as the blockade of the Strait of Hormuz threatens to prolong a surge in global energy prices.",
+      "url": "https://www.hurriyetdailynews.com/ecb-raises-inflation-forecast-cuts-growth-for-2026-223171",
+      "source": "Hurriyet Daily News",
       "date": "2026-06-11",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/11064458/event-image-iem-cologne-2022-2-800x420.jpeg",
+      "image": "https://image.hurimg.com/i/hurriyet/75/200x200/6a2aac98613bd91eccb07db4.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Embraer says defense business gains traction as war reshapes demand",
+      "description": "Commercial aviation remains stable, while military aircraft programs benefit from heightened security concerns",
+      "url": "https://valorinternational.globo.com/business/news/2026/06/11/embraer-says-defense-business-gains-traction-as-war-reshapes-demand.ghtml",
+      "source": "Globo",
+      "date": "2026-06-11",
+      "image": "https://s2-valorinternational.glbimg.com/uMguW3O-BWH_rgsLFMcS5bV040E=/1153x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/p/Y/5gY2K2RkmrBWwOmZUZ9g/foto11emp-301-embraer-b3.jpg",
       "category": "geopolitics"
     },
     {
-      "title": "Brightstar Lottery Announces Changes to Lottery Operations Leadership",
-      "description": "Renato Ascoli to step down as Chief Executive Officer, Global Lottery Marco Tasso promoted to Chief Operating Officer, Global Lottery LONDON, June 11, 2026 /PRNewswire/ -- Brightstar Lottery PLC (NYSE: BRSL) (\"Brightstar\") announced today changes to its senio\u2026",
-      "url": "https://www.prnewswire.com/news-releases/brightstar-lottery-announces-changes-to-lottery-operations-leadership-302797334.html",
+      "title": "Paul Hayward of ICTV Sits Down With Performance Trust Co-Founder Rich Berg to Discuss Why Challenging Conventional Banking Wisdom Still Matters Thirty Years Later",
+      "description": "CHICAGO, June 11, 2026 /PRNewswire/ -- During a recent conversation with ICTV's Paul Hayward, Rich Berg, Co-Founder and Chairman of Performance Trust Capital Partners, LLC, reflected on a decision that many would have considered risky, if not outright crazy. \u2026",
+      "url": "https://www.prnewswire.com/news-releases/paul-hayward-of-ictv-sits-down-with-performance-trust-co-founder-rich-berg-to-discuss-why-challenging-conventional-banking-wisdom-still-matters-thirty-years-later-302797534.html",
       "source": "PRNewswire",
       "date": "2026-06-11",
-      "image": "https://mmx.prnewswire.com/media/MS1691975/Brightstar_Logo.jpg?id=OA2696858&p=facebook",
+      "image": "https://mmx.prnewswire.com/media/MS1861440/ICTV-Performance_Trust-Logo.jpg?id=OA2696227&p=facebook",
       "category": "geopolitics"
     },
     {
-      "title": "Xenophobia: 268 Nigerian returnees arrive in Lagos from South Africa",
-      "description": "The first batch of 268 Nigerian returnees from South Africa, following xenophobic attacks, has arrived in Lagos. More evacuation flights are expected.\n\nRead More: https://punchng.com/xenophobia-268-nigerian-returnees-arrive-in-lagos-from-south-africa/",
-      "url": "https://punchng.com/xenophobia-268-nigerian-returnees-arrive-in-lagos-from-south-africa/",
-      "source": "The Punch",
+      "title": "Technosylva Launches Expanded Learning Platform for Utility and Fire Agency Customers Navigating Wildfire and Extreme Weather Challenges",
+      "description": "Customers now have expanded portfolio of educational resources LA JOLLA, Calif., June 11, 2026 /PRNewswire/ -- Technosylva, the global leader in wildfire and extreme weather science and technology, today announced Campus 2.0, its expanded learning platform. D\u2026",
+      "url": "https://www.prnewswire.com/news-releases/technosylva-launches-expanded-learning-platform-for-utility-and-fire-agency-customers-navigating-wildfire-and-extreme-weather-challenges-302797524.html",
+      "source": "PRNewswire",
       "date": "2026-06-11",
-      "image": "https://cdn.punchng.com/wp-content/uploads/2026/06/11114429/IMG-20260611-WA0017-2026-06-11-289.webp",
+      "image": "https://mmx.prnewswire.com/media/MS1861785/image.jpg?id=OA2697092&p=facebook",
       "category": "market"
     },
     {
-      "title": "Reliance, Vedanta, Adani join India's drive to cut China rare earth dependence",
-      "description": "Indian industrial groups Reliance, Vedanta and Adani \u200bhave shown interest in developing facilities to process Andhra \u2060Pradesh state\u2019s significant reserves of increasingly important rare-earth minerals, according to two sources with knowledge of the matter.",
-      "url": "https://www.thehindubusinessline.com/companies/reliance-vedanta-adani-join-indias-drive-to-cut-china-rare-earth-dependence/article71088617.ece",
-      "source": "BusinessLine",
+      "title": "Conspiracy theories that emerged from a civil rights shooting 60 years ago resonate today",
+      "description": "The modern rhetorical and political resistance to racial equality finds its roots in the conspiratorial segregationists of the civil rights era.",
+      "url": "https://theconversation.com/conspiracy-theories-that-emerged-from-a-civil-rights-shooting-60-years-ago-resonate-today-284688",
+      "source": "The Conversation Africa",
       "date": "2026-06-11",
-      "image": "https://bl-i.thgim.com/public/incoming/toq34c/article71088671.ece/alternates/LANDSCAPE_1200/2025-08-26T120809Z_735169368_RC2ZEGARXHI3_RTRMADP_3_RAREEARTHS-PRICES-USA-CHINA.JPG",
-      "category": "supply_demand"
-    },
-    {
-      "title": "First Atlantic Highlights U.S. Dominance Act Passed by House: New Critical Minerals Bill Authorizes Equity Investment, Co-Financing, and U.S.-Priority Offtake for Allied Projects and Defines \u201cProcessed\u201d as \u201cA Metal, Metal Powder, or a Master Alloy\u201d - Awaruite is a Natural Nickel-Iron-Cobalt Alloy Already in the Form the Act Defines as \u201cProcessed\u201d",
-      "description": "First Atlantic highlights House-passed U.S. DOMINANCE Act support for allied critical minerals and awaruite\u2019s fit as naturally processed nickel alloy....",
-      "url": "https://www.globenewswire.com/news-release/2026/06/11/3310296/0/en/First-Atlantic-Highlights-U-S-Dominance-Act-Passed-by-House-New-Critical-Minerals-Bill-Authorizes-Equity-Investment-Co-Financing-and-U-S-Priority-Offtake-for-Allied-Projects-and-De.html",
-      "source": "GlobeNewswire",
-      "date": "2026-06-11",
-      "image": "https://ml.globenewswire.com/Resource/Download/fa2f7f6f-d4d4-4996-9071-49f44dccbcb2",
-      "category": "geopolitics"
-    },
-    {
-      "title": "In 1987, the world swapped ozone-destroying CFCs for safer refrigerants; nearly 40 years later, scientists found the switch had been quietly raining a forever chemical across the planet",
-      "description": "Chemicals meant to protect the planet are now causing a new issue. Replacements for ozone-damaging CFCs are forming a stubborn chemical, TFA. This substance is found in rain and even human blood. Scientists warn TFA levels are rising globally, posing a growin\u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/us/in-1987-the-world-swapped-ozone-destroying-cfcs-for-safer-refrigerants-nearly-40-years-later-scientists-found-the-switch-had-been-quietly-raining-a-forever-chemical-across-the-planet/articleshow/131655206.cms",
-      "source": "The Times of India",
-      "date": "2026-06-11",
-      "image": "https://img.etimg.com/thumb/msid-131655772,width-1200,height-630,imgsize-1646380,overlay-economictimes/articleshow.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Man In U.S. Illegally Pleads Guilty After Using Woman\u2019s Boarding Pass And Attacking TSA Officers At Las Vegas Airport",
-      "description": "The man hit and slapped the officer in the head and took the officer\u2019s glasses. Las Vegas police responded and tried to detain him, but he fought them, flipped one officer over his back, and both fell to the ground. He grabbed an officer\u2019s pen and tried to hi\u2026",
-      "url": "https://viewfromthewing.com/man-in-u-s-illegally-pleads-guilty-after-using-womans-boarding-pass-and-attacking-tsa-officers-at-las-vegas-airport/",
-      "source": "Viewfromthewing.com",
-      "date": "2026-06-11",
-      "image": "https://viewfromthewing.com/wp-content/uploads/2024/06/tsa-analogic-machines-airport-security.jpg",
+      "image": "https://images.theconversation.com/files/741043/original/file-20260610-71-rrmm8r.jpg?ixlib=rb-4.1.0&rect=0%2C400%2C3051%2C1525&q=45&auto=format&w=1356&h=668&fit=crop",
       "category": "market"
     },
     {
-      "title": "Gold continues to fall on West Asia worries: What are investors concerned about?",
-      "description": "Gold prices fall amid West Asia tensions, as investors worry about inflation and interest rates affecting market stability.",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-continues-to-fall-on-west-asia-worries-what-are-investors-concerned-about/article71088556.ece",
-      "source": "BusinessLine",
+      "title": "The National Military Spouse Network Releases White Paper, 'Building Economic Security: Understanding the Military Spouse Employment Lifecycle'",
+      "description": "Report Suggests Ways to Tackle Military Spouse Unemployment and Underemployment that Addresses their Indispensable Contribution to Family Stability, Military Readiness and Community Morale LORTON, Va., June 11, 2026 /PRNewswire/ -- The National Military Spous\u2026",
+      "url": "https://www.prnewswire.com/news-releases/the-national-military-spouse-network-releases-white-paper-building-economic-security-understanding-the-military-spouse-employment-lifecycle-302797545.html",
+      "source": "PRNewswire",
       "date": "2026-06-11",
-      "image": "https://bl-i.thgim.com/public/incoming/6ylplx/article71088590.ece/alternates/LANDSCAPE_1200/PO02_Gold_candle_chart.jpg",
+      "image": "https://mmx.prnewswire.com/media/MS1861707/NMSN-Logo.jpg?id=OA2696949&p=facebook",
       "category": "geopolitics"
     },
     {
-      "title": "White House targeted Mukesh Ambani. Then, he went into business with the Trumps",
-      "description": "An obscure Texas firm secretly connected to the president\u2019s son said it received at least $100 million from Ambani",
-      "url": "https://www.salon.com/2026/06/11/white-house-targeted-mukesh-ambani-then-he-went-into-business-with-the-trumps/",
-      "source": "Salon",
+      "title": "African Americans Still Fighting for Their Political Lives",
+      "description": "In the summer of 1966, the state of race relations in the United States stood at the crossroads whereas today a resurgence of white supremacist ideology is systematically eviscerating voting rights and representation for the nationally oppressed\n*\nOn June \u2026\nT\u2026",
+      "url": "https://www.globalresearch.ca/african-americans-still-fighting-political-lives/5929528",
+      "source": "Globalresearch.ca",
       "date": "2026-06-11",
-      "image": "https://www.salon.com/app/uploads/2026/06/GettyImages-2269045961.jpg",
+      "image": "https://www.globalresearch.ca/wp-content/uploads/2026/06/James_Meredith_wounded-march-against-fear.jpg",
       "category": "market"
     },
     {
-      "title": "How are businesses navigating the evolving precious metals landscape? - Professional Jeweller",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFB1X0ZOQmpwM1I4eWlDLXhZdkpnaEFKVjh2dDRWSmhyT0pSZnNuMHdxRWcxYjV3dHRuc2pPSlZMbE96YzV4bHpPVGtHb0licDV3cmFmVFFENXpvRndEZ1RaOTk0ZzhySzZKc01EMW5HTFFfajZvcHFybmNrdG4?oc=5\" target=\"_blank\">How are businesses navigating the evolving precious metals l",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1X0ZOQmpwM1I4eWlDLXhZdkpnaEFKVjh2dDRWSmhyT0pSZnNuMHdxRWcxYjV3dHRuc2pPSlZMbE96YzV4bHpPVGtHb0licDV3cmFmVFFENXpvRndEZ1RaOTk0ZzhySzZKc01EMW5HTFFfajZvcHFybmNrdG4?oc=5",
-      "source": "Google News - Precious Metals",
+      "title": "Alberta Says It's Talking with Fortune 500 Co to Finance Pipeline",
+      "description": "'We've had one particular discussion with a proponent, actually a Fortune 500 company, in very general terms about financing the entire project and building the entire project', Alberta's energy minister Brian Jean said.",
+      "url": "https://www.rigzone.com/news/wire/alberta_says_its_talking_with_fortune_500_co_to_finance_pipeline-11-jun-2026-183903-article/",
+      "source": "Rigzone",
       "date": "2026-06-11",
-      "image": "",
-      "category": "metals"
-    },
-    {
-      "title": "Gold Falls for Third Day as US Launches Fresh Strikes on Iran",
-      "description": "Gold fell for a third day after the US launched fresh strikes against Iran, threatening to extend the war that\u2019s roiled global markets and stoked inflation fears.",
-      "url": "https://financialpost.com/pmn/business-pmn/gold-falls-for-third-day-as-us-launches-fresh-strikes-on-iran",
-      "source": "Financial Post",
-      "date": "2026-06-10",
-      "image": null,
-      "category": "geopolitics"
-    },
-    {
-      "title": "Comstock Presents at the Planet MicroCap Las Vegas Powered by MicroCapClub on Wednesday, June 17, 2026 & 1x1 Meetings",
-      "description": "VIRGINIA CITY, Nev., June 10, 2026 (GLOBE NEWSWIRE) -- Comstock Inc. (NYSE: LODE) (\u201cComstock,\u201d \u201cour\u201d and the \u201cCompany\u201d), today announced that\u00a0Judd B. Merrill, Chief Financial Officer, will be presenting at the Planet MicroCap Las Vegas 2026 Powered by MicroCa\u2026",
-      "url": "https://www.globenewswire.com/news-release/2026/06/10/3310130/0/en/Comstock-Presents-at-the-Planet-MicroCap-Las-Vegas-Powered-by-MicroCapClub-on-Wednesday-June-17-2026-1x1-Meetings.html",
-      "source": "GlobeNewswire",
-      "date": "2026-06-10",
-      "image": "https://ml.globenewswire.com/Resource/Download/23ea433d-b7af-4e94-8100-d1933b728e02",
+      "image": "https://images.rigzone.com/images/news/articles/Alberta-Says-Its-Talking-with-Fortune-500-Co-to-Finance-Pipeline-183903-1200x628.png",
       "category": "market"
     }
   ],
@@ -427,7 +427,7 @@
       "platinum_usd_oz": 1760.87
     }
   ],
-  "timestamp": "2026-06-12T16:17:14.622495+05:30",
+  "timestamp": "2026-06-12T18:11:26.796252+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
