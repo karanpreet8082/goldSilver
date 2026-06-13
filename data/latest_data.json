@@ -54,7 +54,7 @@
         "hold": 50
       },
       "summary": "Gold is showing positive signals. Positive daily movement of 0.0%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-13T07:09:18.048820",
+      "timestamp": "2026-06-13T09:42:11.399020",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 50
       },
       "summary": "Silver is showing positive signals. Positive daily movement of 0.2%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-13T07:09:18.156877",
+      "timestamp": "2026-06-13T09:42:11.473608",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 50
       },
       "summary": "Platinum is showing positive signals. Positive daily movement of 0.1%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-13T07:09:18.239887",
+      "timestamp": "2026-06-13T09:42:11.554185",
       "source": "rule-based"
     }
   },
@@ -125,6 +125,15 @@
   },
   "news": [
     {
+      "title": "FCNR(B): Revisiting a proven crisis management tool",
+      "description": "Facing renewed external sector pressures, the RBI has revived a version of the FCNR(B) deposit framework to attract foreign currency inflows and support the rupee. While effective for near-term stability, experts say long-term resilience requires reducing structural vulnerabilities and import depend",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fcnrb-revisiting-a-proven-crisis-management-tool/articleshow/131699247.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-06-13",
+      "image": "",
+      "category": "central_bank"
+    },
+    {
       "title": "ETMarkets Smart Talk| RBI's FPI reforms could attract $50-100 billion into Indian debt over time: Vikas Garg of Invesco MF",
       "description": "RBI\u2019s easing of foreign investment norms for government securities could attract substantial long-term capital inflows into India\u2019s debt market, according to Invesco Mutual Fund. The reforms may deepen bond markets, support the rupee, improve liquidity and strengthen macroeconomic stability.",
       "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-rbis-fpi-reforms-could-attract-50-100-billion-into-indian-debt-over-time-vikas-garg-of-invesco-mf/articleshow/131699179.cms",
@@ -134,13 +143,85 @@
       "category": "central_bank"
     },
     {
-      "title": "ET Alpha Wealth Summit | From private credit to real estate funds, alternate investments are no longer a niche play for HNIs:  Lakshmi Iyer",
-      "description": "Indian wealthy investors are now looking beyond stocks for portfolio growth.  A significant shift towards diversifying across various investment types and global markets is evident.  The wealth management sector is actively developing the necessary tools and options.  This trend signifies a structur",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/et-alpha-wealth-summit-from-private-credit-to-real-estate-funds-alternate-investments-are-no-longer-a-niche-play-for-hnis-lakshmi-iyer/articleshow/131699063.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-06-13",
-      "image": "",
+      "title": "Trump\u2019s Disturbing \u201cRenovations\u201d to My Hometown Have Only One Purpose. I Hate That They\u2019re Succeeding.",
+      "description": "Most Americans will encounter Trump\u2019s D.C. \u201crenovations\u201d only on eighth grade field trips. Those of us who live here have to suffer them every day.",
+      "url": "https://slate.com/life/2026/06/donald-trump-ufc-parks-white-house-washington-dcwa.html",
+      "source": "Slate Magazine",
+      "date": "2026-06-12",
+      "image": "https://compote.slate.com/images/4aaa8193-df76-472e-bafb-5bd76a79334b.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+      "category": "central_bank"
+    },
+    {
+      "title": "Inside Xbox's margin crush: A string of misses at Xbox Game Studios, misguided Game Pass decisions, and the memory rout at its core",
+      "description": "Microsoft's gaming division is facing a margin crisis, although not in a vacuum. The entire industry is struggling to figure out a healthy path forward in a universe where memory has become scarce.",
+      "url": "https://www.windowscentral.com/gaming/xbox/inside-xboxs-margin-crush",
+      "source": "Windows Central",
+      "date": "2026-06-12",
+      "image": "https://cdn.mos.cms.futurecdn.net/Ddmw3YZ3qxqRmYSZQB9vfd-2560-80.jpg",
       "category": "geopolitics"
+    },
+    {
+      "title": "The next big money game is here. Everyone wants a seat at the table",
+      "description": "India's wealth management scene is experiencing a remarkable transformation. With the rapid rise of affluent households, there\u2019s a surge in potential clients ready to invest. New IPOs are fostering considerable wealth for entrepreneurs. As a result, banks, st\u2026",
+      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/wealth-management-india-boom-hni-growth-private-banking-asset-bfsi-family-offices-ipo-sip-mutual-funds-financial-advisory/articleshow/131679734.cms",
+      "source": "The Times of India",
+      "date": "2026-06-12",
+      "image": "https://img.etimg.com/thumb/msid-131680019,width-1200,height-630,imgsize-205346,overlay-economictimes/articleshow.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Pine Labs launches agentic payments protocol, raising questions on UPI rules, liability and privacy",
+      "description": "Pine Labs has launched P3P, a protocol that enables AI agents to make UPI payments autonomously within user-approved limits.\nThe post Pine Labs launches agentic payments protocol, raising questions on UPI rules, liability and privacy appeared first on MEDIANA\u2026",
+      "url": "https://www.medianama.com/2026/06/223-pine-labs-agentic-payments-protocol-upi-liability-privacy-questions/",
+      "source": "MediaNama.com",
+      "date": "2026-06-12",
+      "image": "https://www.medianama.com/wp-content/uploads/2020/10/payments-shopping-fintech-free.jpg.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Port Laredo Is Nation\u2019s Top Trade Gateway For 2nd Straight Month",
+      "description": "Port Laredo had been the top U.S. port in 2023 and 2024 but fell behind O\u2019Hare International Airport and JFK International Airport in 2025 despite record trade.",
+      "url": "https://www.forbes.com/sites/kenroberts/2026/06/12/port-laredo-is-nations-top-trade-gateway-for-2nd-straight-month/",
+      "source": "Forbes",
+      "date": "2026-06-12",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a2b2a24567582f1b4759ac0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "category": "market"
+    },
+    {
+      "title": "'Not a great environment for Indian market': Harsha Upadhyaya on Iran-US tensions, IT outlook, pharma bet, and where to be cautious",
+      "description": "Global challenges are impacting Indian stocks. West Asian tensions and rising US inflation create headwinds. Tech sector shifts also affect markets. Kotak AMC's Chief Investment Officer advises caution. Pharma and healthcare offer a defensive haven. Metals re\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/not-a-great-environment-for-indian-market-harsha-upadhyaya-on-iran-us-tensions-it-outlook-pharma-bet-and-where-to-be-cautious/articleshow/131677702.cms",
+      "source": "The Times of India",
+      "date": "2026-06-12",
+      "image": "https://img.etimg.com/thumb/msid-131677719,width-1200,height-630,imgsize-45322,overlay-etmarkets/articleshow.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Why are oil, gold and silver prices down today, and will Brent futures, US WTI crude and precious metals prices continue to drop or rise again? Market reacts to Iran peace deal hopes and rate concerns",
+      "description": "Why are oil, gold and silver prices down today, and will Brent futures, US WTI crude and precious metals prices continue to drop or rise again? Oil, gold and silver prices moved lower after reports that the United States and Iran could reach a peace agreement\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/us/why-are-oil-gold-and-silver-prices-down-today-and-will-brent-futures-us-wti-crude-and-precious-metals-prices-continue-to-drop-or-rise-again-market-reacts-to-iran-peace-deal-hopes-and-rate-concerns/articleshow/131677366.cms",
+      "source": "The Times of India",
+      "date": "2026-06-12",
+      "image": "https://img.etimg.com/thumb/msid-131677644,width-1200,height-630,imgsize-1603363,overlay-economictimes/articleshow.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "Silver rises over 1% to \u20b92.42 lakh/kg in futures trade amid renewed geopolitical optimism",
+      "description": "On the Multi Commodity Exchange, the white metal climbed by \u20b93,132, or 1.31% to \u20b92,42,785 per kilogram in a business turnover of 11,251 lots.",
+      "url": "https://www.thehindubusinessline.com/markets/gold/silver-rises-over-1-to-242-lakhkg-in-futures-trade-amid-renewed-geopolitical-optimism/article71092893.ece",
+      "source": "BusinessLine",
+      "date": "2026-06-12",
+      "image": "https://bl-i.thgim.com/public/incoming/z9rwi7/article71092897.ece/alternates/LANDSCAPE_1200/PO01_Silver.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Gold demand ticks up as prices slip; China premiums ease",
+      "description": "Gold prices in India dropped to their lowest since April 2 at 146,444 rupees per 10 grams on Thursday, and are \u200cdown 1.5% for the week so far",
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-demand-ticks-up-as-prices-slip-china-premiums-ease/article71092460.ece",
+      "source": "BusinessLine",
+      "date": "2026-06-12",
+      "image": "https://bl-i.thgim.com/public/incoming/5j8zc2/article71092602.ece/alternates/LANDSCAPE_1200/2026-06-04T070126Z_1775819445_RC2CAJAL2NSN_RTRMADP_3_GOLD-DEMAND-METALSFOCUS.JPG",
+      "category": "currency"
     },
     {
       "title": "Stocks, gold or debt? Rs 2.7 lakh crore fund manager who predicted bullion boom on where to invest now",
@@ -150,15 +231,6 @@
       "date": "2026-06-12",
       "image": "https://img.etimg.com/thumb/msid-131676154,width-1200,height-630,imgsize-355292,overlay-etmarkets/articleshow.jpg",
       "category": "metals"
-    },
-    {
-      "title": "Roaming Charges: Data My Eyes",
-      "description": "ante himself couldn't have found a better spot in Hell to deposit James Dolan, maybe the worst owner in all of professional sports (and that's really saying something), than to lock him in a box next to a farting, snoring, grunting Donald Trump as\u00a0 24,000 Kni\u2026",
-      "url": "https://www.counterpunch.org/2026/06/12/roaming-charges-data-my-eyes/",
-      "source": "CounterPunch",
-      "date": "2026-06-12",
-      "image": "https://www.counterpunch.org/wp-content/uploads/2026/06/equinoxecover.jpeg",
-      "category": "market"
     },
     {
       "title": "Stocks rally and oil hits two-month low on Gulf breakthrough hopes",
@@ -179,15 +251,6 @@
       "category": "geopolitics"
     },
     {
-      "title": "Copper Prices Surge With Mining Stocks as Trump Flags Iran Deal",
-      "description": "Copper rallied and mining equities surged after President Donald Trump claimed the US was on the cusp of ending the war with Iran that has clouded prospects for the global economy.",
-      "url": "https://financialpost.com/pmn/business-pmn/copper-prices-surge-with-mining-stocks-as-trump-flags-iran-deal",
-      "source": "Financial Post",
-      "date": "2026-06-12",
-      "image": null,
-      "category": "geopolitics"
-    },
-    {
       "title": "Gold vs stocks: Has Warren Buffett been wrong about the yellow metal all along?",
       "description": "While gold has surged to record highs in 2026, up 261% over the past decade and a jaw-dropping 1,954.92% over 25 years, the world's greatest investor remains completely unmoved. Buffett has spent decades calling gold useless, non-productive, and a speculator'\u2026",
       "url": "https://m.economictimes.com/wealth/invest/gold-vs-stocks-has-warren-buffett-been-wrong-about-the-yellow-metal-all-along/gold-has-hit-5589-38-an-ounce-warren-buffett-is-still-unmoved/slideshow/131674936.cms",
@@ -195,24 +258,6 @@
       "date": "2026-06-12",
       "image": "https://img.etimg.com/thumb/msid-131674936,width-1200,height-900,overlay-etwealth/slideshow.jpg",
       "category": "geopolitics"
-    },
-    {
-      "title": "Mitsotakis\u2019s Barbed Remarks About Samaras, the First Discussions on the State Ballot, Margaritis and Roussopoulos, SYRIZA and the Party Coffers, and the London Gala",
-      "description": "World Cup 2026: The Largest Betting Event in History\nThe post Mitsotakis\u2019s Barbed Remarks About Samaras, the First Discussions on the State Ballot, Margaritis and Roussopoulos, SYRIZA and the Party Coffers, and the London Gala appeared first on ProtoThema Eng\u2026",
-      "url": "https://en.protothema.gr/2026/06/12/mitsotakiss-barbed-remarks-about-samaras-the-first-discussions-on-the-state-ballot-margaritis-and-roussopoulos-syriza-and-the-party-coffers-and-the-london-gala/",
-      "source": "Protothema.gr",
-      "date": "2026-06-12",
-      "image": "https://en.protothema.gr/wp-content/uploads/2024/06/ProtothemaEn.png",
-      "category": "market"
-    },
-    {
-      "title": "Gold demand ticks up as prices slip; China premiums ease",
-      "description": "Gold prices in India dropped to their lowest since April 2 at 146,444 rupees per 10 grams on Thursday, and are \u200cdown 1.5% for the week so far",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-demand-ticks-up-as-prices-slip-china-premiums-ease/article71092460.ece",
-      "source": "BusinessLine",
-      "date": "2026-06-12",
-      "image": "https://bl-i.thgim.com/public/incoming/5j8zc2/article71092602.ece/alternates/LANDSCAPE_1200/2026-06-04T070126Z_1775819445_RC2CAJAL2NSN_RTRMADP_3_GOLD-DEMAND-METALSFOCUS.JPG",
-      "category": "currency"
     },
     {
       "title": "Manhattan rolls out Canadian gold strategy under new leadership",
@@ -224,175 +269,130 @@
       "category": "metals"
     },
     {
-      "title": "Silver soars nearly Rs 10,000 in 2 days, gold prices extend gains on Iran peace deal optimism. Big rally brewing?",
-      "description": "Gold and silver prices extended gains for a second straight session on MCX on Friday, with silver rising 2% and gold gaining Rs 649, as falling crude prices and hopes of a US-Iran peace deal lifted sentiment. Silver has climbed 4% in two days. President Donal\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-soars-nearly-rs-10000-in-2-days-gold-prices-extend-gains-on-iran-peace-deal-optimism-big-rally-brewing/articleshow/131673535.cms",
-      "source": "The Times of India",
+      "title": "Qatar v Switzerland: Predicted line-ups, preview and where to watch World Cup Group B clash",
+      "description": "Qatar take on Switzerland in San Francisco tomorrow. Read our in-depth preview for this World Cup Group B clash here...",
+      "url": "https://www.101greatgoals.com/match-previews/world-cup-matches/qatar-v-switzerland-predicted-line-ups-preview-and-where-to-watch-world-cup-group-b-clash/",
+      "source": "101 Great Goals",
       "date": "2026-06-12",
-      "image": "https://img.etimg.com/thumb/msid-131673527,width-1200,height-630,imgsize-88148,overlay-etmarkets/articleshow.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "Gold set for weekly loss as inflation, rate hike fears persist",
-      "description": "Gold has lost about 20% since the Iran \u200bwar began, on fears that rising energy costs could spur inflation, prompting central banks to keep interest rates \u2060higher and raising the opportunity cost of holding the yellow metal",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-set-for-weekly-loss-as-inflation-rate-hike-fears-persist/article71092164.ece",
-      "source": "BusinessLine",
-      "date": "2026-06-12",
-      "image": "https://bl-i.thgim.com/public/incoming/dbzdue/article71090252.ece/alternates/LANDSCAPE_1200/PTI05_22_2026_000260B.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Hamas's new roadmap: Infiltrating the EU to target Israelis",
-      "description": "How Greece thwarted a Hamas terrorist cell bent on Israeli targets. Opinion.",
-      "url": "https://www.israelnationalnews.com/news/428533",
-      "source": "Israelnationalnews.com",
-      "date": "2026-06-12",
-      "image": "https://2.a7.org/files/pictures/000/1219305.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "June 2026: Prominent small finance banks offer FD rates of up to 8.10% \u2014 check details",
-      "description": "Amid global market volatility, small finance bank fixed deposit (FD) rates of up to 8.10% can offer stable returns. Compare tenure, tax impact and safety before choosing the right fixed deposit.&nbsp;",
-      "url": "https://www.livemint.com/money/personal-finance/june-2026-prominent-small-finance-banks-offer-fd-rates-of-up-to-8-10-check-details-11781229880386.html",
-      "source": "Livemint",
-      "date": "2026-06-12",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/12/1600x900/logo/Screenshot_2023-06-20_101458_1687236780221_1781230175458_891d774e-e8a2-40d7-b262-52ede4785c7e.png",
+      "image": "https://www.101greatgoals.com/wp-content/uploads/2026/06/si_article_builder_547615781.png",
       "category": "market"
     },
     {
-      "title": "Indonesia launches soybean subsidy to protect tempeh producers",
-      "description": "Trade Minister Budi Santoso described the Rp2,000-per-kilogram soybean subsidy as a government instrument to shield people from global price volatility, ...",
-      "url": "https://en.antaranews.com/news/418995/indonesia-launches-soybean-subsidy-to-protect-tempeh-producers",
-      "source": "Antaranews.com",
+      "title": "US and Iran Nearing a Peace Deal Around G7 Meeting Next Week",
+      "description": "The US and Iran are edging closer to signing an agreement to reopen the Strait of Hormuz as the Group of Seven world leaders are set to meet next week, according to senior officials.",
+      "url": "https://financialpost.com/pmn/business-pmn/us-and-iran-nearing-a-peace-deal-around-g7-meeting-next-week",
+      "source": "Financial Post",
       "date": "2026-06-12",
-      "image": "https://cdn.antaranews.com/cache/1200x800/2026/06/12/IMG_8907.jpeg",
+      "image": null,
       "category": "market"
     },
     {
-      "title": "Quote of the Day by Elvis Presley: \u2018I\u2019ve never gotten over what they call stagefright. I go through it every show, I\u2019m pretty concerned, I\u2019m pretty much\u2026\u2019",
-      "description": "Elvis Presley, a global icon, transformed music and culture with his unique blend of genres. Despite immense fame, he admitted to persistent stage fright, viewing it as a motivator for consistent, high-energy performances. His perspective emphasizes humility,\u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/canada/quote-of-the-day-by-elvis-presley-ive-never-gotten-over-what-they-call-stagefright-i-go-through-it-every-show-im-pretty-concerned-im-pretty-much/articleshow/131677142.cms",
-      "source": "The Times of India",
+      "title": "U.S. and Iran nearing a peace deal around G7 meeting next week",
+      "description": "The U.S. and Iran are edging closer to signing an agreement to reopen the Strait of Hormuz as the G7 leaders are set to meet. Read more.",
+      "url": "https://financialpost.com/news/us-iran-peace-deal-g7-next-week",
+      "source": "Financial Post",
       "date": "2026-06-12",
-      "image": "https://img.etimg.com/thumb/msid-131677149,width-1200,height-630,imgsize-2295551,overlay-economictimes/articleshow.jpg",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/0613-bc-iran-.jpg",
       "category": "market"
     },
     {
-      "title": "Pope John XXIII Regional High School and \"Empowered hosted by Meg Ryan\" Explore the Future of College Preparatory Excellence",
-      "description": "An upcoming Public Television segment highlights the intersection of academic integrity, cutting-edge technology, and the thriving landscape of Catholic education in New Jersey. NEW YORK, June 12, 2026 /PRNewswire/ -- Modern secondary education requires a del\u2026",
-      "url": "https://www.prnewswire.com/news-releases/pope-john-xxiii-regional-high-school-and-empowered-hosted-by-meg-ryan-explore-the-future-of-college-preparatory-excellence-302798277.html",
-      "source": "PRNewswire",
+      "title": "There\u2019s Been a Big Shift in the Commercial Real Estate Capital Markets",
+      "description": "Conventional wisdom suggests that as banks return to commercial real estate lending, private credit should begin losing market share. Yet, the data tells a very different story. According to the Mortgage Bankers Association (MBA), banks originated $455 billio\u2026",
+      "url": "http://commercialobserver.com/2026/06/shift-commercial-real-estate-capital-markets-credit/",
+      "source": "Commercial Observer",
       "date": "2026-06-12",
-      "image": "https://mmx.prnewswire.com/media/MS1862494/Copy_of_SOLID_1.jpg?id=OA2698515&p=facebook",
+      "image": "https://commercialobserver.com/wp-content/uploads/sites/3/2026/06/gear-shift-AdobeStock_245690138-WEB.jpg?quality=80&crop=0px%2C90px%2C2000px%2C1051px&resize=1200%2C630&strip",
       "category": "market"
     },
     {
-      "title": "SpaceX\u2019s IPO could be largest in history. Here\u2019s how it compares to previous record-holders",
-      "description": "The hotly anticipated IPO is set to be the largest in stock market history, and is more than 7.5 times Alibaba's IPO, in second place.",
-      "url": "https://fortune.com/2026/06/12/spacexs-ipo-largest-history-alibaba-comparison/",
+      "title": "Notion takes a quiet approach to designing AI features: \u2018You can\u2019t have every new tool screaming at you\u2019",
+      "description": "\u201cThere are other ways to drive awareness or adoption that aren't about making all the features immediately present,\" says design head Randy Hunt.",
+      "url": "https://fortune.com/2026/06/12/it-isnt-our-goal-for-design-to-be-distinctive-says-notion-design-head-randy-hunt-on-prioritizing-quality-over-novelty-when-building-ai-apps/",
       "source": "Fortune",
       "date": "2026-06-12",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-2185632992_5d412b-e1781215622801.jpg?resize=1200,600",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/AINativeBuilder-260611-140416-PA1_5162.jpg?resize=1200,600",
+      "category": "geopolitics"
+    },
+    {
+      "title": "THE MATCH WE\u2019VE ALL BEEN WAITING FOR: Heinz and Heineken\u00ae finally make it official",
+      "description": "After more than 150 years of appearing side by side, Heinz and Heineken\u00ae\u00a0launch their first official collaboration; a mildly revolutionary Heinz x Heineken\u00ae\u00a0six-pack, which includes five Heineken\u00ae\u00a0beers and one bottle of Heinz Tomato Ketchup A partnership tha\u2026",
+      "url": "https://financialpost.com/globe-newswire/the-match-weve-all-been-waiting-for-heinz-and-heineken-finally-make-it-official",
+      "source": "Financial Post",
+      "date": "2026-06-12",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/heinz-x-heineken.png",
       "category": "market"
     },
     {
-      "title": "IIT Madras Brain Centre releases world\u2019s most detailed 3D atlas of human brainstem at cellular resolution",
-      "description": "Called \u2018ANCHOR\u2019 (Atlas of Neurochemical Characterization of the human brainstem with 3D Reconstruction), the maps encompass more than 200 brainstem nuclei and fiber tracts, reconstructed from hundreds of serial sections.",
-      "url": "https://www.thehindubusinessline.com/news/science/iit-madras-brain-centre-releases-worlds-most-detailed-3d-atlas-of-human-brainstem-at-cellular-resolution/article71092590.ece",
-      "source": "BusinessLine",
+      "title": "Dhan launches US stocks, ETFs investing via GIFT City route",
+      "description": "The offering is being provided through Raise IFSC Private Limited, Dhan's wholly-owned subsidiary and a member of India INX operating under the regulatory framework of the International Financial Services Centres Authority (IFSCA).",
+      "url": "https://economictimes.indiatimes.com/tech/startups/dhan-launches-us-stocks-etfs-investing-via-gift-city-route/articleshow/131679947.cms",
+      "source": "The Times of India",
       "date": "2026-06-12",
-      "image": "https://bl-i.thgim.com/public/news/kmpngo/article71092589.ece/alternates/LANDSCAPE_1200/The%20%E2%80%98ANCHOR%E2%80%99%20human%20brainstem%20atlas%20being%20released%20during%20the%203rd%20BRICS%20Neuroscience%20Symposium%202026%20on%206th%20June%202026%20at%20IIT%20Madras.jpg",
-      "category": "currency"
-    },
-    {
-      "title": "Amazon leverages own charging infrastructure to grow electric delivery fleet in India",
-      "description": "Amazon plans to deploy over 1,000 electric trucks in India, leveraging on-site charging to enhance sustainability in deliveries.",
-      "url": "https://www.thehindubusinessline.com/companies/amazon-leverages-own-charging-infrastructure-to-grow-electric-delivery-fleet-in-india/article71092472.ece",
-      "source": "BusinessLine",
-      "date": "2026-06-12",
-      "image": "https://bl-i.thgim.com/public/incoming/uo7ah/article71075540.ece/alternates/LANDSCAPE_1200/IMG_Amazon-Reuters_2_1_L0FT1OSF.jpg",
+      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-19820,resizemode-75,msid-131679947/tech/startups/dhan-launches-us-stocks-etfs-investing-via-gift-city-route.jpg",
       "category": "market"
     },
     {
-      "title": "What 2 Court Orders Reveal About Legal Battle Over Tuition Equity Laws",
-      "description": "What 2 Court Orders Reveal About Legal Battle Over Tuition Equity Laws\n\n \n\n\n \nSara Weissman\n\nFri, 06/12/2026 - 03:00 AM\n\nLaws that allow undocumented students to pay in-state tuition have been targeted by the Trump administration. Two recent federal rulings o\u2026",
-      "url": "https://www.insidehighered.com/news/government/politics-elections/2026/06/12/why-court-orders-differ-legality-tuition-equity-laws",
-      "source": "Inside Higher Ed",
+      "title": "The US Government Broke FIFA \u2014 And Then Made It Stronger Than Ever",
+      "description": "From Zurich to the Meadowlands, the inside story of how the United Bid became the Trump Cup.",
+      "url": "https://www.politico.com/news/magazine/2026/06/12/fifa-trump-world-cup-00957640",
+      "source": "Politico",
       "date": "2026-06-12",
-      "image": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-06/Crossing_Dont_walk_and_walk.jpg?itok=53_c5lRt",
+      "image": "https://s.yimg.com/cv/apiv2/sports/share/PD_010626-Social_Share_GENRIC_YAHOO_SPORTS-1200x630.jpg",
+      "category": "market"
+    },
+    {
+      "title": "The Bald Eagle Perfectly Embodies America\u2019s Flaws",
+      "description": "Alexandra Tey\n\n\n\nOur national bird isn\u2019t what we believe it to be\u2014but it is the perfect bird for an imperfect country. \r\n\n\r\n\n\nThe post The Bald Eagle Perfectly Embodies America\u2019s Flaws appeared first on The Nation.",
+      "url": "https://www.thenation.com/article/society/bald-eagle-america-national-bird/",
+      "source": "Thenation.com",
+      "date": "2026-06-12",
+      "image": "https://www.thenation.com/wp-content/uploads/2026/06/BALDEAGLE_WEB-1.jpeg",
+      "category": "market"
+    },
+    {
+      "title": "How a small Canadian publisher is resisting the AI book wave",
+      "description": "Nimbus Publishing in Halifax hasn't been immune to the many AI controversies impacting the world of books.",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/ai-book-publishing-nimbus-halifax-9.7228607",
+      "source": "CBC News",
+      "date": "2026-06-12",
+      "image": "https://i.cbc.ca/ais/83d2a2d2-a681-4c91-aba2-357ed4e5d71e,1781188541291/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
+      "category": "market"
+    },
+    {
+      "title": "Trumpworld\u2019s Global War on Multiracial Democracy",
+      "description": "Sasha Abramsky\n\n\n\nWhite House officials and Elon Musk are now openly promoting blood-and-soil politics across Europe.\r\n\n\r\n\n\nThe post Trumpworld\u2019s Global War on Multiracial Democracy appeared first on The Nation.",
+      "url": "https://www.thenation.com/?post_type=article&p=600829",
+      "source": "Thenation.com",
+      "date": "2026-06-12",
+      "image": "https://www.thenation.com/wp-content/uploads/2026/06/vance-hegseth-getty.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Final Rules for Medicaid Work Requirements Are Out. Here\u2019s What You Need To Know.",
+      "description": "The Trump administration has laid out what millions of Americans on Medicaid must do to prove they\u2019re working or completing other activities. Health policy researchers and consumer advocates say there are some important takeaways.",
+      "url": "https://kffhealthnews.org/medicaid/medicaid-work-requirements-final-rules-exemptions-trump-cms/",
+      "source": "Kffhealthnews.org",
+      "date": "2026-06-12",
+      "image": "https://kffhealthnews.org/wp-content/uploads/sites/8/2026/06/GettyImages-2277525990.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "1 in 4 Covered California Enrollees Could Get State Aid Under Newsom Proposal",
+      "description": "California is considering expanding financial help for low-income residents struggling to pay high health insurance premiums after losing federal subsidies. But relief for state marketplace customers will be limited. Here\u2019s who may get help and what it could \u2026",
+      "url": "https://kffhealthnews.org/insurance/covered-california-aca-obamacare-insurance-premium-subsidies-affordability/",
+      "source": "Kffhealthnews.org",
+      "date": "2026-06-12",
+      "image": "https://kffhealthnews.org/wp-content/uploads/sites/8/2026/06/GettyImages-2275744218-resized.jpg",
       "category": "central_bank"
     },
     {
-      "title": "House Republicans Aim to Override Trump\u2019s Loan Limit Regulations",
-      "description": "House Republicans Aim to Override Trump\u2019s Loan Limit Regulations\n\n \n\n\n \njessica.blake@\u2026\n\nFri, 06/12/2026 - 03:00 AM\n\nThe proposed change is unlikely to become law before July\u00a01, when the loan caps take effect.\n \n Byline(s)\r\n\n \n Jessica Blake",
-      "url": "https://www.insidehighered.com/news/government/student-aid-policy/2026/06/12/house-gop-tries-override-trumps-loan-limit",
-      "source": "Inside Higher Ed",
+      "title": "The AI book wave and how a Halifax publisher is resisting it",
+      "description": "The publishing house hasn't been immune to the many AI controversies impacting the world of books.",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/ai-book-publishing-9.7228607",
+      "source": "CBC News",
       "date": "2026-06-12",
-      "image": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-06/Doctor_Nurse_Tablet_GettyImages-2211322418_edit.jpg?itok=bYHz5oh1",
+      "image": "https://i.cbc.ca/ais/83d2a2d2-a681-4c91-aba2-357ed4e5d71e,1781188541291/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
       "category": "market"
-    },
-    {
-      "title": "Columbia Protester Fights Deportation Order",
-      "description": "Columbia University graduate student Mohsen Mahdawi is fighting the Trump administration after a judge ordered him deported last week for his pro-Palestinian activism.",
-      "url": "https://www.insidehighered.com/news/quick-takes/2026/06/12/columbia-protester-fights-deportation-order",
-      "source": "Inside Higher Ed",
-      "date": "2026-06-12",
-      "image": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-02/Mohsen_Mahdawi_GettyImages-2214772931_edit.jpg?itok=7pri18lN",
-      "category": "market"
-    },
-    {
-      "title": "FG commissions automative training\u00a0 centre in Gusau, trains 100 youths in mechatronics",
-      "description": "The FG has commissioned an automotive training centre in Gusau, Zamfara, training 100 youths in mechatronics for petrol and CNG vehicle repair.\n\nRead More: https://punchng.com/fg-commissions-automative-training-centre-in-gusau-trains-100-youths-in-mechatronic\u2026",
-      "url": "https://punchng.com/fg-commissions-automative-training-centre-in-gusau-trains-100-youths-in-mechatronics/",
-      "source": "The Punch",
-      "date": "2026-06-12",
-      "image": "https://cdn.punchng.com/wp-content/uploads/2026/06/12072117/road.webp",
-      "category": "market"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Friday",
-      "description": "Pay rise freeze for German MPs gains cross-party support, majority back stricter rules on e\u2011scooters, Germany ranked 10th as football World Cup kicks off in Mexico and more news on Friday, June 12th.",
-      "url": "https://www.thelocal.de/20260612/today-in-germany-a-roundup-of-the-latest-news-on-friday-126",
-      "source": "The Local Germany",
-      "date": "2026-06-12",
-      "image": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/06/watermarks-logo-228009783.jpg@webp",
-      "category": "market"
-    },
-    {
-      "title": "US Treasury yields to stay elevated for now: WSJ",
-      "description": "Elevated Treasury yields may pressure equity markets by increasing bond attractiveness, impacting valuations and investor sentiment.\nThe post US Treasury yields to stay elevated for now: WSJ appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/us-treasury-yields-to-stay-elevated-for-now-wsj/",
-      "source": "Crypto Briefing",
-      "date": "2026-06-12",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/12021832/treasury-building-washington-d-c-wikipedia-1-1-800x420.jpeg",
-      "category": "market"
-    },
-    {
-      "title": "Labor Premier Chris Minns breaks ranks to slam Anthony Albanese's government AGAIN",
-      "description": "Data shows four in five vapes and cigarettes consumed in Australia in 2025 were bought on the black market, sparking fresh debate about cutting the tobacco excise.",
-      "url": "https://www.dailymail.com/news/article-15894109/minns-tobacco-tax-black-market-australia.html",
-      "source": "Dailymail.com",
-      "date": "2026-06-12",
-      "image": "https://i.dailymail.com/1s/2026/06/12/06/109298415-0-image-m-80_1781242251330.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Newsom announces $46 million of voter-approved funding to help address pollution",
-      "description": "Gov. Gavin Newsom announced Thursday he is deploying $46 million in voter-approved funding to help clean up the Tijuana River at the California-Mexico border, one of the nation's worst and longest-running environmental crises",
-      "url": "https://abcnews.com/US/wireStory/newsom-announces-46-million-voter-approved-funding-address-133795292",
-      "source": "Abcnews.com",
-      "date": "2026-06-12",
-      "image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Gold and silver prices crash explained: What happens next - KITCO",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPTXAxbWltUEpqenMyMjI3UHptYzE4b0dmSnRUUlVlTzQ1QjE0LTc0MGdtV0NYZ1h5UGhnRGdsN1pCOFg5YlFvVHRQaHZibTlWLXZNYTEwNXdiVHNzNVFTWWZxdkZ5dTdyX3M0cGlRUllNWDk0bmJDNTk3YjNpWWp5ZElfb1d6SzNYTEdqWkxxTVAtX1ZlemdGajQ4OHV2dw?oc=5\" target=\"_blank\">Gold and silv",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTXAxbWltUEpqenMyMjI3UHptYzE4b0dmSnRUUlVlTzQ1QjE0LTc0MGdtV0NYZ1h5UGhnRGdsN1pCOFg5YlFvVHRQaHZibTlWLXZNYTEwNXdiVHNzNVFTWWZxdkZ5dTdyX3M0cGlRUllNWDk0bmJDNTk3YjNpWWp5ZElfb1d6SzNYTEdqWkxxTVAtX1ZlemdGajQ4OHV2dw?oc=5",
-      "source": "Google News - Precious Metals",
-      "date": "2026-06-12",
-      "image": "",
-      "category": "metals"
     }
   ],
   "history": [
@@ -427,7 +427,7 @@
       "platinum_usd_oz": 1760.87
     }
   ],
-  "timestamp": "2026-06-13T12:39:18.251984+05:30",
+  "timestamp": "2026-06-13T15:12:11.566643+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
