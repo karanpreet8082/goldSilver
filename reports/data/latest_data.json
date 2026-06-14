@@ -54,7 +54,7 @@
         "hold": 50
       },
       "summary": "Gold is showing positive signals. Positive daily movement of 0.0%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-14T08:00:01.351194",
+      "timestamp": "2026-06-14T10:01:59.903996",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 50
       },
       "summary": "Silver is showing positive signals. Positive daily movement of 0.2%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-14T08:00:01.440502",
+      "timestamp": "2026-06-14T10:02:00.007583",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 50
       },
       "summary": "Platinum is showing positive signals. Positive daily movement of 0.1%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-14T08:00:01.535132",
+      "timestamp": "2026-06-14T10:02:00.131682",
       "source": "rule-based"
     }
   },
@@ -125,6 +125,15 @@
   },
   "news": [
     {
+      "title": "Explained: why RBI\u2019s FCNR(B) and ECB swap window could be a game changer for banks",
+      "description": "RBI\u2019s FCNR(B) and ECB swap windows aim to boost liquidity, stabilise the rupee and ease funding costs for banks. Attractive returns for NRIs and lower hedging costs for lenders create a win-win. Strong inflows could support credit growth, margins and offset persistent FPI outflows from Indian bankin",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-rbis-fcnrb-and-ecb-swap-window-could-be-a-game-changer-for-banks/articleshow/131717819.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-06-14",
+      "image": "",
+      "category": "central_bank"
+    },
+    {
       "title": "Silver prices crash nearly 50% in 5 months. Is it still worth investing?",
       "description": "A similar trend has been reflected in India\u2019s MCX futures market, where silver prices tumbled from a record \u20b94.28 lakh per kg to around \u20b92.39 lakh. This steep fall has unsettled investors, raising concerns about whether the rally was driven by speculative excesses and whether further downside risks ",
       "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-prices-crash-nearly-50-in-5-months-is-it-still-worth-investing/articleshow/131717112.cms",
@@ -152,12 +161,21 @@
       "category": "geopolitics"
     },
     {
-      "title": "FPI exodus continues, Rs 62,800 cr pulled out from equities in first fortnight of June",
-      "description": "Foreign investors continue to sell Indian shares. They have withdrawn over Rs 62,853 crore in early June. This follows significant outflows in previous months. Geopolitical tensions and global growth worries are driving these sales. The weakening rupee also plays a role. However, the pace of selling",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fpi-exodus-continues-rs-62800-cr-pulled-out-from-equities-in-first-fortnight-of-june/articleshow/131715971.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-06-14",
-      "image": "",
+      "title": "Luxury watches melted down amid soaring gold prices",
+      "description": "Soaring gold prices are causing some vintage luxury watches to be melted down as their metal value exceeds their resale worth. Read more at straitstimes.com. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/business/gold-fever-sends-some-vintage-luxury-watches-to-the-melting-furnace",
+      "source": "The Straits Times",
+      "date": "2026-06-13",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/ef9bf3ec04485abd997cbe0a886caad7f1a5ccb8fc1a7896e2ffd519edf5f751",
+      "category": "metals"
+    },
+    {
+      "title": "Michael Hudson: Debts That Cannot Be Paid Won\u2019t Be",
+      "description": "R. C. J. Cranstoun spoke with Michael Hudson on debt, rentierism, and the geopolitical rift around sanctions, energy, and the dollar system",
+      "url": "https://www.nakedcapitalism.com/2026/06/michael-hudson-debts-that-cannot-be-paid-wont-be.html",
+      "source": "Nakedcapitalism.com",
+      "date": "2026-06-13",
+      "image": null,
       "category": "geopolitics"
     },
     {
@@ -242,93 +260,120 @@
       "category": "central_bank"
     },
     {
-      "title": "Wuthering Waves nears 50,000 concurrent Steam players following Cyberpunk drop",
-      "description": "Wuthering Waves nears 50,000 concurrent Steam players following its Cyberpunk update as the mobile industry prepares for a major D2C webshop shift ahead of PGC Barcelona.",
-      "url": "https://www.notebookcheck.net/Wuthering-Waves-nears-50-000-concurrent-Steam-players-following-Cyberpunk-drop.1321166.0.html",
-      "source": "Notebookcheck.net",
+      "title": "William Watson: Enough with the numerical targets already!",
+      "description": "The Carney Liberals want to double this or triple that by 2030 or 2035 or 2050. A policy of calculating benefits and costs would be better",
+      "url": "https://financialpost.com/opinion/william-watson-enough-with-the-numerical-targets-already",
+      "source": "Financial Post",
       "date": "2026-06-13",
-      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Wuthering-Waves-unleashes-Cyberpunk-collab11.jpg",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/0610-mg-carney-build.jpg",
       "category": "market"
     },
     {
-      "title": "6/18/26: Redwood Room After Dark: Free Jazz Nights w/ Sacha Boutros (SF) - FREE",
-      "description": "San Francisco\u2019s iconic The Clift Royal Sonesta Hotel and its legendary The Redwood Room are proud to announce internationally acclaimed jazz vocalist and cultural ambassador Sacha Boutros, known worldwide as \u201cLa Reine du Jazz,\u201d as the artistic inspiration beh\u2026",
-      "url": "https://sf.funcheap.com/redwood-room-dark-free-jazz-nights-sacha-boutros-sf/",
-      "source": "Funcheap.com",
+      "title": "Gwyn Morgan: Apply some intelligence. AI won\u2019t kill all jobs",
+      "description": "The science fiction is scary but jobs that require a physical presence, including the trades, are likely to prosper in the new labour world",
+      "url": "https://financialpost.com/opinion/gwyn-morgan-apply-some-intelligence-ai-wont-kill-all-jobs",
+      "source": "Financial Post",
       "date": "2026-06-13",
-      "image": "https://cdn.funcheap.com/wp-content/uploads/2026/06/Screenshot-2026-06-07-at-1.39.36-PM.png",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/0610-mg-welding.jpg",
       "category": "market"
     },
     {
-      "title": "Stock Valuation Checked After Strong Recent Share Price Gains",
-      "description": "Get insights on thousands of stocks from the global community of over 7 million individual investors at Simply Wall St.\nRecent gains in Hub Group (HUBG) stock, including an 8.0% move over the past week and 22.2% in the past month, have drawn attention to the \u2026",
-      "url": "https://biztoc.com/x/efb8af58dd4553a8",
-      "source": "Biztoc.com",
+      "title": "Fish Already Cooking Alive Across the US Ahead of Blistering Summer Heat",
+      "description": "\"Usually it happens later down in the summer when it's really hot.\"\nThe post Fish Already Cooking Alive Across the US Ahead of Blistering Summer Heat appeared first on Futurism.",
+      "url": "https://futurism.com/science-energy/fish-kill-usa-summer-heat",
+      "source": "Futurism",
       "date": "2026-06-13",
-      "image": "https://biztoc.com/cdn/efb8af58dd4553a8_s.webp",
+      "image": "https://futurism.com/wp-content/uploads/2026/06/fish-kill-usa-summer-heat.jpg?quality=85&w=1200",
       "category": "market"
     },
     {
-      "title": "Brazil faces Morocco in World Cup Group C showdown at MetLife Stadium tonight",
-      "description": "The Brazil vs. Morocco match at MetLife Stadium highlights the global cultural impact of football, uniting diverse communities and showcasing tactical evolution.\nThe post Brazil faces Morocco in World Cup Group C showdown at MetLife Stadium tonight appeared f\u2026",
-      "url": "https://cryptobriefing.com/brazil-morocco-world-cup-2026-group-c/",
-      "source": "Crypto Briefing",
+      "title": "Should Bayern Munich try to swoop in and steal Luka Vu\u0161kovi\u0107?",
+      "description": "FC Bayern could make some waves with this kind of transfer.",
+      "url": "https://www.bavarianfootballworks.com/question-of-the-day/214961/should-bayern-munich-try-to-swoop-in-and-steal-luka-vuskovic",
+      "source": "Bavarian Football Works",
       "date": "2026-06-13",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/13034331/https-upload-wikimedia-org-wikipedia-commons-0-04-metlife-st-800x420.jpeg",
+      "image": "https://s.yimg.com/ny/api/res/1.2/VQRWs.RXd6bsuUDfU7emPQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NDI7Y2Y9d2VicA--/https://media.zenfs.com/en/sb_nation_articles_115/1b9b480423ade7dabea30ce8d15c7b08",
       "category": "market"
     },
     {
-      "title": "World Cup squads establish training bases across North America as crypto sponsors circle the tournament",
-      "description": "The World Cup's expansion across North America enhances local economies and highlights crypto's growing influence in global sports marketing.\nThe post World Cup squads establish training bases across North America as crypto sponsors circle the tournament appe\u2026",
-      "url": "https://cryptobriefing.com/world-cup-training-bases-north-america-crypto/",
-      "source": "Crypto Briefing",
+      "title": "Air Commandos Make History: 492nd, 919th SOW Airmen Graduate Argentine Mountain School",
+      "description": "BARILOCHE, Argentina \u2014 For the first time in United States Air Force history, two Airmen have successfully completed the rigorous mountain warfare course at the Escuela Militar de Monta\u00f1a in Bariloche, Argentina, according to Director of the Argentine Mountai\u2026",
+      "url": "https://soldiersystems.net/2026/06/13/air-commandos-make-history-492nd-919th-sow-airmen-graduate-argentine-mountain-school/",
+      "source": "Soldiersystems.net",
       "date": "2026-06-13",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/13033922/2026-world-cup-map-all-stadiums-and-cities-2-800x420.jpeg",
+      "image": "https://soldiersystems.net/wp-content/uploads/2026/06/img_2613.jpeg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "The US border runs straight through the World Cup",
+      "description": "The tournament was sold as a symbol of unity, but Trump\u2019s border politics have turned it into a spectacle of exclusion.",
+      "url": "https://www.aljazeera.com/opinions/2026/6/13/the-us-border-runs-straight-through-the-world-cup",
+      "source": "Al Jazeera English",
+      "date": "2026-06-13",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a2d2a74-1781344885.jpg?resize=1200%2C675",
       "category": "market"
     },
     {
-      "title": "Drone Hits On Hydrocrackers Spark Fuel Crunch, As Ukraine Pounds Russia's Refineries",
-      "description": "Ukraine\u2019s ramped-up attacks on Russia's oil sector this year had led to production cuts and shortages, highlighting improved tactics and successes for Kyiv.",
-      "url": "https://www.rferl.org/a/russia-fuel-crunch-ukraine-refineries-strikes/33778225.html",
-      "source": "Radio Free Europe/ Radio Liberty",
+      "title": "Report: Iran planted mines around uranium cache amid fears of U.S. raid",
+      "description": "A CNN report said Iran booby-trapped tunnels holding highly enriched uranium and collapsed their entrances. Trump reportedly halted a U.S. operation to seize the material after warnings of its impact on the war and global economy",
+      "url": "https://www.haaretz.com/middle-east-news/iran/2026-06-13/ty-article/.premium/report-iran-planted-mines-around-uranium-cache-amid-fears-of-u-s-raid/0000019e-c030-d3a2-a3df-d23081250000",
+      "source": "Haaretz",
       "date": "2026-06-13",
-      "image": "https://gdb.rferl.org/271bc7c8-841e-413d-4b34-08de3c92853e_w1200_h630.jpg",
-      "category": "supply_demand"
+      "image": "https://img.haarets.co.il/bs/0000019e-c030-d3a2-a3df-d23081250000/85/3c/347cdc6f4ad68db4c2d80ad8dcdf/478280-4.jpg?precrop=2400,1395,x0,y93&width=1200&height=630&cmsprod",
+      "category": "geopolitics"
     },
     {
-      "title": "Indonesia welcomes new ILO convention protecting gig workers",
-      "description": "Indonesian Manpower Minister Yassierli expressed support for and appreciation to the International Labour Organization (ILO) for adopting the Convention on ...",
-      "url": "https://en.antaranews.com/news/419075/indonesia-welcomes-new-ilo-convention-protecting-gig-workers",
-      "source": "Antaranews.com",
+      "title": "Gujarat govt to unveil New Industrial Policy 2026 on June 15",
+      "description": "Gujarat is set to launch its Industrial Policy 2026 on June 15, aiming to accelerate growth, attract investments, and foster innovation. The policy will focus on enhancing ease of doing business and promoting advanced manufacturing.  Meanwhile, Chief Minister\u2026",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/gujarat-govt-to-unveil-new-industrial-policy-2026-on-june-15/articleshow/131701608.cms",
+      "source": "The Times of India",
       "date": "2026-06-13",
-      "image": "https://cdn.antaranews.com/cache/1200x800/2026/06/13/cd938301-c184-4582-9380-3145edb3f021.jpeg",
+      "image": "https://img.etimg.com/thumb/msid-131701916,width-1200,height-630,imgsize-97790,overlay-economictimes/articleshow.jpg",
       "category": "market"
     },
     {
-      "title": "6/18/26: Summer Sip & Stroll: \u201cUncorked\u201d Returns w/ Soccer + Live Music (Walnut Creek) - $35",
-      "description": "Walnut Creek\u2019s favorite summer sip-and-stroll returns June 18 with a new global soccer\u2013inspired twist. Hosted by the Walnut Creek Downtown Association,\u00a0Uncorked\u00a0combines wine tasting, live entertainment, shopping, and downtown vibes for a festive summer eveni\u2026",
-      "url": "https://sf.funcheap.com/summer-sip-stroll-uncorked-returns-soccer-live-music-walnut-creek/",
-      "source": "Funcheap.com",
+      "title": "The Supreme Court Hands a Surprising Death-Penalty Defeat to Alabama",
+      "description": "The Supreme Court did something extraordinary on Thursday night: It refused to help the state of Alabama carry out an execution. Since the retirement of Justice Anthony Kennedy in 2018, the Supreme Court\u2019s conservative majority has almost never intervened in \u2026",
+      "url": "https://newrepublic.com/article/211815/supreme-court-death-penalty-defeat-alabama",
+      "source": "The New Republic",
       "date": "2026-06-13",
-      "image": "https://cdn.funcheap.com/wp-content/uploads/2026/05/Screenshot-2026-05-28-at-2.07.13-PM.png",
+      "image": "https://images.newrepublic.com/774471479094315a4bd2aee1191a4fa916d288fb.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
       "category": "market"
     },
     {
-      "title": "Inside the race to rebuild America\u2019s fuel supply chain for a \u2018second nuclear age\u2019",
-      "description": "A \u2018second nuclear age\u2019 looms, but the industry faces a major uranium problem.",
-      "url": "https://fortune.com/2026/06/13/inside-race-rebuild-americas-nuclear-fuel-supply-chain/",
+      "title": "Gen Z fled San Francisco for Texas and Florida. Now they\u2019re turning \u2018welcomer cities\u2019 into the next big tech towns",
+      "description": "The next wave of the migration story is already underway, and it\u2019s moving the innovation economy into unexpected territory.",
+      "url": "https://fortune.com/article/why-is-gen-z-moving-to-nashville-orlando-next-big-tech-towns/",
       "source": "Fortune",
       "date": "2026-06-13",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-1733949357-e1781098755939.jpg?resize=1200,600",
-      "category": "supply_demand"
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-1146500528-e1775071365204.jpg?resize=1200,600",
+      "category": "market"
     },
     {
-      "title": "Leicester\u2019s 1885 Revolt: When 100,000 citizens defied mandatory vaccination and won",
-      "description": "Leicester\u2019s 1885 protest drew 80,000-100,000 participants from across Britain, Ireland and Scotland against compulsory vaccination laws. The city abandoned vaccination for three decades, instead using quarantine and isolation, leading to dramatic smallpox mor\u2026",
-      "url": "https://www.naturalnews.com/2026-06-13-leicesters-revolt-citizens-defied-mandatory-vaccination-won.html",
-      "source": "Naturalnews.com",
+      "title": "The Life and Labor of American Grocery Stores",
+      "description": "Ann Larson\n\n\n\nAfter leaving graduate school with no prospects for a teaching job, I worked at a grocery store. What I saw was a working class struggling to survive. \r\n\n\r\n\n\nThe post The Life and Labor of American Grocery Stores appeared first on The Nation.",
+      "url": "https://www.thenation.com/article/society/the-life-and-labor-of-american-grocery-stores/",
+      "source": "Thenation.com",
       "date": "2026-06-13",
-      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/Misc-Bottles-Vaccines-Vials.jpg",
+      "image": "https://www.thenation.com/wp-content/uploads/2026/06/Larson-grocery.jpg",
+      "category": "market"
+    },
+    {
+      "title": "US-Venezuela operation kills leader of Tren de Aragua gang",
+      "description": "CARACAS: The leader of the transnational gang Tren de Aragua was killed in a joint operation by the United States and Venezuela, authorities in the South American nation said on Friday (Jun 12). Founded in Venezuela, Tren de Aragua has been designated a terro\u2026",
+      "url": "https://www.channelnewsasia.com/world/us-venezuela-operation-kills-leader-tren-de-aragua-gang-6180661",
+      "source": "CNA",
+      "date": "2026-06-13",
+      "image": "https://dam.mediacorp.sg/image/upload/s--tSJfVDvb--/c_crop,h_566,w_1006,x_10,y_0/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/06/13/000_b6xq7nq.jpg?itok=2jf5b7Vr",
+      "category": "market"
+    },
+    {
+      "title": "Bad news for Aussie drivers who will soon pay an extra 32 cents a litre for their fuel",
+      "description": "Aussie drivers will soon pay an extra 32 cents a litre for fuel as a government policy comes to an end.",
+      "url": "https://www.dailymail.com/news/article-15896965/Aussie-drivers-32-cents-litre-fuel-excise-Chris-Bowen.html",
+      "source": "Dailymail.com",
+      "date": "2026-06-13",
+      "image": "https://i.dailymail.com/1s/2026/06/13/08/109323299-0-image-m-13_1781336061906.jpg",
       "category": "market"
     },
     {
@@ -346,51 +391,6 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTmhwS3VmZ0VFaGo0NUVsR19hWUZNR3V6WWpncHZJM3hnY3hsUlBraVhKZVlFZ3RzeUJqMzZreDc2MGJTTHVjVzd1Z1BHTTVJaFFkWll2Q21RcVBuQ0lFLXNETWF2N05GSDlOUEV6aWxKRlRzazhmV2JnM3pjMWpFNXVZdGdXUlp4YXR0cng1S0RUOWIzMW1GQUJuM2plX1JkdXZ5TFh3?oc=5",
       "source": "Google News - Precious Metals",
       "date": "2026-06-13",
-      "image": "",
-      "category": "metals"
-    },
-    {
-      "title": "The U.S. Government Just Took a 10% Stake in a Mining Company. Why and Who's Next?",
-      "description": "Washington is now buying pieces of American miners. A former Pentagon advisor explains what it could mean and his latest prediction. Washington is now buying pieces of American miners. A former Pentagon advisor explains what it could mean and his latest predi\u2026",
-      "url": "https://www.globenewswire.com/news-release/2026/06/12/3311358/0/en/The-U-S-Government-Just-Took-a-10-Stake-in-a-Mining-Company-Why-and-Who-s-Next.html",
-      "source": "GlobeNewswire",
-      "date": "2026-06-12",
-      "image": null,
-      "category": "supply_demand"
-    },
-    {
-      "title": "The 50 Best HBO Series of All Time, Ranked",
-      "description": "Mob bosses, superheroes, gritty detectives, and city gals all have a home on HBO.",
-      "url": "https://www.esquire.com/entertainment/tv/a71570680/best-hbo-series-of-all-time-ranked/",
-      "source": "esquire.com",
-      "date": "2026-06-12",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/fbb606b9-c1c1-4a3e-935e-19996207a07e.jpeg?crop=0.865xw:0.677xh;0.135xw,0.12xh&resize=1200:*",
-      "category": "market"
-    },
-    {
-      "title": "Red Sox' NESN Broadcasts Are All-In on Homegrown Voices",
-      "description": "Since joining NESN in late 2024, CEO David Wisnia has done his part to make the RSN even more indispensable for Boston sports fans.",
-      "url": "https://www.sportico.com/business/media/2026/boston-red-sox-nesn-broadcasters-homegrown-1234903239/",
-      "source": "Sportico.com",
-      "date": "2026-06-12",
-      "image": "https://www.sportico.com/wp-content/uploads/2026/06/red-sox-fans-nesn.png?w=1024",
-      "category": "market"
-    },
-    {
-      "title": "Reuben Kaye reckons you can joke about anything \u2014 'it's just how you do it'",
-      "description": "The new artistic director of the Adelaide Cabaret Festival shares what's unique about the art form in Australia and what his teenage self would think about who he is today.",
-      "url": "https://www.abc.net.au/news/2026-06-13/reuben-kaye-adelaide-cabaret-festival-interview/106786458",
-      "source": "ABC News (AU)",
-      "date": "2026-06-12",
-      "image": "https://live-production.wcms.abc-cdn.net.au/834d15b23f3ef85ab76f07c75f404fd1?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=6&width=862&height=485&imformat=generic",
-      "category": "market"
-    },
-    {
-      "title": "Gold and silver prices crash explained: What happens next - KITCO",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPTXAxbWltUEpqenMyMjI3UHptYzE4b0dmSnRUUlVlTzQ1QjE0LTc0MGdtV0NYZ1h5UGhnRGdsN1pCOFg5YlFvVHRQaHZibTlWLXZNYTEwNXdiVHNzNVFTWWZxdkZ5dTdyX3M0cGlRUllNWDk0bmJDNTk3YjNpWWp5ZElfb1d6SzNYTEdqWkxxTVAtX1ZlemdGajQ4OHV2dw?oc=5\" target=\"_blank\">Gold and silv",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTXAxbWltUEpqenMyMjI3UHptYzE4b0dmSnRUUlVlTzQ1QjE0LTc0MGdtV0NYZ1h5UGhnRGdsN1pCOFg5YlFvVHRQaHZibTlWLXZNYTEwNXdiVHNzNVFTWWZxdkZ5dTdyX3M0cGlRUllNWDk0bmJDNTk3YjNpWWp5ZElfb1d6SzNYTEdqWkxxTVAtX1ZlemdGajQ4OHV2dw?oc=5",
-      "source": "Google News - Precious Metals",
-      "date": "2026-06-12",
       "image": "",
       "category": "metals"
     }
@@ -427,7 +427,7 @@
       "platinum_usd_oz": 1760.87
     }
   ],
-  "timestamp": "2026-06-14T13:30:01.547340+05:30",
+  "timestamp": "2026-06-14T15:32:00.141424+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
