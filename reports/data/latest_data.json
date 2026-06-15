@@ -54,7 +54,7 @@
         "hold": 50
       },
       "summary": "Gold is showing positive signals. Positive daily movement of 0.0%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-15T09:41:51.551327",
+      "timestamp": "2026-06-15T12:47:52.975387",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 50
       },
       "summary": "Silver is showing positive signals. Positive daily movement of 0.2%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-15T09:41:51.633182",
+      "timestamp": "2026-06-15T12:47:53.090551",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 50
       },
       "summary": "Platinum is showing positive signals. Positive daily movement of 0.1%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-15T09:41:51.717416",
+      "timestamp": "2026-06-15T12:47:53.174132",
       "source": "rule-based"
     }
   },
@@ -125,31 +125,76 @@
   },
   "news": [
     {
-      "title": "Deccan Gold Mines shares rally 20% to fresh lifetime high after this Supreme Court order",
-      "description": "Deccan Gold Mines shares surged significantly after the Supreme Court ruled in its favor. The apex court upheld the company's mining lease rights for the Ganajur Gold Project, established before 2015. This decision protects legacy mining applications from new auction mandates. The ruling clears the ",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/deccan-gold-mines-shares-rally-20-to-fresh-lifetime-high-after-this-supreme-court-order/articleshow/131739091.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-06-15",
-      "image": "",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Markets likely to move beyond geopolitics, focus to shift to earnings: Devina Mehra",
-      "description": "Devina Mehra believes geopolitical deals like a potential Iran-US agreement won't drive Indian equities, with earnings and liquidity being key. She advises investors against reacting to geopolitical risks, citing historical data. Mehra also highlights the dangers of emotional investing and emphasize",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/markets-likely-to-move-beyond-geopolitics-focus-to-shift-to-earnings-devina-mehra/articleshow/131738747.cms",
+      "title": "Embassy Developments awards Rs 850cr construction contract to Leighton Asia",
+      "description": "In a landmark deal, Embassy Developments has entrusted Leighton Asia with a contract worth over Rs 850 crore for the construction of Embassy Citadel in the bustling area of Worli, Mumbai. This residential endeavor boasts a massive 1.6 million square feet of developable space, underscoring Embassy De",
+      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/embassy-developments-awards-rs-850cr-construction-contract-to-leighton-asia/articleshow/131744812.cms",
       "source": "Economic Times Markets",
       "date": "2026-06-15",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "Wall St. futures advance over 1% as markets cheer Iran deal",
-      "description": "Indian markets are set for a strong opening. A preliminary deal between the US and Iran has boosted investor sentiment. SpaceX's successful IPO is also a major positive. Paramount Skydance's acquisition has been cleared. These events are expected to drive market gains. Investors will be watching the",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-st-futures-advance-over-1-as-markets-cheer-iran-deal/articleshow/131738548.cms",
+      "title": "Monarch Networth says Nifty can hit 28,000 in 2026, picks three top stocks",
+      "description": "Monarch Networth Capital expects Nifty to reach 27,000-28,000 in 2026, driven by earnings recovery, capex growth and lower interest rates. The brokerage favours banking, telecom and IT sectors, while seeing opportunities in select midcap and smallcap stocks including SBI, HFCL and Hindustan Copper.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/monarch-networth-says-nifty-can-hit-28000-in-2026-picks-three-top-stocks/articleshow/131743507.cms",
       "source": "Economic Times Markets",
       "date": "2026-06-15",
       "image": "",
       "category": "central_bank"
+    },
+    {
+      "title": "Nifty eyeing 24,600 retest;  Rajesh Bhosale says 2 stocks could outperform right now",
+      "description": "Indian markets are surging out of a month-long lull, with Nifty poised to reclaim April highs. Rajesh Bhosale of Angel One sees strong positive momentum, advising investors to buy on dips. He highlights Trent and Phoenix Mills as top picks, both showing significant breakout patterns. The market's up",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/nifty-eyeing-24600-retest-rajesh-bhosale-says-2-stocks-could-outperform-right-now/articleshow/131742272.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-06-15",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Rupee hits five-week high after oil plunges; traders eye further rally",
+      "description": "The Indian rupee strengthened against the U.S. dollar for a second day. This rise follows a drop in oil prices and measures by the Reserve Bank of India to attract foreign currency. The rupee reached its highest level in five weeks. Traders anticipate a supportive near-term phase for the currency. L",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-hits-five-week-high-after-oil-plunges-traders-eye-further-rally/articleshow/131741528.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-06-15",
+      "image": "",
+      "category": "currency"
+    },
+    {
+      "title": "Gold jumps over 2% as US-Iran peace deal boosts bullion demand",
+      "description": "Gold and silver prices surged over 2% on MCX after a US-Iran peace framework eased inflation fears and lowered rate-hike expectations. Falling oil prices, softer yields and a weaker dollar supported bullion, while jewellers reported improved customer footfalls and renewed buying interest.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-jumps-over-2-as-us-iran-peace-deal-boosts-bullion-demand/articleshow/131741127.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-06-15",
+      "image": "",
+      "category": "currency"
+    },
+    {
+      "title": "Think you need a six-figure income to be a millionaire? You don't. Here are 4 easy ways to get to your first million",
+      "description": "Getting to millionaire status is about more than your salary.",
+      "url": "https://finance.yahoo.com/markets/articles/think-six-figure-income-millionaire-124500364.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-06-14",
+      "image": "https://s.yimg.com/ny/api/res/1.2/geUddQW6Stl.h6kavx709Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/moneywise_ecomm_711/bdb9c7b918587fd913c177ff6284766f",
+      "category": "market"
+    },
+    {
+      "title": "How to Invest in Tokenized Treasuries: Step-by-Step Guide",
+      "description": "Out here, tokenized government debt acts like maturity in a space full of noise. No wild gains promised. Not chasing free tokens or viral coins....\nThe post How to Invest in Tokenized Treasuries: Step-by-Step Guide appeared first on Bitcoin Foundation.",
+      "url": "https://bitcoinfoundation.org/news/defi/how-to-invest-in-tokenized-treasuries-step-by-step-guide/",
+      "source": "Bitcoinfoundation.org",
+      "date": "2026-06-14",
+      "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/06/RWA1.webp",
+      "category": "market"
+    },
+    {
+      "title": "Arrowstreet Capital Limited Partnership Sells 164,615 Shares of Elevance Health, Inc. $ELV",
+      "description": "Arrowstreet Capital Limited Partnership lowered its stake in shares of  Elevance Health, Inc. (NYSE:ELV - Free Report) by 10.9% during the fourth quarter, according to the company in its most recent filing with the Securities & Exchange Commission. The instit\u2026",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-arrowstreet-capital-limited-partnership-sells-164615-shares-of-elevance-health-inc-elv-2026-06-14/",
+      "source": "MarketBeat",
+      "date": "2026-06-14",
+      "image": "https://www.marketbeat.com/logos/elevance-health-inc-logo-1200x675.png?v=20221020160135",
+      "category": "market"
     },
     {
       "title": "Value In Vintage: IWC \u201cCalatravas\u201d From The 1950s And \u201960s",
@@ -179,175 +224,130 @@
       "category": "metals"
     },
     {
-      "title": "Gold's rally may be changing your portfolio in ways you haven't noticed",
-      "description": "A rising gold price may feel reassuring, but a hedge that grows too large can become the biggest risk in your portfolio. Here's why rebalancing matters.",
-      "url": "https://www.livemint.com/money/personal-finance/gold-investment-allocation-portfolio-rebalancing-gold-rally-asset-investment-strategy-wealth-management-11781245422736.html",
-      "source": "Livemint",
+      "title": "Justin Bieber and Hailey Cheer U.S. to 4-1 World Cup Win Over Paraguay at SoFi Stadium",
+      "description": "Justin Bieber attended the 2026 FIFA World Cup opener in Inglewood, cheering for the U.S. team and delivering a surprise performance, adding glamour to the event alongside other celebrities.",
+      "url": "https://www.ibtimes.com.au/justin-bieber-2026-world-cup-opener-inglewood-1870620",
+      "source": "Ibtimes.com.au",
       "date": "2026-06-14",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/12/1600x900/logo/pexels-photo-342950_1781248527686_1781248546200_f83ae35d-4bee-48f9-a49d-48ee3efac71a.jpeg",
-      "category": "metals"
+      "image": "https://d.ibtimes.com.au/en/full/1894717/justin-bieber-hailey-cheer-us-4-1-world-cup.jpg",
+      "category": "market"
     },
     {
-      "title": "Why is the price of gold trending down?",
-      "description": "Gold has been under pressure since the US and Israel launched a war against Iran in late February.",
-      "url": "https://www.aljazeera.com/economy/2026/6/14/why-is-the-price-of-gold-trending-down",
-      "source": "Al Jazeera English",
+      "title": "Tradr to Ring Opening Bell at Cboe to Celebrate SpaceX ETF Launches",
+      "description": "Tradr ETFs will ring Cboe's Opening Bell on June 15 to celebrate the launch of SPCM and SPCG, ETFs providing 200% leveraged long and short exposure to the newly public SpaceX stock. Firm to commemorate the launch of SPCM and SPCG from the center of the world'\u2026",
+      "url": "https://www.prnewswire.com/news-releases/tradr-to-ring-opening-bell-at-cboe-to-celebrate-spacex-etf-launches-302799509.html",
+      "source": "PRNewswire",
       "date": "2026-06-14",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/02/gold-prices-1770283357.jpg?resize=1920%2C1080&quality=80",
-      "category": "geopolitics"
+      "image": "https://mmx.prnewswire.com/media/MS1604770/Tradr_ETFs_Logo.jpg?id=OA2704096&p=facebook",
+      "category": "market"
     },
     {
-      "title": "Why are gold prices declining? Will they reverse anytime soon? There is a new piece in the puzzle",
-      "description": "Traditional wisdom says gold gains when fear rises. This year, fear rose and gold still slipped. That does not mean the rule has failed. It means another force has become more powerful than fear. The twist is sharper for Indian investors, because the price th\u2026",
-      "url": "https://economictimes.indiatimes.com/prime/why-are-gold-prices-declining-will-they-reverse-anytime-soon-there-is-a-new-piece-in-the-puzzle/primearticleshow/131714398.cms",
+      "title": "How Sovereign Wealth Funds Are Shaping AI And Global Growth",
+      "description": "Sovereign wealth funds like Abu Dhabi's Mubadala are quietly becoming the architects of AI and energy infrastructure\u2014and reshaping global economic power.",
+      "url": "https://www.forbes.com/sites/kensilverstein/2026/06/14/how-sovereign-wealth-funds-are-shaping-ai-and-global-growth/",
+      "source": "Forbes",
+      "date": "2026-06-14",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a2b29e1567582f1b4759abe/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "category": "market"
+    },
+    {
+      "title": "PM Modi, French President Macron hold delegation-level talks",
+      "description": "Prime Minister Narendra Modi and French President Emmanuel Macron met in Nice, France. They jointly launched 'Bharat Innovates 2026', a three-day event. This showcased India's deep-tech startups and innovators. The leaders discussed Indo-French cooperation on\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/pm-modi-french-president-macron-hold-delegation-level-talks/articleshow/131721514.cms",
       "source": "The Times of India",
       "date": "2026-06-14",
-      "image": "https://img.etimg.com/thumb/msid-131714417,width-1070,height-580,imgsize-2349692/photo.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "Amazon Boss Clues \"Modern\" James Bond Movie With Exact Status Update Revealed",
-      "description": "Amazon MGM Studios is putting together the 26th James Bond movie, and one of the executives has provided a new update on how it's progressing.",
-      "url": "https://screenrant.com/james-bond-stage-progress-amazon-mike-hopkins/",
-      "source": "Screen Rant",
-      "date": "2026-06-14",
-      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/03/daniel-craig-as-james-bond-in-spectre.jpg?w=1600&h=900&fit=crop",
+      "image": "https://img.etimg.com/thumb/msid-131721575,width-1200,height-630,imgsize-110862,overlay-economictimes/articleshow.jpg",
       "category": "market"
     },
     {
-      "title": "It\u2019s My Favorite Sport. It\u2019s Trump\u2019s Too. But It\u2019s Not As MAGA As He\u2019d Have You Believe.",
-      "description": "For a sport that's closely connected with the current administration, it sure has a lot of diversity, equity, and inclusion.",
-      "url": "https://slate.com/news-and-politics/2026/06/ufc-freedom-250-trump-white-house-lawn.html",
-      "source": "Slate Magazine",
+      "title": "FIFA World Cup 2026 crypto partnerships get massive visibility boost as tournament enters group stage",
+      "description": "The 2026 FIFA World Cup's crypto partnerships highlight the growing institutional adoption of digital assets, impacting investor strategies.\nThe post FIFA World Cup 2026 crypto partnerships get massive visibility boost as tournament enters group stage appeare\u2026",
+      "url": "https://cryptobriefing.com/fifa-world-cup-2026-crypto-partnerships-4/",
+      "source": "Crypto Briefing",
       "date": "2026-06-14",
-      "image": "https://compote.slate.com/images/52e33755-3252-4ada-90b6-bc9fde3144c1.jpeg?crop=1560%2C1041%2Cx0%2Cy63&width=1560",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/14084312/what-to-know-about-the-fifa-world-cup-trophy-nbc-sports-bay--3-800x420.jpeg",
       "category": "market"
     },
     {
-      "title": "How a hospital dream transformed adaptive mountain biking",
-      "description": "After suffering major nerve damage in a crash, mountain biker Tom Wheeler created adaptive technology that has helped him and other disabled riders return to the sport.",
-      "url": "https://www.bbc.com/sport/cycling/articles/ce8kdzkyd06o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "source": "BBC News",
+      "title": "Trump Turns 80 as Questions on Presidential Fitness Intensify Amid High-Profile Celebrations",
+      "description": "President Trump celebrates his 80th birthday, sparking discussions on age, health, and leadership amid national and global challenges. His administration emphasizes transparency and strategic visibility.",
+      "url": "https://www.ibtimes.com.au/trump-80th-birthday-health-leadership-scrutiny-1870618",
+      "source": "Ibtimes.com.au",
       "date": "2026-06-14",
-      "image": "https://s.yimg.com/os/en/bbc_us_articles_995/1d69aec1af02949b24063ee8a5c0d6c7",
+      "image": "https://d.ibtimes.com.au/en/full/1850209/donald-trump-has-become-first-us-president-convicted-felon.jpg",
       "category": "market"
     },
     {
-      "title": "T\u00fcrkiye\u2019s solar glass capacity surges fivefold in one year",
-      "description": "T\u00fcrkiye\u2019s solar glass production capacity has increased fivefold within a year, reaching 87 million square meters, according to the Cement, Glass, Ceramics and Soil Products Exporters\u2019 Association (\u00c7CS\u0130B).",
-      "url": "https://www.hurriyetdailynews.com/turkiyes-solar-glass-capacity-surges-fivefold-in-one-year-223255",
+      "title": "FIFA World Cup: Kylian Mbappe Aims To Silence Critics",
+      "description": "Kylian Mbappe is under immense pressure and facing criticism regarding his recent performances and leadership ahead of France's World Cup opener. Despite a trophy-less season with Real Madrid, his teammates Ousmane Dembele and Lucas Hernandez defend him, high\u2026",
+      "url": "https://www.rediff.com/sports/report/2026-fifa-world-cup-kylian-mbappe-aims-to-silence-critics-amidst-teammate-support/20260614.htm",
+      "source": "Rediff.com",
+      "date": "2026-06-14",
+      "image": "https://im.rediff.com/1200-630/sports/2026/jun/14mbappe-france-fifa-wc.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Former airport to reopen ahead of NATO meeting",
+      "description": "A new airport in the Turkish capital Ankara is set to be inaugurated on June 15 with the participation of Recep Tayyip Erdo\u011fan, as the new hub is highly anticipated to significantly alleviate the air traffic burden of the upcoming NATO summit in July.",
+      "url": "https://www.hurriyetdailynews.com/former-airport-to-reopen-ahead-of-nato-meeting-223275",
       "source": "Hurriyet Daily News",
       "date": "2026-06-14",
-      "image": "https://image.hurimg.com/i/hurriyet/75/200x200/6a2e75290a40645c63b3aa76.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Brics Bridge is an idea whose time has come\u2014its building blocks are already in place",
-      "description": "The world needs a cross-border payment system that\u2019s competitive, free of geopolitical risks and not based on a single currency. There\u2019s a compelling case for Brics Bridge, an alternative the wider world would welcome.",
-      "url": "https://www.livemint.com/opinion/online-views/brics-bridge-cross-border-payment-system-swift-cips-china-america-dollars-renminbi-currency-11781369426586.html",
-      "source": "Livemint",
-      "date": "2026-06-14",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/14/1600x900/logo/cross_bordern_payments_ai_1781422894689_1781422904072_cda37e17-d27f-4aed-b42a-41ae8458c4f7.png",
+      "image": "https://image.hurimg.com/i/hurriyet/75/200x200/6a2ea08d0a40645c63b3aba0.jpg",
       "category": "geopolitics"
     },
     {
-      "title": "I turned my 7-year-old Android tablet into the ultimate Kindle killer, and you can too",
-      "description": "In the battle of Kindle vs old Android tablet, there's only one winner. Here's how I turned my dated Galaxy Tab into a dream e-book reader.",
-      "url": "https://www.androidauthority.com/kindle-vs-old-android-tablet-3675935/",
-      "source": "Android Authority",
+      "title": "Judge orders Trump administration to restore signs changed at national parks",
+      "description": "A federal judge in Massachusetts has ordered the Trump administration to restore all signs that were changed or removed at national parks across the country as part of President Donald Trump\u2019s controversial directive last year. In a scathing 63-page ruling on\u2026",
+      "url": "https://freerepublic.com/focus/f-news/4383695/posts",
+      "source": "Freerepublic.com",
       "date": "2026-06-14",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/samsung-galaxy-tab-a-2019-kindle-killer-2.jpg",
-      "category": "market"
-    },
-    {
-      "title": "12 years of Modi government strengthened India's health sector through accessibility and digital innovation: Amit Shah",
-      "description": "India's health sector has seen historic changes in the last 12 years. Accessible, affordable, and quality healthcare is now a reality for citizens. Initiatives like Ayushman Bharat and Jan Aushadhi Kendras have established a global model for health security. \u2026",
-      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/12-years-of-modi-government-strengthened-indias-health-sector-through-accessibility-and-digital-innovation-amit-shah/articleshow/131718381.cms",
-      "source": "The Times of India",
-      "date": "2026-06-14",
-      "image": "https://img.etimg.com/thumb/msid-131718438,width-1200,height-630,imgsize-47808,overlay-economictimes/articleshow.jpg",
-      "category": "market"
-    },
-    {
-      "title": "nyora added to PyPI",
-      "description": "Pure Python implementation of the Nyora manga engine",
-      "url": "https://pypi.org/project/nyora/",
-      "source": "Pypi.org",
-      "date": "2026-06-14",
-      "image": "https://pypi.org/static/images/twitter.abaf4b19.webp",
-      "category": "market"
-    },
-    {
-      "title": "Inclusive cluster has two-thirds representation in civil service: PSC Chair Regmi",
-      "description": "KATHMANDU: The Public Service Commission (PSC) has been selecting competent human resources required for public service in Nepal. Qualification, impartiality, and competition are the key prerequisites for recruitment into government service, and the PSC is re\u2026",
-      "url": "https://english.khabarhub.com/2026/14/553840/",
-      "source": "Khabarhub.com",
-      "date": "2026-06-14",
-      "image": "https://english.khabarhub.com/wp-content/uploads/2026/06/Madhav-Prasad-Regmi-e1781424914722.jpg",
-      "category": "market"
-    },
-    {
-      "title": "EU sovereignty push gives tech buyers a new alphabet soup to swallow",
-      "description": "Brussels presses on despite US fury as it looks to enforce cloud autonomy and bolster open source",
-      "url": "https://www.theregister.com/off-prem/2026/06/14/eu-sovereignty-push-gives-tech-buyers-a-new-alphabet-soup-to-swallow/5251995",
-      "source": "Theregister.com",
-      "date": "2026-06-14",
-      "image": "https://image.theregister.com/5252058.jpg?imageId=5252058&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "category": "market"
-    },
-    {
-      "title": "KMC unveils Policy and Program for fiscal year 2026/27",
-      "description": "KATHMANDU: Acting Mayor of Kathmandu Metropolitan City (KMC), Sunita Dangol, presented the Policy and Program for the fiscal year 2026/27 at the 19th Municipal Assembly on Sunday. This marks the first time Deputy Mayor Dangol has presented the policy and prog\u2026",
-      "url": "https://english.khabarhub.com/2026/14/553854/",
-      "source": "Khabarhub.com",
-      "date": "2026-06-14",
-      "image": "https://english.khabarhub.com/wp-content/uploads/2026/06/Sunita-Dangol-scaled.jpg",
-      "category": "market"
-    },
-    {
-      "title": "KMC to manage solid waste through seven-cluster system",
-      "description": "KATHMANDU: Kathmandu Metropolitan City (KMC) has announced plans to manage solid waste by dividing the metropolis into seven clusters as part of its efforts to promote a circular economy and improve waste management through the use of technology. The initiati\u2026",
-      "url": "https://english.khabarhub.com/2026/14/553832/",
-      "source": "Khabarhub.com",
-      "date": "2026-06-14",
-      "image": "https://english.khabarhub.com/wp-content/uploads/2025/02/Kathmandu-metropolitan-city-office.jpg",
-      "category": "market"
-    },
-    {
-      "title": "A more conciliatory Ford says 'I love the U.S.' as trade talks loom",
-      "description": "Doug Ford appears to be throttling back on aggressive anti-Trump rhetoric with key trade talks looming with the U.S., stepping up a charm offensive aimed at politicians and lobby groups in the mercurial president\u2019s orbit.",
-      "url": "https://www.cbc.ca/news/canada/toronto/ford-cusma-trump-talks-9.7233192",
-      "source": "CBC News",
-      "date": "2026-06-14",
-      "image": "https://i.cbc.ca/ais/ab5acddd-03de-4726-8af4-569c77ff4475,1781277786794/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C317%2C6084%2C3422%29%3BResize%3D620",
+      "image": null,
       "category": "central_bank"
     },
     {
-      "title": "Inflation data, US Fed interest rate decision, crude oil major drivers for stock markets: Analysts",
-      "description": "Besides, the status of the US-Iran deal signing on Sunday, trading activity of foreign investors and movement in global markets would also drive sentiments in domestic equities, say experts",
-      "url": "https://www.thehindubusinessline.com/markets/inflation-data-us-fed-interest-rate-decision-crude-oil-major-drivers-for-stock-markets-analysts/article71100598.ece",
-      "source": "BusinessLine",
+      "title": "I\u2019ve Been Teaching For 15 Years. There\u2019s A New Trend In College Classrooms",
+      "description": "\u201cI scan the space, trying to see faces and checking for my blind spots. Concealed carry is legal in Wisconsin, but getting shot at isn\u2019t my greatest fear.\u201d",
+      "url": "https://www.huffpost.com/entry/classrooms-under-surveillance-recording-lectures-higher-education-threat_n_6a26d101e4b009b22c86ab49",
+      "source": "HuffPost",
       "date": "2026-06-14",
-      "image": "https://bl-i.thgim.com/public/incoming/1mk4ad/article71100602.ece/alternates/LANDSCAPE_1200/PO01_Trading.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "View from The Hill: Angus Taylor to lose key shadow minister Jonno Duniam",
-      "description": "The opposition is losing one of its most effective shadow ministers.",
-      "url": "https://theconversation.com/view-from-the-hill-angus-taylor-to-lose-key-shadow-minister-jonno-duniam-284307",
-      "source": "The Conversation Africa",
-      "date": "2026-06-14",
-      "image": "https://images.theconversation.com/files/741706/original/file-20260614-57-qhkryc.jpg?ixlib=rb-4.1.0&rect=0%2C163%2C5349%2C2674&q=45&auto=format&w=1356&h=668&fit=crop",
+      "image": "https://img.huffingtonpost.com/asset/6a26d5a0140000d35d6b495d.jpeg?cache=cCEVhmGpcl&ops=500_281%2Cscalefit_1200_630",
       "category": "market"
     },
     {
-      "title": "Fashion to Furnace: Some luxury gold watches fail the test of time",
-      "description": "Luxury watches like Omega Constellation are being melted for gold. High gold prices make metal value exceed resale worth. This impacts used models from Omega and TAG Heuer. Dealers are scrapping watches as demand for investment gold rises. Some owners find th\u2026",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/fashion-to-furnace-some-luxury-gold-watches-fail-the-test-of-time/articleshow/131711443.cms",
-      "source": "The Times of India",
-      "date": "2026-06-13",
-      "image": "https://img.etimg.com/thumb/msid-131711443,width-1200,height-630,imgsize-152752,overlay-economictimes/articleshow.jpg",
-      "category": "supply_demand"
+      "title": "Self-Serving Politicians Spawned Today\u2019s Festering Dystopia",
+      "description": "Voltaire\u2019s purported remark about \u201ccommon sense\u201d not being so \u201ccommon\u201d has no greater application than modern Democrats and their philosophies. The 18th-century French philosopher Voltaire is to have once remarked, \u201cCommon sense is not so common\u201d when assessi\u2026",
+      "url": "https://freerepublic.com/focus/f-chat/4383694/posts",
+      "source": "Freerepublic.com",
+      "date": "2026-06-14",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "Before you buy a smartwatch or smart ring, consider what you're giving up",
+      "description": "Health wearables are constantly collecting your personal information, but who owns that data, and what does it mean for your privacy?",
+      "url": "https://www.zdnet.com/article/before-buying-a-smartwatch-or-smart-ring-consider-these-risks/",
+      "source": "ZDNet",
+      "date": "2026-06-14",
+      "image": "https://www.zdnet.com/a/img/resize/e4f32193549ccebd7e08dc015aa969eb0a1a06fe/2026/06/01/4692b275-8b49-45b8-9f9b-b7f1ae7c15b3/hero-1-who-actually-owns-your-health-data-what-you-give-up-when-you-put-on-a-smartwatch-or-ring.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "category": "market"
+    },
+    {
+      "title": "Woman's Death After ICE Released Her Ruled a Homicide",
+      "description": "A medical examiner has ruled the death of a Haitian asylum seeker after being released from federal custody a homicide. An attorney representing her family said he expects her relatives to sue Immigration and Customs Enforcement in connection with her death. \u2026",
+      "url": "https://www.newser.com/story/390998/womans-death-after-ice-released-her-ruled-a-homicide.html",
+      "source": "Newser",
+      "date": "2026-06-14",
+      "image": "https://img1-azrcdn.newser.com/image/1691872-12-20260614070816.jpeg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Sunday Morning Talk Show Thread 14 June 2026",
+      "description": "The Talk Shows June 14th, 2026 Guests to be interviewed today on major television talk shows:FACE THE NATION (CBS): Margaret Brennan anchors: Defense (? No WAR) Secretary Pete Hegseth; Sen. Mark Kelly (D-Ariz.); Sen. Mark Warner (DeepState-Va.); Gary Cohn, Am\u2026",
+      "url": "https://freerepublic.com/focus/f-news/4383690/posts",
+      "source": "Freerepublic.com",
+      "date": "2026-06-14",
+      "image": null,
+      "category": "geopolitics"
     },
     {
       "title": "Michael Saylor Fires Back: 'I Never Said The Company Wouldn't Sell Its Bitcoin'",
@@ -427,7 +427,7 @@
       "platinum_usd_oz": 1760.87
     }
   ],
-  "timestamp": "2026-06-15T15:11:51.729894+05:30",
+  "timestamp": "2026-06-15T18:17:53.183438+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
