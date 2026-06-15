@@ -54,7 +54,7 @@
         "hold": 50
       },
       "summary": "Gold is showing positive signals. Positive daily movement of 0.0%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-15T15:27:02.447038",
+      "timestamp": "2026-06-15T17:32:57.388523",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 50
       },
       "summary": "Silver is showing positive signals. Positive daily movement of 0.2%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-15T15:27:02.551556",
+      "timestamp": "2026-06-15T17:32:57.484073",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 50
       },
       "summary": "Platinum is showing positive signals. Positive daily movement of 0.1%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-15T15:27:02.652466",
+      "timestamp": "2026-06-15T17:32:57.574465",
       "source": "rule-based"
     }
   },
@@ -125,22 +125,49 @@
   },
   "news": [
     {
-      "title": "Rupee hits five-week high, ends at 94.71 vs USD on easing Mideast tensions",
-      "description": "The rupee rose 40 paise to close at 94.71 against the US dollar, hitting a five-week high as easing geopolitical tensions in West Asia boosted market sentiment. Falling global oil prices and expectations of stronger foreign inflows supported the currency, which traders say may extend gains amid impr",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-hits-five-week-high-ends-at-94-71-vs-usd-on-easing-mideast-tensions/articleshow/131745408.cms",
+      "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
+      "description": "Indian equities rallied sharply as an interim US-Iran peace framework eased geopolitical concerns and pushed oil prices lower. Improved inflation and interest-rate expectations lifted sentiment, helping Sensex and Nifty gain nearly 1%, while broader markets, global equities and risk assets also adva",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/131749233.cms",
       "source": "Economic Times Markets",
       "date": "2026-06-15",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "Quote of the day by Benjamin Graham: \"It is important to make sure that one is not lured by rash enthusiasm into commitments at levels greatly above those soundly warranted by the financial set-up and the earnings record\"",
-      "description": "Benjamin Graham\u2019s quote cautions investors against overpaying for stocks during periods of market enthusiasm. The piece explains how strong financials and earnings records should guide investment decisions, highlighting risks of overvaluation and behavioural biases. It reinforces the importance of d",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-benjamin-graham-it-is-important-to-make-sure-that-one-is-not-lured-by-rash-enthusiasm-into-commitments-at-levels-greatly-above-those-soundly-warranted-by-the-financial-set-up-and-the-earnings-record/articleshow/131734321.cms",
+      "title": "Govt to sell up to 5% stake in insurer GIC via OFS",
+      "description": "The Indian government is set to divest up to a 5% stake in General Insurance Corporation. This offer for sale begins for non-retail investors on June 16 and for retail investors on June 17. The floor price is fixed at 352 Indian rupees per share. This move is part of a larger plan to meet public sha",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/govt-to-sell-up-to-5-stake-in-insurer-gic-via-ofs/articleshow/131749173.cms",
       "source": "Economic Times Markets",
       "date": "2026-06-15",
       "image": "",
-      "category": "geopolitics"
+      "category": "currency"
+    },
+    {
+      "title": "Market trading guide: NDR Auto among 2 stock recommendations for Tuesday",
+      "description": "Improved investor sentiment following the interim US-Iran peace agreement has supported equities as crude fell below $85, easing inflation concerns and improving the FY27 outlook. Analysts favour growth sectors such as autos, industrials, capital goods and real estate, while recommending NDR Auto an",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-ndr-auto-among-2-stock-recommendations-for-tuesday/articleshow/131748920.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-06-15",
+      "image": "",
+      "category": "inflation"
+    },
+    {
+      "title": "From reinsurance to structured credit: The financial products you didn\u2019t know Bitcoin was powering",
+      "description": "Everyone knows about the ETFs, but almost nobody knows about the dozens of obscure institutional products being built around Bitcoin while the funds soak up all the attention, from a $40 million insurance reserve in Barbados to an S&P-rated bond deal sold to \u2026",
+      "url": "https://cryptoslate.com/from-reinsurance-to-structured-credit-the-financial-products-you-didnt-know-bitcoin-was-powering/",
+      "source": "CryptoSlate",
+      "date": "2026-06-14",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/06/bitcoin-structured-credit.jpg",
+      "category": "market"
+    },
+    {
+      "title": "\u20b920-cr gold coin scam: Police woman supended",
+      "description": "Chennai woman inspector suspended as EOW probes \u20b920-crore gold coin WhatsApp investment scam; promoter Prabhumani arrested; police role under investigation.",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/20-cr-gold-coin-scam-police-woman-supended/articleshow/131724997.cms",
+      "source": "The Times of India",
+      "date": "2026-06-14",
+      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "category": "metals"
     },
     {
       "title": "Cloud-based LLM gold rush is ending",
@@ -197,157 +224,130 @@
       "category": "market"
     },
     {
-      "title": "How to Invest in Tokenized Treasuries: Step-by-Step Guide",
-      "description": "Out here, tokenized government debt acts like maturity in a space full of noise. No wild gains promised. Not chasing free tokens or viral coins....\nThe post How to Invest in Tokenized Treasuries: Step-by-Step Guide appeared first on Bitcoin Foundation.",
-      "url": "https://bitcoinfoundation.org/news/defi/how-to-invest-in-tokenized-treasuries-step-by-step-guide/",
-      "source": "Bitcoinfoundation.org",
+      "title": "Read Sundar Pichai\u2019s 2026 Commencement Address at Stanford University",
+      "description": "Read a transcript of Sundar Pichai\u2019s commencement speech at Stanford University.",
+      "url": "https://blog.google/company-news/inside-google/message-ceo/stanford-commencement-speech-2026/",
+      "source": "Blog.google",
       "date": "2026-06-14",
-      "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/06/RWA1.webp",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_Hero_gradient.width-1300.jpg",
       "category": "market"
     },
     {
-      "title": "Arrowstreet Capital Limited Partnership Sells 164,615 Shares of Elevance Health, Inc. $ELV",
-      "description": "Arrowstreet Capital Limited Partnership lowered its stake in shares of  Elevance Health, Inc. (NYSE:ELV - Free Report) by 10.9% during the fourth quarter, according to the company in its most recent filing with the Securities & Exchange Commission. The instit\u2026",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-arrowstreet-capital-limited-partnership-sells-164615-shares-of-elevance-health-inc-elv-2026-06-14/",
-      "source": "MarketBeat",
-      "date": "2026-06-14",
-      "image": "https://www.marketbeat.com/logos/elevance-health-inc-logo-1200x675.png?v=20221020160135",
-      "category": "market"
-    },
-    {
-      "title": "World Cup traffic creates long lines but stays organized, easing citywide fears",
-      "description": "Months of planning went into figuring out how to transport thousands of fans from the city to Boston Stadium in Foxborough.",
-      "url": "https://www.boston.com/sports/world-cup/2026/06/14/world-cup-traffic-creates-long-lines-but-stays-organized-easing-citywide-fears/",
-      "source": "Boston.com",
-      "date": "2026-06-14",
-      "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/06/worldcuptraffic-6a2ec118ec17d-768x432.jpg",
-      "category": "market"
-    },
-    {
-      "title": "George Russell Issues Stark Ferrari Warning After Hamilton\u2019s Insane Race Pace",
-      "description": "The celebratory champagne had barely settled on the podium at the 2026 Barcelona-Catalunya Grand Prix before the reality of a shifting Formula 1 hierarchy began to sink in at Mercedes-AMG. While Lewis Hamilton\u2019s historic maiden victory for Scuderia Ferrari ca\u2026",
-      "url": "https://www.motorbiscuit.com/george-russell-issues-stark-ferrari-warning-after-hamiltons-insane-race-pace/",
-      "source": "Motorbiscuit.com",
-      "date": "2026-06-14",
-      "image": "https://s.yimg.com/os/en/motorbiscuit_articles_333/3f4d13d25c84ee9579cd47290f0da536",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Tokyo Revengers \u201cWar of the Three Titans Arc\u201d 3rd Trailer Revealed",
-      "description": "Tokyo Revengers \u201cWar of the Three Titans Arc\u201d 3rd Trailer Revealed! Anime Expo 2026 and AnimagiC 2026 Appearance Confirmed! Tokyo Revengers is heading...",
-      "url": "https://www.animenewsnetwork.com/press-release/2026-06-14/tokyo-revengers-war-of-the-three-titans-arc-3rd-trailer-revealed/.238503",
-      "source": "Anime News Network",
-      "date": "2026-06-14",
-      "image": "",
-      "category": "geopolitics"
-    },
-    {
-      "title": "\u2018Disclosure Day\u2019 Earns $92.9 Million Global Box Office Opening Amid Steep Drops for \u2018Scary Movie,\u2019 \u2018Masters\u2019",
-      "description": "\"Obsession\" has passed $260 million worldwide while last weekend's major studio releases sink 70%\nThe post \u2018Disclosure Day\u2019 Earns $92.9 Million Global Box Office Opening Amid Steep Drops for \u2018Scary Movie,\u2019 \u2018Masters\u2019 appeared first on TheWrap.",
-      "url": "https://www.thewrap.com/creative-content/movies/disclosure-day-92-million-box-office-opening/",
-      "source": "TheWrap",
-      "date": "2026-06-14",
-      "image": "https://www.thewrap.com/wp-content/uploads/2026/06/disclosure-day-emily-blunt.jpg",
-      "category": "market"
-    },
-    {
-      "title": "World Cup matches face delays as Scotland vs. Haiti kicks off late",
-      "description": "Frequent delays due to weather could disrupt broadcast schedules, betting markets, and fan engagement, impacting the tournament's financial ecosystem.\nThe post World Cup matches face delays as Scotland vs. Haiti kicks off late appeared first on Crypto Briefin\u2026",
-      "url": "https://cryptobriefing.com/world-cup-matches-delayed-lightning-protocols/",
+      "title": "Cura\u00e7ao national team scores first World Cup goal against Germany",
+      "description": "Curaao's World Cup debut highlights the island's potential to influence global sports betting and crypto markets, enhancing its global profile.\nThe post Cura\u00e7ao national team scores first World Cup goal against Germany appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/curacao-first-world-cup-goal-germany/",
       "source": "Crypto Briefing",
       "date": "2026-06-14",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/14111919/image-scotland-make-esports-return-as-national-team-gear-up--2-800x420.jpeg",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/14132905/adidas-away-kit-for-cura-ao-national-football-team-2026-1-800x420.jpeg",
       "category": "market"
     },
     {
-      "title": "India vs Pakistan 2026 Women's T20 World Cup live win probability: Score, result for IND-W vs PAK-W at Edgbaston",
-      "description": "With the ongoing clash between the India and Pakistan Women's teams heating up, here's our take on who is going to take the win in their first match of the Women's T20 World Cup.",
-      "url": "https://www.cricketnews.com/en/cricket/news/india-vs-pakistan-2026-women-t20-world-cup-win-probability-score-result/a1d7639802d1ce6ce7cca33c",
-      "source": "Cricketnews.com",
+      "title": "Indonesia seeks more UAE investment for food security",
+      "description": "Indonesia is seeking increased investment from the United Arab Emirates (UAE) to strengthen national supply chains and food security, according to ...",
+      "url": "https://en.antaranews.com/news/419185/indonesia-seeks-more-uae-investment-for-food-security",
+      "source": "Antaranews.com",
       "date": "2026-06-14",
-      "image": "https://s.yimg.com/os/en/the_cricket_news_articles_506/3b07dc3276cc927157a58f85f375bebc",
-      "category": "market"
+      "image": "https://cdn.antaranews.com/cache/1200x800/2026/06/14/publikasi_1781161941_6a2a5fd52cda3.jpeg",
+      "category": "supply_demand"
     },
     {
-      "title": "US government confident in peace deal with Iran, says Ambassador Waltz",
-      "description": "A potential US-Iran peace deal could stabilize geopolitical tensions, impacting global markets and reducing risk premiums, but uncertainty remains.\nThe post US government confident in peace deal with Iran, says Ambassador Waltz appeared first on Crypto Briefi\u2026",
-      "url": "https://cryptobriefing.com/us-iran-peace-deal-bitcoin-waltz/",
-      "source": "Crypto Briefing",
-      "date": "2026-06-14",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/14111637/un-ambassador-mike-waltz-points-a-finger-while-making-a-spee-800x420.jpeg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Thousands Protest Ahead of G7 Summit",
-      "description": "Thousands of demonstrators converged in Geneva on Sunday to show their discontent with the G7 group of rich countries, with a summit including President Trump due to start the next day in nearby France. Environmentalists and feminists joined foes of imperiali\u2026",
-      "url": "https://www.newser.com/story/391011/thousands-protest-ahead-of-g7-summit.html",
-      "source": "Newser",
-      "date": "2026-06-14",
-      "image": "https://img2-azrcdn.newser.com/image/1691935-12-20260614101909.jpeg",
-      "category": "market"
-    },
-    {
-      "title": "Just months after Trump warned states not to regulate AI, Republican and Democratic lawmakers are doing it anyway",
-      "description": "A mix of Republican- and Democratic-led states have passed such laws this year, including Colorado, Connecticut, Idaho, Iowa, Nebraska and Oregon.",
-      "url": "https://fortune.com/2026/06/14/trump-federal-vs-state-ai-regulation-ai-republicans-democrats/",
-      "source": "Fortune",
-      "date": "2026-06-14",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/AP26161599336775-e1781448358117.jpg?resize=1200,600",
-      "category": "geopolitics"
-    },
-    {
-      "title": "SpaceX IPO afterglow, Kevin Warsh's first Fed meeting, and a potential US-Iran deal: What to watch this week",
-      "description": "Investor attention will be on Kevin Warsh's first meeting as chair of the Federal Reserve, dealmaking in the Middle East, and the second-day effects on...",
-      "url": "https://finance.yahoo.com/markets/article/spacex-ipo-afterglow-kevin-warshs-first-fed-meeting-and-a-potential-us-iran-deal-what-to-watch-this-week-142500418.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-06-14",
-      "image": "https://s.yimg.com/ny/api/res/1.2/zzueYnVn_tQYEPMT890RFA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-06/8e0d0f04-6355-42e7-ba12-de0d06744ff8",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Some Congressional Lawmakers Have Attempted To Push Back Against AI Data Centers \u2014 But They Haven\u2019t Gotten Far",
-      "description": "Lawmakers have introduced legislation to restrict and investigate data centers as more Americans have voiced their opposition to them.",
-      "url": "https://dailycaller.com/2026/06/14/lawmakers-data-centers-americans-ai/",
-      "source": "The Daily Caller",
-      "date": "2026-06-14",
-      "image": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/06/GettyImages-2242292948-scaled.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Australia gas reservation: Labor sends emergency delegation to Asia to address diplomatic concerns",
-      "description": "Senior officials will travel to Asia this week in an attempt to douse a growing diplomatic crisis in countries unsettled by Australia\u2019s plans for a gas reservation.",
-      "url": "https://www.smh.com.au/business/the-economy/labor-sends-emergency-delegation-to-defuse-asian-gas-alarm-20260612-p606dj.html",
-      "source": "The Sydney Morning Herald",
-      "date": "2026-06-14",
-      "image": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/q_86%2Cf_auto/5ed992d6042d431ce35656e3d4ca4c27023a2b68",
-      "category": "market"
-    },
-    {
-      "title": "Trump State Department Moves to Deport Trita Parsi. McCarthyism 2.0?",
-      "description": "President Trump\u2019s State Department has reportedly opened an investigation into Trita Parsi, an Iranian-Swedish international relations writer, political analyst, vice president of the Quincy Institute for Responsible Statecraft, and critic of the administrati\u2026",
-      "url": "https://www.globalresearch.ca/trump-state-department-deport-trita-parsi/5929794",
-      "source": "Globalresearch.ca",
-      "date": "2026-06-14",
-      "image": "https://www.globalresearch.ca/wp-content/uploads/2026/06/trita-parsi-deportation-us.jpeg",
-      "category": "market"
-    },
-    {
-      "title": "Can Trump Accounts help close the wealth gap? Here's what experts say stands in the way",
-      "description": "Trump Accounts come with free money for some children, but it may not be enough to reduce the wealth gap, some experts say.",
-      "url": "https://www.cnbc.com/2026/06/14/trump-accounts-wealth-gap.html",
-      "source": "CNBC",
-      "date": "2026-06-14",
-      "image": "https://image.cnbcfm.com/api/v1/image/108145697-1747256011811-GettyImages-2153106434.jpg?v=1747256181&w=1920&h=1080",
-      "category": "market"
-    },
-    {
-      "title": "Diverging Rate Paths Force Reshuffle in Emerging-Market Bets",
-      "description": "A growing divergence in interest-rate outlooks is forcing emerging-market investors to reshuffle bets.",
-      "url": "https://financialpost.com/pmn/business-pmn/diverging-rate-paths-force-reshuffle-in-emerging-market-bets",
+      "title": "Carney Says Anthropic Ban Shows Risk of Relying on Big AI Models",
+      "description": "Prime Minister Mark Carney said the US export ban blocking all foreign access to Anthropic PBC\u2019s latest artificial intelligence models underscores the risk of depending on just a handful of powerful AI tools.",
+      "url": "https://financialpost.com/pmn/business-pmn/carney-says-anthropic-ban-shows-risk-of-relying-on-big-ai-models",
       "source": "Financial Post",
       "date": "2026-06-14",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/traders-brace-for-week-packed-with-interest-rate-decisions.jpg",
+      "image": null,
+      "category": "supply_demand"
+    },
+    {
+      "title": "How logistics will package and deliver demand growth",
+      "description": "Discover how logistics is reshaping India\u2019s consumption landscape by enhancing reach and reliability, driving demand growth beyond income alone.",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/how-logistics-will-package-and-deliver-demand-growth/article71102187.ece",
+      "source": "BusinessLine",
+      "date": "2026-06-14",
+      "image": "https://bl-i.thgim.com/public/incoming/55jkr6/article71102188.ece/alternates/LANDSCAPE_1200/BL1506_Logistics_Second.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Credit note buoys up ship recyclers",
+      "description": "India's first ship recycling credit note aims to boost domestic yards, attract investments, and enhance sustainable maritime practices.",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/credit-note-buoys-up-ship-recyclers/article71102171.ece",
+      "source": "BusinessLine",
+      "date": "2026-06-14",
+      "image": "https://bl-i.thgim.com/public/incoming/bp0v6d/article71102174.ece/alternates/LANDSCAPE_1200/BL1506_Logistics_Lead.jpg",
       "category": "market"
+    },
+    {
+      "title": "Solo Leveling K-drama Release Date (Expected), Full Cast: Filming Begins; Here\u2019s When It Might Premiere | Solo Leveling (Korean: \u1102\u1161 \u1112\u1169\u11ab\u110c\u1161\u1106\u1161\u11ab \u1105\u1166\u1107\u1166\u11af\u110b\u1165\u11b8) Production Update | When And Where Will Solo Leveling K-drama Adaptation Premiere Online | Solo Leveling",
+      "description": "Solo Leveling K-drama Release Date (Expected), Full Cast: Filming Begins; Here\u2019s When It Might Premiere | Solo Leveling (Korean: \u1102\u1161 \u1112\u1169\u11ab\u110c\u1161\u1106\u1161\u11ab \u1105\u1166\u1107\u1166\u11af\u110b\u1165\u11b8) Production Update | When And Where Will Solo Leveling K-drama Adaptation Premiere Online | Solo Levelingfilm\u2026",
+      "url": "https://www.filmibeat.com/korean/solo-leveling-k-drama-release-date-expected-full-cast-filming-begins-here-when-it-might-premiere-520919.html",
+      "source": "Filmibeat",
+      "date": "2026-06-14",
+      "image": "https://images.filmibeat.com/img/2026/06/sololevelingkdramareleasedated1-1781456663.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Warsh Caught Between Trump and Bond Market Betting on Rate Hikes",
+      "description": "Just three weeks into the job, Federal Reserve Chairman Kevin Warsh is already facing an unusually high-stakes test.",
+      "url": "https://financialpost.com/pmn/business-pmn/warsh-caught-between-trump-and-bond-market-betting-on-rate-hikes",
+      "source": "Financial Post",
+      "date": "2026-06-14",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/bond-market-yields-push-over-fed-rate-in-echo-of-2021-trad.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Federal Reserve Chairman Kevin Warsh faces high-stakes test early in tenure",
+      "description": "Warsh's early decisions could shape market expectations, influence inflation control strategies, and impact the Fed's credibility and independence.\nThe post Federal Reserve Chairman Kevin Warsh faces high-stakes test early in tenure appeared first on Crypto B\u2026",
+      "url": "https://cryptobriefing.com/fed-chair-warsh-first-fomc-test/",
+      "source": "Crypto Briefing",
+      "date": "2026-06-14",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/14130729/kevin-warsh-800x420.jpeg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "The Great Sobering: How Technology, Policy, and Culture Are Draining the Roads - Science, Public Health Policy and the Law",
+      "description": "The Great Sobering: How Technology, Policy, and Culture Are Draining the Roads - Science, Public Health Policy and the Lawpublichealthpolicyjournal.com",
+      "url": "https://publichealthpolicyjournal.com/the-great-sobering-how-technology-policy-and-culture-are-draining-the-roads/",
+      "source": "Publichealthpolicyjournal.com",
+      "date": "2026-06-14",
+      "image": "https://i0.wp.com/publichealthpolicyjournal.com/wp-content/uploads/2026/06/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2F265a0ff3-ec23-47dc-a747-74b52b0acf05_865x340-hSg9oO.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Dabo Swinney's recent complaints about college football bolster the case for a CBA",
+      "description": "The ongoing push for a federal law that restores the NCAA's roar conveniently overlooks a solution that college football (and other revenue sports) should be pursuing on their own.",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_caf9a9d1-a109-46ca-8c4d-eb6f41691487",
+      "source": "Yahoo Entertainment",
+      "date": "2026-06-14",
+      "image": null,
+      "category": "central_bank"
+    },
+    {
+      "title": "Global U.S. Patent Standing Falls Due to Judicially-Created Patent Law",
+      "description": "The United States is the only country in the world where the judiciary forces patent term truncation over unrelated patent families. In Europe, China, and most other nations, the patent laws provide a \u201cnovelty only\u201d standard for patent applications filed befo\u2026",
+      "url": "https://ipwatchdog.com/2026/06/14/global-us-patent-standing-falls-due-to-judicially-created-patent-law/",
+      "source": "IPWatchdog.com",
+      "date": "2026-06-14",
+      "image": "https://ipwatchdog.com/wp-content/uploads/2026/04/Depositphotos_718817582_S.jpg",
+      "category": "currency"
+    },
+    {
+      "title": "Today\u2019s News in a Nutshell",
+      "description": "KATHMANDU: Khabarhub brings you a glimpse of major developments of the day in Nepal, including politics, business/economy, sports, entertainment, and more. RSP Convention: Hundreds eye central committee as Secretariat race takes shape As the Rastriya Swatantr\u2026",
+      "url": "https://english.khabarhub.com/2026/14/553783/",
+      "source": "Khabarhub.com",
+      "date": "2026-06-14",
+      "image": "https://english.khabarhub.com/wp-content/uploads/2024/05/News-Nutshell.jpg",
+      "category": "market"
+    },
+    {
+      "title": "NY Fed: 14% of US Households Experience Food Insecurity",
+      "description": "The government keeps telling people the economy is strong because the stock market keeps making new highs. That is the great deception behind every bubble throughout history. Wall Street is not Main Street. You can have record highs in financial assets while \u2026",
+      "url": "https://www.activistpost.com/ny-fed-14-of-us-households-experience-food-insecurity/",
+      "source": "Activistpost.com",
+      "date": "2026-06-14",
+      "image": "https://www.activistpost.com/wp-content/uploads/2026/06/Learn-about-food-insecurity-2.jpg",
+      "category": "central_bank"
     },
     {
       "title": "Michael Saylor Fires Back: 'I Never Said The Company Wouldn't Sell Its Bitcoin'",
@@ -427,7 +427,7 @@
       "platinum_usd_oz": 1760.87
     }
   ],
-  "timestamp": "2026-06-15T20:57:02.664524+05:30",
+  "timestamp": "2026-06-15T23:02:57.581980+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
