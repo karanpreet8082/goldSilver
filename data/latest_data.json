@@ -54,7 +54,7 @@
         "hold": 50
       },
       "summary": "Gold is showing positive signals. Positive daily movement of 0.0%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-16T11:40:10.063869",
+      "timestamp": "2026-06-16T14:30:00.761417",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 50
       },
       "summary": "Silver is showing positive signals. Positive daily movement of 0.2%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-16T11:40:10.166609",
+      "timestamp": "2026-06-16T14:30:00.858229",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 50
       },
       "summary": "Platinum is showing positive signals. Positive daily movement of 0.1%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-16T11:40:10.275045",
+      "timestamp": "2026-06-16T14:30:00.980891",
       "source": "rule-based"
     }
   },
@@ -125,22 +125,112 @@
   },
   "news": [
     {
-      "title": "Rupee closes at 94.56 vs USD; US-Iran peace agreement details, Fed guidance awaited",
-      "description": "The Indian rupee strengthened for the third day in a row. This rise was supported by positive sentiment and anticipation of a U.S.-Iran peace agreement. Lower oil prices also boosted the rupee. Traders are now awaiting details of the peace deal and guidance from the U.S. Federal Reserve. The rupee i",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-closes-at-94-56-vs-usd-us-iran-peace-agreement-details-fed-guidance-awaited/articleshow/131768195.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-06-16",
-      "image": "",
-      "category": "central_bank"
+      "title": "Wallet V Launches a Public Benchmark to Track AI Trading Agent Performance on Hyperliquid and Aster",
+      "description": "Wallet V, a self-custody Web3 wallet, has launched a public performance benchmark for the AI trading agents its users have configured on third-party decentralized derivatives platforms Hyperliquid and Aster. The benchmark publishes aggregate cohort performanc\u2026",
+      "url": "https://zycrypto.com/wallet-v-launches-a-public-benchmark-to-track-ai-trading-agent-performance-on-hyperliquid-and-aster/",
+      "source": "ZyCrypto",
+      "date": "2026-06-15",
+      "image": "https://zycrypto.com/wp-content/uploads/2026/06/unnamed-64.jpg",
+      "category": "market"
     },
     {
-      "title": "Explained: Why Japan's Nikkei soared to lifetime high even after BOJ hiked interest rates to 31-year high",
-      "description": "Japan's Nikkei index surged past 70,000 for the first time as the Bank of Japan raised its short-term policy rate to 1%, the highest in 31 years. The central bank's gradual tightening, coupled with diminished Middle East conflict risks, supported equities. Simultaneously, an Iran-US peace deal boost",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/explained-why-japans-nikkei-soared-to-lifetime-high-even-after-boj-hiked-interest-rates-to-31-year-high/articleshow/131765666.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-06-16",
-      "image": "",
+      "title": "Schneider Electric U.S. Manufacturing Facilities are now NEMA Make it American Certified",
+      "description": "Schneider Electric becomes the first company to secure NEMA Make it American\u2122 certifications across more than 20 of its U.S. supply chain facilities Certified facilities are in numerous states, including California, Iowa, Indiana, Kentucky, Massachusetts, Mis\u2026",
+      "url": "https://www.prnewswire.com/news-releases/schneider-electric-us-manufacturing-facilities-are-now-nema-make-it-american-certified-302800420.html",
+      "source": "PRNewswire",
+      "date": "2026-06-15",
+      "image": "https://mmx.prnewswire.com/media/MS1864156/6a218444646a7ec16a0dc213.jpg?id=OA2704728&p=facebook",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Gold Surges to Record $4,381 per Ounce as Investors Navigate US-Iran Peace Deal",
+      "description": "Gold prices soared to a record high amid the US-Iran ceasefire, driven by inflation concerns, central bank demand, and geopolitical risks, highlighting gold's enduring appeal as a safe-haven asset.",
+      "url": "https://www.ibtimes.com.au/gold-prices-record-high-us-iran-ceasefire-inflation-1870656",
+      "source": "Ibtimes.com.au",
+      "date": "2026-06-15",
+      "image": "https://d.ibtimes.com.au/en/full/1890872/gold.jpg",
       "category": "geopolitics"
+    },
+    {
+      "title": "Rethinking Career Decisions: Why College is No Longer the Unquestioned Path",
+      "description": "Long treated as the gold standard for post-secondary education, the four-year degree is no longer the unquestioned path to career success....",
+      "url": "https://www.globenewswire.com/news-release/2026/06/15/3311912/0/en/Rethinking-Career-Decisions-Why-College-is-No-Longer-the-Unquestioned-Path.html",
+      "source": "GlobeNewswire",
+      "date": "2026-06-15",
+      "image": "https://ml.globenewswire.com/Resource/Download/afc2725d-689c-4462-bb7e-24c86ad7d384",
+      "category": "metals"
+    },
+    {
+      "title": "Hasung Expands Global Reach with Advanced Precious Metal Processing Solutions",
+      "description": "SHENZHEN, China, June 15, 2026 /PRNewswire/ -- Hasung, a professional solutions provider in the field of precious metals and alloys founded in 2014, is leveraging its years of accumulated expertise in precious metal processing and independent R&D capabilities\u2026",
+      "url": "https://www.prnewswire.com/news-releases/hasung-expands-global-reach-with-advanced-precious-metal-processing-solutions-302799897.html",
+      "source": "PRNewswire",
+      "date": "2026-06-15",
+      "image": "https://mmx.prnewswire.com/media/MS1862955/00a16dd62bff4d47af95d000702b023e.jpg?id=OA2699603&p=facebook",
+      "category": "metals"
+    },
+    {
+      "title": "Dow Surges 634 Points to Record High as US-Iran Peace Deal Sparks Broad Market Relief Rally",
+      "description": "The Dow Jones Industrial Average surged over 600 points, reaching a record high, following a U.S.-Iran peace agreement that eased geopolitical tensions and boosted investor confidence in global markets.",
+      "url": "https://www.ibtimes.com.au/dow-jones-record-high-us-iran-peace-deal-1870650",
+      "source": "Ibtimes.com.au",
+      "date": "2026-06-15",
+      "image": "https://d.ibtimes.com.au/en/full/1893186/ftse-100-surges-08-today-oil-eases-markets.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Wallet V Launches Public Performance Benchmark for AI Trading Agents on Hyperliquid and Aster",
+      "description": "Road Town, British Virgin Islands, 15th June 2026, Chainwire\nThe post Wallet V Launches Public Performance Benchmark for AI Trading Agents on Hyperliquid and Aster appeared first on The Daily Hodl.",
+      "url": "https://dailyhodl.com/2026/06/15/wallet-v-launches-public-performance-benchmark-for-ai-trading-agents-on-hyperliquid-and-aster/",
+      "source": "The Daily Hodl",
+      "date": "2026-06-15",
+      "image": "https://dailyhodl.com/wp-content/uploads/2026/06/Banner_15_93_1781209740T5BRHccgqe.jpg?resize=1200,720",
+      "category": "market"
+    },
+    {
+      "title": "James Avery Reimagines the Jewelry Store for a More Personal, Experience-Led Era of Retail",
+      "description": "New store layout introduces Modern Hill Country design built around discovery, personalization and continued value of in-person shopping KERRVILLE, Texas, June 15, 2026 /PRNewswire/ -- As retailers rethink the role of physical stores in a more connected, conv\u2026",
+      "url": "https://www.prnewswire.com/news-releases/james-avery-reimagines-the-jewelry-store-for-a-more-personal-experience-led-era-of-retail-302799793.html",
+      "source": "PRNewswire",
+      "date": "2026-06-15",
+      "image": "https://mmx.prnewswire.com/media/MS1865232/26-Schertz-3-0-128836.jpg?id=OA2715707&p=facebook",
+      "category": "market"
+    },
+    {
+      "title": "\u2018In business you win some, you lose some\u2019",
+      "description": "Vedanta's chairman envisions five newly demerged companies each becoming worth $100 billion, despite business challenges.",
+      "url": "https://www.thehindubusinessline.com/companies/in-business-you-win-some-you-lose-some/article71104418.ece",
+      "source": "BusinessLine",
+      "date": "2026-06-15",
+      "image": "https://bl-i.thgim.com/public/news/ywcck9/article71104441.ece/alternates/LANDSCAPE_1200/anil.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Here Are Monday\u2019s Best Wall Street Analyst Research Calls: Accenture, Caesars Entertainment, Datadog, Dupont, Epam Systems, Ferrari, Paychex, Rocket Lab, TeraWulf, and More",
+      "description": "Pre-Market Stock Futures: Futures are exploding higher on news of a peace deal with Iran expected to be signed this Friday. This follows a historic Friday th...",
+      "url": "https://247wallst.com/investing/2026/06/15/here-are-mondays-best-wall-street-analyst-research-calls-accenture-caesars-entertainment-datadog-dupont-epam-systems-ferrari-paychex-rocket-lab-terawulf-and-more/",
+      "source": "24/7 Wall St.",
+      "date": "2026-06-15",
+      "image": "https://s.yimg.com/lo/mysterio/api/33187017114A30B0DE2100805BF6435B733C0AEB20B45AC19E833CC1B624B161/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F8338f370f249766d037be2988fc68cf3",
+      "category": "market"
+    },
+    {
+      "title": "A2GOLD COMPLETES ACQUISITION OF DISTRICT-SCALE TAYLOR SILVER-GOLD PROJECT IN NEVADA",
+      "description": "UPCOMING DRILL PROGRAM TO SUPPORT UPDATED NI 43-101 RESOURCE TONOPAH, Nev., June 15, 2026 /PRNewswire/ - A2Gold Corp. (\"A2Gold\" or the \"Company\") (TSXV: AUAU) (OTCQX: AUXXF) (FRA: RR7) is pleased to announce that it has completed the acquisition of a 100% int\u2026",
+      "url": "https://www.prnewswire.com/news-releases/a2gold-completes-acquisition-of-district-scale-taylor-silver-gold-project-in-nevada-302799497.html",
+      "source": "PRNewswire",
+      "date": "2026-06-15",
+      "image": "https://mmx.prnewswire.com/media/MS1864107/A2_Gold_Corp-A2GOLD_COMPLETES_ACQUISITION_OF_DISTRICT-SCALE_TAYL.jpg?id=OA2704577&p=facebook",
+      "category": "metals"
+    },
+    {
+      "title": "Arun Misra set to take over as Vedanta group CEO amid demerger push",
+      "description": "Hindustan Zinc chief's likely elevation comes as Vedanta lists four demerged entities and reshapes its leadership for the next phase of its restructuring.",
+      "url": "https://www.livemint.com/companies/news/arun-misra-set-to-become-vedanta-group-ceo-amid-demerger-restructuringplans-11781515048666.html",
+      "source": "Livemint",
+      "date": "2026-06-15",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/15/1600x900/logo/Arun_Misra_1717298738813_1781521860099_b7ec9b95-5b1c-40d1-ab1c-3b2af1a85faa.jpg",
+      "category": "market"
     },
     {
       "title": "Sensex today | Stock Market Highlights: Sensex gains 736 points, Nifty closes above 23,850 as US-Iran deal drives crude prices lower",
@@ -170,192 +260,129 @@
       "category": "supply_demand"
     },
     {
-      "title": "Best Blue Kitchen Cabinet Colors",
-      "description": "If you\u2019re struggling to choose the best blue kitchen cabinet colors, the right shades and undertones can help you create a kitchen that feels balanced, cohesive, and easy to style. Choosing kitchen cabinet colors can feel like a big decision,...\nThe post Best\u2026",
-      "url": "https://ablissfulnest.com/best-blue-kitchen-cabinet-colors/",
-      "source": "Ablissfulnest.com",
+      "title": "Elizabeth Warren seeks details on private equity data center deals",
+      "description": "Warren's scrutiny of private equity in utilities highlights potential consumer cost burdens and financial stability risks amid AI-driven demand.\nThe post Elizabeth Warren seeks details on private equity data center deals appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/warren-private-equity-data-center-deals/",
+      "source": "Crypto Briefing",
       "date": "2026-06-15",
-      "image": "https://ablissfulnest.com/wp-content/uploads/2026/05/blue-kitchen-cabinet-colors-featured-image.webp",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/15102939/warren-attends-a-confirmation-hearing-for-jerome-powell-who--2-800x420.jpeg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "US, Iran Say They Made Deal to Reopen Hormuz This Week",
+      "description": "The US and Iran reached an interim peace agreement to reopen the Strait of Hormuz and move further toward ending a 15-week war that\u2019s wrought chaos across the Middle East and reverberated through the global economy. #iran #trump #worldnews #politics #usa \nThe\u2026",
+      "url": "https://biztoc.com/x/336163d410344423",
+      "source": "Biztoc.com",
+      "date": "2026-06-15",
+      "image": "https://biztoc.com/cdn/336163d410344423_s.webp",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Bittam Launches No-KYC Crypto Perpetual Futures Trading with 200x Leverage and \uff04100 Deposit Bonus",
+      "description": "NEW YORK, June 15, 2026 (GLOBE NEWSWIRE) -- Bittam Exchange today announced the launch of a $300 New User Bonus for newly registered users, offering trading credits to eligible participants who complete account registration and initial trading activities on t\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/06/15/3311930/0/en/Bittam-Launches-No-KYC-Crypto-Perpetual-Futures-Trading-with-200x-Leverage-and-100-Deposit-Bonus.html",
+      "source": "GlobeNewswire",
+      "date": "2026-06-15",
+      "image": "https://ml.globenewswire.com/Resource/Download/1d97031d-1b7d-48ac-bcb1-726a40de452a",
       "category": "market"
     },
     {
-      "title": "Washington Just Started Buying Mining Companies. A Former Pentagon Advisor Explains What It Means for America's Future.",
-      "description": "When a government moves from setting policy to owning the industry, it's signaling something. Jim Rickards reads the shift. When a government moves from setting policy to owning the industry, it's signaling something. Jim Rickards reads the shift.",
-      "url": "https://www.globenewswire.com/news-release/2026/06/15/3311643/0/en/Washington-Just-Started-Buying-Mining-Companies-A-Former-Pentagon-Advisor-Explains-What-It-Means-for-America-s-Future.html",
-      "source": "GlobeNewswire",
+      "title": "Why It Doesn\u2019t Pay To Host the World Cup",
+      "description": "Countries and cities compete fiercely for the right to host the FIFA World Cup, as the quadrennial tournament promises economic booms, windfalls of tourism and global prestige. But recent polling and a new report from insurance company Atradius indicate that \u2026",
+      "url": "https://biztoc.com/x/14bc53d9b73595ef",
+      "source": "Biztoc.com",
       "date": "2026-06-15",
-      "image": null,
-      "category": "supply_demand"
-    },
-    {
-      "title": "10 Monday AM Reads",
-      "description": "My back-to-work morning train WFH reads: \u2022 Why the Enormous IPOs Won\u2019t Sink the Market. This is a potential stock market sea change. For the past 23 years, the supply of shares has been shrinking. Companies have bought back gobs of stock while turning stingy \u2026",
-      "url": "https://ritholtz.com/2026/06/10-monday-am-reads-480/",
-      "source": "Ritholtz.com",
-      "date": "2026-06-15",
-      "image": "https://ritholtz.com/wp-content/uploads/2035/05/section301.png",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Diana Shipping Inc. Addresses Genco Shipping & Trading\u2019s Last-Ditch Attempt to Cling to Poison Pill",
-      "description": "Amid Growing Opposition from Shareholders, Genco Board Continues to Further Entrench Itself by Refusing to Rescind the Poison Pill Should Shareholders Vote Against the Poison Pill as Recommended by ISS",
-      "url": "https://www.globenewswire.com/news-release/2026/06/15/3311623/10065/en/Diana-Shipping-Inc-Addresses-Genco-Shipping-Trading-s-Last-Ditch-Attempt-to-Cling-to-Poison-Pill.html",
-      "source": "GlobeNewswire",
-      "date": "2026-06-15",
-      "image": null,
+      "image": "https://biztoc.com/cdn/14bc53d9b73595ef_s.webp",
       "category": "market"
     },
     {
-      "title": "A2GOLD COMPLETES ACQUISITION OF DISTRICT-SCALE TAYLOR SILVER-GOLD PROJECT IN NEVADA",
-      "description": "UPCOMING DRILL PROGRAM TO SUPPORT UPDATED NI 43-101 RESOURCE TONOPAH, Nev., June 15, 2026 /PRNewswire/ - A2Gold Corp. (\"A2Gold\" or the \"Company\") (TSXV: AUAU) (OTCQX: AUXXF) (FRA: RR7) is pleased to announce that it has completed the acquisition of a 100% int\u2026",
-      "url": "https://www.prnewswire.com/news-releases/a2gold-completes-acquisition-of-district-scale-taylor-silver-gold-project-in-nevada-302799497.html",
-      "source": "PRNewswire",
+      "title": "Why UK data sovereignty is the next competitive advantage for digital industries",
+      "description": "Learn how sovereign cloud protects UK IP while accelerating collaboration across critical digital industries.",
+      "url": "https://www.techradar.com/pro/why-uk-data-sovereignty-is-the-next-competitive-advantage-for-digital-industries",
+      "source": "TechRadar",
       "date": "2026-06-15",
-      "image": "https://mmx.prnewswire.com/media/MS1864107/A2_Gold_Corp-A2GOLD_COMPLETES_ACQUISITION_OF_DISTRICT-SCALE_TAYL.jpg?id=OA2704577&p=facebook",
+      "image": "https://cdn.mos.cms.futurecdn.net/MuH6FdnCJqsnobznT3LSEM-2560-80.jpg",
+      "category": "market"
+    },
+    {
+      "title": "UK\u2019s High Energy Bills Prompt Factories to Consider Move Abroad",
+      "description": "Around a quarter of British factories have either moved or are considering relocating some of their output overseas because of soaring energy bills, according to an industry survey.",
+      "url": "https://financialpost.com/pmn/business-pmn/uks-high-energy-bills-prompt-factories-to-consider-move-abroad",
+      "source": "Financial Post",
+      "date": "2026-06-15",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/factories-relocating-manufacturers-asked-if-they-are-consid.jpg",
+      "category": "market"
+    },
+    {
+      "title": "China's supreme court bans Infineon from selling GaN power chips in China \u2014 market-leader Innoscience secures major victory in multi-region patent war",
+      "description": "China's Supreme People's Court on Friday upheld an injunction prohibiting Infineon from selling disputed GaN products in mainland China.",
+      "url": "https://www.tomshardware.com/tech-industry/chinas-top-court-bars-infineon-from-selling-gan-power-chips-in-china",
+      "source": "Tom's Hardware UK",
+      "date": "2026-06-15",
+      "image": "https://cdn.mos.cms.futurecdn.net/3FNNihwAzJsSj7NpGfTeuY-2000-80.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Ryan Watkins: The crypto market is healthy but uneven, landmark legislation could clarify stablecoins, and product development is essential for growth | Empire",
+      "description": "Landmark legislation like the Clarity Act could redefine stablecoin regulations and boost institutional crypto adoption.\nThe post Ryan Watkins: The crypto market is healthy but uneven, landmark legislation could clarify stablecoins, and product development is\u2026",
+      "url": "https://cryptobriefing.com/ryan-watkins-the-crypto-market-is-healthy-but-uneven-landmark-legislation-could-clarify-stablecoins-and-product-development-is-essential-for-growth-empire/",
+      "source": "Crypto Briefing",
+      "date": "2026-06-15",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2025/12/24141159/empire-podcast-featured-800x420.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Happy birthday to the Trump phone",
+      "description": "From the day it was announced, on June 16th, 2025, the Trump phone sounded ridiculous. The T1 Phone 8002 (gold version), as it was officially called, was a combination of contradictory specs, product images that were clearly not photographs of a real phone, a\u2026",
+      "url": "https://www.theverge.com/policy/949093/trump-mobile-t1-phone-one-year-anniversary",
+      "source": "The Verge",
+      "date": "2026-06-15",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268568_Trump_phone_1_year_AKRALES3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "category": "metals"
     },
     {
-      "title": "Arun Misra set to take over as Vedanta group CEO amid demerger push",
-      "description": "Hindustan Zinc chief's likely elevation comes as Vedanta lists four demerged entities and reshapes its leadership for the next phase of its restructuring.",
-      "url": "https://www.livemint.com/companies/news/arun-misra-set-to-become-vedanta-group-ceo-amid-demerger-restructuringplans-11781515048666.html",
-      "source": "Livemint",
+      "title": "Calgary Sun Letters, June 15: 'Canadian health care comes up short'",
+      "description": "Calgary Sun Letters to the Editor, June 15, 2026: 'Canadian health care comes up short'",
+      "url": "https://calgarysun.com/opinion/letters/letters-june-15-2026-canadian-health-care-comes-up-short",
+      "source": "Calgary Sun",
       "date": "2026-06-15",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/15/1600x900/logo/Arun_Misra_1717298738813_1781521860099_b7ec9b95-5b1c-40d1-ab1c-3b2af1a85faa.jpg",
+      "image": "https://smartcdn.gprod.postmedia.digital/calgarysun/wp-content/uploads/2026/06/wheelchair-for-letters.jpg",
       "category": "market"
     },
     {
-      "title": "Thesis Gold & Silver Announces Change of Auditor",
-      "description": "VANCOUVER, BC, June 15, 2026 /PRNewswire/ - Thesis Gold & Silver Inc. (\"Thesis\", or the \"Company\") (TSXV: TAU) (OTCQX: THSGF) (FSE: A422AH) announces that the Board of Directors of the Company has appointed Deloitte LLP as the Company's new auditor (the \"Succ\u2026",
-      "url": "https://www.prnewswire.com/news-releases/thesis-gold--silver-announces-change-of-auditor-302799668.html",
-      "source": "PRNewswire",
+      "title": "'I screamed': A mother's grief as drug overdose deaths hit record high",
+      "description": "Australia recorded its deadliest year on record for drug overdoses, according to a new analysis, with an average of seven deaths per day.",
+      "url": "https://www.abc.net.au/news/2026-06-16/australian-drug-overdose-deaths-hit-record-high/106797862",
+      "source": "ABC News (AU)",
       "date": "2026-06-15",
-      "image": "https://mmx.prnewswire.com/media/MS1795049/Thesis_Gold_-_Silver_Inc--Thesis_Gold_-_Silver_Announces_Change.jpg?id=OA2704747&p=facebook",
-      "category": "metals"
-    },
-    {
-      "title": "Nord Precious Metals to Present at the June 16, 2026 Energy & Precious Metals Virtual Investor Summit",
-      "description": "Company invites individual and institutional investors, as well as advisors and analysts, to attend online at VirtualInvestorConferences.com Company invites individual and institutional investors, as well as advisors and analysts, to attend online at VirtualI\u2026",
-      "url": "https://www.globenewswire.com/news-release/2026/06/15/3311653/0/en/Nord-Precious-Metals-to-Present-at-the-June-16-2026-Energy-Precious-Metals-Virtual-Investor-Summit.html",
-      "source": "GlobeNewswire",
-      "date": "2026-06-15",
-      "image": "https://ml.globenewswire.com/Resource/Download/861fb541-7064-4cf4-a563-37472ff71760",
-      "category": "metals"
-    },
-    {
-      "title": "How to Watch the Spain vs. Cabo Verde FIFA World Cup Match Live for Free",
-      "description": "Spain's first and only World Cup triumph came in 2010. Can they do it again? Here's how to watch their first FIFA World Cup 2026 game using a streaming subscription or VPN.\nThe FIFA World Cup 2026 has gotten off to a rollicking start, with fans across the glo\u2026",
-      "url": "https://uk.pcmag.com/video-streaming-services/165581/how-to-watch-the-spain-vs-cabo-verde-fifa-world-cup-match-live-for-free",
-      "source": "PCMag.com",
-      "date": "2026-06-15",
-      "image": "https://sm.pcmag.com/t/pcmag_uk/news/h/how-to-wat/how-to-watch-the-spain-vs-cabo-verde-fifa-world-cup-match-li_keym.1200.jpg",
+      "image": "https://live-production.wcms.abc-cdn.net.au/f982da5d954227a0218dd4472ba155d0?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
       "category": "market"
     },
     {
-      "title": "Ukrainian man pleads guilty in US to Conti ransomware charges",
-      "description": "The guilty plea highlights ongoing global efforts to combat cybercrime and the critical role of blockchain analytics in tracing illicit funds.\nThe post Ukrainian man pleads guilty in US to Conti ransomware charges appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/ukrainian-conti-ransomware-guilty-plea/",
-      "source": "Crypto Briefing",
+      "title": "Inefficiency and inequity of the law review submission system",
+      "description": "Where a legal scholar works shapes publication outcomes nearly as much as what they write. Law reviews, the primary publication market for legal scholarship in the United States, are run by student editors who face thousands of submissions for a handful of sl\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0351410",
+      "source": "Plos.org",
       "date": "2026-06-15",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/15073921/conti-ransomware-leaks-800x420.jpeg",
+      "image": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0351410.g010&size=inline",
+      "category": "market"
+    },
+    {
+      "title": "Warsh's Fed is likely to hold rates steady \u2014 what the leadership change could mean for your money",
+      "description": "The Federal Reserve is expected to hold interest rates steady at its policy meeting this week \u2014 the first helmed by new Fed Chair Kevin Warsh \u2014 doing little to ease the affordability concerns plaguing many U.S. households.\nPresident Donald Trump's pick to lea\u2026",
+      "url": "https://biztoc.com/x/6bcfa8dd776035ab",
+      "source": "Biztoc.com",
+      "date": "2026-06-15",
+      "image": "https://biztoc.com/cdn/6bcfa8dd776035ab_s.webp",
       "category": "geopolitics"
     },
     {
-      "title": "Macron to discuss tariffs with Trump, calls them useless for all countries involved",
-      "description": "Macron's stance against tariffs highlights potential global economic disruptions, urging a reevaluation of trade policies to prevent market instability.\nThe post Macron to discuss tariffs with Trump, calls them useless for all countries involved appeared firs\u2026",
-      "url": "https://cryptobriefing.com/macron-trump-tariffs-discussion/",
-      "source": "Crypto Briefing",
-      "date": "2026-06-15",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/15073915/https-upload-wikimedia-org-wikipedia-commons-d-d5-emmanuel-m-1-800x420.jpeg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Fox to acquire Roku in $22bn deal",
-      "description": "US media giant Fox is to acquire a majority stake in Roku in a deal that values the streaming service at US$22bn. Fox and Roku said they have entered into a definitive agreement under which Fox will ac...",
-      "url": "https://www.c21media.net/news/fox-to-acquire-roku-in-22bn-deal/",
-      "source": "C21media.net",
-      "date": "2026-06-15",
-      "image": "https://cdn.c21media.net/wp-content/uploads/2025/09/lachlan-murdoch-2.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Fox buying streaming platform Roku in cash-and-stock deal worth about $22 billion",
-      "description": "Fox Corp. is buying streaming platform Roku in a cash-and-stock deal valued at approximately $22 billion. The deal will give Fox access to the Roku Channel, first-party data and more than 100 million global streaming households. Fox is a media giant that incl\u2026",
-      "url": "https://www.seattlepi.com/entertainment/article/fox-buying-streaming-platform-roku-in-22305446.php",
-      "source": "seattlepi.com",
+      "title": "Dems\u2019 Unbridled Pursuit of Power Can\u2019t Be Airbrushed Away",
+      "description": "The Democrats\u2019 disquieting quest for power at the cost of our democratic principles cannot credibly be denied or rebutted by inapt whataboutisms. During the 40 years from John Kennedy\u2019s inauguration in 1961, four Republicans served a total of 22 years as pres\u2026",
+      "url": "https://freerepublic.com/focus/f-chat/4383835/posts",
+      "source": "Freerepublic.com",
       "date": "2026-06-15",
       "image": null,
-      "category": "market"
-    },
-    {
-      "title": "Apple Drops New AirPods Pro 3 Ad Featuring Vini Jr. to Highlight ANC",
-      "description": "The 30-second ad shows Vini Jr. dancing to a song viewers are unable to hear. Instead, viewers hear the noisy environments, highlighting the buds' ANC.\nThe post Apple Drops New AirPods Pro 3 Ad Featuring Vini Jr. to Highlight ANC first appeared on iPhone in C\u2026",
-      "url": "https://www.iphoneincanada.ca/2026/06/15/apple-drops-new-airpods-pro-3-vini-jr/",
-      "source": "iPhone in Canada",
-      "date": "2026-06-15",
-      "image": "https://cdn.iphoneincanada.ca/wp-content/uploads/2026/06/Apple-Drops-New-AirPods-Pro-3-Ad-Featuring-Vini-Jr-to-Highlight-ANC_447966_1c06f.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Czech Republic vs South Africa Prediction: World Cup 2026 Preview & Best Bets",
-      "description": "Both sides arrive at Mercedes-Benz Stadium with their World Cup 2026 campaigns on the line \u2014 Czech Republic needing a response after their opening defeat, South Africa desperate to avoid a repeat of...",
-      "url": "https://thecelticstar.com/czech-republic-v-south-africa-predictions/",
-      "source": "The Celtic Star",
-      "date": "2026-06-15",
-      "image": "https://s.yimg.com/lo/mysterio/api/1a691840afa7e74b03f48774dfe2baef5c92c412e27c0dd9228e9647516395f9/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_celtic_star_articles_180%2F4cc120c5df9931a5805934ae00afd61e",
-      "category": "market"
-    },
-    {
-      "title": "Kevin Warsh\u2019s debut Fed press conference may outline inflation strategy",
-      "description": "Warsh's approach could lead to tighter monetary conditions, impacting market stability and investor strategies, especially in crypto sectors.\nThe post Kevin Warsh\u2019s debut Fed press conference may outline inflation strategy appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/kevin-warsh-fed-inflation-strategy/",
-      "source": "Crypto Briefing",
-      "date": "2026-06-15",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/15073118/kevin-warsh-arrives-for-his-senate-banking-housing-and-urban-6-800x420.jpeg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "ICE Took Mom and Dad. Now the Perez Kids Are Home Alone.",
-      "description": "As her older siblings prepare breakfast, 13-year-old Cynthia Perez waits at the kitchen table, not very hungry. \u201cI\u2019m nervous,\u201d she tells her mom\u2019s friend Mariana Blanco, who gently brushes the girl\u2019s long brown hair. \u201cI know you are, love,\u201d Blanco says. \u201cIt\u2019s\u2026",
-      "url": "https://www.motherjones.com/politics/2026/06/trump-family-separations-data-us-citizens-children-immigrant-parents-ice-obama-biden-policies/",
-      "source": "Mother Jones",
-      "date": "2026-06-15",
-      "image": "https://www.motherjones.com/wp-content/uploads/2026/05/514_SEPARATIONS_2000.jpg?w=1200&h=630&crop=1",
-      "category": "market"
-    },
-    {
-      "title": "Iran, US agree tentative deal to \u2018end war\u2019: Your questions answered",
-      "description": "Uncertainty remains over whether Israel will honour the agreement.",
-      "url": "https://www.aljazeera.com/news/2026/6/15/iran-us-agree-tentative-deal-to-end-war-your-questions-answered",
-      "source": "Al Jazeera English",
-      "date": "2026-06-15",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-10T071204Z_717777840_RC2TQLA179NO_RTRMADP_3_IRAN-CRISIS-1781082766_fa2a1e-1781430001.jpg?resize=1920%2C1440",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Gold jumps, investors keep their eyes on central banks",
-      "description": "Gold prices jumped above $4,300 an ounce on June 15 extending gains after the U.S. and Iran reached a peace agreement.",
-      "url": "https://www.hurriyetdailynews.com/gold-jumps-investors-keep-their-eyes-on-central-banks-223304",
-      "source": "Hurriyet Daily News",
-      "date": "2026-06-15",
-      "image": "https://image.hurimg.com/i/hurriyet/75/200x200/6a2fdde80a40645c63b3af1b.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "Indiana Earns Top Marks, New York Falls Short: Realtor.com\u00ae's 2026 State Report Cards for Homebuilding, Affordability Reveal a Nation Divided",
-      "description": "South and Midwest sweep every A and B grade; New York falls to last place with a score of 8.5 out of 100; Northeast ranks among the lowest performing nationally AUSTIN, Texas, June 15, 2026 /PRNewswire/ -- Indiana just claimed America's top housing market tit\u2026",
-      "url": "https://www.prnewswire.com/news-releases/indiana-earns-top-marks-new-york-falls-short-realtorcoms-2026-state-report-cards-for-homebuilding-affordability-reveal-a-nation-divided-302799810.html",
-      "source": "PRNewswire",
-      "date": "2026-06-15",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "Consumer vs creditor: B.C. condo court battle to focus on rights of pre-sale purchasers",
-      "description": "Consumers and creditors of a troubled Burnaby condo project will face off in the B.C. Supreme Court this week in a legal battle over the rights of pre-sale condo purchasers looking for a way out of their contracts.",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/condo-thind-court-redma-ccaa-9.7233581",
-      "source": "CBC News",
-      "date": "2026-06-15",
-      "image": "https://i.cbc.ca/ais/207f966c-0b96-4df9-a818-4f1202093dd5,1781286604075/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C257%2C4944%2C2781%29%3BResize%3D620",
       "category": "market"
     },
     {
@@ -366,33 +393,6 @@
       "date": "2026-06-15",
       "image": "",
       "category": "geopolitics"
-    },
-    {
-      "title": "Gold and glitter - The Hindu",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOOTNTbVYwTFRMWnAzRFZyRVVOVDhnZnc4c282eVRjblJ5UmJ0MTFVQ1V5d3I4dGs5c1RuMGd4Y0xDMVU3Q2lVSFozWTFMZ3p1R3AyLWhTZW5uajVVcDJDN0N3MWdOTEtJWldfVFlxZ0hxdXhfdkJRUEZISndWVUVZcGtRdzJrZnB5ekVZVtIBjAFBVV95cUxOOTNTbVYwTFRMWnAzRFZyRVVOVDhnZnc4c282eVRjblJ5Um",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOTNTbVYwTFRMWnAzRFZyRVVOVDhnZnc4c282eVRjblJ5UmJ0MTFVQ1V5d3I4dGs5c1RuMGd4Y0xDMVU3Q2lVSFozWTFMZ3p1R3AyLWhTZW5uajVVcDJDN0N3MWdOTEtJWldfVFlxZ0hxdXhfdkJRUEZISndWVUVZcGtRdzJrZnB5ekVZVtIBjAFBVV95cUxOOTNTbVYwTFRMWnAzRFZyRVVOVDhnZnc4c282eVRjblJ5UmJ0MTFVQ1V5d3I4dGs5c1RuMGd4Y0xDMVU3Q2lVSFozWTFMZ3p1R3AyLWhTZW5uajVVcDJDN0N3MWdOTEtJWldfVFlxZ0hxdXhfdkJRUEZISndWVUVZcGtRdzJrZnB5ekVZVg?oc=5",
-      "source": "Google News - Precious Metals",
-      "date": "2026-06-13",
-      "image": "",
-      "category": "metals"
-    },
-    {
-      "title": "Gold and silver prices crash explained: What happens next - KITCO",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPTXAxbWltUEpqenMyMjI3UHptYzE4b0dmSnRUUlVlTzQ1QjE0LTc0MGdtV0NYZ1h5UGhnRGdsN1pCOFg5YlFvVHRQaHZibTlWLXZNYTEwNXdiVHNzNVFTWWZxdkZ5dTdyX3M0cGlRUllNWDk0bmJDNTk3YjNpWWp5ZElfb1d6SzNYTEdqWkxxTVAtX1ZlemdGajQ4OHV2dw?oc=5\" target=\"_blank\">Gold and silv",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTXAxbWltUEpqenMyMjI3UHptYzE4b0dmSnRUUlVlTzQ1QjE0LTc0MGdtV0NYZ1h5UGhnRGdsN1pCOFg5YlFvVHRQaHZibTlWLXZNYTEwNXdiVHNzNVFTWWZxdkZ5dTdyX3M0cGlRUllNWDk0bmJDNTk3YjNpWWp5ZElfb1d6SzNYTEdqWkxxTVAtX1ZlemdGajQ4OHV2dw?oc=5",
-      "source": "Google News - Precious Metals",
-      "date": "2026-06-12",
-      "image": "",
-      "category": "metals"
-    },
-    {
-      "title": "Precious Metal Scrap Prices Decline: Gold, Silver, Platinum Down | ScrapMonster Report - News and Statistics - IndexBox",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxORGt5RGQzVWd3NWtVSms3SkZxVWRMTU1kSG42ZWVyTHZ1dkh3Q3Bhak5qLUIzM2plVUFuU295a2FZeTBrb2ZGRzVJbmxiZlVlbXVIbnlUdUxuSzVxSzJhX1pYU2JIblZIUktaeHVkRHJvTWI1RXMyMy1BdVBJdmRQb2FGMTVzcG5VS01aMk5KM2RNaV9xNDBLbkxUMjVOX3c?oc=5\" target=\"_blank\">Precious Met",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORGt5RGQzVWd3NWtVSms3SkZxVWRMTU1kSG42ZWVyTHZ1dkh3Q3Bhak5qLUIzM2plVUFuU295a2FZeTBrb2ZGRzVJbmxiZlVlbXVIbnlUdUxuSzVxSzJhX1pYU2JIblZIUktaeHVkRHJvTWI1RXMyMy1BdVBJdmRQb2FGMTVzcG5VS01aMk5KM2RNaV9xNDBLbkxUMjVOX3c?oc=5",
-      "source": "Google News - Precious Metals",
-      "date": "2026-06-12",
-      "image": "",
-      "category": "platinum"
     }
   ],
   "history": [
@@ -427,7 +427,7 @@
       "platinum_usd_oz": 1760.87
     }
   ],
-  "timestamp": "2026-06-16T17:10:10.288151+05:30",
+  "timestamp": "2026-06-16T20:00:00.993876+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
