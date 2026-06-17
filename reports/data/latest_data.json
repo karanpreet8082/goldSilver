@@ -54,7 +54,7 @@
         "hold": 50
       },
       "summary": "Gold is showing positive signals. Positive daily movement of 0.0%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-17T11:20:52.857425",
+      "timestamp": "2026-06-17T13:00:09.485817",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 50
       },
       "summary": "Silver is showing positive signals. Positive daily movement of 0.2%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-17T11:20:52.984141",
+      "timestamp": "2026-06-17T13:00:09.581729",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 50
       },
       "summary": "Platinum is showing positive signals. Positive daily movement of 0.1%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-17T11:20:53.052169",
+      "timestamp": "2026-06-17T13:00:09.670212",
       "source": "rule-based"
     }
   },
@@ -125,6 +125,42 @@
   },
   "news": [
     {
+      "title": "Quote of the day by Bill Miller: \"By the time market declines (or advances) are front-page news, they usually have run their course.\"",
+      "description": "Bill Miller\u2019s quote highlights how markets often move ahead of news coverage, leaving latecomers exposed to poor timing. The piece explains why headline-driven investing can be risky, emphasises the role of sentiment, and underlines the importance of independent thinking, discipline and a forward-lo",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-bill-miller-by-the-time-market-declines-or-advances-are-front-page-news-they-usually-have-run-their-course-/articleshow/131786453.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-06-17",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "FED Meeting Live | Dow Jones | US Stock Market Live: S&amp;P, Nasdaq futures edge higher ahead of Warsh's first Fed meeting",
+      "description": "",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-rate-meeting-live-updates-dow-jones-stock-market-live-updates-nasdaq-sp-500-kevin-warsh-fomc-us-iran-israel-war-hormuz-deal-brent-crude-inflation-jobs-spacex-carmx-ai-chip-stock-news/liveblog/131800516.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-06-17",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "India bonds pause oil-led rally ahead of Fed verdict",
+      "description": "Indian government bonds saw their rally pause on Wednesday. Oil prices stabilized, and the US Federal Reserve's upcoming policy decision kept investors cautious. The benchmark 10-year bond yield hovered near a 12-week low. Traders are now awaiting the Fed's verdict. Hawkish guidance could impact for",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-pause-oil-led-rally-ahead-of-fed-verdict/articleshow/131800388.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-06-17",
+      "image": "",
+      "category": "central_bank"
+    },
+    {
+      "title": "Yes Bank among 6 stocks that hit 52-week highs &amp; rallied up to 15% in a month",
+      "description": "Six BSE 200 stocks, including CG Power, Federal Bank, Yes Bank, Polycab India, Varun Beverages and Pidilite Industries, scaled fresh 52-week highs as the Sensex advanced 347 points.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/yes-bank-among-6-stocks-that-hit-52-week-highs-amp-rallied-up-to-15-in-a-month/slideshow/131800373.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-06-17",
+      "image": "",
+      "category": "central_bank"
+    },
+    {
       "title": "Raghuram Rajan's warning to India after Hormuz shock: Build bigger oil reserves, diversify faster",
       "description": "Global economic shocks from trade disruptions and geopolitical tensions are reshaping resilience, according to Raghuram Rajan. He stresses India's need for larger strategic oil reserves and diversified import/export markets. Rajan also highlights the rupee's depreciation linked to low foreign invest",
       "url": "https://economictimes.indiatimes.com/markets/expert-view/raghuram-rajans-warning-to-india-after-hormuz-shock-build-bigger-oil-reserves-diversify-faster/articleshow/131797897.cms",
@@ -143,31 +179,40 @@
       "category": "currency"
     },
     {
-      "title": "Rupee closes flat at 94.52 vs USD as oil-led rally faces off against dollar demand; Fed verdict looms",
-      "description": "The Indian rupee closed almost flat against the US dollar on Wednesday. Earlier gains were erased as corporate and importer demand for dollars increased. A significant drop in oil prices had initially boosted the rupee. Market focus now shifts to the US Federal Reserve's policy decision. Commentary ",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-closes-flat-at-94-52-vs-usd-as-oil-led-rally-faces-off-against-dollar-demand-fed-verdict-looms/articleshow/131796362.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-06-17",
-      "image": "",
-      "category": "central_bank"
+      "title": "Posthaste: The province leading RBC\u2019s growth forecast by a mile might surprise you",
+      "description": "Only one Canadian province will buck the national trend of decelerating growth this year, says RBC, and nope, it's not Alberta. Read more",
+      "url": "https://financialpost.com/news/this-province-leads-rbc-growth-forecasts",
+      "source": "Financial Post",
+      "date": "2026-06-16",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/newfoundland-0616-ph.jpg",
+      "category": "market"
     },
     {
-      "title": "Japan's Nikkei closes at record high near 70,000 on AI boost",
-      "description": "Japan's Nikkei share index hit a new record high for the third day running on Wednesday. The index closed just below the 70,000 mark. Easing Middle East conflict worries and strong buying in AI stocks boosted the market. Investors are also awaiting the US Federal Reserve's policy decision. Oil price",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/japans-nikkei-closes-at-record-high-near-70000-on-ai-boost/articleshow/131795253.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-06-17",
-      "image": "",
-      "category": "geopolitics"
+      "title": "Building Reliable Agentic AI Systems",
+      "description": "AI helping pharmaceutical researchers query decades of information buried in PDF reports",
+      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "source": "Martinfowler.com",
+      "date": "2026-06-16",
+      "image": "https://martinfowler.com/articles/reliable-llm-bayer/card.png",
+      "category": "market"
     },
     {
-      "title": "Global Markets| European shares flat as investors await Iran deal details, Fed policy; BMW slides",
-      "description": "European markets held firm today, with investors keenly awaiting developments regarding potential peace talks between the U.S. and Iran, alongside insights into the Federal Reserve's monetary policy. While automotive shares took a hit after BMW issued a profit warning, gains in the tech and defense ",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-european-shares-flat-as-investors-await-iran-deal-details-fed-policy-bmw-slides/articleshow/131795164.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-06-17",
-      "image": "",
-      "category": "geopolitics"
+      "title": "Diana Shipping Inc. Reminds Genco Shipping & Trading Shareholders to Cast Their Vote for Independent, Fresh Perspectives in the Boardroom Ahead of Annual Meeting on June 18",
+      "description": "Raises Serious Questions About Governance Changes Designed to Benefit and Protect John Wobensmith Following His Appointment as Chairman  Shareholders Have...",
+      "url": "https://www.globenewswire.com/news-release/2026/06/16/3312544/10065/en/Diana-Shipping-Inc-Reminds-Genco-Shipping-Trading-Shareholders-to-Cast-Their-Vote-for-Independent-Fresh-Perspectives-in-the-Boardroom-Ahead-of-Annual-Meeting-on-June-18.html",
+      "source": "GlobeNewswire",
+      "date": "2026-06-16",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "Bitget lists AIVIVE (AVV) for Spot Trading",
+      "description": "Bitget lists AIVIVE (AVV) for spot trading, expanding AI zone access to on-chain generative AI and creator-focused value capture....",
+      "url": "https://www.globenewswire.com/news-release/2026/06/16/3312462/0/en/Bitget-lists-AIVIVE-AVV-for-Spot-Trading.html",
+      "source": "GlobeNewswire",
+      "date": "2026-06-16",
+      "image": "https://ml-eu.globenewswire.com/Resource/Download/501d2793-21e1-4016-a3de-3d0f6cb90202",
+      "category": "market"
     },
     {
       "title": "15 Best Office Chairs of 2026\u2014 We Tested 70 to Pick Them",
@@ -188,49 +233,31 @@
       "category": "geopolitics"
     },
     {
-      "title": "Gold prices today, Tuesday, June 16: Prices firming ahead of Fed meeting",
-      "description": "Gold August futures opened at $4,331.30 per troy ounce on Tuesday, down 0.5% from Monday's closing price. The price of gold edged higher this morning, shifti...",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-june-16-prices-firming-ahead-of-fed-meeting-105335448.html",
-      "source": "Yahoo Entertainment",
+      "title": "Poland Floats \u2018Copper Valley\u2019 Idea as Lumina Metals Surges on Warsaw Bourse Debut",
+      "description": "Poland aims to join the ranks of the world\u2019s top copper producers as new mines planned by Canada\u2019s Lumina Metals Corp. in the eastern European country are poised to more than double output from state-controlled giant KGHM Polska Miedz SA.",
+      "url": "https://financialpost.com/pmn/business-pmn/poland-floats-copper-valley-idea-as-lumina-metals-surges-on-warsaw-bourse-debut",
+      "source": "Financial Post",
       "date": "2026-06-16",
-      "image": "https://s.yimg.com/lo/mysterio/api/C956A89ADFE402C080BAC4C43D2F0DAD68F88C68BA2C37221C8AB1D70F3E1FE2/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Ftuesday.png",
-      "category": "central_bank"
-    },
-    {
-      "title": "Paused mutual fund investments during the war? Experts suggest what to do now",
-      "description": "For investors who have remained on the sidelines, experts say the bigger risk may not be short-term volatility, but allowing cash positions to remain uninvested for too long while waiting for perfect conditions that rarely arrive.",
-      "url": "https://www.livemint.com/money/personal-finance/paused-mutual-fund-investments-during-the-war-experts-suggest-what-to-do-now-11781601254101.html",
-      "source": "Livemint",
-      "date": "2026-06-16",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/16/1600x900/logo/pexels-photo-20843727_1781602224447_1781602240993_96029290-9d12-4bf1-8749-6d2e6b2e6100.jpeg",
+      "image": null,
       "category": "geopolitics"
     },
     {
-      "title": "Sensex today | Stock Market Highlights: Sensex gains 544 pts, Nifty settles at 23,989 on US-Iran peace deal",
-      "description": "Sensex, Nifty, Share Prices Highlights: Indian shares closed higher on Tuesday, advancing for a \u200bthird straight session, as a preliminary U.S.-Iran peace deal \u200ccooled oil prices and improved risk appetite.",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-16-june-2026/article71104678.ece",
-      "source": "BusinessLine",
+      "title": "Brixton Metals Drills 906 g/t Silver over 4.3 m, including 1,329 g/t Silver over 1.8 m, all within 23.7 m of 206.6 g/t Silver at its Langis Project And 4.95 m of 493 g/t silver, including 1,798 g/t silver over 1.0 m",
+      "description": "VANCOUVER, British Columbia, June 16, 2026 (GLOBE NEWSWIRE) \u2014 Brixton Metals Corporation (TSX-V: BBB, OTCQX: BBBXF) (the \u201cCompany\u201d or \u201cBrixton\u201d) is pleased to announce results from its ongoing exploration at the wholly owned Langis Silver Project, located in \u2026",
+      "url": "https://financialpost.com/globe-newswire/brixton-metals-drills-906-g-t-silver-over-4-3-m-including-1329-g-t-silver-over-1-8-m-all-within-23-7-m-of-206-6-g-t-silver-at-its-langis-project-and-4-95-m-of-493-g-t-silver-including-1798-g-t-si",
+      "source": "Financial Post",
       "date": "2026-06-16",
-      "image": "https://bl-i.thgim.com/public/incoming/6brymr/article71104682.ece/alternates/LANDSCAPE_1200/IMG_PO14_curve_graph_2_1_UTG41J80.jpg",
-      "category": "market"
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/figure-1-18.png",
+      "category": "metals"
     },
     {
-      "title": "Sovereign gold bond redemption tax rules: Do you need to declare it while filing ITR?",
-      "description": "Sovereign gold bonds offer exposure to gold without storing physical bullion, issued by RBI. Investors must be aware of the tax implications, as capital gains exemption applies only for original subscribers holding until maturity. Details here.",
-      "url": "https://www.livemint.com/money/personal-finance/sovereign-gold-bond-redemption-tax-rules-do-you-need-to-declare-it-while-filing-itr-11781601972960.html",
-      "source": "Livemint",
+      "title": "First Mining Announces Springpole Project Authorization from Cat Lake First Nation and Lac Seul First Nation Following the Completion of the Anishnaabe Led Impact Assessment",
+      "description": "Cat Lake First Nation and Lac Seul First Nation have completed their groundbreaking Anishnaabe Led Impact Assessment Process and authorize the Springpole Gold Project subject to 35 negotiated terms First Mining, Cat Lake First Nation and Lac Seul First Nation\u2026",
+      "url": "https://www.prnewswire.com/news-releases/first-mining-announces-springpole-project-authorization-from-cat-lake-first-nation-and-lac-seul-first-nation-following-the-completion-of-the-anishnaabe-led-impact-assessment-302801573.html",
+      "source": "PRNewswire",
       "date": "2026-06-16",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/16/1600x900/logo/SGB_vs_PPF_vs_Bank_FD_1707811030515_1781603511255_87ab82b1-fadc-421c-b1ec-9cc7951d0052.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Bill Ackman Aghast Bernie Sanders Isn\u2019t Pro-Trillionaire",
-      "description": "Hedge-fund billionaire Bill Ackman suggests we all should be applauding Elon Musk and his contributions to humanity.",
-      "url": "http://nymag.com/intelligencer/article/bill-ackman-bernie-sanders-trillionaire-elon-musk.html",
-      "source": "New York Magazine",
-      "date": "2026-06-16",
-      "image": "https://pyxis.nymag.com/v1/imgs/34b/7c8/75c8fa400089c3b02fca1de667e45f1305-Bernie-Bill.1x.rsocial.w1200.jpg",
-      "category": "market"
+      "image": "https://mmx.prnewswire.com/media/MS1481257/First_Mining_Gold_Corp--First_Mining_Announces_Springpole_Projec.jpg?id=OA2718955&p=facebook",
+      "category": "supply_demand"
     },
     {
       "title": "Silver prices today, Tuesday, June 16: Best opening price in over a week ahead of Fed meeting",
@@ -260,138 +287,111 @@
       "category": "supply_demand"
     },
     {
-      "title": "MEXC Ranks No.1 in Silver Futures Liquidity, Saving Users $240M Through 0-Fee Trading in May",
-      "description": "VICTORIA, Seychelles, June 16, 2026 /PRNewswire/ -- MEXC, a pioneer in 0-fee digital asset trading, announced key highlights for May 2026. According to TokenInsight's Crypto Exchange Liquidity Report, MEXC ranked first globally in silver futures liquidity, an\u2026",
-      "url": "https://www.prnewswire.com/news-releases/mexc-ranks-no1-in-silver-futures-liquidity-saving-users-240m-through-0-fee-trading-in-may-302801486.html",
-      "source": "PRNewswire",
+      "title": "Carr\u00e9 Otis Has Opened a Door for Survivors of Abuse in the Modeling Industry. Will Others Walk Through It?",
+      "description": "A new legal door opened earlier this month in the fight for survivor justice. But it's not in the United States, where survivors and advocates continue to press for transparency and investigations into Jeffrey Epstein's larger network and the modeling industr\u2026",
+      "url": "https://msmagazine.com/2026/06/16/carre-otis-epstein-trump-lawsuit-survivors-statute-limitations-women-modeling-france-florida/",
+      "source": "Ms. Magazine",
       "date": "2026-06-16",
-      "image": "https://mmx.prnewswire.com/media/MS1866795/d3b838cc6bbd4196a221b4f54f8e3f83.jpg?id=OA2719526&p=facebook",
-      "category": "metals"
-    },
-    {
-      "title": "Gold, silver price: The yellow metal strengthens and silver weakens; see rates in your city",
-      "description": "In the midst of cooling tension in West Asia and signs of relief in global markets, gold and silver prices have shown divergent trends. Gold is trading with a slight gain, while silver is under pressure today.",
-      "url": "https://www.news9live.com/business/personal-finance/gold-silver-price-the-yellow-metal-strengthens-and-silver-weakens-see-rates-in-your-city-2980586",
-      "source": "News9live.com",
-      "date": "2026-06-16",
-      "image": "https://images.news9live.com/wp-content/uploads/2026/06/gold-silver-getty-4.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Diplomats and abuse \u2014 chipping at the shield of immunity",
-      "description": "Domestic workers who were mistreated by diplomats are often denied justice due to their abusers enjoying diplomatic immunity. But court rulings in the UK and Switzerland have paved the way for change.",
-      "url": "https://www.dw.com/en/diplomats-and-abuse-chipping-at-the-shield-of-immunity/a-77575633",
-      "source": "DW (English)",
-      "date": "2026-06-16",
-      "image": "https://static.dw.com/image/77577496_6.jpg",
+      "image": "https://msmagazine.com/wp-content/uploads/2026/06/GettyImages-1235107575.jpg",
       "category": "market"
     },
     {
-      "title": "Diplomats and abuse \u2014 chipping at the shied of immunity",
-      "description": "Domestic workers who were mistreated by diplomats are often denied justice due to their abusers enjoying diplomatic immunity. But court rulings in the UK and Switzerland have paved the way for change.",
-      "url": "https://www.dw.com/en/diplomats-and-abuse-chipping-at-the-shied-of-immunity/a-77575633",
-      "source": "DW (English)",
+      "title": "Central banks look to increase gold reserves in coming year: WGC survey",
+      "description": "Central banks plan to increase gold reserves amid economic uncertainty, with 89% expecting higher holdings in the next year.",
+      "url": "https://www.thehindubusinessline.com/markets/gold/central-banks-look-to-increase-gold-reserves-in-coming-year-wgc-survey/article71108804.ece",
+      "source": "BusinessLine",
       "date": "2026-06-16",
-      "image": "https://static.dw.com/image/77577496_6.jpg",
-      "category": "market"
-    },
-    {
-      "title": "HPE adds Juniper programmes into the unified channel offering",
-      "description": "Vendor will widen the scope of its Partner Ready Vantage programme even further to encourage portfolio selling",
-      "url": "https://www.computerweekly.com/microscope/news/366644514/HPE-adds-Juniper-programmes-into-the-unified-channel-offering",
-      "source": "ComputerWeekly.com",
-      "date": "2026-06-16",
-      "image": "https://www.computerweekly.com/visuals/German/article/umbrella-protection-adobe.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Perodua QV-E vs Proton eMas 5 \u2013 now with much lower pricing, can P2\u2019s EV finally properly compete?",
-      "description": "Perodua\u2019s first EV \u2013 and its first fully homegrown product \u2013 hasn\u2019t had the start that the company would\u2019ve hoped. Launched late last year, the QV-E was saddled with not just a RM80,000 price tag [\u2026]\nThe post Perodua QV-E vs Proton eMas 5 \u2013 now with much lowe\u2026",
-      "url": "https://paultan.org/2026/06/16/perodua-qv-e-vs-proton-emas-5-now-with-much-lower-pricing-can-p2s-ev-finally-properly-compete/",
-      "source": "Paul Tan's Automotive News",
-      "date": "2026-06-16",
-      "image": "https://paultan.org/image/2026/06/Perodua-QV-E-vs-Proton-eMas-5-feature-1200x821.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Bibi is mad at Cheetolini, and spills the tea: the US has been paying Iran billions to ease up on the strait and let the oil flow [Interesting]",
-      "description": "Bibi is mad at Cheetolini, and spills the tea: the US has been paying Iran billions to ease up on the strait and let the oil flow",
-      "url": "https://www.fark.com/comments/14100618/Bibi-is-mad-at-Cheetolini-spills-tea-US-has-been-paying-Iran-billions-to-ease-up-on-strait-let-oil-flow",
-      "source": "Fark.com",
-      "date": "2026-06-16",
-      "image": "https://img.fark.net/images/2013/site/farkLogo2Big.gif",
-      "category": "market"
-    },
-    {
-      "title": "Invenci Announces Successful Launch of AI Gateway, the Enterprise Platform Redefining AI Governance and Enablement",
-      "description": "TORONTO, June 16, 2026 (GLOBE NEWSWIRE) \u2014 Invenci today announced the successful launch of AI Gateway, a next-generation enterprise platform designed to give organizations safe, secure, and centrally governed access to foundation AI models. AI Gateway establi\u2026",
-      "url": "https://financialpost.com/globe-newswire/invenci-announces-successful-launch-of-ai-gateway-the-enterprise-platform-redefining-ai-governance-and-enablement",
-      "source": "Financial Post",
-      "date": "2026-06-16",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "Anthropic navigates unprecedented White House request as Commerce Department orders global AI model suspension",
-      "description": "The directive sets a precedent for retroactive AI export controls, impacting global collaboration and potentially altering AI market dynamics.\nThe post Anthropic navigates unprecedented White House request as Commerce Department orders global AI model suspens\u2026",
-      "url": "https://cryptobriefing.com/anthropic-white-house-export-controls-ai-models/",
-      "source": "Crypto Briefing",
-      "date": "2026-06-16",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/16071539/https-upload-wikimedia-org-wikipedia-commons-d-d8-dario-amod-8-800x420.jpeg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Swasth Bharat, Sashakt Bharat- 12years Of Health Care Development : Smt Anupriya Patel, Minister Of State For Health & Family Welfare And Chemicals And Fertilizers.",
-      "description": "New Delhi, Delhi, 16th of June, 2026 : Stronger health systems lead to higher economic productivity, greater workforce participation, and sustained long-term growth. Good health, therefore, is not only a social good but also a national asset - the foundation \u2026",
-      "url": "https://www.tripurastarnews.com/swasth-bharat-sashakt-bharat-12years-of-health-care-development-smt-anupriya-patel-minister-of-state-for-health-family-welfare-and-chemicals-and-fertilizers/",
-      "source": "Tripurastarnews.com",
-      "date": "2026-06-16",
-      "image": "https://www.tripurastarnews.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-16-at-2.41.23-PM.jpeg",
-      "category": "market"
-    },
-    {
-      "title": "2026 America\u2019s Top States for Business: How we are ranking all 50 U.S. states",
-      "description": "America's Top States for Business rankings reflect the measures states are using to attract corporations amid urgency to build new facilities across the U.S.",
-      "url": "https://www.cnbc.com/2026/06/16/2026-americas-top-states-business-rankings-methodology.html",
-      "source": "CNBC",
-      "date": "2026-06-16",
-      "image": "https://image.cnbcfm.com/api/v1/image/108314519-1780319445865-gettyimages-2275015619-4075_48_th-0672-d.jpeg?v=1781530213&w=1920&h=1080",
-      "category": "market"
-    },
-    {
-      "title": "Mission North Names Danny Maiello Chief Corporate Affairs Officer to Lead Next Phase of Corporate Advisory Growth",
-      "description": "New role expands senior counsel across reputation, public affairs, executive positioning, and issues management Appointment builds on continued investment in strategic advisory services to guide clients through the new reputation landscape defined by AI SAN F\u2026",
-      "url": "https://www.prnewswire.com/news-releases/mission-north-names-danny-maiello-chief-corporate-affairs-officer-to-lead-next-phase-of-corporate-advisory-growth-302800849.html",
-      "source": "PRNewswire",
-      "date": "2026-06-16",
-      "image": "https://mmx.prnewswire.com/media/MS1866253/DannyMaiello-MissionNorth.jpg?id=OA2718210&p=facebook",
-      "category": "market"
-    },
-    {
-      "title": "Central banks take the stage, and crypto markets are listening closely",
-      "description": "Central banks' evolving stance on digital currencies could reshape crypto markets, challenging stablecoins and influencing global financial systems.\nThe post Central banks take the stage, and crypto markets are listening closely appeared first on Crypto Brief\u2026",
-      "url": "https://cryptobriefing.com/central-banks-stage-crypto-implications/",
-      "source": "Crypto Briefing",
-      "date": "2026-06-16",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/16071445/global-central-banks-boj-hikes-and-crypto-markets-why-decemb-800x420.jpeg",
+      "image": "https://bl-i.thgim.com/public/incoming/1wlkpi/article71108533.ece/alternates/LANDSCAPE_1200/IMG_bl09_gold_promo_2_1_URG3B8VU.jpg",
       "category": "central_bank"
     },
     {
-      "title": "Kevin Warsh's Fed is not expected to make any change to rates for a while, according to CNBC Fed Survey",
-      "description": "The survey respondents do expect the Fed at this week's meeting to remove the easing bias in the statement that has signaled the Fed's next move would likely be a cut.",
-      "url": "https://www.cnbc.com/2026/06/16/kevin-warshs-fed-is-not-expected-to-make-any-change-to-rates-for-a-while-according-to-cnbc-fed-survey.html",
-      "source": "CNBC",
+      "title": "Yum Brands to sell Pizza Hut for $2.7 billion",
+      "description": "Yum Brands said today it would sell its Pizza Hut chain for $2.7 billion, as the unit struggles with stiff competition in the fast-food market and cautious consumer spending.",
+      "url": "https://www.rte.ie/news/business/2026/0616/1578743-yum-brands-to-sell-pizza-hut/",
+      "source": "RTE",
       "date": "2026-06-16",
-      "image": "https://image.cnbcfm.com/api/v1/image/108321810-17815241482026-06-15t100119z_553215376_rc2celacc1y3_rtrmadp_0_usa-fed-warsh.jpeg?v=1781524169&w=1920&h=1080",
+      "image": "https://www.rte.ie/images/00036133-1600.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Strategy\u2019s Saylor Unveils Five-Layer Bitcoin Economy Model \u2014 How It Works",
+      "description": "Michael Saylor\u2019s new \u201cdigital asset stack\u201d model outlines five layers in the digital economy. We break down bitcoin\u2019s role and where other cryptocurrencies fit. Strategy...\nThe post Strategy\u2019s Saylor Unveils Five-Layer Bitcoin Economy Model \u2014 How It Works app\u2026",
+      "url": "https://bitcoinfoundation.org/news/bitcoin/saylor-bitcoin-economy/",
+      "source": "Bitcoinfoundation.org",
+      "date": "2026-06-16",
+      "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/04/ChatGPT-Image-6-\u0430\u043f\u0440.-2026-\u0433.-11_57_34-2-opt.webp",
+      "category": "market"
+    },
+    {
+      "title": "Goldman Sachs cuts Brent oil price target amid US-Iran peace deal",
+      "description": "The US-Iran peace deal may lead to more stable oil markets, reducing geopolitical risks and potentially influencing global economic dynamics.\nThe post Goldman Sachs cuts Brent oil price target amid US-Iran peace deal appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/goldman-sachs-cuts-brent-oil-price-target-amid-us-iran-peace-deal/",
+      "source": "Crypto Briefing",
+      "date": "2026-06-16",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/16085725/view-from-hotel-of-the-goldman-sachs-building-in-jersey-city-2-1-800x420.jpeg",
       "category": "geopolitics"
     },
     {
-      "title": "Federal Reserve expected to raise interest rates by 2026 under Kevin Warsh",
-      "description": "Warsh's potential rate hikes could reshape economic strategies, impacting inflation control, asset valuations, and geopolitical financial dynamics.\nThe post Federal Reserve expected to raise interest rates by 2026 under Kevin Warsh appeared first on Crypto Br\u2026",
-      "url": "https://cryptobriefing.com/fed-rate-hike-warsh-2026/",
+      "title": "Pok\u00e9mon Champions launches June 17 on mobile",
+      "description": "The Pok\u00e9mon Company International confirms the mobile release date for Pok\u00e9mon Champions on iOS and Android, featuring cross-save support and an exclusive Mega Raichu distribution.",
+      "url": "https://www.notebookcheck.net/Pokemon-Champions-launches-June-17-on-mobile.1322815.0.html",
+      "source": "Notebookcheck.net",
+      "date": "2026-06-16",
+      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Pokemon-Champions.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Spot gold climbs 1% to $4,347.57 amid improved German investor sentiment",
+      "description": "The rise in gold prices reflects a cautious optimism in the market, potentially signaling future gains amid evolving economic indicators.\nThe post Spot gold climbs 1% to $4,347.57 amid improved German investor sentiment appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/spot-gold-climbs-1-to-434757-amid-improved-german-investor-sentiment/",
       "source": "Crypto Briefing",
       "date": "2026-06-16",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/16070544/kevin-warsh-arrives-for-his-senate-banking-housing-and-urban-10-800x420.jpeg",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/16085936/gold-bars-400oz-on-a-pallet-within-a-vault-6-1-800x420.jpeg",
+      "category": "metals"
+    },
+    {
+      "title": "Treasury yields fall as market braces for Kevin Warsh\u2019s first Fed meeting",
+      "description": "Warsh's Fed leadership could reshape economic expectations, influencing market dynamics and equity trends amid stable interest rate forecasts.\nThe post Treasury yields fall as market braces for Kevin Warsh\u2019s first Fed meeting appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/treasury-yields-fall-as-market-braces-for-kevin-warshs-first-fed-meeting/",
+      "source": "Crypto Briefing",
+      "date": "2026-06-16",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/16085443/kevin-warsh-arrives-for-his-senate-banking-housing-and-urban-11-1-800x420.jpeg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "FBI Raids Soros-Connected Ohio Voter Mobilization Group in Fraud Investigation",
+      "description": "Federal investigators executed search warrants at the headquarters of a Soros-aligned voter mobilization organization in Ohio as part of what sources described as an ongoing fraud investigation. FBI agents searched the offices of the Ohio Organizing Collabora\u2026",
+      "url": "https://freerepublic.com/focus/f-news/4383988/posts",
+      "source": "Freerepublic.com",
+      "date": "2026-06-16",
+      "image": null,
+      "category": "geopolitics"
+    },
+    {
+      "title": "EVs Will Come Roaring Back, Rivian Edition",
+      "description": "The US startup Rivian has joined the ChargeScape collaborative, providing its customers with seamless access to utility discounts for EVs.\nThe post EVs Will Come Roaring Back, Rivian Edition appeared first on CleanTechnica.",
+      "url": "https://cleantechnica.com/2026/06/16/rivian-evs-us-plans-v2g-discounts-new-factory-georgia/",
+      "source": "CleanTechnica",
+      "date": "2026-06-16",
+      "image": "https://cleantechnica.com/wp-content/uploads/2026/06/courtesy-of-Rivian-via-email.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Stock Market Today: Dow Rises Ahead Of Fed Meeting; SpaceX Continues To Soar (Live Coverage)",
+      "description": "Futures for the Dow Jones Industrial Average and other major stock indexes traded higher Tuesday as Wall Street awaited the start of the Federal Reserve's two-day policy meeting. Meanwhile, Space Exploration Technologies (SPCX) \u2014 known as SpaceX \u2014 was a big w\u2026",
+      "url": "https://biztoc.com/x/87cb3a1f41b11b05",
+      "source": "Biztoc.com",
+      "date": "2026-06-16",
+      "image": "https://biztoc.com/cdn/87cb3a1f41b11b05_s.webp",
+      "category": "central_bank"
+    },
+    {
+      "title": "Millions of Americans Could Lose Health Insurance by Year's End as Coverage Losses Accelerate Nationwide and Many Remain Unaware",
+      "description": "ACA enhanced premium tax credits expired in 2025. Up to 4.2M Americans face coverage loss in 2026. What you need to know about your health insurance.",
+      "url": "https://www.medicaldaily.com/aca-premium-tax-credits-expired-2026-millions-lose-health-insurance-475655",
+      "source": "Medical Daily",
+      "date": "2026-06-16",
+      "image": "https://d.medicaldaily.com/en/full/482731/health-insurance.jpg",
       "category": "geopolitics"
     }
   ],
@@ -427,7 +427,7 @@
       "platinum_usd_oz": 1760.87
     }
   ],
-  "timestamp": "2026-06-17T16:50:53.061181+05:30",
+  "timestamp": "2026-06-17T18:30:09.683049+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
