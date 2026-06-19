@@ -54,7 +54,7 @@
         "hold": 50
       },
       "summary": "Gold is showing positive signals. Positive daily movement of 0.0%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-19T11:02:31.507704",
+      "timestamp": "2026-06-19T12:58:21.650101",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 50
       },
       "summary": "Silver is showing positive signals. Positive daily movement of 0.2%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-19T11:02:31.611252",
+      "timestamp": "2026-06-19T12:58:21.753171",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 50
       },
       "summary": "Platinum is showing positive signals. Positive daily movement of 0.1%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-19T11:02:31.694049",
+      "timestamp": "2026-06-19T12:58:21.861796",
       "source": "rule-based"
     }
   },
@@ -125,22 +125,67 @@
   },
   "news": [
     {
-      "title": "Rupee records strongest week in 11 as bond inflows, softer oil prices lend support",
-      "description": "The Indian rupee maintained steady ground against the dollar last Friday, closing almost flat. The day\u2019s trading featured some ups and downs, yet the rupee celebrated its best weekly performance in eleven weeks, thanks to a surge in foreign investments into Indian markets.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-records-strongest-week-in-11-as-bond-inflows-softer-oil-prices-lend-support/articleshow/131856516.cms",
+      "title": "India 10-year yield snaps 6-day falling streak as US-Iran talks stall",
+      "description": "India's benchmark 10-year bond yield saw a pause in its recent drop on Friday. This change was fueled by stalled talks between the U.S. and Iran, which caused oil prices to tick up, negatively impacting investor sentiment. Additionally, profit-taking by traders following a strong bond price increase",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-10-year-yield-snaps-6-day-falling-streak-as-us-iran-talks-stall/articleshow/131859229.cms",
       "source": "Economic Times Markets",
       "date": "2026-06-19",
       "image": "",
-      "category": "currency"
+      "category": "inflation"
     },
     {
-      "title": "Yen teeters on cusp of 40-year low as BOJ hike fails to stem rout",
-      "description": "The dollar continues to exhibit resilience against key global currencies, largely fueled by the ongoing unpredictability of a potential U.S.-Iran peace agreement. Meanwhile, the Japanese yen has plummeted to levels not seen in two years, prompting traders to keep an eye out for possible intervention",
-      "url": "https://economictimes.indiatimes.com/markets/forex/yen-teeters-on-cusp-of-40-year-low-as-boj-hike-fails-to-stem-rout/articleshow/131855397.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-06-19",
-      "image": "",
-      "category": "central_bank"
+      "title": "A New Zealand Goldfield Is Quietly Becoming a Critical-Minerals Story -- and the Drills Are Running 24/7",
+      "description": "Issued on behalf of RUA GOLD Inc. Gold gets the headlines, but it's the antimony alongside it \u2014 a metal the West is scrambling to secure \u2014 that could make this historic goldfield strategically important. And the company drilling it just crossed the halfway ma\u2026",
+      "url": "https://www.prnewswire.com/news-releases/a-new-zealand-goldfield-is-quietly-becoming-a-critical-minerals-story--and-the-drills-are-running-247-302802569.html",
+      "source": "PRNewswire",
+      "date": "2026-06-18",
+      "image": "https://mmx.prnewswire.com/media/MS1718298/USA_News_Group_Logo.jpg?id=OA2721836&p=facebook",
+      "category": "supply_demand"
+    },
+    {
+      "title": "MONDRIAN DEBUTS FIRST-EVER ALL-INCLUSIVE EXPERIENCE WITH MONDRIAN CANCUN",
+      "description": "Bookings open June 15 for the lifestyle resort featuring three pools, 16 restaurants and bars, and a beach club CANCUN, Mexico, June 18, 2026 /PRNewswire/ -- Marking the brand's all-inclusive debut, the opening of Mondrian Cancun is set to ignite the region's\u2026",
+      "url": "https://www.prnewswire.com/news-releases/mondrian-debuts-first-ever-all-inclusive-experience-with-mondrian-cancun-302804367.html",
+      "source": "PRNewswire",
+      "date": "2026-06-18",
+      "image": "https://mma.prnewswire.com/media/2997117/Ennismore.jpg?p=facebook",
+      "category": "market"
+    },
+    {
+      "title": "Hudbay Celebrates Groundbreaking of New Ingerbelle Expansion at Copper Mountain Mine",
+      "description": "TORONTO, June 18, 2026 (GLOBE NEWSWIRE) \u2014 Hudbay Minerals Inc. (\u201cHudbay\u201d or the \u201cCompany\u201d) (TSX, NYSE: HBM) recently celebrated the official groundbreaking of the New Ingerbelle expansion project at its Copper Mountain mine, marking a significant milestone fo\u2026",
+      "url": "https://financialpost.com/globe-newswire/hudbay-celebrates-groundbreaking-of-new-ingerbelle-expansion-at-copper-mountain-mine",
+      "source": "Financial Post",
+      "date": "2026-06-18",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/figure-1-28.jpeg",
+      "category": "market"
+    },
+    {
+      "title": "Lest We Forget the Horrors: An Unending Catalog of Trump\u2019s Cruelties, Collusions, Corruptions, and Crimes: May 2026: Atrocities 931-1013",
+      "description": "Early in President Trump\u2019s first term, McSweeney\u2019s editors began to catalog the head-spinning number of misdeeds coming from his administration. We called this list a collection of Trump\u2019s cruelties, collusions, corruptions, and crimes, and it felt urgent to \u2026",
+      "url": "https://www.mcsweeneys.net/articles/may-2026-atrocities-931-1013",
+      "source": "Mcsweeneys.net",
+      "date": "2026-06-18",
+      "image": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/2udramlhd5b8kwwe01vpee7py4bs",
+      "category": "market"
+    },
+    {
+      "title": "Bitget lists Re Protocol (RE) for Spot Trading",
+      "description": "Bitget lists Re Protocol (RE) for spot trading, expanding DeFi access to tokenized reinsurance and real-world asset yields....",
+      "url": "https://www.globenewswire.com/news-release/2026/06/18/3314074/0/en/Bitget-lists-Re-Protocol-RE-for-Spot-Trading.html",
+      "source": "GlobeNewswire",
+      "date": "2026-06-18",
+      "image": "https://ml-eu.globenewswire.com/Resource/Download/6f7473c6-12c3-43c9-8c1d-ab8f8b19e381",
+      "category": "market"
+    },
+    {
+      "title": "Italpreziosi Celebrates Ducati\u2019s 100th Anniversary with an Exclusive Gold and Silver Bullion Collection",
+      "description": "AREZZO, Italy, June 18, 2026 (GLOBE NEWSWIRE) -- Italpreziosi, a leading company in the precious metals and investment gold sector, is proud to announce its collaboration with Ducati to celebrate a historic milestone: the 100th anniversary of the iconic motor\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/06/18/3314070/0/en/Italpreziosi-Celebrates-Ducati-s-100th-Anniversary-with-an-Exclusive-Gold-and-Silver-Bullion-Collection.html",
+      "source": "GlobeNewswire",
+      "date": "2026-06-18",
+      "image": "https://ml.globenewswire.com/Resource/Download/102f5292-1f08-4208-bfa1-11b0d52bf5a6",
+      "category": "metals"
     },
     {
       "title": "Links 6/18/2026",
@@ -161,58 +206,22 @@
       "category": "geopolitics"
     },
     {
-      "title": "Engineered Quartz Surface Market Size to Surpass $36.80 Billion by 2035 | SNS Insider",
-      "description": "The U.S. Engineered Quartz Surface Market is Estimated to Reach $7.98 Billion by 2035, While Europe is Expected Reach $8.14 Billion, Driven by Rising Residential Renovation Activities, Commercial Construction Investments, and Growing Preference for Durable, L\u2026",
-      "url": "https://www.globenewswire.com/news-release/2026/06/18/3313994/0/en/Engineered-Quartz-Surface-Market-Size-to-Surpass-36-80-Billion-by-2035-SNS-Insider.html",
+      "title": "American Rare Earths Provides Exploration Update and Outlines 2026-2027 Field Programs Across U.S. Project Portfolio",
+      "description": "DENVER, June 18, 2026 (GLOBE NEWSWIRE) -- American Rare Earths (ASX: ARR | OTCQX: ARRNF | ADR: AMRRY) (\u201cARR\u201d or the \u201cCompany\u201d) is pleased to provide an update on exploration and drilling activities underway and planned across its U.S. rare earths project port\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/06/18/3314184/0/en/American-Rare-Earths-Provides-Exploration-Update-and-Outlines-2026-2027-Field-Programs-Across-U-S-Project-Portfolio.html",
       "source": "GlobeNewswire",
       "date": "2026-06-18",
-      "image": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
-      "category": "currency"
-    },
-    {
-      "title": "Coinbase Ventures Invests in Multipli",
-      "description": "DUBAI, United Arab Emirates, June 18, 2026 (GLOBE NEWSWIRE) -- Multipli\r\n, a real-world asset and tokenized credit protocol, has received an investment from Coinbase Ventures through the Base Ecosystem Fund.The investment marks another step in Multipli\u2019s grow\u2026",
-      "url": "https://www.globenewswire.com/news-release/2026/06/18/3313992/0/en/Coinbase-Ventures-Invests-in-Multipli.html",
-      "source": "GlobeNewswire",
-      "date": "2026-06-18",
-      "image": "https://ml.globenewswire.com/Resource/Download/4dea90fe-d810-4468-99a9-c9c17168c192",
+      "image": "https://ml.globenewswire.com/Resource/Download/c47f409e-041d-4287-9917-20b2d4d1afa2",
       "category": "market"
     },
     {
-      "title": "BlackRock\u00ae Canada Announces June Cash Distributions for the iShares\u00ae ETFs",
-      "description": "TORONTO, June 18, 2026 (GLOBE NEWSWIRE) -- BlackRock Asset Management Canada Limited (\u201cBlackRock Canada\u201d), an indirect, wholly-owned subsidiary of BlackRock, Inc. (NYSE: BLK), today announced the June 2026 cash distributions for the iShares ETFs listed on the\u2026",
-      "url": "https://www.globenewswire.com/news-release/2026/06/18/3313976/0/en/BlackRock-Canada-Announces-June-Cash-Distributions-for-the-iShares-ETFs.html",
-      "source": "GlobeNewswire",
+      "title": "Brixton Metals Commences Drilling for Maiden Tailings Mineral Resource Estimate at the Langis Silver Project",
+      "description": "Three Rigs Now Active to Advance the 60,000-Meter Exploration Campaign and Tailings Mineral Resource Estimate VANCOUVER, British Columbia, June 18, 2026 (GLOBE NEWSWIRE) \u2014 Brixton Metals Corporation (TSX-V: BBB, OTCQX: BBBXF) (the \u201cCompany\u201d or \u201cBrixton\u201d) is p\u2026",
+      "url": "https://financialpost.com/globe-newswire/brixton-metals-commences-drilling-for-maiden-tailings-mineral-resource-estimate-at-the-langis-silver-project",
+      "source": "Financial Post",
       "date": "2026-06-18",
-      "image": "https://ml.globenewswire.com/Resource/Download/d8e03598-4c47-4766-99ee-349982dc8a59",
-      "category": "market"
-    },
-    {
-      "title": "Bitget lists Bluwhale AI (BLUAI) for Spot Trading",
-      "description": "Bitget lists Bluwhale AI (BLUAI) for spot trading, expanding AI zone access to decentralized financial intelligence....",
-      "url": "https://www.globenewswire.com/news-release/2026/06/18/3313973/0/en/Bitget-lists-Bluwhale-AI-BLUAI-for-Spot-Trading.html",
-      "source": "GlobeNewswire",
-      "date": "2026-06-18",
-      "image": "https://ml-eu.globenewswire.com/Resource/Download/2048543d-ef7f-4462-b092-ad550d4a2def",
-      "category": "market"
-    },
-    {
-      "title": "These First Nations say they've completed Ontario's first Anishinaabe-led impact assessment",
-      "description": "Two First Nations in northwestern Ontario are allowing a mining project to move forward after completing what they say is the province\u2019s first Anishinaabe-led impact assessment (ALIA) \u2014 but they aren\u2019t supporting or opposing the development.\nCat Lake First Na\u2026",
-      "url": "https://www.cbc.ca/news/canada/thunder-bay/cat-lake-lac-seul-first-mining-gold-9.7239458",
-      "source": "CBC News",
-      "date": "2026-06-18",
-      "image": "https://i.cbc.ca/ais/443014d3-8dbc-4526-beea-b1af1a3067aa,1781738414345/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C7%2C1615%2C908%29%3BResize%3D620",
-      "category": "geopolitics"
-    },
-    {
-      "title": "The onshore gateway to global capital",
-      "description": "India's economy is set to grow significantly, but its global market presence lags. GIFT IFSC is building infrastructure to bridge this gap.  Indian households can now invest in global markets through a regulated route. This offers tax and regulatory advantage\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/the-onshore-gateway-to-global-capital/articleshow/131818302.cms",
-      "source": "The Times of India",
-      "date": "2026-06-18",
-      "image": "https://img.etimg.com/thumb/msid-131818366,width-1200,height-630,imgsize-977682,overlay-etmarkets/articleshow.jpg",
-      "category": "market"
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/figure-2-3.png",
+      "category": "metals"
     },
     {
       "title": "Endeavour Silver Intersects High-Grade Silver and Gold Mineralization at its Terronera Operation",
@@ -242,157 +251,148 @@
       "category": "market"
     },
     {
-      "title": "NVRO Metals Highlights Investment Potential of the NVRO Metals Hub Following Independent 77.6 Million-Tonne Mineral Resource Estimate",
-      "description": "NVRO\u2019s NI 43-101 MRE confirms a 77.6Mt, 1.69% CuEq resource, supporting near-term production, critical minerals growth and process validation....",
-      "url": "https://www.globenewswire.com/news-release/2026/06/18/3314015/0/en/NVRO-Metals-Highlights-Investment-Potential-of-the-NVRO-Metals-Hub-Following-Independent-77-6-Million-Tonne-Mineral-Resource-Estimate.html",
-      "source": "GlobeNewswire",
+      "title": "RBI\u2019s balance sheet expands even global peers contract",
+      "description": "RBI's balance sheet expands significantly in FY26, contrasting with developed economies' contraction, highlighting emerging market resilience.",
+      "url": "https://www.thehindubusinessline.com/data-stories/data-focus/rbis-balance-sheet-expands-even-global-peers-contract/article71117874.ece",
+      "source": "BusinessLine",
       "date": "2026-06-18",
-      "image": "https://ml.globenewswire.com/Resource/Download/be5c2c4d-5d10-4c56-9d99-507e87a39ff9",
+      "image": "https://bl-i.thgim.com/public/incoming/ys7g32/article71117932.ece/alternates/LANDSCAPE_1200/PTI06_05_2026_000103A.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "EU leaders gather for talks set to cover Ukraine, Israel and China",
+      "description": "Agenda for two-day summit in Brussels offers pointers on key matters that will also dominate Ireland\u2019s EU presidency",
+      "url": "https://www.irishtimes.com/politics/2026/06/18/eu-leaders-gather-for-talks-set-to-cover-ukraine-and-trade-with-israel-and-china/",
+      "source": "The Irish Times",
+      "date": "2026-06-18",
+      "image": "https://www.irishtimes.com/resizer/v2/A7NHZ5W5PN2C7GCKHBN2AKU3SU.jpg?smart=true&auth=225899af5da5bd18423819a2e4b9b535a962b8976dc54a12048fe80dac3dc7ab&width=1200&height=630",
+      "category": "market"
+    },
+    {
+      "title": "KDE Plasma 6.7 brings the X11 era to a close",
+      "description": "Plenty of new shiny in the service of improved usability",
+      "url": "https://www.theregister.com/os-platforms/2026/06/18/kde-plasma-67-brings-the-x11-era-to-a-close/5258247",
+      "source": "Theregister.com",
+      "date": "2026-06-18",
+      "image": "https://image.theregister.com/5258299.jpg?imageId=5258299&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "category": "market"
+    },
+    {
+      "title": "The Balfour Declaration, November 1917",
+      "description": "Introduction\nOne of the most important statements of British foreign policy of the twentieth century, the \u2018Balfour Declaration\u2019 was no more than a short, vague letter that had no legal status.\nIt had not been debated in Parliament. Yet it \u2026\nThe post The Balfo\u2026",
+      "url": "https://www.globalresearch.ca/balfour-declaration-november-1917/5930420",
+      "source": "Globalresearch.ca",
+      "date": "2026-06-18",
+      "image": "https://www.globalresearch.ca/wp-content/uploads/2017/11/Lord-Balfour.jpg",
       "category": "supply_demand"
     },
     {
-      "title": "Generation Mining Appoints Chief Operating Officer and VP Finance to Strengthen Management Team",
-      "description": "TORONTO \u2014 Generation Mining Limited (TSX: GENM) (OTCQB: GENMF) (the \u201cCompany\u201d) is pleased to announce the appointment of Jeremy Wyeth, B.A.Sc., Mining Engineer, as Chief Operating Officer and Anton Cukrov, CA as VP Finance of the Company. Mr. Wyeth brings to \u2026",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/generation-mining-appoints-chief-operating-officer-and-vp-finance-to-strengthen-management-team",
-      "source": "Financial Post",
+      "title": "New study reveals hidden risk of going sugar-free",
+      "description": "This surprising conclusion falls squarely within the cultural obsession with \u201cclean eating\u201d",
+      "url": "https://www.the-independent.com/life-style/health-and-families/sugar-free-diet-health-risks-benefits-b2998382.html",
+      "source": "The-independent.com",
       "date": "2026-06-18",
-      "image": null,
-      "category": "supply_demand"
-    },
-    {
-      "title": "NVRO Metals Announces Independent NI 43-101 Mineral Resource Estimate of 77.6 Million-Tonne Polymetallic Resource at the NVRO Metals Hub",
-      "description": "NVRO Metals announces a 77.6 Mt CuEq polymetallic NI 43-101 MRE at the NVRO Metals Hub, supporting production and critical minerals growth strategy....",
-      "url": "https://www.globenewswire.com/news-release/2026/06/18/3314002/0/en/NVRO-Metals-Announces-Independent-NI-43-101-Mineral-Resource-Estimate-of-77-6-Million-Tonne-Polymetallic-Resource-at-the-NVRO-Metals-Hub.html",
-      "source": "GlobeNewswire",
-      "date": "2026-06-18",
-      "image": "https://ml.globenewswire.com/Resource/Download/9ebc83e4-6daf-4a4b-9bcf-2ef056ad94fc",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Microsoft Edge to support Google account sign-in for data synchronization",
-      "description": "Microsoft is updating the Edge browser to allow users on Windows and macOS to sign in using a Google account. This change, scheduled for global rollout in July 2026, removes the strict requirement for a Microsoft account to manage browser profiles. Users will\u2026",
-      "url": "https://4sysops.com/archives/microsoft-edge-to-support-google-account-sign-in-for-data-synchronization/",
-      "source": "4sysops.com",
-      "date": "2026-06-18",
-      "image": "https://4sysops.com/wp-content/uploads/2026/06/microsoft-edge-to-support-google-account-sign-in-for-data-synchronization.webp",
+      "image": "https://static.the-independent.com/2026/06/18/12/12/iStock-2238549906.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
       "category": "market"
     },
     {
-      "title": "Massive Fortinet breach exposes credentials for thousands of global networks",
-      "description": "A widespread automated attack campaign has compromised approximately 74,000 Fortinet devices across 194 countries, creating a massive database of verified corporate credentials. Attackers utilized large-scale scans and a specialized GPU cluster to crack encry\u2026",
-      "url": "https://4sysops.com/archives/massive-fortinet-breach-exposes-credentials-for-thousands-of-global-networks/",
-      "source": "4sysops.com",
+      "title": "Is Zebra Technologies Stock Underperforming the Nasdaq?",
+      "description": "With a market cap of $11.1 billion, Zebra Technologies Corporation (ZBRA) is a global provider of automatic identification and data capture solutions, serving industries such as retail, manufacturing, transportation and logistics, healthcare, and the public s\u2026",
+      "url": "https://biztoc.com/x/eb93c0b00065ce07",
+      "source": "Biztoc.com",
       "date": "2026-06-18",
-      "image": "https://4sysops.com/wp-content/uploads/2026/06/massive-fortinet-breach-exposes-credentials-for-thousands-of-global-networks.webp",
+      "image": "https://biztoc.com/cdn/eb93c0b00065ce07_s.webp",
       "category": "market"
     },
     {
-      "title": "Federal Reserve recovers as Chairman Kevin Warsh vows to fight inflation",
-      "description": "Warsh's firm stance on inflation signals potential tighter monetary policy, impacting market dynamics and investor strategies globally.\nThe post Federal Reserve recovers as Chairman Kevin Warsh vows to fight inflation appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/fed-warsh-inflation-fight-crypto-impact/",
-      "source": "Crypto Briefing",
+      "title": "Coinbase Stock: Is COIN Underperforming the Financial Sector?",
+      "description": "New York-based Coinbase Global, Inc. (COIN) is one of the world's largest cryptocurrency platforms, providing individuals and institutions with the ability to buy, sell, store, and manage digital assets. The company plays a key role in the global crypto ecosy\u2026",
+      "url": "https://biztoc.com/x/0ac2f9cbca98f7a0",
+      "source": "Biztoc.com",
       "date": "2026-06-18",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/18070146/new-u-s-federal-reserve-chairman-kevin-warsh-arrives-to-hold-18-800x420.jpeg",
-      "category": "geopolitics"
+      "image": "https://biztoc.com/cdn/0ac2f9cbca98f7a0_s.webp",
+      "category": "currency"
     },
     {
-      "title": "Apple Original Films to Bring Beloved Children's Book \"Little Santa\" to the Screen",
-      "description": "How did Santa become Santa? The answer is in the evergreen musical comedy adventure, \"Little Santa.\"",
-      "url": "http://www.thefutoncritic.com/news/2026/06/18/apple-original-films-to-bring-beloved-childrens-book-little-santa-to-the-screen-642213/20260618apple02/",
-      "source": "Thefutoncritic.com",
-      "date": "2026-06-18",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "Meishan Hosts Satellite Application Industry Development Conference Amid Competition in Commercial Space Sector",
-      "description": "MEISHAN, China, June 18, 2026 (GLOBE NEWSWIRE) -- On June 17, the 4th Meishan Satellite Application Industry Development Conference opened in Meishan, China. At the conference, government and business guests from countries including Laos, Oman, Pakistan, and \u2026",
-      "url": "https://www.globenewswire.com/news-release/2026/06/18/3314064/0/en/Meishan-Hosts-Satellite-Application-Industry-Development-Conference-Amid-Competition-in-Commercial-Space-Sector.html",
-      "source": "GlobeNewswire",
-      "date": "2026-06-18",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "Furious South Korea vow to stop all media duties over jibes about Son Heung-min's exemption from military service... and they're ready to take out their anger in showdown with Mexico",
-      "description": "'Beware Son Heung-min' were the first serious words Mexico's manager spoke to his team in the Azteca Stadium dressing room, once the celebrations abated after victory over South Africa.",
-      "url": "https://www.dailymail.com/sport/football/article-15907131/Furious-South-Korea-vow-stop-media-duties-jibes-Son-Heung-mins-exemption-military-service-theyre-ready-anger-showdown-Mexico.html",
-      "source": "Dailymail.com",
-      "date": "2026-06-18",
-      "image": "https://i.dailymail.com/1s/2026/06/17/12/109410039-0-image-m-19_1781696108071.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Xiaomi India charts post-Anuj Sharma roadmap with South Asia headquarters push and large appliances expansion plan",
-      "description": "The company reported strong gains in premium smartphones, tablets and TVs, outlined plans to enter large appliances, and announced leadership changes as India takes on a bigger role across Xiaomi\u2019s South Asia markets comprising India, Bangladesh, Sri Lanka an\u2026",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/xiaomi-india-charts-post-anuj-sharma-roadmap-with-south-asia-headquarters-push-and-large-appliances-expansion-plan/articleshow/131827261.cms",
+      "title": "India's thermal coal imports sink to a 4-year low as green energy reshapes demand",
+      "description": "India's thermal coal imports have reached a four-year low. This decline is attributed to higher domestic coal output and a significant rise in renewable energy generation. The country is actively reducing its dependence on imported coal for power. Increased l\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/energy/power/indias-thermal-coal-imports-sink-to-a-4-year-low-as-green-energy-reshapes-demand/articleshow/131831257.cms",
       "source": "The Times of India",
       "date": "2026-06-18",
-      "image": "https://img.etimg.com/thumb/msid-131827467,width-1200,height-630,imgsize-71390,overlay-etpanache/articleshow.jpg",
-      "category": "market"
+      "image": "https://img.etimg.com/thumb/msid-131831358,width-1200,height-630,imgsize-293858,overlay-economictimes/articleshow.jpg",
+      "category": "supply_demand"
     },
     {
-      "title": "What\u2019s an Artist Worth?",
-      "description": "A wave of New York art dealers are leaving galleries to start their own agencies with new ideas about how to build their clients\u2019 careers.",
-      "url": "http://www.vulture.com/article/artist-agencies-and-galleries.html",
-      "source": "Vulture",
+      "title": "U.S. dollar gets surprising jolt from housing slump",
+      "description": "Currency traders typically scan Federal Reserve signals, trade policy shifts, and geopolitical crises when searching for the next catalyst behind a dollar move. On June 16, the greenback's decline came from a source few had on their radar.\nThe dollar index dr\u2026",
+      "url": "https://biztoc.com/x/524c573c9caf6775",
+      "source": "Biztoc.com",
       "date": "2026-06-18",
-      "image": "https://pyxis.nymag.com/v1/imgs/3c3/ec0/ea4f52d5db5a26ac95864d40ddd10a9ed5-amex-sq.1x.rsocial.w1200.jpg",
-      "category": "market"
-    },
-    {
-      "title": "MLB accused of 'double standard' after calling out players' Bible messages despite backing BLM in 2020",
-      "description": "MLB faces backlash over threatening to discipline Giants players who wrote Bible verses on Pride hats, with critics citing a double standard.",
-      "url": "https://www.foxnews.com/politics/mlb-accused-double-standard-after-calling-out-players-bible-messages-despite-backing-blm-2020",
-      "source": "Fox News",
-      "date": "2026-06-18",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/baseball-split.jpeg",
-      "category": "market"
-    },
-    {
-      "title": "Alleged $38M adult daycare scam busted in Brooklyn \u2014 snaring Pakistani community leaders who cozied up to Dems",
-      "description": "\u201cHow are the politicians and the insurance companies going to control the fraud when they are part of the fraud?\u201d the source asked.",
-      "url": "https://nypost.com/2026/06/18/us-news/alleged-38m-adult-daycare-scam-busted-in-brooklyn-snaring-pakistani-community-leaders-who-cozied-up-to-dems/",
-      "source": "New York Post",
-      "date": "2026-06-18",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/06/newspress-collage-5cs9lcvw0-1781739805367.jpg?quality=75&strip=all&1781725523&w=1200",
-      "category": "market"
-    },
-    {
-      "title": "Warsh says central bank won\u2019t tolerate high inflation in first press conference as Fed chair",
-      "description": "Warsh's firm stance on inflation signals potential shifts in monetary policy, impacting borrowing costs, consumer spending, and investment strategies.\nThe post Warsh says central bank won\u2019t tolerate high inflation in first press conference as Fed chair appear\u2026",
-      "url": "https://cryptobriefing.com/warsh-fed-chair-inflation-rate-policy/",
-      "source": "Crypto Briefing",
-      "date": "2026-06-18",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/18064552/new-u-s-federal-reserve-chairman-kevin-warsh-arrives-to-hold-17-800x420.jpeg",
+      "image": "https://biztoc.com/cdn/524c573c9caf6775_s.webp",
       "category": "geopolitics"
     },
     {
-      "title": "Kroger Reports First Quarter 2026 Results",
-      "description": "First Quarter Highlights Identical Sales without fuel increased 1.0%1 Operating Profit of $1,407 million; EPS of $1.46 Adjusted FIFO Operating Profit of $1,544 million and Adjusted EPS of $1.58 Adjusted eCommerce sales grew +19%2; Kroger Precision Marketing p\u2026",
-      "url": "https://www.prnewswire.com/news-releases/kroger-reports-first-quarter-2026-results-302803788.html",
+      "title": "HR must have a say in AI policy to forestall legal risks",
+      "description": "In this Q&A, employment attorney Deepa Menon explains the legal risks of using AI for workforce decisions and why lawyers, HR and IT must agree on a framework before implementing AI.",
+      "url": "https://www.techtarget.com/searchhrsoftware/news/366644954/HR-must-have-a-say-in-AI-policy-to-forestall-legal-risks",
+      "source": "Techtarget.com",
+      "date": "2026-06-18",
+      "image": "https://www.techtarget.com/rms/onlineimages/legal_g941378956.jpg",
+      "category": "market"
+    },
+    {
+      "title": "How LGBTQ employees at Kodak risked their careers to build a safer, more inclusive workplace",
+      "description": "There was a time when you could be fired from your job for being gay. It took LGBTQ employees at companies like Kodak to challenge workplace discrimination and transform corporate culture.",
+      "url": "https://theconversation.com/how-lgbtq-employees-at-kodak-risked-their-careers-to-build-a-safer-more-inclusive-workplace-284709",
+      "source": "The Conversation Africa",
+      "date": "2026-06-18",
+      "image": "https://images.theconversation.com/files/742573/original/file-20260617-71-mgqcyd.png?ixlib=rb-4.1.0&rect=0%2C97%2C1904%2C952&q=45&auto=format&w=1356&h=668&fit=crop",
+      "category": "market"
+    },
+    {
+      "title": "Americans keep voting for scandal-prone candidates because they just don\u2019t want the other party to win",
+      "description": "Polarization and negative partisanship have lowered the standards for whom Americans are willing to support.",
+      "url": "https://theconversation.com/americans-keep-voting-for-scandal-prone-candidates-because-they-just-dont-want-the-other-party-to-win-284913",
+      "source": "The Conversation Africa",
+      "date": "2026-06-18",
+      "image": "https://images.theconversation.com/files/742263/original/file-20260616-57-utxfbi.jpg?ixlib=rb-4.1.0&rect=373%2C0%2C5376%2C2688&q=45&auto=format&w=1356&h=668&fit=crop",
+      "category": "market"
+    },
+    {
+      "title": "Federal Reserve Chairman Kevin Warsh commits to 2% inflation target, Yardeni says",
+      "description": "Warsh's strict inflation stance may reshape market expectations, impacting asset valuations and signaling a shift in monetary policy dynamics.\nThe post Federal Reserve Chairman Kevin Warsh commits to 2% inflation target, Yardeni says appeared first on Crypto \u2026",
+      "url": "https://cryptobriefing.com/fed-chair-warsh-2-percent-inflation-target/",
+      "source": "Crypto Briefing",
+      "date": "2026-06-18",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/18083809/new-u-s-federal-reserve-chairman-kevin-warsh-arrives-to-hold-19-800x420.jpeg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Rogue Judges Are Crippling The Constitution One Egregious Ruling At A Time",
+      "description": "Rogue judges are pushing America toward a constitutional crisis by forgoing their sworn duty to apply the law in an objective manner.",
+      "url": "https://thefederalist.com/2026/06/18/rogue-judges-are-crippling-the-constitution-one-egregious-ruling-at-a-time/",
+      "source": "The Federalist",
+      "date": "2026-06-18",
+      "image": "https://thefederalist.com/wp-content/uploads/2026/06/Gavel-1.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "US jobless claims hit 226K as labor market holds steady, continuing claims reach 1.81M",
+      "description": "A steady labor market with rising continuing claims may pressure the Fed to adjust monetary policy, impacting financial conditions and investments.\nThe post US jobless claims hit 226K as labor market holds steady, continuing claims reach 1.81M appeared first \u2026",
+      "url": "https://cryptobriefing.com/us-jobless-claims-226k-continuing-claims/",
+      "source": "Crypto Briefing",
+      "date": "2026-06-18",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/18083455/https-upload-wikimedia-org-wikipedia-commons-f-fd-frances-pe-800x420.jpeg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Risk of Contractor Fraud Surges After Tornadoes and Severe Storms in Illinois",
+      "description": "The National Insurance Crime Bureau Warns of Fraudulent Contractor Schemes After Two Weeks of Severe Weather OAK BROOK, Ill., June 18, 2026 /PRNewswire/ -- Following a series of severe storms, tornadoes, heavy rains and damaging winds across Illinois, the Nat\u2026",
+      "url": "https://www.prnewswire.com/news-releases/risk-of-contractor-fraud-surges-after-tornadoes-and-severe-storms-in-illinois-302804088.html",
       "source": "PRNewswire",
       "date": "2026-06-18",
-      "image": "https://mmx.prnewswire.com/media/MS542108/Kroger_Co_Logo.jpg?id=OA2718041&p=facebook",
-      "category": "market"
-    },
-    {
-      "title": "We\u2019ve now got the full text of the U.S.-Iran peace deal\u2014and allies are appalled at the gains it hands to Iran",
-      "description": "Everything you need to know before you reach the office this morning.",
-      "url": "https://fortune.com/2026/06/18/full-text-us-iran-memorandum-of-understanding-peace-deal/",
-      "source": "Fortune",
-      "date": "2026-06-18",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-2281620635-e1781778745761.jpg?resize=1200,600",
-      "category": "market"
-    },
-    {
-      "title": "Chinese makers of DRAM modules, SSDs have a serious advantage over American and Taiwanese suppliers, says SMI SVP \u2014 state guidance secures local DRAM and SSD supply while the Big Three chase AI margins",
-      "description": "CCP directives can be lifebuoy for Chinese producers of DRAM modules and solid-state drives as domestic memory makers may be obliged to support the module industry.",
-      "url": "https://www.tomshardware.com/pc-components/ssds/chinese-makers-of-dram-modules-ssds-have-a-serious-advantage-over-american-and-taiwanese-suppliers-says-smi-svp-state-guidance-secures-local-dram-and-ssd-supply-while-the-big-three-chase-ai-margins",
-      "source": "Tom's Hardware UK",
-      "date": "2026-06-18",
-      "image": "https://cdn.mos.cms.futurecdn.net/afv3vEtUQwLuesvTSHKbiP-1920-80.jpg",
-      "category": "supply_demand"
+      "image": "https://mma.prnewswire.com/media/2374575/nicb1_Logo.jpg?p=facebook",
+      "category": "geopolitics"
     }
   ],
   "history": [
@@ -427,7 +427,7 @@
       "platinum_usd_oz": 1760.87
     }
   ],
-  "timestamp": "2026-06-19T16:32:31.706462+05:30",
+  "timestamp": "2026-06-19T18:28:21.874000+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
