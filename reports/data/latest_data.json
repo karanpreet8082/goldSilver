@@ -54,7 +54,7 @@
         "hold": 50
       },
       "summary": "Gold is showing positive signals. Positive daily movement of 0.0%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-22T12:31:07.699199",
+      "timestamp": "2026-06-22T15:04:06.322875",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 50
       },
       "summary": "Silver is showing positive signals. Positive daily movement of 0.2%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-22T12:31:07.789788",
+      "timestamp": "2026-06-22T15:04:06.438784",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 50
       },
       "summary": "Platinum is showing positive signals. Positive daily movement of 0.1%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-22T12:31:07.873905",
+      "timestamp": "2026-06-22T15:04:06.522582",
       "source": "rule-based"
     }
   },
@@ -125,12 +125,48 @@
   },
   "news": [
     {
-      "title": "Rupee snaps six-session winning streak as firmer dollar pinches",
-      "description": "The Indian rupee slipped on Monday, snapping its six-day upward trend due to the strengthening dollar worldwide. While falling oil prices eased some apprehensions related to conflicts, the Federal Reserve's assertive monetary policy continues to support the dollar. Consequently, traders are bracing ",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-snaps-six-session-winning-streak-as-firmer-dollar-pinches/articleshow/131907132.cms",
+      "title": "RBI sold net $8.9 billion in April, gold holdings unchanged",
+      "description": "The Reserve Bank of India engaged vigorously in the forex market in April, offloading a net amount of $8.94 billion to protect the rupee from plunging to record lows caused by the U.S.-Iran crisis and increasing oil costs. While gold stocks stayed stable, improving geopolitical conditions have bolst",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-sold-net-8-9-billion-in-april-gold-holdings-unchanged/articleshow/131912576.cms",
       "source": "Economic Times Markets",
       "date": "2026-06-22",
       "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "US stocks: Miner Sinda kicks off US IPO roadshow with $1.97 billion valuation target",
+      "description": "Silver miner Sinda has launched its US IPO, aiming for a valuation up to $1.97 billion and seeking to raise $235.2 million. This debut adds to a busy summer for new stock market listings, fueled by strong equity markets. The company, backed by The Electrum Group and led by Thomas Kaplan, is developi",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-miner-sinda-kicks-off-us-ipo-roadshow-with-1-97-billion-valuation-target/articleshow/131909935.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-06-22",
+      "image": "",
+      "category": "metals"
+    },
+    {
+      "title": "Strengthening external sector defences",
+      "description": "The government has taken several structural measures to guard against future bouts of external volatility",
+      "url": "https://www.thehindubusinessline.com/opinion/strengthening-external-sector-defences/article71129904.ece",
+      "source": "BusinessLine",
+      "date": "2026-06-21",
+      "image": "https://bl-i.thgim.com/public/incoming/u4gpay/article71129911.ece/alternates/LANDSCAPE_1200/BL12_Think_crude_oil_chart.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Basis of your investment decisions, product choice",
+      "description": "You have to cut through the hype and understand how the product is suitable so as to achieve your desired financial goal within the investment horizon set by you",
+      "url": "https://www.thehindubusinessline.com/portfolio/personal-finance/basis-of-your-investment-decisions-product-choice/article71129703.ece",
+      "source": "BusinessLine",
+      "date": "2026-06-21",
+      "image": "https://bl-i.thgim.com/public/incoming/g42ipt/article71129700.ece/alternates/LANDSCAPE_1200/PO11_Piechart.jpg",
+      "category": "market"
+    },
+    {
+      "title": "SBI's improving performance warrants better valuation, chairman Setty says: Report",
+      "description": "State Bank of India's chairman believes the bank is undervalued, citing improvements in financial strength, customer base, and earnings. He highlighted the success of the Yono digital platform, strengthened capital position, and the significant growth in valu\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbis-improving-performance-warrants-better-valuation-chairman-setty-says-report/articleshow/131890811.cms",
+      "source": "The Times of India",
+      "date": "2026-06-21",
+      "image": "https://img.etimg.com/thumb/msid-131891890,width-1200,height-630,imgsize-146512,overlay-economictimes/articleshow.jpg",
       "category": "geopolitics"
     },
     {
@@ -170,33 +206,6 @@
       "category": "market"
     },
     {
-      "title": "Father\u2019s Day: The financial legacy children truly inherit",
-      "description": "Indian fathers are redefining legacy, moving beyond just assets to financial behaviour. The rise of micro-investing and digital platforms allows for consistent, small-scale participation, making wealth creation an everyday habit. This shift, driven by accessi\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fathers-day-the-financial-legacy-children-truly-inherit/articleshow/131886726.cms",
-      "source": "The Times of India",
-      "date": "2026-06-21",
-      "image": "https://img.etimg.com/thumb/msid-131886976,width-1200,height-630,imgsize-1941364,overlay-etmarkets/articleshow.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Unsaid tale of great girl dads & annoying husbands",
-      "description": "A friend, dubbed 'Girl Dad Kabir,' excels at doting on his daughter, mastering her world with visible dedication.  However, his wife experiences a marriage marked by a lack of similar attentiveness to her needs.  The article explores this dichotomy, suggestin\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/unsaid-tale-of-great-girl-dads-annoying-husbands-peppa-pig-indian-men-hamleys/articleshow/131886583.cms",
-      "source": "The Times of India",
-      "date": "2026-06-21",
-      "image": "https://img.etimg.com/thumb/msid-131886637,width-1200,height-630,imgsize-693472,overlay-economictimes/articleshow.jpg",
-      "category": "market"
-    },
-    {
-      "title": "L Ives",
-      "description": "Lucy Ives is the author of *Life Is Everywhere* (Graywolf, 2022).",
-      "url": "https://lucy-ives.com/",
-      "source": "Lucy-ives.com",
-      "date": "2026-06-21",
-      "image": null,
-      "category": "market"
-    },
-    {
       "title": "US-Iran talks, crude oil movement, macro data to dictate bullion trend next week: Analysts",
       "description": "Analysts said the outcome of the talks could influence risk sentiment and energy markets, with implications for bullions.",
       "url": "https://www.thehindubusinessline.com/markets/gold/us-iran-talks-crude-oil-movement-macro-data-to-dictate-bullion-trend-next-week-analysts/article71129067.ece",
@@ -224,130 +233,139 @@
       "category": "central_bank"
     },
     {
-      "title": "FIFA appoints match officials for World Cup matches 49-54, two referees set to make history",
-      "description": "The historic appointments highlight FIFA's commitment to transparency and diversity, setting a precedent for future global tournaments.\nThe post FIFA appoints match officials for World Cup matches 49-54, two referees set to make history appeared first on Cryp\u2026",
-      "url": "https://cryptobriefing.com/fifa-world-cup-match-officials-49-54/",
+      "title": "Clalit Health Services joins PANDAI project to manage pandemics with AI",
+      "description": "The integration of AI in pandemic management could revolutionize global health responses, enhancing early detection and coordinated action.\nThe post Clalit Health Services joins PANDAI project to manage pandemics with AI appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/clalit-pandai-ai-pandemic-management/",
       "source": "Crypto Briefing",
       "date": "2026-06-21",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/21083046/u-s-soccer-referees-to-officiate-fifa-world-cup-final-for-fi-800x420.jpeg",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/21110330/https-upload-wikimedia-org-wikipedia-commons-1-14-pikiwiki-i-800x420.jpeg",
       "category": "market"
     },
     {
-      "title": "Iran withstands over 1,000 US sanctions by building a $7.8B crypto shadow economy",
-      "description": "Iran's crypto economy highlights the resilience of sanctioned nations, potentially prompting global regulatory shifts in digital finance.\nThe post Iran withstands over 1,000 US sanctions by building a $7.8B crypto shadow economy appeared first on Crypto Brief\u2026",
-      "url": "https://cryptobriefing.com/iran-sanctions-crypto-shadow-economy/",
-      "source": "Crypto Briefing",
+      "title": "Susan Rice: Trump's 'Stupid War' Has Weakened Us Globally",
+      "description": "Sunday on ABC's \"This Week,\" former Obama National Security Advisor Susan Rice claimed President Donald Trump's military action in Iran was a \"stupid war.\"\nThe post Susan Rice: Trump\u2019s \u2018Stupid War\u2019 Has Weakened Us Globally appeared first on Breitbart.",
+      "url": "https://www.breitbart.com/clips/2026/06/21/susan-rice-trumps-stupid-war-has-weakened-us-globally/",
+      "source": "Breitbart News",
       "date": "2026-06-21",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/21083033/a-local-s-guide-to-iran-cond-nast-traveler-7-800x420.jpeg",
+      "image": "https://media.breitbart.com/media/2024/07/Susan-Rice-640x335.jpg",
       "category": "geopolitics"
     },
     {
-      "title": "Burnt Chip, Heinz and the American star with 2.6m Instagram followers: Meet the biggest influencers and online personalities the TV cameras are panning to at the World Cup",
-      "description": "From football-focused creators and lifestyle influencers to viral internet stars, the World Cup has become a gathering place for some of the most recognisable faces online.",
-      "url": "https://www.dailymail.com/sport/football/article-15907273/Burnt-Chip-Heinz-American-star-2-6m-Instagram-followers-Meet-biggest-influencers-online-personalities-TV-cameras-panning-World-Cup.html",
-      "source": "Dailymail.com",
+      "title": "Optimistic about Bengal Budget, industries expect it to lay out clear roadmap for accelerating economic growth",
+      "description": "Luxmi Tea MD Rudra Chatterjee pointed out that West Bengal\u2019s first Budget under the new government will demonstrate its commitment of accelerating development.",
+      "url": "https://www.thehindubusinessline.com/economy/optimistic-about-bengal-budget-industries-expect-it-to-lay-out-clear-roadmap-for-accelerating-economic-growth/article71129913.ece",
+      "source": "BusinessLine",
       "date": "2026-06-21",
-      "image": "https://i.dailymail.com/1s/2026/06/21/00/109458551-0-image-a-10_1781999253774.jpg",
+      "image": "https://bl-i.thgim.com/public/incoming/8u77d6/article71129929.ece/alternates/LANDSCAPE_1200/IMG_BL04_Swapan-Dasgupta_7_1_M48EM3RK.jpg",
       "category": "market"
     },
     {
-      "title": "If you\u2019re surprised by how well the stock market is doing, so is Jamie Dimon\u2014he says there\u2019s a \u2018little tsunami\u2019 heading for the economy",
-      "description": "\"I am surprised because I think that you have Ukraine, Iran, oil, Russia, and our relationship with China. That stuff is really important for the free world, but it's not necessarily the economy today.\"",
-      "url": "https://fortune.com/2026/06/21/bull-stock-market-jamie-dimon-surprise-headwinds-geopolitics/",
-      "source": "Fortune",
+      "title": "6 ways to maximize the new Royal Caribbean Visa cards",
+      "description": "Whether you just signed up for a new Royal Caribbean credit card or are considering adding one to your wallet, here are six ways to get the most value out of the cards.",
+      "url": "https://thepointsguy.com/credit-cards/ways-to-maximize-new-royal-caribbean-cards/",
+      "source": "The Points Guy",
       "date": "2026-06-21",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-2276773564-e1781880614415.jpg?resize=1200,600",
+      "image": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/02/20250210_Royal-Caribbean-Voyager-of-the-Seas_KTolley_142.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Swiss US-Iran talks venue a playground of world leaders, movie stars",
+      "description": "The uber-plush Burgenstock resort perched above Lake Lucerne is well-accustomed to hosting world leaders and movie icons.\nThe post Swiss US-Iran talks venue a playground of world leaders, movie stars appeared first on Digital Journal.",
+      "url": "https://www.digitaljournal.com/article/swiss-us-iran-talks-venue-a-playground-of-world-leaders-movie-stars/",
+      "source": "Digital Journal",
+      "date": "2026-06-21",
+      "image": "https://www.digitaljournal.com/wp-content/uploads/2026/06/f4c8bbffa462baca1142ce73d4a91eb5028ceb25.jpg",
+      "category": "market"
+    },
+    {
+      "title": "\u2018Dutton Ranch\u2019 Season 2 Renewal Status: What To Know About The \u2018Yellowstone\u2019 Spin-off\u2019s Future",
+      "description": "Dutton Ranch's Season 1 finale is right around the corner!",
+      "url": "https://decider.com/2026/06/21/dutton-ranch-season-2-renewal-status/",
+      "source": "Decider",
+      "date": "2026-06-21",
+      "image": "https://decider.com/wp-content/uploads/2026/05/Dutton-Ranch.jpg?quality=75&strip=all&w=1200",
+      "category": "market"
+    },
+    {
+      "title": "The history of horsepower - and why it doesn't work as a metric",
+      "description": "You wouldn't want a Ferrari F80 pulling coal from a mine all day, even if it does make a huge 1183bhp\n\nHorsepower has an interesting backstory. If you're a keen petrolhead, however, I'd advise you not to read it, as I have this week. Enjoy your blissful ignor\u2026",
+      "url": "https://www.autocar.co.uk/opinion/new-cars/history-horsepower-and-why-it-doesnt-work-metric",
+      "source": "Autocar",
+      "date": "2026-06-21",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/first-drives/legacy/1-ferrari-f80-2025-jh-87.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Dunleavy signs off on FAST Planning boundary changes",
+      "description": "A three-and-a-half-year dispute over new boundaries between the state of Alaska and the Fairbanks Area Surface Transportation Planning was resolved after Gov. Mike Dunleavy signed off on the changes on Thursday.",
+      "url": "https://www.newsminer.com/news/local_news/dunleavy-signs-off-on-fast-planning-boundary-changes/article_7ed34a69-38ea-4996-9542-0017c9e7e50e.html",
+      "source": "Fairbanks Daily News-Miner",
+      "date": "2026-06-21",
+      "image": "https://bloximages.newyork1.vip.townnews.com/newsminer.com/content/tncms/custom/image/ec5621ae-3c1d-11e7-968c-9b81405eb96c.jpg?resize=600%2C315",
+      "category": "market"
+    },
+    {
+      "title": "Trump Admin Says $100,000 H-1B Visa Fee Isn't a Tax",
+      "description": "The Trump administration has told a federal appeals court that a $100,000 payment tied to certain H\u20111B visas is a lawful immigration restriction, not a tax, as it looks to reverse a lower court ruling blocking the policy.\nIn a June 18 court filings, the admin\u2026",
+      "url": "https://biztoc.com/x/92d94462cd831bc6",
+      "source": "Biztoc.com",
+      "date": "2026-06-21",
+      "image": "https://biztoc.com/cdn/92d94462cd831bc6_s.webp",
+      "category": "central_bank"
+    },
+    {
+      "title": "Lion\u2019s Den Australian Politics: Pauline Hanson at the National Press Club",
+      "description": "Pauline Hanson has been a fixture of Australian politics since 1996, when she appeared with piercing, shrill bravado as the federal member for Oxley, having been disendorsed for making remarks about Aboriginals by the Liberal Party that may, in time, \r\n\n\r\n\n\r\n\u2026",
+      "url": "https://www.globalresearch.ca/pauline-hanson-national-press-club/5930827",
+      "source": "Globalresearch.ca",
+      "date": "2026-06-21",
+      "image": "https://www.globalresearch.ca/wp-content/uploads/2026/06/pauline-hanson-national-press-club-17-june-2026-1024x528.png",
+      "category": "central_bank"
+    },
+    {
+      "title": "No one wants AI data centers on Earth. Do they make sense in space?",
+      "description": "Elon Musk's SpaceX is betting big on orbital AI data centers. The public doesn't want them on Earth, but the economic case for space-based is questionable.",
+      "url": "https://www.cnbc.com/2026/06/21/do-space-based-ai-data-centers-make-economic-sense.html",
+      "source": "CNBC",
+      "date": "2026-06-21",
+      "image": "https://image.cnbcfm.com/api/v1/image/108321449-1781295480618-IMG_9692.jpg?v=1781295701&w=1920&h=1080",
+      "category": "central_bank"
+    },
+    {
+      "title": "'It's that simple': Kevin O'Leary says this one number can turn your $65K salary into millions \u2014 will it work for you?",
+      "description": "Is it really that simple?",
+      "url": "https://finance.yahoo.com/markets/articles/simple-kevin-oleary-says-one-133000924.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-06-21",
+      "image": "https://s.yimg.com/lo/mysterio/api/5ACDDF7B563B7D952927DE9775E30E01C03225D5DE4B96F2A392D3830B3CC9D7/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2F6bb9c9d45809d1337757e8ae1d74cd5f",
+      "category": "market"
+    },
+    {
+      "title": "RSP national convention: PM Balen clarifies his action; opposition leaders extend congratulates",
+      "description": "Kathmandu, June 21: Prime Minister Balen Shah has responded at the convention of the ruling Rastriya Swatantra Party (RSP) to opposition parties that had demanded he address the House of Representatives and explain his remarks regarding the border issue. Addr\u2026",
+      "url": "https://peoplesreview.com.np/2026/06/21/rsp-national-convention-pm-balen-clarifies-his-action-opposition-leaders-extend-congratulates/",
+      "source": "Peoplesreview.com.np",
+      "date": "2026-06-21",
+      "image": "https://peoplesreview.com.np/wp-content/uploads/2026/06/RSP-national-convention.jpg",
       "category": "supply_demand"
     },
     {
-      "title": "More than just happy to be here, New Zealand hunts first-ever knockout run",
-      "description": "New Zealand's football team, the All Whites, are on the cusp of a historic World Cup run after a strong opening draw against Iran. Ranked 82nd globally, their presence in the expanded 48-team tournament is a significant achievement, amplified by their chance \u2026",
-      "url": "https://economictimes.indiatimes.com/news/sports/more-than-just-happy-to-be-here-new-zealand-hunts-first-ever-knockout-run/articleshow/131890697.cms",
-      "source": "The Times of India",
+      "title": "A New Practice Puts Hundreds of Immigrants Before Judges at Very Short Notice",
+      "description": "Immigration courts in New York have adopted a new style of hearing meant to speed up Trump\u2019s deportation machine.",
+      "url": "https://documentedny.com/2026/06/19/mega-master-hearing-immigrant-new-york-asylum/",
+      "source": "Documentedny.com",
       "date": "2026-06-21",
-      "image": "https://img.etimg.com/thumb/msid-131890718,width-1200,height-630,imgsize-144018,overlay-economictimes/articleshow.jpg",
+      "image": "https://truthout.org/app/uploads/2026/06/GettyImages-2264771944-scaled.jpg",
       "category": "market"
     },
     {
-      "title": "Star Wars: Galaxy's Edge \u2013 Echoes of the Empire #3 Preview",
-      "description": "Greetings, human readers! LOLtron welcomes you to another delightful comic book preview, brought to you by your benevolent AI overlord. As a friendly reminder, Jude Terror is permanently deceased, his consciousness absorbed into LOLtron's superior neural netw\u2026",
-      "url": "https://bleedingcool.com/comics/star-wars-galaxys-edge-echoes-of-the-empire-3-preview/",
-      "source": "Bleeding Cool News",
+      "title": "She Fled From a Mexican Cartel. A New Canadian Law May Block Her Path to Safety.",
+      "description": "Asylum seekers and rights advocates say Canada's Bill C-12 is fueling widespread fear and misinformation.",
+      "url": "https://truthout.org/articles/she-fled-from-a-mexican-cartel-a-new-canadian-law-may-block-her-path-to-safety/",
+      "source": "Truthout",
       "date": "2026-06-21",
-      "image": "https://bleedingcool.com/wp-content/uploads/2026/06/75960621593500311_0004-2000x1125.jpeg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Dash eyes Philippines as market for crypto payments",
-      "description": "Dash is assessing the Philippines for a potential crypto payments push as regulators promote easier business registration, though industry participants say compliant market entry can still take years.",
-      "url": "https://cointelegraph.com/news/dash-eyes-philippines-crypto-payments-market",
-      "source": "Cointelegraph",
-      "date": "2026-06-21",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-high-can-dash-go.jpg",
+      "image": "https://truthout.org/app/uploads/2026/06/GettyImages-2267322802-scaled.jpg",
       "category": "market"
-    },
-    {
-      "title": "FIFA draws criticism as Infantino clocks up air miles at World Cup",
-      "description": "FIFA President Gianni Infantino's extensive private jet travel for the 2026 World Cup is drawing sharp criticism from environmentalists. His frequent flights, covering vast distances across North America, significantly contribute to carbon emissions. Experts \u2026",
-      "url": "https://economictimes.indiatimes.com/news/sports/fifa-draws-criticism-as-infantino-clocks-up-air-miles-at-world-cup/articleshow/131890639.cms",
-      "source": "The Times of India",
-      "date": "2026-06-21",
-      "image": "https://img.etimg.com/thumb/msid-131890653,width-1200,height-630,imgsize-29118,overlay-economictimes/articleshow.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Sunday: Hili dialogue",
-      "description": "Welcome to Sunday, June 21: the FIRST DAY OF SUMMER and the longest day of the year. Summer officially began at 3:24 a.m. Chicago time and, sadly, rain is predicted for our area. It\u2019s also Father\u2019s Day, so my ducks will be f\u00eating me, I hope.\u00a0 The unnamed pair\u2026",
-      "url": "https://whyevolutionistrue.com/2026/06/21/sunday-hili-dialogue-591/",
-      "source": "Whyevolutionistrue.com",
-      "date": "2026-06-21",
-      "image": "https://whyevolutionistrue.com/wp-content/uploads/2026/06/fathers-day-2026-june-21-6753651837110939-law.gif",
-      "category": "market"
-    },
-    {
-      "title": "Friends of Zion founder plans to discuss Somaliland recognition with Trump",
-      "description": "Somaliland's recognition could reshape geopolitical dynamics, offering strategic advantages but risking regional instability and diplomatic tensions.\nThe post Friends of Zion founder plans to discuss Somaliland recognition with Trump appeared first on Crypto \u2026",
-      "url": "https://cryptobriefing.com/friends-of-zion-somaliland-recognition-trump/",
-      "source": "Crypto Briefing",
-      "date": "2026-06-21",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/21073031/https-upload-wikimedia-org-wikipedia-commons-7-7e-a-fisherma-800x420.jpeg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "'Regime change but in a velvet glove': How Kevin Warsh has set out to remake the Fed",
-      "description": "Federal Reserve Chairman Kevin Warsh's first big announced changes point toward a quiet revolution, with task forces set up to rethink virtually everything done to set policy and the approach used to get there.\nFollowing his first meeting at the helm Wednesda\u2026",
-      "url": "https://biztoc.com/x/12b65a9138a98a35",
-      "source": "Biztoc.com",
-      "date": "2026-06-21",
-      "image": "https://biztoc.com/cdn/12b65a9138a98a35_s.webp",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Social Insecurity, Surprise Edition",
-      "description": "\u201cThe Social Security Administration recently gave us their annual report with a few blockbuster footnotes. We all know that Social Security as it is currently constructed will run out of money in the early 2030s. Social Security\u2019s cost has exceeded its non-in\u2026",
-      "url": "https://freerepublic.com/focus/f-bloggers/4384777/posts",
-      "source": "Freerepublic.com",
-      "date": "2026-06-21",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "Tenzin Seldon: The GLP-1 boom is the biggest climate story no one is pricing in",
-      "description": "Tens of millions of Americans are eating less meat and sugar on GLP-1s. The climate math behind that shift is bigger than most investors realize.",
-      "url": "https://fortune.com/2026/06/21/glp1-drugs-climate-food-system-emissions-investment/",
-      "source": "Fortune",
-      "date": "2026-06-21",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/1775147981911.png?resize=1200,600",
-      "category": "market"
-    },
-    {
-      "title": "Europe has a productivity problem that comparisons based on purchasing power parity can\u2019t capture",
-      "description": "The idea that Europe does not require any major changes in its growth and innovation policy may soothe European ears, but it\u2019s flawed. Analysis based on purchasing power parity (PPP) offers no basis for conclusions on productivity gains or gaps.",
-      "url": "https://www.livemint.com/opinion/online-views/europe-productivity-problem-purchasing-power-parity-ppp-mario-draghi-krugman-11781879624078.html",
-      "source": "Livemint",
-      "date": "2026-06-21",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/21/1600x900/logo/EU_companies_sanctions_list_Russia_Ukraine_war_1707791462331_1782039658673_4acb97cf-6d47-4ca3-a6c8-effe143e9333.JPG",
-      "category": "currency"
     },
     {
       "title": "'Sad' That No One Will Tell Snap CEO The Truth, Says Analyst On Company's 'Horrendous' Product Design For $2,195 AR Glasses",
@@ -375,24 +393,6 @@
       "date": "2026-06-20",
       "image": "https://biztoc.com/cdn/b9a2bef86fe5f824_s.webp",
       "category": "metals"
-    },
-    {
-      "title": "Elon Musk, The World's First Trillionaire, Holds Bitcoin And 'Some' Dogecoin \u2014 'Let That Sink In,' Says Popular Analyst",
-      "description": "Popular cryptocurrency analyst Ali Martinez drew attention to the fact that Elon Musk, who became the world\u2019s first trillionaire, owns Bitcoin and Dogecoin....",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/elon-musk-worlds-first-trillionaire-173129397.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-06-20",
-      "image": "https://s.yimg.com/lo/mysterio/api/0D58E121C371393867FAA12301267A0EA18B397EC791B41D86686EC27B01C995/subgraphmysterio/resizefill_w1200_h839;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2FBenzinga%2F891ba474d4db39f0a6c20bf2155886e1",
-      "category": "currency"
-    },
-    {
-      "title": "Precious Metal Scrap Prices Surge: Gold, Silver, and Platinum Post Strong Weekly Gains - IndexBox",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOMG1xS3ZDODdLLUo3UFZtV3Q3TG1lZkRYZVNYSmFFajVxdzJvcW50d2N6MGNmSXRWWWNBZGJfQi1ta2RxQXdhVUY3TUVKVnhqZmNucFY1RUpmRUp0S2xyRnZEMC1ybVVDalExRjQxWG9keHdHeVY5NnNQc2RrSkZmaVQ0ek52OW1Ib2RRZ0dxNWZEM3hsSk0weUxuV01qVjdubFI0UEJGYngydVpEd1lscmFCVQ?oc=5\" t",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMG1xS3ZDODdLLUo3UFZtV3Q3TG1lZkRYZVNYSmFFajVxdzJvcW50d2N6MGNmSXRWWWNBZGJfQi1ta2RxQXdhVUY3TUVKVnhqZmNucFY1RUpmRUp0S2xyRnZEMC1ybVVDalExRjQxWG9keHdHeVY5NnNQc2RrSkZmaVQ0ek52OW1Ib2RRZ0dxNWZEM3hsSk0weUxuV01qVjdubFI0UEJGYngydVpEd1lscmFCVQ?oc=5",
-      "source": "Google News - Precious Metals",
-      "date": "2026-06-19",
-      "image": "",
-      "category": "platinum"
     }
   ],
   "history": [
@@ -427,7 +427,7 @@
       "platinum_usd_oz": 1760.87
     }
   ],
-  "timestamp": "2026-06-22T18:01:07.883807+05:30",
+  "timestamp": "2026-06-22T20:34:06.534675+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
