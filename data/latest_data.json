@@ -54,7 +54,7 @@
         "hold": 50
       },
       "summary": "Gold is showing positive signals. Positive daily movement of 0.0%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-23T12:20:06.972938",
+      "timestamp": "2026-06-23T15:35:46.311354",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 50
       },
       "summary": "Silver is showing positive signals. Positive daily movement of 0.2%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-23T12:20:07.087216",
+      "timestamp": "2026-06-23T15:35:46.390848",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 50
       },
       "summary": "Platinum is showing positive signals. Positive daily movement of 0.1%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-23T12:20:07.192973",
+      "timestamp": "2026-06-23T15:35:46.464902",
       "source": "rule-based"
     }
   },
@@ -125,22 +125,94 @@
   },
   "news": [
     {
-      "title": "Rupee slips as Fed rate expectations boost dollar, dent global stocks",
-      "description": "The Indian rupee slipped a bit on Tuesday, aligning with global movements as the U.S. dollar climbed to its highest point in a year. The dollar's ascent, fueled by renewed hopes for Federal Reserve interest rate increases, led to a downturn in Asian markets. While traders brace for continued challen",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-slips-as-fed-rate-expectations-boost-dollar-dent-global-stocks/articleshow/131933629.cms",
+      "title": "Axis Bank raises $800 million through dual bond sale",
+      "description": "Axis Bank successfully raised $800 million through a dual tranche dollar bond, tapping into the Reserve Bank of India's concessional swap facility. The bank secured $500 million via an Additional Tier 1 perpetual issue and $300 million from a five-year senior bond. Both issuances attracted significa",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/axis-bank-raises-800-million-through-dual-bond-sale/articleshow/131942561.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-06-23",
+      "image": "",
+      "category": "currency"
+    },
+    {
+      "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
+      "description": "Sensex and Nifty plunged over 1% on Tuesday amid global market weakness, IT sector losses, a weaker rupee and fresh foreign fund outflows. Investors will track technical levels, global cues, FII activity and key stock movements on Wednesday as markets look for direction after the sharp decline.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/131941638.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-06-23",
+      "image": "",
+      "category": "currency"
+    },
+    {
+      "title": "US stocks fall at open on tech selloff as concerns about hawkish Fed, AI spending mount",
+      "description": "Indian markets opened on a subdued note Tuesday, mirroring global trends. Major indices saw a dip as investors grew cautious about the Federal Reserve's potential hawkish stance. Concerns over escalating debt-fueled spending on artificial intelligence also weighed on sentiment, particularly impactin",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-fall-at-open-on-tech-selloff-as-concerns-about-hawkish-fed-ai-spending-mount/articleshow/131939659.cms",
       "source": "Economic Times Markets",
       "date": "2026-06-23",
       "image": "",
       "category": "central_bank"
     },
     {
-      "title": "Gold may fall to $3,800 on Fed hike risk; ETF outflows, weak Asia demand weigh \u2013 Deutsche Bank report",
-      "description": "Gold could fall to $3,800 per ounce if markets price in multiple US Federal Reserve rate hikes, according to Deutsche Bank. Weak ETF inflows, soft Asian demand and subdued investment interest are weighing on bullion, even as a base case still sees upside if the Fed maintains a pause.",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-may-fall-to-3800-on-fed-hike-risk-etf-outflows-weak-asia-demand-weigh-deutsche-bank-report/articleshow/131933610.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-06-23",
-      "image": "",
-      "category": "central_bank"
+      "title": "At Presidential Center Opening, Obama Warns Against Corruption, and More: Morning Links for June 22,\u00a02026",
+      "description": "The former president warned against those who \u201csee government as nothing more than a way to divvy up the spoils.\u201d",
+      "url": "https://www.artnews.com/art-news/news/obama-presidential-center-opening-obama-warns-against-corruption-1234789889/",
+      "source": "ARTnews",
+      "date": "2026-06-22",
+      "image": null,
+      "category": "geopolitics"
+    },
+    {
+      "title": "Gold Exchange Universe Expands Authorised Network to Serve Consumer Sellers and Sydney\u2019s Trade Gold Market Across Australia",
+      "description": "35 Years of Precious Metals Authority, Five Verified .com.au Platforms, and Sydney's Most Advanced Gold Testing Technology \u2014 XRF Analysis, Commercially Sealed Certified Weights, and Live International Spot Rates Applied at the Moment of Transaction \u2014 Now Serv\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/06/22/3315443/0/en/Gold-Exchange-Universe-Expands-Authorised-Network-to-Serve-Consumer-Sellers-and-Sydney-s-Trade-Gold-Market-Across-Australia.html",
+      "source": "GlobeNewswire",
+      "date": "2026-06-22",
+      "image": "https://ml.globenewswire.com/Resource/Download/9205adb5-1964-4f5f-a3ba-d89746e7bbdd",
+      "category": "metals"
+    },
+    {
+      "title": "Amebiasis as a neglected tropical disease: Current knowledge gaps and future directions",
+      "description": "Entamoeba histolytica is a protozoan parasite that causes amebic colitis, a leading cause of severe diarrheal disease worldwide, and amebic liver abscess, the most common extraintestinal manifestation of infection. The disease burden is highest in resource-li\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014423",
+      "source": "Plos.org",
+      "date": "2026-06-22",
+      "image": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0014423.g004&size=inline",
+      "category": "market"
+    },
+    {
+      "title": "Stocks Hover Near Peak, Oil Falls on US-Iran Talks: Markets Wrap",
+      "description": "A decline in oil prices left stocks hovering near their all-time highs as peace talks between the US and Iran showed signs of progress after a rocky start to the negotiations.",
+      "url": "https://financialpost.com/pmn/business-pmn/stocks-hover-near-peak-oil-falls-on-us-iran-talks-markets-wrap",
+      "source": "Financial Post",
+      "date": "2026-06-22",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/776507116-2.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Platinum Is Down 6% While Gold Hit Record Highs and One Quiet ETF Sits at the Bottom of a Setup Most Investors Are Missing",
+      "description": "Price ratios often operate akin to rubber bands: if the ratio starts to increase, the rubber band may get stretched, but will snap back to achieve its baseli...",
+      "url": "https://247wallst.com/investing/2026/06/22/platinum-is-down-6-while-gold-hit-record-highs-and-one-quiet-etf-sits-at-the-bottom-of-a-setup-most-investors-are-missing/",
+      "source": "24/7 Wall St.",
+      "date": "2026-06-22",
+      "image": "https://s.yimg.com/lo/mysterio/api/D8DF97BB54086DB76B7835A82EC49EAE828E2D89D2F01201972716BAFA3BDE0E/subgraphmysterio/resizefill_w1200_h961;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F4234a9038c7a96471f2e711fabde7540",
+      "category": "platinum"
+    },
+    {
+      "title": "True Religion Is A Fashion Brand That Refused To Die\u2014And Came Back Stronger",
+      "description": "After two bankruptcies, multiple owners and a generational reset, True Religion has new life, opening 6 new stores and projecting over $500 million in sales this year.",
+      "url": "https://www.forbes.com/sites/pamdanziger/2026/06/22/true-religion-is-a-fashion-brand-that-refused-to-die-and-came-back-stronger/",
+      "source": "Forbes",
+      "date": "2026-06-22",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a36a2db0c9a40f495cd0e71/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "category": "market"
+    },
+    {
+      "title": "Americas Gold and Silver (USAS) Announces High-Grade Drill Results at the Cosal\u00e1 Complex",
+      "description": "Americas Gold and Silver Corporation (NYSEAMERICAN:USAS) is one of the best small cap stocks to buy for the long term. Americas Gold and Silver Corporation (...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/americas-gold-silver-usas-announces-124621948.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-06-22",
+      "image": "https://s.yimg.com/lo/mysterio/api/FEFB0485DCCE557B272D02BC8B0562FD8684D97FFE20D935E168AF7CD1F0A500/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F74edec48d14e71ba7362faf0cf385f3b",
+      "category": "metals"
     },
     {
       "title": "Rare Notable Exceptions",
@@ -150,6 +222,51 @@
       "date": "2026-06-22",
       "image": "https://www.lawyersgunsmoneyblog.com/wp-content/uploads/2026/06/Greenspan_Alan_Whitehouse.jpg",
       "category": "market"
+    },
+    {
+      "title": "Mint Innovation Names Gen. Robert B. Neller, USMC (Ret.), as Strategic Advisor",
+      "description": "Former 37th Commandant of the Marine Corps joins critical minerals recovery company as it expands into the United States Former 37th Commandant of the Marine Corps joins critical minerals recovery company as it expands into the United States",
+      "url": "https://www.globenewswire.com/news-release/2026/06/22/3315456/0/en/Mint-Innovation-Names-Gen-Robert-B-Neller-USMC-Ret-as-Strategic-Advisor.html",
+      "source": "GlobeNewswire",
+      "date": "2026-06-22",
+      "image": "https://ml.globenewswire.com/Resource/Download/940dc40a-9700-4722-a248-16cb0fe192ad",
+      "category": "market"
+    },
+    {
+      "title": "Monetary Gold Takes a Stand Against Precious Metals Courier Scams Targeting Seniors",
+      "description": "Monetary Gold is one of the only precious metals companies publicly standing with local officials and law enforcement to warn Americans about a growing threat involving gold, silver, cash, and home couriers WOODLAND HILLS, Calif., June 22, 2026 /PRNewswire/ -\u2026",
+      "url": "https://www.prnewswire.com/news-releases/monetary-gold-takes-a-stand-against-precious-metals-courier-scams-targeting-seniors-302805676.html",
+      "source": "PRNewswire",
+      "date": "2026-06-22",
+      "image": "https://mma.prnewswire.com/media/2997718/MG_Precious_Metals_Courier_Scams.mp4?p=medium",
+      "category": "geopolitics"
+    },
+    {
+      "title": "US stocks: Miner Sinda kicks off US IPO roadshow with $1.97 billion valuation target",
+      "description": "Silver miner Sinda has launched its US IPO, aiming for a valuation up to $1.97 billion and seeking to raise $235.2 million. This debut adds to a busy summer for new stock market listings, fueled by strong equity markets. The company, backed by The Electrum Gr\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-miner-sinda-kicks-off-us-ipo-roadshow-with-1-97-billion-valuation-target/articleshow/131909935.cms",
+      "source": "The Times of India",
+      "date": "2026-06-22",
+      "image": "https://img.etimg.com/thumb/msid-131909935,width-1200,height-630,imgsize-203294,overlay-etmarkets/articleshow.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "Slouching Toward Peace",
+      "description": "\". . .They are running the Accords logic to its conclusion: every adversary becomes a counterparty, every conflict becomes a deal, every closed economy becomes an investable market.\" \u2014Patrick Wood",
+      "url": "https://www.kunstler.com/p/slouching-toward-peace",
+      "source": "Kunstler.com",
+      "date": "2026-06-22",
+      "image": "https://substackcdn.com/image/fetch/$s_!DwQn!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f6e01b7-2b41-479d-a5c7-dfacbbf3c006_700x467.heic",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Gold, silver rebound as weak rupee, global rally revive bullion demand",
+      "description": "Gold, with 99.9% purity, ended its four-day losing streak, rising \u20b91,700 to \u20b91,52,300 per 10 grams; Silver also increased by \u20b94,800 to \u20b92,45,500 per kilogram, up from \u20b92,40,700",
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-silver-rebound-as-weak-rupee-global-rally-revive-bullion-demand/article71133016.ece",
+      "source": "BusinessLine",
+      "date": "2026-06-22",
+      "image": "https://bl-i.thgim.com/public/incoming/7iaejt/article71133046.ece/alternates/LANDSCAPE_1200/IMG_PO21_Gold_silver_2_1_0RCMIHOA.jpg",
+      "category": "currency"
     },
     {
       "title": "Silvercorp Announces the Construction Plan and Schedule for the Development of the Chaarat ZAAV Project",
@@ -170,229 +287,112 @@
       "category": "market"
     },
     {
-      "title": "Nova Minerals Announces U.S. Redomicile is Complete and Provides a Project Update",
-      "description": "Anchorage, Alaska, June 22, 2026 (GLOBE NEWSWIRE) -- Nova Minerals Corp (\u201cNova Minerals\u201d or the \u201cCompany\u201d) (NYSE American: NVA | ASX: NVA) is pleased to announce that its redomicile to the United States has been successfully completed and to provide an update\u2026",
-      "url": "https://www.globenewswire.com/news-release/2026/06/22/3315133/0/en/Nova-Minerals-Announces-U-S-Redomicile-is-Complete-and-Provides-a-Project-Update.html",
-      "source": "GlobeNewswire",
+      "title": "Velan Inc.: Announcement",
+      "description": "MONTREAL, June 22, 2026 (GLOBE NEWSWIRE) \u2014 Velan Inc. (TSX: VLN) announced today that, on Thursday, July 9, 2026, it will release its financial results for the first quarter ended May 31, 2026. The company will hold an analyst call on Friday, July 10, 2026, a\u2026",
+      "url": "https://financialpost.com/globe-newswire/velan-inc-announcement-24",
+      "source": "Financial Post",
       "date": "2026-06-22",
-      "image": "https://ml.globenewswire.com/Resource/Download/1b04eeb1-e092-4773-9ad1-5f03de5cfe4b",
+      "image": null,
       "category": "market"
     },
     {
-      "title": "Hemlo Mining Corp. Appoints Eva Koci to Board of Directors",
-      "description": "Seasoned capital markets executive brings deep mining sector expertise to strengthen Board skill set and independence TORONTO, June 22, 2026 /PRNewswire/ - Hemlo Mining Corp. (TSX: HMMC) (OTCQX: HMMCF) (\"Hemlo Mining\" or the \"Company\") today announced that Ev\u2026",
-      "url": "https://www.prnewswire.com/news-releases/hemlo-mining-corp-appoints-eva-koci-to-board-of-directors-302805964.html",
+      "title": "Chainguard Named a Leader in Inaugural Gartner\u00ae Magic Quadrant\u2122 for Software Supply Chain Security",
+      "description": "Chainguard positioned furthest right for Completeness of Vision among all vendors evaluated KIRKLAND, Wash., June 22, 2026 /PRNewswire/ -- Chainguard, the trusted source for open source, today announced it has been named a Leader in the inaugural Gartner\u00ae Mag\u2026",
+      "url": "https://www.prnewswire.com/news-releases/chainguard-named-a-leader-in-inaugural-gartner-magic-quadrant-for-software-supply-chain-security-302806535.html",
       "source": "PRNewswire",
       "date": "2026-06-22",
-      "image": "https://mmx.prnewswire.com/media/MS1764465/Hemlo_Mining_Corp--Hemlo_Mining_Corp-_Appoints_Eva_Koci_to_Board.jpg?id=OA2726906&p=facebook",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Is KlarFX.com a Scam or a Trusted Broker for European Investors?",
-      "description": "When people search \u201cis KlarFX.com a scam?\u201d or \u201cKlarFX.com review,\u201d they are usually not looking for a long sales pitch. They want a straight answer. They want to know if KlarFX is a serious trading platform, whether the company provides a secure environment, \u2026",
-      "url": "https://techbullion.com/is-klarfx-com-a-scam-or-a-trusted-broker-for-european-investors/",
-      "source": "Techbullion.com",
-      "date": "2026-06-22",
-      "image": "https://techbullion.com/wp-content/uploads/2021/07/download-11-1000x600.png",
-      "category": "currency"
-    },
-    {
-      "title": "Generation Mining Secures CAD $200 Million Subordinated Debt Commitment from Canada Infrastructure Bank",
-      "description": "TORONTO \u2014 Generation Mining Limited (TSX: GENM) (OTCQB: GENMF) (the \u201cCompany\u201d) is pleased to announce the Canada Infrastructure Bank (\u201cCIB\u201d) has received internal credit approval for a subordinated debt facility of CAD $200 million (\u201cCIB Facility\u201d) to support\u2026",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/generation-mining-secures-cad-200-million-subordinated-debt-commitment-from-canada-infrastructure-bank",
-      "source": "Financial Post",
-      "date": "2026-06-22",
-      "image": null,
-      "category": "supply_demand"
-    },
-    {
-      "title": "Equinox Gold Publishes 2025 Sustainability Report",
-      "description": "Equinox Gold's 2025 sustainability report provides an overview of the Company's performance across key environmental, social and governance topics....",
-      "url": "https://www.globenewswire.com/news-release/2026/06/22/3315112/0/en/Equinox-Gold-Publishes-2025-Sustainability-Report.html",
-      "source": "GlobeNewswire",
-      "date": "2026-06-22",
-      "image": "https://ml.globenewswire.com/Resource/Download/322c1a7d-5c3e-4a91-8e8e-4842b3dafa6b",
-      "category": "metals"
-    },
-    {
-      "title": "Gold, silver rebound as weak rupee, global rally revive bullion demand",
-      "description": "Gold, with 99.9% purity, ended its four-day losing streak, rising \u20b91,700 to \u20b91,52,300 per 10 grams; Silver also increased by \u20b94,800 to \u20b92,45,500 per kilogram, up from \u20b92,40,700",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-silver-rebound-as-weak-rupee-global-rally-revive-bullion-demand/article71133016.ece",
-      "source": "BusinessLine",
-      "date": "2026-06-22",
-      "image": "https://bl-i.thgim.com/public/incoming/7iaejt/article71133046.ece/alternates/LANDSCAPE_1200/IMG_PO21_Gold_silver_2_1_0RCMIHOA.jpg",
-      "category": "currency"
-    },
-    {
-      "title": "Magna Mining Intersects 29.7% Copper Equivalent over 3.4 metres, consisting of 9.4% Copper, 2.3% Nickel, 19.8 g/t Gold and 8.8 g/t Platinum + Palladium within the R2 Footwall Zone at the Levack Mine in Sudbury, Ontario",
-      "description": "SUDBURY, Ontario, June 22, 2026 (GLOBE NEWSWIRE) -- Magna Mining Inc. (TSXV: NICU) (OTCQX: MGMNF) (FSE: 8YD) (\u201cMagna\u201d or the \u201cCompany\u201d) is pleased to provide the results of ongoing exploration and an update on activities at the past-producing Levack Mine, loc\u2026",
-      "url": "https://www.globenewswire.com/news-release/2026/06/22/3315139/0/en/Magna-Mining-Intersects-29-7-Copper-Equivalent-over-3-4-metres-consisting-of-9-4-Copper-2-3-Nickel-19-8-g-t-Gold-and-8-8-g-t-Platinum-Palladium-within-the-R2-Footwall-Zone-at-the-L.html",
-      "source": "GlobeNewswire",
-      "date": "2026-06-22",
-      "image": "https://ml.globenewswire.com/Resource/Download/80d509bf-f7bc-483e-9b16-4f0c01943f2b",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Zacatecas Silver Announces 21% Increase in High-Grade Heap-Leach Updated Gold Mineral Resource at the Esperanza Gold Project to 1.15 Moz AuEq from 45.4 Mt at 0.79 g/t \u2013 Grades Above Global Heap-Leach Average & Highest Grades at Surface",
-      "description": "VANCOUVER, British Columbia, June 22, 2026 (GLOBE NEWSWIRE) \u2014 Zacatecas Silver Corp. (TSXV: ZAC | OTCQB: ZCTSF | FRA: 7TV) (\u201cZacatecas Silver\u201d or the \u201cCompany\u201d) is pleased to announce an increase in the updated Mineral Resource Estimate (\u201cMRE\u201d) at the Esperan\u2026",
-      "url": "https://financialpost.com/globe-newswire/zacatecas-silver-announces-21-increase-in-high-grade-heap-leach-updated-gold-mineral-resource-at-the-esperanza-gold-project-to-1-15-moz-aueq-from-45-4-mt-at-0-79-g-t-grades-above-global-heap",
-      "source": "Financial Post",
-      "date": "2026-06-22",
-      "image": null,
-      "category": "metals"
-    },
-    {
-      "title": "Comstock Sells Legacy Mining Assets to Mackay Precious Metals Inc.",
-      "description": "VIRGINIA CITY, Nev., June 22, 2026 (GLOBE NEWSWIRE) -- Comstock Inc. (NYSE: LODE) (\u201cComstock,\u201d \u201cour\u201d and the \u201cCompany\u201d), today announced that it has executed a Securities Purchase Agreement (the \u201cSPA\u201d) to sell 100% of its mineral, mining, processing and relat\u2026",
-      "url": "https://www.globenewswire.com/news-release/2026/06/22/3315121/0/en/Comstock-Sells-Legacy-Mining-Assets-to-Mackay-Precious-Metals-Inc.html",
-      "source": "GlobeNewswire",
-      "date": "2026-06-22",
-      "image": "https://ml.globenewswire.com/Resource/Download/23ea433d-b7af-4e94-8100-d1933b728e02",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Minions star threatened to quit franchise over \u2018exhausting\u2019 workload",
-      "description": "French director and voice actor was coaxed back to the franchise for the latest Minions outing",
-      "url": "https://www.the-independent.com/arts-entertainment/films/news/minions-and-monsters-cast-voice-actor-b3000406.html",
-      "source": "The-independent.com",
-      "date": "2026-06-22",
-      "image": "https://static.the-independent.com/2026/06/22/12/06/Minions_05.jpeg?trim=0,646,0,608&width=1200&height=800&crop=1200:800",
-      "category": "market"
-    },
-    {
-      "title": "(PR) LG Display OLED becomes world's first to achieve \"Perfect Color/Brightness\" certification",
-      "description": "LG Display, the world's leading innovator of display technologies, announced today that its entire lineup of large-sized OLED panels, including for monitors and TVs, has become the first in the world to receive \"Perfect Color/Brightness Accuracy up to 500 lux\u2026",
-      "url": "https://www.techpowerup.com/350169/lg-display-oled-becomes-worlds-first-to-achieve-perfect-color-brightness-certification",
-      "source": "Techpowerup.com",
-      "date": "2026-06-22",
-      "image": "https://www.techpowerup.com/img/nHERCXcCdActgYDc.jpg",
-      "category": "market"
-    },
-    {
-      "title": "The Knicks Reminded The World That New York\u2019s Relevance Still Matters\u2026",
-      "description": "For some time we have been told, and probably, convinced ourselves, that New York and winning did not have to be part of the formula for sports business success. Tom Brady and Steph Curry, Lionel Messi and Caitlin Clark, LeBron James and Shoei Ohtani etc. etc\u2026",
-      "url": "https://joefavorito.com/2026/06/22/the-knicks-reminded-the-world-that-new-yorks-relevance-still-matters/",
-      "source": "Joefavorito.com",
-      "date": "2026-06-22",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "Duetto and Triptease Launch Integration to Automate Marketing Activity Based on Occupancy.",
-      "description": "Duetto, a leading provider of revenue and profit software for hotels, today announced a new integration with Triptease, a data marketing platform for hotels. The new tool, Auto Date Boost, automatically adjusts paid marketing spend when occupancy forecasts ch\u2026",
-      "url": "https://www.breakingtravelnews.com/news/article/duetto-and-triptease-launch-integration-to-automate-marketing-activity-base/",
-      "source": "Breaking Travel News",
-      "date": "2026-06-22",
-      "image": "https://www.breakingtravelnews.com/images/sized/images/uploads/technology/Triptease_x_Duetto_2-700x367.png",
+      "image": "https://mmx.prnewswire.com/media/MS684628/Chainguard-Logo-New-March-2025_Logo.jpg?id=OA2727505&p=facebook",
       "category": "geopolitics"
     },
     {
-      "title": "Ukraine is showing the West why cheap sensors could be key to defending the skies in future wars",
-      "description": "Ukraine is using a vast network of cheap sensors to detect incoming drone threats. Western officials say the West should consider doing the same.",
-      "url": "https://www.businessinsider.com/ukraine-showing-west-cheap-sensors-key-future-air-war-2026-6#article",
+      "title": "Amid Rising Global Economic Pressures, New Report Spotlights the Greenbelt\u2019s Key Role in Provincial Prosperity",
+      "description": "TORONTO, June 22, 2026 (GLOBE NEWSWIRE) \u2014 At a time of rising economic insecurities and global uncertainties, Greenbelt Foundation\u2019s new economic impact report, authored by Ernst & Young LLP (EY Canada), highlights the regional and provincial economic contrib\u2026",
+      "url": "https://financialpost.com/globe-newswire/amid-rising-global-economic-pressures-new-report-spotlights-the-greenbelts-key-role-in-provincial-prosperity",
+      "source": "Financial Post",
+      "date": "2026-06-22",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "Yale E360 \u2014 Small Staff, Global Stakes",
+      "description": "For nearly two decades, the tiny staff at Yale Environment 360 has produced some of the world&#8217;s most consequential environmental journalism. As founding editor Roger Cohn steps down, the need for that work has never been&nbsp;greater.",
+      "url": "https://environment.yale.edu/news/article/small-staff-global-stakes",
+      "source": "Yale.edu",
+      "date": "2026-06-22",
+      "image": "https://environment.yale.edu/sites/default/files/styles/metatag_1200x630/public/2026-06/e360_gold_miners.jpg?h=2a6c1865&itok=6PPnvhKi",
+      "category": "market"
+    },
+    {
+      "title": "JSW Infrastructure launches Rs 7,500 crore QIP, to fund capex, repay debt",
+      "description": "JSW Infrastructure has launched a Rs 7,503 crore QIP to fund expansion projects, reduce debt and pursue strategic acquisitions. The institutional share sale, priced at a discount to the market price, is expected to strengthen the company's balance sheet and s\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/jsw-infrastructure-launches-rs-7500-crore-qip-to-fund-capex-repay-debt/articleshow/131914023.cms",
+      "source": "The Times of India",
+      "date": "2026-06-22",
+      "image": "https://img.etimg.com/thumb/msid-131913997,width-1200,height-630,imgsize-32162,overlay-etmarkets/articleshow.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Fujifilm Will Award $100,000 in Grants to Photographers and Filmmakers",
+      "description": "Fujifilm has opened applications for the 2026 GFX Challenge Grant Program, offering photographers and filmmakers worldwide the opportunity to receive funding, mentorship, and access to Fujifilm's medium-format camera system to help bring ambitious creative pr\u2026",
+      "url": "https://petapixel.com/2026/06/22/fujifilm-will-award-100000-in-grants-to-photographers-and-filmmakers/",
+      "source": "PetaPixel",
+      "date": "2026-06-22",
+      "image": "https://petapixel.com/assets/uploads/2026/06/fujifilm-grant-1.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Expert Warns Memory Prices Will Climb Up To 50% Per Quarter, With No Relief Until 2028",
+      "description": "Financial firm Jefferies outlined in a fresh report that memory prices will continue their upward momentum in the second half of this year. The global memory industry has been thrown into turmoil due to aggressive demand from the AI sector. As a result, the p\u2026",
+      "url": "https://wccftech.com/expert-warns-memory-prices-will-climb-up-to-50-per-quarter-with-no-relief-until-2028/",
+      "source": "Wccftech",
+      "date": "2026-06-22",
+      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/04/Crucial-DDR5-Memory-1920x1280.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Lucid Motors layoffs 2026: EV maker slashes jobs ahead of SUV launch - why is Lucid laying off employees, how many jobs are being cut and which roles are impacted?",
+      "description": "Lucid Motors layoffs 2026 explained: EV maker Lucid Motors is undergoing significant workforce reductions, cutting approximately 18% of its global staff, around 1,500 employees. This move, coupled with the elimination of a production shift, signals a strategi\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/us/lucid-motors-layoffs-2026-ev-maker-slashes-jobs-ahead-of-suv-launch-why-is-lucid-laying-off-employees-how-many-jobs-are-being-cut-and-which-roles-are-impacted/articleshow/131913795.cms",
+      "source": "The Times of India",
+      "date": "2026-06-22",
+      "image": "https://img.etimg.com/thumb/msid-131913962,width-1200,height-630,imgsize-78822,overlay-economictimes/articleshow.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Three ways Trump could get a stake in AI firms for the US",
+      "description": "President Donald Trump is actively investigating how to ensure that the American public can benefit from the lucrative advancements within the AI industry. Suggested strategies encompass government equity shares in AI companies, specialized tax reforms, and p\u2026",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/three-ways-trump-could-get-a-stake-in-ai-firms-for-the-us/articleshow/131913975.cms",
+      "source": "The Times of India",
+      "date": "2026-06-22",
+      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-36172,resizemode-75,msid-131913975/tech/artificial-intelligence/three-ways-trump-could-get-a-stake-in-ai-firms-for-the-us.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Do Trump\u2019s latest moves signify the end of the Department of Education as we know it?",
+      "description": "A new push attempts to reallocate educational programs across the government",
+      "url": "https://theweek.com/politics/do-trumps-latest-moves-mean-the-end-of-the-department-of-education-as-we-know-it",
+      "source": "The Week Magazine",
+      "date": "2026-06-22",
+      "image": "https://cdn.mos.cms.futurecdn.net/X4YFP5YTznykUcaJbiJGNj-2000-80.jpg",
+      "category": "market"
+    },
+    {
+      "title": "A longtime strategist says 6 warning signs point to a 20% drop in stocks on the horizon",
+      "description": "Wall Street veteran Jim Paulsen said there are six warning signs he's watching that signal the market may be headed for a major consolidation.",
+      "url": "https://www.businessinsider.com/stock-market-correction-warning-signs-sp500-jim-paulsen-oil-consumers-2026-6",
       "source": "Business Insider",
       "date": "2026-06-22",
-      "image": "https://i.insider.com/6a33fefe0e60dfb3f373eec5?width=1200&format=jpeg",
+      "image": "https://s.yimg.com/lo/mysterio/api/7D702FBBC2A11C48BCC833776A66F9FE87246CA3FB787ADB30EA8CC866193E7B/subgraphmysterio/resizefill_w1200_h900;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2F538ef633c0ff4004c6c93adde0d663a5",
       "category": "geopolitics"
     },
     {
-      "title": "FTSE 100 Rises Above 10,400 as Markets Take Starmer's Resignation in Stride",
-      "description": "UK Prime Minister Keir Starmer resigns, prompting political upheaval. Despite this, the FTSE 100 remains resilient, reflecting market stability amid leadership changes and economic uncertainties.",
-      "url": "https://www.ibtimes.com.au/uk-markets-steady-keir-starmer-resigns-1871077",
-      "source": "Ibtimes.com.au",
+      "title": "Cops could be forced into race-based guessing game after Supreme Court move, Thomas joins dissent",
+      "description": "Justices Alito and Thomas dissent after the Supreme Court declines a case where a man's race allegedly transformed a police stop into an illegal seizure.",
+      "url": "https://www.foxnews.com/politics/cops-could-forced-race-based-guessing-game-after-supreme-court-move-thomas-joins-dissent",
+      "source": "Fox News",
       "date": "2026-06-22",
-      "image": "https://d.ibtimes.com.au/en/full/1893563/ftse-100-top-gainers-bp-leads-316-surge-oil.png",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/04/clarence-thomas-april-15-2026.jpg",
       "category": "market"
-    },
-    {
-      "title": "\u2018Star Wars\u2019 May Get a Reset Similar To \u2018Star Trek\u2019 After \u2018Mandalorian\u2019 Movie Disappoints",
-      "description": "It\u2019s no stretch to say that Star Wars might be in the worst place it\u2019s been in since A New Hope was released in theaters in 1977. Of course, who can forget how The Last Jedi (2017) became the most controversial film in the entire franchise, and how the final \u2026",
-      "url": "https://insidethemagic.net/2026/06/star-wars-full-reset-similar-to-star-trek-and-x-men-now-likely-after-the-mandalorian-and-grogu-performance-dr1mmb/",
-      "source": "Inside the Magic",
-      "date": "2026-06-22",
-      "image": "https://insidethemagic.net/wp-content/uploads/2026/06/Untitled-design-61.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Autodesk commits $350 million to prepare the next generation for the AI jobs that design and make the physical world",
-      "description": "New research finds AI is increasing demand for the people who design, build, manufacture, and create the physical world \u2013 and inspiring more young people to pursue those careers. Autodesk's three-year commitment will give 60 million more students and educator\u2026",
-      "url": "https://www.prnewswire.com/news-releases/autodesk-commits-350-million-to-prepare-the-next-generation-for-the-ai-jobs-that-design-and-make-the-physical-world-302806210.html",
-      "source": "PRNewswire",
-      "date": "2026-06-22",
-      "image": "https://mmx.prnewswire.com/media/MS1869812/Autodesk-350M-Commitment.jpg?id=OA2726789&p=facebook",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Alan Greenspan, One of the Most Influential Fed Chairs Ever, Dies at 100",
-      "description": "A market maestro to some, he was criticized by others\u2014including himself\u2014for having too much faith in self-regulating markets.",
-      "url": "http://foreignpolicy.com/2026/06/22/alan-greenspan-federal-reserve-chair-dead-obituary-100/",
-      "source": "Foreign Policy",
-      "date": "2026-06-22",
-      "image": "https://foreignpolicy.com/wp-content/uploads/2023/02/1-Alan-Greenspan-Federal-Reserve-Testimony-2003-Reuters-RP4DRHYLYCAA-obituary-lead.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "Alan Greenspan Dies",
-      "description": "Alan Greenspan, the influential economist who steered U.S. monetary policy during his five terms as chairman of the Federal Reserve under four presidents, died Monday, according to his wife, NBC News correspondent Andrea Mitchell.",
-      "url": "https://freerepublic.com/focus/f-news/4384886/posts",
-      "source": "Freerepublic.com",
-      "date": "2026-06-22",
-      "image": null,
-      "category": "central_bank"
-    },
-    {
-      "title": "Alan Greenspan, who steered the Federal Reserve through both boom and crisis, dies at 100",
-      "description": "Alan Greenspan, the professional economist who presided over the Federal Reserve during nearly two decades of boom and bust, died on Monday. He was 100 years old. Dubbed \"The Maestro\" for deftly navigating the multi-pronged crises that buffeted the world's la\u2026",
-      "url": "https://freerepublic.com/focus/f-news/4384885/posts",
-      "source": "Freerepublic.com",
-      "date": "2026-06-22",
-      "image": null,
-      "category": "central_bank"
-    },
-    {
-      "title": "Another Week From Hell. A Bid to End a War Might Be Sabotaged by Netanyahu",
-      "description": "The week started on a positive note with President Donald Trump uncharacteristically declaring that a \u201cmemorandum of understanding\u201d (MOU) had been achieved by US and Iranian negotiators assisted by Pakistani and Qatari mediators to suspend military action and\u2026",
-      "url": "https://www.globalresearch.ca/bid-end-war-sabotaged-netanyahu/5930893",
-      "source": "Globalresearch.ca",
-      "date": "2026-06-22",
-      "image": "https://www.globalresearch.ca/wp-content/uploads/2026/04/netanyahu-trump-iran.jpeg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Former US Fed chairman Alan Greenspan dies aged 100",
-      "description": "Alan Greenspan, hailed as the greatest Federal Reserve chairman when he retired in 2006 but derided for a severe financial crisis that followed barely two years later, died today aged 100, NBC News reported.",
-      "url": "https://www.rte.ie/news/business/2026/0622/1579717-alan-greenspan-dies/",
-      "source": "RTE",
-      "date": "2026-06-22",
-      "image": "https://www.rte.ie/images/00249014-1600.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "Alan Greenspan, longtime US Federal Reserve chairman, dies aged 100",
-      "description": "Greenspan, who was the Federal Reserve chairman from 1987 to 2006, oversaw the second-longest economic expansion in US history.",
-      "url": "https://www.channelnewsasia.com/world/alan-greenspan-us-federal-reserve-chairman-dies-100-6200776",
-      "source": "CNA",
-      "date": "2026-06-22",
-      "image": "https://dam.mediacorp.sg/image/upload/s--XlZhmeCx--/c_crop,h_562,w_1000,x_0,y_51/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/Trump_Economy_90s_Throwback_23882.jpg?itok=K50ZlPuU",
-      "category": "central_bank"
-    },
-    {
-      "title": "The Federal Reserve Just Delivered Terrible News for the Stock Market, but There's a Silver Lining for Investors",
-      "description": "The Federal Reserve Just Delivered Terrible News for the Stock Market, but There's a Silver Lining for Investors\nKevin Warsh wrapped up his first policy meeting as chairman of the Federal Reserve on June 17. He adopted a hawkish tone in his commentary, which \u2026",
-      "url": "https://biztoc.com/x/e69795336f9abb13",
-      "source": "Biztoc.com",
-      "date": "2026-06-22",
-      "image": "https://biztoc.com/cdn/e69795336f9abb13_s.webp",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Gold (XAUUSD), Silver, Platinum Forecasts \u2013 Gold Attempts To Rebound Despite Rising Treasury Yields - FXEmpire",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOU1pqY0VBMkhCV0I5UFpJTUFoVEg3OFE3T3Q0WFZBOVpJVDZEeS1LaG82eUpmenp4eC1HblVLY3g0VjlxZUN1emNpcXBFeTZXdk9DRDdObGZMT2c1a0lCckVjWXBhZEZkUEtmSkxhQ1hUVHZLMmljZ2VqNjNTRG9VQUpXUGNGN1hqMUVOSzJubUJvemp0OTlqR21UaFFxNEdXOWtxQVBjYktSLTRxVXJaVF9rNXByNzVPem",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOU1pqY0VBMkhCV0I5UFpJTUFoVEg3OFE3T3Q0WFZBOVpJVDZEeS1LaG82eUpmenp4eC1HblVLY3g0VjlxZUN1emNpcXBFeTZXdk9DRDdObGZMT2c1a0lCckVjWXBhZEZkUEtmSkxhQ1hUVHZLMmljZ2VqNjNTRG9VQUpXUGNGN1hqMUVOSzJubUJvemp0OTlqR21UaFFxNEdXOWtxQVBjYktSLTRxVXJaVF9rNXByNzVPemIxd2lnRm1oN1gzM0hKNUkxWDg3UzM3SER6Smp4WUt5eVB1?oc=5",
-      "source": "Google News - Precious Metals",
-      "date": "2026-06-22",
-      "image": "",
-      "category": "currency"
     }
   ],
   "history": [
@@ -427,7 +427,7 @@
       "platinum_usd_oz": 1760.87
     }
   ],
-  "timestamp": "2026-06-23T17:50:07.205096+05:30",
+  "timestamp": "2026-06-23T21:05:46.478175+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
