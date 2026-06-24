@@ -54,7 +54,7 @@
         "hold": 50
       },
       "summary": "Gold is showing positive signals. Positive daily movement of 0.0%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-24T09:55:57.286736",
+      "timestamp": "2026-06-24T12:04:29.040479",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 50
       },
       "summary": "Silver is showing positive signals. Positive daily movement of 0.2%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-24T09:55:57.404075",
+      "timestamp": "2026-06-24T12:04:29.125555",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 50
       },
       "summary": "Platinum is showing positive signals. Positive daily movement of 0.1%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-24T09:55:57.525625",
+      "timestamp": "2026-06-24T12:04:29.205397",
       "source": "rule-based"
     }
   },
@@ -125,31 +125,67 @@
   },
   "news": [
     {
-      "title": "Global Markets | European shares hold flat on US-Iran talks; Rheinmetall slides",
-      "description": "European markets saw a flat opening as investors weighed U.S.-Iran talks. Defence giant Rheinmetall plunged on reports of Germany scrapping a major warship project, though rival TKMS surged. Real estate stocks gained, led by Segro after a buyout bid. Tech shares steadied after recent losses, with ch",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-european-shares-hold-flat-on-us-iran-talks-rheinmetall-slides/articleshow/131962922.cms",
+      "title": "Largecaps over midcaps, banks over PSUs: V Srivatsa reveals where smart money is heading",
+      "description": "India's market outlook is positive, driven by cooling geopolitical tensions and falling crude oil prices, according to UTI AMC's V Srivatsa. He highlights largecaps, particularly private sector banks, as offering better value than expensive midcaps. While foreign investors are focused on AI plays, S",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/largecaps-over-midcaps-banks-over-psus-v-srivatsa-reveals-where-smart-money-is-heading/articleshow/131967106.cms",
       "source": "Economic Times Markets",
       "date": "2026-06-24",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "RBI in wait-and-watch mode despite easing West Asia risks: Sanjay Malhotra",
-      "description": "Despite easing West Asian tensions, the RBI remains cautious, with Governor Sanjay Malhotra emphasizing data dependency over pre-set interest rate paths. While the truce offers relief on inflation and growth, uncertainties surrounding crude oil prices and the monsoon necessitate continued vigilance.",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/rbi-in-wait-and-watch-mode-despite-easing-west-asia-risks-sanjay-malhotra/articleshow/131961067.cms",
+      "title": "Federal Bank among 6 stocks that hit 52-week highs, rally up to 15% in a month",
+      "description": "Six BSE200 stocks, including Federal Bank and Bharat Forge, hit fresh 52-week highs amid a strong market rally, reflecting bullish momentum, rising investor confidence, and sustained buying interest.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/federal-bank-among-6-stocks-that-hit-52-week-highs-rally-up-to-15-in-a-month/slideshow/131966702.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-06-24",
+      "image": "",
+      "category": "central_bank"
+    },
+    {
+      "title": "Bitcoin's dominance rises to 58%; remains the most-held crypto asset across Indian cities: Report",
+      "description": "Bitcoin\u2019s dominance in the global crypto market rose to 58.2% in H1 2026, while it remained the most-held digital asset across Indian cities on CoinDCX. The report also showed a shift toward utility-driven investing, with Layer-1 assets gaining share and meme token activity falling, reflecting a mor",
+      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoins-dominance-rises-to-58-remains-the-most-held-crypto-asset-across-indian-cities-report/articleshow/131966282.cms",
       "source": "Economic Times Markets",
       "date": "2026-06-24",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "RBI intervention steadies rupee, governor's rate comment pulls down hedging costs",
-      "description": "The Indian rupee showed resilience on Wednesday, recovering from earlier dips, a relief attributed to possible central bank measures. Concurrently, the Reserve Bank of India governor's remarks on interest rate hikes being 'premature' led to a notable decline in forward premiums. This shift, alongsid",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-intervention-steadies-rupee-governors-rate-comment-pulls-down-hedging-costs/articleshow/131960011.cms",
+      "title": "Foreign inflows in Asian bonds surge to three-month high in May",
+      "description": "In May, Asian bonds observed a significant surge in foreign investments, marking the highest inflows in three months. This trend was fueled by vigorous regional economic performance coupled with a growing hesitancy about gains in the equity market. Noteworthy influxes were seen in South Korea and In",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/foreign-inflows-in-asian-bonds-surge-to-three-month-high-in-may/articleshow/131964580.cms",
       "source": "Economic Times Markets",
       "date": "2026-06-24",
       "image": "",
       "category": "geopolitics"
+    },
+    {
+      "title": "Adani Enterprises: A high-risk, high-reward bet that is not for the faint-hearted: Sudip Bandyopadhyay",
+      "description": "Adani Group is set to invest $15-20 billion over the next five years, focusing on expanding its ports to handle 1 billion tonnes, boosting power capacity to 45 GW including nuclear, and developing data centres and airports. Chairman Gautam Adani highlighted the group's confidence in India's infrastr",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/adani-enterprises-a-high-risk-high-reward-bet-that-is-not-for-the-faint-hearted-sudip-bandyopadhyay/articleshow/131964432.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-06-24",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Dollar hits 13-month high as rate-hike bets, stock rout boost demand",
+      "description": "The US dollar has hit a 13-month peak, fueled by a selloff in tech stocks and growing expectations for interest rate hikes from the Federal Reserve. Investors are flocking to safe-haven assets as global stock markets falter. The dollar index has reached its highest level since May 2025, while the Ja",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-hits-13-month-high-as-rate-hike-bets-stock-rout-boost-demand/articleshow/131964529.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-06-24",
+      "image": "",
+      "category": "central_bank"
+    },
+    {
+      "title": "Rupee cushioned by central bank hand even as dollar strength dents Asia FX",
+      "description": "The Indian rupee defied regional weakness on Wednesday, supported by likely Reserve Bank of India intervention against a strengthening dollar. While Asian peers faltered, the rupee held steady as traders braced for potential US Federal Reserve rate hikes. Concerns over inflation and oil prices are b",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-cushioned-by-central-bank-hand-even-as-dollar-strength-dents-asia-fx/articleshow/131964489.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-06-24",
+      "image": "",
+      "category": "central_bank"
     },
     {
       "title": "Commodity Corner: Oil near four-month low, gold slips as dollar surge hits commodity markets - Moneycontrol.com",
@@ -179,49 +215,94 @@
       "category": "currency"
     },
     {
-      "title": "Volunteers to Professionals: The Mobile Fleet Revolution",
-      "description": "The Mobile Fleet Revolution is about embracing a new standard of efficiency and accessibility in sports production. By combining the sophisticated hardware of modern smartphones with centralized orchestration, robust contribution protocols, and a genuinely fl\u2026",
-      "url": "https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=175425",
-      "source": "Streamingmedia.com",
+      "title": "Gold Slips Over 2% as Dollar Holds Firm on Fed Rate-hike Expectations",
+      "description": "Gold prices fell more than 2% on Tuesday, pressured by a firmer US dollar on expectations of Federal Reserve interest rate hikes this year, while investors assessed US-Iran peace talks. Stocks across the globe declined amid concerns over AI-related share valu\u2026",
+      "url": "https://english.aawsat.com/business/5287454-gold-slips-over-2-dollar-holds-firm-fed-rate-hike-expectations",
+      "source": "Aawsat.com",
       "date": "2026-06-23",
-      "image": "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/459478-mobile-fleet-cms-ORG.png",
+      "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-06/1617475_0.jpeg.webp",
+      "category": "central_bank"
+    },
+    {
+      "title": "MiniPay launches Visa debit card to connect stablecoin users in emerging markets to global spending",
+      "description": "The digital Visa debit card connects MiniPay\u2019s millions of wallets to merchants in 46 countries, built on Gnosis Pay\u2019s infrastructure with no crypto knowledge required at the point of sale. Oslo, Norway \u2013 23 June 2026 \u2013 MiniPay, Opera\u2019s self-custodial stablec\u2026",
+      "url": "https://press.opera.com/2026/06/23/minipay-visa-debit-card/",
+      "source": "Opera.com",
+      "date": "2026-06-23",
+      "image": "https://www-static-sites.operacdn.com/wp-content/uploads/sites/5/2026/06/PR-Image-2-2.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Further Sanctions on the Cuban Regime's Revenue Generation Network",
+      "description": "Today, the Department of State is designating five entities and one individual to further the Trump Administration's comprehensive push to end the Cuban regime's malign activities, both in Cuba and across our hemisphere.",
+      "url": "https://www.globalsecurity.org/wmd/library/news/cuba/cuba-260623-state02.htm",
+      "source": "Globalsecurity.org",
+      "date": "2026-06-23",
+      "image": null,
       "category": "geopolitics"
     },
     {
-      "title": "Mutual fund factsheet explained: How to analyze returns, risk, portfolio holdings & performance like an expert",
-      "description": "A mutual fund factsheet is published by an Asset Management Company (AMC) every month. It provides a snapshot of a scheme's performance, portfolio, and risk metrics. It helps investors understand how the fund is managed and how it has performed over time.",
-      "url": "https://www.livemint.com/money/personal-finance/mutual-fund-factsheet-explained-how-to-analyze-returns-risk-portfolio-holdings-performance-like-an-expert-11782186619022.html",
+      "title": "Here\u2019s Why GROW Small Cap Equity Fund Bets Against Robinhood Markets (HOOD)",
+      "description": "Grow Funds, an investment Advisor, released its Q1 2026 investor letter for \u201cGROW Small Cap Equity Long/Short Fund\u201d. A copy of the letter can be downloaded h...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-grow-small-cap-equity-115649127.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-06-23",
+      "image": "https://s.yimg.com/lo/mysterio/api/C1DC6B7DBE7587F1EF8BE8B2185D09BF580430210C99C8D7D79D45DDD11E73A4/subgraphmysterio/resizefill_w1200_h672;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F3706f8969382750d3da31da9292104d5",
+      "category": "market"
+    },
+    {
+      "title": "Sold shares, gold or property? Here's how you can legally claim capital gains tax exemption of up to \u20b910 crore",
+      "description": "Selling assets like shares, mutual funds, gold, or property triggers capital gains tax. Section 54F of the Income Tax Act offers exemptions if long-term profits are reinvested into residential property. Details here.",
+      "url": "https://www.livemint.com/money/personal-finance/sold-shares-gold-or-property-heres-how-you-can-legally-claim-capital-gains-tax-exemption-of-up-to-10-crore-11782211885354.html",
       "source": "Livemint",
       "date": "2026-06-23",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/23/1600x900/logo/factsheet_1782192456375_1782192465362_118cb5e7-d288-4b70-aafc-83730aa4b5ac.png",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/23/1600x900/logo/pexels-photo-6863176_1739341154704_1782215514777_134f6fef-809a-4b33-b5e2-56e76cd8eb87.jpeg",
+      "category": "metals"
+    },
+    {
+      "title": "BlackRock\u2019s Jay Jacobs calls DeFi and TradFi merger \u2018The Great Convergence\u2019",
+      "description": "The merging of DeFi and TradFi signals a transformative shift in investment strategies, fostering diversified portfolios and new market dynamics.\nThe post BlackRock\u2019s Jay Jacobs calls DeFi and TradFi merger \u2018The Great Convergence\u2019 appeared first on Crypto Bri\u2026",
+      "url": "https://cryptobriefing.com/blackrock-defi-tradfi-great-convergence/",
+      "source": "Crypto Briefing",
+      "date": "2026-06-23",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/23072355/https-upload-wikimedia-org-wikipedia-commons-a-a1-1jay-jacob-1-800x420.jpeg",
       "category": "market"
     },
     {
-      "title": "Stocks Hit By Tech Selloff as Korean Shares Plunge: Markets Wrap",
-      "description": "A selloff in technology stocks is dragging global equities lower, led by a retreat in chipmakers after an unprecedented rally that has been fueled by demand for artificial intelligence.",
-      "url": "https://financialpost.com/pmn/business-pmn/stocks-hit-by-tech-selloff-as-korean-shares-plunge-markets-wrap",
-      "source": "Financial Post",
+      "title": "Two Roads to Fast Clinical Trials, and the US Takes Neither",
+      "description": "The HHS (FDA, NIH, ARPA-H and related agencies) is moving to speed clinical trials in what they are calling Operation TrialBlazer (kudos on the pun). The motivator, of course, is China: China has made biotechnology a strategic national priority, systematicall\u2026",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/china-runs-australia-delegates-america-streamlines.html",
+      "source": "Marginalrevolution.com",
       "date": "2026-06-23",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/mixed-day-on-wall-street-as-netflix-continues-fall-closing-.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Here are the top 10 ASX 200 shares today",
-      "description": "It was another rough day on the markets.\nThe post Here are the top 10 ASX 200 shares today appeared first on The Motley Fool Australia.",
-      "url": "https://www.fool.com.au/2026/06/23/here-are-the-top-10-asx-200-shares-today-23-june-2026/",
-      "source": "Motley Fool Australia",
-      "date": "2026-06-23",
-      "image": "https://www.fool.com.au/wp-content/uploads/2023/09/top-10-1200x675.jpg",
+      "image": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png",
       "category": "market"
     },
     {
-      "title": "Advit Jewels IPO 2.3x subscribed on Day 1; GMP signals 47% listing gains. Should you subscribe?",
-      "description": "Jaipur's Advit Jewels IPO is off to a flying start, oversubscribed 2.3 times on Day 1, with strong retail investor interest. The grey market signals a potential 47% listing gain. The Rs 165 crore issue will fund working capital and debt repayment.  The handcr\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/advit-jewels-ipo-2-3x-subscribed-on-day-1-gmp-signals-47-listing-gains-should-you-subscribe/articleshow/131927853.cms",
+      "title": "Gold price today drops big. Will gold rate crash continue this week?",
+      "description": "Gold rate prediction: Traders ratcheted up bets on higher interest rates this year, with an about 68 per cent chance of a September hike, up from 29 per cent last week, according to the CME FedWatch Tool.",
+      "url": "https://economictimes.indiatimes.com/news/international/us/gold-price-today-drops-big-will-gold-rate-crash-continue-this-week/articleshow/131936527.cms",
       "source": "The Times of India",
       "date": "2026-06-23",
-      "image": "https://img.etimg.com/thumb/msid-131927915,width-1200,height-630,imgsize-13493,overlay-etmarkets/articleshow.jpg",
+      "image": "https://img.etimg.com/thumb/msid-131936527,width-1200,height-630,imgsize-73170,overlay-economictimes/articleshow.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Sensex today | Stock Market Highlights: Sensex falls 893 points, Nifty ends lower as IT and metal stocks drag markets",
+      "description": "Sensex Today, Nifty 50 | Stock Market Highlights: Markets closed in the red as Sensex dropped 893 points and Nifty fell 278 points amid sectoral weakness in IT and metals. Pharma gained. Declines dominated advances, with nearly two-thirds of stocks ending low\u2026",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-23rd-june-2026/article71132755.ece",
+      "source": "BusinessLine",
+      "date": "2026-06-23",
+      "image": "https://bl-i.thgim.com/public/incoming/bjgh73/article71132764.ece/alternates/LANDSCAPE_1200/Sensex.jpg",
       "category": "market"
+    },
+    {
+      "title": "Skeena Gold & Silver Announces Results of Annual General Meeting and Management Changes",
+      "description": "VANCOUVER, British Columbia, June 23, 2026 (GLOBE NEWSWIRE) \u2014 Skeena Resources Limited (TSX: SKE, NYSE: SKE) (\u201cSkeena Gold & Silver\u201d, \u201cSkeena\u201d or the \u201cCompany\u201d) is pleased to announce results of the Company\u2019s Annual General Meeting of Shareholders (\u201cAGM\u201d) hel\u2026",
+      "url": "https://financialpost.com/globe-newswire/skeena-gold-silver-announces-results-of-annual-general-meeting-and-management-changes",
+      "source": "Financial Post",
+      "date": "2026-06-23",
+      "image": null,
+      "category": "metals"
     },
     {
       "title": "Gold falls 2%, silver down 5% as metals extend losses",
@@ -260,139 +341,58 @@
       "category": "central_bank"
     },
     {
-      "title": "Modern Farmhouse Bathroom Ideas That Always Work",
-      "description": "You want a bathroom that feels cozy and stylish. But pulling it all together without it looking outdated or messy is harder than it seems. That is where modern farmhouse bathroom design gets it right. It blends rustic warmth with clean, functional style in a \u2026",
-      "url": "https://ahouseinthehills.com/modern-farmhouse-bathroom/",
-      "source": "Ahouseinthehills.com",
+      "title": "Wheaton Precious Metals Ranked Among Corporate Knights' Best 50 Corporate Citizens in Canada",
+      "description": "VANCOUVER, BC, June 23, 2026 /PRNewswire/ - Wheaton Precious Metals\u2122 Corp. (\"Wheaton\" or the \"Company\") is pleased to announce that it has again been named to Corporate Knights' 2026 Best 50 Corporate Citizens in Canada (the \"Best 50\"), ranking 13th overall. \u2026",
+      "url": "https://www.prnewswire.com/news-releases/wheaton-precious-metals-ranked-among-corporate-knights-best-50-corporate-citizens-in-canada-302807715.html",
+      "source": "PRNewswire",
       "date": "2026-06-23",
-      "image": "https://ahouseinthehills.com/wp-content/uploads/2026/06/hf_20260609_092252_20d7d4ff-3710-4b7d-864e-d05d5615acea-1024x572.png",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Gold prices fall Rs 1,300/10g; silver tanks Rs 7,200/kg on firm dollar, rate hike fears. What should you do?",
-      "description": "Gold and silver prices fell sharply on MCX on Tuesday, reversing gains from the previous session, as a stronger U.S. dollar dampened demand and investors tracked U.S.-Iran peace talks and interest-rate expectations.",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-fall-rs-1300/10g-silver-tanks-rs-7200/kg-on-firm-dollar-rate-hike-fears-what-should-you-do/articleshow/131925041.cms",
-      "source": "The Times of India",
-      "date": "2026-06-23",
-      "image": "https://img.etimg.com/thumb/msid-131925029,width-1200,height-630,imgsize-88148,overlay-etmarkets/articleshow.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "Gold, silver prices today: Check retail rates of 24K, 22K, 18K gold, 999 silver in Delhi, Mumbai, Kolkata, Bengaluru",
-      "description": "Gold, silver prices today: Retail gold rates were stable on Tuesday as the market reacted to progress in US-Iran peace talks. Check retail rates of 24K, 22K, 18K gold and 999 silver in Delhi, Mumbai, Kolkata, Bengaluru and other cities.",
-      "url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-check-retail-rates-of-24k-22k-18k-gold-999-silver-in-delhi-mumbai-kolkata-bengaluru-11782179540449.html",
-      "source": "Livemint",
-      "date": "2026-06-23",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/23/1600x900/logo/kk_1782179706759_1782179706895_d38687fd-9e82-47b0-87b1-5cc3f3f60fb3.jpg",
+      "image": "https://mmx.prnewswire.com/media/MS1853662/Wheaton_Precious_Metals_Corp--Wheaton_Precious_Metals_Ranked_Amo.jpg?id=OA2728252&p=facebook",
       "category": "metals"
     },
     {
-      "title": "Economic Digest: A Snapshot of Nepal\u2019s Business News",
-      "description": "KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. Nepal\u2019s economy is showing a mixed picture of resilience and structural challenges. While import growth\u2026",
-      "url": "https://english.khabarhub.com/2026/23/555123/",
-      "source": "Khabarhub.com",
+      "title": "Sparkling Sciences Obtains International INCI Certification for iPSC Exosome",
+      "description": "Completes Kyoto University Patent Licensing Agreement TAIPEI, June 23, 2026 /PRNewswire/ -- Sparkling Sciences Co., Ltd., under TOMO YUME Group, announced it has obtained international INCI certification for iPSC Exosome and completed Kyoto University's paten\u2026",
+      "url": "https://www.prnewswire.com/news-releases/sparkling-sciences-obtains-international-inci-certification-for-ipsc-exosome-302807716.html",
+      "source": "PRNewswire",
       "date": "2026-06-23",
-      "image": "https://english.khabarhub.com/wp-content/uploads/2024/05/Economic-Digest.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Macroeconomic Stability in Russia Ensured - Kremlin",
-      "description": "MOSCOW (Sputnik) - The macroeconomic stability in Russia is ensured, Kremlin spokesman Dmitry Peskov said on Tuesday.",
-      "url": "https://sputnikglobe.com/20260623/macroeconomic-stability-in-russia-ensured---kremlin-1124346866.html",
-      "source": "Sputnikglobe.com",
-      "date": "2026-06-23",
-      "image": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1124346866.jpg?10927136471782208542",
+      "image": "https://mmx.prnewswire.com/media/MS1870170/Sparkling_Sciences_Obtains_International_INCI_Certification.jpg?id=OA2727374&p=facebook",
       "category": "market"
     },
     {
-      "title": "Emma Watson Makes Rare Public Appearance Alongside Prince William",
-      "description": "Emma Watson made a rare public appearance in London on Monday, June 22, stepping out to support Prince William\u2019s United for Wildlife charity. The Harry Potter actress, 36, took part in a panel discussion with William, 44, and actor Benedict Cumberbatch at the\u2026",
-      "url": "https://www.usmagazine.com/celebrity-news/news/emma-watson-makes-rare-public-appearance-with-prince-william/",
-      "source": "Us Weekly",
+      "title": "Configit Named as a Sample Vendor in the Gartner\u00ae Hype Cycle\u2122 for Digital Commerce, 2026",
+      "description": "Global leader recognized among 11 vendors in the 2026 report COPENHAGEN, Denmark, June 23, 2026 /PRNewswire/ -- Configit, the global leader in Configuration Lifecycle Management (CLM), today announced it has been named as a Sample Vendor in the Gartner Hype C\u2026",
+      "url": "https://www.prnewswire.com/news-releases/configit-named-as-a-sample-vendor-in-the-gartner-hype-cycle-for-digital-commerce-2026-302805602.html",
+      "source": "PRNewswire",
       "date": "2026-06-23",
-      "image": "https://www.usmagazine.com/wp-content/uploads/2026/06/GettyImages-2282221183-Emma-Watson-Makes-Rare-Public-Appearance-Alongside-Prince-William.jpg?crop=381px%2C51px%2C1408px%2C740px&resize=1200%2C630&quality=86&strip=all",
+      "image": "https://mma.prnewswire.com/media/1824364/Configit_Logo_Logo.jpg?p=facebook",
       "category": "market"
     },
     {
-      "title": "Rethinking the 1990s with Professors G. John Ikenberry and Peter Trubowitz | The Ballpark podcast",
-      "description": "The 1990s were an important decade. They saw the dissolution of the Soviet Union and the end of the Cold War, falling trade barriers, an expanding capitalist democratic order and the rise of what came to be called the liberal international order. But the 1990\u2026",
-      "url": "https://blogs.lse.ac.uk/usappblog/2026/06/23/rethinking-the-1990s-with-professors-g-john-ikenberry-and-peter-trubowitz-the-ballpark-podcast/",
-      "source": "Lse.ac.uk",
+      "title": "Hiroshima Survivor's Forgotten Memoir Finally Sees the Light",
+      "description": "A long-lost firsthand account of Hiroshima's destruction is emerging from obscurity\u2014and heading to both bookstores and the big screen. A 230-page memoir by survivor and Methodist pastor Kiyoshi Tanimoto, written nearly eight decades ago and forgotten in a US \u2026",
+      "url": "https://www.newser.com/story/391511/hiroshima-survivors-forgotten-memoir-finally-sees-the-light.html",
+      "source": "Newser",
       "date": "2026-06-23",
-      "image": "https://blogsmedia.lse.ac.uk/blogs.dir/58/files/2026/06/Berlin-Wall-1989-2000x1250-Flickr.jpg",
-      "category": "geopolitics"
+      "image": "https://img2-azrcdn.newser.com/image/1693899-12-20260623070302.jpeg",
+      "category": "market"
     },
     {
-      "title": "Asian refiners see little room for Iranian oil, leaving China as key buyer after US waiver",
-      "description": "Hit by supply disruptions due to the blockade of the Strait\nof Hormuz since March, Asian refiners have been aggressively\nbuying oil \u200cfrom the US, Russia, Africa and Latin America",
-      "url": "https://www.thehindubusinessline.com/markets/commodities/asian-refiners-see-little-room-for-iranian-oil-leaving-china-as-key-buyer-after-us-waiver/article71136950.ece",
-      "source": "BusinessLine",
+      "title": "3M and Airbus announce agreement to advance A220 passenger comfort and aircraft performance through advanced insulation technology",
+      "description": "Expanded collaboration will support thermal and acoustic insulation solutions to enhance the A220 passenger experience ST. PAUL, Minn., June 23, 2026 /PRNewswire/ -- 3M and Airbus, a leading aircraft manufacturer, have signed a long-term supply agreement to h\u2026",
+      "url": "https://www.prnewswire.com/news-releases/3m-and-airbus-announce-agreement-to-advance-a220-passenger-comfort-and-aircraft-performance-through-advanced-insulation-technology-302806754.html",
+      "source": "PRNewswire",
       "date": "2026-06-23",
-      "image": "https://bl-i.thgim.com/public/incoming/rud4ab/article71136987.ece/alternates/LANDSCAPE_1200/2026-05-11T115042Z_472759864_RC2Y6LA8F37R_RTRMADP_3_RUSSIA-GERMANY-REFINERY.JPG",
+      "image": "https://mmx.prnewswire.com/media/MS1870408/A220_in_Airbus_livery-A220_in_Airbus_livery.jpg?id=OA2727770&p=facebook",
       "category": "supply_demand"
     },
     {
-      "title": "Major African gold producer bans raw exports",
-      "description": "Guinea has banned raw gold exports and warned it will terminate the operating licenses of companies that violate the order Read Full Article at RT.com",
-      "url": "https://www.rt.com/africa/642000-guinea-bans-raw-gold-export/",
-      "source": "RT",
-      "date": "2026-06-23",
-      "image": "https://mf.b37mrtl.ru/files/2026.06/article/6a3a54382030270423593308.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Euro zone private sector contraction eases in June - PMI",
-      "description": "Euro zone private sector activity shrank for a third month in a row in June, though at a slower pace, as a modest recovery in tourism and leisure demand failed to fully offset a sustained fall in new business, a survey showed today.",
-      "url": "https://www.rte.ie/news/business/2026/0623/1579908-euro-zone-pmi-surveys/",
+      "title": "Housing Agency spent \u20ac7k on hotels at Cannes conference",
+      "description": "The Housing Agency spent more than \u20ac7,000 on hotel accommodation for three members of staff to stay three nights in the French Riviera during a major property conference.",
+      "url": "https://www.rte.ie/news/business/2026/0623/1579936-housing-agency-spent-7k-on-hotels-at-cannes-conference/",
       "source": "RTE",
       "date": "2026-06-23",
-      "image": "https://www.rte.ie/images/00202896-1600.jpg",
-      "category": "currency"
-    },
-    {
-      "title": "Currency managers watch out: the Federal Reserve under Warsh is turning out more hawkish than many expected",
-      "description": "New chair Kevin Warsh's approach to US monetary policy strengthens the prospect of a stronger dollar. That has implications for other currencies and the central banks that manage them, especially in Asia.",
-      "url": "https://www.livemint.com/opinion/online-views/currency-managers-federal-reserve-kevin-warsh-hawkish-monetary-policy-dollar-asia-11782194330594.html",
-      "source": "Livemint",
-      "date": "2026-06-23",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/23/1600x900/logo/2-0-99427245-FederalReserve-4C--0_1681710281513_1782208041331_8acbcc2a-73c7-4a06-8153-e7afffb6c2b2.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Lown: Top hospitals fall short in health equity work",
-      "description": "The Lown Institute found that the leading hospitals named by U.S. News & World Report underperform in its own measures of health equity.",
-      "url": "https://www.techtarget.com/patientengagement/news/366644985/Lown-Top-hospitals-fall-short-in-health-equity-work",
-      "source": "Techtarget.com",
-      "date": "2026-06-23",
-      "image": "https://www.techtarget.com/rms/onlineimages/collab_g1235560086.jpg",
+      "image": "https://www.rte.ie/images/002491a6-1600.jpg",
       "category": "market"
-    },
-    {
-      "title": "Inverter Market Set to More Than Double by 2030 as Renewable Energy and EV Infrastructure Surge, New Report Finds",
-      "description": "A new 335-page global market report forecasts the inverter market to grow from USD 25.33 billion in 2025 to USD 54.57 billion by 2030, at a 16.6% CAGR, as solar, battery storage, and EV charging infrastructure accelerate demand for advanced power conversion t\u2026",
-      "url": "https://www.globenewswire.com/news-release/2026/06/23/3315776/28124/en/Inverter-Market-Set-to-More-Than-Double-by-2030-as-Renewable-Energy-and-EV-Infrastructure-Surge-New-Report-Finds.html",
-      "source": "GlobeNewswire",
-      "date": "2026-06-23",
-      "image": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-      "category": "currency"
-    },
-    {
-      "title": "Stocks drop as Fed rate bets hit tech royalty; dollar gains",
-      "description": "LONDON, June 23 : Global stocks fell on Tuesday, led by broad-based declines in technology shares, including SpaceX, as growing expectations for the Federal Reserve to be more aggressive in tackling inflation drove investors into bonds and the dollar.Futures \u2026",
-      "url": "https://www.channelnewsasia.com/business/stocks-drop-fed-rate-bets-hit-tech-royalty-dollar-gains-6202331",
-      "source": "CNA",
-      "date": "2026-06-23",
-      "image": "https://dam.mediacorp.sg/image/upload/s--ZdHPGX9S--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=npguKy4y",
-      "category": "central_bank"
-    },
-    {
-      "title": "Stocks hit by Fed rate reality check; oil slips",
-      "description": "LONDON, June 23 : Global stocks fell on Tuesday, led by broad-based declines in technology stocks, as investors expect the Federal Reserve to take more aggressive action to tackle inflation, even after a 16 per cent drop in oil prices this month.The STOXX 600\u2026",
-      "url": "https://www.channelnewsasia.com/business/stocks-hit-fed-rate-reality-check-oil-slips-6202331",
-      "source": "CNA",
-      "date": "2026-06-23",
-      "image": "https://dam.mediacorp.sg/image/upload/s--zl5HBbeT--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-06-23T011538Z_2_LYNXMPEM5M02L_RTROPTP_3_JAPAN-ECONOMY-BOJ.JPG?itok=EdCeTEO5",
-      "category": "central_bank"
     }
   ],
   "history": [
@@ -427,7 +427,7 @@
       "platinum_usd_oz": 1760.87
     }
   ],
-  "timestamp": "2026-06-24T15:25:57.538921+05:30",
+  "timestamp": "2026-06-24T17:34:29.218022+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
