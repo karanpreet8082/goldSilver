@@ -54,7 +54,7 @@
         "hold": 50
       },
       "summary": "Gold is showing positive signals. Positive daily movement of 0.0%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-25T12:00:40.408610",
+      "timestamp": "2026-06-25T15:25:50.514442",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 50
       },
       "summary": "Silver is showing positive signals. Positive daily movement of 0.2%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-25T12:00:40.506435",
+      "timestamp": "2026-06-25T15:25:50.610264",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 50
       },
       "summary": "Platinum is showing positive signals. Positive daily movement of 0.1%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-25T12:00:40.620765",
+      "timestamp": "2026-06-25T15:25:50.708681",
       "source": "rule-based"
     }
   },
@@ -125,103 +125,148 @@
   },
   "news": [
     {
-      "title": "Rupee ends a tad higher as oil slide, foreign inflows lift sentiment",
-      "description": "The Indian rupee experienced a slight boost this week, driven by declining oil prices and the prospect of increased foreign investment. Although initial gains were curtailed due to importer demand, the currency received support as short-seller positions diminished. Investors are keenly awaiting US i",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-ends-a-tad-higher-as-oil-slide-foreign-inflows-lift-sentiment/articleshow/131990613.cms",
+      "title": "Copper rebounds on bargain hunting amid softer dollar, firmer risk appetite",
+      "description": "Copper prices saw a rebound on Thursday, recovering from recent losses as investors seized bargain opportunities. A weaker dollar and a positive sentiment in broader financial markets, buoyed by strong tech earnings, also contributed to the uptick. While industrial metals face headwinds from persist",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/metals-copper-rebounds-on-bargain-hunting-amid-softer-dollar-firmer-risk-appetite/articleshow/131995506.cms",
       "source": "Economic Times Markets",
       "date": "2026-06-25",
       "image": "",
       "category": "central_bank"
     },
     {
-      "title": "Housing sales rise 19% in Apr-Jun across 9 cities despite global uncertainties",
-      "description": "Despite facing global economic challenges, Indian housing sales posted a staggering 19% increase, exceeding 1.12 lakh units from April to June. PropEquity data highlights significant demand in key urban centers including Bengaluru, Mumbai, and Navi Mumbai. Moreover, a notable 43% uptick in new prope",
-      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/housing-sales-rise-19-in-apr-jun-across-9-cities-despite-global-uncertainties/articleshow/131990581.cms",
+      "title": "Sebi seeks clarification from Jio Platforms on IPO filing",
+      "description": "India's capital markets regulator Sebi has requested clarifications from Jio Platforms regarding its draft IPO papers. This move signals a crucial step towards what is anticipated to be the nation's largest public offering, aiming to raise approximately Rs 35,000 crore. The company plans to utilize ",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-seeks-clarification-from-jio-platforms-on-ipo-filing/articleshow/131994890.cms",
       "source": "Economic Times Markets",
       "date": "2026-06-25",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "Nifty headed to 24,500 next week, says Dharmesh Shah; these 2 stocks are top buys right now",
-      "description": "Indian equity markets are poised for further gains, with Nifty eyeing 24,500, according to ICICI Direct's Dharmesh Shah.  He highlights falling crude oil prices and rupee stability as key drivers. Bank Nifty has also shown strength, targeting 59,300.  Shah recommends buying dips and identifies Mahin",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/nifty-headed-to-24500-next-week-says-dharmesh-shah-these-2-stocks-are-top-buys-right-now/articleshow/131989026.cms",
+      "title": "Dollar hits 13-month highs as investors bank on rate hikes",
+      "description": "The US dollar is on a remarkable rise, approaching its most significant monthly increase in a year, fueled by expectations of upcoming rate hikes from the Federal Reserve. This surge has propelled the euro to a 13-month low and pushed the pound and yen down to seven-month and 40-year lows, respectiv",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-hits-13-month-highs-as-investors-bank-on-rate-hikes/articleshow/131994192.cms",
       "source": "Economic Times Markets",
       "date": "2026-06-25",
       "image": "",
+      "category": "central_bank"
+    },
+    {
+      "title": "Nvidia trades cheaper than semiconductor sector, says Tony Zhang",
+      "description": "Nvidia's current valuation could offer strategic investment opportunities, especially if AI-driven semiconductor growth meets future projections.\nThe post Nvidia trades cheaper than semiconductor sector, says Tony Zhang appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/nvidia-cheaper-than-semiconductor-sector-tony-zhang/",
+      "source": "Crypto Briefing",
+      "date": "2026-06-24",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/24111556/tony-zhang-800x420.jpeg",
+      "category": "market"
+    },
+    {
+      "title": "Alzheimer Society of Toronto and Integracare Inc. Extend Partnership with Four-Year Agreement",
+      "description": "TORONTO, June 24, 2026 /PRNewswire/ - Integracare Inc. and the Alzheimer Society of Toronto (\"AST\") today announced a renewed and expanded four-year partnership that deepens a relationship first established in 2017. The new agreement pairs Integracare's conti\u2026",
+      "url": "https://www.prnewswire.com/news-releases/alzheimer-society-of-toronto-and-integracare-inc-extend-partnership-with-four-year-agreement-302809482.html",
+      "source": "PRNewswire",
+      "date": "2026-06-24",
+      "image": "https://mma.prnewswire.com/media/2999858/Integracare_Inc_Alzheimer_Society_of_Toronto_and_Integracare_Inc.jpg?p=facebook",
+      "category": "market"
+    },
+    {
+      "title": "Arthur Hayes says AI rescue liquidity could send Bitcoin price to $1,000,000",
+      "description": "Arthur Hayes outlined a path to $1 million Bitcoin price built around AI absorbing liquidity, the buildout collapsing under debt, authorities printing, and capital rotating into crypto. Hayes made the argument on Bankless, saying that AI became the dominant c\u2026",
+      "url": "https://cryptoslate.com/arthur-hayes-says-ai-rescue-liquidity-could-send-bitcoin-price-to-1000000/",
+      "source": "CryptoSlate",
+      "date": "2026-06-24",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/06/arthur-hayes-bitcoin-ai.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "I'm a fashion editor - and these are the 35 best high-street fashion finds under \u00a375 right now",
+      "description": "From wedding guest dresses to holiday-ready accessories, a fashion editor shares 35 stylish summer buys under \u00a375 that instantly refresh your wardrobe.",
+      "url": "https://www.dailymail.com/lifestyle/fashion/article-15914361/fashion-editor-best-summer-buys-75.html",
+      "source": "Dailymail.com",
+      "date": "2026-06-24",
+      "image": "https://i.dailymail.com/1s/2026/06/24/10/109562091-0-image-m-16_1782293191120.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "ED accuses Rajesh Exports of FEMA violations, \u2018significant departures\u2019 from trade norms",
+      "description": "ED accuses Rajesh Exports of FEMA violations, citing lack of documentation and significant financial discrepancies in trade practices.",
+      "url": "https://www.thehindubusinessline.com/companies/ed-accuses-rajesh-exports-of-fema-violations-significant-departures-from-trade-norms/article71142429.ece",
+      "source": "BusinessLine",
+      "date": "2026-06-24",
+      "image": "https://bl-i.thgim.com/public/incoming/5wsiwj/article71142684.ece/alternates/LANDSCAPE_1200/This-is-a-misuGHKG2O98O.5.jpg.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Madhavan\u2019s watch grabs eyeballs at Padma Shri ceremony. It comes with 18 karat-gold case. Check its jaw-dropping price",
+      "description": "Actor R Madhavan's recent Padma Shri award ceremony was a style highlight, with his choice of a rare Titan Nebula Jalsa Flying Tourbillon watch stealing the spotlight. This exquisite timepiece, featuring an 18-karat rose gold case and a hand-painted marble di\u2026",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/madhavans-watch-grabs-eyeballs-at-padma-shri-ceremony-it-comes-with-18-karat-gold-case-check-its-jaw-dropping-price/articleshow/131970668.cms",
+      "source": "The Times of India",
+      "date": "2026-06-24",
+      "image": "https://img.etimg.com/thumb/msid-131970922,width-1200,height-630,imgsize-101215,overlay-etpanache/articleshow.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "US current account deficit widens to $227B in Q1, exceeding forecasts",
+      "description": "The widening US current account deficit may weaken the dollar, potentially boosting Bitcoin and stablecoin demand as alternative assets.\nThe post US current account deficit widens to $227B in Q1, exceeding forecasts appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/us-current-account-deficit-widens-q1-2026/",
+      "source": "Crypto Briefing",
+      "date": "2026-06-24",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/24100703/treasury-building-washington-d-c-wikipedia-8-800x420.jpeg",
       "category": "currency"
     },
     {
-      "title": "From Barrels to Bytes: Measuring the Massive Energy Footprint of the AI Revolution",
-      "description": "FN Media Group Presents Oilprice.com Market Commentary NEW YORK, June 24, 2026 /PRNewswire/ -- Back in 2017, we did the math to figure out how much oil it takes to mine a single Bitcoin. The answer then was about 20 barrels of oil equivalent per coin. Today i\u2026",
-      "url": "https://www.prnewswire.com/news-releases/from-barrels-to-bytes-measuring-the-massive-energy-footprint-of-the-ai-revolution-302808394.html",
-      "source": "PRNewswire",
-      "date": "2026-06-24",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "QuantRate Launches AI Stock Trading Bot to Help Investors Stay Ahead of Market Trends",
-      "description": "QuantRate launches its AI Stock Trading Bot designed to help investors stay ahead of market trends through advanced AI-driven analysis, automated trading strategies, and real-time market insights in the evolving global financial landscape. QuantRate launches \u2026",
-      "url": "https://www.globenewswire.com/news-release/2026/06/24/3316751/0/en/QuantRate-Launches-AI-Stock-Trading-Bot-to-Help-Investors-Stay-Ahead-of-Market-Trends.html",
-      "source": "GlobeNewswire",
-      "date": "2026-06-24",
-      "image": "https://ml-eu.globenewswire.com/Resource/Download/161f3e75-1e22-4539-9ccd-5febea6166a3",
-      "category": "market"
-    },
-    {
-      "title": "Stock Markets End Higher As Sensex Rises 790 Points, Nifty Tests 24,021",
-      "description": "Previously, during the early morning session, the Sensex climbed 187 points to open trade at 76,388 and the Nifty rose 57 points to open at 23,878 at 9:15 AM.",
-      "url": "https://news.abplive.com/business/stock-market-closing-today-sensex-nifty-oil-prices-us-iran-conflict-1852400",
-      "source": "Abplive.com",
-      "date": "2026-06-24",
-      "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2024/11/05/57a1a5f2377337e8827da83d8ae39b8e1730802283166121_original.jpeg?impolicy=abp_cdn&imwidth=1200",
-      "category": "market"
-    },
-    {
-      "title": "Sensex today | Stock Market Highlights: Sensex jumps 790 points, Nifty reclaims 24,000 as banking and IT stocks power rally",
-      "description": "Sensex Today, Nifty 50 | Stock Market Highlights: Indian equity markets ended higher on Wednesday as benchmark indices recovered sharply, supported by gains in banking and IT stocks and a decline in global crude oil prices. The Sensex climbed 790.54 points, o\u2026",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-24-june-2026/article71137514.ece",
+      "title": "ED flags major irregularities in Rajesh Exports foreign transactions probe",
+      "description": "ED flags irregularities in Rajesh Exports foreign transactions probe, citing missing records, stock mismatch and alleged Rs 600 crore siphoning via share trades.",
+      "url": "https://www.thehindubusinessline.com/markets/gold/ed-flags-major-irregularities-in-rajesh-exports-foreign-transactions-probe/article71142036.ece",
       "source": "BusinessLine",
       "date": "2026-06-24",
-      "image": "https://bl-i.thgim.com/public/incoming/6juylk/article71140456.ece/alternates/LANDSCAPE_1200/PO05_World_stockchart.jpg",
-      "category": "market"
+      "image": "https://bl-i.thgim.com/public/incoming/ec7vkr/article71080495.ece/alternates/LANDSCAPE_1200/10th-DEVESH-ED-G67FVC23M.3.jpg.jpg",
+      "category": "supply_demand"
     },
     {
-      "title": "One balance, many markets: Binance and the making of a finance \u2018super app\u2019",
-      "description": "Binance is revolutionizing investing by consolidating crypto, stocks, and commodities into a single platform, mirroring Asia's 'super app' model. This move, particularly impactful in emerging markets, offers unprecedented access to global equities and pre-IPO\u2026",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/one-balance-many-markets-binance-and-the-making-of-a-finance-super-app/articleshow/131964969.cms",
-      "source": "The Times of India",
+      "title": "Gold And Silver Prices Fall To Seven-Month Lows",
+      "description": "Gold fell below the $4,000 per ounce mark Wednesday morning for the first time since November.",
+      "url": "https://www.forbes.com/sites/conormurray/2026/06/24/gold-and-silver-prices-fall-to-seven-month-lows/",
+      "source": "Forbes",
       "date": "2026-06-24",
-      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-133147,resizemode-75,msid-131964969/wealth/invest/one-balance-many-markets-binance-and-the-making-of-a-finance-super-app.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Crypto Critic Dr Doom Launches USAFi Crypto Backed by ETF",
-      "description": "Nouriel Roubini is launching his own USAFi crypto, backed by a $17 million ETF that holds U.S. Treasuries, gold and investment trusts. Nouriel Roubini, the...\nThe post Crypto Critic Dr Doom Launches USAFi Crypto Backed by ETF appeared first on Bitcoin Foundat\u2026",
-      "url": "https://bitcoinfoundation.org/news/altcoins/crypto-critic-dr-doom-launches-usafi-crypto-backed-by-etf/",
-      "source": "Bitcoinfoundation.org",
-      "date": "2026-06-24",
-      "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/04/token-launchpad-altcoin-opt.webp",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a3be7b05c32d9c4806db3fa/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "category": "metals"
     },
     {
-      "title": "Comstock Metals LLC Announces Solar Panel Recycling Facility in Cambridge, Ohio",
-      "description": "VIRGINIA CITY, Nev., June 24, 2026 (GLOBE NEWSWIRE) -- Comstock Inc. (NYSE American: LODE) (\u201cComstock\u201d and the \u201cCompany\u201d) is pleased to announce that Comstock Metals LLC, a wholly owned subsidiary of Comstock Inc. (NYSE: LODE), a leader in the responsible rec\u2026",
-      "url": "https://www.globenewswire.com/news-release/2026/06/24/3316671/0/en/Comstock-Metals-LLC-Announces-Solar-Panel-Recycling-Facility-in-Cambridge-Ohio.html",
+      "title": "Characterization of green synthesized silver nanoparticles from Falconeria insignis Royle and its antimicrobial activity",
+      "description": "Falconeria insignis Royle leaf extract was utilized for the first time as a natural reducing and stabilizing agent in a green precipitation method to synthesize silver nanoparticles devoid of hazardous chemicals. A change in hue from light yellow to pale brow\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352435",
+      "source": "Plos.org",
+      "date": "2026-06-24",
+      "image": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0352435.g006&size=inline",
+      "category": "metals"
+    },
+    {
+      "title": "Gold, silver and bitcoin tumble as debasement trade unwinds",
+      "description": "Precious metals have fallen sharply from their 2025 highs as markets price in Fed rate hikes.",
+      "url": "https://www.coindesk.com/markets/2026/06/24/gold-silver-and-bitcoin-tumble-as-debasement-trade-unwinds",
+      "source": "CoinDesk",
+      "date": "2026-06-24",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/4a35e7a14436ad11813af0dda0a23e81fe8b1bb0-2130x1736.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Hudbay Completes Acquisition of Arizona Sonoran to Create the Third Largest Copper District in North America",
+      "description": "TORONTO, June 24, 2026 (GLOBE NEWSWIRE) -- Hudbay Minerals Inc. (\u201cHudbay\u201d or the \u201cCompany\u201d) (TSX, NYSE: HBM) is pleased to announce the closing of its previously announced acquisition of Arizona Sonoran Copper Company Inc. (\u201cArizona Sonoran\u201d) by way of a cour\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/06/24/3316857/0/en/Hudbay-Completes-Acquisition-of-Arizona-Sonoran-to-Create-the-Third-Largest-Copper-District-in-North-America.html",
       "source": "GlobeNewswire",
       "date": "2026-06-24",
-      "image": "https://ml.globenewswire.com/Resource/Download/23ea433d-b7af-4e94-8100-d1933b728e02",
+      "image": "https://ml.globenewswire.com/Resource/Download/9d9d3efb-2d50-4d61-9be5-64f7243288ab",
       "category": "market"
     },
     {
-      "title": "Democrats Demand Investigation Into Trump\u2019s World Liberty Financial $500M UAE Deal",
-      "description": "A group of the U.S. Senate Democrats has sent an open letter to Republican Senate leadership demanding hearings on the Trump family crypto project World...\nThe post Democrats Demand Investigation Into Trump\u2019s World Liberty Financial $500M UAE Deal appeared fi\u2026",
-      "url": "https://bitcoinfoundation.org/news/people-in-crypto-news/trump-uae-deal/",
-      "source": "Bitcoinfoundation.org",
+      "title": "Gold prices today, Wednesday, June 24: Prices sliding below $4,100 this morning",
+      "description": "This is today's gold price, Wednesday, June 24, 2026. Gold August (GC=F) futures opened at $4,130 this morning, down 0.5% compared to Tuesday's closing price...",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-wednesday-june-24-prices-sliding-below-4100-this-morning-121747408.html",
+      "source": "Yahoo Entertainment",
       "date": "2026-06-24",
-      "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/06/ChatGPT-Image-24-\u0438\u044e\u043d.-2026-\u0433.-12_45_11-1.webp",
-      "category": "supply_demand"
+      "image": "https://s.yimg.com/lo/mysterio/api/98886408262998CF6428744427681E7F7D74993A46582C35F2DF62D5447D7002/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fwednesday.png",
+      "category": "metals"
     },
     {
       "title": "Gold down over 1%, silver over 2% as dollar rises",
@@ -233,6 +278,15 @@
       "category": "currency"
     },
     {
+      "title": "Comstock Metals LLC Announces Solar Panel Recycling Facility in Cambridge, Ohio",
+      "description": "VIRGINIA CITY, Nev., June 24, 2026 (GLOBE NEWSWIRE) -- Comstock Inc. (NYSE American: LODE) (\u201cComstock\u201d and the \u201cCompany\u201d) is pleased to announce that Comstock Metals LLC, a wholly owned subsidiary of Comstock Inc. (NYSE: LODE), a leader in the responsible rec\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/06/24/3316671/0/en/Comstock-Metals-LLC-Announces-Solar-Panel-Recycling-Facility-in-Cambridge-Ohio.html",
+      "source": "GlobeNewswire",
+      "date": "2026-06-24",
+      "image": "https://ml.globenewswire.com/Resource/Download/23ea433d-b7af-4e94-8100-d1933b728e02",
+      "category": "market"
+    },
+    {
       "title": "Eldorado Gold \u2013 Skouries: Closer to copper-gold production",
       "description": "An investment exceeding 3 billion dollars by Canada\u2019s Eldorado Gold, parent of Hellas Gold, at the Kassandra Mines in northern Greece is positioning the country prominently on Europe\u2019s critical raw\u2026\nEldorado Gold \u2013 Skouries: Closer to copper-gold production -\u2026",
       "url": "https://www.naftemporiki.gr/english/2128525/eldorado-gold-skouries-closer-to-copper-gold-production/",
@@ -242,156 +296,102 @@
       "category": "currency"
     },
     {
-      "title": "Vedanta Completes Historic Demerger, Lists Four New Companies on BSE and NSE",
-      "description": "MUMBAI, India, June 24, 2026 /PRNewswire/ -- Vedanta Group marked a defining milestone in Indian corporate history with the successful listing of four newly demerged companies on the Bombay Stock Exchange (BSE) and National Stock Exchange (NSE). The landmark \u2026",
-      "url": "https://www.prnewswire.com/news-releases/vedanta-completes-historic-demerger-lists-four-new-companies-on-bse-and-nse-302808989.html",
-      "source": "PRNewswire",
+      "title": "AI\u2019s environmental toll: How to reduce your digital footprint",
+      "description": "Discover how to reduce your digital footprint as AI usage consumes energy and water.",
+      "url": "https://wirehub.medianewsgroup.com/2026/06/24/ai-is-an-energy-and-water-hog-heres-what-you-can-do-to-counter-that/",
+      "source": "Medianewsgroup.com",
       "date": "2026-06-24",
-      "image": "https://mma.prnewswire.com/media/2744636/5446479/Vedanta_Logo.jpg?p=facebook",
+      "image": "https://www.bostonherald.com/wp-content/uploads/2026/06/Climate_Choices_Reducing_AI_Footprint_93771.jpg?w=1024&h=682",
       "category": "market"
     },
     {
-      "title": "Why I\u2019m Betting on Gold, Not Stocks \u00e2\u0080\u0093 Because Gold Has Real, Intrinsic, Lasting Value",
-      "description": "The SpaceX Crash Was Inevitable I publicly warned that the SpaceX IPO was overpriced hype, and now it\u2019s down 27% from its highs. Retail investors, lured by the promise of space-age profits, bought on margin and leveraged themselves to the hilt. They are now t\u2026",
-      "url": "https://www.naturalnews.com/2026-06-24-why-im-betting-on-gold-not-stocks.html",
-      "source": "Naturalnews.com",
+      "title": "Denny\u2019s Unveils New Brand Evolution And Creative Campaign Drawing Inspiration From Classic Sitcoms",
+      "description": "Denny\u2019s unveils a new brand evolution and sitcom-inspired campaign, inviting guests to the booth with nostalgia, new menu items, and a refreshed look....",
+      "url": "https://www.globenewswire.com/news-release/2026/06/24/3317036/23968/en/Denny-s-Unveils-New-Brand-Evolution-And-Creative-Campaign-Drawing-Inspiration-From-Classic-Sitcoms.html",
+      "source": "GlobeNewswire",
       "date": "2026-06-24",
-      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/gold-silver-stock-market-2273-original.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "The Energy Empire: How China\u2019s strategic patience is reshaping global power",
-      "description": "The book dismantles the notion that America could easily strangle China\u2019s energy supply, detailing how China solved its \u201cMalacca Dilemma\u201d decades ago by building diversified pipelines, a strategic deep-sea port in Gwadar and the world\u2019s largest strategic petr\u2026",
-      "url": "https://www.naturalnews.com/2026-06-24-energy-empire-chinas-strategic-patience-reshaping-power.html",
-      "source": "Naturalnews.com",
-      "date": "2026-06-24",
-      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/The-Energy-Empire-How-Chinas-Long-Game-Outpaces-the-West.png",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Vedanta Demerger: Aluminium Metal, Oil & Gas, Power, Iron & Steel Outlook",
-      "description": "The demerger of Vedanta's four new entities - Vedanta Aluminium Metal, Vedanta Oil & Gas, Vedanta Power, and Vedanta Iron & Steel - has led to a 16% appreciation in aggregated market capitalisation, with Vedanta Aluminium Metal identified as a likely near-ter\u2026",
-      "url": "https://www.rediff.com/business/report/vedanta-demerger-aluminium-metal-oil--gas-power-iron--steel-outlook/20260624.htm",
-      "source": "Rediff.com",
-      "date": "2026-06-24",
-      "image": "https://im.rediff.com/1200-630/money/2023/jun/06vedanta1.jpg",
+      "image": "https://ml.globenewswire.com/Resource/Download/b529c129-efe2-433c-bf29-fddfe32d1c72",
       "category": "market"
     },
     {
-      "title": "Why AI Visibility Does Not Only Depend On SEO",
-      "description": "AI visibility issues often reflect organizational misalignment rather than SEO problems, as inconsistent data confuses language models.\nThe post Why AI Visibility Does Not Only Depend On SEO appeared first on Search Engine Journal.",
-      "url": "https://www.searchenginejournal.com/why-ai-visibility-depends-on-operational-alignment-not-just-seo/577683/",
-      "source": "Search Engine Journal",
+      "title": "Europol-Led Operation Endgame Takes Down StealC and Amadey Infostealers",
+      "description": "Operation Endgame seized around 50 domains and nearly 200 active IP-based servers associated with the infostealers",
+      "url": "https://www.infosecurity-magazine.com/news/operation-endgame-stealc-amadey/",
+      "source": "Infosecurity Magazine",
       "date": "2026-06-24",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/06/alignment-231.png",
+      "image": "https://assets.infosecurity-magazine.com/webpage/og/e66e170b-4b79-4ae6-b4bb-4fec29da3e16.jpg",
+      "category": "currency"
+    },
+    {
+      "title": "Musk\u2019s SpaceX adds billions in debt while cutting interest",
+      "description": "Elon Musk's SpaceX has successfully issued $25 billion in investment-grade bonds, a move that consolidates debt from X and xAI while lowering annual interest costs. This strategic financial maneuver leverages SpaceX's strong revenue streams from Starlink and \u2026",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/musks-spacex-adds-billions-in-debt-while-cutting-interest/articleshow/131971973.cms",
+      "source": "The Times of India",
+      "date": "2026-06-24",
+      "image": "https://img.etimg.com/thumb/msid-131971958,width-1200,height-630,imgsize-139854,overlay-etmarkets/articleshow.jpg",
       "category": "market"
     },
     {
-      "title": "CRM compliance: What it is and how to nail It with your team & tech",
-      "description": "A CRM is like a teenager\u2019s journal \u2013 full of sensitive information. But instead of school stories and secrets, it holds contact records, purchase history, support conversations, and for some, health information or payment data, too.",
-      "url": "https://blog.hubspot.com/marketing/crm-compliance",
-      "source": "Hubspot.com",
+      "title": "Is Uber\u2019s (UBER) Europe Expansion A Buying Opportunity As Stock Trades Near 52-Week Lows?",
+      "description": "Uber Technologies Inc. (NYSE:UBER) is one of the 10 Best 52-Week Low Technology Stocks to Buy According to Analysts. While evaluating the impact of autonomou...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/uber-uber-europe-expansion-buying-152435466.html",
+      "source": "Yahoo Entertainment",
       "date": "2026-06-24",
-      "image": "https://53.fs1.hubspotusercontent-na1.net/hubfs/53/crm%20compliance.png",
+      "image": "https://s.yimg.com/lo/mysterio/api/886F86013D44C62E36C88B03A187A8372EA849999063878FDA3BC41BA0883A0F/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Ffdc7dd6dff645baf0c002d1c5141f944",
+      "category": "currency"
+    },
+    {
+      "title": "Trading At 52-Week Lows, Pony AI (PONY) Stock Could More Than Double From Here According To Analysts",
+      "description": "Pony AI Inc. (NASDAQ::PONY) is one of the 10 Best 52-Week Low Technology Stocks to Buy According to Analysts. On June 9, in collaboration with Stellantis and...",
+      "url": "https://finance.yahoo.com/technology/ai/articles/trading-52-week-lows-pony-152427072.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-06-24",
+      "image": "https://s.yimg.com/lo/mysterio/api/71CCC768596D7AF0312AA4542CFD12D4F6CD2270179597941C31539938E68150/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F32151c7d5c2ab282b7c947125adb959e",
       "category": "market"
     },
     {
-      "title": "8 top Profound alternatives your marketing team can actually use",
-      "description": "As AI search reshapes how customers discover and evaluate brands, tools like Profound are gaining attention for helping marketers measure visibility within AI-generated answers. But, as budgets tighten, new AI visibility features emerge, and integration deman\u2026",
-      "url": "https://blog.hubspot.com/marketing/profound-alternatives",
-      "source": "Hubspot.com",
+      "title": "Deadly \u2018Omega\u2019 heat wave cooking Europe expected to shatter more records",
+      "description": "The record-breaking heat caused the deaths of dozens of people, closed schools, knocked out electricity and wiped out poultry farms and continues to worsen.",
+      "url": "https://nypost.com/2026/06/24/world-news/deadly-omega-heat-wave-broils-europe-with-more-heat-records-expected/",
+      "source": "New York Post",
       "date": "2026-06-24",
-      "image": "https://53.fs1.hubspotusercontent-na1.net/hubfs/53/profound-alternatives-1-20260616-4460903.webp",
-      "category": "market"
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/06/132069393.jpg?quality=75&strip=all&w=1200",
+      "category": "currency"
     },
     {
-      "title": "Slate Auto says each $24,950 electric pickup truck will be profitable as it aims to be cash-flow positive next year",
-      "description": "EV startup Slate Auto CEO Peter Faricy told CNBC that every vehicle the company produces will be gross margin positive.",
-      "url": "https://www.cnbc.com/2026/06/24/slate-ev-pickup-truck-ceo-business-goals.html",
-      "source": "CNBC",
-      "date": "2026-06-24",
-      "image": "https://image.cnbcfm.com/api/v1/image/108325607-1782236624508-IMG_4588.jpeg?v=1782246880&w=1920&h=1080",
-      "category": "market"
-    },
-    {
-      "title": "Jose Mourinho praises Barcelona and recalls special Camp Nou years: \u2018One of the best clubs after Real Madrid\u2019",
-      "description": "Jose Mourinho may have returned to Real Madrid, but Barcelona still occupies a special place in the Portuguese coach\u2019s career.Speaking in his first major interview since taking charge at Real Madrid...",
-      "url": "https://barcauniversal.com/jose-mourinho-praises-barcelona-and-recalls-special-camp-nou-years-one-of-the-best-clubs-after-real-madrid/",
-      "source": "Barcauniversal.com",
-      "date": "2026-06-24",
-      "image": "https://s.yimg.com/lo/mysterio/api/7e58a888686810dc37fdf71ee74cf9f95c78cd62510508d18316d34668d9698f/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarca_universal_articles_732%2F383c65cabf918f4b832fda1522c9ab4d",
-      "category": "market"
-    },
-    {
-      "title": "New global rules clear the road for driverless vehicles",
-      "description": "A UN vehicle standards forum has approved the first global regulations for fully autonomous driving systems (ADS), marking a major step towards the safe deployment of self-driving vehicles.\u00a0\nThe post New global rules clear the road for driverless vehicles app\u2026",
-      "url": "https://news.un.org/en/story/2026/06/1167797",
-      "source": "UN News",
-      "date": "2026-06-24",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/24-06-2026-Unsplash-waymo.jpg/image770x420cropped.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Science Philanthropy in a Democracy Under Pressure",
-      "description": "Lessons from Brazil on how science philanthropy can and should act in the face of political hostility.",
-      "url": "https://ssir.org/articles/entry/science-philanthropy-brazil",
-      "source": "Ssir.org",
-      "date": "2026-06-24",
-      "image": "https://ssir.org/images/blog/science-philanthropy-brazil-737x737.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Roland DG Unveils the VersaStudio BY2-20, Bringing Production-Ready Direct-To-Film Printing to Compact Apparel Workflows",
-      "description": "IRVINE, Calif., June 24, 2026 /PRNewswire/ -- Roland DG, the world's leading provider of digital printing solutions, today announced the launch of the VersaStudio BY2-20, a compact, reliable desktop direct-to-film (DTF) printer that enables users to consisten\u2026",
-      "url": "https://www.prnewswire.com/news-releases/roland-dg-unveils-the-versastudio-by2-20-bringing-production-ready-direct-to-film-printing-to-compact-apparel-workflows-302808710.html",
-      "source": "PRNewswire",
-      "date": "2026-06-24",
-      "image": "https://mma.prnewswire.com/media/2999493/Roland_DG_VersaStudio_BY2_20.jpg?p=facebook",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Democrats see midterm hope in reliably red Iowa as Trump approval ratings sag",
-      "description": "The path back to a House majority could run through states such as Iowa, where Democrats in recent elections have struggled to win over rural voters.",
-      "url": "https://www.cnbc.com/2026/06/24/election-2026-iowa-trump-approval-democrats.html",
-      "source": "CNBC",
-      "date": "2026-06-24",
-      "image": "https://image.cnbcfm.com/api/v1/image/108322780-1781640062142-img_9791_720.jpg?v=1781643036&w=1920&h=1080",
-      "category": "market"
-    },
-    {
-      "title": "Judge blocks Trump govt from making arrests at immigration courts",
-      "description": "A federal judge in California on Tuesday blocked the Trump administration from making arrests at immigration courts across the United States.\nThe post Judge blocks Trump govt from making arrests at immigration courts appeared first on Vanguard News.",
-      "url": "https://www.vanguardngr.com/2026/06/judge-blocks-trump-govt-from-making-arrests-at-immigration-courts/",
+      "title": "Global Ebola risk \u2018remains low\u2019, WHO chief says",
+      "description": "The case is the first of the deadly haemorrhagic fever identified outside the African continent during the current outbreak, which has also affected Uganda.\nThe post Global Ebola risk \u2018remains low\u2019, WHO chief says appeared first on Vanguard News.",
+      "url": "https://www.vanguardngr.com/2026/06/global-ebola-risk-remains-low-who-chief-says/",
       "source": "Vanguard",
       "date": "2026-06-24",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2025/06/US-Immigration-raids.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "Public Records Show FBI Secretly Extracted Data From ICE Protesters\u2019 Phones",
-      "description": "On the evening of June 11, 2025, Shailynn Bray-Waters joined hundreds of other protesters at a demonstration outside an ICE field office in Spokane, Washington. She\u2019d learned through social media that two of her former ESL students\u2014Cesar Alexander Alvarez Per\u2026",
-      "url": "https://www.motherjones.com/politics/2026/06/cellebrite-phone-protest-ice-dhs-spokane-fbi-conspiracy-surveillance-privacy/",
-      "source": "Mother Jones",
-      "date": "2026-06-24",
-      "image": "https://www.motherjones.com/wp-content/uploads/2026/06/20260613_fbi-phone-hack_2000px.jpg?w=1200&h=630&crop=1",
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2023/04/WHO-scaled.jpg",
       "category": "market"
     },
     {
-      "title": "Claude Finds Its Role in Warfare \u2018Troubling\u2019",
-      "description": "The AI chatbot\u2019s misgivings raise the question of whether it would refuse an illegal order.",
-      "url": "https://www.theatlantic.com/national-security/2026/06/claude-anthropic-ai-warfare-orders/687581/",
-      "source": "The Atlantic",
+      "title": "$360,000 and counting \u2013\u00a0school districts are spending big bucks to fight anti-trans lawsuits",
+      "description": "This story was originally published by Uncloseted Media, an LGBTQ focused investigative news outlet, in partnership with the Chicago Sun-Times, a nonprofit newspaper. As Pat Green took the stage at the Valley View 365U school board meeting on April 14, 2025, \u2026",
+      "url": "https://www.thepinknews.com/2026/06/24/school-districts-spending-fight-anti-trans-lawsuits/",
+      "source": "Thepinknews.com",
       "date": "2026-06-24",
-      "image": "https://cdn.theatlantic.com/thumbor/SNDQ0WZVl26JXpMgS8u9cN0_g1w=/0x61:2876x1559/1200x625/media/img/mt/2026/06/2026_06_13_ClaudeMilitaryOrders/original.jpg",
-      "category": "geopolitics"
+      "image": "https://www.thepinknews.com/wp-content/uploads/2026/06/pat-green-at-school.jpg",
+      "category": "market"
     },
     {
-      "title": "OpenAI\u2019s Greg Brockman and Marc Andreessen win $29M NYC proxy fight over AI regulation",
-      "description": "The victory may set a precedent for unified federal tech regulations, impacting AI, crypto, and other emerging sectors' legislative landscapes.\nThe post OpenAI\u2019s Greg Brockman and Marc Andreessen win $29M NYC proxy fight over AI regulation appeared first on C\u2026",
-      "url": "https://cryptobriefing.com/openai-brockman-andreessen-nyc-proxy-fight/",
-      "source": "Crypto Briefing",
+      "title": "Moving to DC was the right call for my career, but I missed New York. I found a way to get the best of both worlds.",
+      "description": "I left New York City for Washington, DC. The move made me realize how much I love New York, so I started flying back monthly for quick day trips.",
+      "url": "https://www.businessinsider.com/moved-from-new-york-to-washington-dc-adjustment-challenges-2026-6#article",
+      "source": "Business Insider",
       "date": "2026-06-24",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/24065010/https-images-squarespace-cdn-com-content-v1-62ec2bc76a27db7b-800x420.jpeg",
+      "image": "https://i.insider.com/6a301496a462940611899502?width=1200&format=jpeg",
+      "category": "market"
+    },
+    {
+      "title": "Federal firefighters will be encouraged to wear N95 respirators in major policy reversal",
+      "description": "For the first time, federal firefighters will be encouraged to wear respirators to protect against smoke-related hazards as they put out wildfires, the U.S. Forest Service announced.",
+      "url": "https://www.nbcnews.com/news/us-news/firefighters-wear-n95-respirators-policy-change-rcna351438",
+      "source": "NBC News",
+      "date": "2026-06-24",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260623-federal-firefighter-ew-357p-793798.jpg",
       "category": "central_bank"
     }
   ],
@@ -427,7 +427,7 @@
       "platinum_usd_oz": 1760.87
     }
   ],
-  "timestamp": "2026-06-25T17:30:40.633278+05:30",
+  "timestamp": "2026-06-25T20:55:50.721933+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
