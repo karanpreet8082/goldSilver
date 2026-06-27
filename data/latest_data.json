@@ -54,7 +54,7 @@
         "hold": 50
       },
       "summary": "Gold is showing positive signals. Positive daily movement of 0.0%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-27T09:10:45.448340",
+      "timestamp": "2026-06-27T11:10:23.831797",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 50
       },
       "summary": "Silver is showing positive signals. Positive daily movement of 0.2%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-27T09:10:45.509368",
+      "timestamp": "2026-06-27T11:10:23.921191",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 50
       },
       "summary": "Platinum is showing positive signals. Positive daily movement of 0.1%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-27T09:10:45.569666",
+      "timestamp": "2026-06-27T11:10:24.032426",
       "source": "rule-based"
     }
   },
@@ -125,6 +125,15 @@
   },
   "news": [
     {
+      "title": "Indian issuers hold dollar bond plans amid demand for higher yields",
+      "description": "Indian issuers, including SBI and BoB, have paused dollar bond plans as investors demand higher yields amid rising supply expectations from India. Recent deals show widening spreads over US Treasuries, prompting issuers to reconsider timing. Banks and PSUs may now turn to loans or wait for calmer gl",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/indian-issuers-hold-dollar-bond-plans-amid-demand-for-higher-yields/articleshow/132031654.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-06-27",
+      "image": "",
+      "category": "currency"
+    },
+    {
       "title": "Chris Wood\u2019s big warning: The specific risk that will finally trigger the end of AI trade",
       "description": "Jefferies strategist Chris Wood believes the AI boom will end not because of a chip glut, but when investors realise hyperscalers cannot generate adequate returns on massive AI investments. He warns that concerns over capital misallocation, rather than supply, could trigger a prolonged pause in the ",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/chris-woods-big-warning-the-specific-risk-that-will-finally-trigger-the-end-of-ai-trade/articleshow/132031234.cms",
@@ -152,12 +161,102 @@
       "category": "central_bank"
     },
     {
+      "title": "Gold falls Rs 15,000/10gm, silver slips Rs 45,000/kg in June 2026: Should you invest now or wait for further correction?",
+      "description": "Gold and silver prices have seen significant drops in June, presenting a buying opportunity for new investors. Existing investors are advised against panic selling, with experts suggesting averaging down costs. The decline is attributed to the US Federal Rese\u2026",
+      "url": "https://economictimes.indiatimes.com/wealth/invest/gold-falls-rs-15000/10gm-silver-rs-45000/kg-in-june-2026-should-you-invest-now-or-wait-for-further-correction/articleshow/132014091.cms",
+      "source": "The Times of India",
+      "date": "2026-06-26",
+      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-181306,resizemode-75,msid-132014091/wealth/invest/gold-falls-rs-15000/10gm-silver-rs-45000/kg-in-june-2026-should-you-invest-now-or-wait-for-further-correction.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Australia getting behind their Socceroos",
+      "description": "Sports-mad Australians are embracing a different kind of World Cup fever to what they\u2019re used to",
+      "url": "https://www.irishtimes.com/sport/rugby/2026/06/26/socceroos-winning-hearts-minds-and-eyeballs-in-reaching-world-cup-knockout-stages/",
+      "source": "The Irish Times",
+      "date": "2026-06-26",
+      "image": "https://www.irishtimes.com/resizer/v2/G2DK4G7EKZATPIJBUVZKXALBPQ.jpg?smart=true&auth=e4076c9abd5c81ba7f6e46c91665e6e8e6cb595de3a04063a8e0df901aa0556d&width=1200&height=630",
+      "category": "market"
+    },
+    {
+      "title": "10 Friday AM Reads",
+      "description": "My end-of-week morning train WFH reads: \u2022 Hollywood and Big Tech Are Preparing for War: The studios and the platforms circle each other as AI scrambles the economics of content. The fight that will define the next decade of entertainment. (The Hollywood Repor\u2026",
+      "url": "https://ritholtz.com/2026/06/10-friday-am-reads-504/",
+      "source": "Ritholtz.com",
+      "date": "2026-06-26",
+      "image": "https://ritholtz.com/wp-content/uploads/2035/05/hiringfreeze.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "NEVADA KING GRADUATES TO THE PREMIUM OTCQX BEST MARKET, ENHANCING VISIBILITY FOR U.S. INVESTORS",
+      "description": "VANCOUVER, BC, June 26, 2026 /PRNewswire/ - Nevada King Gold Corp. (TSXV: NKG) (OTCQX: NKGFF) (\"Nevada King\" or the \"Company\") is pleased to announce that its common shares have been approved to begin trading today on the OTCQX\u00ae Best Market under the ticker s\u2026",
+      "url": "https://www.prnewswire.com/news-releases/nevada-king-graduates-to-the-premium-otcqx-best-market-enhancing-visibility-for-us-investors-302811393.html",
+      "source": "PRNewswire",
+      "date": "2026-06-26",
+      "image": "https://mma.prnewswire.com/media/3000762/Nevada_King_Gold_Corp__NEVADA_KING_GRADUATES_TO_THE_PREMIUM_OTCQ.jpg?p=facebook",
+      "category": "metals"
+    },
+    {
+      "title": "BBC Buys \u2018Ghosts Australia\u2019 To Sit Alongside Original British Sitcom",
+      "description": "The BBC has acquired Ghosts Australia, which will sit alongside the British and American versions at the UK pubcaster. The eight-part series from BBC Studios Australia Productions stars Tamala (Cleverman, Nowhere Boys) and Rowan Witt (Totally Completely Fine,\u2026",
+      "url": "http://deadline.com/2026/06/bbc-ghosts-australia-acquisition-1236968147/",
+      "source": "Deadline",
+      "date": "2026-06-26",
+      "image": "https://deadline.com/wp-content/uploads/2026/06/Ghosts-Australia.jpg?w=1024",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Passive funds\u2019 assets rise to \u20b914.77 lakh crore despite debt outflows in May: NSE report",
+      "description": "Passive funds' assets rise to \u20b914.77 lakh crore in May, driven by \u20b99,488 crore inflows despite debt outflows, NSE reports.",
+      "url": "https://www.thehindubusinessline.com/markets/passive-funds-assets-rise-to-1477-lakh-crore-despite-debt-outflows-in-may-nse-report/article71149844.ece",
+      "source": "BusinessLine",
+      "date": "2026-06-26",
+      "image": "https://bl-i.thgim.com/public/incoming/p79ser/article70032589.ece/alternates/LANDSCAPE_1200/PO30_Stock_trading.jpg",
+      "category": "market"
+    },
+    {
+      "title": "How HappyFox Closed $1M in Expansion on a $20 AI Agent Spend with CEO Shalin Jain",
+      "description": "Most B2B companies pour money into the top of the funnel. More leads, better conversion, bigger ad spend. The cheapest growth they have is already sitting inside their own customer base, and almost nobody is mining it. At SaaStr AI 2026, Shalin Jain, founder \u2026",
+      "url": "https://www.saastr.com/how-happyfox-closed-1m-in-expansion-on-a-20-ai-agent-spend-with-ceo-shalin-jain/",
+      "source": "Saastr.com",
+      "date": "2026-06-26",
+      "image": "https://i0.wp.com/www.saastr.com/wp-content/uploads/2026/06/happyfox-scaled.jpg?fit=1000%2C563&quality=70&ssl=1",
+      "category": "supply_demand"
+    },
+    {
       "title": "Tech weakness sends weekly global equity fund inflows sharply lower",
       "description": "June 26 : Global equity fund inflows slowed sharply in the week to June 24, as concerns over debt-funded technology spending and a hawkish stance of the U.S. Federal Reserve cooled risk appetite.Investors purchased a net $7.51 billion worth of global equity f\u2026",
       "url": "https://www.channelnewsasia.com/business/tech-weakness-sends-weekly-global-equity-fund-inflows-sharply-lower-6212766",
       "source": "CNA",
       "date": "2026-06-26",
       "image": "https://dam.mediacorp.sg/image/upload/s--Tat2q9lz--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-06-26T083823Z_1_LYNXMPEM5P0J3_RTROPTP_3_USA-STOCKS.JPG?itok=amC4wit6",
+      "category": "central_bank"
+    },
+    {
+      "title": "Thesis Gold & Silver Receives Confirmation of Substituted Impact Assessment Process for Lawyers-Ranch",
+      "description": "VANCOUVER, BC, June 26, 2026 /PRNewswire/ - Thesis Gold & Silver Inc. (\"Thesis\", or the \"Company\") (TSXV: TAU) (OTCQX: THSGF) (WKN: A422AH) is pleased to announce that it has received confirmation from the Government of Canada that the Impact Assessment (\"IA\"\u2026",
+      "url": "https://www.prnewswire.com/news-releases/thesis-gold--silver-receives-confirmation-of-substituted-impact-assessment-process-for-lawyers-ranch-302811371.html",
+      "source": "PRNewswire",
+      "date": "2026-06-26",
+      "image": "https://mmx.prnewswire.com/media/MS1795049/Thesis_Gold_-_Silver_Inc--Thesis_Gold_-_Silver_Receives_Confirma.jpg?id=OA2737149&p=facebook",
+      "category": "metals"
+    },
+    {
+      "title": "Federal Court Hands Bunker Hill Mining Significant Summary Judgment Victory Over Crescent",
+      "description": "Court dismisses Crescent\u2019s federal CERCLA claims in their entirety, rejects its bid to force a mine dewatering, and bars years of its remaining claims as time-barred \u2014 while preserving Bunker Hill\u2019s own claim to recover Crescent\u2019s share of mine remediation co\u2026",
+      "url": "https://financialpost.com/globe-newswire/federal-court-hands-bunker-hill-mining-significant-summary-judgment-victory-over-crescent",
+      "source": "Financial Post",
+      "date": "2026-06-26",
+      "image": null,
+      "category": "central_bank"
+    },
+    {
+      "title": "Gold heads for fourth weekly loss amid Fed rate hike expectations",
+      "description": "Gold prices are facing a significant downturn, nearing a fourth consecutive weekly loss, as a robust US dollar and anticipated aggressive interest rate hikes by the Federal Reserve to combat inflation exert pressure.  The precious metal has dipped below the $\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-heads-for-fourth-weekly-loss-amid-fed-rate-hike-expectations/articleshow/132012265.cms",
+      "source": "The Times of India",
+      "date": "2026-06-26",
+      "image": "https://img.etimg.com/thumb/msid-132012247,width-1200,height-630,imgsize-109712,overlay-etmarkets/articleshow.jpg",
       "category": "central_bank"
     },
     {
@@ -168,60 +267,6 @@
       "date": "2026-06-26",
       "image": "https://ml.globenewswire.com/Resource/Download/35b4a3e8-9dae-4786-bf09-92705768f590",
       "category": "supply_demand"
-    },
-    {
-      "title": "Perseus Mining Shares Rise 3 Percent as Gold Producer Benefits from Strong Metal Prices",
-      "description": "Perseus Mining Ltd. sees a share price increase due to high gold prices and strong operational performance in West Africa, focusing on efficient production, exploration growth, and responsible mining practices.",
-      "url": "https://www.ibtimes.com.au/perseus-mining-strategic-growth-high-gold-prices-1871355",
-      "source": "Ibtimes.com.au",
-      "date": "2026-06-26",
-      "image": "https://d.ibtimes.com.au/en/full/1894882/perseus-mining-shares-rise-3-percent-gold-producer-benefits.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Wall Street is abandoning its most bullish gold calls after a sharp sell-off",
-      "description": "Gold has come under pressure from a stronger dollar and expectations that the Fed will keep interest rates higher for longer \u2014 or even raise them.",
-      "url": "https://www.businessinsider.com/gold-price-today-forecast-outlook-etf-interest-rates-sell-off-2026-6#article",
-      "source": "Business Insider",
-      "date": "2026-06-26",
-      "image": "https://i.insider.com/6a3cc1bd360acd489560ac78?width=1200&format=jpeg",
-      "category": "central_bank"
-    },
-    {
-      "title": "Sickle Cell warriors demand better care, hope, cure",
-      "description": "By Ebunoluwa Sessou At 63, Niniola Phillips-Adeleye has endured what many would consider a lifetime of battles. Yet, standing among hundreds of advocates in Lagos, she spoke not of defeat, but of resilience. Living with sickle cell disorder for more than six \u2026",
-      "url": "https://www.vanguardngr.com/2026/06/sickle-cell-warriors-demand-better-care-hope-cure/",
-      "source": "Vanguard",
-      "date": "2026-06-26",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2021/06/sickle-cell.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Resolute Mining Shares Rise 4 Percent as Gold Producer Benefits from Strong Metal Prices",
-      "description": "Resolute Mining Ltd. shares rose over 4% due to high gold prices and strong operational performance, with strategic positioning and responsible mining practices enhancing investor appeal.",
-      "url": "https://www.ibtimes.com.au/resolute-mining-shares-surge-high-gold-prices-1871347",
-      "source": "Ibtimes.com.au",
-      "date": "2026-06-26",
-      "image": "https://d.ibtimes.com.au/en/full/1894881/resolute-mining-shares-rise-4-percent-gold-producer-benefits.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Show HN: Every site gives a different P/E ratio, so I open-sourced the math",
-      "description": "Microsoft's P/E on May 6, 2023: Stockopedia says 28.93, Morningstar 32.05, Macrotrends 32.66, Yahoo Finance 33.80, Companies Market Cap 34.4. Same company, same date, eight different numbers. The usual causes: trailing-twelve-month vs fiscal-year-end earnings\u2026",
-      "url": "https://github.com/JerBouma/FinanceToolkit",
-      "source": "Github.com",
-      "date": "2026-06-26",
-      "image": "https://repository-images.githubusercontent.com/180137089/9188f19e-d896-4f68-9571-5603de08e4da",
-      "category": "market"
-    },
-    {
-      "title": "Hormuz oil shock echoes 1973 embargo lessons",
-      "description": "The recent Strait of Hormuz closure, though brief, signals a potential turning point for global energy. Echoing the 1973 oil embargo, this crisis highlights the vulnerability of interconnected markets. Nations are now prioritising energy security over cost, a\u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/business/hormuz-oil-shock-echoes-1973-embargo-lessons/articleshow/132008582.cms",
-      "source": "The Times of India",
-      "date": "2026-06-26",
-      "image": "https://img.etimg.com/thumb/msid-132008749,width-1200,height-630,imgsize-83282,overlay-economictimes/articleshow.jpg",
-      "category": "market"
     },
     {
       "title": "BofA Reaffirms Buy on Triple Flag (TFPM), Highlights Ravenswood Gold Stream Growth",
@@ -242,157 +287,112 @@
       "category": "metals"
     },
     {
-      "title": "Asian shares fall as Apple\u2019s price hikes dent tech optimism",
-      "description": "Oil slipped 0.5% to $74.89 a barrel, having bounced 2% overnight on reports a ship was attacked when exiting the Strait of Hormuz",
-      "url": "https://www.irishtimes.com/business/markets/2026/06/26/asian-shares-fall-as-apples-price-hikes-dent-tech-optimism/",
-      "source": "The Irish Times",
-      "date": "2026-06-26",
-      "image": "https://www.irishtimes.com/resizer/v2/3QHSEK3IRQIZSLD6CMAH4TQIT4.jpg?smart=true&auth=baddbdca85074b0499e0751fd640f7992c761f5c0e3d2267d458777ff7d21b87&width=1200&height=630",
-      "category": "market"
-    },
-    {
-      "title": "Global markets: Asia shares retreat from record as Apple price hikes rain on chip parade",
-      "description": "Japan\u2019s Nikkei slumps nearly 5%, South Korea\u2019s KOSPI down 8%, Nasdaq futures skid 1.7%, yen languishes near 40-year \u200blows; selloff comes after big gains for the quarter to record highs",
-      "url": "https://www.thehindubusinessline.com/markets/global-markets-asia-shares-retreat-from-record-as-apple-price-hikes-rain-on-chip-parade/article71149264.ece",
-      "source": "BusinessLine",
-      "date": "2026-06-26",
-      "image": "https://bl-i.thgim.com/public/incoming/un4ilo/article71149334.ece/alternates/LANDSCAPE_1200/2026-06-08T081814Z_1291588640_RC2C9LAJ1FA6_RTRMADP_3_SOUTHKOREA-STOCKS-DEBT.JPG",
-      "category": "currency"
-    },
-    {
-      "title": "Gold heads for fourth weekly loss on hawkish Fed bets",
-      "description": "Gold faces a fourth weekly loss as a strong dollar and hawkish Fed expectations pressure prices below $4,000 per ounce.",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-heads-for-fourth-weekly-loss-on-hawkish-fed-bets/article71149198.ece",
-      "source": "BusinessLine",
-      "date": "2026-06-26",
-      "image": "https://bl-i.thgim.com/public/incoming/eeckmb/article71149239.ece/alternates/LANDSCAPE_1200/PO08_Gold_prices_down.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "Asian shares fall as Apple's price hikes dents tech optimism",
-      "description": "SYDNEY, June 26 : Asian shares eased from record highs on Friday as hefty price hikes from Apple showed the downside of the boom in chip demand, while only the threat of Japanese intervention kept the yen from hitting 40-year lows. Brent crude futures slipped\u2026",
-      "url": "https://www.channelnewsasia.com/business/asian-shares-fall-apples-price-hikes-dents-tech-optimism-6211886",
-      "source": "CNA",
-      "date": "2026-06-26",
-      "image": "https://dam.mediacorp.sg/image/upload/s--xdsH4YyZ--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-06-26T022516Z_2_LYNXMPEM5P06C_RTROPTP_3_GLOBAL-MARKETS.JPG?itok=ONQxv3sB",
-      "category": "currency"
-    },
-    {
-      "title": "Asia shares retreat from record as Apple price hikes rain on chip parade",
-      "description": "SYDNEY, June 26 : Asian shares pulled back on Friday after a stellar quarter, as Apple's hefty price hikes revealed the downside of booming chip demand, while the threat of Japanese intervention kept the yen from hitting 40-year lows. Oil prices fell toward t\u2026",
-      "url": "https://www.channelnewsasia.com/business/asia-shares-retreat-record-apple-price-hikes-rain-chip-parade-6211886",
-      "source": "CNA",
-      "date": "2026-06-26",
-      "image": "https://dam.mediacorp.sg/image/upload/s--xdsH4YyZ--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-06-26T022516Z_2_LYNXMPEM5P06C_RTROPTP_3_GLOBAL-MARKETS.JPG?itok=ONQxv3sB",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Cummins India to invest more in green tech",
-      "description": "Cummins India is aggressively investing in electric, fuel blending, and hydrogen technologies to secure growth beyond 2030 and counter rising Chinese competition. The company, a leader in engines and power generators, is also strengthening its supply chains a\u2026",
-      "url": "https://economictimes.indiatimes.com/industry/renewables/cummins-india-to-invest-more-in-green-tech/articleshow/132011883.cms",
-      "source": "The Times of India",
-      "date": "2026-06-26",
-      "image": "https://img.etimg.com/thumb/msid-132011895,width-1200,height-630,imgsize-106826,overlay-economictimes/articleshow.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Flash by Redspher Eyes South Korea as Premium Freight Demand Rises Across Semiconductor and EV Battery Supply Chains",
-      "description": "Flash by Redspher a global provider of premium freight forwarding services, is positioning its partnership model to serve growing demand across South Korea",
-      "url": "https://www.globenewswire.com/news-release/2026/06/26/3318094/0/en/Flash-by-Redspher-Eyes-South-Korea-as-Premium-Freight-Demand-Rises-Across-Semiconductor-and-EV-Battery-Supply-Chains.html",
-      "source": "GlobeNewswire",
-      "date": "2026-06-26",
-      "image": "https://ml.globenewswire.com/Resource/Download/fd086483-efe1-43ea-882f-e2f6803a9b0d",
-      "category": "geopolitics"
-    },
-    {
-      "title": "China\u2019s unicorns rise to 381 as ByteDance ranks in top 3 globally: Hurun index",
-      "description": "China is breeding a new generation of unicorns \u2013 start-ups currently valued at US$1 billion or more \u2013 at an accelerating pace, cementing its place alongside the United States in a major global index.\nThe world\u2019s second-largest economy saw 381 Chinese unicorns\u2026",
-      "url": "https://biztoc.com/x/ca285b21ac18cd4a",
-      "source": "Biztoc.com",
-      "date": "2026-06-26",
-      "image": "https://biztoc.com/cdn/ca285b21ac18cd4a_s.webp",
-      "category": "market"
-    },
-    {
-      "title": "Key Kazakh Field Cuts Oil Output as Drones Hit Russian Plant",
-      "description": "Kazakhstan\u2019s giant Karachaganak oil and gas field cut crude production by more than a quarter after a drone attack forced the shutdown of a processing plant in Russia that handles its gas.",
-      "url": "https://financialpost.com/pmn/business-pmn/key-kazakh-field-cuts-oil-output-as-drones-hit-russian-plant",
+      "title": "Opening a Coastal City to Welcome Global Guests: The 17th Annual Meeting of the New Champions Successfully Held in Dalian",
+      "description": "DALIAN, China, June 26, 2026 (GLOBE NEWSWIRE) \u2014 From June 23 to 25, the 17th Annual Meeting of the New Champions (also known as 2026 Summer Davos) was held in Dalian, Liaoning province. More than 1,700 participants from over 90 countries and regions gathered \u2026",
+      "url": "https://financialpost.com/globe-newswire/opening-a-coastal-city-to-welcome-global-guests-the-17th-annual-meeting-of-the-new-champions-successfully-held-in-dalian",
       "source": "Financial Post",
       "date": "2026-06-26",
       "image": null,
-      "category": "supply_demand"
-    },
-    {
-      "title": "USDT gets a Brazil payment route to 170 million people by making crypto disappear",
-      "description": "The Brazil integration tests whether stablecoins work best when users spend through a rail they already trust.\nThe post USDT gets a Brazil payment route to 170 million people by making crypto disappear appeared first on CryptoSlate.",
-      "url": "https://cryptoslate.com/usdt-gets-a-brazil-payment-route-to-170-million-people-by-making-crypto-disappear/",
-      "source": "CryptoSlate",
-      "date": "2026-06-26",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/06/oobit-pix-tether.jpg",
-      "category": "currency"
-    },
-    {
-      "title": "Monaco navigates path to the future with the Monaco Energy Boat Challenge",
-      "description": "MONACO, June 26, 2026 (GLOBE NEWSWIRE) \u2014 Monaco is set to become a global laboratory for the future of sustainable maritime mobility once again. The 13th Monaco Energy Boat Challenge is fast approaching and will bring together students, researchers, engineers\u2026",
-      "url": "https://financialpost.com/globe-newswire/monaco-navigates-path-to-the-future-with-the-monaco-energy-boat-challenge",
-      "source": "Financial Post",
-      "date": "2026-06-26",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/1s_1292.jpeg",
       "category": "market"
     },
     {
-      "title": "Crude at $65, consumption boom, and the Rupee's new shield: Dinshaw Irani's big market calls",
-      "description": "India's economic headwinds are easing, with falling crude oil prices and a stabilizing rupee poised to boost the market. Helios Mutual Fund CEO Dinshaw Irani anticipates oil prices dropping to around $65 per barrel, significantly benefiting India. He favors d\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/crude-at-65-consumption-boom-and-the-rupees-new-shield-dinshaw-iranis-big-market-calls/articleshow/132011822.cms",
-      "source": "The Times of India",
+      "title": "On this day in 1997: First 'Harry Potter' book debuted in U.K.",
+      "description": "On this day in 1997, the first \"Harry Potter\" book was released in the U.K. Now, 29 years after its debut, the story of \"The Boy Who Lived\" continues to captivate readers around the world.",
+      "url": "https://www.kcci.com/article/on-this-day-first-harry-potter-book-released/71733028",
+      "source": "KCCI Des Moines",
       "date": "2026-06-26",
-      "image": "https://img.etimg.com/thumb/msid-132011807,width-1200,height-630,imgsize-77494,overlay-etmarkets/articleshow.jpg",
-      "category": "currency"
+      "image": "https://kubrick.htvapps.com/htv-prod/images/527a7313-c7a5-48cc-a7dc-9639ae8f617b.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*",
+      "category": "market"
     },
     {
-      "title": "Extreme Heat Adds Pressure to Food Supplies Already Hit by War",
-      "description": "The scorching heat sweeping Europe has parched soils, distressed livestock and is keeping farmers away from fields, superseding the Iran war as the greatest challenge to food supplies.",
-      "url": "https://financialpost.com/pmn/business-pmn/extreme-heat-adds-pressure-to-food-supplies-already-hit-by-war",
-      "source": "Financial Post",
+      "title": "PowerBank Awarded $2,950,000 USD Federal Contract with the US Department of Defense and the Department of the Army for Covered Parking Canopy Solar Project",
+      "description": "Project to also include the installation of electric vehicle charging stations TORONTO, June 26, 2026 /PRNewswire/ - PowerBank Corporation (NASDAQ: PBK) (Cboe CA: PBK) (FSE: 103) (\"PowerBank\" or the \"Company\"), a leader in independent energy development and a\u2026",
+      "url": "https://www.prnewswire.com/news-releases/powerbank-awarded-2-950-000-usd-federal-contract-with-the-us-department-of-defense-and-the-department-of-the-army-for-covered-parking-canopy-solar-project-302811388.html",
+      "source": "PRNewswire",
       "date": "2026-06-26",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/european-corn-rallies-as-heatwave-threatens-crops-november-.jpg",
+      "image": "https://mmx.prnewswire.com/media/MS1698220/PowerBank_Corporation-PowerBank_Awarded_-2-950-000_USD_Federal_C.jpg?id=OA2736972&p=facebook",
       "category": "geopolitics"
     },
     {
-      "title": "China is building an AI war machine. Washington must wake up before it\u2019s too late",
-      "description": "OpenAI's new Jalape\u00f1o inference chip signals a deeper U.S.-China competition for control of computing infrastructure, chips, energy, and supply chains.",
-      "url": "https://www.foxnews.com/opinion/china-building-ai-war-machine-washington-must-wake-late",
-      "source": "Fox News",
+      "title": "Germany Joins Push to Change EU Methane Rules on Supply Concerns",
+      "description": "Germany backed an initiative by a group of European Union governments to amend the bloc\u2019s methane-emissions regulation, arguing that some provisions could threaten energy security.",
+      "url": "https://financialpost.com/pmn/business-pmn/germany-joins-push-to-change-eu-methane-rules-on-supply-concerns",
+      "source": "Financial Post",
       "date": "2026-06-26",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/04/china-flag-code.jpg",
+      "image": null,
+      "category": "currency"
+    },
+    {
+      "title": "SCOTUS rules on immigration cases and U.S. suffers first World Cup loss: Morning Rundown",
+      "description": "The Supreme Court paves the way for Trump to strip legal protections from Haitian and Syrian immigrants.",
+      "url": "https://www.nbcnews.com/news/us-news/scotus-immigration-us-world-cup-morning-rundown-rcna351882",
+      "source": "NBC News",
+      "date": "2026-06-26",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260618-Supreme-Court-ew-214-0d5536.jpg",
+      "category": "market"
+    },
+    {
+      "title": "UK\u2019s Polanski Says Chancellor Streeting Would Be \u2018Disastrous\u2019",
+      "description": "Green Party leader Zack Polanski backed Ed Miliband over \u201cdisastrous\u201d Wes Streeting to become the UK\u2019s next chancellor in the latest sign of pressure building on Andy Burnham to name someone who will please the disaffected left.",
+      "url": "https://financialpost.com/pmn/business-pmn/uks-polanski-says-chancellor-streeting-would-be-disastrous",
+      "source": "Financial Post",
+      "date": "2026-06-26",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/776394745.jpg",
+      "category": "market"
+    },
+    {
+      "title": "The Traitors star\u00a0Sam Little reveals he was conned out of his life savings by crypto-scammers as he reflects on the 'shame, guilt and embarrassment' of falling for their fake phone call",
+      "description": "The\u00a0account manager appeared on the BBC show earlier this year, but has shared that while the series was airing, he was battling the turmoil of losing thousands of pounds.",
+      "url": "https://www.dailymail.com/tvshowbiz/article-15932043/The-Traitors-star-Sam-Little-conned-life-savings-crypto-scammers.html",
+      "source": "Dailymail.com",
+      "date": "2026-06-26",
+      "image": "https://i.dailymail.com/1s/2026/06/26/11/109618289-0-image-m-75_1782471410003.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Giddy conservative's claim debunked to his face on CNN: 'They conflate everything'",
+      "description": "A conservative commentator yelped with delight over the U.S. Supreme Court decision upholding the federal government's policy of turning back asylum seekers before they can reach the border, and a fellow CNN panelist calmly dismantled his argument.The justice\u2026",
+      "url": "https://www.rawstory.com/supreme-court-ruling-asylum/",
+      "source": "Raw Story",
+      "date": "2026-06-26",
+      "image": "https://www.rawstory.com/media-library/image.png?id=67037145&width=1200&height=600&coordinates=0%2C25%2C0%2C25",
+      "category": "central_bank"
+    },
+    {
+      "title": "Links 6/26/2026",
+      "description": "Our daily links, including AI chip wreck, Beijing preps for dirty war, Russia discovers again US is non-agreement capable, and Dems rage against Mamdani.",
+      "url": "https://www.nakedcapitalism.com/2026/06/links-6-26-2026.html",
+      "source": "Nakedcapitalism.com",
+      "date": "2026-06-26",
+      "image": "https://www.nakedcapitalism.com/wp-content/uploads/2026/06/55e8d3444e50b10ff3d89960c62d3e7e1036dde55651_640-e1782416023284.jpg",
       "category": "geopolitics"
     },
     {
-      "title": "Jane Fonda: My Life of Protest",
-      "description": "Jane Fonda\n\n\n\nWhat I\u2019ve learned about America from six decades in the struggle.\r\n\n\r\n\n\nThe post Jane Fonda: My Life of Protest appeared first on The Nation.",
-      "url": "https://www.thenation.com/article/activism/jane-fonda-protest-history/",
-      "source": "Thenation.com",
+      "title": "California, here we go",
+      "description": "James Freeman devotes his daily Best of the Web column to the proposition that \u201cCalifornia leads the world in taxing the rick\u201d (\u201cAnother socialist deception targets the Golden State\u2019s economy\u201d). In the column he takes up the \u201cbillionaire tax\u201d that will appear\u2026",
+      "url": "http://www.powerlineblog.com/archives/2026/06/california-here-we-go.php",
+      "source": "Power Line",
       "date": "2026-06-26",
-      "image": "https://www.thenation.com/wp-content/uploads/2026/05/Fonda-protest_podium-getty.jpg",
+      "image": "https://www.powerlineblog.com/wp-content/themes/powerline/images/icon.png",
+      "category": "metals"
+    },
+    {
+      "title": "Former Meta executive sues social media giant over 'Careless People' memoir",
+      "description": "A former Meta executive whose memoir, \u201cCareless People,\u201d provides an explosive insider account of her time at the social media giant, has sued the company for attempting to \u201csilence\u201d her",
+      "url": "https://www.kiro7.com/news/business/former-executive/LTW62ZUGGQ35HA7H4MEBB6DSGU/",
+      "source": "KIRO Seattle",
+      "date": "2026-06-26",
+      "image": "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FJZ45FR5QIQYTPN454BNG2WOHYU.jpg?auth=3b9c647f0ca1ac787de17245da196caa781db16f543c335139c38c897c15ce6f&width=1200&height=630&smart=true",
       "category": "market"
     },
     {
-      "title": "The \"Heated Rivalry\" Paradox",
-      "description": "Patrick DeHahn\n\n\n\nWhat does it mean that TV's biggest hit is a mega-steamy gay romance at the same time as anti-queer hatred rages out of control?\r\n\n\r\n\n\nThe post The \"Heated Rivalry\" Paradox appeared first on The Nation.",
-      "url": "https://www.thenation.com/article/society/heated-rivalry-anti-queer-backlash/",
-      "source": "Thenation.com",
+      "title": "Economists raise US inflation forecasts, see Fed holding rates until 2027",
+      "description": "Prolonged high rates may deter investment in riskier assets, impacting sectors like real estate and crypto, while inflation remains persistent.\nThe post Economists raise US inflation forecasts, see Fed holding rates until 2027 appeared first on Crypto Briefin\u2026",
+      "url": "https://cryptobriefing.com/economists-raise-us-inflation-forecasts-fed-rates-2027/",
+      "source": "Crypto Briefing",
       "date": "2026-06-26",
-      "image": "https://www.thenation.com/wp-content/uploads/2026/06/Screenshot-2026-06-16-at-11.52.08-AM.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Efforts To End School Vaccine Mandates Hit a Wall in Florida",
-      "description": "The state\u2019s campaign to end school vaccine requirements is dead for now. The reasons could offer insights into similar efforts\u2019 chances in other states.",
-      "url": "https://kffhealthnews.org/health-industry/ending-vaccine-mandates-schools-florida-joseph-ladapo-measles/",
-      "source": "Kffhealthnews.org",
-      "date": "2026-06-26",
-      "image": "https://kffhealthnews.org/wp-content/uploads/sites/8/2026/06/GettyImages-1354877887.jpg",
-      "category": "market"
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/26061856/federal-reserve-building-3-800x420.png",
+      "category": "central_bank"
     }
   ],
   "history": [
@@ -427,7 +427,7 @@
       "platinum_usd_oz": 1760.87
     }
   ],
-  "timestamp": "2026-06-27T14:40:45.582205+05:30",
+  "timestamp": "2026-06-27T16:40:24.044744+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
