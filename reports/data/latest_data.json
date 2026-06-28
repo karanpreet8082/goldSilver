@@ -54,7 +54,7 @@
         "hold": 50
       },
       "summary": "Gold is showing positive signals. Positive daily movement of 0.0%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-27T14:14:56.707503",
+      "timestamp": "2026-06-28T07:12:44.546831",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 50
       },
       "summary": "Silver is showing positive signals. Positive daily movement of 0.2%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-27T14:14:56.783430",
+      "timestamp": "2026-06-28T07:12:44.800417",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 50
       },
       "summary": "Platinum is showing positive signals. Positive daily movement of 0.1%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-27T14:14:56.904766",
+      "timestamp": "2026-06-28T07:12:44.943346",
       "source": "rule-based"
     }
   },
@@ -125,39 +125,246 @@
   },
   "news": [
     {
-      "title": "Indian issuers hold dollar bond plans amid demand for higher yields",
-      "description": "Indian issuers, including SBI and BoB, have paused dollar bond plans as investors demand higher yields amid rising supply expectations from India. Recent deals show widening spreads over US Treasuries, prompting issuers to reconsider timing. Banks and PSUs may now turn to loans or wait for calmer gl",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/indian-issuers-hold-dollar-bond-plans-amid-demand-for-higher-yields/articleshow/132031654.cms",
+      "title": "Mcap of 6 of top-10 most valued firms climbs Rs 88,678 cr; ICICI Bank biggest winner",
+      "description": "Indian stock markets saw a modest gain last week, with the top 10 companies adding Rs 88,678.1 crore in market valuation. ICICI Bank led the surge, followed by HDFC Bank and Reliance Industries. However, Bharti Airtel, TCS, and LIC experienced significant valuation drops. This positive market sentim",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-6-of-top-10-most-valued-firms-climbs-rs-88678-cr-icici-bank-biggest-winner/articleshow/132046789.cms",
       "source": "Economic Times Markets",
-      "date": "2026-06-27",
-      "image": "",
-      "category": "currency"
-    },
-    {
-      "title": "Chris Wood\u2019s big warning: The specific risk that will finally trigger the end of AI trade",
-      "description": "Jefferies strategist Chris Wood believes the AI boom will end not because of a chip glut, but when investors realise hyperscalers cannot generate adequate returns on massive AI investments. He warns that concerns over capital misallocation, rather than supply, could trigger a prolonged pause in the ",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/chris-woods-big-warning-the-specific-risk-that-will-finally-trigger-the-end-of-ai-trade/articleshow/132031234.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-06-27",
+      "date": "2026-06-28",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "Goldman Sachs\u2019 India bets: 8 stocks rally up to 85% in CY26; one new addition",
-      "description": "Goldman Sachs\u2019 India equity portfolio fell 6% in CY26 amid mixed stock performance. While 18 stocks declined sharply, eight delivered strong gains, led by GNG Electronics, TD Power Systems, and Inox India.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-india-bets-8-stocks-rally-up-to-85-in-cy26-one-new-addition/slideshow/132030875.cms",
+      "title": "Funding the 'mother of all cycles': Chris Wood cuts Indian stocks to double down on South Korean chip giants",
+      "description": "Christopher Wood has cut select Indian equities to increase exposure to South Korean chipmakers like SK Hynix and Samsung Electronics, betting on the AI-driven capex cycle. He views memory stocks as core beneficiaries, citing strong demand, attractive valuations and structural shifts, while warning ",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/funding-the-mother-of-all-cycles-chris-wood-cuts-indian-stocks-to-double-down-on-south-korean-chip-giants/articleshow/132045664.cms",
       "source": "Economic Times Markets",
-      "date": "2026-06-27",
+      "date": "2026-06-28",
       "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "The hidden reason global capital is looking beyond India for future growth",
+      "description": "Foreign investors are reallocating capital away from India towards markets like Taiwan and South Korea that offer stronger exposure to AI and semiconductor growth. The trend highlights India\u2019s structural gaps in innovation, limited deep-tech opportunities in listed markets, and rising concerns over ",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/the-hidden-reason-global-capital-is-looking-beyond-india-for-future-growth/articleshow/132045506.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-06-28",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Who profits from Africa\u2019s gold?",
+      "description": "African governments seek greater control over gold, but much of its value continues to flow abroad.",
+      "url": "https://www.aljazeera.com/economy/2026/6/27/who-profits-from-africas-gold",
+      "source": "Al Jazeera English",
+      "date": "2026-06-27",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2024/01/32BK2DE-highres-1705257613.jpg?resize=1920%2C1440",
       "category": "metals"
     },
     {
-      "title": "Bitcoin struggles under $60,000 amid persistent ETF withdrawals. Here is what experts say",
-      "description": "Bitcoin hovers below $60,000 as investors withdraw from spot ETFs, driven by concerns over rising US interest rates. Major altcoins saw mixed movements, with some gaining up to 4%. Analysts suggest a potential dip to $55,500-$56,000 if Bitcoin breaks key support. The overall market sentiment remains",
-      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-struggles-under-60000-amid-persistent-etf-withdrawals-here-is-what-experts-say/articleshow/132030661.cms",
-      "source": "Economic Times Markets",
+      "title": "ETMarkets Smart Talk | AI and semiconductors remain the best global investment themes today: Niteen Dongare",
+      "description": "As Indian investors increasingly diversify globally, AI and semiconductors remain the most compelling long-term investment themes, according to Niteen Dongare of Anand Rathi International Ventures. He recommends allocating 20-30% of portfolios to global marke\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-ai-and-semiconductors-remain-the-best-global-investment-themes-today-niteen-dongare/articleshow/132030176.cms",
+      "source": "The Times of India",
       "date": "2026-06-27",
-      "image": "",
+      "image": "https://img.etimg.com/thumb/msid-132030183,width-1200,height-630,imgsize-74311,overlay-etmarkets/articleshow.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Gold, Silver Rate Today: Check live price of 22K, 24K, 18K gold & silver on 27 June 2026 in Mumbai, Delhi, other cities",
+      "description": "Gold, Silver Rate Today: Here is how much gold and silver costs in key Indian cities on Saturday, 27 June 2026. Check the price of 18K, 22K and 24K gold and 999 Fine silver in Ahmedabad, Bengaluru, Chennai, Delhi, Hyderabad, Kolkata, and Mumbai.",
+      "url": "https://www.livemint.com/money/personal-finance/gold-silver-rate-today-27-june-check-live-price-22k-24k-18k-gold-999-fine-silver-mumbai-delhi-bengaluru-kolkata-cities-11782536636779.html",
+      "source": "Livemint",
+      "date": "2026-06-27",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/27/1600x900/logo/im-02090361_1769421972201_1782537801824_827c10f5-1b67-4494-8ae2-df65a7ed73c2.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "Irish ad executives take top awards at Cannes Lions",
+      "description": "TBWA\\Ireland junior art director Hannah Murphy and junior copywriter Kate Dempsey win gold in Cannes Young Lions Print competition",
+      "url": "https://www.irishtimes.com/business/2026/06/27/irish-ad-executives-take-top-awards-at-cannes-lions/",
+      "source": "The Irish Times",
+      "date": "2026-06-27",
+      "image": "https://www.irishtimes.com/resizer/v2/LSBHZ57T5RGENFMOEXZPMESVZM.jpeg?smart=true&auth=bb8ddfbfc62087864bacd48917cbe2ba3f1ee801aaca381bf37979326070c0df&width=1200&height=630",
+      "category": "geopolitics"
+    },
+    {
+      "title": "KEYS earns dual health honors",
+      "description": "Keys Energy Services (KEYS) recently earned two national honors that recognize its ongoing commitment to employee health, wellness and workplace culture.",
+      "url": "https://www.keysnews.com/business/bottom_line/keys-earns-dual-health-honors/article_c4d3f53d-3fc3-456a-937a-67da49daed2a.html",
+      "source": "Keysnews.com",
+      "date": "2026-06-27",
+      "image": "https://bloximages.newyork1.vip.townnews.com/keysnews.com/content/tncms/assets/v3/editorial/9/f1/9f10b89e-0ac5-489b-a365-0fc442d0655e/6a3be75dbd4a0.image.png?crop=960%2C504%2C0%2C157",
+      "category": "market"
+    },
+    {
+      "title": "How to find your real risk appetite? Experts explain how to identify it and build the right portfolio",
+      "description": "Experts suggests that an investor's risk appetite depends on financial capacity and emotional comfort with risk. Assess your income, savings, liabilities, age, and ability to handle market volatility. Together, these factors help determine the level of risk y\u2026",
+      "url": "https://www.livemint.com/money/personal-finance/how-to-find-your-real-risk-appetite-experts-explain-how-to-identify-it-and-build-the-right-portfolio-11782476754167.html",
+      "source": "Livemint",
+      "date": "2026-06-27",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/27/1600x900/logo/rikkkk_1782532010699_1782532035667_b18e65f9-a644-4458-b6c1-b138d3c286d4.png",
+      "category": "market"
+    },
+    {
+      "title": "I\u2019m FLOORED! My holy grail Miele vacuum has never been on sale for Prime Day in my career",
+      "description": "I'm floored!",
+      "url": "https://nypost.com/2026/06/26/shopping/amazon-prime-day-miele-vacuum-deal-2026-get-35-off-guard-m1-parquet-xl/",
+      "source": "New York Post",
+      "date": "2026-06-27",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/06/mielelead.jpg?quality=75&strip=all&w=1200",
+      "category": "market"
+    },
+    {
+      "title": "Economic Digest: A Snapshot of Nepal\u2019s Business News",
+      "description": "KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. The latest developments across Nepal\u2019s economic and policy landscape reflect mixed signals, with weak f\u2026",
+      "url": "https://english.khabarhub.com/2026/27/555828/",
+      "source": "Khabarhub.com",
+      "date": "2026-06-27",
+      "image": "https://english.khabarhub.com/wp-content/uploads/2024/05/Economic-Digest.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Gold gains as dollar weakens; still on track for fourth straight weekly loss",
+      "description": "Gold prices saw a modest uptick on Friday, buoyed by a weaker dollar and slightly eased expectations of U.S. interest rate hikes following inflation data. Despite this rebound, gold is still on track for its fourth consecutive weekly dip.  This slight recover\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-gains-as-dollar-weakens-still-on-track-for-fourth-straight-weekly-loss/articleshow/132028236.cms",
+      "source": "The Times of India",
+      "date": "2026-06-27",
+      "image": "https://img.etimg.com/thumb/msid-132028257,width-1200,height-630,imgsize-7538,overlay-etmarkets/articleshow.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Iran lawmaker calls for response to US strikes, says ceasefire violated",
+      "description": "Escalating tensions may destabilize regional security and disrupt global oil markets, impacting international diplomatic and economic relations.\nThe post Iran lawmaker calls for response to US strikes, says ceasefire violated appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/iran-lawmaker-us-strikes-ceasefire-response/",
+      "source": "Crypto Briefing",
+      "date": "2026-06-27",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/27031002/what-to-expect-as-iran-votes-to-elect-parliament-religious-l-1-800x420.jpeg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "India news: PM Modi embarks on two-day Seychelles visit",
+      "description": "India's PM Narendra Modi is set to be the Guest of Honor at the Golden Jubilee of Seychelles' National Day. His visit is also aimed at stregnthening martime, security and economic cooperation. DW has the latest.",
+      "url": "https://www.dw.com/en/india-news-pm-modi-embarks-on-two-day-seychelles-visit/live-77732253",
+      "source": "DW (English)",
+      "date": "2026-06-27",
+      "image": "https://static.dw.com/image/77487006_6.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "Why Trademark Registration Is Important in UAE",
+      "description": "Introduction\n\nDubai has become one of the world\u2019s fastest growing business and commercial hubs, attracting startups, multinational corporations, investors, retailers, and entrepreneurs from every industry. As competition continues increasing across the UAE ma\u2026",
+      "url": "https://slashdot.org/submission/17348546/why-trademark-registration-is-important-in-uae",
+      "source": "Slashdot.org",
+      "date": "2026-06-27",
+      "image": null,
+      "category": "supply_demand"
+    },
+    {
+      "title": "Hollyoaks legend Stephanie Waring spotted back on set amid show return rumours",
+      "description": "Hollyoaks legend Stephanie Waring spotted back on set amid show return rumoursdigitalspy.com",
+      "url": "https://www.digitalspy.com/soaps/hollyoaks/a71744430/hollyoaks-spoilers-stephanie-waring-set-cindy-return/",
+      "source": "digitalspy.com",
+      "date": "2026-06-27",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/609ac4f7-b00c-4986-b8fd-a30597cd49cd.jpeg?crop=0.681xw:0.227xh;0.112xw,0.151xh&resize=1200:*",
+      "category": "geopolitics"
+    },
+    {
+      "title": "The Shocking Galaxy Z Flip 8 Rumor That Changes Everything for Samsung Fans",
+      "description": "The Samsung Galaxy Z Flip 8 is poised to make its debut, potentially marking the conclusion of Samsung\u2019s iconic Flip series. This latest iteration stays true to its foldable roots, offering modest hardware upgrades, subtle design refinements, and software enh\u2026",
+      "url": "https://www.geeky-gadgets.com/is-galaxy-z-flip-8-the-last/",
+      "source": "Geeky Gadgets",
+      "date": "2026-06-27",
+      "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/06/flip-8-thinner-hinge.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Iran and US trade blame for attacks, threatening fragile ceasefire",
+      "description": "Vance warned 'violence will be met with violence' while the IRGC says future responses to aggression will be 'broader'.",
+      "url": "https://www.aljazeera.com/news/2026/6/27/iran-and-us-trade-blame-for-attacks-threatening-fragile-ceasefire",
+      "source": "Al Jazeera English",
+      "date": "2026-06-27",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1782533509.jpg?resize=1920%2C1080&quality=80",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Desperate India take on Australia in do-or-die Women's T20 World Cup clash",
+      "description": "India\u2019s Women's T20 World Cup encounter against powerhouse Australia looms on Sunday, with a semifinal opportunity on the line. Confronted by their own struggles in the field and shaky middle-order play, captain Harmanpreet Kaur must rally her team. For India\u2026",
+      "url": "https://economictimes.indiatimes.com/news/sports/desperate-india-take-on-australia-in-do-or-die-womens-t20-world-cup-clash/articleshow/132030086.cms",
+      "source": "The Times of India",
+      "date": "2026-06-27",
+      "image": "https://img.etimg.com/thumb/msid-132030251,width-1200,height-630,imgsize-116092,overlay-economictimes/articleshow.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Trump administration asks high court to OK its unprecedented immigration detention policy",
+      "description": "The U.S. Justice Department asked the justices to resolve a division among federal appeals courts.",
+      "url": "https://www.politico.eu/article/trump-administration-asks-high-court-to-ok-its-unprecedented-immigration-detention-policy/",
+      "source": "POLITICO.eu",
+      "date": "2026-06-27",
+      "image": "https://www.politico.eu/wp-content/themes/politico/assets/images/politico-billboard.png",
+      "category": "central_bank"
+    },
+    {
+      "title": "Trump-backed Letlow faces Fleming in Louisiana GOP Senate runoff",
+      "description": "President Donald Trump's choice for U.S. Senate in Louisiana is seeking to secure the GOP nomination and deliver another win for the president in his effort to replace Republicans who crossed him",
+      "url": "https://abcnews.com/US/wireStory/trump-backed-letlow-faces-fleming-louisiana-gop-senate-134265989",
+      "source": "Abcnews.com",
+      "date": "2026-06-27",
+      "image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "category": "market"
+    },
+    {
+      "title": "FTSE 100 Suffers Biggest Fall Since February Amid Inflation Fears",
+      "description": "FTSE 100 falls 2.47% in biggest drop since February, led by tech sell-off and US inflation fears.",
+      "url": "https://britbrief.co.uk/business/markets/ftse-100-falls-as-tesla-shares-crash.html",
+      "source": "Britbrief.co.uk",
+      "date": "2026-06-27",
+      "image": "https://britbrief.co.uk/images/2026/06/lg/ftse-100-falls-as-tesla-shares-crash.webp",
+      "category": "inflation"
+    },
+    {
+      "title": "State Police Bill:\u00a0How NASS caged governors",
+      "description": "A governor cannot sack a police chief for refusing an improper order, or for resisting political pressure, without clearing two independent hurdles \nThe post State Police Bill:\u00a0How NASS caged governors appeared first on Vanguard News.",
+      "url": "https://www.vanguardngr.com/2026/06/state-police-bill-how-nass-caged-governors/",
+      "source": "Vanguard",
+      "date": "2026-06-27",
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/04/1776428404698.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Two-year yields dip as Hormuz flows rise, hopes on inflation grow",
+      "description": "Treasury yields dipped Friday as falling oil prices, linked to increased Strait of Hormuz shipments, sparked hopes of easing inflation. While the Federal Reserve remains watchful of price pressures, traders are assessing the likelihood of future rate hikes. D\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/two-year-yields-dip-as-hormuz-flows-rise-hopes-on-inflation-grow/articleshow/132028369.cms",
+      "source": "The Times of India",
+      "date": "2026-06-27",
+      "image": "https://img.etimg.com/thumb/msid-132028448,width-1200,height-630,imgsize-6919,overlay-etmarkets/articleshow.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Trojan Horse Politicians",
+      "description": "Photo Credit:\n \n American ThinkerThere\u2019s a particular dangerous breed of dishonest Democrat politician who speaks in moderate terms to get elected, only to govern as a radical.",
+      "url": "https://www.americanthinker.com/articles/2026/06/trojan-horse-politicians/",
+      "source": "Americanthinker.com",
+      "date": "2026-06-27",
+      "image": "https://images.americanthinker.com/hm/hmtpuk9y5hhqjoheehm7_1200.jpg",
+      "category": "market"
+    },
+    {
+      "title": "July 1: California's Glock ban goes into effect",
+      "description": "California wants to lead the nation in destroying unalienable rights.",
+      "url": "https://www.americanthinker.com/blog/2026/06/july-1-california-s-glock-ban-goes-into-effect/",
+      "source": "Americanthinker.com",
+      "date": "2026-06-27",
+      "image": "https://images.americanthinker.com/mx/mxiapomdqxns9kfwmeio_1200.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Dollar declines for second straight day but set for weekly gain",
+      "description": "The dollar dipped for a second day as easing inflation and falling oil prices tempered expectations for Federal Reserve rate hikes. Despite this pullback, the greenback remains strong for the week and month. Meanwhile, the yen hovers near a critical level, ra\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-declines-for-second-straight-day-but-set-for-weekly-gain/articleshow/132028297.cms",
+      "source": "The Times of India",
+      "date": "2026-06-27",
+      "image": "https://img.etimg.com/thumb/msid-132028307,width-1200,height-630,imgsize-230788,overlay-etmarkets/articleshow.jpg",
       "category": "central_bank"
     },
     {
@@ -170,229 +377,22 @@
       "category": "geopolitics"
     },
     {
-      "title": "Billionaire investor Jeremy Grantham says bitcoin will 'dwindle away with a whimper'",
-      "description": "Jeremy Grantham renewed his long-running criticism of bitcoin, predicting it will gradually fade into irrelevance over decades.",
-      "url": "https://www.cnbc.com/2026/06/26/billionaire-investor-jeremy-grantham-says-bitcoin-will-dwindle-away-with-a-whimper.html",
-      "source": "CNBC",
-      "date": "2026-06-26",
-      "image": "https://image.cnbcfm.com/api/v1/image/108327417-1782483188407-gettyimages-1605854561-GMO_GRANTHAM.jpeg?v=1782483219&w=1920&h=1080",
-      "category": "market"
-    },
-    {
-      "title": "US sanctions Rwanda gold refinery accused of smuggling DR Congo's minerals",
-      "description": "The US alleges Gasabo Gold Refinery smuggled at least 60kg of gold in early 2026.",
-      "url": "https://www.bbc.co.uk/news/articles/c9d268xy90xo",
-      "source": "BBC News",
-      "date": "2026-06-26",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6932/live/4b749ee0-715c-11f1-909a-0f95894a566f.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "The Party of Algae and 'Our Democracy'",
-      "description": "\u201c. . .a political party doesn\u2019t lose 95 percent of a registration advantage because voters are kinda annoyed. Something much, much deeper is going on.\u201d \u2014 Richard Landwirth",
-      "url": "https://www.kunstler.com/p/the-party-of-algae-and-our-democracy",
-      "source": "Kunstler.com",
-      "date": "2026-06-26",
-      "image": "https://substackcdn.com/image/fetch/$s_!OaOM!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9601885-29ce-40fc-8b9e-f0fd998bad9d_700x390.heic",
-      "category": "market"
-    },
-    {
-      "title": "Why the Community Is Betting on America 250 Coin \u2014 Is This Patriotic Meme Token the Next Big Crypto Narrative in 2026?",
-      "description": "America 250 coin stands out among 2026\u2019s strangest digital tokens. Not because it features an animal or a punchline \u2013 because it arrived just as...\nThe post Why the Community Is Betting on America 250 Coin \u2014 Is This Patriotic Meme Token the Next Big Crypto Na\u2026",
-      "url": "https://bitcoinfoundation.org/news/analysis/why-the-community-is-betting-on-america250-coin/",
-      "source": "Bitcoinfoundation.org",
-      "date": "2026-06-26",
-      "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/06/ChatGPT-Image-Jun-26-2026-03_31_48-PM.webp",
-      "category": "market"
-    },
-    {
-      "title": "Investment banks, rating agencies lower gold outlook after dropping over 25% since Jan 29",
-      "description": "Investment banks and rating agencies lower gold forecasts as prices drop over 25% since January, citing challenging near-term conditions.",
-      "url": "https://www.thehindubusinessline.com/markets/gold/investment-banks-rating-agencies-lower-gold-outlook-after-dropping-over-25-since-jan-29/article71150414.ece",
-      "source": "BusinessLine",
-      "date": "2026-06-26",
-      "image": "https://bl-i.thgim.com/public/incoming/1uwjfe/article71133993.ece/alternates/LANDSCAPE_1200/Wealth-Company-G6PG0JLI1.4.jpg.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "Gold falls Rs 15,000/10gm, silver slips Rs 45,000/kg in June 2026: Should you invest now or wait for further correction?",
-      "description": "Gold and silver prices have seen significant drops in June, presenting a buying opportunity for new investors. Existing investors are advised against panic selling, with experts suggesting averaging down costs. The decline is attributed to the US Federal Rese\u2026",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/gold-falls-rs-15000/10gm-silver-rs-45000/kg-in-june-2026-should-you-invest-now-or-wait-for-further-correction/articleshow/132014091.cms",
-      "source": "The Times of India",
-      "date": "2026-06-26",
-      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-181306,resizemode-75,msid-132014091/wealth/invest/gold-falls-rs-15000/10gm-silver-rs-45000/kg-in-june-2026-should-you-invest-now-or-wait-for-further-correction.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "Consider Raising Cash While Markets Remain Resilient",
-      "description": "If the U. S. -Iran memorandum of understanding remains intact and the Strait of Hormuz reopens as planned, risk assets such as equities, industrial metals an...",
-      "url": "https://investorshub.advfn.com/market-news/article/31022/consider-raising-cash-while-markets-remain-resilient",
-      "source": "Advfn.com",
-      "date": "2026-06-26",
-      "image": "https://s.yimg.com/lo/mysterio/api/0027D0C61C4762B916FE18C6840000B9ED06C00A891997F5C87C9E1EFAFE049A/subgraphmysterio/resizefill_w1200_h659;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finvestorshub_458%2F71331d48b26e2df247242a1e6d48b120",
-      "category": "market"
-    },
-    {
-      "title": "Ross Gerber Says Slate Auto Is What Happens When 'Top Tesla And Amazon' Execs Build An EV, Predicts Buyers Will \u2018Love\u2019 Its $25,000 Pickup",
-      "description": "Investor Ross Gerber, who is the co-founder of investment firm Gerber Kawasaki, backed Tesla Inc. rival Slate Auto\u2018s $25,000 electric pickup truck on Wednesd...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ross-gerber-says-slate-auto-104507191.html",
+      "title": "My CD Just Matured and Rates Have Dropped. Should I Roll It Into Bonds Instead?",
+      "description": "A maturing CD in a falling rate environment is one of the most common fixed income crossroads investors face. You locked in a rate, the CD delivered, and now...",
+      "url": "https://finance.yahoo.com/markets/options/articles/cd-just-matured-rates-dropped-230107840.html",
       "source": "Yahoo Entertainment",
       "date": "2026-06-26",
-      "image": "https://s.yimg.com/lo/mysterio/api/03A14E665CE0AD2B293096D9E3AD83A084BB77DC6AAA9F058EF510EF38FB3AF6/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F12f2ec4f933f6aa0a31ccfd2d891b6a2",
+      "image": "https://s.yimg.com/lo/mysterio/api/590D3815052F52719FD532B52360740A31EAEABF91C5D5D11B0D2CC683B0B24C/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F333fbeeb028e57d4c194bd87b0e71d77",
       "category": "market"
     },
     {
-      "title": "Purecore Announces Commencement of Data Compilation Program at the Bankier Property",
-      "description": "VANCOUVER, British Columbia, June 26, 2026 (GLOBE NEWSWIRE) \u2014 Purecore Metals Inc. (CSE: PURE) (FSE: J8Y) (\u201cPurecore\u201d or the \u201cCompany\u201d) is pleased to announce the commencement of a comprehensive data compilation program, representing the second phase of the C\u2026",
-      "url": "https://financialpost.com/globe-newswire/purecore-announces-commencement-of-data-compilation-program-at-the-bankier-property",
-      "source": "Financial Post",
-      "date": "2026-06-26",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "Gold-Plated Interlocked Stackable Rings for Women for $14 + free shipping w/ Prime",
-      "description": "These stackable rings are just $13.97, a great price for this unique design. The set features cubic zirconia connected bands in a mixed-metals design, plated in 14K gold. Buy Now at Amazon\r\n Features\r\n <ul> <li>14K gold plated</li> <li>Cubic zirconia stones</\u2026",
-      "url": "https://www.dealnews.com/Gold-Plated-Interlocked-Stackable-Rings-for-Women-for-14-free-shipping-w-Prime/21855987.html",
-      "source": "Dealnews.com",
-      "date": "2026-06-26",
-      "image": "https://d.dlnws.com/64599/1782479727-71a2fjcephl.jpg?h=1024&w=819",
-      "category": "metals"
-    },
-    {
-      "title": "Everlert, Inc. (OTC: EVLI), Operating as American Gold & Copper Inc., Signs Memorandum of Understanding for Proposed Acquisition of the Rimrock Copper-Gold Project in Nevada",
-      "description": "Everlert, Operating as American Gold & Copper, Signs Memorandum of Understanding for Proposed Acquisition of the Rimrock Copper-Gold Project...",
-      "url": "https://www.globenewswire.com/news-release/2026/06/26/3318187/0/en/Everlert-Inc-OTC-EVLI-Operating-as-American-Gold-Copper-Inc-Signs-Memorandum-of-Understanding-for-Proposed-Acquisition-of-the-Rimrock-Copper-Gold-Project-in-Nevada.html",
-      "source": "GlobeNewswire",
-      "date": "2026-06-26",
-      "image": null,
-      "category": "metals"
-    },
-    {
-      "title": "Silver prices today, Friday, June 26, 2026: Down 9.1% since Monday following latest PCE report",
-      "description": "Silver July futures opened at $58.03 per ounce on Friday, June 26, 2026, down 1.3% from Thursday's closing price. The silver price has remained steady this m...",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-friday-june-26-2026-down-91-since-monday-following-latest-pce-report-115941632.html",
+      "title": "Does No One Want Bitcoin Anymore? Crypto In 'Desperate' Need For New Narrative, Says Commentator As Smart Money Sits 'On The Sidelines'",
+      "description": "Cryptocurrency analyst Ali Martinez spotlighted a prolonged lull in institutional buying pressure for Bitcoin as the apex cryptocurrency hit a 20-month low o...",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/does-no-one-want-bitcoin-223101529.html",
       "source": "Yahoo Entertainment",
       "date": "2026-06-26",
-      "image": "https://s.yimg.com/lo/mysterio/api/0702B06E317DCDF991F86AF88F8B45B320F419D79761EF906092017BBB9D590B/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-05%2F4d950ec0-03eb-414b-bfd3-9fb69d35cb32",
-      "category": "metals"
-    },
-    {
-      "title": "Abaxx Marks Two-Year Anniversary of Abaxx Exchange Launch",
-      "description": "Abaxx Exchange marks its 2-year anniversary, provides an update on commercial momentum and ecosystem expansion since trading commenced on June 28, 2024.\n...",
-      "url": "https://www.globenewswire.com/news-release/2026/06/26/3318163/0/en/Abaxx-Marks-Two-Year-Anniversary-of-Abaxx-Exchange-Launch.html",
-      "source": "GlobeNewswire",
-      "date": "2026-06-26",
-      "image": "https://ml.globenewswire.com/Resource/Download/ebbabd4c-4502-4b72-9fa6-6894dfd9ae90",
-      "category": "market"
-    },
-    {
-      "title": "US crude oil falls below $70 a barrel despite Iranian attack on cargo ship",
-      "description": "US crude oil dipped below $70 a barrel Friday as traders remained optimistic about tanker traffic flow through the Strait of Hormuz \u2013 even after an Iranian attack on a cargo ship.",
-      "url": "https://nypost.com/2026/06/26/business/us-crude-oil-falls-below-70-despite-iranian-attack-on-cargo-ship/",
-      "source": "New York Post",
-      "date": "2026-06-26",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/06/132338232.jpg?quality=75&strip=all&w=1200",
-      "category": "market"
-    },
-    {
-      "title": "Ukraine plans domestic AI computing capacity with Kyivstar",
-      "description": "Ukraine is bolstering its domestic AI computing power through a partnership with Kyivstar, aiming to secure critical infrastructure amid the ongoing war. This initiative, backed by parent company VEON, addresses national security concerns, particularly for mi\u2026",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ukraine-plans-domestic-ai-computing-capacity-with-kyivstar/articleshow/132018357.cms",
-      "source": "The Times of India",
-      "date": "2026-06-26",
-      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-332864,resizemode-75,msid-132018357/tech/artificial-intelligence/ukraine-plans-domestic-ai-computing-capacity-with-kyivstar.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Merck KGaA to acquire Bio-Techne in $11.3 billion deal",
-      "description": "The deal, Merck's largest since its Sigma-Aldrich buyout, expands its presence in proteins, spatial biology, and cell and gene therapy",
-      "url": "https://qz.com/merck-kgaa-bio-techne-acquisition-life-science-062626",
-      "source": "Quartz India",
-      "date": "2026-06-26",
-      "image": "https://s.yimg.com/lo/mysterio/api/B441B92CD0C4640B2AA78A46E22965BFD5ED90333FF1C8AF91202D0D9BCEFA80/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2F988d62e768efc3d2f62621e0e02f250a",
-      "category": "market"
-    },
-    {
-      "title": "Ontario Finalizes Animal Research Regulations, Leaving Critical Loopholes Unaddressed",
-      "description": "TORONTO, June 26, 2026 (GLOBE NEWSWIRE) \u2014 Ontario\u2019s final regulations implementing the amendments to the Animals for Research Act\u00a0enacted through Bill 75 have now been published and will come into force on\u00a0January 1, 2027. The regulations follow amendments to\u2026",
-      "url": "https://financialpost.com/globe-newswire/ontario-finalizes-animal-research-regulations-leaving-critical-loopholes-unaddressed",
-      "source": "Financial Post",
-      "date": "2026-06-26",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "United Steelworkers welcomes P&H Milling Group truck drivers to the union",
-      "description": "HAMILTON, Ontario, June 26, 2026 (GLOBE NEWSWIRE) \u2014 The United Steelworkers union (USW) proudly welcomes truck drivers at P&H Milling Group in Hamilton as the newest members of the union following certification by the federal labour board (Canada Industrial R\u2026",
-      "url": "https://financialpost.com/globe-newswire/united-steelworkers-welcomes-ph-milling-group-truck-drivers-to-the-union",
-      "source": "Financial Post",
-      "date": "2026-06-26",
-      "image": null,
-      "category": "central_bank"
-    },
-    {
-      "title": "Billionaire Investor Leon Black Is Set To Testify To Congress About $158M In Payments To Epstein",
-      "description": "A 2021 review commissioned by Apollo found that Black paid Epstein $158 million from 2012 to 2017, after Epstein pleaded guilty in 2008 to soliciting prostitution from a minor.",
-      "url": "https://www.huffpost.com/entry/billionaire-investor-leon-black-set-to-testify-to-congress-158m-payments-epstein_n_6a3e865ee4b07281419dc255",
-      "source": "HuffPost",
-      "date": "2026-06-26",
-      "image": "https://img.huffingtonpost.com/asset/6a3e86ae160000d33b5d558f.jpeg?cache=WDuRx9IYQ5&ops=500_281%2Cscalefit_1200_630",
-      "category": "market"
-    },
-    {
-      "title": "More VMware customers jumping ship as contracts wind down",
-      "description": "Enterprises have explored new virtualization options for years. With VMware contracts ending, now's the time for many to make the change, as some vendors offer migration incentives.",
-      "url": "https://www.techtarget.com/searchdatacenter/news/366645215/More-VMware-customers-jumping-ship-as-contracts-wind-down",
-      "source": "Techtarget.com",
-      "date": "2026-06-26",
-      "image": "https://www.techtarget.com/rms/onlineimages/container_g1275954204.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Billionaire Wealth Tax Headed to the California Ballot",
-      "description": "Gov. Gavin Newsom, who opposes the tax, tried to intimidate proponents into pulling the measure. It didn\u2019t work.\nThe post Billionaire Wealth Tax Headed to the California Ballot appeared first on The American Prospect.",
-      "url": "http://prospect.org/2026/06/26/billionaire-wealth-tax-headed-to-california-ballot/",
-      "source": "The American Prospect",
-      "date": "2026-06-26",
-      "image": "https://prospect.org/wp-content/uploads/2026/06/Dayen-CA-billionaire-tax-062626.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Neuro-Restoration Venture Funding Market to Reach USD 435.9 Million by 2036 as Brain-Computer Interface Innovation Accelerates Clinical Investment",
-      "description": "NEWARK, Del., June 26, 2026 /PRNewswire/ -- According to the latest market analysis by Future Market Insights, the global Neuro-Restoration Venture Funding Market is entering a new phase of expansion as investors increasingly prioritize clinically validated t\u2026",
-      "url": "https://www.prnewswire.com/news-releases/neuro-restoration-venture-funding-market-to-reach-usd-435-9-million-by-2036-as-brain-computer-interface-innovation-accelerates-clinical-investment-302811821.html",
-      "source": "PRNewswire",
-      "date": "2026-06-26",
-      "image": "https://mma.prnewswire.com/media/1197648/3531122/FMI_Logo.jpg?p=facebook",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Federal Appeals Court Revives Mother\u2019s Lawsuit Over School\u2019s Secret Sex Transition of Daughter",
-      "description": "Even the school district agreed: The Supreme Court's ruling in Mirabelli v. Bonta \"at least partially undermines the district court's reasoning.\"\nThe post Federal Appeals Court Revives Mother\u2019s Lawsuit Over School\u2019s Secret Sex Transition of Daughter first app\u2026",
-      "url": "https://legalinsurrection.com/2026/06/federal-appeals-court-revives-mothers-lawsuit-over-schools-secret-sex-transition-of-daughter/",
-      "source": "Legalinsurrection.com",
-      "date": "2026-06-26",
-      "image": "https://legalinsurrection.com/wp-content/uploads/2024/02/Vitsaxaki-Featured-Image-1.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "Evaluating vectors for the design of a spillover-disrupting Lassa virus transmissible vaccine",
-      "description": "Author summary Lassa fever is a potentially severe viral disease that infects humans living near the mice that serve as the virus\u2019s natural reservoir throughout West Africa. Despite decades of effort, stopping this viral spillover remains an intractable chall\u2026",
-      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014390",
-      "source": "Plos.org",
-      "date": "2026-06-26",
-      "image": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1014390.g005&size=inline",
-      "category": "market"
-    },
-    {
-      "title": "Ross Wiener: I Supported NCLB. I Was Wrong.",
-      "description": "Ross Wiener worked for Education Trust, a DC-based advocacy group that claimed to support low-income children of color. Funded by the Gates Foundation, among others, Education Trust enthusiastically defended No Child Left Behind and standardized testing as wa\u2026",
-      "url": "https://dianeravitch.net/2026/06/26/ross-wiener-i-supported-nclb-i-was-wrong/",
-      "source": "Dianeravitch.net",
-      "date": "2026-06-26",
-      "image": "https://dianeravitch.net/wp-content/uploads/2017/12/diane.jpg?w=200",
-      "category": "market"
+      "image": "https://s.yimg.com/lo/mysterio/api/EDD2A5AAF9A863006BBE095DE69B7A165DA8D4C09A4D21BF9EAC56260CD80330/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2Feb71e16b720a58e72d3359232c98f8e6",
+      "category": "currency"
     }
   ],
   "history": [
@@ -427,7 +427,7 @@
       "platinum_usd_oz": 1760.87
     }
   ],
-  "timestamp": "2026-06-27T19:44:56.912862+05:30",
+  "timestamp": "2026-06-28T12:42:44.955293+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
