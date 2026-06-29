@@ -54,7 +54,7 @@
         "hold": 50
       },
       "summary": "Gold is showing positive signals. Positive daily movement of 0.0%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-29T13:50:18.748162",
+      "timestamp": "2026-06-29T16:25:08.672854",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 50
       },
       "summary": "Silver is showing positive signals. Positive daily movement of 0.2%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-29T13:50:18.861471",
+      "timestamp": "2026-06-29T16:25:08.764577",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 50
       },
       "summary": "Platinum is showing positive signals. Positive daily movement of 0.1%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-29T13:50:18.967516",
+      "timestamp": "2026-06-29T16:25:08.852259",
       "source": "rule-based"
     }
   },
@@ -125,22 +125,58 @@
   },
   "news": [
     {
-      "title": "India bonds rise as US-Iran halt strikes; monsoon risk limits gains",
-      "description": "Indian bonds have surged for the fifth straight session, fueled by easing U.S.-Iran tensions and robust foreign investment. The 10-year yield has fallen to its lowest point since March. However, concerns linger about a widening monsoon deficit in the central region, which could lead to food inflatio",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-india-bonds-rise-as-us-iran-halt-strikes-monsoon-risk-limits-gains/articleshow/132072041.cms",
+      "title": "Nasdaq, NYSE to ring opening bell from Oval Office for Trump Accounts launch, Hassett tells CNBC",
+      "description": "US stock exchanges Nasdaq and NYSE plan a rare joint opening bell from the Oval Office next week to promote Donald Trump\u2019s new child investment scheme, Trump Accounts. The program offers $1,000 seed funding for eligible US children, aiming to boost early investing awareness and participation among f",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-nyse-to-ring-opening-bell-from-oval-office-for-trump-accounts-launch-hassett-tells-cnbc/articleshow/132074863.cms",
       "source": "Economic Times Markets",
       "date": "2026-06-29",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "Rail-focused logistics firm Pristine Logistics confidentially files IPO papers with Sebi",
-      "description": "Pristine Logistics and Infraprojects has confidentially filed its DRHP with Sebi for an IPO. The rail-focused multimodal logistics company is expanding terminals, warehousing and cargo operations while strengthening growth with a Rs 3,422 crore coal mining contract and broader infrastructure footpri",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rail-focused-logistics-firm-pristine-logistics-confidentially-files-ipo-papers-with-sebi/articleshow/132071096.cms",
+      "title": "US stocks today: US stocks climb as US, Iran halt attacks; Comcast surges on spin-off plan",
+      "description": "Wall Street's indices surged on Monday, lifted by a decrease in Middle East tensions and Comcast\u2019s intention to divide into two separate firms. While investors exude cautious optimism amidst ongoing diplomatic developments, regional conflicts still loom large. Anticipation for upcoming earnings repo",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-climb-as-us-iran-halt-attacks-comcast-surges-on-spin-off-plan/articleshow/132073077.cms",
       "source": "Economic Times Markets",
       "date": "2026-06-29",
       "image": "",
       "category": "geopolitics"
+    },
+    {
+      "title": "Today\u2019s News in a Nutshell",
+      "description": "KATHMANDU: Khabarhub brings you a glimpse of major developments of the day in Nepal, including politics, business/economy, sports, entertainment, and more. HoR passes Finance Bill, 2083 The House of Representatives (hOr) has passed the Finance Bill, 2083. Fin\u2026",
+      "url": "https://english.khabarhub.com/2026/28/556015/",
+      "source": "Khabarhub.com",
+      "date": "2026-06-28",
+      "image": "https://english.khabarhub.com/wp-content/uploads/2024/05/News-Nutshell.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Kevin Warsh holds interest rates steady in first policy meeting as Fed chair",
+      "description": "Warsh's steady rates amid inflation pressures suggest potential future hikes, impacting crypto's appeal and signaling a shift in Fed dynamics.\nThe post Kevin Warsh holds interest rates steady in first policy meeting as Fed chair appeared first on Crypto Brief\u2026",
+      "url": "https://cryptobriefing.com/warsh-fed-holds-rates-steady-crypto-impact/",
+      "source": "Crypto Briefing",
+      "date": "2026-06-28",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/28111348/warren-asks-trump-s-fed-chair-nominee-who-won-2020-election-800x420.jpeg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Gifted money to your wife and she invested it in FD, gold or shares? The income may still be taxable in your hands",
+      "description": "While transferring funds to a spouse may seem advantageous for tax savings, income could be subject to clubbing under Section 64, making it your taxable income. Details here.",
+      "url": "https://www.livemint.com/money/personal-finance/gifted-money-to-your-wife-and-she-invested-it-in-fd-gold-or-shares-the-income-may-still-be-taxable-in-your-hands-11782653303973.html",
+      "source": "Livemint",
+      "date": "2026-06-28",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/28/1600x900/logo/2-0-1440388023-iStock-1130639007-0_1679745245390_1782653679573_7b5fd6a4-9999-476d-9821-8eef787f25b3.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "GVEA board to weigh heavy purchase decision in July, as members raise concerns",
+      "description": "The Golden Valley Electric Association Board of Directors will weigh options on whether to invest in a fuel-based generator during an executive session on July 13.",
+      "url": "https://www.newsminer.com/news/local_news/gvea-board-to-weigh-heavy-purchase-decision-in-july-as-members-raise-concerns/article_c8b5ce9d-5c3a-46bf-b261-436ea4abe02b.html",
+      "source": "Fairbanks Daily News-Miner",
+      "date": "2026-06-28",
+      "image": "https://bloximages.newyork1.vip.townnews.com/newsminer.com/content/tncms/custom/image/ec5621ae-3c1d-11e7-968c-9b81405eb96c.jpg?resize=600%2C315",
+      "category": "metals"
     },
     {
       "title": "Vinicius Jr wins third consecutive MOTM award at World Cup, but crypto opportunists should take note",
@@ -179,42 +215,6 @@
       "category": "geopolitics"
     },
     {
-      "title": "Ethereum to $100K? Tom Lee\u2019s Bullish ETH Forecast Sparks Massive Debate: Genius Call or Pure Hype?",
-      "description": "Back again, the talk about Ethereum hitting 100k gains new fuel. This round isn\u2019t just chatter from small traders online. With Tom Lee backing it,...\nThe post Ethereum to $100K? Tom Lee\u2019s Bullish ETH Forecast Sparks Massive Debate: Genius Call or Pure Hype? a\u2026",
-      "url": "https://bitcoinfoundation.org/news/analysis/ethereum-to-100k-tom-lees-bullish-eth-forecast-sparks-massive-debate-genius-call-or-pure-hype/",
-      "source": "Bitcoinfoundation.org",
-      "date": "2026-06-28",
-      "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/06/ChatGPT-Image-Jun-28-2026-11_51_22-AM-1.webp",
-      "category": "market"
-    },
-    {
-      "title": "What should SIP investors do amid market volatility? From diversification to allocation \u2014 Here's what experts said",
-      "description": "Amid market volatility, we asked experts what SIP investors can do to protect their portfolio. From emphasising continuance and review of portfolio to diversifying asset allocation \u2014 here's their advice\u2026",
-      "url": "https://www.livemint.com/money/personal-finance/sip-investors-optimism-should-do-what-protect-market-volatility-expert-advice-continue-review-diverse-asset-allocation-11782550011923.html",
-      "source": "Livemint",
-      "date": "2026-06-28",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/27/1600x900/mutual_funds_1767170394278_1767170398345_1782552836887_236a9ee9-0658-4af7-8de0-3a17840599e9.png",
-      "category": "market"
-    },
-    {
-      "title": "Gold, Silver Rate Today: Check live price of 22K, 24K, 18K gold & silver on 28 June 2026 in Mumbai, Delhi, other cities",
-      "description": "Gold, Silver Rate Today: Here is how much gold and silver costs in key Indian cities on Saturday, 28 June 2026. Check the price of 18K, 22K and 24K gold and 999 Fine silver in Ahmedabad, Bengaluru, Chennai, Delhi, Hyderabad, Kolkata, and Mumbai.",
-      "url": "https://www.livemint.com/money/personal-finance/gold-22k-24k-18k-silver-999-fine-rate-today-28-june-check-live-price-mumbai-delhi-bengaluru-chennai-kolkata-other-cities-11782616101910.html",
-      "source": "Livemint",
-      "date": "2026-06-28",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/28/1600x900/logo/gold_and_silver_prices_March_31_markets_news_India_1743385413433_1782620256939_de9c68d3-5e4e-4879-af00-e3c3f228ede9.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "AngloGold Ashanti plc (AU) A Top Mining Stock Generating Significant Shareholder Value",
-      "description": "AngloGold Ashanti plc (NYSE:AU) is one of the mining stocks with the highest dividends. The company also continues to return value to shareholders through bu...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/anglogold-ashanti-plc-au-top-030249366.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-06-28",
-      "image": "https://s.yimg.com/lo/mysterio/api/6A6B46459F623EE9E6BF5D132E78314301574BC00ADDE4C0623941D019C191EA/subgraphmysterio/resizefill_w1200_h672;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F9ed9752ee55046383664d83131037f8c",
-      "category": "supply_demand"
-    },
-    {
       "title": "Gold, silver face fresh test as US dollar, Iran crisis to shape week ahead: Analysts",
       "description": "Gold and silver are facing downward pressure as investors digest escalating US-Iran tensions, crude oil price shifts, and crucial economic data. Key indicators like manufacturing PMIs, inflation figures, and US jobs reports will shape the Federal Reserve's ne\u2026",
       "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-face-fresh-test-as-us-dollar-iran-crisis-to-shape-week-ahead-analysts/articleshow/132050245.cms",
@@ -233,130 +233,121 @@
       "category": "metals"
     },
     {
-      "title": "ITC Bets on digital rural services, life sciences and sustainable materials as next growth engines",
-      "description": "ITC is building three new growth platforms in digital rural services, life sciences and sustainable materials as it looks beyond its traditional consumer businesses for long-term expansion, according to its FY2026 annual report.",
-      "url": "https://www.thehindubusinessline.com/companies/itc-bets-on-digital-rural-services-life-sciences-and-sustainable-materials-as-next-growth-engines/article71155510.ece",
-      "source": "BusinessLine",
+      "title": "Tokenmaxxing is dead, long live Tokenmaxxing",
+      "description": "The birth and death and rebirth of *checks notes* spending tons of money for no reason",
+      "url": "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing",
+      "source": "12gramsofcarbon.com",
       "date": "2026-06-28",
-      "image": "https://bl-i.thgim.com/public/incoming/bornlg/article71158115.ece/alternates/LANDSCAPE_1200/2024-03-13T052220Z_1833901374_RC2SK6AL5FWM_RTRMADP_3_ITC-STAKE-SALE-BRIT-AM-TOBACCO.JPG",
+      "image": "https://substackcdn.com/image/fetch/$s_!rp_Y!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9ca712f-fd31-4c79-94b3-5a0ebe81bdb3_800x786.jpeg",
       "category": "market"
     },
     {
-      "title": "A positive look at failure",
-      "description": "Setbacks can help shape successful ventures",
-      "url": "https://www.thehindubusinessline.com/books/a-positive-look-at-failure/article71158058.ece",
-      "source": "BusinessLine",
+      "title": "\u2018The Violinist\u2019 Won the Annecy Cristal \u2013 and Its Directors Say Southeast Asia\u2019s Animation Deserves a Global Audience",
+      "description": "Ten years is a long time to carry a story. Ervin Han, co-founder of Singapore\u2019s Robot Playground Media, had been living with \u201cThe Violinist\u201d for most of that stretch before it finally screened in competition at the Annecy Animation Festival this year \u2013 and wa\u2026",
+      "url": "https://variety.com/2026/film/festivals/the-violinist-ervin-han-raul-garcia-annecy-cristal-1236797772/",
+      "source": "Variety",
       "date": "2026-06-28",
-      "image": "https://bl-i.thgim.com/public/books/anoff9/article71158060.ece/alternates/LANDSCAPE_1200/Books-DC.jpg",
+      "image": "https://variety.com/wp-content/uploads/2025/05/TheViolinist_Styleframe_BoatQuay-3.jpg?w=1000&h=563&crop=1",
       "category": "market"
     },
     {
-      "title": "More than 1,300 excess deaths recorded in Europe heatwave: WHO",
-      "description": "The World Health Organisation said Sunday that over 1,300 excess deaths had been recorded in Europe since June 21 in connection with the record-breaking heatwave roasting much of the continent.",
-      "url": "https://www.thelocal.com/20260628/more-than-1300-excess-deaths-recorded-in-europe-heatwave-who",
-      "source": "Thelocal.com",
+      "title": "Apple may have opened the floodgates to price hikes for Samsung products",
+      "description": "The global memory shortage is biting everyone and there have been signs that customers will be forced to pay more for their devices. Samsung has already raised prices of several mobile devices quietly this year and more price hikes may also be on the horizon \u2026",
+      "url": "https://www.sammobile.com/news/apple-may-have-opened-the-floodgates-to-price-hikes-for-samsung-products/",
+      "source": "SamMobile",
       "date": "2026-06-28",
-      "image": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/06/watermarks-logo-AFP__20260628__B8KH4FB__v1__MidRes__GermanyWeatherClimateHeatwaveHomelessness.jpg@webp",
+      "image": "https://www.sammobile.com/wp-content/uploads/2025/08/Galaxy-Z-Fold-7-camera-1-1200x675.jpg",
+      "category": "market"
+    },
+    {
+      "title": "BIS says debt, AI boom and fragilities raise global risks",
+      "description": "LONDON \u2014 Global pressures from rising public debt to financial fragilities and the sustainability of the artificial intelligence (AI) boom are increasing risks, underscoring the need for disciplined policymaking, according to the Bank for International Settle\u2026",
+      "url": "https://www.manilatimes.net/2026/06/29/business/foreign-business/bis-says-debt-ai-boom-and-fragilities-raise-global-risks/2374355",
+      "source": "The Manila Times",
+      "date": "2026-06-28",
+      "image": "https://manilatimes.net/manilatimes/uploads/images/2026/06/28/1116645.png",
+      "category": "market"
+    },
+    {
+      "title": "Iran warns ships not to bypass its chosen Hormuz route",
+      "description": "Although a ceasefire took effect in April, sporadic violence has continued in the Gulf region, with ships passing through the Strait of Hormuz often the spark.\nThe post Iran warns ships not to bypass its chosen Hormuz route appeared first on Vanguard News.",
+      "url": "https://www.vanguardngr.com/2026/06/iran-warns-ships-not-to-bypass-its-chosen-hormuz-route/",
+      "source": "Vanguard",
+      "date": "2026-06-28",
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/03/240923-Abbas-Araghchi-mb-1226-d1ad0c.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Forget Prime Day. Amazon\u2019s AI Empire Makes It the World\u2019s Most Complete Tech Platform",
+      "description": "Prime Day generates billions of dollars in sales and dominates headlines every summer. It just generated a record $26.4 billion in sales across the four-day...",
+      "url": "https://247wallst.com/investing/2026/06/28/forget-prime-day-amazons-ai-empire-makes-it-the-worlds-most-complete-tech-platform/",
+      "source": "24/7 Wall St.",
+      "date": "2026-06-28",
+      "image": "https://s.yimg.com/lo/mysterio/api/74AAFDFC6B81606F62B52DF56DA96F7A2AE003DC0D8934275C946A23A04568AD/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F960117d4ad79f7be3be16e4e5e6d8037",
       "category": "currency"
     },
     {
-      "title": "Air India, Delhi airport eye bigger share of global cargo, begin transshipment trials",
-      "description": "Air India and Delhi airport initiate cargo transshipment trials to boost competitiveness and expand global market share.",
-      "url": "https://www.thehindubusinessline.com/economy/logistics/air-india-delhi-airport-eye-bigger-share-of-global-cargo-begin-transshipment-trials/article71157701.ece",
-      "source": "BusinessLine",
+      "title": "Incuspaze raises Rs 150 crore to fuel expansion ahead of FY29 IPO",
+      "description": "Flexible workspace provider Incuspaze has secured Rs 150 crore in a significant funding round led by Bharat Value Fund. This capital injection will fuel expansion in key markets, boost technology investments, and support acquisitions as the company eyes a pub\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/incuspaze-raises-rs-150-crore-to-fuel-expansion-ahead-of-fy29-ipo/articleshow/132054800.cms",
+      "source": "The Times of India",
       "date": "2026-06-28",
-      "image": "https://bl-i.thgim.com/public/incoming/g1xnuc/article71157810.ece/alternates/LANDSCAPE_1200/Air-India-eyes-G8VG4EDIJ.4.jpg.jpg",
+      "image": "https://img.etimg.com/thumb/msid-132054813,width-1200,height-630,imgsize-119726,overlay-economictimes/articleshow.jpg",
       "category": "market"
     },
     {
-      "title": "Football won\u2019t rescue the nation",
-      "description": "As club football becomes increasingly placeless and commercialized, international football begins to feel strangely real again.",
-      "url": "https://africasacountry.com/2026/06/football-wont-rescue-the-nation",
-      "source": "Africasacountry.com",
+      "title": "World Cup Misinformation, Data Centers, Hunter College Camp AI, More: ResearchBuzz AI Update, June 28, 2026",
+      "description": "AI PROBLEMS Euronews: Fact check: Were you fooled by these AI-generated images of the World Cup?. \u201cThe World Cup has officially kicked off, and with it so has a wave of AI-generated misinform\u2026",
+      "url": "https://researchbuzz.me/2026/06/28/world-cup-misinformation-data-centers-hunter-college-camp-ai-more-researchbuzz-ai-update-june-28-2026/",
+      "source": "Researchbuzz.me",
       "date": "2026-06-28",
-      "image": "https://media.africasacountry.com/images/2026/6/374061529564.png",
+      "image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvczAud3AuY29tXC9pXC9ibGFuay5qcGciLCJ0eHQiOiJSZXNlYXJjaEJ1enoiLCJ0ZW1wbGF0ZSI6ImhpZ2h3YXkiLCJmb250IjoiIiwiYmxvZ19pZCI6NDMyODc1Nn0.BjdcPIDlw4ZG0Ki13B-quwxnrzAxn9iB5rJXagRMNlcMQ",
+      "category": "currency"
+    },
+    {
+      "title": "TechCrunch Mobility: All eyes on Tesla FSD | TechCrunch",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "url": "https://techcrunch.com/2026/06/28/techcrunch-mobility-all-eyes-on-tesla-fsd/",
+      "source": "TechCrunch",
+      "date": "2026-06-28",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/tesla-fsd-GettyImages-2277686230.jpg?resize=1200,800",
       "category": "market"
     },
     {
-      "title": "Wider War With Iran Would Accelerate Collapse of Pax Americana \u2013 Professor",
-      "description": "The Iran\u2013US memorandum of understanding (MoU) is not regarded by the US and Israel as a ceasefire agreement; they also have a pattern of violating truces, Dr. Greg Simons, professor of journalism at Daffodil International University, tells Sputnik.",
-      "url": "https://sputnikglobe.com/20260628/wider-war-with-iran-would-accelerate-collapse-of-pax-americana--professor--1124370849.html",
-      "source": "Sputnikglobe.com",
+      "title": "Trump\u2019s \u2018big, beautiful bill\u2019 is bringing a big set of student loan changes",
+      "description": "Starting July 1, many student borrowers may tackle higher repayment requirements, fewer program options and greater loan limits.",
+      "url": "https://www.nbcnews.com/news/education/trump-big-beautiful-bill-student-loan-changes-rcna350126",
+      "source": "NBC News",
       "date": "2026-06-28",
-      "image": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1124370849.jpg?11238406071782653597",
-      "category": "geopolitics"
-    },
-    {
-      "title": "World Cup Fantasy: Best Round of 32 Player Picks in a 3-4-3 Formation",
-      "description": "The group stages of the 2026 FIFA World Cup are officially in the rearview mirror, making way for the high-intensity knockout phase. For managers, the Round of 32 represents a complete tactical reset. World Cup Fantasy (WCF) grants unlimited transfers before \u2026",
-      "url": "https://www.nevermanagealone.com/playerpicks/16221/world-cup-fantasy-best-round-of-32-player-picks-in-a-3-4-3-formation",
-      "source": "Nevermanagealone.com",
-      "date": "2026-06-28",
-      "image": "https://s.yimg.com/ny/api/res/1.2/vw4xyHUH8TbMwYErjI7Vzg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/sb_nation_articles_115/80daf4c8db4fb20e21ab4c32de216ba3",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260625-bbb-student-loan-2-ac-72322e.jpg",
       "category": "market"
     },
     {
-      "title": "AI Chatbots Let People Keep Dead Loved Ones Alive. Should They?",
-      "description": "By feeding in digital data, AI can create a facsimile for people to interact with\u00a0\u2014\u00a0but some believe a tool to help with grief could backfire.",
-      "url": "http://www.rollingstone.com/culture/culture-features/ai-chatbot-grief-death-1235585030/",
-      "source": "Rolling Stone",
+      "title": "Oil price drop and Iran\u2013US deal hopes ease pressure on Reserve Bank \u2013 Mark Lister",
+      "description": "OPINION: Oil prices have dropped about 25% from last month's peak.",
+      "url": "https://www.nzherald.co.nz/rotorua-daily-post/business/oil-price-drop-and-iranus-deal-hopes-ease-pressure-on-reserve-bank-mark-lister/premium/TL3OFGSBGNA4NAOWX4HHKHBZNY/",
+      "source": "New Zealand Herald",
       "date": "2026-06-28",
-      "image": "https://www.rollingstone.com/wp-content/uploads/2026/06/AI-grief-getty-backup.jpg?crop=0px%2C186px%2C1800px%2C1015px&resize=1600%2C900",
+      "image": "https://www.nzherald.co.nz/resizer/v2/DGXMEXSBLZALNMEO35OLIDWEMI.JPG?auth=fd57f5a2dd9e117ac49960f59a7b50bb4d5b76801aaffec98d81a6fb845cc6a5&width=1200&height=675&quality=70&smart=true",
       "category": "market"
     },
     {
-      "title": "'Like a thunderbolt': Trump admin busted for 'seismic' secret plan to gut watchdog board",
-      "description": "The Trump White House waged a behind-the-scenes pressure campaign on the obscure federal board responsible for shielding government workers from unfair firings, ultimately securing a ruling that could hand the president sweeping power to purge the civil servi\u2026",
-      "url": "https://www.rawstory.com/trump-admin-2677121565/",
-      "source": "Raw Story",
+      "title": "Finding the Best High-Yield Savings Account Rate for Your Money",
+      "description": "High-yield savings account (HYSA) rates are the interest rates that online banks pay on federally insured savings accounts. The rates move with the same forc...",
+      "url": "https://247wallst.com/personal-finance/savings-accounts/2026/06/28/finding-the-best-high-yield-savings-account-rate-for-your-money/",
+      "source": "24/7 Wall St.",
       "date": "2026-06-28",
-      "image": "https://www.rawstory.com/media-library/u-s-president-donald-trump-secretary-of-defense-pete-hegseth-and-chairman-of-the-joint-chiefs-of-staff-gen-dan-caine-leave-fo.jpg?id=65480095&width=1200&height=600&coordinates=0%2C414%2C0%2C415",
+      "image": "https://s.yimg.com/lo/mysterio/api/A8D7D967B72BAF769959377A7BBE3FCE595F41D922AC7655ACD03E253C2CA827/subgraphmysterio/resizefill_w1200_h799;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Feafe459c5d3f0866af85bc1e9d4742b8",
       "category": "central_bank"
     },
     {
-      "title": "Bruce Springsteen \u2013 Amerant Bank Arena, Sunrise, FL, 04.23.26 (2026)",
-      "description": "Bruce Springsteen brought his \u201cLand of Hope and Dreams\u201d rock and resistance tour to President Donald Trump\u2019s backyard on April 23 with a plea to unite in \u201cchoosing hope over fear.\u201d In a preamble to the three-hour concert, held a day before Trump is to arrive \u2026",
-      "url": "https://exystence.net/blog/2026/06/28/bruce-springsteen-amerant-bank-arena-sunrise-fl-04-23-26-2026/",
-      "source": "Exystence.net",
+      "title": "SMEDAN lands $12m Korean funding, unveils N500m MSME fund",
+      "description": "SMEDAN has secured $12m from South Korea for a Skills Acquisition Centre and launched a N500m zero-interest Grow Fund to empower Nigerian MSMEs.\n\nRead More: https://punchng.com/smedan-lands-12m-korean-funding-unveils-n500m-msme-fund/",
+      "url": "https://punchng.com/smedan-lands-12m-korean-funding-unveils-n500m-msme-fund/",
+      "source": "The Punch",
       "date": "2026-06-28",
-      "image": null,
+      "image": "https://punchng.com/wp-content/uploads/2026/06/SMEDAN_1782322846.webp",
       "category": "market"
-    },
-    {
-      "title": "Hawkish Fed Throws Down Challenge for Emerging-Market Bond Rally",
-      "description": "Just when it looked like emerging-market bonds would catch a break from falling energy prices, along came Federal Reserve Chairman Kevin Warsh to spoil the party.",
-      "url": "https://financialpost.com/pmn/business-pmn/hawkish-fed-throws-down-challenge-for-emerging-market-bond-rally",
-      "source": "Financial Post",
-      "date": "2026-06-28",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/em-yield-sensitivity-to-treasuries-has-risen-this-quarter.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Federal Reserve Chairman Kevin Warsh disrupts emerging-market bond recovery",
-      "description": "Warsh's Fed approach may increase US yields, challenging emerging markets and complicating investment strategies amid global capital shifts.\nThe post Federal Reserve Chairman Kevin Warsh disrupts emerging-market bond recovery appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/warsh-fed-disrupts-emerging-market-bonds/",
-      "source": "Crypto Briefing",
-      "date": "2026-06-28",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/28084949/kevin-warsh-banner-1-800x420.jpeg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Enugu Anglican Synod knocks FG over Eastern rail delay",
-      "description": "The Church stressed that reviving the rail corridor would boost economic activities, improve transportation, reduce the cost of moving goods and people, and enhance regional integration.\nThe post Enugu Anglican Synod knocks FG over Eastern rail delay appeared\u2026",
-      "url": "https://www.vanguardngr.com/2026/06/enugu-anglican-synod-knocks-fg-over-eastern-rail-delay/",
-      "source": "Vanguard",
-      "date": "2026-06-28",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-28-at-13.37.03.jpeg",
-      "category": "market"
-    },
-    {
-      "title": "SNAP food stamp fraud has nefarious terrorism links, top Agriculture watchdog warns Congress",
-      "description": "USDA Inspector General warns Congress that SNAP fraud proceeds have reached individuals linked to terrorist groups and foreign adversary nations.",
-      "url": "https://www.foxnews.com/politics/top-usda-watchdog-warns-congress-snap-fraud-grown-far-beyond-financial-crime",
-      "source": "Fox News",
-      "date": "2026-06-28",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/snap.jpg",
-      "category": "geopolitics"
     },
     {
       "title": "Donald Trump Jr. Got A Kalshi Stake For Free\u2014 Now It Could Be Worth Billions As Prediction Market Platform Eyes $40 Billion Valuation: Report",
@@ -393,6 +384,15 @@
       "date": "2026-06-27",
       "image": "https://biztoc.com/cdn/86c4e9cd5816c2e2_s.webp",
       "category": "central_bank"
+    },
+    {
+      "title": "Warren Buffett Said He\u2019d Fix U.S. Deficit In \u20185 Minutes\u2019 By Passing A Law \u2014 \u2018If You Guys Can\u2019t Get It Done, We\u2019ll Get Some Other Guys To Get It Done\u2019",
+      "description": "Politicians have spent decades arguing about deficits. Berkshire Hathaway Chair Warren Buffett once suggested a solution that would\u2019ve made reelection campai...",
+      "url": "https://finance.yahoo.com/economy/policy/articles/warren-buffett-said-d-fix-180132149.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-06-27",
+      "image": "https://s.yimg.com/lo/mysterio/api/D2D95BBBFD9C941DCB0FA415B5E35C0997EFC8FCE7B69D8E17D2A7AAD342E0E0/subgraphmysterio/resizefill_w1200_h788;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F4838a713ba2efe88df6dbc8dbe310e65",
+      "category": "geopolitics"
     }
   ],
   "history": [
@@ -427,7 +427,7 @@
       "platinum_usd_oz": 1760.87
     }
   ],
-  "timestamp": "2026-06-29T19:20:18.980005+05:30",
+  "timestamp": "2026-06-29T21:55:08.864722+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
