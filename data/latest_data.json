@@ -54,7 +54,7 @@
         "hold": 50
       },
       "summary": "Gold is showing positive signals. Positive daily movement of 0.0%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-30T11:58:01.596954",
+      "timestamp": "2026-06-30T15:13:15.954019",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 50
       },
       "summary": "Silver is showing positive signals. Positive daily movement of 0.2%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-30T11:58:01.694181",
+      "timestamp": "2026-06-30T15:13:16.059411",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 50
       },
       "summary": "Platinum is showing positive signals. Positive daily movement of 0.1%. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-06-30T11:58:01.792303",
+      "timestamp": "2026-06-30T15:13:16.139270",
       "source": "rule-based"
     }
   },
@@ -125,31 +125,175 @@
   },
   "news": [
     {
-      "title": "The $1 trillion AI 'arms race' is fueling a hidden supercycle and it's not just chips",
-      "description": "DBS Bank says the global AI arms race is driving a multi-year capex supercycle extending beyond semiconductors into energy, networking, infrastructure and data centres. The bank expects AI spending, sovereign AI investments and rising power demand to create new investment opportunities while reshapi",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/the-1-trillion-ai-arms-race-is-fueling-a-hidden-supercycle-and-its-not-just-chips/articleshow/132092258.cms",
+      "title": "US Stocks: Oppenheimer makes rare cuts to top US investment banks, backs alternative asset managers",
+      "description": "Oppenheimer has downgraded major U.S. investment banks like Goldman Sachs and Morgan Stanley, citing limited upside despite a positive environment. The brokerage advises selling these large-cap banks and instead investing in alternative asset managers, whose shares have seen a significant sell-off. ",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-oppenheimer-makes-rare-cuts-to-top-us-investment-banks-backs-alternative-asset-managers/articleshow/132094565.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-06-30",
+      "image": "",
+      "category": "metals"
+    },
+    {
+      "title": "US stocks today: US stocks  set for strongest quarter in years as risk appetite holds despite US-Iran war",
+      "description": "US stock markets are showing remarkable strength, with major indexes poised for their best quarterly gains in years despite global uncertainties. Investors remain optimistic about a continued bull run, with a recent dip in tech stocks potentially reversing as earnings season approaches.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-subdued-at-open-on-final-trading-day-of-strong-quarter/articleshow/132094399.cms",
       "source": "Economic Times Markets",
       "date": "2026-06-30",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "Rupee ekes out first quarterly gain in five on oil drop, policy salvo",
-      "description": "The Indian rupee achieved its first quarterly gain since March 2025, buoyed by falling oil prices and policy efforts to attract dollar inflows. Despite a slight dip on Tuesday, the currency showed resilience, recovering from record lows. Analysts anticipate a stronger growth forecast for India, thou",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-ekes-out-first-quarterly-gain-in-five-on-oil-drop-policy-salvo/articleshow/132091062.cms",
+      "title": "Quote of the day by Edward Thorp: \"Hoaxes, frauds, manias, and other large-scale financial irrationalities have been with us from the beginnings of the markets in the seventeenth century, long before the Internet.\"",
+      "description": "Financial markets, despite perceptions of rationality, have historically succumbed to waves of greed and fear, from Tulip Mania to meme stocks.  Edward Thorp's insights confirm that human emotions, not just technology, drive speculative bubbles.  Understanding this recurring cycle of irrationality a",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-edward-thorp-hoaxes-frauds-manias-and-other-large-scale-financial-irrationalities-have-been-with-us-from-the-beginnings-of-the-markets-in-the-seventeenth-century-long-before-the-internet-/articleshow/132083945.cms",
       "source": "Economic Times Markets",
       "date": "2026-06-30",
       "image": "",
-      "category": "central_bank"
+      "category": "geopolitics"
     },
     {
-      "title": "Bitcoin remains stuck below $60,000 as traders eye Fed outlook and institutional demand",
-      "description": "Bitcoin traded below $60,000 as markets remained cautious amid expectations of U.S. monetary policy signals and mixed institutional flows. Price action stayed range-bound with limited momentum despite ETF inflows and ongoing macro uncertainty. Altcoins showed mixed performance while traders monitore",
-      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-remains-stuck-below-60000-as-traders-eye-fed-outlook-and-institutional-demand/articleshow/132090002.cms",
+      "title": "Tamil Nadu based Stalwart People Services files DRHP for Rs 150 crore IPO",
+      "description": "Tamil Nadu-based Stalwart People Services has filed its DRHP with Sebi to raise Rs 150 crore through a fresh issue of shares, alongside an offer for sale by promoters. The security, facilities management and staffing services company plans to use the proceeds for working capital, debt repayment and ",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/tamil-nadu-based-stalwart-people-services-files-drhp-for-rs-150-crore-ipo/articleshow/132093302.cms",
       "source": "Economic Times Markets",
       "date": "2026-06-30",
       "image": "",
-      "category": "central_bank"
+      "category": "geopolitics"
+    },
+    {
+      "title": "India bonds up on oil slump, foreign inflows; 10-year yield posts biggest monthly fall in 7 years",
+      "description": "In June, Indian government bonds underwent a remarkable rally, showcasing the largest monthly yield drop for the benchmark 10-year bond in seven years. This upward trend was driven by plunging oil prices and a notable rise in foreign investments, especially via the Fully Accessible Route. The Reserv",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-up-on-oil-slump-foreign-inflows-10-year-yield-posts-biggest-monthly-fall-in-7-years/articleshow/132093124.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-06-30",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US stocks set for strongest quarter in years as risk appetite holds despite US-Iran war",
+      "description": "",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-jobs-report-ai-spending-earnings-fed-rate-hike-concentrix-aerovironment-morgan-stanley-goldman-sachs-stock-price-news-30th-june-2026/liveblog/132093067.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-06-30",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Why are gold and silver prices up today, and will precious metals continue to rise or drop again? Gold reb - The Economic Times",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi9AJBVV95cUxObnJObDZyNjZiSnBPbHhHTFprSVhJMGVSVVdhaEhTb1AwbzExSjZiQmYzMnFULUtYanpTb0NlY3J3aVNnTG5ubWFBVXZ2d3JDQXNEaG9CbEZnb3dkb1RKMEtlZm4tOVVnQzl1UUlCN3JsUHIydnJ4QzJlUUd2bTVXdlYyWlNXTXJqN0w2bUV4V1p5VERwV2kySHRHLWt1YWljRkwtd0g2bmp0RzdpVERLRWpGNlcwNlZ2Z1",
+      "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxObnJObDZyNjZiSnBPbHhHTFprSVhJMGVSVVdhaEhTb1AwbzExSjZiQmYzMnFULUtYanpTb0NlY3J3aVNnTG5ubWFBVXZ2d3JDQXNEaG9CbEZnb3dkb1RKMEtlZm4tOVVnQzl1UUlCN3JsUHIydnJ4QzJlUUd2bTVXdlYyWlNXTXJqN0w2bUV4V1p5VERwV2kySHRHLWt1YWljRkwtd0g2bmp0RzdpVERLRWpGNlcwNlZ2Z1JOSS1Dc0hFdVZWc1lmX09uaWY5azNKcENDRE4tVURpdTZ1UkZIZ1JQcDZwV3l1eUJ6VTBEUXZIbUtJdldQaE9SdVNKR0hibGVPZllVOTNjQmpnVnpVcDJVTHhheTB4N3I4ZkJYV2xxNTV3aE5OSElVMGExSmYySm9SSVZ2SUk3YmZHV3BkYU5SWmUtcVduTTZQSm0wNWxRdDBJTEI4WDNDbTRVUWVaV1NGZXBEbk9qVmt6UkRyM1Q1NW_SAfoCQVVfeXFMTTRWd0VWWE5yOEl4TFI5bVlyal83VWNNOFZmWUszbGRlUm5SdFZ1X19wbEdxZE94X2R4VEVsVmM4WlV4SmQteHB6OTVpdEhFV0dsNzRpVXBHTlo0SHo1ZVNTbmh3Rkw0djZiMVpJMjAyTERNYktRY3d6azQ2SUlRSk5zRmRqclZPYlluVl9Ed01HQWNzalh3VU1YZ0hPdlhNQk9vTURBWDNnZUxDUzk3MWc1TTlJRlRrRjl6ZEJrbVZHSlVEcmNlYk5YWWx5d0pGR2ZVQWdIZk9ibjM4RXNjSlhaUWE5ZXI5d1hwSzljWXRoVUJIWDJzS25BNk9mOHdHZGVMNnpjUnVoNjNIMDBZYlEyWklCYmRLLUZpbVhjM1JHUnJIdFJsdGdNQmRnWXI5VVMxaVp2ZWVZV1c3NG1wTldWMC0zQzUzNHRiX1NsNlh6cWVtMURLa2pqVnhtOHBnWXNNaFlKWGFGbHd2LWh2WlduNGJsQnJmTlB3?oc=5",
+      "source": "Google News - Precious Metals",
+      "date": "2026-06-30",
+      "image": "",
+      "category": "metals"
+    },
+    {
+      "title": "Taylor Swift And Travis's Wedding Rumours Spark Exp Predictions",
+      "description": "Rumours surrounding the wedding of Taylor Swift and Travis continue to dominate social media, but the couple have not officially confirmed",
+      "url": "https://liveindia.tv/entertainment/taylor-swift-and-traviss-wedding-rumours-spark-exp-predictions/",
+      "source": "Liveindia.tv",
+      "date": "2026-06-29",
+      "image": "https://liveindia.tv/wp-content/uploads/2026/06/Taylor-Swift-And-Travis-Kelce.webp",
+      "category": "market"
+    },
+    {
+      "title": "America at 250: The New Economics of U.S. Power",
+      "description": "Former Majid Al Futtaim Group CEO Alain Bejjani argues that as the U.S. marks its 250th anniversary, the defining story is one of transformation. Bejjani examines how trade fragmentation, fiscal pressures and A.I. are reshaping American leadership, and why tr\u2026",
+      "url": "https://observer.com/2026/06/america-250-future-trade-global-leadership/",
+      "source": "Observer",
+      "date": "2026-06-29",
+      "image": "https://observer.com/wp-content/uploads/sites/2/2026/06/blake-wisz-FwUbFfTGP_4-unsplash.png?quality=80",
+      "category": "market"
+    },
+    {
+      "title": "Bitget Launches Third Year of Anti-Scam Month with New Report on Multi-Asset Fraud",
+      "description": "Bitget launches Anti-Scam Month with its 2026 report on AI scams, multi-asset fraud, and user protection....",
+      "url": "https://www.globenewswire.com/news-release/2026/06/29/3319057/0/en/Bitget-Launches-Third-Year-of-Anti-Scam-Month-with-New-Report-on-Multi-Asset-Fraud.html",
+      "source": "GlobeNewswire",
+      "date": "2026-06-29",
+      "image": "https://ml-eu.globenewswire.com/Resource/Download/a8f5db1d-cc85-4a6f-b010-d5c81296509c",
+      "category": "market"
+    },
+    {
+      "title": "Attunio Health Unveils Infrastructure for Measurable Mental Healthcare",
+      "description": "Clinical Intelligence Engine\u2122 and Digital MSE\u2122 API introduce a new intelligence layer for precision psychiatry. ATLANTA, June 29, 2026 /PRNewswire/ -- As digital health, telepsychiatry, and AI-driven mental healthcare rapidly expand, a foundational gap remain\u2026",
+      "url": "https://www.prnewswire.com/news-releases/attunio-health-unveils-infrastructure-for-measurable-mental-healthcare-302813241.html",
+      "source": "PRNewswire",
+      "date": "2026-06-29",
+      "image": "https://mma.prnewswire.com/media/2999176/attunio_logo_Logo.jpg?p=facebook",
+      "category": "market"
+    },
+    {
+      "title": "From Bitcoin critics to blockchain believers: The 5 biggest crypto backflips",
+      "description": "From crypto hater Nouriel Roubini launching the Technodollar to Bitcoin critic Peter Schiff putting out tokenized gold, meet the skeptics who are now cashing in on crypto.",
+      "url": "https://cointelegraph.com/features/from-bitcoin-critics-to-blockchain-believers-the-5-biggest-crypto-backflips",
+      "source": "Cointelegraph",
+      "date": "2026-06-29",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-nouriel-roubini-v-blockchain-notes-from-the-senate-floor.png",
+      "category": "currency"
+    },
+    {
+      "title": "jUMPP Secures NPCI Approval, Launches UPI Services",
+      "description": "jUMPP Secures NPCI Approval, Launches UPI Services",
+      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/jumpp-secures-npci-approval-launches-upi-services/article71160814.ece",
+      "source": "BusinessLine",
+      "date": "2026-06-29",
+      "image": "https://th-i.thgim.com/public/incoming/tnmf5k/article71160810.ece/alternates/LANDSCAPE_1200/Screenshot%202026-06-29%20151117.png",
+      "category": "market"
+    },
+    {
+      "title": "Community Transit Ridership Jumped 24% After Lynnwood Link Restructure",
+      "description": "Since the Lynnwood Link Extension opened in August 2024, Community Transit has overhauled its network. The two Link stations in Snohomish County have allowed the agency to invest more service hours in local routes than ever before. This investment comes at th\u2026",
+      "url": "https://seattletransitblog.com/2026/06/29/community-transit-ridership-jumped-24-after-lynnwood-link-restructure/",
+      "source": "Seattletransitblog.com",
+      "date": "2026-06-29",
+      "image": "https://seattletransitblog.com/wp-content/uploads/2026/06/image-47.png",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Who are the Saints picking in 2027 mock drafts? Latest projections",
+      "description": "The ink has barely dried on the Saints' rookie contracts but the mock draft industrial complex moves on. Here's who New Orleans is picking in 2027.",
+      "url": "https://saintswire.usatoday.com/story/sports/nfl/saints/2026/06/29/2027-nfl-draft-consensus-picks-saints-college-football-sleepers/90733917007/",
+      "source": "USA Today",
+      "date": "2026-06-29",
+      "image": "https://s.yimg.com/ny/api/res/1.2/045yj9ZZq_mb21mTlnBOAA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/new_orleans_saints_wire_usa_today_sports_articles_211/cf18822d82e24cb53a9668624e6e0524",
+      "category": "market"
+    },
+    {
+      "title": "Speaker Johnson warns of 'desperate times' for Social Security \u2014 and Democrats say that means benefit cuts",
+      "description": "The debate over Social Security\u2019s future is heating up as the underlying trust fund faces depletion by 2032.",
+      "url": "https://finance.yahoo.com/economy/policy/articles/speaker-johnson-warns-desperate-times-135119526.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-06-29",
+      "image": "https://s.yimg.com/lo/mysterio/api/E4C039631C18C9C9D494EFA944C41B27E9436A254B171229320E140D34A0E39B/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2Fd6d339b200459a17bf9bbac588d7ba50",
+      "category": "geopolitics"
+    },
+    {
+      "title": "It's All They've Got Now",
+      "description": "\u201c. . . there is no saving the Left. Whatever happens to them, it will have to happen without people like you or me trying to get them to return to any place of sanity.\u201d \u2014 Sasha Stone on Substack",
+      "url": "https://www.kunstler.com/p/its-all-theyve-got-now",
+      "source": "Kunstler.com",
+      "date": "2026-06-29",
+      "image": "https://substackcdn.com/image/fetch/$s_!FsF6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9826ffa-fafc-45ab-8d46-26011f4b59d7_700x313.heic",
+      "category": "market"
+    },
+    {
+      "title": "Morgan Stanley warns of potential climax in silver, semiconductor markets",
+      "description": "Market volatility in silver and semiconductors may signal broader economic shifts, potentially impacting investment strategies and risk management.\nThe post Morgan Stanley warns of potential climax in silver, semiconductor markets appeared first on Crypto Bri\u2026",
+      "url": "https://cryptobriefing.com/morgan-stanley-silver-semiconductor-peak-warning/",
+      "source": "Crypto Briefing",
+      "date": "2026-06-29",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/29080711/building-morgan-stanley-3d-model-2-800x420.jpeg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "An Old-World Loire Valley Wedding with Antique Romance at Chateau De La Bourdaisiere",
+      "description": "[section title=\u201dThe Planning\u201d] [field title=\u201dWedding Colors\u201d] Wedding day: deep red, old pink/blush, antique yellow, green, touches of blue + metal (gold, brass, and silver) Rehearsal dinner: white + wood + mix of metal and clear glass [/field] [field title=\u201d\u2026",
+      "url": "https://www.stylemepretty.com/2026/06/29/an-old-world-loire-valley-wedding-with-antique-romance-at-chateau-de-la-bourdaisiere/",
+      "source": "Stylemepretty.com",
+      "date": "2026-06-29",
+      "image": "https://smp-is.stylemepretty.com/wp-content/gallery/ibb/lauren.megerdichian/ibb-1781551645.0245.8247$!1200x.jpg",
+      "category": "metals"
     },
     {
       "title": "Latin Metals Reports High-Grade Gold Results at La Flora",
@@ -170,229 +314,85 @@
       "category": "metals"
     },
     {
-      "title": "Streamex Corp. Brings Yield-Bearing Gold (GLDY) to Traditional Brokerage Accounts Through Collaboration with Siebert Financial and tZERO",
-      "description": "Highlights GLDY can now be bought through a traditional brokerage account. Siebert brokers will now offer GLDY to their clients the same way they would any stock or bond, no blockchain knowledge required. Investors simply work with their Siebert broker to add\u2026",
-      "url": "https://financialpost.com/globe-newswire/streamex-corp-brings-yield-bearing-gold-gldy-to-traditional-brokerage-accounts-through-collaboration-with-siebert-financial-and-tzero",
-      "source": "Financial Post",
-      "date": "2026-06-29",
-      "image": null,
-      "category": "metals"
-    },
-    {
-      "title": "How rupee movements directly affect your gold ETF returns: Experts explain",
-      "description": "For Indian investors, gold ETF returns are driven by global gold prices and currency movements. A weaker rupee can amplify gains, while a stronger rupee can reduce them. However, experts caution against making investment decisions solely on exchange rate expe\u2026",
-      "url": "https://www.livemint.com/money/personal-finance/how-rupee-movements-directly-affect-your-gold-etf-returns-experts-explain-11782724251417.html",
-      "source": "Livemint",
-      "date": "2026-06-29",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/29/1600x900/logo/gold_etff_1782727976044_1782727993403_20c9004f-9b3d-47a2-b0a5-8d3341b353ab.png",
-      "category": "currency"
-    },
-    {
-      "title": "Hindustan Zinc eyes three new metals in five years",
-      "description": "Hindustan Zinc's long-term strategy is to diversify beyond its existing portfolio of zinc, lead, silver and cadmium by entering businesses such as rare earths, potash and tungsten.",
-      "url": "https://www.livemint.com/companies/news/hindustan-zinc-eyes-three-new-metals-in-five-years-critical-minerals-11782726058995.html",
-      "source": "Livemint",
-      "date": "2026-06-29",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/29/1600x900/logo/Hindustan_Zinc_1782730812439_1782730812557_46d548be-0b40-4219-be2e-be034851ba19.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "Sensex today | Stock Market Highlights: Sensex falls 372 pts to settle at 76,728, Nifty closes below 24,000 as geopolitical tensions weigh",
-      "description": "Sensex Today, Nifty 50 | Stock Market Highlights: Find here all the highlights related to Sensex, Nifty, BSE, NSE, share prices and Indian stock markets for 29th June 2026.",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-29th-june-2026/article71157520.ece",
-      "source": "BusinessLine",
-      "date": "2026-06-29",
-      "image": "https://bl-i.thgim.com/public/incoming/tusls1/article71159902.ece/alternates/LANDSCAPE_1200/IMG_CCI_UDHindu_KSL_U907_2_1_8PA9QO2T.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Magna Mining Achieves Record Quarterly Tonnage at McCreedy West Mine in Sudbury and Provides Q2 Operational Update",
-      "description": "SUDBURY, Ontario, June 29, 2026 (GLOBE NEWSWIRE) -- Magna Mining Inc. (TSX: NICU) (OTCQX: MGMNF) (FSE: 8YD) (\u201cMagna\u201d or the \u201cCompany\u201d) is pleased to announce that a new record for quarterly tonnage has been achieved under Magna ownership of the McCreedy West \u2026",
-      "url": "https://www.globenewswire.com/news-release/2026/06/29/3318800/0/en/Magna-Mining-Achieves-Record-Quarterly-Tonnage-at-McCreedy-West-Mine-in-Sudbury-and-Provides-Q2-Operational-Update.html",
-      "source": "GlobeNewswire",
-      "date": "2026-06-29",
-      "image": "https://ml.globenewswire.com/Resource/Download/548ae398-b7bc-41de-9443-c346a005892c",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Silver down 2%, gold dips 1% amid US-Iran tensions",
-      "description": "Precious metals dropped on Monday after a weekend filled with hostilities in the Middle East.United States targeted Iran's military infrastructure, to which Iran responded by striking US sites in the ...",
-      "url": "https://biztoc.com/x/4c1b5ad8f66dd0d0",
-      "source": "Biztoc.com",
-      "date": "2026-06-29",
-      "image": "https://biztoc.com/cdn/4c1b5ad8f66dd0d0_s.webp",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Collective Mining Discovers a New Tungsten Enriched High-Grade Subzone 300 Meters Below Surface at Apollo by Drilling 27.35 m at 37.55 g/t AuEq (1.68% WO3, 11.62 g/t Au, 54 g/t Ag, 0.43% Cu)",
-      "description": "High-grade tungsten, gold, silver and copper mineralization has been discovered along the eastern contact of the Apollo breccia body as follows: 27.35m @ 37.55 g/t gold equivalent (1.68% WO3, 11.62 g/t Au, 54 g/t Ag, 0.43% Cu) from 300m below surface (APC-162\u2026",
-      "url": "https://www.prnewswire.com/news-releases/collective-mining-discovers-a-new-tungsten-enriched-high-grade-subzone-300-meters-below-surface-at-apollo-by-drilling-27-35-m-at-37-55-gt-aueq-1-68-wo3--11-62-gt-au-54-gt-ag-0-43-cu-302812605.html",
-      "source": "PRNewswire",
-      "date": "2026-06-29",
-      "image": "https://mma.prnewswire.com/media/3001306/Collective_Mining_Ltd__Collective_Mining_Discovers_a_New_Tungste.jpg?p=facebook",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Styrofoam? Venezuela\u2019s Deadly Quake Exposes the Rotten Core of Socialist Construction",
-      "description": "The twin earthquakes that struck Venezuela this week were not merely acts of nature\u2014they laid bare decades of deliberate neglect and ideological folly. A magnitude 7.2 quake followed seconds later by a 7.5 temblor devastated the northern coast near Caracas, p\u2026",
-      "url": "https://freerepublic.com/focus/f-bloggers/4385907/posts",
-      "source": "Freerepublic.com",
-      "date": "2026-06-29",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "A new age for astronomy enabled by space-based solar power",
-      "description": "One of the criticisms of space-based solar power (SPSB) systems is that the platforms would interfere with astronomy. Benjamin Calloway describes how SBSP could also create technologies to enable space-based astronomy.",
-      "url": "https://www.thespacereview.com/article/5253/1",
-      "source": "The Space Review",
-      "date": "2026-06-29",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "Cizzle Brands Corporation Celebrates Gavin McKenna\u2019s First Overall Draft Selection with the Launch of Limited-Edition CWENCH \u201cDraft Day Blue\u201d",
-      "description": "CWENCH partnered with McKenna in 2024, long before draft night. The new blue cherry flavour, which will be manufactured at the newly acquired CWENCH Hydration Factory, launches at Shell Canada, CanCo Gas, and Healthy Planet, with additional retailers expected\u2026",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/cizzle-brands-corporation-celebrates-gavin-mckennas-first-overall-draft-selection-with-the-launch-of-limited-edition-cwench-draft-day-blue",
-      "source": "Financial Post",
-      "date": "2026-06-29",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/bw20260629713651_cizzle-brands-picture1.jpeg",
-      "category": "market"
-    },
-    {
-      "title": "Court Clears Biocytogen\u2019s RenNano\u00ae in Landmark Patent Dispute Against Harbour",
-      "description": "BEIJING \u2014 Biocytogen Pharmaceuticals (Beijing) Co., Ltd. (\u201cBiocytogen,\u201d SSE: 688796; HKEX: 02315) today announced that it has received a first-instance civil judgment from the Shanghai Intellectual Property Court. The court ruled that Biocytogen did not infri\u2026",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/court-clears-biocytogens-rennano-in-landmark-patent-dispute-against-harbour",
-      "source": "Financial Post",
-      "date": "2026-06-29",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "Ecovyst Issues 2025 Corporate Sustainability Report",
-      "description": "WAYNE, Pa., June 29, 2026 /PRNewswire/ -- Ecovyst Inc. (NYSE: ECVT), a leading provider of virgin sulfuric acid, sulfuric acid regeneration services, and sulfuric acid derivatives (\"Ecovyst\"), today announced the release of its 2025 Sustainability Report, \"Cl\u2026",
-      "url": "https://www.prnewswire.com/news-releases/ecovyst-issues-2025-corporate-sustainability-report-302813174.html",
-      "source": "PRNewswire",
-      "date": "2026-06-29",
-      "image": "https://mma.prnewswire.com/media/2243202/Ecovyst_hi_res_Logo.jpg?p=facebook",
-      "category": "market"
-    },
-    {
-      "title": "Govt plans Rs 5,000 crore scheme in 3 months to promote green technologies in steel sector",
-      "description": "The Indian government is set to launch a Rs 5,000 crore scheme within three months to boost clean technologies in steelmaking, aiming to slash carbon emissions. Titled the National Strategy for Sustainable Secondary Steel, the initiative will benefit all stee\u2026",
-      "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/steel/govt-plans-rs-5000-crore-scheme-in-3-months-to-promote-green-technologies-in-steel-sector/articleshow/132070244.cms",
+      "title": "Quote of the Day by JRD Tata: \"Nothing worthwhile is ever achieved without...\" - From one daring dream to a global industrial empire: The forgotten success formula that turned vision, values and hard work into an industrial powerhouse",
+      "description": "Quote of the day by JRD Tata continues to inspire entrepreneurs, students, professionals and leaders because it speaks to a truth that never goes out of date. The enduring wisdom of Jehangir Ratanji Dadabhoy Tata reminds us that lasting success is never built\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-jrd-tata-nothing-worthwhile-is-ever-achieved-without-from-one-daring-dream-to-a-global-industrial-empire-the-forgotten-success-formula-that-turned-vision-values-and-hard-work-into-an-industrial-powerhouse/articleshow/132072125.cms",
       "source": "The Times of India",
       "date": "2026-06-29",
-      "image": "https://img.etimg.com/thumb/msid-132070310,width-1200,height-630,imgsize-153674,overlay-economictimes/articleshow.jpg",
+      "image": "https://img.etimg.com/thumb/msid-132072436,width-1200,height-630,imgsize-25842,overlay-economictimes/articleshow.jpg",
       "category": "market"
     },
     {
-      "title": "The Kraft Heinz Company (KHC): One of the Best Stocks to Buy Now for Good Returns amid Restructuring",
-      "description": "The Kraft Heinz Company (NASDAQ:KHC) is one of the best stocks to buy now for good returns. On June 18, The Kraft Heinz Company (NASDAQ:KHC) announced it wil...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/kraft-heinz-company-khc-one-115545662.html",
-      "source": "Yahoo Entertainment",
+      "title": "WLTH Investor Notice: Johnson Fistel Investigates Wealthfront Corporation",
+      "description": "SAN DIEGO, June 29, 2026 (GLOBE NEWSWIRE) -- Johnson Fistel, PLLP is investigating Wealthfront Corporation (\u201cWealthfront\u201d or the \u201cCompany\u201d) (NASDAQ: WLTH) on behalf of investors who suffered losses and whether those losses may be recoverable under federal sec\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/06/29/3319112/0/en/WLTH-Investor-Notice-Johnson-Fistel-Investigates-Wealthfront-Corporation.html",
+      "source": "GlobeNewswire",
       "date": "2026-06-29",
-      "image": "https://s.yimg.com/lo/mysterio/api/64C549D9765C1F5B8C4B731CB528CB117314EDBE3B7FE396625B49D56C6B6ABE/subgraphmysterio/resizefill_w1200_h801;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Ff800762b0a1e4861efb9e5958bb921c7",
-      "category": "market"
-    },
-    {
-      "title": "This is Why Delta Air Lines, Inc. (DAL) is a Top Stock to Buy Now for Good Returns",
-      "description": "Delta Air Lines, Inc. (NYSE:DAL) is one of the best stocks to buy now for good returns. On June 23, UBS reiterated a Buy rating on Delta Air Lines, Inc. (NYS...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-delta-air-lines-inc-115537303.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-06-29",
-      "image": "https://s.yimg.com/lo/mysterio/api/DC118E3BDB2499616501586714569CDF0AAD367917265124C1CA2E65E6F350AD/subgraphmysterio/resizefill_w1200_h633;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fe9b86cef2d627fbd296a3416ffe72ad6",
-      "category": "market"
-    },
-    {
-      "title": "Australia proposes increasing fines for social media companies in under-16 ban",
-      "description": "Australia introduced new legislation in Parliament on Monday to strengthen enforcement of its under-16 \u200csocial media ban and give its internet regulator more power to pursue tech giants in court for non-compliance.",
-      "url": "https://www.cbc.ca/news/world/australia-social-media-kids-new-legislation-9.7252325",
-      "source": "CBC News",
-      "date": "2026-06-29",
-      "image": "https://i.cbc.ca/ais/cbb82b27-ae6e-4793-8493-26ce9f84dfeb,1782732151013/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3000%2C1687%29%3BResize%3D620",
-      "category": "market"
-    },
-    {
-      "title": "What Will It Cost America To Meet Data Center Electricity Demand?",
-      "description": "Meeting data center electricity demand with fossil fuels will add $30 billion to annual electricity costs. Clean energy will cost $5 billion less.",
-      "url": "https://www.forbes.com/sites/energyinnovation/2026/06/29/what-will-it-cost-america-to-meet-data-center-electricity-demand/",
-      "source": "Forbes",
-      "date": "2026-06-29",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/679918341c4cea6e47669981/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "category": "supply_demand"
-    },
-    {
-      "title": "True Fertility Care Treats The Whole Person, And You Can Help It Expand",
-      "description": "Tell federal regulators what families need: care that treats the real causes of infertility, not just the symptoms.",
-      "url": "https://thefederalist.com/2026/06/29/true-fertility-care-treats-the-whole-person-and-you-can-help-it-expand/",
-      "source": "The Federalist",
-      "date": "2026-06-29",
-      "image": "https://thefederalist.com/wp-content/uploads/2026/06/Pregnancy-Test-Woman.jpg",
+      "image": "https://ml.globenewswire.com/Resource/Download/bb2e6cf6-9d53-4d2e-a5d2-759cdd3b516c",
       "category": "central_bank"
     },
     {
-      "title": "Congressional Laziness About To Restart Taxpayer Funds For Biggest U.S. Abortion And Transgender Kids Mill",
-      "description": "Planned Parenthood has expanded into 'transgender medicine' in a big way and Congress should cut any future federal funding.",
-      "url": "https://thefederalist.com/2026/06/29/congressional-laziness-about-to-restart-taxpayer-funds-for-biggest-u-s-abortion-and-transgender-kids-mill/",
-      "source": "The Federalist",
+      "title": "A former Tesla Optimus engineer settled a trade secret lawsuit and raised $11M to build the robot hands his old employer still cannot crack",
+      "description": "Proception, a robotics startup founded by former Tesla Optimus engineer Jay Li, has settled a year-long trade secret lawsuit with Tesla and raised an $11 million seed round led by First Round Capital to build dexterous robotic hands. The company told TechCrun\u2026",
+      "url": "https://thenextweb.com/news/proception-robot-hand-tesla-trade-secret-settlement-seed-round/",
+      "source": "The Next Web",
       "date": "2026-06-29",
-      "image": "https://thefederalist.com/wp-content/uploads/2026/06/Margaret_Sanger_Square_Planned_Parenthood-scaled-e1781903150497.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "China debuts overnight reverse repos at 1.25%, injecting $44 billion in liquidity",
-      "description": "China's new overnight reverse repo tool enhances monetary policy precision, aligning with global practices and stabilizing short-term liquidity.\nThe post China debuts overnight reverse repos at 1.25%, injecting $44 billion in liquidity appeared first on Crypt\u2026",
-      "url": "https://cryptobriefing.com/china-pboc-overnight-reverse-repos/",
-      "source": "Crypto Briefing",
-      "date": "2026-06-29",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/29073851/china-debuts-overnight-reverse-repos-at-1-25-sources-say-reu-800x420.jpeg",
-      "category": "central_bank"
-    },
-    {
-      "title": "Vulnerability Summary for the Week of June 22, 2026",
-      "description": "High Vulnerabilities\r\n\n<table>\n\n<tr>\n<th>PrimaryVendor -- Product</th>\n<th>Description</th>\n<th>Published</th>\n<th>CVSS Score</th>\n<th>Source Info</th>\n</tr>\n\r\n\n\n<tr>\n<td>abhisheksaha11--URL Preview</td>\n<td>The URL Preview plugin for WordPress is vulnerable \u2026",
-      "url": "https://www.cisa.gov/news-events/bulletins/sb26-180",
-      "source": "Cisa.gov",
-      "date": "2026-06-29",
-      "image": null,
+      "image": "https://media.thenextweb.com/2026/06/proception-robot-hand-tesla-trade-secret-settlement-seed-round.avif",
       "category": "market"
     },
     {
-      "title": "FG, NANS forge partnership to protect Nigerian students abroad",
-      "description": "The Federal Government and NANS are collaborating to improve welfare and protection for Nigerian students abroad. Learn about enhanced consular services an\n\nRead More: https://punchng.com/fg-nans-forge-partnership-to-protect-nigerian-students-abroad/",
-      "url": "https://punchng.com/?p=2177848",
-      "source": "The Punch",
+      "title": "Momenta Global Hong Kong IPO raises $751 million",
+      "description": "The GM- and Tencent-backed firm plans to use about 60% of proceeds to fund R&D, including AI computing and data storage",
+      "url": "https://qz.com/momenta-global-hong-kong-ipo-self-driving-062926",
+      "source": "Quartz India",
       "date": "2026-06-29",
-      "image": "https://punchng.com/wp-content/uploads/2016/10/punchlogo.png",
-      "category": "central_bank"
+      "image": "https://s.yimg.com/lo/mysterio/api/2B3525BC83513DC860D6C4C1FE53D660513AED3FA2769A436D81EAA70CF97BE8/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2F2975f19d02c1f45107ab14c8986d58fe",
+      "category": "market"
     },
     {
-      "title": "Permanent Disorder: How Trade Wars and Geopolitical Fractures Are Rewriting the Rules of Investment - Nation Thailand",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53S2VidHlQR0ZwLXZia3VBazZyZmd1SUlRb0tkZmtWcXJpOWJ6Z3FMWDZrUDZ5U2diX19uRzN0Nmh6YWYtLU5DOV92QXNOMlJINzJPaUgtektxZTVkVUJFdlVLcEdxMDg?oc=5\" target=\"_blank\">Permanent Disorder: How Trade Wars and Geopolitical Fractures Are Rewriting the Rules of",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53S2VidHlQR0ZwLXZia3VBazZyZmd1SUlRb0tkZmtWcXJpOWJ6Z3FMWDZrUDZ5U2diX19uRzN0Nmh6YWYtLU5DOV92QXNOMlJINzJPaUgtektxZTVkVUJFdlVLcEdxMDg?oc=5",
-      "source": "Google News - Global Economy",
-      "date": "2026-06-27",
-      "image": "",
+      "title": "Tesla Shares Advance 4.5% as EV Leader Maintains Market Momentum Amid Industry Shifts",
+      "description": "Tesla's stock rose over 4% as investors showed confidence in its energy storage and autonomous driving innovations, despite industry challenges. The company's global expansion and technology focus drive growth.",
+      "url": "https://www.ibtimes.com.au/tesla-stock-surges-energy-automotive-innovations-1871541",
+      "source": "Ibtimes.com.au",
+      "date": "2026-06-29",
+      "image": "https://d.ibtimes.com.au/en/full/205213/tesla-autopilot.jpg",
+      "category": "market"
+    },
+    {
+      "title": "In the Realm of Spirits: Kwaidan",
+      "description": "An impoverished samurai abandons his loving wife, only to discover a horrible truth upon his return home. A young woodcutter marries a beautiful stranger, and breaks a promise that spells his doom. A blind musician plays for a spectral audience, \u2026 Continue re\u2026",
+      "url": "https://wrongeverytime.com/2026/06/29/in-the-realm-of-spirits-kwaidan/",
+      "source": "Wrongeverytime.com",
+      "date": "2026-06-29",
+      "image": "https://wrongeverytime.com/wp-content/uploads/2026/06/June18111848-1024x576.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Why a collapse in $1 trillion AI spending boom could hit Bitcoin traders first",
+      "description": "Over the past year, the artificial intelligence trade has become one of the main pillars supporting global risk appetite. However, the Bank for International Settlements (BIS) is now warning that the same spending boom could become a source of financial stres\u2026",
+      "url": "https://cryptoslate.com/?p=544895",
+      "source": "CryptoSlate",
+      "date": "2026-06-29",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/06/bitcoin-ai-datacenter-overinvestment.jpg",
       "category": "geopolitics"
     },
     {
-      "title": "Precious metals retreat from record highs - World Bank Blogs",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc1p3MEtBTHNPVVFxN05ZT0JGZmhOOEZuOTdfNU55el83Z2p3c2dWSU56Wk90aWo4TDNnbGpId1M5emdwb3NoalVBOGNDbzl3VzVaUW8tT0dnNllHcHdrb1dfOTZueWxjYnMxZ2xkTTVBWlh4b3NpMjRzMGRkQzJNVEFwWnR3X3da?oc=5\" target=\"_blank\">Precious metals retreat from record highs</",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc1p3MEtBTHNPVVFxN05ZT0JGZmhOOEZuOTdfNU55el83Z2p3c2dWSU56Wk90aWo4TDNnbGpId1M5emdwb3NoalVBOGNDbzl3VzVaUW8tT0dnNllHcHdrb1dfOTZueWxjYnMxZ2xkTTVBWlh4b3NpMjRzMGRkQzJNVEFwWnR3X3da?oc=5",
-      "source": "Google News - Precious Metals",
-      "date": "2026-06-26",
-      "image": "",
-      "category": "metals"
+      "title": "Johnson Fistel Investigates VenHub Global, Inc. (NASDAQ: VHUB) on Behalf of Investors",
+      "description": "SAN DIEGO, June 29, 2026 (GLOBE NEWSWIRE) -- Johnson Fistel, PLLP is investigating VenHub Global, Inc. (NASDAQ: VHUB) on behalf of investors who suffered losses and whether those losses may be recoverable under federal securities laws.",
+      "url": "https://www.globenewswire.com/news-release/2026/06/29/3319109/0/en/Johnson-Fistel-Investigates-VenHub-Global-Inc-NASDAQ-VHUB-on-Behalf-of-Investors.html",
+      "source": "GlobeNewswire",
+      "date": "2026-06-29",
+      "image": "https://ml.globenewswire.com/Resource/Download/bb2e6cf6-9d53-4d2e-a5d2-759cdd3b516c",
+      "category": "central_bank"
     },
     {
-      "title": "Precious Metals Market Update: Gold, Silver, Platinum, and Palladium Trends \u2013 June 2026 - News and Statistics - IndexBox",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOd2x5ZENScXhWTUNxSndEUURWWUFlZ1R1ZDlkc1NNcXVBdTJfV00wenBwTnhuN3VPVGxxbTJubW1GbTh6eTUtSF9QQkdoalMtNkFUblU1Qnk3UTViWUQzNENZX1RNdHExZ3pVNHdTRkdrM19SalJ2QjVsRWdXMHlVMUM0SmJLTU94VEFzelY5MUVpandtU0V5R2V1SjhrQXp5dUF6c3dweUVTV2syZmxwdQ?oc=5\" targe",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd2x5ZENScXhWTUNxSndEUURWWUFlZ1R1ZDlkc1NNcXVBdTJfV00wenBwTnhuN3VPVGxxbTJubW1GbTh6eTUtSF9QQkdoalMtNkFUblU1Qnk3UTViWUQzNENZX1RNdHExZ3pVNHdTRkdrM19SalJ2QjVsRWdXMHlVMUM0SmJLTU94VEFzelY5MUVpandtU0V5R2V1SjhrQXp5dUF6c3dweUVTV2syZmxwdQ?oc=5",
-      "source": "Google News - Precious Metals",
-      "date": "2026-06-26",
-      "image": "",
-      "category": "platinum"
+      "title": "Supreme Court allows firing of FTC commissioners, ends agency independence",
+      "description": "The Supreme Court just placed once-independent agencies more firmly under presidential control. The court ruled in Slaughter v. Trump with a 6-3 vote that President Donald Trump had the authority to fire the Federal Trade Commission's two Democratic commissio\u2026",
+      "url": "https://www.theverge.com/policy/958974/supreme-court-slaughter-trump-decision-ftc-agency-independence",
+      "source": "The Verge",
+      "date": "2026-06-29",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25301215/STK463_SCOTUS_B.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "category": "central_bank"
     }
   ],
   "history": [
@@ -427,7 +427,7 @@
       "platinum_usd_oz": 1760.87
     }
   ],
-  "timestamp": "2026-06-30T17:28:01.804616+05:30",
+  "timestamp": "2026-06-30T20:43:16.148911+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
