@@ -1,24 +1,24 @@
 {
   "prices": {
     "gold": {
-      "price_per_gram_inr": 12130.51,
-      "price_usd_oz": 3984.45,
-      "change_percent": -0.57,
-      "change_value_usd": -22.95,
-      "price_per_10g_inr": 121305.06
+      "price_per_gram_inr": 12259.85,
+      "price_usd_oz": 4026.94,
+      "change_percent": 0.49,
+      "change_value_usd": 19.53,
+      "price_per_10g_inr": 122598.5
     },
     "silver": {
-      "price_per_gram_inr": 176.5,
-      "price_usd_oz": 57.98,
-      "change_percent": -1.02,
-      "change_value_usd": -0.6,
-      "price_per_kg_inr": 176502.45
+      "price_per_gram_inr": 179.02,
+      "price_usd_oz": 58.8,
+      "change_percent": 0.4,
+      "change_value_usd": 0.23,
+      "price_per_kg_inr": 179023.26
     },
     "platinum": {
-      "price_per_gram_inr": 4728.24,
-      "price_usd_oz": 1553.07,
-      "change_percent": 0.01,
-      "change_value_usd": 0.19
+      "price_per_gram_inr": 4762.98,
+      "price_usd_oz": 1564.47,
+      "change_percent": 0.73,
+      "change_value_usd": 11.6
     },
     "currencies": {
       "USD_INR": 94.6933,
@@ -30,8 +30,8 @@
       "CAD_INR": 66.6479,
       "SGD_INR": 73.1674
     },
-    "gold_silver_ratio": 68.73,
-    "timestamp": "2026-07-01T10:28:14.940633",
+    "gold_silver_ratio": 68.48,
+    "timestamp": "2026-07-01T12:19:41.563818",
     "source": "GoldAPI"
   },
   "currencies": {
@@ -49,24 +49,24 @@
       "metal": "gold",
       "recommendation": "SELL",
       "confidence": {
-        "buy": 10,
-        "sell": 65,
-        "hold": 25
+        "buy": 15,
+        "sell": 56,
+        "hold": 29
       },
-      "summary": "Gold is showing negative signals. Slight decline of -0.6%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-01T10:28:20.780440",
+      "summary": "Gold is showing negative signals. Positive daily movement of 0.5%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-07-01T12:19:46.508520",
       "source": "rule-based"
     },
     "silver": {
       "metal": "silver",
       "recommendation": "SELL",
       "confidence": {
-        "buy": 10,
-        "sell": 65,
-        "hold": 25
+        "buy": 15,
+        "sell": 56,
+        "hold": 29
       },
-      "summary": "Silver is showing negative signals. Significant daily drop of -1.0%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-01T10:28:20.887179",
+      "summary": "Silver is showing negative signals. Positive daily movement of 0.4%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-07-01T12:19:46.622084",
       "source": "rule-based"
     },
     "platinum": {
@@ -77,8 +77,8 @@
         "sell": 56,
         "hold": 29
       },
-      "summary": "Platinum is showing negative signals. Positive daily movement of 0.0%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-01T10:28:20.983176",
+      "summary": "Platinum is showing negative signals. Positive daily movement of 0.7%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-07-01T12:19:46.705078",
       "source": "rule-based"
     }
   },
@@ -90,14 +90,14 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -13.8% in 4 weeks",
+        "Weak momentum: -12.9% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
-      "support": 121305.06,
+      "support": 122598.5,
       "resistance": 140736.5,
-      "current_price": 121305.06,
-      "ma_short": 131988.29,
-      "ma_long": 131988.29,
+      "current_price": 122598.5,
+      "ma_short": 132311.65,
+      "ma_long": 132311.65,
       "trend_score": -3.5
     },
     "silver": {
@@ -107,14 +107,14 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -27.4% in 4 weeks",
+        "Weak momentum: -26.4% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
-      "support": 176502.45,
+      "support": 179023.26,
       "resistance": 243170.57,
-      "current_price": 176502.45,
-      "ma_short": 209398.32,
-      "ma_long": 209398.32,
+      "current_price": 179023.26,
+      "ma_short": 210028.52,
+      "ma_long": 210028.52,
       "trend_score": -3.5
     },
     "platinum": {
@@ -124,18 +124,36 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -23.8% in 4 weeks",
+        "Weak momentum: -23.3% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
-      "support": 4728.24,
+      "support": 4762.98,
       "resistance": 6206.5,
-      "current_price": 4728.24,
-      "ma_short": 5451.04,
-      "ma_long": 5451.04,
+      "current_price": 4762.98,
+      "ma_short": 5459.73,
+      "ma_long": 5459.73,
       "trend_score": -3.5
     }
   },
   "news": [
+    {
+      "title": "Rupee hits near three-week low at 95.24 vs USD as Asian currencies drop on Fed, Iran war caution",
+      "description": "The Indian rupee hit a near three-week low on Wednesday, mirroring declines in Asian currencies. Investors grew cautious ahead of U.S. Federal Reserve Chair's remarks and uncertainty surrounding U.S.-Iran negotiations. Despite falling oil prices and measures to boost dollar inflows, analysts anticip",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-hits-near-three-week-low-at-95-24-vs-usd-as-asian-currencies-drop-on-fed-iran-war-caution/articleshow/132112360.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-07-01",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Renfra Energy submits papers with Sebi for IPO; eyes Rs 430-cr via fresh issue",
+      "description": "Renfra Energy India is gearing up to unveil its Initial Public Offering (IPO), targeting Rs 430 crore by issuing new shares. In addition, the company intends to execute an Offer-for-Sale involving more than 47 lakh shares. The funds will be allocated towards debenture redemption, boosting working ca",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/renfra-energy-submits-papers-with-sebi-for-ipo-eyes-rs-430-cr-via-fresh-issue/articleshow/132112326.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-07-01",
+      "image": "",
+      "category": "geopolitics"
+    },
     {
       "title": "European markets ride oil tailwinds, but can they challenge Wall Street\u2019s tech supremacy?",
       "description": "European equities are rallying as lower crude prices following the Iran ceasefire improve the region\u2019s near-term outlook, easing inflation and boosting corporate margins. While the STOXX 600 has hit record highs, investors remain unconvinced that the gains will trigger a lasting shift away from Wall",
@@ -155,75 +173,111 @@
       "category": "central_bank"
     },
     {
-      "title": "Global Market: European shares pause after rally, doubts linger over Iran peace deal",
-      "description": "European stocks faced a minor setback on Wednesday, taking a brief respite following a strong performance in the second quarter. The investor sentiment is cautious due to the halted peace dialogues between the United States and Iran. Looking ahead, key speeches from central banking officials could h",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-pause-after-rally-doubts-linger-over-iran-peace-deal/articleshow/132110177.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-07-01",
-      "image": "",
-      "category": "central_bank"
+      "title": "Madhya Pradesh siblings unearth Rs 30 lakh diamond in Panna district",
+      "description": "Siblings Rakesh and Raju have struck gold again, unearthing an 11.19-carat diamond in Madhya Pradesh's Panna district. This marks their second significant find in two years, following a 19.22-carat gem discovered in the same leased mine. The latest uncut diam\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/madhya-pradesh-siblings-unearth-rs-30-lakh-diamond-in-panna-district/articleshow/132092561.cms",
+      "source": "The Times of India",
+      "date": "2026-06-30",
+      "image": "https://img.etimg.com/thumb/msid-132092761,width-1200,height-630,imgsize-685419,overlay-economictimes/articleshow.jpg",
+      "category": "metals"
     },
     {
-      "title": "Explained: Why Tata Elxsi shares crashed 7% after KPI Tech\u2019s Q1 revenue, profit guidance warning",
-      "description": "Tata Elxsi shares fell sharply on Wednesday after rival KPIT Technologies warned of weaker-than-expected Q1FY27 revenue and margins due to a sudden slowdown in orders from European automakers. The update raised concerns over demand across the automotive engineering and software services space, weigh",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-tata-elxsi-shares-crashed-7-after-kpi-techs-q1-revenue-profit-guidance-warning/articleshow/132110103.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-07-01",
-      "image": "",
+      "title": "Nasuni Recognized for Industry-Leading Customer Satisfaction and Support for Enterprises Across the Globe",
+      "description": "Sixth Consecutive NorthFace ScoreBoard Award and 15 Top Rankings in G2's Summer 2026 Reports Highlight Nasuni as a Gold Standard for Customer Success BOSTON, June 30, 2026 /PRNewswire/ -- Nasuni, a leading unstructured data platform for enterprise teams and A\u2026",
+      "url": "https://www.prnewswire.com/news-releases/nasuni-recognized-for-industry-leading-customer-satisfaction-and-support-for-enterprises-across-the-globe-302808504.html",
+      "source": "PRNewswire",
+      "date": "2026-06-30",
+      "image": "https://mma.prnewswire.com/media/1841258/Nasuni_Logo.jpg?p=facebook",
       "category": "geopolitics"
     },
     {
-      "title": "What are multi-asset allocation funds? Comparing the top 5 funds by portfolio allocation",
-      "description": "Multi-asset allocation funds provide diversification by investing across at least three asset classes, helping reduce dependence on any single investment. However, each fund follows a different portfolio allocation strategy, resulting in varying levels of ris\u2026",
-      "url": "https://www.livemint.com/money/personal-finance/what-are-multi-asset-allocation-funds-comparing-the-top-5-funds-by-portfolio-allocation-11782804378981.html",
-      "source": "Livemint",
+      "title": "Here are Tuesday\u2019s Best Wall Street Analyst Research Calls: Block, Comcast, Fortinet, Goldman Sachs, Honeywell, Klarna, Logitech, Scorpio Tankers, Trade Desk, and More",
+      "description": "Pre-Market Stock Futures: Futures are trading higher after a big start to the holiday-shortened trading week, which saw every index trade higher, after the s...",
+      "url": "https://247wallst.com/investing/2026/06/30/here-are-tuesdays-best-wall-street-analyst-research-calls-block-comcast-fortinet-goldman-sachs-honeywell-klarna-logitech-scorpio-tankers-trade-desk-and-more/",
+      "source": "24/7 Wall St.",
       "date": "2026-06-30",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/30/1600x900/logo/multi_asset_1782809886389_1782809916034_ef010f7c-f459-4942-a4ee-66299f7c85f5.png",
-      "category": "market"
+      "image": "https://s.yimg.com/lo/mysterio/api/399C59186D7AB4038EC6FC7CDB15BE10174D141B19803ACA68D213A91556DC09/subgraphmysterio/resizefill_w1200_h674;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fd9354195537523116c9cdb6f4da6f109",
+      "category": "metals"
     },
     {
-      "title": "Is Rs 2 crore enough for retirement? See the monthly income you can generate and how long your corpus may last",
-      "description": "Retiring with Rs 2 crore? Experts advise a prudent 3.5-4% withdrawal rate, yielding around Rs 60,000-Rs 70,000 monthly. This sustainable income hinges on lifestyle, inflation, and investment strategy, with a balanced portfolio of equities and bonds crucial.  \u2026",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/retirement-planning-calculator-is-rs-2-crore-enough-for-retirement-see-the-monthly-income-you-can-generate-and-how-long-your-corpus-may-last/articleshow/132088805.cms",
+      "title": "Daily Geopolitical Review - 30/06/2026",
+      "description": "Edited by iEpikaira*\r\n\n Executive Summary\r\n\n Today's strategic landscape is characterized by a complex interplay of systemic competition, localized de-escalation efforts, and persistent regional tensions, all set against a backdrop of evolving technological a\u2026",
+      "url": "https://i-epikaira.blogspot.com/2026/06/daily-geopolitical-review-30062026.html",
+      "source": "Blogspot.com",
+      "date": "2026-06-30",
+      "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_vPRbqQJDEmPeoGju0MwAxKYx715Lbomj2fI7lhLjs7gGo72qDTAL0_Z3kVPNkekuzMi49CTO8vIggXiuySdJimIBjI_0h4l5ifc29QO1wl654xHcxgegmWYYu0kS5b-4BWp0myj-qRq83SQYfP4BU3VPZx",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Emirates Refurbished Lounge Concept Rolled Out Globally",
+      "description": "Emirates has today announced its updated lounge concept, which is rolling out globally and is already in use in both Munich and Frankfurt, with Manchester, Mauritius, and Istanbul to follow shortly. To bring up each of these lounges to the current in-flight a\u2026",
+      "url": "https://loyaltylobby.com/2026/06/30/emirates-refurbished-lounge-concept-rolled-out-globally/",
+      "source": "Loyaltylobby.com",
+      "date": "2026-06-30",
+      "image": "https://loyaltylobby.com/wp-content/uploads/2026/06/emirates_munich-lounge_reception-desk-horizontal_0081-f-rgb-copy.png",
+      "category": "central_bank"
+    },
+    {
+      "title": "Pension savings can help fund infrastructure, support Viksit Bharat: CEA",
+      "description": "India's burgeoning pension savings hold immense potential to fund infrastructure and propel the 'Viksit Bharat' vision, while ensuring stable returns for subscribers, according to Chief Economic Adviser V. Anantha Nageswaran. He emphasized that pension funds'\u2026",
+      "url": "https://economictimes.indiatimes.com/news/economy/finance/maximizing-pension-savings-key-to-infrastructure-and-viksit-bharats-success/articleshow/132091825.cms",
       "source": "The Times of India",
       "date": "2026-06-30",
-      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1189025,resizemode-75,msid-132088805/wealth/invest/retirement-planning-calculator-is-rs-2-crore-enough-for-retirement-see-the-monthly-income-you-can-generate-and-how-long-your-corpus-may-last.jpg",
-      "category": "inflation"
+      "image": "https://img.etimg.com/thumb/msid-132092152,width-1200,height-630,imgsize-47992,overlay-economictimes/articleshow.jpg",
+      "category": "geopolitics"
     },
     {
-      "title": "America's favorite investment is not what you think",
-      "description": "Every year, Gallup asks Americans to name the \"best\" long-term investment. They never pick stocks.",
-      "url": "https://www.usatoday.com/story/money/personalfinance/2026/06/30/best-investment-stocks-real-estate-gold-savings/90740640007/",
-      "source": "USA Today",
+      "title": "Almadex Intersects Copper Mineralisation, Expands IP Anomaly at New Hope And Provides Exploration Update",
+      "description": "VANCOUVER, British Columbia, June 30, 2026 (GLOBE NEWSWIRE) \u2014 Almadex Minerals Ltd. (\u201cAlmadex\u201d or the \u201cCompany\u201d) (TSX-V: \u201cDEX\u201d) is pleased to announce that it has received and interpreted results from the second hole of its two hole, first pass drill program \u2026",
+      "url": "https://financialpost.com/globe-newswire/almadex-intersects-copper-mineralisation-expands-ip-anomaly-at-new-hope-and-provides-exploration-update",
+      "source": "Financial Post",
       "date": "2026-06-30",
-      "image": "https://s.yimg.com/lo/mysterio/api/0E8A733C7D8C6945F7F8BB159783C483379A816B7FAA56F4101ACC5F6227FB04/subgraphmysterio/resizefill_w1200_h900;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_money_325%2F8b220324336c15a660c4fc7927e21901",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/select-representative-core-photos-from-hole-nh-26-002.jpeg",
       "category": "market"
     },
     {
-      "title": "Australian shares slip on inflation concerns, miners top drags",
-      "description": "The benchmark S&P/ASX 200 index closed 0.5% lower at 8,778.70 on the final \u200btrading day of the current financial year. The index rose 3.5% for the quarter, \u200bits best since September 2025, driven by index heavyweight miners and banks",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/australian-shares-slip-on-inflation-concerns-miners-top-drags/articleshow/132088823.cms",
-      "source": "The Times of India",
+      "title": "I Spent a Week in a Hacker House",
+      "description": "Staring down the AI abyss in a battered Victorian row house",
+      "url": "https://www.theatlantic.com/technology/2026/06/hacker-houses-ai-boom-san-francisco/687737/",
+      "source": "The Atlantic",
       "date": "2026-06-30",
-      "image": "https://img.etimg.com/thumb/msid-132088823,width-1200,height-630,imgsize-154922,overlay-etmarkets/articleshow.jpg",
-      "category": "inflation"
-    },
-    {
-      "title": "Vanadi Coffee buys additional 10 Bitcoin, increasing total to 223 BTC",
-      "description": "Vanadi Coffee's Bitcoin strategy highlights the growing trend of non-tech firms adopting crypto, but it risks financial instability if BTC prices fall.\nThe post Vanadi Coffee buys additional 10 Bitcoin, increasing total to 223 BTC appeared first on Crypto Bri\u2026",
-      "url": "https://cryptobriefing.com/vanadi-coffee-buys-bitcoin-223-btc/",
-      "source": "Crypto Briefing",
-      "date": "2026-06-30",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/30034205/vanadi-treasury-800x420.jpeg",
+      "image": "https://cdn.theatlantic.com/thumbor/ifmlSC1b9x3AxdP20E8JjRcdVao=/0x220:1498x1000/1200x625/media/img/mt/2026/06/hacker_house_85-1/original.jpg",
       "category": "market"
     },
     {
-      "title": "Etihad Rail Dubai Station: Inside the Jumeirah Golf Estates Property Story",
-      "description": "Etihad Rail Dubai Station: What the Train Actually Buys Today, Etihad Rail begins carrying passengers for the first time, on a network that has operated freight services since 2016, beginning with the Shah-Habshan-Ruwais route. The introductory route runs Abu\u2026",
-      "url": "https://www.dubaichronicle.com/2026/06/30/etihad-rail-dubai-station-jumeirah-golf-estates/",
-      "source": "Dubaichronicle.com",
+      "title": "TomaGold Continues to Expand Berrigan Mine at Depth with a New Major 204.25 m Intersection in the Berrigan Deep Zone",
+      "description": "Highlights Major intersection of 204.25 m grading 2.05% ZnEq (0.48 g/t AuEq) (from 553.90 m to 758.15 m) in extension hole TOM-25-011EXT, underscoring the scale of the mineralized system within the Berrigan Deep Zone, including: 31.31% ZnEq (7.38 g/t AuEq) ov\u2026",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/tomagold-continues-to-expand-berrigan-mine-at-depth-with-a-new-major-204-25-m-intersection-in-the-berrigan-deep-zone",
+      "source": "Financial Post",
       "date": "2026-06-30",
-      "image": "https://www.dubaichronicle.com/wp-content/uploads/2026/06/Etihad-Rail-Trains-scaled.jpg",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/bw20260630118518_lot_figure1_en.jpeg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Brixton Metals Drills 14.75m of 1.25% Copper, 1.71 g/t Gold, 149.0 g/t Silver at the Near Surface Glenfiddich Zone, Camp Creek Corridor",
+      "description": "Including 1.50m of 8.33% Copper, 11.30 g/t Gold, 971.0 g/t Silver from 90.00m Depth VANCOUVER, British Columbia, June 30, 2026 (GLOBE NEWSWIRE) \u2014 Brixton Metals Corporation (TSX-V: BBB, OTCQX: BBBXF) (the \u201cCompany\u201d or \u201cBrixton\u201d) is pleased to announce initial\u2026",
+      "url": "https://financialpost.com/globe-newswire/brixton-metals-drills-14-75m-of-1-25-copper-1-71-g-t-gold-149-0-g-t-silver-at-the-near-surface-glenfiddich-zone-camp-creek-corridor",
+      "source": "Financial Post",
+      "date": "2026-06-30",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/figure-1-31.png",
+      "category": "metals"
+    },
+    {
+      "title": "Blossom Gold Reports Initial, Open Pit Expansion and Infill Drill Results from the Rosebud Open-Pit, Heap-Leach Project",
+      "description": "TORONTO, June 30, 2026 (GLOBE NEWSWIRE) -- Blossom Gold Inc. (formerly, 1290448 B.C. Ltd.) (\u201cBlossom\u201d or the \u201cCompany\u201d) (TSX: BGAU) is pleased to announce initial drill results from its 2026 exploration drilling program at the Rosebud Project, located in Pers\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/06/30/3319513/0/en/Blossom-Gold-Reports-Initial-Open-Pit-Expansion-and-Infill-Drill-Results-from-the-Rosebud-Open-Pit-Heap-Leach-Project.html",
+      "source": "GlobeNewswire",
+      "date": "2026-06-30",
+      "image": "https://ml.globenewswire.com/Resource/Download/af349c8a-9a22-4a38-8b20-f6df72ac5c44",
+      "category": "metals"
+    },
+    {
+      "title": "Azimut Provides 2026 Summer Exploration Update",
+      "description": "LONGUEUIL, Quebec, June 30, 2026 (GLOBE NEWSWIRE) -- Azimut Exploration Inc.\u00a0(\u201cAzimut\u201d or the \u201cCompany\u201d) (TSXV: AZM) (OTCQX: AZMTF) is pleased to provide an update on the Company\u2019s comprehensive programs currently underway on four (4) key projects in the Eeyo\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/06/30/3319493/0/en/Azimut-Provides-2026-Summer-Exploration-Update.html",
+      "source": "GlobeNewswire",
+      "date": "2026-06-30",
+      "image": "https://ml.globenewswire.com/Resource/Download/7eb6779b-94a6-4f0a-8a3c-5801e50c428a",
       "category": "market"
     },
     {
@@ -254,157 +308,103 @@
       "category": "central_bank"
     },
     {
-      "title": "Gold price tumbles Rs 1,800/10 grams, silver slips below Rs 2.21 lakh/kg. What's next?",
-      "description": "Gold and silver prices tumbled over 1% on Tuesday, driven by Middle East tensions and anticipated US Federal Reserve rate hikes to combat inflation.  International spot gold saw its biggest monthly drop since 2008. Investors are closely watching upcoming US e\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-price-tumbles-rs-1800/10-grams-silver-slips-below-rs-2-21-lakh/kg-whats-next/articleshow/132083784.cms",
-      "source": "The Times of India",
+      "title": "Traders struggle to predict Trump\u2019s tariff policy shifts as legal battles reshape market landscape",
+      "description": "Market volatility persists as traders face uncertainty from unpredictable tariff policies, impacting global liquidity and investment strategies.\nThe post Traders struggle to predict Trump\u2019s tariff policy shifts as legal battles reshape market landscape appear\u2026",
+      "url": "https://cryptobriefing.com/traders-struggle-predict-trump-tariff-policy/",
+      "source": "Crypto Briefing",
       "date": "2026-06-30",
-      "image": "https://img.etimg.com/thumb/msid-132083764,width-1200,height-630,imgsize-88148,overlay-etmarkets/articleshow.jpg",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/30081922/uncertainty-is-here-to-stay-as-trump-s-tariffs-reshape-trade-800x420.jpeg",
       "category": "geopolitics"
     },
     {
-      "title": "Economic Digest: A Snapshot of Nepal\u2019s Business News",
-      "description": "KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. Nepal\u2019s latest developments reflect a mixed economic and policy landscape, where fiscal discipline, agr\u2026",
-      "url": "https://english.khabarhub.com/2026/30/556215/",
-      "source": "Khabarhub.com",
+      "title": "Boralex announces \u20ac1.45 billion single platform-level financing in France to support its portfolio of operating assets and development projects",
+      "description": "In collaboration with co-shareholder Energy Infrastructure Partners, financing is the largest ever completed by Boralex In collaboration with co-shareholder Energy Infrastructure Partners, financing is the largest ever completed by Boralex",
+      "url": "https://www.globenewswire.com/news-release/2026/06/30/3319655/0/en/Boralex-announces-1-45-billion-single-platform-level-financing-in-France-to-support-its-portfolio-of-operating-assets-and-development-projects.html",
+      "source": "GlobeNewswire",
       "date": "2026-06-30",
-      "image": "https://english.khabarhub.com/wp-content/uploads/2024/05/Economic-Digest.jpg",
+      "image": "https://ml.globenewswire.com/Resource/Download/bca4d4bc-d0eb-4927-b313-645094ff8821",
       "category": "market"
     },
     {
-      "title": "Silvercorp Provides Updates on China Operations",
-      "description": "Trading Symbol: TSX/NYSE American: SVM VANCOUVER, BC, June 29, 2026 /PRNewswire/ - Silvercorp Metals Inc. (\"Silvercorp\" or the \"Company\") (TSX: SVM) (NYSE American: SVM) announces that further to new nationwide safety measures imposed across the Chinese minin\u2026",
-      "url": "https://www.prnewswire.com/news-releases/silvercorp-provides-updates-on-china-operations-302813928.html",
-      "source": "PRNewswire",
-      "date": "2026-06-30",
-      "image": "https://mmx.prnewswire.com/media/MS953166/Silvercorp-Metals-Inc-Silvercorp-Provides-Updates-on-China-Oper.jpg?id=OA2744692&p=facebook",
-      "category": "metals"
-    },
-    {
-      "title": "Gold set for fourth monthly fall on bets of Fed rate hikes",
-      "description": "Gold prices tumbled over 1% on Tuesday, heading for a fourth consecutive monthly drop.  Shifting from Middle East concerns, the market now anticipates U.S. interest rate hikes to combat inflation.  This outlook, coupled with a strengthening dollar, is weighin\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-set-for-fourth-monthly-fall-on-bets-of-fed-rate-hikes/articleshow/132081943.cms",
+      "title": "India bonds up on oil slump, foreign inflows; 10-year yield posts biggest monthly fall in 7 years",
+      "description": "In June, Indian government bonds underwent a remarkable rally, showcasing the largest monthly yield drop for the benchmark 10-year bond in seven years. This upward trend was driven by plunging oil prices and a notable rise in foreign investments, especially v\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-up-on-oil-slump-foreign-inflows-10-year-yield-posts-biggest-monthly-fall-in-7-years/articleshow/132093124.cms",
       "source": "The Times of India",
       "date": "2026-06-30",
-      "image": "https://img.etimg.com/thumb/msid-132081947,width-1200,height-630,imgsize-22345,overlay-etmarkets/articleshow.jpg",
-      "category": "central_bank"
+      "image": "https://img.etimg.com/thumb/msid-132093124,width-1200,height-630,imgsize-121016,overlay-etmarkets/articleshow.jpg",
+      "category": "geopolitics"
     },
     {
-      "title": "Gold falls to $3,943, lowest since Nov \u201925; Yen crash triggers stop-losses",
-      "description": "The gold and silver market volatility highlights the fragility of investor sentiment amid currency fluctuations and potential policy shifts.\nThe post Gold falls to $3,943, lowest since Nov \u201925; Yen crash triggers stop-losses appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/gold-falls-to-3943-lowest-since-nov-25-yen-crash-triggers-stop-losses/",
-      "source": "Crypto Briefing",
-      "date": "2026-06-30",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/29213142/gold-bars-400oz-on-a-pallet-within-a-vault-19-1-800x420.jpeg",
-      "category": "currency"
-    },
-    {
-      "title": "Badminton World Tour Calendar Announced",
-      "description": "The Badminton World Federation (BWF) has announced its World Tour Calendar for 2027 and 2028, featuring a 35-tournament global circuit. The India Open Super 750 will see its dates shifted to February 2027 and January 2028, while the Syed Modi India Internatio\u2026",
-      "url": "https://www.rediff.com/sports/report/bwf-unveils-2027-2028-calendar-india-open-dates-shift-1/20260630.htm",
-      "source": "Rediff.com",
-      "date": "2026-06-30",
-      "image": "https://im.rediff.com/1200-630/sports/2026/jan/17india-open.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "Dell Technologies (DELL) Faces Valuation and Competition Concerns After Strong Rally",
-      "description": "Dell Technologies Inc. (NYSE:DELL) is one of the 14 AI Stocks Making Moves on Wall Street: Nvidia, Micron, and More. Even though near-term tailwinds exist fo...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-technologies-dell-faces-valuation-102608312.html",
+      "title": "\u26bd\ufe0f Y! Sports AM: A trio of thrillers",
+      "description": "The first full day of knockout-round action delivered the goods as Brazil won in stoppage time while Paraguay and Morocco both won in shootouts.",
+      "url": "https://sports.yahoo.com/articles/y-sports-am-trio-thrillers-121807520.html",
       "source": "Yahoo Entertainment",
       "date": "2026-06-30",
-      "image": "https://s.yimg.com/lo/mysterio/api/6B1CBACFECD05EAD559B02B2F7FE9EE52AE931AB4EBB34E1EEEF03FB4FE21FA0/subgraphmysterio/resizefill_w1200_h823;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Ff7d369c18d4663506ffd29a16e4be4f1",
+      "image": "https://s.yimg.com/ny/api/res/1.2/55OyiQZFBBhf9h0C85.peQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk7Y2Y9d2VicA--/https://media.zenfs.com/en/yahoo_sports_am_newsletters_819/28f134f8327141cdf0472a18dc530edb",
       "category": "market"
     },
     {
-      "title": "Eskom Unveils Modernisation Centre in Partnership with Huawei, Illuminating South Africa's Digital Power Future",
-      "description": "JOHANNESBURG, June 30, 2026 /PRNewswire/ -- Recently, the ribbon cutting ceremony for the Eskom & Huawei Modernisation Centre, jointly held by Eskom of South Africa and Huawei, was successfully launched. This partnership reflects a strong spirit of collaborat\u2026",
-      "url": "https://www.prnewswire.com/news-releases/eskom-unveils-modernisation-centre-in-partnership-with-huawei-illuminating-south-africas-digital-power-future-302814383.html",
+      "title": "State Street Tech ETF Faces Off With Roundhill Generative AI Fund",
+      "description": "State Street Technology Select Sector SPDR ETF (NYSEMKT:XLK) provides low-cost U.S. technology exposure, while Roundhill Generative AI & Technology ETF (NYSEMKT:CHAT) focuses on higher-cost, research-driven investments in the global generative artificial inte\u2026",
+      "url": "https://biztoc.com/x/0857563db5f45957",
+      "source": "Biztoc.com",
+      "date": "2026-06-30",
+      "image": "https://biztoc.com/cdn/0857563db5f45957_s.webp",
+      "category": "market"
+    },
+    {
+      "title": "New budget OnePlus phone launched with 8,000mAh battery, single usable rear camera",
+      "description": "After a series of leaks, OnePlus has officially launched the N6 in India at a starting price of roughly $240, packing an 8,000mAh battery, a Dimensity 6360 Apex chipset, and a single functional rear camera behind a dual-lens design.",
+      "url": "https://www.notebookcheck.net/New-budget-OnePlus-phone-launched-with-8-000mAh-battery-single-usable-rear-camera.1331781.0.html",
+      "source": "Notebookcheck.net",
+      "date": "2026-06-30",
+      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/OnePlus-N6.jpg",
+      "category": "market"
+    },
+    {
+      "title": "INDROTEK Appoints Matthew Casella as Chief Financial Officer",
+      "description": "VANCOUVER, British Columbia, June 30, 2026 (GLOBE NEWSWIRE) -- INDROTEK, an autonomous systems company operating across defense, critical infrastructure and commercial markets, today announced the appointment of Matthew Casella as Chief Financial Officer, eff\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/06/30/3319654/0/en/INDROTEK-Appoints-Matthew-Casella-as-Chief-Financial-Officer.html",
+      "source": "GlobeNewswire",
+      "date": "2026-06-30",
+      "image": "https://ml.globenewswire.com/Resource/Download/81643d0d-891a-4256-9ee2-f1820006ec8b",
+      "category": "market"
+    },
+    {
+      "title": "As Hormuz opens, oil markets are awash in supply",
+      "description": "The oil market is coming full circle as millions of barrels that were stranded in the Persian Gulf head to global markets, creating a sudden oversupply that has pushed prices to their lowest level since the US-Iran war began.\nMorgan Stanley analysts said in a\u2026",
+      "url": "https://biztoc.com/x/2e858317c7ea4abe",
+      "source": "Biztoc.com",
+      "date": "2026-06-30",
+      "image": "https://biztoc.com/cdn/2e858317c7ea4abe_s.webp",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Utah Legislators to Tour Anfield Energy\u2019s Velvet-Wood Critical Minerals Project",
+      "description": "DOGM-Hosted Delegation of ~20 Lawmakers to Visit Site August 12, 2026, to See How State and Federal Policy Initiatives Are Accelerating Responsible Domestic Uranium and Vanadium Production* VANCOUVER, British Columbia, June 30, 2026 (GLOBE NEWSWIRE) \u2014 Anfield\u2026",
+      "url": "https://financialpost.com/globe-newswire/utah-legislators-to-tour-anfield-energys-velvet-wood-critical-minerals-project",
+      "source": "Financial Post",
+      "date": "2026-06-30",
+      "image": null,
+      "category": "central_bank"
+    },
+    {
+      "title": "Gulf South Powers America's AI and Industrial Boom",
+      "description": "A CGCN Analytics study finds the five-state Gulf South region has captured $627.7 billion to $720.7 billion in disclosed industrial investment since January 2024, driven by industrial electricity prices 29 percent below the national average. WASHINGTON, June \u2026",
+      "url": "https://www.prnewswire.com/news-releases/gulf-south-powers-americas-ai-and-industrial-boom-302814482.html",
       "source": "PRNewswire",
       "date": "2026-06-30",
-      "image": "https://mmx.prnewswire.com/media/MS1874585/bb55c898d4754ab7b2b3193b4f033a50.jpg?id=OA2745157&p=facebook",
+      "image": "https://mma.prnewswire.com/media/2769431/GSBR_Lock_up_Color_Logo.jpg?p=facebook",
       "category": "market"
     },
     {
-      "title": "ESMA MiCA warning puts Binance EU service changes under scrutiny",
-      "description": "ESMA said EU crypto clients must be served through a MiCA-authorized entity as Binance faces questions over its servicing model in the region after the MiCA deadline.",
-      "url": "https://cointelegraph.com/news/esma-challenge-binance-serving-certain-eu-users-post-mica",
-      "source": "Cointelegraph",
+      "title": "Are There Really Iran-US Peace Talks?",
+      "description": "No week goes by in Washington without another display of Trumpism, i.e., the expressed desire by the president to turn our constitutional republic into an expression of Trump-world that honors and glorifies, as he put it recently, \u201cme.\u201d Trumpean conceit \u2026\nThe\u2026",
+      "url": "https://www.globalresearch.ca/are-there-really-iran-us-peace-talks/5931891",
+      "source": "Globalresearch.ca",
       "date": "2026-06-30",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-one-month-left-to-crypto-tax-season-5-critical-mistakes-to-avoid-1.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Finance Ministry clears \u20b91.25-lakh crore for India Semiconductor Mission 2.0",
-      "description": "The Ministry of Finance (MoF) has cleared a budget proposal of around \u20b91.25 lakh crore for India Semiconductor Mission 2.0 (ISM 2.0) as the country expands its chip-making facilities, inviting more global companies to cement its position as a semiconductor de\u2026",
-      "url": "https://www.thehindubusinessline.com/news/finance-ministry-clears-125-lakh-crore-for-india-semiconductor-mission-20/article71165244.ece",
-      "source": "BusinessLine",
-      "date": "2026-06-30",
-      "image": "https://bl-i.thgim.com/public/incoming/b7j6o9/article71165318.ece/alternates/LANDSCAPE_1200/IMG_BL12_Think_chip_2_1_NRF9Q946.jpg",
+      "image": "https://www.globalresearch.ca/wp-content/uploads/2026/06/us-iran-israel.jpg",
       "category": "market"
-    },
-    {
-      "title": "Vishy Anand Won't Contest FIDE Deputy President Post",
-      "description": "Viswanathan Anand will not seek re-election for a third term as Deputy President of FIDE.",
-      "url": "https://www.rediff.com/sports/report/vishy-anand-wont-contest-fide-deputy-president-post/20260630.htm",
-      "source": "Rediff.com",
-      "date": "2026-06-30",
-      "image": "https://im.rediff.com/1200-630/sports/2026/jun/30vishy-anand1.jpg",
-      "category": "market"
-    },
-    {
-      "title": "South Korea plans to transform southwest into global chip hub with $518 billion investment",
-      "description": "South Korea's investment could shift global semiconductor dynamics, enhancing regional development and intensifying the AI chip competition.\nThe post South Korea plans to transform southwest into global chip hub with $518 billion investment appeared first on \u2026",
-      "url": "https://cryptobriefing.com/south-korea-chip-hub-southwest-investment/",
-      "source": "Crypto Briefing",
-      "date": "2026-06-30",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/30062457/south-korea-unveils-518-billion-plan-for-new-southwestern-se-800x420.jpeg",
-      "category": "market"
-    },
-    {
-      "title": "Rupee ekes out first quarterly gain in five on oil drop, policy salvo",
-      "description": "The Indian rupee achieved its first quarterly gain since March 2025, buoyed by falling oil prices and policy efforts to attract dollar inflows. Despite a slight dip on Tuesday, the currency showed resilience, recovering from record lows. Analysts anticipate a\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-ekes-out-first-quarterly-gain-in-five-on-oil-drop-policy-salvo/articleshow/132091062.cms",
-      "source": "The Times of India",
-      "date": "2026-06-30",
-      "image": "https://img.etimg.com/thumb/msid-132091062,width-1200,height-630,imgsize-242146,overlay-etmarkets/articleshow.jpg",
-      "category": "currency"
-    },
-    {
-      "title": "US Supreme Court hands Trump 3-1 defeat in key rulings: What we know",
-      "description": "The justices deliver consequential rulings on mail-in ballots, the E Jean Carroll case and the firing of Lisa Cook.",
-      "url": "https://www.aljazeera.com/news/2026/6/30/us-supreme-court-hands-trump-3-1-defeat-in-key-rulings-what-we-know",
-      "source": "Al Jazeera English",
-      "date": "2026-06-30",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a43807e5d2a-1782808702.jpg?resize=1920%2C1440",
-      "category": "market"
-    },
-    {
-      "title": "GCC debt markets have rallied since the ceasefire, but tight liquidity remains a key hurdle",
-      "description": "The easing of geopolitical tensions has\u00a0fueled\u00a0a surge in GCC bond and sukuk issuance. But\u00a0with the Federal Reserve expected to keep rates on hold,\u00a0tight dollar liquidity\u00a0remains\u00a0a stubborn headwind\u00a0to\u00a0future recovery.",
-      "url": "https://fortune.com/2026/06/30/gcc-debt-markets-rallied-ceasefire-tight-liquidity-remains-key-hurdle/",
-      "source": "Fortune",
-      "date": "2026-06-30",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-1252103050_ee5c54-e1782746813340.jpg?resize=1200,600",
-      "category": "geopolitics"
-    },
-    {
-      "title": "'The town was gutted': Free trade has been a win for Canada, but in some communities the scars still run deep",
-      "description": "U.S. demands for concessions on CUSMA are stirring up painful memories in communities like Wallaceburg, Ont., where some wonder if the price Canada already paid for free trade is being exacted anew",
-      "url": "https://financialpost.com/feature/cusma-could-raise-free-trade-cost-for-canada",
-      "source": "Financial Post",
-      "date": "2026-06-30",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/libbey-plant-gs0629-1.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Opinion: Let\u2019s not build a duplicate national wildfire system",
-      "description": "A recent Senate report recommends a federal co-ordinating agency. But Canada already has a successful agency and doesn't need duplication",
-      "url": "https://financialpost.com/opinion/opinion-build-duplicate-national-wildfire-system",
-      "source": "Financial Post",
-      "date": "2026-06-30",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/0630-bc-wildfire-.jpg",
-      "category": "central_bank"
     }
   ],
   "history": [
@@ -441,15 +441,15 @@
     {
       "date": "2026-07-01",
       "week": "2026-W27",
-      "gold_10g": 121305.06,
-      "silver_kg": 176502.45,
-      "platinum_g": 4728.24,
-      "gold_usd_oz": 3984.45,
-      "silver_usd_oz": 57.98,
-      "platinum_usd_oz": 1553.07
+      "gold_10g": 122598.5,
+      "silver_kg": 179023.26,
+      "platinum_g": 4762.98,
+      "gold_usd_oz": 4026.94,
+      "silver_usd_oz": 58.8,
+      "platinum_usd_oz": 1564.47
     }
   ],
-  "timestamp": "2026-07-01T15:58:20.995127+05:30",
+  "timestamp": "2026-07-01T17:49:46.718394+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
