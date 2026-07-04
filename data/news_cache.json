@@ -1,22 +1,85 @@
 {
   "news": [
     {
-      "title": "On Bond Street, falling yields spur a Rs 17,000-crore fundraise",
-      "description": "Indian institutions secured over \u20b917,000 crore via bond sales as falling benchmark yields made borrowing cheaper.  Nabard notably raised \u20b98,000 crore at a competitive 7.16% for three-year debt.  This surge in issuances is attributed to favorable market sentiment, central bank measures, and expectati",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/on-bond-street-falling-yields-spur-a-rs-17000-crore-fundraise/articleshow/132174815.cms",
+      "title": "Bitcoin trades near $62,000; inflation, geopolitical risks remain key market drivers",
+      "description": "Bitcoin rebounded near $62,000 after recovering from last week's lows, supported by optimism over Federal Reserve policy. Ethereum and major altcoins also gained, though investors remain cautious amid inflation, geopolitical tensions, energy prices and mixed ETF investment flows.",
+      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-trades-near-62000-inflation-geopolitical-risks-remain-key-market-drivers/articleshow/132177558.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-07-04",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Gold\u2019s sharp correction: What lies ahead for prices?",
+      "description": "Gold has corrected sharply from record highs as a stronger US dollar, elevated bond yields and expectations of prolonged higher interest rates weighed on prices. Experts view the decline as a technical correction, recommending staggered buying and long-term holding amid supportive structural demand.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/golds-sharp-correction-what-lies-ahead-for-prices/articleshow/132177503.cms",
       "source": "Economic Times Markets",
       "date": "2026-07-04",
       "image": "",
       "category": "central_bank"
     },
     {
-      "title": "Rupee ends losing run on whiff of FPI flows into stocks",
-      "description": "The Indian rupee strengthened on Friday, ending its four-day decline to close at 94.21 against the dollar. This recovery was fueled by modest foreign investment in local stocks and a weaker global dollar, influenced by a tepid US jobs report. While sentiment improved, traders remain watchful of geop",
-      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-ends-losing-run-on-whiff-of-fpi-flows-into-stocks/articleshow/132174791.cms",
+      "title": "Why the capital cycle approach is a powerful framework for long-term investing",
+      "description": "Edward Chancellor advocates the capital cycle approach, urging investors to focus on industry supply, capital allocation and management quality instead of demand forecasts. He argues disciplined capacity, rational competition and long-term thinking can uncover overlooked opportunities and deliver su",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-the-capital-cycle-approach-is-a-powerful-framework-for-long-term-investing/articleshow/132176751.cms",
       "source": "Economic Times Markets",
       "date": "2026-07-04",
       "image": "",
       "category": "geopolitics"
+    },
+    {
+      "title": "Why the next Bitcoin cycle will be won by investors who understand liquidity",
+      "description": "Bitcoin's next rally is likely to be driven by liquidity, ETF inflows and monetary conditions rather than retail hype, according to Mudrex's Prateek Gupta. Institutional investors, Fed policy, global money supply and on-chain activity are emerging as the key indicators shaping future price movements",
+      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/why-the-next-bitcoin-cycle-will-be-won-by-investors-who-understand-liquidity/articleshow/132176686.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-07-04",
+      "image": "",
+      "category": "central_bank"
+    },
+    {
+      "title": "Explained: Why aluminium is emerging as manufacturers' preferred alternative to copper",
+      "description": "Record copper prices are accelerating manufacturers' shift toward aluminium, driven by lower costs and lighter weight. Automakers are expanding aluminium use as supply shortages, energy transition demand and geopolitical disruptions keep copper prices elevated and strengthen aluminium's long-term gr",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/explained-why-aluminium-is-emerging-as-manufacturers-preferred-alternative-to-copper/articleshow/132176242.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-07-04",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "India has got a $5 trillion sleeping giant: Can govt wake it up?",
+      "description": "India holds an estimated $5 trillion worth of gold in households and temples, yet continues to spend billions importing more every year. As pressure on the rupee and trade deficit mounts, the government is considering reviving the Gold Monetisation Scheme by \u2026",
+      "url": "https://economictimes.indiatimes.com/news/economy/finance/india-gold-monetisation-scheme-gold-price-gold-rate-idle-gold-india-has-got-a-5-trillion-sleeping-giant-can-govt-wake-it-up/articleshow/132156140.cms",
+      "source": "The Times of India",
+      "date": "2026-07-03",
+      "image": "https://img.etimg.com/thumb/msid-132156325,width-1200,height-630,imgsize-186866,overlay-economictimes/articleshow.jpg",
+      "category": "currency"
+    },
+    {
+      "title": "The Integrated Circuit and the Future of AI Leadership",
+      "description": "Editor\u2019s note: This is the first article in a limited series celebrating American defense technologies born from wartime and their effects on broader national security, politics, and society. This series will run for several weeks to commemorate America\u2019s 250\u2026",
+      "url": "https://warontherocks.com/cogs-of-war/the-integrated-circuit-and-the-future-of-ai-leadership/",
+      "source": "War on the Rocks",
+      "date": "2026-07-03",
+      "image": "https://warontherocks.com/wp-content/uploads/wotr-og-images/wotr-og-45497-ff84e18740c5.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Safe havens aren't behaving like they used to. Here's what's changed",
+      "description": "Traditional safe-haven assets \u2014 U.S. Treasurys, the Japanese yen and gold \u2014 have struggled to provide protection during this year\u2019s market volatility.",
+      "url": "https://www.cnbc.com/2026/07/03/safe-havens-arent-behaving-like-they-used-to-heres-whats-changed.html",
+      "source": "CNBC",
+      "date": "2026-07-03",
+      "image": "https://image.cnbcfm.com/api/v1/image/108274005-1772681402697-gettyimages-2261905175-POLAND_GOLD.jpeg?v=1774945638&w=1920&h=1080",
+      "category": "currency"
+    },
+    {
+      "title": "Hellas Gold: Skouries project nears production phase",
+      "description": "Hellas Gold hosted representatives of institutional, scientific, business and industrial bodies at its copper\u2013gold project in Skouries, Halkidiki. Visitors were briefed on the progress of the investment, which is now\u2026\nHellas Gold: Skouries project nears produ\u2026",
+      "url": "https://www.naftemporiki.gr/english/2132672/hellas-gold-skouries-project-nears-production-phase/",
+      "source": "Naftemporiki.gr",
+      "date": "2026-07-03",
+      "image": "https://www.naftemporiki.gr/wp-content/uploads/2026/07/DJI_20260701133422_0116_D.jpg",
+      "category": "central_bank"
     },
     {
       "title": "Fury, Joshua, Dubois & Itauma - UK's heavyweight boom",
@@ -46,40 +109,31 @@
       "category": "metals"
     },
     {
-      "title": "In 1998, South Korea urged people to save the country from bankruptcy. Millions lined up with gold wedding rings and baby bracelets, raising $2.1 billion in just four months",
-      "description": "In January 1998, millions of ordinary South Koreans voluntarily donated gold, including wedding rings and baby bracelets, to help their nation repay a massive IMF debt. This unprecedented public drive, inspired by historical acts of sacrifice, saw over 3.5 mi\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/in-1998-south-korea-urged-people-to-save-the-country-from-bankruptcy-millions-lined-up-with-gold-wedding-rings-and-baby-bracelets-raising-2-1-billion-in-just-four-months/articleshow/132152159.cms",
-      "source": "The Times of India",
+      "title": "Gold prices set for first weekly rise in a month as investors scale back Fed rate hike bets",
+      "description": "The metal was boosted as investors scaled back their bets on a looming rate hike.",
+      "url": "https://www.cnbc.com/2026/07/03/gold-silver-price-inflation-fed-rate-hike.html",
+      "source": "CNBC",
       "date": "2026-07-03",
-      "image": "https://img.etimg.com/thumb/msid-132153029,width-1200,height-630,imgsize-184432,overlay-economictimes/articleshow.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "Economic Digest: A Snapshot of Nepal\u2019s Business News",
-      "description": "KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. Nepal\u2019s economic and policy landscape shows a mix of market volatility, fiscal reform, and infrastructu\u2026",
-      "url": "https://english.khabarhub.com/2026/03/556650/",
-      "source": "Khabarhub.com",
-      "date": "2026-07-03",
-      "image": "https://english.khabarhub.com/wp-content/uploads/2024/05/Economic-Digest.jpg",
-      "category": "market"
-    },
-    {
-      "title": "AMMN\u00a0seen entering higher-earnings phase on downstream push",
-      "description": "PT Amman Mineral Internasional Tbk. (AMMN) is poised for stronger long-term earnings as downstream processing reshapes its business, with higher-value copper ...",
-      "url": "https://en.antaranews.com/news/421393/ammnseen-entering-higher-earnings-phase-on-downstream-push",
-      "source": "Antaranews.com",
-      "date": "2026-07-03",
-      "image": "https://cdn.antaranews.com/cache/1200x800/2026/07/03/1000898377.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Gold heads for first weekly rise in five on easing Fed rate hike bets",
-      "description": "Gold prices surged on Friday, marking its first weekly gain in five weeks. This uptick is attributed to softer-than-expected U.S. jobs data, which has led investors to scale back expectations of further Federal Reserve interest rate hikes.  The weaker payroll\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-heads-for-first-weekly-rise-in-five-on-easing-fed-rate-hike-bets/articleshow/132150648.cms",
-      "source": "The Times of India",
-      "date": "2026-07-03",
-      "image": "https://img.etimg.com/thumb/msid-132150660,width-1200,height-630,imgsize-149784,overlay-etmarkets/articleshow.jpg",
+      "image": "https://image.cnbcfm.com/api/v1/image/108272322-17724866482026-02-12t174915z_1354781381_rc2cajazgk8r_rtrmadp_0_ecuador-lundin-gold.jpeg?v=1772487883&w=1920&h=1080",
       "category": "central_bank"
+    },
+    {
+      "title": "Silver climbs 3% as rate hike expectations fade",
+      "description": "The prices of precious metals rose on Friday, with silver jumping by more than 3%, as investors pared back their expectations of an incoming rate hike at the United States Federal Reserve after the la...",
+      "url": "https://biztoc.com/x/9971c1177df1920a",
+      "source": "Biztoc.com",
+      "date": "2026-07-03",
+      "image": "https://biztoc.com/cdn/9971c1177df1920a_s.webp",
+      "category": "central_bank"
+    },
+    {
+      "title": "22k gold rate today: Check 24k, 22k, 20k, 18k gold prices (July 3, 2026) at IBJA, Malabar Gold & Diamonds, Tanishq, Joyalukkas and Kalyan Jewellers",
+      "description": "22k gold rate: Gold prices are under scrutiny as buyers track daily fluctuations. Today, July 3, 2026, shoppers planning to purchase gold jewellery should compare rates across leading jewellers like Tanishq, Malabar Gold & Diamonds, Kalyan Jewellers, and Joya\u2026",
+      "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-20k-18k-gold-prices-july-3-2026-at-ibja-malabar-gold-diamonds-tanishq-joyalukkas-and-kalyan-jewellers/articleshow/132154771.cms",
+      "source": "The Times of India",
+      "date": "2026-07-03",
+      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1677124,resizemode-75,msid-132154771/wealth/invest/22k-gold-rate-today-check-24k-22k-20k-18k-gold-prices-july-3-2026-at-ibja-malabar-gold-diamonds-tanishq-joyalukkas-and-kalyan-jewellers.jpg",
+      "category": "metals"
     },
     {
       "title": "Expert Warns: Copper Demand Surges, With Supply Deficit Expected",
@@ -89,6 +143,15 @@
       "date": "2026-07-03",
       "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/copper-demand-supply-deficit-artificial-intelligence-2466-original.jpg",
       "category": "geopolitics"
+    },
+    {
+      "title": "Gold heads for first weekly rise in five on easing Fed rate-hike bets",
+      "description": "Gold is set for its first weekly rise in five as US rate-hike expectations ease after disappointing payroll data.",
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-heads-for-first-weekly-rise-in-five-on-easing-fed-rate-hike-bets/article71177375.ece",
+      "source": "BusinessLine",
+      "date": "2026-07-03",
+      "image": "https://bl-i.thgim.com/public/incoming/ugv4wd/article71174277.ece/alternates/LANDSCAPE_1200/IMG_bl09_gold_promo_2_1_URG3B8VU.jpg",
+      "category": "central_bank"
     },
     {
       "title": "Vedanta Power, Iron & Steel and Oil & Gas shares crash up to 8%. What\u2019s triggering the selloff?",
@@ -109,77 +172,14 @@
       "category": "central_bank"
     },
     {
-      "title": "India issues notice to Telegram, Signal on concerns over usernames, source says",
-      "description": "India has issued notices to messaging apps Telegram and Signal, demanding explanations for safeguards on features allowing anonymous messaging. This move follows a similar directive to WhatsApp regarding its planned username feature. The government cites conc\u2026",
-      "url": "https://economictimes.indiatimes.com/news/economy/policy/india-issues-notice-to-telegram-signal-on-concerns-over-usernames-source-says/articleshow/132154311.cms",
-      "source": "The Times of India",
+      "title": "Economic Digest: A Snapshot of Nepal\u2019s Business News",
+      "description": "KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. Nepal\u2019s economic and policy landscape shows a mix of market volatility, fiscal reform, and infrastructu\u2026",
+      "url": "https://english.khabarhub.com/2026/03/556650/",
+      "source": "Khabarhub.com",
       "date": "2026-07-03",
-      "image": "https://img.etimg.com/thumb/msid-132154314,width-1200,height-630,imgsize-58450,overlay-economictimes/articleshow.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Peter Stokes extradited to US over $8M crypto ransom scheme tied to Scattered Spider",
-      "description": "Stokes' extradition highlights the growing international collaboration needed to combat sophisticated cybercrime networks targeting global industries.\nThe post Peter Stokes extradited to US over $8M crypto ransom scheme tied to Scattered Spider appeared first\u2026",
-      "url": "https://cryptobriefing.com/peter-stokes-extradited-scattered-spider-crypto-ransom/",
-      "source": "Crypto Briefing",
-      "date": "2026-07-03",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/03023140/peter-stokes-800x420.jpeg",
+      "image": "https://english.khabarhub.com/wp-content/uploads/2024/05/Economic-Digest.jpg",
       "category": "market"
-    },
-    {
-      "title": "South Korea braces for $29 billion currency tsunami from SK Hynix\u2019s massive ADR offering",
-      "description": "The massive ADR offering by SK Hynix could significantly impact South Korea's currency market, affecting crypto trading dynamics and investor behavior.\nThe post South Korea braces for $29 billion currency tsunami from SK Hynix\u2019s massive ADR offering appeared \u2026",
-      "url": "https://cryptobriefing.com/sk-hynix-adr-offering-currency-flows/",
-      "source": "Crypto Briefing",
-      "date": "2026-07-03",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/03023022/sk-hynix-2-800x420.jpeg",
-      "category": "currency"
-    },
-    {
-      "title": "Sharjah Architecture Triennial Announces Participants and Opening Dates for Third Edition",
-      "description": "The third edition of the Sharjah Architecture Triennial (SAT03) will take place from November 14, 2026, to April 14, 2027, under the title Architecture Otherwise: Building Civic Infrastructure for Collective Futures. Curated by anthropologist and curator Vyja\u2026",
-      "url": "https://www.archdaily.com/1043001/sharjah-architecture-triennial-announces-participants-and-opening-dates-for-third-edition",
-      "source": "ArchDaily",
-      "date": "2026-07-03",
-      "image": "https://images.adsttc.com/media/images/6a47/7d1c/de7f/3c01/8757/2a10/large_jpg/sharjah-architecture-triennial-announces-participants-and-opening-dates-for-third-edition_1.jpg?1783070027",
-      "category": "market"
-    },
-    {
-      "title": "Asian shares rally after Dow hits a record, as some AI shares bounce back",
-      "description": "Shares have rallied in Asia after the Dow Jones Industrial Average set another record, as some key AI related stocks rose while others extended losses",
-      "url": "https://abcnews.com/Business/wireStory/asian-shares-rally-after-dow-hits-record-ai-134433529",
-      "source": "Abcnews.com",
-      "date": "2026-07-03",
-      "image": "https://i.abcnewsfe.com/a/9fdfa838-14fd-4ccb-808e-b9cb000b17c3/wirestory_de7c9db96ce4d502079892d3ecef88cf_16x9.jpg?w=1600",
-      "category": "market"
-    },
-    {
-      "title": "Indonesians fight a German cement giant over a mine and factory project",
-      "description": "Indonesians are taking legal action against a major German cement producer under a new supply chain law",
-      "url": "https://abcnews.com/Business/wireStory/indonesians-fight-german-cement-giant-mine-factory-project-134433623",
-      "source": "Abcnews.com",
-      "date": "2026-07-03",
-      "image": "https://i.abcnewsfe.com/a/d1062d89-3efe-4431-9caa-620fc75cc7d8/wirestory_d9ddffc9b8740f166bbdffed0bcda9ba_16x9.jpg?w=1600",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Latin Mass, but faithful to the pope: A Minnesota church shows a different way during schism crisis",
-      "description": "Priests at the Church of Saint Agnes in St. Paul, Minnesota, celebrate a traditional Latin Rite Mass every Sunday, even though the practice has become a symbol of cultural and political battles among some Catholics",
-      "url": "https://abcnews.com/US/wireStory/latin-mass-faithful-pope-minnesota-church-shows-schism-134434080",
-      "source": "Abcnews.com",
-      "date": "2026-07-03",
-      "image": "https://i.abcnewsfe.com/a/811174f3-80c5-4e7f-9f64-d4a633ed5d10/wirestory_cdfcd6a9669dd0b7717e9a4a91841dc5_16x9.jpg?w=1600",
-      "category": "market"
-    },
-    {
-      "title": "India\u2019s services sector growth hits 17-month low in June on softer domestic demand: PMI",
-      "description": "India's services sector growth fell to a 17-month low in June as challenging market conditions and reduced client interest for some services reportedly stymied total sales and output, a monthly survey said on Friday.",
-      "url": "https://www.thehindubusinessline.com/economy/indias-services-sector-growth-hits-17-month-low-in-june-on-softer-domestic-demand-pmi/article71177585.ece",
-      "source": "BusinessLine",
-      "date": "2026-07-03",
-      "image": "https://bl-i.thgim.com/public/incoming/wplwew/article71177592.ece/alternates/LANDSCAPE_1200/2025-09-24T132553Z_1849923553_RC26YGARHEC0_RTRMADP_3_USA-TRUMP-VISAS-INDIA.JPG",
-      "category": "supply_demand"
     }
   ],
-  "timestamp": "2026-07-04T06:32:46.215864"
+  "timestamp": "2026-07-04T09:04:20.976074"
 }
