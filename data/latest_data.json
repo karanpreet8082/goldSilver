@@ -1,24 +1,24 @@
 {
   "prices": {
     "gold": {
-      "price_per_gram_inr": 12727.34,
-      "price_usd_oz": 4152.36,
-      "change_percent": -0.54,
-      "change_value_usd": -22.64,
-      "price_per_10g_inr": 127273.42
+      "price_per_gram_inr": 12704.25,
+      "price_usd_oz": 4144.83,
+      "change_percent": -0.72,
+      "change_value_usd": -30.18,
+      "price_per_10g_inr": 127042.47
     },
     "silver": {
-      "price_per_gram_inr": 190.19,
-      "price_usd_oz": 62.05,
-      "change_percent": -0.53,
-      "change_value_usd": -0.33,
-      "price_per_kg_inr": 190188.38
+      "price_per_gram_inr": 188.7,
+      "price_usd_oz": 61.56,
+      "change_percent": -1.31,
+      "change_value_usd": -0.82,
+      "price_per_kg_inr": 188698.75
     },
     "platinum": {
-      "price_per_gram_inr": 5039.87,
-      "price_usd_oz": 1644.29,
-      "change_percent": 0.11,
-      "change_value_usd": 1.79
+      "price_per_gram_inr": 4949.76,
+      "price_usd_oz": 1614.88,
+      "change_percent": -1.68,
+      "change_value_usd": -27.62
     },
     "currencies": {
       "USD_INR": 95.3348,
@@ -30,8 +30,8 @@
       "CAD_INR": 67.123,
       "SGD_INR": 73.8057
     },
-    "gold_silver_ratio": 66.92,
-    "timestamp": "2026-07-06T11:11:17.109255",
+    "gold_silver_ratio": 67.33,
+    "timestamp": "2026-07-06T13:03:08.733640",
     "source": "GoldAPI"
   },
   "currencies": {
@@ -53,8 +53,8 @@
         "sell": 65,
         "hold": 25
       },
-      "summary": "Gold is showing negative signals. Slight decline of -0.5%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-06T11:11:21.490380",
+      "summary": "Gold is showing negative signals. Slight decline of -0.7%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-07-06T13:03:12.757363",
       "source": "rule-based"
     },
     "silver": {
@@ -65,20 +65,20 @@
         "sell": 65,
         "hold": 25
       },
-      "summary": "Silver is showing negative signals. Slight decline of -0.5%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-06T11:11:21.563924",
+      "summary": "Silver is showing negative signals. Significant daily drop of -1.3%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-07-06T13:03:12.850029",
       "source": "rule-based"
     },
     "platinum": {
       "metal": "platinum",
       "recommendation": "SELL",
       "confidence": {
-        "buy": 15,
-        "sell": 56,
-        "hold": 29
+        "buy": 10,
+        "sell": 65,
+        "hold": 25
       },
-      "summary": "Platinum is showing negative signals. Positive daily movement of 0.1%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-06T11:11:21.627192",
+      "summary": "Platinum is showing negative signals. Significant daily drop of -1.7%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-07-06T13:03:12.935399",
       "source": "rule-based"
     }
   },
@@ -90,14 +90,14 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -4.0% in 4 weeks",
+        "Weak momentum: -4.2% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
-      "support": 127273.42,
+      "support": 127042.47,
       "resistance": 140736.5,
-      "current_price": 127273.42,
-      "ma_short": 130280.34,
-      "ma_long": 132371.58,
+      "current_price": 127042.47,
+      "ma_short": 130222.61,
+      "ma_long": 132325.39,
       "trend_score": -3.5
     },
     "silver": {
@@ -107,14 +107,14 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -8.4% in 4 weeks",
+        "Weak momentum: -9.1% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
-      "support": 190188.38,
+      "support": 188698.75,
       "resistance": 243170.57,
-      "current_price": 190188.38,
-      "ma_short": 199817.84,
-      "ma_long": 208488.38,
+      "current_price": 188698.75,
+      "ma_short": 199445.43,
+      "ma_long": 208190.46,
       "trend_score": -3.5
     },
     "platinum": {
@@ -124,35 +124,44 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -7.5% in 4 weeks",
+        "Weak momentum: -9.2% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
-      "support": 5033.18,
+      "support": 4949.76,
       "resistance": 6206.5,
-      "current_price": 5039.87,
-      "ma_short": 5235.62,
-      "ma_long": 5429.8,
+      "current_price": 4949.76,
+      "ma_short": 5213.09,
+      "ma_long": 5411.77,
       "trend_score": -3.5
     }
   },
   "news": [
     {
-      "title": "Rupee hits three-week low at 95.39 vs USD as firmer dollar, NDF maturities pinch",
-      "description": "The Indian rupee touched a three-week low against the dollar on Monday, influenced by a stronger greenback and demand for foreign currency. While falling oil prices and measures to boost dollar inflows offered some support, corporate arbitrage trades added to the pressure. Analysts at Goldman Sachs ",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-hits-three-week-low-at-95-39-vs-usd-as-firmer-dollar-ndf-maturities-pinch/articleshow/132214128.cms",
+      "title": "Reliance Industries gets Sebi warning over employee trades during UPSI period",
+      "description": "Sebi issued an administrative warning to Reliance Industries after finding two employees and a relative traded while possessing unpublished price-sensitive information. The regulator flagged compliance lapses, but imposed no financial or operational restrictions, with Reliance promising corrective m",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-gets-sebi-warning-over-employee-trades-during-upsi-period/articleshow/132216528.cms",
       "source": "Economic Times Markets",
       "date": "2026-07-06",
       "image": "",
-      "category": "central_bank"
+      "category": "geopolitics"
     },
     {
-      "title": "Global Market: Citi joins London's bullion clearing network in major precious metals expansion",
-      "description": "Citi has joined London's over-the-counter gold market clearing network, becoming the fifth bank to do so. This significant move expands the bullion trade's settlement infrastructure, which handles approximately $160 billion in daily transactions. Citi's entry, the first in a decade, signals progress",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/global-market-citi-joins-londons-bullion-clearing-network-in-major-precious-metals-expansion/articleshow/132214112.cms",
+      "title": "Indian bond yields slide on rain relief, continued foreign demand",
+      "description": "Indian government bond yields continued their downward trend on Monday, boosted by improving monsoon rains and consistent foreign investment. The benchmark 10-year yield closed below a significant technical level, signaling potential for further gains. Overseas investors have been actively buying In",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bond-yields-slide-on-rain-relief-continued-foreign-demand/articleshow/132216455.cms",
       "source": "Economic Times Markets",
       "date": "2026-07-06",
       "image": "",
-      "category": "platinum"
+      "category": "geopolitics"
+    },
+    {
+      "title": "Britain's FTSE indexes slip as miners offset financial gains",
+      "description": "London's FTSE 100 saw a slight dip as precious metal miners declined, countered by gains in financial stocks. EasyJet surged on a sweetened takeover bid, while ITV advanced after agreeing to sell its media division. Investors are also watching for potential boosts to the UK government bond market fr",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/britains-ftse-indexes-slip-as-miners-offset-financial-gains/articleshow/132215686.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-07-06",
+      "image": "",
+      "category": "geopolitics"
     },
     {
       "title": "This Data Center Is Everything That Everyone Hates About AI",
@@ -200,6 +209,15 @@
       "category": "market"
     },
     {
+      "title": "Sunday reading",
+      "description": "\"Must I argue that a system thus marked with blood, and stained with pollution, is wrong? No I will not. I have better employment for my time and strength.\"",
+      "url": "https://www.patheos.com/blogs/slacktivist/2026/07/05/sunday-reading-50/",
+      "source": "Patheos",
+      "date": "2026-07-05",
+      "image": "https://wp-media.patheos.com/blogs/sites/52/2018/04/FDF13.jpg",
+      "category": "market"
+    },
+    {
       "title": "Ram temple donation probe finds accused built houses, bought SUVs on modest salaries",
       "description": "Investigators uncover a significant financial discrepancy at the Ram Temple in Ayodhya, with accused individuals showing assets far exceeding their known incomes. Allegations point to daily siphoning of \u20b96-8 lakh from donations. Concerns were reportedly raise\u2026",
       "url": "https://economictimes.indiatimes.com/news/india/ram-temple-donation-probe-finds-accused-built-houses-bought-suvs-on-modest-salaries/articleshow/132192764.cms",
@@ -218,139 +236,148 @@
       "category": "market"
     },
     {
-      "title": "First look at new Oasis documentary about the Gallaghers\u2019 reunion tour",
-      "description": "Don\u2019t Look Back In Anger follows Noel and Liam Gallagher as they undertake their Live \u201925 tour, which kicked off a year ago in Cardiff",
-      "url": "https://www.the-independent.com/arts-entertainment/music/news/oasis-documentary-trailer-tour-b3009163.html",
-      "source": "The-independent.com",
+      "title": "This Lightroom Technique Turns a Flat Long Exposure Into a Warm, Airy Shot",
+      "description": "Stacking a polarizing filter with an ND filter on a wide angle lens creates serious vignetting issues, and that's exactly where this long exposure edit begins. Knowing how to work through that kind of technical constraint while still landing on a warm, airy, \u2026",
+      "url": "https://fstoppers.com/education/lightroom-technique-turns-flat-long-exposure-warm-airy-shot-903378",
+      "source": "Fstoppers",
       "date": "2026-07-05",
-      "image": "https://static.the-independent.com/2026/07/05/09/01KWQ80F44A6W7SPGFV7BC31RZ.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-      "category": "market"
-    },
-    {
-      "title": "Falling oil prices give RBI more room to focus on growth, but relief uneven across Asia: Standard Chartered",
-      "description": "Falling crude oil prices are providing a significant boost to India and other Asian nations, allowing central banks to prioritize economic growth. This \"disinflationary relief\" eases pressure on external accounts, especially for heavy energy importers like In\u2026",
-      "url": "https://economictimes.indiatimes.com/news/economy/policy/falling-oil-prices-give-rbi-more-room-to-focus-on-growth-but-relief-uneven-across-asia-standard-chartered/articleshow/132194415.cms",
-      "source": "The Times of India",
-      "date": "2026-07-05",
-      "image": "https://img.etimg.com/thumb/msid-132194435,width-1200,height-630,imgsize-195532,overlay-economictimes/articleshow.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "EV start-ups seek five changes in Auto PLI as Heavy Industries Minister Kumaraswamy reviews suggestions",
-      "description": "Having invested an estimated \u20b920,000\u201325,000 crore in India\u2019s EV ecosystem, startup founders are seeking five changes to the \u20b925,938-crore Auto PLI scheme, arguing the current framework rewards manufacturing scale but overlooks technology, R&D and indigenous i\u2026",
-      "url": "https://www.thehindubusinessline.com/news/national/ev-start-ups-seek-five-changes-in-auto-pli-as-heavy-industries-minister-kumaraswamy-reviews-suggestions/article71185454.ece",
-      "source": "BusinessLine",
-      "date": "2026-07-05",
-      "image": "https://bl-i.thgim.com/public/incoming/91vdf3/article71185437.ece/alternates/LANDSCAPE_1200/Meetng%20EV%20start%20ups.jpg",
+      "image": "https://cdn.fstoppers.com/styles/medium/s3/lead/2026/07/thumbnail_16.jpg?itok=ViWSoOCh",
       "category": "geopolitics"
     },
     {
-      "title": "Brazil vs Norway at the 2026 World Cup is also a crypto market event",
-      "description": "The integration of crypto in global sports events like the World Cup highlights its growing influence on fan engagement and market dynamics.\nThe post Brazil vs Norway at the 2026 World Cup is also a crypto market event appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/brazil-norway-world-cup-2026-crypto-fan-tokens/",
+      "title": "autokeren 0.3.7",
+      "description": "Cloudflare-first agentic coding CLI untuk developer Indonesia dan global",
+      "url": "https://pypi.org/project/autokeren/0.3.7/",
+      "source": "Pypi.org",
+      "date": "2026-07-05",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "Brave's $60 'Origin' Browser Charges More for Less. I'm Not Buying",
+      "description": "I tested Brave's new Origin browser, and it made me question what I'm actually paying for.\nBrave Origin is a $60 web browser that removes ads, crypto, and other features rather than adding anything new. It's a somewhat novel concept, and Brian Bondy, founder \u2026",
+      "url": "https://uk.pcmag.com/browsers/166017/braves-60-origin-browser-charges-more-for-less-im-not-buying",
+      "source": "PCMag.com",
+      "date": "2026-07-05",
+      "image": "https://sm.pcmag.com/t/pcmag_uk/opinion/b/braves-60-/braves-60-origin-browser-charges-more-for-less-im-not-buying_yftu.1200.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Something Weird Is Going on With the 66 Billion Trees China Planted in a Huge Wall",
+      "description": "We weren't seeing the planted forest for the billions of trees.\nThe post Something Weird Is Going on With the 66 Billion Trees China Planted in a Huge Wall appeared first on Futurism.",
+      "url": "https://futurism.com/science-energy/something-weird-china-tree-wall",
+      "source": "Futurism",
+      "date": "2026-07-05",
+      "image": "https://futurism.com/wp-content/uploads/2026/07/something-weird-china-tree-wall.jpg?quality=85&w=1200",
+      "category": "market"
+    },
+    {
+      "title": "Sunday Summary: The Deals Lit Up Like a Fireworks Display",
+      "description": "Yesterday was July 4 \u2014 the 250th anniversary of the signing of the Declaration of Independence and with it the creation of the greatest democracy on Earth. But, for a number of real estate companies, the fireworks arrived well in advance of the holiday. Last \u2026",
+      "url": "http://commercialobserver.com/2026/07/sunday-summary-the-deals-lit-up-like-a-fireworks-display/",
+      "source": "Commercial Observer",
+      "date": "2026-07-05",
+      "image": "https://commercialobserver.com/wp-content/uploads/sites/3/2026/06/Blue-Owl-delivering-data-centers-2-credit-ChatGPT-WEB.jpg?quality=80&crop=0px%2C168px%2C2000px%2C1051px&resize=1200%2C630&strip",
+      "category": "market"
+    },
+    {
+      "title": "Wordle No. 1842 Solution Revealed on July 5, 2026 with Helpful Hints for Players",
+      "description": "Wordle puzzle No. 1842, featuring the word 'SWAMI', offers players a culturally rich challenge, blending vocabulary skills with insights into Hindu spiritual traditions.",
+      "url": "https://www.ibtimes.com.au/wordle-puzzle-1842-swami-meaning-1871829",
+      "source": "Ibtimes.com.au",
+      "date": "2026-07-05",
+      "image": "https://d.ibtimes.com.au/en/full/1892208/wordle-puzzle.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Iconic $1.1 Billion Horror Franchise Bids Farewell To Netflix This Month",
+      "description": "An iconic horror franchise is cutting ties with Netflix after its initial release 22 years ago, and the $1.1 billion movie series needs a new home.",
+      "url": "https://screenrant.com/saw-franchise-horror-leaving-netflix/",
+      "source": "Screen Rant",
+      "date": "2026-07-05",
+      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/02/tobin-bell-as-the-jigsaw-killer.jpg?w=1600&h=900&fit=crop",
+      "category": "market"
+    },
+    {
+      "title": "Son who succeeded slain Iranian leader Khamenei absent from funeral as 3 other sons appear",
+      "description": "The son who succeeded Iran's slain leader was absent from the funeral for Ayatollah Ali Khamenei and four other family members on Sunday, while three other sons showed up and prayed beside the coffins.",
+      "url": "https://www.cbc.ca/news/world/khamenei-funeral-no-sighting-mojtaba-successor-9.7259060",
+      "source": "CBC News",
+      "date": "2026-07-05",
+      "image": "https://i.cbc.ca/ais/b2dbb146-94c1-4b2f-b7c3-729d4ea537d6,1783252370340/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C790%2C7592%2C4270%29%3BResize%3D620",
+      "category": "market"
+    },
+    {
+      "title": "Lawsuit Alleges University of California System Forced Students to Use \u2018Preferred Pronouns\u2019",
+      "description": "\"alleges University of California system policies violate the First Amendment by compelling speech and through viewpoint discrimination\"\nThe post Lawsuit Alleges University of California System Forced Students to Use \u2018Preferred Pronouns\u2019 first appeared on Le\u00b7\u2026",
+      "url": "https://legalinsurrection.com/2026/07/lawsuit-alleges-university-of-california-system-forced-students-to-use-preferred-pronouns/",
+      "source": "Legalinsurrection.com",
+      "date": "2026-07-05",
+      "image": "https://legalinsurrection.com/wp-content/uploads/2018/10/Legal-Studies.jpg",
+      "category": "market"
+    },
+    {
+      "title": "It\u2019s Time to Ask Who Should Be Held Accountable for the Damages of the \u2018Climate Crisis\u2019",
+      "description": "If accountability is the standard, then it should apply equally to every institution that shaped public understanding of climate change.\nThe post It\u2019s Time to Ask Who Should Be Held Accountable for the Damages of the \u2018Climate Crisis\u2019 appeared first on Watts U\u2026",
+      "url": "https://wattsupwiththat.com/2026/07/05/its-time-to-ask-who-should-be-held-accountable-for-the-damages-of-the-climate-crisis/",
+      "source": "Wattsupwiththat.com",
+      "date": "2026-07-05",
+      "image": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/07/climate-crisis-accountability.webp?fit=1024%2C512&quality=75&ssl=1",
+      "category": "market"
+    },
+    {
+      "title": "Emerging-market traders shift to euro and Australian dollar as US dollar strengthens",
+      "description": "The shift to euro and AUD highlights emerging markets' adaptive strategies amid USD strength, impacting global liquidity and risk asset dynamics.\nThe post Emerging-market traders shift to euro and Australian dollar as US dollar strengthens appeared first on C\u2026",
+      "url": "https://cryptobriefing.com/emerging-market-traders-euro-aud-dollar/",
       "source": "Crypto Briefing",
       "date": "2026-07-05",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/05070721/fifa-world-cup-2026-all-qualified-teams-800x420.jpeg",
-      "category": "market"
-    },
-    {
-      "title": "Adani Defence to invest Rs 2,500 crore in missile manufacturing complex in Madhya Pradesh",
-      "description": "Adani Defence & Aerospace has inaugurated South Asia's largest private missile ecosystem in Shivpuri, Madhya Pradesh. This Rs 2,500 crore facility will house the entire missile manufacturing value chain, from raw materials to finished systems, a first for Ind\u2026",
-      "url": "https://economictimes.indiatimes.com/news/defence/adani-to-invest-rs-2500-crore-in-missile-manufacturing-complex-in-madhya-pradesh/articleshow/132194310.cms",
-      "source": "The Times of India",
-      "date": "2026-07-05",
-      "image": "https://img.etimg.com/thumb/msid-132194336,width-1200,height-630,imgsize-37280,overlay-etdefence/articleshow.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Ankara ready for NATO summit amid large-scale buildup",
-      "description": "Ankara will serve as the crucible for global diplomacy on July 7\u20138, as T\u00fcrkiye hosts one of the most consequential NATO summits in history to unite all 32 member states under a renewed strategic vision.",
-      "url": "https://www.hurriyetdailynews.com/ankara-ready-for-nato-summit-amid-large-scale-buildup-224016",
-      "source": "Hurriyet Daily News",
-      "date": "2026-07-05",
-      "image": "https://image.hurimg.com/i/hurriyet/75/200x200/6a4a396f7c43e629aa253c1a.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "NAHCO appoints vice chairman, non-executive directors",
-      "description": "Nigerian Aviation Handling Company Plc (NAHCO) strengthens its board with new appointments, including a Vice Chairman and two Non-Executive Directors. Lear\n\nRead More: https://punchng.com/nahco-appoints-vice-chairman-non-executive-directors/",
-      "url": "https://punchng.com/nahco-appoints-vice-chairman-non-executive-directors/",
-      "source": "The Punch",
-      "date": "2026-07-05",
-      "image": "https://punchng.com/wp-content/uploads/2026/06/Nigerian-Aviation-Handling-Company-NAHCO-Plc-544x340_1782517685.webp",
-      "category": "market"
-    },
-    {
-      "title": "America Was Not Founded by 'Tariff Men,' Contrary to This Painting in Trump's White House",
-      "description": "Free trade is \"a direct affront to our Founding Fathers,\" President Donald Trump said during his first presidential campaign.",
-      "url": "https://www.yahoo.com/news/politics/articles/america-not-founded-tariff-men-110004929.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-07-05",
-      "image": "https://s.yimg.com/lo/mysterio/api/1f4d3b8d761a80e2ef5c93d80dc5ac0a8acb8cd086d95ae4494bd5554290a608/lightyear_networkapi/resizefill_w1161_h653;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freason_com_245%2Fbe3fd6a530a88e3a1c235a8fb4b7447c",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Abundance politics may not win over conservative Christian voters",
-      "description": "A new study finds conservative voters value religious identity over economic policy",
-      "url": "https://www.salon.com/2026/07/05/abundance-politics-may-not-win-over-conservative-christian-voters/",
-      "source": "Salon",
-      "date": "2026-07-05",
-      "image": "https://www.salon.com/app/uploads/2026/07/Evangelicals-2023789056.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Germany plans net new borrowing of \u20ac118B for 2027, up 7% from prior estimates",
-      "description": "Germany's increased borrowing signals a shift in fiscal policy, potentially impacting euro-area bond markets and EU fiscal dynamics.\nThe post Germany plans net new borrowing of \u20ac118B for 2027, up 7% from prior estimates appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/germany-118-billion-borrowing-2027-budget/",
-      "source": "Crypto Briefing",
-      "date": "2026-07-05",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/05063813/exclusive-german-draft-budget-foresees-more-than-203-billion-800x420.jpeg",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/05085951/the-value-of-the-australian-dollar-is-high-right-now-so-shou-800x420.jpeg",
       "category": "currency"
     },
     {
-      "title": "10 Sunday Reads",
-      "description": "Avert your eyes! My Sunday morning\u00a0look at incompetency, corruption and policy failures: \u2022 Surveillance Tech Company Is Pitching An Unholy ALPR/Stingray Hybrid To Law Enforcement: Here\u2019s something no one but cops and the tech firms that love cops wanted: an A\u2026",
-      "url": "https://ritholtz.com/2026/07/10-sunday-reads-235/",
-      "source": "Ritholtz.com",
+      "title": "CBC\u2019s NHL hockey loss points to the need to rethink public media for the digital age",
+      "description": "Canadians fund our public media at a far lower level than many countries, but this could change if CBC articulated a strong vision for the digital and AI age.",
+      "url": "https://theconversation.com/cbcs-nhl-hockey-loss-points-to-the-need-to-rethink-public-media-for-the-digital-age-286087",
+      "source": "The Conversation Africa",
       "date": "2026-07-05",
-      "image": "https://ritholtz.com/wp-content/uploads/2035/05/compseats.png",
+      "image": "https://images.theconversation.com/files/745152/original/file-20260630-102-w5imjl.JPG?ixlib=rb-4.1.0&rect=0%2C407%2C5060%2C2530&q=45&auto=format&w=1356&h=668&fit=crop",
       "category": "market"
     },
     {
-      "title": "Federal Reserve delivers positive signals for crypto investors",
-      "description": "Warsh's crypto-friendly stance at the Fed could influence regulatory perspectives, potentially fostering a more supportive environment for digital assets.\nThe post Federal Reserve delivers positive signals for crypto investors appeared first on Crypto Briefin\u2026",
-      "url": "https://cryptobriefing.com/federal-reserve-warsh-crypto-signals/",
+      "title": "Parents can now contribute to Trump Accounts, the government-seeded investment funds for newborns",
+      "description": "The Trump Accounts could significantly boost long-term equity market investments, potentially reshaping U.S. family financial planning dynamics.\nThe post Parents can now contribute to Trump Accounts, the government-seeded investment funds for newborns appeare\u2026",
+      "url": "https://cryptobriefing.com/trump-accounts-530a-newborn-investment-launch/",
       "source": "Crypto Briefing",
       "date": "2026-07-05",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/05060617/eccles-building-wikipedia-12-800x420.jpeg",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/05085500/trump-accounts-wall-street-backed-investment-funds-for-child-800x420.jpeg",
+      "category": "market"
+    },
+    {
+      "title": "Windows 11 identifier used to track Scattered Spider perp after Microsoft shared info with FBI \u2014 19-year-old US-Estonian hacker arrested over alleged ties to infamous extortion group",
+      "description": "Petet Stokes was arrested in Finland and extradited to the U.S. over alleged ties to the Scattered Spider group, with Microsoft helping in the investigation. He's in custody awaiting trial based on a criminal complaint for a May 2025 attack on a U.S.-based lu\u2026",
+      "url": "https://www.tomshardware.com/software/windows-11-identifier-used-to-track-scattered-spider-perp-after-microsoft-shared-info-with-fbi-19-year-old-us-estonian-hacker-arrested-over-alleged-ties-to-infamous-extortion-group",
+      "source": "Tom's Hardware UK",
+      "date": "2026-07-05",
+      "image": "https://cdn.mos.cms.futurecdn.net/33BfSCDDVkgxxQT43TtZuf-1920-80.jpg",
+      "category": "market"
+    },
+    {
+      "title": "From military to civiliaan leadership: NANS, others diagnose NYSC reforms, corps members employability, other goals",
+      "description": "When the National\u00a0Youth Service\u00a0Corps, NYSC, was\u00a0established in 1973, Nigeria was emerging from the trauma of a civil war that had threatened its unity.\u00a0\nThe post From military to civiliaan leadership: NANS, others diagnose NYSC reforms, corps members employa\u2026",
+      "url": "https://www.vanguardngr.com/2026/07/from-military-to-civiliaan-leadership-nans-others-diagnose-nysc-reforms-corps-members-employability-other-goals/",
+      "source": "Vanguard",
+      "date": "2026-07-05",
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2024/07/nysc.jpg",
       "category": "geopolitics"
     },
     {
-      "title": "A multi-millionaire left NYC for 25 years. Now he's back and ready to pay more taxes.",
-      "description": "Andrew Tobias, NYC millionaire and financial writer, will happily pay more taxes. Just make sure to send him a fruit basket.",
-      "url": "https://www.businessinsider.com/new-york-city-millionaire-wants-his-taxes-raised-2026-7#article",
-      "source": "Business Insider",
+      "title": "FSLR CLASS ACTION NOTICE: Faruqi & Faruqi, LLP Reminds First Solar (FSLR) Investors of Securities Class Action Lawsuit Deadline on August 24, 2026",
+      "description": "Faruqi & Faruqi, LLP Securities Litigation Partner\u00a0James (Josh) Wilson Encourages Investors Who Suffered Losses In First Solar To Contact Him Directly To Discuss Their Options",
+      "url": "https://www.globenewswire.com/news-release/2026/07/05/3322066/683/en/FSLR-CLASS-ACTION-NOTICE-Faruqi-Faruqi-LLP-Reminds-First-Solar-FSLR-Investors-of-Securities-Class-Action-Lawsuit-Deadline-on-August-24-2026.html",
+      "source": "GlobeNewswire",
       "date": "2026-07-05",
-      "image": "https://i.insider.com/6a46818ce3bd3a50082bf905?width=1200&format=jpeg",
+      "image": "https://ml.globenewswire.com/Resource/Download/7f60c456-51b6-4096-a862-d5d3beda6cc5",
       "category": "market"
-    },
-    {
-      "title": "Low auction clearance rates tipped to continue, according to Cotality",
-      "description": "Less than half of all properties that went to auction in Australia were actually sold over the last week.",
-      "url": "https://www.abc.net.au/news/2026-07-05/property-auctions-cotality-figures-brisbane-sydney-melbourne/106882230",
-      "source": "ABC News (AU)",
-      "date": "2026-07-05",
-      "image": "https://live-production.wcms.abc-cdn.net.au/a24dad7694d0cb2bfcbfa4340092e3e1?impolicy=wcms_watermark_news&cropH=2583&cropW=4592&xPos=0&yPos=240&width=862&height=485&imformat=generic",
-      "category": "market"
-    },
-    {
-      "title": "Stock markets to track crude oil prices, global trends, TCS earnings this week: Analysts",
-      "description": "The progress of the southwest monsoon and kharif sowing will remain important indicators for rural demand, inflation expectations, and overall economic growth",
-      "url": "https://www.thehindubusinessline.com/markets/stock-markets-to-track-crude-oil-prices-global-trends-tcs-earnings-this-week-analysts/article71185372.ece",
-      "source": "BusinessLine",
-      "date": "2026-07-05",
-      "image": "https://bl-i.thgim.com/public/incoming/x64kkf/article71182935.ece/alternates/LANDSCAPE_1200/PO05_Bull_market.jpg",
-      "category": "inflation"
     },
     {
       "title": "Commodity Support and Resistance Levels for Precious Metals, Energy, and Agricultural Futures on July 6, 2026 - KuCoin",
@@ -378,33 +405,6 @@
       "date": "2026-07-05",
       "image": "",
       "category": "metals"
-    },
-    {
-      "title": "Kevin O\u2019 Leary Says Elon Musk Has No Problem Walking Away From You Mid Conversation If He\u2019s Bored \u2014 \u2018I've Never Met Anybody Like Him\u2019",
-      "description": "Some people check their phone when a conversation drags. Elon Musk, according to Kevin O\u2019Leary, may simply leave. The investor and \"Shark Tank\" star said Mus...",
-      "url": "https://finance.yahoo.com/technology/articles/kevin-o-leary-says-elon-190138026.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-07-04",
-      "image": "https://s.yimg.com/lo/mysterio/api/AE7881BAFB97723E2D589CF4FF9DD353777270157AFD26B745E3050E0C342704/subgraphmysterio/resizefill_w1200_h839;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F01aa06831912c56fe639a55fa8760d26",
-      "category": "market"
-    },
-    {
-      "title": "I'm 58, Just Inherited $340,000 From My Dad, And My Siblings Think I Should Split It With Them Even Though He Left It All To Me \u2014 Now My Retirement Is Caught In The Middle",
-      "description": "Finding out your father left his entire estate to you and not your siblings is complicated enough. Finding out your siblings expect you to share it anyway, w...",
-      "url": "https://finance.yahoo.com/markets/articles/im-58-just-inherited-340-170105990.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-07-04",
-      "image": "https://s.yimg.com/lo/mysterio/api/B16138A8B0ED3FF1AA5E8E637E139B91C541D3DCF0A478A55A291E81A71909DF/subgraphmysterio/resizefill_w1200_h766;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2Fbe9691fad77772dfa443cd4a6e3e3297",
-      "category": "market"
-    },
-    {
-      "title": "Volatility in Tech Stocks Just Hit a 23-Year Extreme. Why That May Mean the Bull Market Clock Is Ticking.",
-      "description": "Let me say the quiet part out loud: The Nasdaq-100\u2019s (QQQ) intraday volatility should have every trader and investor on high alert.",
-      "url": "https://www.barchart.com/story/news/3127873/volatility-in-tech-stocks-just-hit-a-23-year-extreme-why-that-may-mean-the-bull-market-clock-is-ticking",
-      "source": "Barchart.com",
-      "date": "2026-07-04",
-      "image": "https://s.yimg.com/lo/mysterio/api/A05CBCE4A739840A6339DEE8A549E6EA7FB2C40709EAD2846726F17D88FD2E4F/subgraphmysterio/resizefill_w1200_h655;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F2a9f69b284a2dfbffec689f21c472ebb",
-      "category": "market"
     }
   ],
   "history": [
@@ -451,15 +451,15 @@
     {
       "date": "2026-07-06",
       "week": "2026-W28",
-      "gold_10g": 127273.42,
-      "silver_kg": 190188.38,
-      "platinum_g": 5039.87,
-      "gold_usd_oz": 4152.36,
-      "silver_usd_oz": 62.05,
-      "platinum_usd_oz": 1644.29
+      "gold_10g": 127042.47,
+      "silver_kg": 188698.75,
+      "platinum_g": 4949.76,
+      "gold_usd_oz": 4144.83,
+      "silver_usd_oz": 61.56,
+      "platinum_usd_oz": 1614.88
     }
   ],
-  "timestamp": "2026-07-06T16:41:21.639385+05:30",
+  "timestamp": "2026-07-06T18:33:12.949046+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
