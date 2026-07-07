@@ -1,24 +1,24 @@
 {
   "prices": {
     "gold": {
-      "price_per_gram_inr": 12682.85,
-      "price_usd_oz": 4132.6,
-      "change_percent": -0.79,
-      "change_value_usd": -32.93,
-      "price_per_10g_inr": 126828.51
+      "price_per_gram_inr": 12806.78,
+      "price_usd_oz": 4172.98,
+      "change_percent": 0.18,
+      "change_value_usd": 7.45,
+      "price_per_10g_inr": 128067.76
     },
     "silver": {
-      "price_per_gram_inr": 187.14,
-      "price_usd_oz": 60.98,
-      "change_percent": -1.74,
-      "change_value_usd": -1.08,
-      "price_per_kg_inr": 187135.42
+      "price_per_gram_inr": 189.16,
+      "price_usd_oz": 61.64,
+      "change_percent": -0.68,
+      "change_value_usd": -0.42,
+      "price_per_kg_inr": 189162.48
     },
     "platinum": {
-      "price_per_gram_inr": 5044.78,
-      "price_usd_oz": 1643.8,
-      "change_percent": 0.65,
-      "change_value_usd": 10.55
+      "price_per_gram_inr": 5107.31,
+      "price_usd_oz": 1664.17,
+      "change_percent": 1.89,
+      "change_value_usd": 30.92
     },
     "currencies": {
       "USD_INR": 95.4559,
@@ -30,8 +30,8 @@
       "CAD_INR": 67.1657,
       "SGD_INR": 73.8594
     },
-    "gold_silver_ratio": 67.77,
-    "timestamp": "2026-07-07T10:05:07.213544",
+    "gold_silver_ratio": 67.7,
+    "timestamp": "2026-07-07T12:14:43.692958",
     "source": "GoldAPI"
   },
   "currencies": {
@@ -49,12 +49,12 @@
       "metal": "gold",
       "recommendation": "SELL",
       "confidence": {
-        "buy": 10,
-        "sell": 65,
-        "hold": 25
+        "buy": 15,
+        "sell": 56,
+        "hold": 29
       },
-      "summary": "Gold is showing negative signals. Slight decline of -0.8%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-07T10:05:13.157946",
+      "summary": "Gold is showing negative signals. Positive daily movement of 0.2%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-07-07T12:14:48.575161",
       "source": "rule-based"
     },
     "silver": {
@@ -65,20 +65,20 @@
         "sell": 65,
         "hold": 25
       },
-      "summary": "Silver is showing negative signals. Significant daily drop of -1.7%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-07T10:05:13.326971",
+      "summary": "Silver is showing negative signals. Slight decline of -0.7%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-07-07T12:14:48.651748",
       "source": "rule-based"
     },
     "platinum": {
       "metal": "platinum",
-      "recommendation": "SELL",
+      "recommendation": "HOLD",
       "confidence": {
-        "buy": 15,
-        "sell": 56,
-        "hold": 29
+        "buy": 25,
+        "sell": 25,
+        "hold": 50
       },
-      "summary": "Platinum is showing negative signals. Positive daily movement of 0.7%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-07T10:05:13.423502",
+      "summary": "Platinum is showing negative signals. Strong daily gain of 1.9%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
+      "timestamp": "2026-07-07T12:14:48.724617",
       "source": "rule-based"
     }
   },
@@ -90,14 +90,14 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -4.3% in 4 weeks",
+        "Weak momentum: -3.4% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
-      "support": 126828.51,
+      "support": 127936.35,
       "resistance": 140736.5,
-      "current_price": 126828.51,
-      "ma_short": 130169.12,
-      "ma_long": 132282.59,
+      "current_price": 128067.76,
+      "ma_short": 130478.93,
+      "ma_long": 132530.44,
       "trend_score": -3.5
     },
     "silver": {
@@ -107,14 +107,14 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -9.9% in 4 weeks",
+        "Weak momentum: -8.9% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
-      "support": 187135.42,
+      "support": 189162.48,
       "resistance": 243170.57,
-      "current_price": 187135.42,
-      "ma_short": 199054.6,
-      "ma_long": 207877.79,
+      "current_price": 189162.48,
+      "ma_short": 199561.36,
+      "ma_long": 208283.2,
       "trend_score": -3.5
     },
     "platinum": {
@@ -124,18 +124,27 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -7.4% in 4 weeks",
+        "Weak momentum: -6.3% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
       "support": 5033.18,
       "resistance": 6206.5,
-      "current_price": 5044.78,
-      "ma_short": 5236.85,
-      "ma_long": 5430.78,
+      "current_price": 5107.31,
+      "ma_short": 5252.48,
+      "ma_long": 5443.28,
       "trend_score": -3.5
     }
   },
   "news": [
+    {
+      "title": "Rupee closes at 94.96 vs USD, logs best day in three weeks on NDF dollar sales, bailing shorts",
+      "description": "On Tuesday, the Indian rupee experienced its most significant one-day increase in three weeks, driven by heightened dollar selling activity within the non-deliverable forward market. This prompted traders to adjust their positions, marking a reversal of the prior trend in forward market premiums. Ad",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-closes-at-94-96-vs-usd-logs-best-day-in-three-weeks-on-ndf-dollar-sales-bailing-shorts/articleshow/132237076.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-07-07",
+      "image": "",
+      "category": "geopolitics"
+    },
     {
       "title": "Global Market: Britain's bond market poses early fiscal test for Andy Burnham",
       "description": "Britain's government bond market is expected to be a key test for Andy Burnham's economic credibility as investors scrutinise his commitment to fiscal discipline amid mounting spending pressures. While easing bond yields have offered some relief, analysts say persistent inflation risks and rising de",
@@ -144,15 +153,6 @@
       "date": "2026-07-07",
       "image": "",
       "category": "inflation"
-    },
-    {
-      "title": "Global oil market weathers Iran war shock, but reserve depletion raises future price risks",
-      "description": "The global oil market absorbed record supply disruptions during the Iran conflict without triggering a prolonged price shock. But analysts warn that depleted strategic reserves, damaged energy infrastructure and unresolved tensions around the Strait of Hormuz have left the market more vulnerable to ",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-oil-market-weathers-iran-war-shock-but-reserve-depletion-raises-future-price-risks/articleshow/132233831.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-07-07",
-      "image": "",
-      "category": "geopolitics"
     },
     {
       "title": "Gold, Silver and Platinum Forecast: Fed Minutes Put Key Breakout Levels in Focus - FXEmpire",
@@ -164,6 +164,60 @@
       "category": "central_bank"
     },
     {
+      "title": "Bitcoin Price Rebound Above $63K May Not Be New Rally, Analysts Say",
+      "description": "Bitcoin price got a macro lift from weaker U.S. jobs data, but analysts say the rebound looks more like relief than a sustained recovery. Weak...\nThe post Bitcoin Price Rebound Above $63K May Not Be New Rally, Analysts Say appeared first on Bitcoin Foundation.",
+      "url": "https://bitcoinfoundation.org/news/bitcoin/bitcoin-price-rebound-above-63k-may-not-be-new-rally-analysts-say/",
+      "source": "Bitcoinfoundation.org",
+      "date": "2026-07-06",
+      "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/bitcoin-btc-up.webp",
+      "category": "market"
+    },
+    {
+      "title": "Britain's FTSE indexes slip as miners offset financial gains",
+      "description": "London's FTSE 100 saw a slight dip as precious metal miners declined, countered by gains in financial stocks. EasyJet surged on a sweetened takeover bid, while ITV advanced after agreeing to sell its media division. Investors are also watching for potential b\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/britains-ftse-indexes-slip-as-miners-offset-financial-gains/articleshow/132215686.cms",
+      "source": "The Times of India",
+      "date": "2026-07-06",
+      "image": "https://img.etimg.com/thumb/msid-132215754,width-1200,height-630,imgsize-100982,overlay-etmarkets/articleshow.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "SK Hynix to offer 17.79M common shares in U.S. IPO",
+      "description": "See the rest of the story here.\n\nthefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor\u2026",
+      "url": "https://www.thefly.com/SKHY",
+      "source": "Thefly.com",
+      "date": "2026-07-06",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "Sensex today | Stock Market Highlights: Sensex jumps 521 points, Nifty closes above 24,430",
+      "description": "Sensex Today, Nifty 50 | Stock Market Highlights: Indian benchmark indices closed higher on Monday, driven by a sharp rally in HDFC Bank after its strong quarterly business update, while lower crude oil prices, easing geopolitical tensions and improving monso\u2026",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-6th-july-2026/article71186185.ece",
+      "source": "BusinessLine",
+      "date": "2026-07-06",
+      "image": "https://bl-i.thgim.com/public/incoming/vvxsq5/article71129140.ece/alternates/LANDSCAPE_1200/Stockmarket.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Noah Holdings Releases H2 2026 CIO Report on AI Value Realization and Global Asset Repricing",
+      "description": "Marking the fifth consecutive year of Noah's semiannual CIO reports and the 12th edition in the series, this report formally introduces the \"Noah World Model\" into its CIO research framework for the first time. It examines how AI's transition into a phase of \u2026",
+      "url": "https://www.prnewswire.com/news-releases/noah-holdings-releases-h2-2026-cio-report-on-ai-value-realization-and-global-asset-repricing-302818275.html",
+      "source": "PRNewswire",
+      "date": "2026-07-06",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "India at cusp of 'snacking renaissance'; L Catterton bets on healthy snacking, branded foods",
+      "description": "Expressing enthusiasm for India's rising consumption trends, L Catterton zeroes in on the healthy snacking and branded foods market. Having launched its first fund dedicated to India, the firm has made three key investments lately. Executive Chairman Sanjiv M\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/india-at-cusp-of-snacking-renaissance-l-catterton-bets-on-healthy-snacking-branded-foods/articleshow/132214276.cms",
+      "source": "The Times of India",
+      "date": "2026-07-06",
+      "image": "https://img.etimg.com/thumb/msid-132214276,width-1200,height-630,imgsize-160783,overlay-economictimes/articleshow.jpg",
+      "category": "market"
+    },
+    {
       "title": "Central Bank says strong exports offset energy import surge",
       "description": "T\u00fcrkiye\u2019s foreign trade balance improved in the second quarter despite a sharp rise in energy imports, as exports remained strong and non-energy imports declined, according to an analysis published on July 6 on the Turkish Central Bank\u2019s blog.",
       "url": "https://www.hurriyetdailynews.com/central-bank-says-strong-exports-offset-energy-import-surge-224046",
@@ -173,57 +227,30 @@
       "category": "central_bank"
     },
     {
-      "title": "South Africa in history\u2019s struggle",
-      "description": "Kevin Cox\u2019s NLR essay on South Africa claims to correct liberal and culturalist accounts through historical materialism. But it reproduces the very epistemic and analytical failures it sets out to overcome.",
-      "url": "https://africasacountry.com/2026/07/south-africa-in-historys-struggle",
-      "source": "Africasacountry.com",
+      "title": "Still Think Gold Is Overcrowded? 3 More Stocks Retirees Should Consider Instead, Ranked",
+      "description": "Goldman Sachs has flagged gold as overcrowded, leaving retirees who depend on safe-haven exposure with a real problem to solve. Three equities answer that pr...",
+      "url": "https://247wallst.com/investing/2026/07/06/still-think-gold-is-overcrowded-3-more-stocks-retirees-should-consider-instead-ranked/",
+      "source": "24/7 Wall St.",
       "date": "2026-07-06",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "Washington State Residents Lose $673,500 to Sophisticated Bank Scams in Three Days",
-      "description": "Residents in one part of Washington state have lost more than $673,000 to scams in just three days. The Clallam County Sheriff\u2019s Office says an 84-year-old victim lost $420,000 after scammers impersonating Microsoft and the FTC convinced the person to buy gol\u2026",
-      "url": "https://dailyhodl.com/2026/07/06/washington-state-residents-lose-673500-to-sophisticated-bank-scams-in-three-days/",
-      "source": "The Daily Hodl",
-      "date": "2026-07-06",
-      "image": "https://dailyhodl.com/wp-content/uploads/2025/05/food-stamp-fraud.jpg?resize=1365,800",
-      "category": "market"
-    },
-    {
-      "title": "Commerce media\u2019s measurement problem has an in-store answer",
-      "description": "Commerce media's measurement problem isn't a secret. Brands know it. Retailers know it. And Fluent has the answer.",
-      "url": "https://www.retaildive.com/spons/commerce-medias-measurement-problem-has-an-in-store-answer/824046/",
-      "source": "Retail Dive",
-      "date": "2026-07-06",
-      "image": "https://imgproxy.divecdn.com/iaaOk1J4p5rFFOSQbZ-dglqf6vC3XvyCfNqOYm5S4JY/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DaHJpc3RpYW5uX0tvZXBrZV91bnNwbGFzaF8wMS5wbmc=.webp",
-      "category": "market"
-    },
-    {
-      "title": "Gold rate today (July 6, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from Joyalukkas, Malabar Gold & Diamonds, Tanishq & IBJA in Delhi, Mumbai, Hyderabad, other cities",
-      "description": "Gold prices saw a slight dip today, July 6, 2026, Check 22k jewellery rates at major retailers like Tanishq, Malabar Gold & Diamonds, Kalyan Jewellers, and Joyalukkas. Consumers are advised to check the latest rates before purchasing.",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/gold-rate-today-july-6-2026-check-24k-22k-20k-and-18k-gold-jewellery-prices-from-joyalukkas-malabar-gold-diamonds-tanishq-ibja-in-delhi-mumbai-hyderabad-other-cities/articleshow/132211365.cms",
-      "source": "The Times of India",
-      "date": "2026-07-06",
-      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1448651,resizemode-75,msid-132211365/wealth/invest/gold-rate-today-july-6-2026-check-24k-22k-20k-and-18k-gold-jewellery-prices-from-joyalukkas-malabar-gold-diamonds-tanishq-ibja-in-delhi-mumbai-hyderabad-other-cities.jpg",
+      "image": "https://s.yimg.com/lo/mysterio/api/D7F818B43E4EAC93A6D04F818191BE5F9CBAFC34C131F4B8A649D013C308A28F/subgraphmysterio/resizefill_w1200_h670;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F62023c67598409dedda954107bb4e748",
       "category": "metals"
     },
     {
-      "title": "Sensex jumps 600 points, Nifty nears 23,450. Key factors behind today's Dalal Street rally",
-      "description": "Indian stock markets soared on Monday, with Sensex and Nifty extending their rally for a fourth straight session. Heavy rainfall bolstering monsoon hopes, coupled with Foreign Institutional Investors turning net buyers, significantly boosted investor sentimen\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-rising-today-sensex-jumps-600-points-nifty-nears-23450-6-key-factors-behind-dalal-streets-gains/articleshow/132211051.cms",
-      "source": "The Times of India",
+      "title": "DENARIUS METALS ANNOUNCES INITIAL RESULTS FROM ITS 2026 DRILLING CAMPAIGN AT ITS ZANCUDO PROJECT IN COLOMBIA, PROVIDING FURTHER CONFIRMATION OF HIGH-GRADE GOLD AND SILVER MINERALIZATION IN MULTIPLE STRUCTURES AT THE LAS BRISAS TARGET",
+      "description": "TORONTO, July 6, 2026 /PRNewswire/ - Denarius Metals Corp. (Cboe CA: DMET) (OTCQX: DNRSF) (\"Denarius Metals\" or the \"Company\") provided an update today on the initial drill results from its 2026 surface in-fill diamond drilling program on the Las Brisas Targe\u2026",
+      "url": "https://www.prnewswire.com/news-releases/denarius-metals-announces-initial-results-from-its-2026-drilling-campaign-at-its-zancudo-project-in-colombia-providing-further-confirmation-of-high-grade-gold-and-silver-mineralization-in-multiple-structures-at-the-las-brisas-tar-302818001.html",
+      "source": "PRNewswire",
       "date": "2026-07-06",
-      "image": "https://img.etimg.com/thumb/msid-132211280,width-1200,height-630,imgsize-721236,overlay-etmarkets/articleshow.jpg",
-      "category": "market"
+      "image": "https://mma.prnewswire.com/media/3003910/Denarius_Metals_Corp__DENARIUS_METALS_ANNOUNCES_INITIAL_RESULTS.jpg?p=facebook",
+      "category": "metals"
     },
     {
-      "title": "This SGB delivers 190% return on premature redemption date: Gold bond turns Rs 1 lakh investment into Rs 2.90 lakh",
-      "description": "Sovereign Gold Bond (SGB) 2020-21 Series-IX investors can now redeem their bonds prematurely from July 4, 2026. The Reserve Bank of India has fixed the premature redemption price at Rs 14,366 per unit, reflecting a significant 190.22% return on the initial in\u2026",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/this-sgb-delivers-190-return-on-premature-redemption-date-gold-bond-turns-rs-1-lakh-investment-into-rs-2-90-lakh/articleshow/132208912.cms",
+      "title": "Global Market: Citi joins London's bullion clearing network in major precious metals expansion",
+      "description": "Citi has joined London's over-the-counter gold market clearing network, becoming the fifth bank to do so. This significant move expands the bullion trade's settlement infrastructure, which handles approximately $160 billion in daily transactions. Citi's entry\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/global-market-citi-joins-londons-bullion-clearing-network-in-major-precious-metals-expansion/articleshow/132214112.cms",
       "source": "The Times of India",
       "date": "2026-07-06",
-      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1364712,resizemode-75,msid-132208912/wealth/invest/this-sgb-delivers-190-return-on-premature-redemption-date-gold-bond-turns-rs-1-lakh-investment-into-rs-2-90-lakh.jpg",
+      "image": "https://img.etimg.com/thumb/msid-132214102,width-1200,height-630,imgsize-37484,overlay-etmarkets/articleshow.jpg",
       "category": "metals"
     },
     {
@@ -254,157 +281,130 @@
       "category": "supply_demand"
     },
     {
-      "title": "Doug Casey Predicts Trump Will Not Complete Second Term",
-      "description": "Doug Casey, an author and economic commentator, has predicted that President Donald Trump will not serve his full second term in office. The prediction was made in a November 2024 interview [1]. Casey did not provide a specific timeline for when Trump might l\u2026",
-      "url": "https://www.naturalnews.com/2026-07-06-doug-casey-predicts-trump-not-complete-second-term.html",
-      "source": "Naturalnews.com",
+      "title": "Home Invasion: Fenced off, Priced Out, Digitised and Occupied",
+      "description": "Traditionally considered a space of rest, intimacy and autonomy, the \u2018home\u2019 has been integrated into the market by capitalism and digital technology, becoming an object of surveillance and manipulation. \nSmart speakers, security cameras and streaming devices,\u2026",
+      "url": "https://www.globalresearch.ca/home-invasion-fenced-off-priced-out-digitised-occupied/5932489",
+      "source": "Globalresearch.ca",
       "date": "2026-07-06",
-      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/doug-casey-donald-trump-second-term-2543-original.jpg",
+      "image": "https://www.globalresearch.ca/wp-content/uploads/2026/07/best-smart-tech-for-homes.jpg",
       "category": "market"
     },
     {
-      "title": "Gold eases from two-week high as firmer US dollar weighs",
-      "description": "Gold retreats from a two-week high as a stronger US dollar impacts prices, with JP Morgan forecasting $4,300/oz in Q3 2026.",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-eases-from-two-week-high-as-firmer-us-dollar-weighs/article71188057.ece",
-      "source": "BusinessLine",
+      "title": "OPEC+ raises oil output for fifth straight month as Hormuz recovers",
+      "description": "Seven core members agreed Sunday to add 188,000 barrels per day in August, continuing a gradual unwinding of 2023 production cuts",
+      "url": "https://qz.com/opec-plus-output-hike-fifth-month-hormuz-070626",
+      "source": "Quartz India",
       "date": "2026-07-06",
-      "image": "https://bl-i.thgim.com/public/incoming/z12dk8/article71188087.ece/alternates/LANDSCAPE_1200/PO02_BS_Gold_candle_chart.jpg",
-      "category": "currency"
+      "image": "https://s.yimg.com/lo/mysterio/api/25D9D447D04B29FAE9911B02C033F4B8229D7395582C0D2550AED754DDE78372/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2F463bbe7235c02acaf5a0d6b0cecab0a5",
+      "category": "supply_demand"
     },
     {
-      "title": "NewPeak Metals soars more than 100% intraday after Las Ope\u00f1as discovery",
-      "description": "NewPeak Metals Ltd (ASX:NPM, OTC:NPMFF, FRA:NPM) shares surged in morning trade after the company confirmed a large-scale gold-zinc-silver discovery from the first hole of its 2026 drilling program at the 100%-owned Las Ope\u00f1as Gold Project in San Juan Provinc\u2026",
-      "url": "https://biztoc.com/x/16bc9a0097dab2b5",
-      "source": "Biztoc.com",
-      "date": "2026-07-06",
-      "image": "https://biztoc.com/cdn/16bc9a0097dab2b5_s.webp",
-      "category": "metals"
-    },
-    {
-      "title": "Precious metals rate today: Gold holds near 2-week high; silver extends gains",
-      "description": "Gold prices began the week on a firm footing, holding close to a two-week high after weaker-than-expected US employment data reinforced expectations",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-rate-today-live-updates-18k-22-carat-24k-gold-price-10g-silver-cost-per-kg-mcx-comex-etf-stock-precious-metal-gold-prediction-city-wise-cost-latest-gold-news/liveblog/132205915.cms",
-      "source": "The Times of India",
-      "date": "2026-07-06",
-      "image": "https://static.toiimg.com/thumb/msid-132205915,width-1280,height-720,imgsize-69716,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "Economic Digest: A Snapshot of Nepal\u2019s Business News",
-      "description": "KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. The news reflects a government strongly focused on economic reform, infrastructure development, and gov\u2026",
-      "url": "https://english.khabarhub.com/2026/06/557084/",
-      "source": "Khabarhub.com",
-      "date": "2026-07-06",
-      "image": "https://english.khabarhub.com/wp-content/uploads/2024/05/Economic-Digest.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Tata Communications Strengthens India - Singapore Digital Corridor with AI-Ready Connectivity Investments",
-      "description": "Will enable enterprises to seamlessly connect across continents with secure, high-speed, dynamic, self-managed and low-latency infrastructure MUMBAI, India, July 6, 2026 /PRNewswire/ -- Tata Communications, a leading global communications technology player, t\u2026",
-      "url": "https://www.prnewswire.com/news-releases/tata-communications-strengthens-india--singapore-digital-corridor-with-ai-ready-connectivity-investments-302818257.html",
+      "title": "EMA Research Finds AI-Driven Operations Require an Enterprise Control Plane",
+      "description": "New study finds organizations are cautiously expanding AI-driven operational authority as enterprise control becomes increasingly federated LAFAYETTE, Colo., July 6, 2026 /PRNewswire/ -- Enterprise Management Associates (EMA\u2122), a leading IT and data managemen\u2026",
+      "url": "https://www.prnewswire.com/news-releases/ema-research-finds-ai-driven-operations-require-an-enterprise-control-plane-302817323.html",
       "source": "PRNewswire",
       "date": "2026-07-06",
-      "image": "https://mma.prnewswire.com/media/2811674/5597391/Tata_Communications_Logo.jpg?p=facebook",
-      "category": "market"
+      "image": "https://mma.prnewswire.com/media/3003599/Enterprise_Management_Associates__research_report.jpg?p=facebook",
+      "category": "central_bank"
     },
     {
-      "title": "Share Markets Close Higher, Auto Stocks Rally: Sensex Over 500 Points Up, Nifty Above 24,400",
-      "description": "The rally remained broad-based for most of the trading session, with heavyweight financial stocks providing the biggest boost to the frontline indices.",
-      "url": "https://news.abplive.com/business/mutual-funds/share-market-closes-higher-auto-stocks-lead-sensex-nifty-1854836",
-      "source": "Abplive.com",
+      "title": "CompTIA names Sean Ryan CEO, signaling next phase of growth",
+      "description": "Experienced commercial executive to accelerate CompTIA's AI skills and credentialing growth DOWNERS GROVE, Ill., July 6, 2026 /PRNewswire/ -- CompTIA today named Sean Ryan chief executive officer, signaling an accelerated push toward growth and expanded impac\u2026",
+      "url": "https://www.prnewswire.com/news-releases/comptia-names-sean-ryan-ceo-signaling-next-phase-of-growth-302817997.html",
+      "source": "PRNewswire",
       "date": "2026-07-06",
-      "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/04/27/162a7a93d5ecc3c98ca63f821212f58a17772623827221379_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "category": "market"
+      "image": "https://mma.prnewswire.com/media/3004054/260629_4410_Sean_R_Headshot_Crop.jpg?p=facebook",
+      "category": "geopolitics"
     },
     {
-      "title": "Who will foot the bill for Burnham? New PM's business rates vow alone 'will cost \u00a3880m' as he prepares wealth taxes - amid fears there is 'no plan' for Government",
-      "description": "The prime minister-in-waiting has pledged an overhaul of business rates if he enters Downing Street in a bid to boost 'family-owned businesses'.",
-      "url": "https://www.dailymail.com/news/article-15955857/Who-foot-bill-Burnham-New-PMs-business-rates-vow-cost-880m-prepares-wealth-taxes-amid-fears-no-plan-Government.html",
-      "source": "Dailymail.com",
-      "date": "2026-07-06",
-      "image": "https://i.dailymail.com/1s/2026/07/06/10/109824719-0-image-m-16_1783331837369.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Are you older or younger than the rest of the world?",
-      "description": "Enter the day you were born and we will place you in the lineup of all eight billion people alive today.",
-      "url": "https://www.aljazeera.com/features/longform/2026/7/6/are-you-older-or-younger-than-the-rest-of-the-world",
-      "source": "Al Jazeera English",
-      "date": "2026-07-06",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/INTERACTIVE-GLOBAL-POPULATION-COVER-thumbnail-with-text-JULY-2-2026-copy-3-1782995390.png?resize=1920%2C1080&quality=80",
-      "category": "market"
-    },
-    {
-      "title": "Quote of the day by Richard Feynman: \u2018Nature cannot be fooled. Reality must take precedence over\u2026\u2019 - Inspiring lesson on truth and intellectual honesty by Nobel Prize-winning American physicist",
-      "description": "Quote of the day by Richard Feynman: Nobel laureate Richard Feynman's powerful quote,  For a successful technology, reality must take precedence over public relations, for Nature cannot be fooled\u201d, born from the Challenger disaster, underscores the critical n\u2026",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/quote-of-the-day-by-richard-feynman-nature-cannot-be-fooled-reality-must-take-precedence-over-inspiring-lesson-on-truth-and-intellectual-honesty-by-nobel-prize-winning-american-physicist/articleshow/132213838.cms",
+      "title": "Thousands of forgotten World War I Indian soldiers commemorated in UK",
+      "description": "A research project has officially recognised 9,909 Indian soldiers missing from World War I records. These servicemen from pre-Partition India, who fought for the British Indian Army, were previously uncommemorated due to historical omissions. This initiative\u2026",
+      "url": "https://economictimes.indiatimes.com/news/defence/thousands-of-forgotten-world-war-i-indian-soldiers-commemorated-in-uk/articleshow/132216375.cms",
       "source": "The Times of India",
       "date": "2026-07-06",
-      "image": "https://img.etimg.com/thumb/msid-132213895,width-1200,height-630,imgsize-125467,overlay-etpanache/articleshow.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Indian IT firms face muted Q1 as AI shift, weak demand weigh",
-      "description": "By Haripriya Suresh and Bharath Rajeswaran\nBENGALURU, July 6 (Reuters) - India's top information technology companies are expected to report another subdued quarter, as AI-driven pricing pressure, weak client spending, and global geopolitical turmoil continue\u2026",
-      "url": "https://biztoc.com/x/06820997e780e1df",
-      "source": "Biztoc.com",
-      "date": "2026-07-06",
-      "image": "https://biztoc.com/cdn/06820997e780e1df_s.webp",
+      "image": "https://img.etimg.com/thumb/msid-132216475,width-1200,height-630,imgsize-121342,overlay-etdefence/articleshow.jpg",
       "category": "geopolitics"
     },
     {
-      "title": "Heineken Holding N.V. reports transactions under its current share buyback programme",
-      "description": "Heineken Holding N.V. reports transactions under its current   share buyback programme  Amsterdam, 6 July 2026 - Heineken Holding N.V. (EURONEXT:HEIO;...",
-      "url": "https://www.globenewswire.com/news-release/2026/07/06/3322264/0/en/Heineken-Holding-N-V-reports-transactions-under-its-current-share-buyback-programme.html",
-      "source": "GlobeNewswire",
+      "title": "4 of Bank of America\u2019s Top US Q3 Picks Pay Dividends With Double-Digit Upside Potential",
+      "description": "Bank of America just dropped its highest-conviction stock picks for Q3 2026, and four names on the list combine serious dividend income with double-digit ups...",
+      "url": "https://247wallst.com/investing/2026/07/06/4-of-bank-of-americas-top-u-s-q3-picks-pay-dividends-with-double-digit-upside-potential/",
+      "source": "24/7 Wall St.",
       "date": "2026-07-06",
-      "image": "https://ml-eu.globenewswire.com/Resource/Download/7a5731e9-d7ca-4387-84c1-69bd8b7f8d9e",
-      "category": "currency"
-    },
-    {
-      "title": "Trump memecoin ethics fight still controls CLARITY Act vote after law enforcement opposition cracks",
-      "description": "The CLARITY Act's two biggest obstacles are moving in opposite directions this week. Law enforcement opposition is softening, while the ethics fight over crypto conflicts of interest is sharpening. Before this week, forecasters and prediction markets already \u2026",
-      "url": "https://cryptoslate.com/trump-memecoin-ethics-fight-still-controls-clarity-act-vote-after-law-enforcement-opposition-cracks/",
-      "source": "CryptoSlate",
-      "date": "2026-07-06",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/07/clarity-act-vote-math-mcsa-neutral-noble-endorsement-memecoin.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "What happens if DOJ ends in-state tuition for undocumented students?",
-      "description": "The DOJ argues states illegally give undocumented students in-state tuition unavailable to many U.S. citizens.",
-      "url": "https://www.newsnationnow.com/us-news/immigration/doj-ends-in-state-tuition-undocumented-students/",
-      "source": "Newsnationnow.com",
-      "date": "2026-07-06",
-      "image": "https://s.yimg.com/lo/mysterio/api/a012afdc95715fc259e29bed4f216f97b8d7d27ac15023b9ad7242dc137f376a/lightyear_networkapi/resizefill_w831_h484;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2F71a92475f8e7e13805084ba4604755d0",
+      "image": "https://s.yimg.com/lo/mysterio/api/743757F96909BF7C14B0A061E17D1229F42982F5E372113D17BD7A6FD7C856EA/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fd6ce401462337988dbf44693432dd993",
       "category": "market"
     },
     {
-      "title": "These Immigrant Kids Were Once Protected. Under Trump, Their Deportations Have Tripled.",
-      "description": "A first-of-its-kind ProPublica analysis found that children who entered the U.S. by themselves are being detained and removed at about three times the rate they were during the final years of the first Trump presidency.",
-      "url": "https://www.propublica.org/article/unaccompanied-minors-deportations-elder-chavez",
-      "source": "ProPublica",
+      "title": "Starship delivery robots leave campuses for cities",
+      "description": "Starship Technologies is redeploying 1,200 delivery robots from U.S. college campuses to grocery delivery, but crowded city sidewalks pose new challenges.",
+      "url": "https://www.foxnews.com/tech/starship-delivery-robots-leave-campuses-cities",
+      "source": "Fox News",
       "date": "2026-07-06",
-      "image": "https://www.propublica.org/wp-content/uploads/2026/07/ProPublica-Elder-Final-Yellow_maxHeight_3000_maxWidth_3000-1.jpg?resize=2000,1333",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/starship-delivery-robot-1.jpg",
       "category": "market"
     },
     {
-      "title": "I Changed My Mind About Small-Dollar Campaign Donors",
-      "description": "The problem with donation mobs",
-      "url": "https://www.theatlantic.com/ideas/2026/07/small-dollar-donors-harm/687734/",
-      "source": "The Atlantic",
+      "title": "Aurinia Announces Initiation of PRESERVE, a Study Investigating the Combination of LUPKYNIS and Belimumab, Obinutuzumab or Anifrolumab in Patients with Lupus Nephritis",
+      "description": "\u2014 Multitarget Approach Has Potential to Further Improve Outcomes in This Disease Characterized by Continued Unmet Need \u2014 ROCKVILLE, Md. & EDMONTON, Alberta \u2014 Aurinia Pharmaceuticals Inc. (NASDAQ: AUPH) today announced the initiation of PRESERVE, a Phase 4, mu\u2026",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/aurinia-announces-initiation-of-preserve-a-study-investigating-the-combination-of-lupkynis-and-belimumab-obinutuzumab-or-anifrolumab-in-patients-with-lupus-nephritis",
+      "source": "Financial Post",
       "date": "2026-07-06",
-      "image": "https://cdn.theatlantic.com/thumbor/ZjotfL5wtzx8ZKYuXH6Z0DtBE8s=/0x35:2000x1077/1200x625/media/img/mt/2026/06/2026_06_29_Small_donors/original.jpg",
-      "category": "currency"
+      "image": null,
+      "category": "market"
     },
     {
-      "title": "TOPIX Hits Record as Nikkei Stalls Below 70,000",
-      "description": "Tokyo stocks ended mixed on July 6 as profit-taking in AI and semiconductor-related shares kept the Nikkei 225 nearly flat, while broader buying in banks, value stocks and domestic demand names lifted the TOPIX to a fresh record high. (News On Japan)",
-      "url": "https://newsonjapan.com/article/149883.php",
-      "source": "Newsonjapan.com",
+      "title": "Strategy reduces Bitcoin holdings to 843,775 BTC, plans $1B sale",
+      "description": "Strategy's Bitcoin sale signals a shift to liquidity focus, potentially impacting market sentiment and Bitcoin's price stability.\nThe post Strategy reduces Bitcoin holdings to 843,775 BTC, plans $1B sale appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/strategy-reduces-bitcoin-holdings-to-843775-btc-plans-1b-sale/",
+      "source": "Crypto Briefing",
       "date": "2026-07-06",
-      "image": "https://i2.ytimg.com/vi/4YScjPfdi74/maxresdefault.jpg",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/06081438/how-to-buy-bitcoin-8-1-800x420.jpeg",
+      "category": "market"
+    },
+    {
+      "title": "Why Business Should Oppose OMB\u2019s Plan To Politicize Grantmaking",
+      "description": "The Office of Management and Budget is proposing sweeping changes to federal grantmaking that could harm American science, economic competitiveness and national security",
+      "url": "https://www.forbes.com/sites/arthurkellermann/2026/07/06/why-business-should-oppose-ombs-plan-to-politicize-grantmaking/",
+      "source": "Forbes",
+      "date": "2026-07-06",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a4ad18bb787c0ea9b6fc674/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "category": "central_bank"
+    },
+    {
+      "title": "Solstice Advanced Materials to Acquire Element Solutions, Creating an Industry-Leading Advanced Materials Platform Aligned to Serving Attractive Secular Growth Markets",
+      "description": "Accelerates Solstice's strategy by deepening exposure to high-growth markets where materials innovation, performance and reliability are increasingly critical Creates a leading, integrated electronics platform spanning semiconductor fabrication, packaging and\u2026",
+      "url": "https://www.prnewswire.com/news-releases/solstice-advanced-materials-to-acquire-element-solutions-creating-an-industry-leading-advanced-materials-platform-aligned-to-serving-attractive-secular-growth-markets-302818329.html",
+      "source": "PRNewswire",
+      "date": "2026-07-06",
+      "image": "https://mmx.prnewswire.com/media/MS1747133/Solstice-Logo.jpg?id=OA2751098&p=facebook",
+      "category": "market"
+    },
+    {
+      "title": "Meeting with Tula Region Governor Dmitry Milyayev",
+      "description": "Dmitry Milyayev briefed the President on the region's socioeconomic development.",
+      "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/07/russia-260706-kremlin01.htm",
+      "source": "Globalsecurity.org",
+      "date": "2026-07-06",
+      "image": null,
+      "category": "central_bank"
+    },
+    {
+      "title": "Planned obsolescence is now a Windows PC security nightmare",
+      "description": "I have a headache from dealing with Secure Boot this past week. I\u2019m also now worried about the future of security on PCs, given the economy right now.\r\n\n\n\n\nLet\u2019s rewind. On June 24, security certificates for a very important Windows feature began expiring. (T\u2026",
+      "url": "https://www.pcworld.com/article/3182915/planned-obsolescence-is-now-a-windows-pc-security-nightmare.html",
+      "source": "PCWorld",
+      "date": "2026-07-06",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/07/pexels-daniel-dan-47825192-7598913-rotated-1.jpg?quality=50&strip=all&w=1024",
       "category": "supply_demand"
+    },
+    {
+      "title": "Cannabis Law Reform Is a Civil Rights Issue and Must Be Treated as Such",
+      "description": "NORML Summer \u201826 Mitchell Floch shares his perspective on the disparate impact of marijuana prohibition.\nThe post Cannabis Law Reform Is a Civil Rights Issue and Must Be Treated as Such appeared first on NORML.",
+      "url": "https://norml.org/blog/2026/07/06/cannabis-law-reform-is-a-civil-rights-issue-and-must-be-treated-as-such/",
+      "source": "Norml.org",
+      "date": "2026-07-06",
+      "image": "https://i0.wp.com/norml.org/wp-content/uploads/2023/10/marijuana-handcuffs-gavel.png?fit=730%2C411&ssl=1",
+      "category": "market"
     }
   ],
   "history": [
@@ -451,15 +451,15 @@
     {
       "date": "2026-07-07",
       "week": "2026-W28",
-      "gold_10g": 126828.51,
-      "silver_kg": 187135.42,
-      "platinum_g": 5044.78,
-      "gold_usd_oz": 4132.6,
-      "silver_usd_oz": 60.98,
-      "platinum_usd_oz": 1643.8
+      "gold_10g": 128067.76,
+      "silver_kg": 189162.48,
+      "platinum_g": 5107.31,
+      "gold_usd_oz": 4172.98,
+      "silver_usd_oz": 61.64,
+      "platinum_usd_oz": 1664.17
     }
   ],
-  "timestamp": "2026-07-07T15:35:13.433943+05:30",
+  "timestamp": "2026-07-07T17:44:48.738030+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
