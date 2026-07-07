@@ -1,24 +1,24 @@
 {
   "prices": {
     "gold": {
-      "price_per_gram_inr": 12673.87,
-      "price_usd_oz": 4129.68,
-      "change_percent": -0.86,
-      "change_value_usd": -35.85,
-      "price_per_10g_inr": 126738.74
+      "price_per_gram_inr": 12682.85,
+      "price_usd_oz": 4132.6,
+      "change_percent": -0.79,
+      "change_value_usd": -32.93,
+      "price_per_10g_inr": 126828.51
     },
     "silver": {
-      "price_per_gram_inr": 187.6,
-      "price_usd_oz": 61.13,
-      "change_percent": -1.5,
-      "change_value_usd": -0.93,
-      "price_per_kg_inr": 187600.37
+      "price_per_gram_inr": 187.14,
+      "price_usd_oz": 60.98,
+      "change_percent": -1.74,
+      "change_value_usd": -1.08,
+      "price_per_kg_inr": 187135.42
     },
     "platinum": {
-      "price_per_gram_inr": 4971.42,
-      "price_usd_oz": 1619.89,
-      "change_percent": -0.82,
-      "change_value_usd": -13.36
+      "price_per_gram_inr": 5044.78,
+      "price_usd_oz": 1643.8,
+      "change_percent": 0.65,
+      "change_value_usd": 10.55
     },
     "currencies": {
       "USD_INR": 95.4559,
@@ -30,8 +30,8 @@
       "CAD_INR": 67.1657,
       "SGD_INR": 73.8594
     },
-    "gold_silver_ratio": 67.56,
-    "timestamp": "2026-07-07T06:59:31.843208",
+    "gold_silver_ratio": 67.77,
+    "timestamp": "2026-07-07T10:05:07.213544",
     "source": "GoldAPI"
   },
   "currencies": {
@@ -53,8 +53,8 @@
         "sell": 65,
         "hold": 25
       },
-      "summary": "Gold is showing negative signals. Slight decline of -0.9%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-07T06:59:36.476537",
+      "summary": "Gold is showing negative signals. Slight decline of -0.8%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-07-07T10:05:13.157946",
       "source": "rule-based"
     },
     "silver": {
@@ -65,20 +65,20 @@
         "sell": 65,
         "hold": 25
       },
-      "summary": "Silver is showing negative signals. Significant daily drop of -1.5%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-07T06:59:36.553318",
+      "summary": "Silver is showing negative signals. Significant daily drop of -1.7%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-07-07T10:05:13.326971",
       "source": "rule-based"
     },
     "platinum": {
       "metal": "platinum",
       "recommendation": "SELL",
       "confidence": {
-        "buy": 10,
-        "sell": 65,
-        "hold": 25
+        "buy": 15,
+        "sell": 56,
+        "hold": 29
       },
-      "summary": "Platinum is showing negative signals. Slight decline of -0.8%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-07T06:59:36.635203",
+      "summary": "Platinum is showing negative signals. Positive daily movement of 0.7%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-07-07T10:05:13.423502",
       "source": "rule-based"
     }
   },
@@ -90,14 +90,14 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -4.4% in 4 weeks",
+        "Weak momentum: -4.3% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
-      "support": 126738.74,
+      "support": 126828.51,
       "resistance": 140736.5,
-      "current_price": 126738.74,
-      "ma_short": 130146.67,
-      "ma_long": 132264.64,
+      "current_price": 126828.51,
+      "ma_short": 130169.12,
+      "ma_long": 132282.59,
       "trend_score": -3.5
     },
     "silver": {
@@ -107,14 +107,14 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -9.6% in 4 weeks",
+        "Weak momentum: -9.9% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
-      "support": 187600.37,
+      "support": 187135.42,
       "resistance": 243170.57,
-      "current_price": 187600.37,
-      "ma_short": 199170.83,
-      "ma_long": 207970.78,
+      "current_price": 187135.42,
+      "ma_short": 199054.6,
+      "ma_long": 207877.79,
       "trend_score": -3.5
     },
     "platinum": {
@@ -124,44 +124,98 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -8.8% in 4 weeks",
+        "Weak momentum: -7.4% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
-      "support": 4971.42,
+      "support": 5033.18,
       "resistance": 6206.5,
-      "current_price": 4971.42,
-      "ma_short": 5218.51,
-      "ma_long": 5416.11,
+      "current_price": 5044.78,
+      "ma_short": 5236.85,
+      "ma_long": 5430.78,
       "trend_score": -3.5
     }
   },
   "news": [
     {
-      "title": "Global Market: Japan reassures markets over BOJ independence, fiscal reforms",
-      "description": "Japan sought to reassure financial markets that it remains committed to fiscal discipline after concerns over its latest economic policy blueprint pushed government bond yields to multi-decade highs. The government denied it was pressuring the Bank of Japan to keep interest rates low and reiterated ",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-reassures-markets-over-boj-independence-fiscal-reforms/articleshow/132232232.cms",
+      "title": "Global Market: Britain's bond market poses early fiscal test for Andy Burnham",
+      "description": "Britain's government bond market is expected to be a key test for Andy Burnham's economic credibility as investors scrutinise his commitment to fiscal discipline amid mounting spending pressures. While easing bond yields have offered some relief, analysts say persistent inflation risks and rising de",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-britains-bond-market-poses-early-fiscal-test-for-andy-burnham/articleshow/132235449.cms",
       "source": "Economic Times Markets",
       "date": "2026-07-07",
       "image": "",
-      "category": "central_bank"
+      "category": "inflation"
     },
     {
-      "title": "Global Market: Euro zone inflation risks persist despite oil price retreat, ECB's Schnabel warns",
-      "description": "ECB Executive Board member Isabel Schnabel said the euro zone economy has not returned to pre-war conditions despite lower oil prices, citing persistent core inflation, energy market risks and supply chain pressures. Her remarks suggest policymakers remain cautious on inflation, while another ECB of",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-euro-zone-inflation-risks-persist-despite-oil-price-retreat-ecbs-schnabel-warns/articleshow/132231999.cms",
+      "title": "Global oil market weathers Iran war shock, but reserve depletion raises future price risks",
+      "description": "The global oil market absorbed record supply disruptions during the Iran conflict without triggering a prolonged price shock. But analysts warn that depleted strategic reserves, damaged energy infrastructure and unresolved tensions around the Strait of Hormuz have left the market more vulnerable to ",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-oil-market-weathers-iran-war-shock-but-reserve-depletion-raises-future-price-risks/articleshow/132233831.cms",
       "source": "Economic Times Markets",
       "date": "2026-07-07",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "India bond rally pauses ahead of state debt sale",
-      "description": "Indian government bonds traded range-bound early Tuesday, pausing a three-session rally. Traders awaited a large state-debt auction, which will sell bonds worth 213.50 billion rupees. Oil and U.S. Treasury yields trading sideways provided no fresh directional triggers for the market. Sustained forei",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bond-rally-pauses-ahead-of-state-debt-sale/articleshow/132231287.cms",
-      "source": "Economic Times Markets",
+      "title": "Gold, Silver and Platinum Forecast: Fed Minutes Put Key Breakout Levels in Focus - FXEmpire",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMEZfNng3QjI3d2Vqc3Vid0hjV0pHXzNVbzY2SXZnRkxuSFgzQWdPSDlhQ3FYQWNSYThNVGhYUV9ZWlFtQmpPYUJTZW96eUlWalVRaUFmRG80SEgwcjRPeGQ4X3pFR2RjZXoyR2MtS2JTU25vbFlBM2hSOHdRdHFzeUdlc1UzRzVNTG4zLV9oMU42UmhkcDJIQlN5TkFqWkY1dXRjT29CeUxBV2RRQTAxT3k3UnpvWEUxS2",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMEZfNng3QjI3d2Vqc3Vid0hjV0pHXzNVbzY2SXZnRkxuSFgzQWdPSDlhQ3FYQWNSYThNVGhYUV9ZWlFtQmpPYUJTZW96eUlWalVRaUFmRG80SEgwcjRPeGQ4X3pFR2RjZXoyR2MtS2JTU25vbFlBM2hSOHdRdHFzeUdlc1UzRzVNTG4zLV9oMU42UmhkcDJIQlN5TkFqWkY1dXRjT29CeUxBV2RRQTAxT3k3UnpvWEUxS2FLN2pUb1E4SHc3dkNtZ2Z0RUFsaHpOQk13aTlKX2ZCNVVmU1Z1MA?oc=5",
+      "source": "Google News - Precious Metals",
       "date": "2026-07-07",
       "image": "",
-      "category": "currency"
+      "category": "central_bank"
+    },
+    {
+      "title": "Central Bank says strong exports offset energy import surge",
+      "description": "T\u00fcrkiye\u2019s foreign trade balance improved in the second quarter despite a sharp rise in energy imports, as exports remained strong and non-energy imports declined, according to an analysis published on July 6 on the Turkish Central Bank\u2019s blog.",
+      "url": "https://www.hurriyetdailynews.com/central-bank-says-strong-exports-offset-energy-import-surge-224046",
+      "source": "Hurriyet Daily News",
+      "date": "2026-07-06",
+      "image": "https://image.hurimg.com/i/hurriyet/75/200x200/6a4b77487c43e629aa2542d1.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "South Africa in history\u2019s struggle",
+      "description": "Kevin Cox\u2019s NLR essay on South Africa claims to correct liberal and culturalist accounts through historical materialism. But it reproduces the very epistemic and analytical failures it sets out to overcome.",
+      "url": "https://africasacountry.com/2026/07/south-africa-in-historys-struggle",
+      "source": "Africasacountry.com",
+      "date": "2026-07-06",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "Washington State Residents Lose $673,500 to Sophisticated Bank Scams in Three Days",
+      "description": "Residents in one part of Washington state have lost more than $673,000 to scams in just three days. The Clallam County Sheriff\u2019s Office says an 84-year-old victim lost $420,000 after scammers impersonating Microsoft and the FTC convinced the person to buy gol\u2026",
+      "url": "https://dailyhodl.com/2026/07/06/washington-state-residents-lose-673500-to-sophisticated-bank-scams-in-three-days/",
+      "source": "The Daily Hodl",
+      "date": "2026-07-06",
+      "image": "https://dailyhodl.com/wp-content/uploads/2025/05/food-stamp-fraud.jpg?resize=1365,800",
+      "category": "market"
+    },
+    {
+      "title": "Commerce media\u2019s measurement problem has an in-store answer",
+      "description": "Commerce media's measurement problem isn't a secret. Brands know it. Retailers know it. And Fluent has the answer.",
+      "url": "https://www.retaildive.com/spons/commerce-medias-measurement-problem-has-an-in-store-answer/824046/",
+      "source": "Retail Dive",
+      "date": "2026-07-06",
+      "image": "https://imgproxy.divecdn.com/iaaOk1J4p5rFFOSQbZ-dglqf6vC3XvyCfNqOYm5S4JY/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DaHJpc3RpYW5uX0tvZXBrZV91bnNwbGFzaF8wMS5wbmc=.webp",
+      "category": "market"
+    },
+    {
+      "title": "Gold rate today (July 6, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from Joyalukkas, Malabar Gold & Diamonds, Tanishq & IBJA in Delhi, Mumbai, Hyderabad, other cities",
+      "description": "Gold prices saw a slight dip today, July 6, 2026, Check 22k jewellery rates at major retailers like Tanishq, Malabar Gold & Diamonds, Kalyan Jewellers, and Joyalukkas. Consumers are advised to check the latest rates before purchasing.",
+      "url": "https://economictimes.indiatimes.com/wealth/invest/gold-rate-today-july-6-2026-check-24k-22k-20k-and-18k-gold-jewellery-prices-from-joyalukkas-malabar-gold-diamonds-tanishq-ibja-in-delhi-mumbai-hyderabad-other-cities/articleshow/132211365.cms",
+      "source": "The Times of India",
+      "date": "2026-07-06",
+      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1448651,resizemode-75,msid-132211365/wealth/invest/gold-rate-today-july-6-2026-check-24k-22k-20k-and-18k-gold-jewellery-prices-from-joyalukkas-malabar-gold-diamonds-tanishq-ibja-in-delhi-mumbai-hyderabad-other-cities.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "Sensex jumps 600 points, Nifty nears 23,450. Key factors behind today's Dalal Street rally",
+      "description": "Indian stock markets soared on Monday, with Sensex and Nifty extending their rally for a fourth straight session. Heavy rainfall bolstering monsoon hopes, coupled with Foreign Institutional Investors turning net buyers, significantly boosted investor sentimen\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-rising-today-sensex-jumps-600-points-nifty-nears-23450-6-key-factors-behind-dalal-streets-gains/articleshow/132211051.cms",
+      "source": "The Times of India",
+      "date": "2026-07-06",
+      "image": "https://img.etimg.com/thumb/msid-132211280,width-1200,height-630,imgsize-721236,overlay-etmarkets/articleshow.jpg",
+      "category": "market"
     },
     {
       "title": "This SGB delivers 190% return on premature redemption date: Gold bond turns Rs 1 lakh investment into Rs 2.90 lakh",
@@ -173,58 +227,31 @@
       "category": "metals"
     },
     {
-      "title": "China\u2019s largest ETF is now a gold fund, not a stock index tracker",
-      "description": "China's shift to gold ETFs reflects growing economic uncertainty, impacting global gold markets and signaling changing investment priorities.\nThe post China\u2019s largest ETF is now a gold fund, not a stock index tracker appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/china-gold-etf-largest-fund-huaan/",
-      "source": "Crypto Briefing",
+      "title": "Gold slips \u20b9150, silver drops \u20b95,000 as strong US dollar dents bullion demand",
+      "description": "Traders said the market remained range-bound as investors balanced lingering geopolitical risks in West Asia against a stronger greenback and expectations surrounding the US Federal Reserve's monetary policy.",
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-slips-150-silver-drops-5000-as-strong-us-dollar-dents-bullion-demand/article71188756.ece",
+      "source": "BusinessLine",
       "date": "2026-07-06",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/06004318/gold-bars-400oz-on-a-pallet-within-a-vault-4-800x420.jpeg",
-      "category": "metals"
+      "image": "https://bl-i.thgim.com/public/incoming/45ja94/article71188795.ece/alternates/LANDSCAPE_1200/iStock-506120376.jpg",
+      "category": "geopolitics"
     },
     {
-      "title": "High jewellery boosts desirability to outshine luxury sector",
-      "description": "Asset-rich buyers, soaring gold prices and big launches have raised perceptions of the category\u2019s investment potential",
-      "url": "https://biztoc.com/x/9b2b11efe6c16362",
-      "source": "Biztoc.com",
-      "date": "2026-07-06",
-      "image": "https://biztoc.com/cdn/995/og.png",
-      "category": "metals"
-    },
-    {
-      "title": "Gold, silver prices today, 6 July: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
-      "description": "Gold and silver prices today, 6 July: Check the latest 24K, 22K gold and 999 silver retail rates across Delhi, Mumbai, Kolkata and other major Indian cities, along with MCX market updates.",
-      "url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-6-july-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11783204887128.html",
+      "title": "Gold drops 30%, silver plunges 54% \u2014 but history shows 2026 correction isn\u2019t the deepest yet",
+      "description": "Gold and silver have fallen sharply from their record highs in 2026, with gold down about 30% and silver by 54%. However, historical cycles show the current declines are not the deepest, and the time correction is still pending.&nbsp;",
+      "url": "https://www.livemint.com/money/personal-finance/gold-drops-30-silver-plunges-54-but-history-shows-2026-correction-isn-t-the-deepest-yet-11783323785872.html",
       "source": "Livemint",
       "date": "2026-07-06",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/04/1600x900/logo/gold_1783205134358_1783205134500_ef130a53-c088-4742-9efc-29d7c44a5307.jpg",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/06/1600x900/logo/gold_correction_1783327423244_1783327438056_cb6395ac-d867-43b3-a3e7-c75c57a559c3.png",
       "category": "metals"
     },
     {
-      "title": "Ethiopia: Tigray Authorities Forcibly Recruiting Civilians",
-      "description": "Click to expand Image\n \n\n\n\n \n \n \n\n \n \n \n \n Tigray People's Liberation Front (TPLF) fighters in Mekele, Tigray region, Ethiopia, June 30, 2021.\n \u00a9 2021 Yasuyoshi Chiba/AFP via Getty Images \n \n \n\n\n \n(Nairobi) \u2013 Regional authorities in Ethiopia\u2019s northern Tigray\u2026",
-      "url": "https://www.hrw.org/news/2026/07/06/ethiopia-tigray-authorities-forcibly-recruiting-civilians",
-      "source": "Human Rights Watch",
+      "title": "Silver Based Brazing Alloys Global Market Report 2026",
+      "description": "Key market opportunities for silver-based brazing alloys include increasing demand from the automotive sector, especially for electric vehicles, adoption in power distribution systems, and expansion in renewable energy. Technology advancements in alloy compos\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/07/06/3322196/28124/en/Silver-Based-Brazing-Alloys-Global-Market-Report-2026.html",
+      "source": "GlobeNewswire",
       "date": "2026-07-06",
-      "image": "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2026/06/202606afr_ethiopia_tplf.jpg?h=0f4230fa&itok=eEyJMZ0m",
-      "category": "market"
-    },
-    {
-      "title": "Sensex jumps over 300 points, Nifty above 24,300 to extend gains for the 4th day on monsoon revival and FII buying",
-      "description": "Indian stock markets surged on Monday, with Sensex and Nifty extending gains for a fourth straight session. Heavy rainfall revived monsoon hopes, while foreign investors turned net buyers, boosting investor confidence. Infosys led the gains, though some stock\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-jumps-over-300-points-nifty-above-24300-to-extend-gains-for-the-4th-day-on-monsoon-revival-and-fii-buying/articleshow/132152415.cms",
-      "source": "The Times of India",
-      "date": "2026-07-06",
-      "image": "https://img.etimg.com/thumb/msid-132206975,width-1200,height-630,imgsize-33348,overlay-etmarkets/articleshow.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Westland and Taiko to get $50m in public loans for mineral plants, Rua Gold waits to hear",
-      "description": "Just $150m remains unspoken for in the $1.2b Regional Infrastructure Fund pot.",
-      "url": "https://www.nzherald.co.nz/business/westland-and-taiko-to-get-50m-in-public-loans-for-mineral-plants-rua-gold-waits-to-hear/premium/6YTKCY4GVNCI7MPUFWKPSKF4YY/",
-      "source": "New Zealand Herald",
-      "date": "2026-07-06",
-      "image": "https://www.nzherald.co.nz/resizer/v2/NBIQLPPIFRBFXF4HZRH7WURFMQ.jpg?auth=d201de4225fe61cf19a8b0f146d71f9195df2a71401047710a4858eed381610e&width=1200&height=675&quality=70&smart=true",
-      "category": "metals"
+      "image": "https://ml.globenewswire.com/Resource/Download/7a00a6da-e5c3-45c9-9d06-1c4ad8169cfb",
+      "category": "supply_demand"
     },
     {
       "title": "Doug Casey Predicts Trump Will Not Complete Second Term",
@@ -272,139 +299,112 @@
       "category": "market"
     },
     {
-      "title": "What does it mean when a woman wears a bracelet on her left ankle?",
-      "description": "What Does It Mean When a Woman Wears a Bracelet on Her Left Ankle? A woman wearing a bracelet on her left ankle can signify various things, ranging from personal style and fashion preference to, less commonly in modern times, a symbolic or suggestive message.\u2026",
-      "url": "https://www.lifesciencesworld.com/what-does-it-mean-when-a-woman-wears-a-bracelet-on-her-left-ankle/",
-      "source": "Lifesciencesworld.com",
+      "title": "Tata Communications Strengthens India - Singapore Digital Corridor with AI-Ready Connectivity Investments",
+      "description": "Will enable enterprises to seamlessly connect across continents with secure, high-speed, dynamic, self-managed and low-latency infrastructure MUMBAI, India, July 6, 2026 /PRNewswire/ -- Tata Communications, a leading global communications technology player, t\u2026",
+      "url": "https://www.prnewswire.com/news-releases/tata-communications-strengthens-india--singapore-digital-corridor-with-ai-ready-connectivity-investments-302818257.html",
+      "source": "PRNewswire",
       "date": "2026-07-06",
-      "image": null,
+      "image": "https://mma.prnewswire.com/media/2811674/5597391/Tata_Communications_Logo.jpg?p=facebook",
       "category": "market"
     },
     {
-      "title": "Gold trades near two-week high on cooling US rate-hike bets",
-      "description": "Gold prices are holding firm near a two-week peak, buoyed by a recent U.S. jobs report that softened expectations for immediate Federal Reserve interest rate hikes. This cooling labor market data has led traders to scale back bets on a September rate increase\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-trades-near-two-week-high-on-cooling-us-rate-hike-bets/articleshow/132205106.cms",
-      "source": "The Times of India",
+      "title": "Share Markets Close Higher, Auto Stocks Rally: Sensex Over 500 Points Up, Nifty Above 24,400",
+      "description": "The rally remained broad-based for most of the trading session, with heavyweight financial stocks providing the biggest boost to the frontline indices.",
+      "url": "https://news.abplive.com/business/mutual-funds/share-market-closes-higher-auto-stocks-lead-sensex-nifty-1854836",
+      "source": "Abplive.com",
       "date": "2026-07-06",
-      "image": "https://img.etimg.com/thumb/msid-132205108,width-1200,height-630,imgsize-2109451,overlay-etmarkets/articleshow.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "Bitcoin, gold, and silver rise as markets bet on delayed Fed rate hikes",
-      "description": "Market optimism grows as delayed rate hikes suggest potential for sustained asset growth, but underlying risks and uncertainties remain.\nThe post Bitcoin, gold, and silver rise as markets bet on delayed Fed rate hikes appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/bitcoin-gold-silver-rise-delayed-fed-rate-hikes/",
-      "source": "Crypto Briefing",
-      "date": "2026-07-06",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/05200043/eccles-building-wikipedia-13-800x420.jpeg",
-      "category": "central_bank"
-    },
-    {
-      "title": "Middle East urged to prioritise prevention as cyber workforce gap hits 300,000",
-      "description": "As cyber attacks accelerate and organisations expand their digital footprints, security leaders are being urged to prioritise prevention and zero-trust architectures over expectations that AI will close the region\u2019s growing skills gap",
-      "url": "https://www.computerweekly.com/news/366645533/Middle-East-urged-to-prioritize-prevention-as-cyber-workforce-gap-hits-300000",
-      "source": "ComputerWeekly.com",
-      "date": "2026-07-06",
-      "image": "https://www.computerweekly.com/visuals/German/article/Hero-network-security-pinkeyes-AdobeStock_189238634.jpg",
+      "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/04/27/162a7a93d5ecc3c98ca63f821212f58a17772623827221379_original.jpg?impolicy=abp_cdn&imwidth=1200",
       "category": "market"
     },
     {
-      "title": "Companies prioritising AI readiness, specialised skills over large-scale workforce expansion: Report",
-      "description": "Indian companies are now prioritizing skilled talent and AI readiness over sheer hiring numbers, a shift towards precision in recruitment. The focus is on capability-led planning and faster decision-making, with professionals holding 3-8 years of experience b\u2026",
-      "url": "https://economictimes.indiatimes.com/jobs/hr-policies-trends/companies-prioritising-ai-readiness-specialised-skills-over-large-scale-workforce-expansion-report/articleshow/132210074.cms",
+      "title": "Who will foot the bill for Burnham? New PM's business rates vow alone 'will cost \u00a3880m' as he prepares wealth taxes - amid fears there is 'no plan' for Government",
+      "description": "The prime minister-in-waiting has pledged an overhaul of business rates if he enters Downing Street in a bid to boost 'family-owned businesses'.",
+      "url": "https://www.dailymail.com/news/article-15955857/Who-foot-bill-Burnham-New-PMs-business-rates-vow-cost-880m-prepares-wealth-taxes-amid-fears-no-plan-Government.html",
+      "source": "Dailymail.com",
+      "date": "2026-07-06",
+      "image": "https://i.dailymail.com/1s/2026/07/06/10/109824719-0-image-m-16_1783331837369.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Are you older or younger than the rest of the world?",
+      "description": "Enter the day you were born and we will place you in the lineup of all eight billion people alive today.",
+      "url": "https://www.aljazeera.com/features/longform/2026/7/6/are-you-older-or-younger-than-the-rest-of-the-world",
+      "source": "Al Jazeera English",
+      "date": "2026-07-06",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/INTERACTIVE-GLOBAL-POPULATION-COVER-thumbnail-with-text-JULY-2-2026-copy-3-1782995390.png?resize=1920%2C1080&quality=80",
+      "category": "market"
+    },
+    {
+      "title": "Quote of the day by Richard Feynman: \u2018Nature cannot be fooled. Reality must take precedence over\u2026\u2019 - Inspiring lesson on truth and intellectual honesty by Nobel Prize-winning American physicist",
+      "description": "Quote of the day by Richard Feynman: Nobel laureate Richard Feynman's powerful quote,  For a successful technology, reality must take precedence over public relations, for Nature cannot be fooled\u201d, born from the Challenger disaster, underscores the critical n\u2026",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/quote-of-the-day-by-richard-feynman-nature-cannot-be-fooled-reality-must-take-precedence-over-inspiring-lesson-on-truth-and-intellectual-honesty-by-nobel-prize-winning-american-physicist/articleshow/132213838.cms",
       "source": "The Times of India",
       "date": "2026-07-06",
-      "image": "https://img.etimg.com/thumb/msid-132210083,width-1200,height-630,imgsize-655600,overlay-etcareers/articleshow.jpg",
+      "image": "https://img.etimg.com/thumb/msid-132213895,width-1200,height-630,imgsize-125467,overlay-etpanache/articleshow.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Indian IT firms face muted Q1 as AI shift, weak demand weigh",
+      "description": "By Haripriya Suresh and Bharath Rajeswaran\nBENGALURU, July 6 (Reuters) - India's top information technology companies are expected to report another subdued quarter, as AI-driven pricing pressure, weak client spending, and global geopolitical turmoil continue\u2026",
+      "url": "https://biztoc.com/x/06820997e780e1df",
+      "source": "Biztoc.com",
+      "date": "2026-07-06",
+      "image": "https://biztoc.com/cdn/06820997e780e1df_s.webp",
       "category": "geopolitics"
     },
     {
-      "title": "LG Chem begins first mass supply of semiconductor strippers to Amkor",
-      "description": "LG Chem has begun supplying semiconductor strippers to Amkor Technology, a major US-based packaging and testing provider, in its first commercial move into the market. The deal highlights rising demand for advanced chip-making chemicals as artificial intellig\u2026",
-      "url": "https://www.digitimes.com/news/a20260706VL209/lg-chem-amkor-packaging-materials-testing.html",
-      "source": "Digitimes",
-      "date": "2026-07-06",
-      "image": "https://img.digitimes.com/newsshow/20260706vl209_files/1_b.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "ADNOC Launches Global LNG Trading Platform Targeting 47 MTPA by 2035",
-      "description": "ADNOC has launched a global liquefied natural gas marketing and trading platform that combines the LNG marketing operations of ADNOC Gas and XRG with the trading capabilities of ADNOC Trading, as the UAE energy giant seeks to expand its position in the global\u2026",
-      "url": "https://biztoc.com/x/1146c9967abdbf8c",
-      "source": "Biztoc.com",
-      "date": "2026-07-06",
-      "image": "https://biztoc.com/cdn/1146c9967abdbf8c_s.webp",
-      "category": "market"
-    },
-    {
-      "title": "ITV sells media and entertainment arm to Sky for \u00a31.6bn",
-      "description": "Published\nITV is selling its media and entertainment divisions to Sky for \u00a31.6bn in a deal that the companies say will create a strong rival to global streaming giants.\nThe sale includes ITV's broadcast channels and its ITVX streaming service, although the co\u2026",
-      "url": "https://biztoc.com/x/dca0e051d7fb8607",
-      "source": "Biztoc.com",
-      "date": "2026-07-06",
-      "image": "https://biztoc.com/cdn/dca0e051d7fb8607_s.webp",
-      "category": "market"
-    },
-    {
-      "title": "Longsys forecasts sharp 1H26 profit growth on stronger memory market, AI demand",
-      "description": "Longsys Electronics expects a sharp rise in first-half profit as global memory supply stays tight and demand from artificial intelligence-related devices strengthens. The outlook points to firmer conditions across the semiconductor market, with implications f\u2026",
-      "url": "https://www.digitimes.com/news/a20260706PR200/profit-longsys-electronics-demand-market-wafer.html",
-      "source": "Digitimes",
-      "date": "2026-07-06",
-      "image": "https://img.digitimes.com/newsshow/20260706pr200_files/1_2b.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "39/2026\u30fbTrifork Group: Weekly report on share buyback",
-      "description": "Schindellegi, Switzerland \u2013 6 July 2026  Trifork Group AGCompany announcement no. 39/2026  Weekly report on share buyback  On 27 February 2026, Trifork...",
-      "url": "https://www.globenewswire.com/news-release/2026/07/06/3322168/0/en/39-2026-Trifork-Group-Weekly-report-on-share-buyback.html",
+      "title": "Heineken Holding N.V. reports transactions under its current share buyback programme",
+      "description": "Heineken Holding N.V. reports transactions under its current   share buyback programme  Amsterdam, 6 July 2026 - Heineken Holding N.V. (EURONEXT:HEIO;...",
+      "url": "https://www.globenewswire.com/news-release/2026/07/06/3322264/0/en/Heineken-Holding-N-V-reports-transactions-under-its-current-share-buyback-programme.html",
       "source": "GlobeNewswire",
       "date": "2026-07-06",
-      "image": "https://ml-eu.globenewswire.com/Resource/Download/6b9ce300-46ec-4af4-85f4-42c2bfc29c79",
+      "image": "https://ml-eu.globenewswire.com/Resource/Download/7a5731e9-d7ca-4387-84c1-69bd8b7f8d9e",
+      "category": "currency"
+    },
+    {
+      "title": "Trump memecoin ethics fight still controls CLARITY Act vote after law enforcement opposition cracks",
+      "description": "The CLARITY Act's two biggest obstacles are moving in opposite directions this week. Law enforcement opposition is softening, while the ethics fight over crypto conflicts of interest is sharpening. Before this week, forecasters and prediction markets already \u2026",
+      "url": "https://cryptoslate.com/trump-memecoin-ethics-fight-still-controls-clarity-act-vote-after-law-enforcement-opposition-cracks/",
+      "source": "CryptoSlate",
+      "date": "2026-07-06",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/07/clarity-act-vote-math-mcsa-neutral-noble-endorsement-memecoin.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "What happens if DOJ ends in-state tuition for undocumented students?",
+      "description": "The DOJ argues states illegally give undocumented students in-state tuition unavailable to many U.S. citizens.",
+      "url": "https://www.newsnationnow.com/us-news/immigration/doj-ends-in-state-tuition-undocumented-students/",
+      "source": "Newsnationnow.com",
+      "date": "2026-07-06",
+      "image": "https://s.yimg.com/lo/mysterio/api/a012afdc95715fc259e29bed4f216f97b8d7d27ac15023b9ad7242dc137f376a/lightyear_networkapi/resizefill_w831_h484;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2F71a92475f8e7e13805084ba4604755d0",
       "category": "market"
     },
     {
-      "title": "Global Market: Japan's Topix rises on oil price drop, Nikkei weighed down by tech",
-      "description": "Japanese stocks saw a positive start to the week, with the Topix index extending its winning streak to six sessions, buoyed by falling oil prices and a strong global market. While the tech-heavy Nikkei 225 remained flat, sectors like shipping and autos surged\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-topix-rises-on-oil-price-drop-nikkei-weighed-down-by-tech/articleshow/132209914.cms",
-      "source": "The Times of India",
+      "title": "These Immigrant Kids Were Once Protected. Under Trump, Their Deportations Have Tripled.",
+      "description": "A first-of-its-kind ProPublica analysis found that children who entered the U.S. by themselves are being detained and removed at about three times the rate they were during the final years of the first Trump presidency.",
+      "url": "https://www.propublica.org/article/unaccompanied-minors-deportations-elder-chavez",
+      "source": "ProPublica",
       "date": "2026-07-06",
-      "image": "https://img.etimg.com/thumb/msid-132209981,width-1200,height-630,imgsize-180512,overlay-etmarkets/articleshow.jpg",
+      "image": "https://www.propublica.org/wp-content/uploads/2026/07/ProPublica-Elder-Final-Yellow_maxHeight_3000_maxWidth_3000-1.jpg?resize=2000,1333",
       "category": "market"
     },
     {
-      "title": "Nigeria targets green industrialisation with critical minerals roadmap",
-      "description": "By Yinka Kolawole Nigeria is positioning\u00a0its vast critical mineral deposits as the foundation for a new wave of industrial growth, following the unveiling of a strategic roadmap designed to convert the country\u2019s mineral wealth into investments in clean energy\u2026",
-      "url": "https://www.vanguardngr.com/2026/07/nigeria-targets-green-industrialisation-with-critical-minerals-roadmap/",
-      "source": "Vanguard",
+      "title": "I Changed My Mind About Small-Dollar Campaign Donors",
+      "description": "The problem with donation mobs",
+      "url": "https://www.theatlantic.com/ideas/2026/07/small-dollar-donors-harm/687734/",
+      "source": "The Atlantic",
       "date": "2026-07-06",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2025/04/Nigeria-map.jpg",
-      "category": "market"
+      "image": "https://cdn.theatlantic.com/thumbor/ZjotfL5wtzx8ZKYuXH6Z0DtBE8s=/0x35:2000x1077/1200x625/media/img/mt/2026/06/2026_06_29_Small_donors/original.jpg",
+      "category": "currency"
     },
     {
-      "title": "Today in Germany: A roundup of the latest news on Monday",
-      "description": "Thousands protest as AfD re-elects party leaders, Cologne Pride draws record crowds amid concerns over rising anti-queer hostility, Berlin population tops 3.7 million for the first time and more news on Monday, July 6th.",
-      "url": "https://www.thelocal.de/20260706/today-in-germany-a-roundup-of-the-latest-news-on-monday-129",
-      "source": "The Local Germany",
+      "title": "TOPIX Hits Record as Nikkei Stalls Below 70,000",
+      "description": "Tokyo stocks ended mixed on July 6 as profit-taking in AI and semiconductor-related shares kept the Nikkei 225 nearly flat, while broader buying in banks, value stocks and domestic demand names lifted the TOPIX to a fresh record high. (News On Japan)",
+      "url": "https://newsonjapan.com/article/149883.php",
+      "source": "Newsonjapan.com",
       "date": "2026-07-06",
-      "image": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/07/watermarks-logo-605003963.jpg@webp",
-      "category": "market"
-    },
-    {
-      "title": "Blue economy: FG calls for state, private sector collaboration",
-      "description": "By Providence Ayanfeoluwa\u00a0\u00a0 The Minister of Marine\u00a0and Blue Economy, Dr Adegboyega Oyetola, has called for synergy between the Federal and state governments, private sector and development partners to accelerate the implementation of Nigeria\u2019s National Policy\u2026",
-      "url": "https://www.vanguardngr.com/2026/07/blue-economy-fg-calls-for-state-private-sector-collaboration/",
-      "source": "Vanguard",
-      "date": "2026-07-06",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-07-at-4.32.25-PM.jpeg",
-      "category": "central_bank"
-    },
-    {
-      "title": "India bonds track Treasury gains; monsoon, foreign inflow lend support",
-      "description": "Indian government bonds saw a rise on Monday, mirroring gains in U.S. Treasuries. Improved monsoon forecasts and consistent foreign investment bolstered market sentiment. The benchmark 10-year bond yield dipped below a key technical level, signaling potential\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-track-treasury-gains-monsoon-foreign-inflow-lend-support/articleshow/132209045.cms",
-      "source": "The Times of India",
-      "date": "2026-07-06",
-      "image": "https://img.etimg.com/thumb/msid-132209060,width-1200,height-630,imgsize-21698,overlay-etmarkets/articleshow.jpg",
-      "category": "market"
+      "image": "https://i2.ytimg.com/vi/4YScjPfdi74/maxresdefault.jpg",
+      "category": "supply_demand"
     }
   ],
   "history": [
@@ -451,15 +451,15 @@
     {
       "date": "2026-07-07",
       "week": "2026-W28",
-      "gold_10g": 126738.74,
-      "silver_kg": 187600.37,
-      "platinum_g": 4971.42,
-      "gold_usd_oz": 4129.68,
-      "silver_usd_oz": 61.13,
-      "platinum_usd_oz": 1619.89
+      "gold_10g": 126828.51,
+      "silver_kg": 187135.42,
+      "platinum_g": 5044.78,
+      "gold_usd_oz": 4132.6,
+      "silver_usd_oz": 60.98,
+      "platinum_usd_oz": 1643.8
     }
   ],
-  "timestamp": "2026-07-07T12:29:36.648315+05:30",
+  "timestamp": "2026-07-07T15:35:13.433943+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
