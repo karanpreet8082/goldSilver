@@ -54,7 +54,7 @@
         "hold": 29
       },
       "summary": "Gold is showing negative signals. Positive daily movement of 0.8%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-09T10:02:48.448639",
+      "timestamp": "2026-07-09T12:19:18.071769",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 50
       },
       "summary": "Silver is showing negative signals. Strong daily gain of 1.4%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-09T10:02:48.749617",
+      "timestamp": "2026-07-09T12:19:18.142168",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 50
       },
       "summary": "Platinum is showing negative signals. Strong daily gain of 1.9%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-09T10:02:48.857517",
+      "timestamp": "2026-07-09T12:19:18.222873",
       "source": "rule-based"
     }
   },
@@ -137,49 +137,40 @@
   },
   "news": [
     {
-      "title": "Global Market: European shares rebound as tech stocks recover; investors assess Middle East developments",
-      "description": "European stock markets traded higher on Thursday, recovering from previous losses. Technology shares led the gains, driven by renewed interest in artificial intelligence demand. Oil prices eased despite ongoing geopolitical uncertainty in the Middle East region. Spanish equities outperformed regiona",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-rebound-as-tech-stocks-recover-investors-assess-middle-east-developments/articleshow/132282741.cms",
+      "title": "Value buyers lift India bonds; US-Iran war jitters, oil risks weigh",
+      "description": "On Thursday, Indian government bonds rebounded following a selloff in the previous session. However, rising oil prices and U.S. Treasury yields limited the market's overall progress. Notably, foreign lenders significantly invested in Indian bonds in June, signaling robust inflows. Furthermore, overs",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/value-buyers-lift-india-bonds-us-iran-war-jitters-oil-risks-weigh/articleshow/132285954.cms",
       "source": "Economic Times Markets",
       "date": "2026-07-09",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "Global Market: HSBC cuts gold price forecasts for 2026-27 on hawkish Fed outlook",
-      "description": "HSBC has lowered its average gold price forecasts for 2026 and 2027. This adjustment stems from expectations of a stronger U.S. dollar and a hawkish Federal Reserve. The bank anticipates gold trading within a specific range for the remainder of 2026. Central bank purchases have moderated, though lon",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-hsbc-cuts-gold-price-forecasts-for-2026-27-on-hawkish-fed-outlook/articleshow/132282642.cms",
+      "title": "Inflation concerns prevailed in Kevin Warsh's first FOMC meeting: Fed minutes",
+      "description": "During its June meeting, the Federal Reserve decided to keep interest rates unchanged. Committee members expressed concerns about rising inflation and ongoing supply chain disruptions. Economic indicators for the second quarter showed robust growth, and the job market appeared resilient. Although in",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/inflation-concerns-prevailed-in-kevin-warshs-first-fomc-meeting-fed-minutes/articleshow/132285920.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-07-09",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "RBI intervention, oil price dip help rupee edge modestly higher",
+      "description": "The Indian rupee closed stronger on Thursday, supported by central bank intervention. Lower oil prices also helped soothe Indian equities and bonds during trading. Asian currencies were mostly firmer, while the dollar index hovered near the 101 mark. Volatility expectations for the rupee increased s",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-intervention-oil-price-dip-help-rupee-edge-modestly-higher/articleshow/132283770.cms",
       "source": "Economic Times Markets",
       "date": "2026-07-09",
       "image": "",
       "category": "central_bank"
     },
     {
-      "title": "India Inc's revenue growth to hit 2-year high of 11-11.5% in Q1 despite Iran war: Crisil",
-      "description": "India Inc's revenue is estimated to have grown 11-11.5% year-on-year in Q1FY27, marking the fastest pace in eight quarters, according to Crisil Intelligence. While pricing power helped companies offset higher input costs amid the West Asia conflict, margins remained under pressure due to rising fuel",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/india-incs-revenue-growth-to-hit-2-year-high-of-11-11-5-in-q1-despite-iran-war-crisil/articleshow/132282171.cms",
+      "title": "SpaceX shares crash 30% from peak; Cathie Wood buys $7 million stake. What is she seeing?",
+      "description": "Cathie Wood's ARK ETFs purchased $7 million worth of SpaceX shares. This investment follows a significant 34% drop from the stock's peak. Wood funded these purchases by selling Alibaba shares from her portfolios. ARK Invest now holds approximately two million SpaceX shares valued over two hundred ei",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-shares-crash-30-from-peak-cathie-wood-buys-7-million-stake-what-is-she-seeing/articleshow/132283474.cms",
       "source": "Economic Times Markets",
       "date": "2026-07-09",
       "image": "",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Vedanta Oil and Gas shares rally 8%. What\u2019s boosting investor sentiment today?",
-      "description": "Vedanta Oil and Gas shares rose sharply on Thursday, outperforming its recently listed Vedanta group peers after reports that the Delhi High Court cleared the enforcement of $99 million in arbitral awards in favour of Vedanta and Ravva Oil. The development boosted investor sentiment despite the comp",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-oil-and-gas-shares-rally-8-whats-boosting-investor-sentiment-today/articleshow/132281761.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-07-09",
-      "image": "",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Global Market:  China's factory inflation hits four-year high, keeping metals and industrial stocks in focus",
-      "description": "China's factory-gate inflation reached its fastest pace in four years during June. Producer prices rose 4.1 percent year-on-year, driven by energy and commodity costs. However, consumer inflation slowed to 1.0 percent, reflecting weak domestic demand. Manufacturers face rising costs but struggle to ",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-factory-inflation-hits-four-year-high-keeping-metals-and-industrial-stocks-in-focus/articleshow/132281159.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-07-09",
-      "image": "",
-      "category": "inflation"
+      "category": "currency"
     },
     {
       "title": "Commodity Support and Resistance Levels for Precious Metals, Energy, and Agricultural Futures on July 9, 2026 - KuCoin",
@@ -191,220 +182,229 @@
       "category": "metals"
     },
     {
-      "title": "Iran strikes 85 U.S. military sites in the Gulf, sparking a global selloff in stocks and a spike in the price of oil",
-      "description": "Everything you need to know before you reach the office this morning.",
-      "url": "https://fortune.com/2026/07/08/iran-strikes-gulf-global-selloff-stocks-oil-price/",
-      "source": "Fortune",
-      "date": "2026-07-08",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2285163163.jpg?resize=1200,600",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Can Valeria, 53 with investments worth $1 million in RRSPs, TFSAs and GICs, retire in two years?",
-      "description": "Family Finance: She could retire at 55, though her lifetime pension income would drop sharply, expert says. Find out more",
-      "url": "https://financialpost.com/personal-finance/can-valeria-with-investments-worth-1-million-retire-earlys",
-      "source": "Financial Post",
-      "date": "2026-07-08",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/07/0708-mg-pension.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Most Wanted Affordable Style \u2013 July 2026",
-      "description": "Linen-wool sportcoats, UK made dirty buck chukkas, and longingly looking (very) forward to fall.",
-      "url": "https://dappered.com/2026/07/most-wanted-affordable-style-july-2026/",
-      "source": "Dappered.com",
-      "date": "2026-07-08",
-      "image": null,
-      "category": "geopolitics"
-    },
-    {
-      "title": "Canada\u2019s resource push meets a housing crunch in northwest BC",
-      "description": "Terrace and Prince Rupert are central to Canada\u2019s resource and trade ambitions, but local leaders say the workers arriving to build that future are squeezing residents out of already tight housing markets.",
-      "url": "https://www.nationalobserver.com/2026/07/08/news/canada-resource-development-housing",
-      "source": "National Observer",
-      "date": "2026-07-08",
-      "image": "https://www.nationalobserver.com/sites/default/files/img/2026/07/07/53335279200_d825356a39_k.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Dream Sports CTO Amit Sharma steps down after a decade to launch AI venture",
-      "description": "Dream Sports CTO Amit Sharma is stepping down after nearly a decade to build an AI venture. A former Netflix and Yahoo executive, Sharma joined the company in 2016 and helped scale Dream11's technology and engineering teams as the sports-tech platform expande\u2026",
-      "url": "https://economictimes.indiatimes.com/tech/technology/dream-sports-cto-amit-sharma-steps-down-after-a-decade-to-launch-ai-venture/articleshow/132258386.cms",
-      "source": "The Times of India",
-      "date": "2026-07-08",
-      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-449053,resizemode-75,msid-132258386/tech/technology/dream-sports-cto-amit-sharma-steps-down-after-a-decade-to-launch-ai-venture.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips | TechCrunch",
-      "description": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
-      "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
-      "source": "TechCrunch",
-      "date": "2026-07-08",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/ZML-founder-Steeve-Morin.jpg?resize=1200,800",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Somali Pirates Are Back \u2014 But the Coalition That Beat Them Isn\u2019t Coming",
-      "description": "Numerous recent pirate attacks, especially the hijacking of three merchant vessels off the Horn of Africa, are a stark reminder that the conditions for resurgence can return quickly.It took years of sustained, coordinated effort by multinational naval coaliti\u2026",
-      "url": "https://warontherocks.com/somali-pirates-are-back-but-the-coalition-that-beat-them-isnt-coming/",
-      "source": "War on the Rocks",
-      "date": "2026-07-08",
-      "image": "https://warontherocks.com/wp-content/uploads/wotr-og-images/wotr-og-45532-4b1682201963.jpg",
-      "category": "market"
-    },
-    {
-      "title": "NVRO Metals and Hecla sign an MOU to process 35,000-tonnes at the NVRO Metals Hub in the Northern Territory, Australia",
-      "description": "NVRO Metals signs MOU with Hecla for proposed 35,000-tonne tailings campaign using NVRO Process\u2122 at the NVRO Metals Hub...",
-      "url": "https://www.globenewswire.com/news-release/2026/07/08/3323889/0/en/NVRO-Metals-and-Hecla-sign-an-MOU-to-process-35-000-tonnes-at-the-NVRO-Metals-Hub-in-the-Northern-Territory-Australia.html",
-      "source": "GlobeNewswire",
-      "date": "2026-07-08",
-      "image": "https://ml.globenewswire.com/Resource/Download/b67cfac1-43b9-4eca-8f65-8879dc7a7edb",
-      "category": "market"
-    },
-    {
-      "title": "Gold falls, crude oil rises after Trump says Iran peace deal \u2018over\u2019",
-      "description": "Gold prices decline as Trump declares Iran peace deal \"over,\" while crude oil prices surge amidst inflation concerns.",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-falls-crude-oil-rises-as-trump-says-iran-peace-deal-over/article71197378.ece",
+      "title": "Geopolitical tensions sink markets; Nifty posts worst fall in over three months",
+      "description": "Indian benchmark indices logged their worst session in over three months after Donald Trump declared the Iran ceasefire over, sending crude oil prices soaring, the rupee lower and the India VIX sharply higher amid broad-based selling across sectors",
+      "url": "https://www.thehindubusinessline.com/markets/stock-markets/geopolitical-tensions-sink-markets-nifty-posts-worst-fall-in-over-three-months/article71197990.ece",
       "source": "BusinessLine",
       "date": "2026-07-08",
-      "image": "https://bl-i.thgim.com/public/incoming/xklj5f/article71197476.ece/alternates/LANDSCAPE_1200/PO08_Gold_prices_down.jpg",
-      "category": "inflation"
+      "image": "https://bl-i.thgim.com/public/incoming/xu8tqp/article71160397.ece/alternates/LANDSCAPE_1200/Sensex-crashes-G7QG1SU0P.4.jpg.jpg",
+      "category": "geopolitics"
     },
     {
-      "title": "Gold down 1.3%, silver down 2.6% amid global chaos",
-      "description": "The prices of precious metals continued to fall for the second consecutive day on Wednesday, likely triggered by the most recent comments made by United States President Donald Trump, who said that th...",
-      "url": "https://biztoc.com/x/f95760e9959bfef5",
-      "source": "Biztoc.com",
+      "title": "Datadog (DDOG) Capitalizes on AI Trends",
+      "description": "RiverPark Advisors, an investment advisory firm and sponsor of the RiverPark family of mutual funds, released its \u201cRiverPark Large Growth Fund\u201d Q1 2026 inves...",
+      "url": "https://finance.yahoo.com/technology/ai/articles/datadog-ddog-capitalizes-ai-trends-111235032.html",
+      "source": "Yahoo Entertainment",
       "date": "2026-07-08",
-      "image": "https://biztoc.com/cdn/f95760e9959bfef5_s.webp",
-      "category": "metals"
+      "image": "https://s.yimg.com/lo/mysterio/api/834C2550D0AEA83CC0DF700CA678DBF7326E802AC278D79145CB35A934DA6FDB/subgraphmysterio/resizefill_w1200_h672;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Faf5e05db1d031c52c308c02b2450ccfe",
+      "category": "market"
     },
     {
-      "title": "Gold down 1.3%, silver down 2.6% amid Trump remarks",
-      "description": "The prices of precious metals continued to fall for the second consecutive day, likely triggered by the most recent comments made by United States President Donald Trump, who said that the ceasefire w...",
-      "url": "https://biztoc.com/x/18ed663a0f5bf945",
-      "source": "Biztoc.com",
-      "date": "2026-07-08",
-      "image": "https://biztoc.com/cdn/18ed663a0f5bf945_s.webp",
-      "category": "metals"
-    },
-    {
-      "title": "Strategic Insights: How the Tin-Silver-Copper Alloy Powder Sector is Shaping Electronics Manufacturing's Future",
-      "description": "The Tin-Silver-Copper Alloy Powder Market, crucial for lead-free electronics, grows through advanced segmentation, global regional focus, and competitive dynamics with robust industry collaboration. The Tin-Silver-Copper Alloy Powder Market, crucial for lead-\u2026",
-      "url": "https://www.globenewswire.com/news-release/2026/07/08/3323859/28124/en/Strategic-Insights-How-the-Tin-Silver-Copper-Alloy-Powder-Sector-is-Shaping-Electronics-Manufacturing-s-Future.html",
+      "title": "OR Royalties Announces Preliminary Q2 2026 GEO Deliveries",
+      "description": "MONTR\u00c9AL, July 08, 2026 (GLOBE NEWSWIRE) -- OR Royalties Inc. (\u201cOR Royalties\u201d or the \u201cCompany\u201d) (OR: TSX & NYSE) is pleased to announce its second quarter 2026 preliminary deliveries, revenues and cash margin, as well as to provide an update on its cash and d\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/07/08/3323969/0/en/OR-Royalties-Announces-Preliminary-Q2-2026-GEO-Deliveries.html",
       "source": "GlobeNewswire",
       "date": "2026-07-08",
-      "image": "https://ml.globenewswire.com/Resource/Download/b84e98d7-737c-43ee-8176-9925b26c6a2a",
-      "category": "metals"
+      "image": "https://ml.globenewswire.com/Resource/Download/464ed7a2-418c-47b1-a1ba-8ec7cd7b6733",
+      "category": "market"
     },
     {
-      "title": "22k gold rate today: Check 24k, 22k, 20k, 18k gold prices (July 8, 2026) at Malabar Gold & Diamonds, Tanishq, Joyalukkas, Kalyan Jewellers & IBJA",
-      "description": "Gold prices saw a slight decrease today across major Indian jewellery retailers. Tanishq, Malabar Gold & Diamonds, Kalyan Jewellers, and Joyalukkas reduced their 22-carat gold rates. These price adjustments were observed in key cities nationwide. Meanwhile, t\u2026",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-20k-18k-gold-prices-july-8-2026-at-malabar-gold-diamonds-tanishq-joyalukkas-kalyan-jewellers-ibja/articleshow/132256882.cms",
-      "source": "The Times of India",
-      "date": "2026-07-08",
-      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1046322,resizemode-75,msid-132256882/wealth/invest/22k-gold-rate-today-check-24k-22k-20k-18k-gold-prices-july-8-2026-at-malabar-gold-diamonds-tanishq-joyalukkas-kalyan-jewellers-ibja.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "Gold wavers as investors weigh US strikes on Iran, await Fed minutes",
-      "description": "Markets raise their bets for a September Federal\nReserve rate hike to an over 63% chance, \u200cup from about 57% on\nTuesday",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-wavers-as-investors-weigh-us-strikes-on-iran-await-fed-minutes/article71196508.ece",
-      "source": "BusinessLine",
-      "date": "2026-07-08",
-      "image": "https://bl-i.thgim.com/public/incoming/lx2uyp/article71192124.ece/alternates/LANDSCAPE_1200/iStock-506120376.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "Gold prices fall for 3rd straight session; silver dips to Rs 2.30 lakh/kg as rising oil prices fuel rate hike bets. Buy, sell or hold?",
-      "description": "Gold and silver prices extended their losses for a third straight session on the MCX as rising oil prices and a stronger U.S. dollar fuelled expectations of higher U.S. interest rates. Investors now await the Federal Reserve's meeting minutes for further poli\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-fall-for-3rd-straight-session-silver-dips-to-rs-2-30-lakh/kg-as-rising-oil-prices-fuel-rate-hike-bets-buy-sell-or-hold/articleshow/132253468.cms",
-      "source": "The Times of India",
-      "date": "2026-07-08",
-      "image": "https://img.etimg.com/thumb/msid-132253453,width-1200,height-630,imgsize-88148,overlay-etmarkets/articleshow.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "Murderous Indian terror gangs used California as a cash register while trafficking guns and drugs: feds",
-      "description": "A sprawling global web of gangsters targeted in a massive federal takedown used California as its cash register to rake in millions of dollars through extortion schemes, contract killings, and drug and gun trafficking, authorities revealed. Local and federal \u2026",
-      "url": "https://freerepublic.com/focus/f-chat/4387137/posts",
-      "source": "Freerepublic.com",
-      "date": "2026-07-08",
-      "image": null,
-      "category": "central_bank"
-    },
-    {
-      "title": "Iran accuses US of violating Strait of Hormuz traffic agreement",
-      "description": "Escalating tensions over the Strait of Hormuz could heighten the risk of military conflict, impacting global oil markets and regional stability.\nThe post Iran accuses US of violating Strait of Hormuz traffic agreement appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/iran-accuses-us-of-violating-strait-of-hormuz-traffic-agreement/",
+      "title": "US trade deficit widens to $77.6B in May as imports surge and exports slide",
+      "description": "The widening US trade deficit may dampen GDP growth, complicate Fed policy, and influence crypto markets through dollar depreciation.\nThe post US trade deficit widens to $77.6B in May as imports surge and exports slide appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/us-trade-deficit-widens-may-imports-surge/",
       "source": "Crypto Briefing",
       "date": "2026-07-08",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/08060055/iran-war-the-us-has-to-reopen-the-strait-of-hormuz-as-soon-a-2-1-800x420.jpeg",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/08070815/the-advent-of-the-modern-day-shipping-container-800x420.jpeg",
+      "category": "central_bank"
+    },
+    {
+      "title": "AMMAN directors\u2019 stock purchases signal confidence: Analyst",
+      "description": "Senior Technical Analyst at Mirae Asset Sekuritas Indonesia, M Nafan Aji Gusta, said the recent stock purchases by directors of PT Amman Mineral Internasional ...",
+      "url": "https://en.antaranews.com/news/421915/amman-directors-stock-purchases-signal-confidence-analyst",
+      "source": "Antaranews.com",
+      "date": "2026-07-08",
+      "image": "https://cdn.antaranews.com/cache/1200x800/2026/07/08/1000902498.jpg",
+      "category": "market"
+    },
+    {
+      "title": "10 Best Ways To Make Money In Assassin's Creed Black Flag Resynced, Ranked",
+      "description": "You'll need a massive amount of money to fund Edward's pirate empire, but thankfully, there are plenty of ways to get rich in Black Flag Resynced.",
+      "url": "https://screenrant.com/assassins-creed-black-flag-resynced-earning-money-guide/",
+      "source": "Screen Rant",
+      "date": "2026-07-08",
+      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/07/great-inagua-gold-pile-in-black-flag-resynced.png?w=1600&h=900&fit=crop",
       "category": "geopolitics"
     },
     {
-      "title": "When Sculptures Come Alive (12 Photos)",
-      "description": "These sculptures do more than stand still. Wood, bronze, straw, glass, shells, scrap materials, and even public furniture start to feel strangely alive in this collection; ready to walk away, guard a forest, rise with the tide, or quietly wait for someone to \u2026",
-      "url": "https://streetartutopia.com/2026/07/08/great-sculptures-of-furniture-staw-glass-shells-bronze-and-wood-that-seems-alive/",
-      "source": "Streetartutopia.com",
+      "title": "India silver import curbs create shortages, push premiums to six-month high",
+      "description": "India's silver import restrictions have caused significant shortages in the domestic market. Premiums have surged to their highest levels in six months due to these curbs. May imports saw a drastic fall from the previous year's figures. These measures aim to \u2026",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/india-silver-import-curbs-create-shortages-push-premiums-to-six-month-high/articleshow/132261302.cms",
+      "source": "The Times of India",
       "date": "2026-07-08",
-      "image": "https://i0.wp.com/streetartutopia.com/wp-content/uploads/2026/07/great-sculptures-that-seems-alive-2.jpeg?fit=1200%2C700&ssl=1",
-      "category": "market"
-    },
-    {
-      "title": "Netflix names Ana Mar\u00eda Londo\u00f1o as director of content for Colombia",
-      "description": "Netflix has appointed screenwriter and executive Ana Mar\u00eda Londo\u00f1o as director of content for Colombia as it seeks to make a long-term commitment to the country\u2019s audiovisual industry. Londo\u00f1o...",
-      "url": "https://www.c21media.net/news/netflix-names-ana-maria-londono-as-director-of-content-for-colombia/",
-      "source": "C21media.net",
-      "date": "2026-07-08",
-      "image": "https://cdn.c21media.net/wp-content/uploads/2026/07/ana-maria-londono-ls.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Assassin\u2019s Creed Black Flag Resynced Review \u2013 Reviving the Franchise\u2019s Best Era, More than a Decade After its PS4 Debut",
-      "description": "The Golden Age of Piracy was also home to one of the single best titles in the entire Assassin's Creed franchise. Once a launch title for Sony's fourth console generation, Assassin's Creed IV Black Flag took players to the high seas of the 1700s Caribbean and\u2026",
-      "url": "https://wccftech.com/review/assassins-creed-black-flag-resynced-review-reviving-the-franchises-best-era-more-than-a-decade-after-its-ps4-debut/",
-      "source": "Wccftech",
-      "date": "2026-07-08",
-      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/30972495c4d1b567dcd015b80c0d3af9c946efc8822944d7-1920x1080.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "A Bang or a Whimper? Comparing Imperial Collapse in the US to the UK\u2019s Decline",
-      "description": "Book Review: Erik Linstrum\u2019s 'Age of Emergency: Living with Violence at the End of the British Empire'.",
-      "url": "https://www.nakedcapitalism.com/2026/07/will-the-us-empire-end-with-a-bang-or-a-whimper-comparing-imperial-collapse-in-the-us-to-the-uks-decline.html",
-      "source": "Nakedcapitalism.com",
-      "date": "2026-07-08",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "Marco Rubio Burned Down the House to Fix a Sink",
-      "description": "The secretary of state must be seen as the chief architect of the Trump administration\u2019s assault on the rules-based order.",
-      "url": "http://foreignpolicy.com/2026/07/08/marco-rubio-secretary-state-trump-administration-human-rights/",
-      "source": "Foreign Policy",
-      "date": "2026-07-08",
-      "image": "https://foreignpolicy.com/wp-content/uploads/2026/07/marco-rubio-GettyImages-2282423146.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Clarence Thomas Dreams of Monarchy",
-      "description": "The most important part of any Supreme Court ruling today is the majority opinion, for that is what the law is. The second-most-important part is whatever Justice Clarence Thomas writes separately, for that is what the conservative legal movement would like t\u2026",
-      "url": "https://newrepublic.com/article/212804/clarence-thomas-executive-power-monarchy",
-      "source": "The New Republic",
-      "date": "2026-07-08",
-      "image": "https://images.newrepublic.com/d37cc098cf7b2e43d0716308b35450162dc82702.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "image": "https://img.etimg.com/thumb/msid-132261508,width-1200,height-630,imgsize-105546,overlay-economictimes/articleshow.jpg",
       "category": "supply_demand"
     },
     {
-      "title": "ISC2 Announces 2026 Security Congress Keynote Speakers and Expansive Agenda for Cybersecurity Professionals",
-      "description": "Keynotes from cybersecurity, federal law enforcement and public policy leaders anchor a broad program of peer collaboration and career-building sessions ALEXANDRIA, Va., July 8, 2026 /PRNewswire/ -- ISC2 \u2013 the world's leading nonprofit member organization for\u2026",
-      "url": "https://www.prnewswire.com/news-releases/isc2-announces-2026-security-congress-keynote-speakers-and-expansive-agenda-for-cybersecurity-professionals-302819544.html",
-      "source": "PRNewswire",
+      "title": "NIOB Adds to Critical Minerals Portfolio",
+      "description": "Newly acquired Kanawata property in Qu\u00e9bec covers an intrusive type known for hosting some of the world\u2019s most significant niobium and rare-earth deposits Newly acquired Kanawata property in Qu\u00e9bec covers an intrusive type known for hosting some of the world\u2019\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/07/08/3323976/0/en/NIOB-Adds-to-Critical-Minerals-Portfolio.html",
+      "source": "GlobeNewswire",
+      "date": "2026-07-08",
+      "image": "https://ml.globenewswire.com/Resource/Download/14cfbd26-7d34-4ee7-8f29-6d515821e186",
+      "category": "market"
+    },
+    {
+      "title": "Surge Copper Launches Comprehensive 2026 Field Program at the Berg Copper Project",
+      "description": "Vancouver, British Columbia, July 08, 2026 (GLOBE NEWSWIRE) \u2014 Surge Copper Corp. (TSXV:\u00a0SURG) (OTCQB: SRGXF) (Frankfurt: G6D2) (\u201cSurge\u201d or the \u201cCompany\u201d) is pleased to announce the commencement of its 2026 field program at the Company\u2019s 100%-owned Berg Copper\u2026",
+      "url": "https://financialpost.com/globe-newswire/surge-copper-launches-comprehensive-2026-field-program-at-the-berg-copper-project",
+      "source": "Financial Post",
       "date": "2026-07-08",
       "image": null,
+      "category": "market"
+    },
+    {
+      "title": "Aya Gold & Silver Reports Record Q2-2026 Silver Production",
+      "description": "MONTREAL, July 08, 2026 (GLOBE NEWSWIRE) \u2014 Aya Gold & Silver Inc.\u00a0(TSX: AYA; NASDAQ: AYA) (\u201cAya\u201d or the \u201cCompany\u201d) is pleased to announce record quarterly production and mining rates at its Zgounder Silver Mine (\u201cZgounder\u201d), as well as advancement of its rece\u2026",
+      "url": "https://financialpost.com/globe-newswire/aya-gold-silver-reports-record-q2-2026-silver-production",
+      "source": "Financial Post",
+      "date": "2026-07-08",
+      "image": null,
+      "category": "supply_demand"
+    },
+    {
+      "title": "Yukon Metals Expands Tungsten Portfolio with Staking of Historic Tummel Tungsten Showing",
+      "description": "VANCOUVER, British Columbia, July 08, 2026 (GLOBE NEWSWIRE) \u2014 Yukon Metals Corp. (CSE: YMC, FSE:E770, OTCQB: YMMCF) (\u201cYukon Metals\u201d or the \u201cCompany\u201c) is pleased to announce that it has recently staked the Tummel Tungsten Project (\u201cTummel\u201d or the \u201cProject\u201c), c\u2026",
+      "url": "https://financialpost.com/globe-newswire/yukon-metals-expands-tungsten-portfolio-with-staking-of-historic-tummel-tungsten-showing",
+      "source": "Financial Post",
+      "date": "2026-07-08",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/07/figure-1-7.png",
+      "category": "market"
+    },
+    {
+      "title": "The End of Crypto Privacy? How Global Regulations Are Changing Everything in 2026",
+      "description": "What Is Crypto Privacy and Why Does It Matter? Crypto privacy is the practice of hiding financial activity and identity when using a blockchain. In...\nThe post The End of Crypto Privacy? How Global Regulations Are Changing Everything in 2026 appeared first on\u2026",
+      "url": "https://bitcoinfoundation.org/news/opinion/the-end-of-crypto-privacy-how-global-regulations-are-changing-everything-in-2026/",
+      "source": "Bitcoinfoundation.org",
+      "date": "2026-07-08",
+      "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/1-2-1783506393.webp",
+      "category": "market"
+    },
+    {
+      "title": "Ganguly 'surprised' by India's slump, stays mum on Sanju Samson omission",
+      "description": "Sourav Ganguly expressed surprise at India's recent white-ball slump and backed the team to recover. He declined to comment on Sanju Samson's omission from the playing XI. Ganguly also praised Argentina's comeback win in the FIFA World Cup. The former captain\u2026",
+      "url": "https://economictimes.indiatimes.com/news/sports/cricket/sourav-ganguly-reacts-to-indias-shocking-defeat-and-sanju-samsons-omission-amid-birthday-celebrations/articleshow/132263241.cms",
+      "source": "The Times of India",
+      "date": "2026-07-08",
+      "image": "https://img.etimg.com/thumb/msid-132263259,width-1200,height-630,imgsize-72262,overlay-economictimes/articleshow.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Thali costs rose by 5% in June on higher tomato, onion, LPG prices",
+      "description": "Home-cooked thali costs increased in June due to higher vegetable and fuel prices. Tomato and onion prices saw significant year-on-year increases, impacting meal expenses. Vegetable oil and LPG costs also rose, contributing to the overall price hike. Potato p\u2026",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/thali-costs-rose-by-5-in-june-on-higher-tomato-onion-lpg-prices/articleshow/132263154.cms",
+      "source": "The Times of India",
+      "date": "2026-07-08",
+      "image": "https://img.etimg.com/thumb/msid-132263264,width-1200,height-630,imgsize-86728,overlay-economictimes/articleshow.jpg",
+      "category": "market"
+    },
+    {
+      "title": "6,000 seafarers stranded in Gulf amid escalating regional tensions",
+      "description": "Regional tensions threaten maritime stability, impacting global trade routes and market perceptions, with humanitarian and economic repercussions.\nThe post 6,000 seafarers stranded in Gulf amid escalating regional tensions appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/6000-seafarers-stranded-in-gulf-amid-escalating-regional-tensions/",
+      "source": "Crypto Briefing",
+      "date": "2026-07-08",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/08081639/press-release-supporting-stranded-seafarers-amid-gulf-confli-1-800x420.jpeg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "The most liveable cities in the world revealed for 2026: Australia bags three top spots and expat-favourite Dubai falls down the ranks",
+      "description": "The EIU's Global Liveability Index analyses 173 cities around the world based on 30 indicators across five different categories.",
+      "url": "https://www.dailymail.com/travel/article-15959475/The-liveable-cities-world-revealed-2026-Australia-bags-three-spots-expat-favourite-Dubai-falls-ranks.html",
+      "source": "Dailymail.com",
+      "date": "2026-07-08",
+      "image": "https://i.dailymail.com/1s/2026/07/08/12/109875411-0-image-a-11_1783510129768.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Show HN: VetoBench \u2013 benchmarking AI memory beyond retrieval",
+      "description": "VetoBench is an open-source benchmark that measures whether AI agents repeat engineering decisions a team has already rejected. Instead of evaluating retrieval accuracy, it evaluates decision quality: does the agent propose a previously vetoed approach, and d\u2026",
+      "url": "https://github.com/adelinamart/robrain/tree/main/packages/vetobench",
+      "source": "Github.com",
+      "date": "2026-07-08",
+      "image": "https://opengraph.githubassets.com/c4d62d96ad013d582dc108104b96bfb10363a6c1413a0bfad7ecfe6b1e6e4c4f/adelinamart/robrain",
+      "category": "market"
+    },
+    {
+      "title": "Indonesia pushes D-8 partnership to expand halal economy",
+      "description": "Finance Minister Purbaya Yudhi Sadewa stated that Indonesia&#39;s active participation in the Developing Eight (D-8) organization serves to strengthen ...",
+      "url": "https://en.antaranews.com/news/421929/indonesia-pushes-d-8-partnership-to-expand-halal-economy",
+      "source": "Antaranews.com",
+      "date": "2026-07-08",
+      "image": "https://cdn.antaranews.com/cache/1200x800/2026/07/08/IMG_1776.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Pivot Point Consulting Appoints Terri LeFort as Chief Executive Officer to Lead Next Chapter of Growth and Innovation",
+      "description": "PANAMA CITY, Fla., July 8, 2026 /PRNewswire/ -- Pivot Point Consulting, a leading healthcare technology and services platform and the #1 Best in KLAS Managed IT Services firm, today announced the appointment of Terri LeFort as chief executive officer, effecti\u2026",
+      "url": "https://www.prnewswire.com/news-releases/pivot-point-consulting-appoints-terri-lefort-as-chief-executive-officer-to-lead-next-chapter-of-growth-and-innovation-302820718.html",
+      "source": "PRNewswire",
+      "date": "2026-07-08",
+      "image": "https://mma.prnewswire.com/media/3004877/Terri_LeFort.jpg?p=facebook",
+      "category": "market"
+    },
+    {
+      "title": "NFID Announces 2026-2027 Board of Directors",
+      "description": "BETHESDA, Md., July 8, 2026 /PRNewswire/ -- The National Foundation for Infectious Diseases (NFID) is pleased to announce the 2026-2027 NFID Board of Directors and leadership team, including President Monica M. Farley, MD; President-Elect Kevin A. Ault, MD; V\u2026",
+      "url": "https://www.prnewswire.com/news-releases/nfid-announces-2026-2027-board-of-directors-302819941.html",
+      "source": "PRNewswire",
+      "date": "2026-07-08",
+      "image": "https://mmx.prnewswire.com/media/MS1878802/NFID-announces-new-and-reappointed-officers-and-Board-members.jpg?id=OA2753189&p=facebook",
+      "category": "market"
+    },
+    {
+      "title": "SOFR dips as US borrowing costs ease slightly",
+      "description": "The slight dip in SOFR suggests stable liquidity, potentially reducing the likelihood of a Fed rate hike, impacting future monetary policy.\nThe post SOFR dips as US borrowing costs ease slightly appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/sofr-dips-as-us-borrowing-costs-ease-slightly/",
+      "source": "Crypto Briefing",
+      "date": "2026-07-08",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/08080414/eccles-building-wikipedia-21-1-800x420.jpeg",
       "category": "central_bank"
+    },
+    {
+      "title": "Nigerians on health insurance hit 22million \u2013 NHIA",
+      "description": "The Director-General of NHIA, Kelechi Ohiri, said this resulted from the implementation of the mandatory health insurance, which has gained momentum nationwide.\nThe post Nigerians on health insurance hit 22million \u2013 NHIA appeared first on Vanguard News.",
+      "url": "https://www.vanguardngr.com/2026/07/nigerians-on-health-insurance-hit-22million-nhia/",
+      "source": "Vanguard",
+      "date": "2026-07-08",
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/07/National-Health-Insurance-Authority-NHIA.webp",
+      "category": "market"
+    },
+    {
+      "title": "Federal Reserve to release minutes from Kevin Warsh\u2019s first FOMC meeting at 2 p.m. today",
+      "description": "Warsh's opaque Fed approach may increase market volatility, as traders navigate uncertainty without clear forward guidance.\nThe post Federal Reserve to release minutes from Kevin Warsh\u2019s first FOMC meeting at 2 p.m. today appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/fed-warsh-first-meeting-minutes-release/",
+      "source": "Crypto Briefing",
+      "date": "2026-07-08",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/08075800/new-u-s-federal-reserve-chairman-kevin-warsh-arrives-to-hold-8-800x420.jpeg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Fed meeting minutes to show 'family fight' over rates. The squabble could drag on for a while",
+      "description": "There have been few instances over the past 35 years or so when the Fed has only made one rate move, be it up or down.",
+      "url": "https://www.cnbc.com/2026/07/08/with-minutes-due-feds-family-fight-over-interest-rates-could-drag-on.html",
+      "source": "CNBC",
+      "date": "2026-07-08",
+      "image": "https://image.cnbcfm.com/api/v1/image/108322709-1781634060886-gettyimages-2277135777-WARSH_SWEAR_IN.jpeg?v=1781634082&w=1920&h=1080",
+      "category": "central_bank"
+    },
+    {
+      "title": "Public Housing Privatization Paradox",
+      "description": "I\u2019m a believer in privatization. Government shouldn\u2019t be in the business of running things. It should set the rules, provide the incentives, and get out of the way. Nobody has yet to figure out how to fix, create, or change how NYCHA (New York City Housing Au\u2026",
+      "url": "https://gothamgal.com/2026/07/public-housing-privatization-paradox/",
+      "source": "Gothamgal.com",
+      "date": "2026-07-08",
+      "image": "https://gothamgal.com/content/uploads/2026/07/images.jpg",
+      "category": "market"
     }
   ],
   "history": [
@@ -459,7 +459,7 @@
       "platinum_usd_oz": 1614.14
     }
   ],
-  "timestamp": "2026-07-09T15:32:48.869770+05:30",
+  "timestamp": "2026-07-09T17:49:18.233216+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
