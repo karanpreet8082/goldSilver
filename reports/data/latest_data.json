@@ -54,7 +54,7 @@
         "hold": 29
       },
       "summary": "Gold is showing negative signals. Positive daily movement of 0.8%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-09T15:42:10.749092",
+      "timestamp": "2026-07-10T06:59:17.795740",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 50
       },
       "summary": "Silver is showing negative signals. Strong daily gain of 1.4%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-09T15:42:10.857033",
+      "timestamp": "2026-07-10T06:59:17.893372",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 50
       },
       "summary": "Platinum is showing negative signals. Strong daily gain of 1.9%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-09T15:42:10.949881",
+      "timestamp": "2026-07-10T06:59:17.991371",
       "source": "rule-based"
     }
   },
@@ -137,13 +137,256 @@
   },
   "news": [
     {
-      "title": "India\u2019s listed new-age companies may hit $1 trillion market value by 2030: Redseer",
-      "description": "India's new-age firms are set to hit a valuation of one trillion dollars by 2030, with approximately 210 companies preparing to enter public markets within the next two years. There\u2019s a noticeable uptick in participation from domestic institutional investors in the IPO arena. Today's investors are e",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/indias-listed-new-age-companies-may-hit-1-trillion-market-value-by-2030-redseer/articleshow/132288193.cms",
+      "title": "US Stock Market: Fed's Williams sees energy prices easing despite Middle East tensions, keeps options open on July rate decision",
+      "description": "New York Fed President John Williams said oil prices are likely to ease over the coming months despite renewed Middle East tensions, while stressing it is too early to signal the Federal Reserve's next interest rate move. He reiterated that policymakers will remain guided by incoming economic data a",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-feds-williams-sees-energy-prices-easing-despite-middle-east-tensions-keeps-options-open-on-july-rate-decision/articleshow/132304392.cms",
       "source": "Economic Times Markets",
+      "date": "2026-07-10",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Rupee little changed as traders tread gingerly with eye on oil, dollar",
+      "description": "The Indian rupee traded narrowly on Friday, supported by a softer dollar and stable oil prices. Asian currencies and regional stocks saw gains as Fed rate hike expectations eased. Renewed Middle East tensions kept traders cautious about directional positions in the currency. Analysts remain construc",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-little-changed-as-traders-tread-gingerly-with-eye-on-oil-dollar/articleshow/132304107.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-07-10",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "India bonds rise as softer oil; Treasury gains offset debt sale caution",
+      "description": "Indian government bonds saw early gains on Friday, influenced by U.S. Treasury movements and reduced oil prices. Foreign investors continued their strong bond purchases, reaching nearly four billion dollars since early June. This sustained buying has supported the market and kept dips shallow for In",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-rise-as-softer-oil-treasury-gains-offset-debt-sale-caution/articleshow/132304050.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-07-10",
+      "image": "",
+      "category": "currency"
+    },
+    {
+      "title": "24hr Economy Authority, Petrochemical Holdings sign $700m MoU",
+      "description": "The 24-Hour Economy and Accelerated Export Development Authority (24H+) has signed a Memorandum of Understanding (MoU) with Petrochemical Holdings GmbH (PCH) to establish two strategic industrial projects aimed at boosting manufacturing, exports and job creat\u2026",
+      "url": "https://thechronicle.com.gh/24hr-economy-authority-petrochemical-holdings-sign-700m-mou/",
+      "source": "Thechronicle.com.gh",
+      "date": "2026-07-09",
+      "image": "https://thechronicle.com.gh/wp-content/uploads/2025/06/24-Hour-Economy.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "The Tim Ferriss Show Transcripts: Guy Oseary \u2014 The Legendary Hollywood Power Broker on 5-Minute Decisions, 36 Years of Managing Madonna, 26 IPOs, and Spotting Magic First (#874)",
+      "description": "Please enjoy this transcript of my interview with Guy Oseary (@guyoseary). Guy has managed some of the biggest names in music, including Madonna, the Red Hot Chili Peppers, and U2, and was named Variety\u2018s Music Mogul of the Year in 2022. He co-founded A-Grade\u2026",
+      "url": "https://tim.blog/2026/07/08/guy-oseary-transcript/",
+      "source": "Tim.blog",
+      "date": "2026-07-09",
+      "image": "https://tim.blog/wp-content/uploads/2026/07/Guy-Oseary-Illustration-2-scaled.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Investments in gold ETFs turned negative in Q2 as investors press exit buttons",
+      "description": "Over 50% of outflows were witnessed in June, with US and China leading encashments, according to WGC data",
+      "url": "https://www.thehindubusinessline.com/markets/gold/investments-in-gold-etfs-turned-negative-in-q2-as-investors-press-exit-buttons/article71200868.ece",
+      "source": "BusinessLine",
+      "date": "2026-07-09",
+      "image": "https://bl-i.thgim.com/public/incoming/kl6oxf/article71200956.ece/alternates/LANDSCAPE_1200/IMG_PO21_Gold_price_grap_2_1_O28D5SA7.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "University spin-out seeks to transform sports injury assessment",
+      "description": "KineMo targets elite sport, healthcare and astronaut rehabilitation",
+      "url": "https://www.irishtimes.com/business/innovation/2026/07/09/university-spin-out-seeks-to-transform-sports-injury-assessment/",
+      "source": "The Irish Times",
+      "date": "2026-07-09",
+      "image": "https://www.irishtimes.com/resizer/v2/QMSNUNYBUJHCXNMA5T4LVMHO2M.JPEG?smart=true&auth=fb019a121eabe45be2b3d312e7ef09406a01dc26624c8c5fc00743f18a4d6f59&width=1200&height=630",
+      "category": "market"
+    },
+    {
+      "title": "Bj\u00f6rkdal \u2013 Near Mine Exploration Update",
+      "description": "Bjorkdal - Near Mine Exploration Update...",
+      "url": "https://www.globenewswire.com/news-release/2026/07/09/3324513/0/en/Bj%C3%B6rkdal-Near-Mine-Exploration-Update.html",
+      "source": "GlobeNewswire",
+      "date": "2026-07-09",
+      "image": "https://ml.globenewswire.com/Resource/Download/92af8b75-780a-4f19-acd6-a0ee0bdbb3fd",
+      "category": "market"
+    },
+    {
+      "title": "Gold prices fall to Rs 1.43 lakh/10 grams, silver dips Rs 15,000 in 4 days as Iran war raises inflation worries. Time to exit?",
+      "description": "Gold and silver prices extended losses for a fourth straight session on Thursday, pressured by renewed geopolitical tensions, higher oil prices and concerns over inflation and interest rates. Analysts expect continued volatility and advise investors to accumu\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/gold-prices-fall-to-rs-1-43-lakh/10-grams-silver-dips-rs-15000-in-4-days-as-iran-war-raises-inflation-worries-time-to-exit/articleshow/132276853.cms",
+      "source": "The Times of India",
+      "date": "2026-07-09",
+      "image": "https://img.etimg.com/thumb/msid-132276850,width-1200,height-630,imgsize-88148,overlay-etmarkets/articleshow.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Gold dips as Mideast hostilities revive inflation concerns",
+      "description": "Gold prices experienced a decline on Thursday after recent drops. Renewed hostilities between the United States and Iran fueled inflation worries. Higher interest rate expectations also pressured the non-yielding precious metal. Central banks worldwide are mo\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-dips-as-mideast-hostilities-revive-inflation-concerns/articleshow/132275202.cms",
+      "source": "The Times of India",
+      "date": "2026-07-09",
+      "image": "https://img.etimg.com/thumb/msid-132275210,width-1200,height-630,imgsize-18148,overlay-etmarkets/articleshow.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Robbyant Unveils LingBot-World 2.0: Pioneering Hour-Long Real-Time Generation in World Models",
+      "description": "SHANGHAI \u2014 Robbyant, an embodied AI company within Ant Group, today announced the open-source release of LingBot-World 2.0 (Infinity). This interactive world model significantly upgraded its world prediction and interactivity capabilities, supporting hour-lon\u2026",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/robbyant-unveils-lingbot-world-2-0-pioneering-hour-long-real-time-generation-in-world-models",
+      "source": "Financial Post",
+      "date": "2026-07-09",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "Kara Smith promoted, three execs out as Friedlander continues Amazon shake-up",
+      "description": "Peter Friedlander has revealed another major restructure of the scripted television department at Amazon MGM Studios, with three execs leaving and Kara Smith being promoted to head of drama. Friedlande...",
+      "url": "https://www.c21media.net/news/kara-smith-promoted-three-execs-out-as-friedlander-continues-amazon-shake-up/",
+      "source": "C21media.net",
+      "date": "2026-07-09",
+      "image": "https://cdn.c21media.net/wp-content/uploads/2025/08/peter-friedlander-feat.jpg",
+      "category": "market"
+    },
+    {
+      "title": "US Stock Market: Meta unveils C$13 billion AI data centre in Canada; stock in focus",
+      "description": "Meta Platforms will invest C$13 billion in its first Canadian data centre. This facility in Sturgeon County, Alberta, will support artificial intelligence infrastructure expansion. The project highlights Alberta's energy advantages and favourable business env\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-meta-unveils-c13-billion-ai-data-centre-in-canada-stock-in-focus/articleshow/132279468.cms",
+      "source": "The Times of India",
+      "date": "2026-07-09",
+      "image": "https://img.etimg.com/thumb/msid-132279473,width-1200,height-630,imgsize-137128,overlay-etmarkets/articleshow.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Is Romania A Problem For Asia?",
+      "description": "If Romania will be bigger again, its territory is unpredictable. It will not be similar\u00a0to\u00a0any other analysis or\u00a0to any other image of what it would be. With the biggest territory or with other different territory, Romania is still able to\u00a0lead\u00a0the global sit\u2026",
+      "url": "https://thechronicle.com.gh/is-romania-a-problem-for-asia/",
+      "source": "Thechronicle.com.gh",
+      "date": "2026-07-09",
+      "image": "https://thechronicle.com.gh/wp-content/uploads/2024/08/Opinion-1.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Greek shipowners ramp up bulk carrier newbuilding orders",
+      "description": "Greek shipowners are stepping up investment in dry bulk carriers, following their dominance in the tanker market, where they control 26% of global fleet capacity and 28% of vessels on\u2026\nGreek shipowners ramp up bulk carrier newbuilding orders - \u0397 \u039d\u0391\u03a5\u03a4\u0395\u039c\u03a0\u039f\u03a1\u0399\u039a\u0397",
+      "url": "https://www.naftemporiki.gr/english/2135242/greek-shipowners-ramp-up-bulk-carrier-newbuilding-orders/",
+      "source": "Naftemporiki.gr",
+      "date": "2026-07-09",
+      "image": "https://www.naftemporiki.gr/wp-content/uploads/2024/11/nautilia.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Novo Nordisk India rolls-out a once-weekly basal insulin Awiqli",
+      "description": "The product will be imported from Denmark and is priced at \u20b92611 for a 1 ml pen (700 insulin units)",
+      "url": "https://www.thehindubusinessline.com/companies/novo-nordisk-india-rolls-out-a-once-weekly-basal-insulin-awiqli/article71201199.ece",
+      "source": "BusinessLine",
+      "date": "2026-07-09",
+      "image": "https://bl-i.thgim.com/public/incoming/oxn7o1/article71201256.ece/alternates/LANDSCAPE_1200/2026-07-09T062255Z_1092247493_RC20FJAKG3QX_RTRMADP_3_NOVO-NORDISK-INDIA-INSULIN.JPG",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Asian shares wobble as oil jumps on renewed Gulf hostilities",
+      "description": "Bonds hammered, inflation fears rise",
+      "url": "https://www.irishtimes.com/business/markets/2026/07/09/asian-shares-wobble-as-oil-jumps-on-renewed-gulf-hostilities/",
+      "source": "The Irish Times",
+      "date": "2026-07-09",
+      "image": "https://www.irishtimes.com/resizer/v2/OBTUF3CFZ2TOHGKZPWQZMQOQGA.jpg?smart=true&auth=5ff038d7badd9894d8f3c2a2298cc12aa2e26c08f6e1f489f622383dffdccf97&width=1200&height=630",
+      "category": "inflation"
+    },
+    {
+      "title": "INDIA BONDS-India bonds pause after slump as oil, Treasury risks linger",
+      "description": "Indian government bonds traded narrowly on Thursday after a sharp selloff. Surging oil prices and higher U.S. Treasury yields pressured local debt markets. The U.S. military launched fresh strikes on Iran, impacting peace hopes. Minutes from the U.S. Federal \u2026",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-india-bonds-pause-after-slump-as-oil-treasury-risks-linger/articleshow/132278835.cms",
+      "source": "The Times of India",
+      "date": "2026-07-09",
+      "image": "https://img.etimg.com/thumb/msid-132278878,width-1200,height-630,imgsize-21698,overlay-etmarkets/articleshow.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Global Market: Japanese investors ramp up overseas stock buying as Fed rate expectations ease",
+      "description": "Japanese investors significantly increased foreign stock purchases last week. This buying spree followed easing inflation worries and softer U.S. labor market data. Overseas bond selling continued as investors reduced debt holdings. Foreign investors also sol\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japanese-investors-ramp-up-overseas-stock-buying-as-fed-rate-expectations-ease/articleshow/132278456.cms",
+      "source": "The Times of India",
+      "date": "2026-07-09",
+      "image": "https://img.etimg.com/thumb/msid-132278615,width-1200,height-630,imgsize-48628,overlay-etmarkets/articleshow.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Stars and Swipes: The return of white supremacy as masked men march on Trump's Washington",
+      "description": "From the Ku Klux Klan to Patriot Front, America\u2019s white supremacists have adapted to a new age, finding powerful allies along the way.",
+      "url": "https://www.thejournal.ie/readme/trump-racist-white-supremecy-7095831-Jul2026/",
+      "source": "TheJournal.ie",
+      "date": "2026-07-09",
+      "image": "https://img2.thejournal.ie/article/7095831/river/?height=400&version=7095878",
+      "category": "market"
+    },
+    {
+      "title": "Driver-Facing Cameras Now Required in New Cars Across the EU",
+      "description": "As of July 7, 2026, every new passenger car and van sold or first registered in the European Union must include a driver-facing infrared camera as a mandatory safety feature, according to the bloc\u2019s General Safety Regulation (2019/2144). The requirement, know\u2026",
+      "url": "https://www.naturalnews.com/2026-07-09-driver-facing-cameras-required-cars-across-eu.html",
+      "source": "Naturalnews.com",
+      "date": "2026-07-09",
+      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/driver-facing-cameras-advanced-driver-distraction-warning-general-safety-regulation-2592-original.jpg",
+      "category": "currency"
+    },
+    {
+      "title": "GLP-1 Use Reaches Record High as Access Broadens, New Data Shows",
+      "description": "The share of Americans using glucagon-like peptide-1 (GLP-1) receptor agonists for weight loss has surged to unprecedented levels, according to reports on rising demand and market forecasts. A new analysis from Goldman Sachs projects the global anti-obesity d\u2026",
+      "url": "https://www.naturalnews.com/2026-07-09-glp1-use-reaches-record-high-as-access-broadens.html",
+      "source": "Naturalnews.com",
+      "date": "2026-07-09",
+      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/glp-1-weight-loss-drug-access-2585-original.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Skeptical Science New Research for Week #28 2028",
+      "description": "Open access notables\n\nFossil fuel emissions dominate Northern Hemisphere CO2 seasonal cycle trends under mitigation scenarios, Jin et al.,\u00a0Nature Communications\n\nVariations in the atmospheric CO2\u00a0seasonal cycle across the Northern Hemisphere have historically\u2026",
+      "url": "https://skepticalscience.com/new_research_2026_28.html",
+      "source": "Skepticalscience.com",
+      "date": "2026-07-09",
+      "image": "https://skepticalscience.com/public/assets/images/og/button_sks_200.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Global markets on edge as oil rally revives inflation and rate concerns.",
+      "description": "Oil prices surged, reigniting concerns about inflation and market volatility. Investors reassessed interest rate expectations after US President Donald Trump's comments. Geopolitical developments added to equity market uncertainty, which was already questioni\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-on-edge-as-oil-rally-revives-inflation-and-rate-concerns-/articleshow/132278203.cms",
+      "source": "The Times of India",
+      "date": "2026-07-09",
+      "image": "https://img.etimg.com/thumb/msid-132278207,width-1200,height-630,imgsize-1080302,overlay-etmarkets/articleshow.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Gold (XAUUSD), Silver, Platinum Forecasts \u2013 Gold Rebounds As Oil Markets Retreat - FXEmpire",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQekRkbW5Tamk5NUVQWHh1RkRhOXhkU3YyQVlfbUJGSXpCOF9OOHdDY05vV2cwQm4tMVlHRko3dmJmSDFJaE14VWxKRTJYX0dON2hrU0gzTkdXRXhidDdtaE5OWldOMmRLTTZYaFQxaHNUWjJHczNORjBOcml1aU1KTGcyMUd0MFB2SjRNa1JYSjRBZWV0aGlHOTd5ZDFGdWJ2R1lnOVU4bjYwN3RNV3ZLS0JoUVpmRXdwRz",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQekRkbW5Tamk5NUVQWHh1RkRhOXhkU3YyQVlfbUJGSXpCOF9OOHdDY05vV2cwQm4tMVlHRko3dmJmSDFJaE14VWxKRTJYX0dON2hrU0gzTkdXRXhidDdtaE5OWldOMmRLTTZYaFQxaHNUWjJHczNORjBOcml1aU1KTGcyMUd0MFB2SjRNa1JYSjRBZWV0aGlHOTd5ZDFGdWJ2R1lnOVU4bjYwN3RNV3ZLS0JoUVpmRXdwRzczUWgxX0o1VUpuZEE?oc=5",
+      "source": "Google News - Precious Metals",
       "date": "2026-07-09",
       "image": "",
       "category": "currency"
+    },
+    {
+      "title": "Everything Is Gold, Gold, Gold: What About Investing in Silver or Platinum? - Money Talks News",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOdlFWWG5hSGdkZDZtZWRZZHlKYndUSl9Gc0RORTl3NzRkdjBpVDlYRlFMUUpIQTJXTGJoWjhRNmFiWUVZVDRKd1ppUTljcTdDMGVhZkFQZ0NOWlZQbWhQYlZEVW5oeWk2eFhRamNEZDVfb0VmeGVsZjBSb1FaYnJEYjRUZ2JXZHpuRU5JU2RaTzdPNWcwVXF5NmhUdkRfUVVDVkVjQlZB?oc=5\" target=\"_blank\">Eve",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdlFWWG5hSGdkZDZtZWRZZHlKYndUSl9Gc0RORTl3NzRkdjBpVDlYRlFMUUpIQTJXTGJoWjhRNmFiWUVZVDRKd1ppUTljcTdDMGVhZkFQZ0NOWlZQbWhQYlZEVW5oeWk2eFhRamNEZDVfb0VmeGVsZjBSb1FaYnJEYjRUZ2JXZHpuRU5JU2RaTzdPNWcwVXF5NmhUdkRfUVVDVkVjQlZB?oc=5",
+      "source": "Google News - Precious Metals",
+      "date": "2026-07-09",
+      "image": "",
+      "category": "platinum"
+    },
+    {
+      "title": "Platinum and Palladium Have Been Left Behind in the Precious Metals Rally and These 3 ETFs Could Be the Next Catch Up Trade - 24/7 Wall St.",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxPV25yQkdTS1V4WDdfNXdIVkdLN2xiNXYzVngtaTZRRmpxT202cDZoTXhvRFhxUTJvcUVlaXBkNkNzMm9wS2RvOXZxem5hTlMtM25MN0RrdFFWVS1melhuYU5OaHNHbWFFdXczZ0lwaHgzcVpIVVpMdDV1dFpjQVMySjBZeWZVTmNuZWpGZ2d3Q1ZuQ0lxandsZjVjZC05TnEtR1E0TktjdzdOVTloaDlGR3VHVHNpMC1TU2",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPV25yQkdTS1V4WDdfNXdIVkdLN2xiNXYzVngtaTZRRmpxT202cDZoTXhvRFhxUTJvcUVlaXBkNkNzMm9wS2RvOXZxem5hTlMtM25MN0RrdFFWVS1melhuYU5OaHNHbWFFdXczZ0lwaHgzcVpIVVpMdDV1dFpjQVMySjBZeWZVTmNuZWpGZ2d3Q1ZuQ0lxandsZjVjZC05TnEtR1E0TktjdzdOVTloaDlGR3VHVHNpMC1TU2E5YS1JN0lqN1IwRmwzd3ZxMlZTbmFjaHNsaEd4N2R3RFVjV1ViNG5vdjJCVVlWRXFkeWJQU2hob3ZoX3lrdUV2Zk0zUmpPOEdj?oc=5",
+      "source": "Google News - Precious Metals",
+      "date": "2026-07-09",
+      "image": "",
+      "category": "platinum"
+    },
+    {
+      "title": "Is Noble Gold the right choice for your gold IRA? - USA Today",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOeENNNEJteHplUlhJMVluVUdCeW1abEg0bkNtTU1neWxRbC1fNXlUWi1lWDQ3azJOSmFHLXFka1NuSGpIRHg0VWc1WXoxbWx5OF9iS2d0RnpJejE5RE0zV1RyNVJ6SXREMVItQ2Vxbjc0ekxXNUZfVktsVDh3azRaQ2NnUQ?oc=5\" target=\"_blank\">Is Noble Gold the right choice for your gold IRA?",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeENNNEJteHplUlhJMVluVUdCeW1abEg0bkNtTU1neWxRbC1fNXlUWi1lWDQ3azJOSmFHLXFka1NuSGpIRHg0VWc1WXoxbWx5OF9iS2d0RnpJejE5RE0zV1RyNVJ6SXREMVItQ2Vxbjc0ekxXNUZfVktsVDh3azRaQ2NnUQ?oc=5",
+      "source": "Google News - Precious Metals",
+      "date": "2026-07-09",
+      "image": "",
+      "category": "metals"
     },
     {
       "title": "Commodity Support and Resistance Levels for Precious Metals, Energy, and Agricultural Futures on July 9, 2026 - KuCoin",
@@ -155,255 +398,12 @@
       "category": "metals"
     },
     {
-      "title": "BofA cuts 2026 average gold forecast, sees long-term upside",
-      "description": "Despite a generally positive long-term outlook on gold, brokerages are adjusting their near-term expectations downward. Bank of America has notably decreased its average gold forecast for 2026 by fourteen percent. Similarly, JPMorgan is indicating that risks \u2026",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/bofa-cuts-2026-average-gold-forecast-sees-long-term-upside/articleshow/132267299.cms",
-      "source": "The Times of India",
+      "title": "Families concerned over axing of local NDIS-funded program",
+      "description": "An Albury-based NDIS provider says an upcoming change to NDIS funding is one of the reasons it will discontinue a program that builds skills and confidence in those living with a disability.",
+      "url": "https://www.abc.net.au/news/2026-07-09/ndis-albury-wodonga-aspire-support-service-closure/106890124",
+      "source": "ABC News (AU)",
       "date": "2026-07-08",
-      "image": "https://img.etimg.com/thumb/msid-132267299,width-1200,height-630,imgsize-63302,overlay-etmarkets/articleshow.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Beyond Lithium: New Battery Tech Starts to Break Through",
-      "description": "As EV sales boom and grids seek more energy storage, researchers are racing to develop batteries that are cheaper, more powerful, and less reliant on hard-to-source materials. Lithium-ion still dominates, but sodium-ion and solid-state technologies are moving\u2026",
-      "url": "https://e360.yale.edu/features/energy-storage-sodium-solid-state",
-      "source": "Yale.edu",
-      "date": "2026-07-08",
-      "image": "https://yale-threesixty.transforms.svdcdn.com/production/Sodium-Battery-Factory-China_Getty-HEADER.jpg?w=1200&q=60&auto=format&fit=max&dm=1783530168&s=330a2f4dbafd7dbc927507980d5c5d2e",
-      "category": "market"
-    },
-    {
-      "title": "Vantage Secures CMA Category 5 Licence, Strengthening Its MENA Growth Strategy",
-      "description": "New UAE regulatory milestone reinforces Vantage's long-term commitment to the region DUBAI, UAE, July 8, 2026 /PRNewswire/ -- Vantage Markets (\"Vantage\"), a global multi-asset CFD broker, today announced that it has secured its Capital Market Authority (CMA) \u2026",
-      "url": "https://www.prnewswire.co.uk/news-releases/vantage-secures-cma-category-5-licence-strengthening-its-mena-growth-strategy-302820908.html",
-      "source": "PR Newswire UK",
-      "date": "2026-07-08",
-      "image": "https://mmx.prnewswire.com/media/MS1879729/1afcc51d426b407ab6b1a6ebb4248291.jpg?id=OA2755465&p=facebook",
-      "category": "market"
-    },
-    {
-      "title": "The 10 pieces every woman needs in her wardrobe this season",
-      "description": "Updating your closet for the shifting weather is always an exciting project to tackle. Spring...\nThis article, The 10 pieces every woman needs in her wardrobe this season first appeared on The Curvy Fashionista and is written by Juliet Taylor. \nNever miss the\u2026",
-      "url": "https://thecurvyfashionista.com/the-10-pieces-every-woman-needs-in-her-wardrobe-this-season/",
-      "source": "Thecurvyfashionista.com",
-      "date": "2026-07-08",
-      "image": "https://thecurvyfashionista.com/wp-content/uploads/2026/07/Woman-wardrobe.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Mercom India Renewables Summit 2026 Concludes With CEO Calling for 1000 GW 10-Year Solar Roadmap to Support India\u2019s Energy Transition",
-      "description": "Mercom CEO outlines policy recommendations to sustain manufacturing growth, strengthen energy security, and provide long-term market certainty",
-      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/mercom-india-renewables-summit-2026-concludes-with-ceo-calling-for-1000-gw-10-year-solar-roadmap-to-support-indias-energy-transition/article71196738.ece",
-      "source": "BusinessLine",
-      "date": "2026-07-08",
-      "image": "https://th-i.thgim.com/public/incoming/6bcj34/article71196733.ece/alternates/LANDSCAPE_1200/Screenshot%202026-07-08%20105658.png",
-      "category": "market"
-    },
-    {
-      "title": "Silver drops 4% after Trump's Iran remarks",
-      "description": "Precious metals extended their losses on Wednesday, with silver sinking by more than 4% after United States President Donald Trump threatened that he may reimpose a naval blockade on Iranian ports in ...",
-      "url": "https://biztoc.com/x/4ec6bc03beb657ef",
-      "source": "Biztoc.com",
-      "date": "2026-07-08",
-      "image": "https://biztoc.com/cdn/4ec6bc03beb657ef_s.webp",
-      "category": "metals"
-    },
-    {
-      "title": "13 fashion rules that no longer apply \u2014 and what to do instead",
-      "description": "Getting dressed in the morning used to involve a rigid list of dos and don\u2019ts...\nThis article, 13 fashion rules that no longer apply \u2014 and what to do instead first appeared on The Curvy Fashionista and is written by Dana Smith. \nNever miss the latest in plus \u2026",
-      "url": "https://thecurvyfashionista.com/13-fashion-rules-that-no-longer-apply-and-what-to-do-instead/",
-      "source": "Thecurvyfashionista.com",
-      "date": "2026-07-08",
-      "image": "https://thecurvyfashionista.com/wp-content/uploads/2026/07/Woman-in-sunglasses.jpg",
-      "category": "market"
-    },
-    {
-      "title": "JPMorgan sees the writing on the wall for silver stock investors",
-      "description": "Silver rose more than 130% in 2025. It hit an all-time high of $121.78 an ounce on Jan. 29, 2026. Solar panels needed it. Electric vehicles needed it. AI dat...",
-      "url": "https://www.thestreet.com/investing/jpmorgan-cuts-silver-price-target-investors",
-      "source": "TheStreet",
-      "date": "2026-07-08",
-      "image": "https://s.yimg.com/lo/mysterio/api/B845110A149C7052E8E39C8021208224CB45495834C1EB733A9D9C4B875597C2/subgraphmysterio/resizefill_w1200_h801;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F1479302773c3e0ff3e2c495e543668f5",
-      "category": "metals"
-    },
-    {
-      "title": "U.S Money Reserve Launches Liberty's Story Gold Coin Set to Commemorate America's 250th Anniversary and Promote Wealth Preservation",
-      "description": "AUSTIN, Texas, July 8, 2026 /PRNewswire/ -- U.S. Money Reserve, one of the nation's largest precious metals distributors, today announced the launch of Liberty's Story, an exclusive three-piece set of .9999 pure (24-karat) gold coins, to commemorate America's\u2026",
-      "url": "https://www.prnewswire.com/news-releases/us-money-reserve-launches-libertys-story-gold-coin-set-to-commemorate-americas-250th-anniversary-and-promote-wealth-preservation-302820902.html",
-      "source": "PRNewswire",
-      "date": "2026-07-08",
-      "image": "https://mmx.prnewswire.com/media/MS1879732/US-Money-Reserve-Liberty-s-Story-Gold-Coin-Set.jpg?id=OA2755372&p=facebook",
-      "category": "metals"
-    },
-    {
-      "title": "Why Investing in One Asset Class Rarely Works",
-      "description": "Why Investing in One Asset Class Rarely Works",
-      "url": "https://www.thehindubusinessline.com/brandhub/why-investing-in-one-asset-class-rarely-works/article71197289.ece",
-      "source": "BusinessLine",
-      "date": "2026-07-08",
-      "image": "https://th-i.thgim.com/public/incoming/1qws4b/article71197277.ece/alternates/LANDSCAPE_1200/Screenshot%202026-07-08%20140149.png",
-      "category": "market"
-    },
-    {
-      "title": "Geopolitical tensions sink markets; Nifty posts worst fall in over three months",
-      "description": "Indian benchmark indices logged their worst session in over three months after Donald Trump declared the Iran ceasefire over, sending crude oil prices soaring, the rupee lower and the India VIX sharply higher amid broad-based selling across sectors",
-      "url": "https://www.thehindubusinessline.com/markets/stock-markets/geopolitical-tensions-sink-markets-nifty-posts-worst-fall-in-over-three-months/article71197990.ece",
-      "source": "BusinessLine",
-      "date": "2026-07-08",
-      "image": "https://bl-i.thgim.com/public/incoming/xu8tqp/article71160397.ece/alternates/LANDSCAPE_1200/Sensex-crashes-G7QG1SU0P.4.jpg.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "NIOB Adds to Critical Minerals Portfolio",
-      "description": "Newly acquired Kanawata property in Qu\u00e9bec covers an intrusive type known for hosting some of the world\u2019s most significant niobium and rare-earth deposits Newly acquired Kanawata property in Qu\u00e9bec covers an intrusive type known for hosting some of the world\u2019\u2026",
-      "url": "https://www.globenewswire.com/news-release/2026/07/08/3323976/0/en/NIOB-Adds-to-Critical-Minerals-Portfolio.html",
-      "source": "GlobeNewswire",
-      "date": "2026-07-08",
-      "image": "https://ml.globenewswire.com/Resource/Download/14cfbd26-7d34-4ee7-8f29-6d515821e186",
-      "category": "market"
-    },
-    {
-      "title": "OR Royalties Announces Preliminary Q2 2026 GEO Deliveries",
-      "description": "MONTR\u00c9AL, July 08, 2026 (GLOBE NEWSWIRE) -- OR Royalties Inc. (\u201cOR Royalties\u201d or the \u201cCompany\u201d) (OR: TSX & NYSE) is pleased to announce its second quarter 2026 preliminary deliveries, revenues and cash margin, as well as to provide an update on its cash and d\u2026",
-      "url": "https://www.globenewswire.com/news-release/2026/07/08/3323969/0/en/OR-Royalties-Announces-Preliminary-Q2-2026-GEO-Deliveries.html",
-      "source": "GlobeNewswire",
-      "date": "2026-07-08",
-      "image": "https://ml.globenewswire.com/Resource/Download/464ed7a2-418c-47b1-a1ba-8ec7cd7b6733",
-      "category": "market"
-    },
-    {
-      "title": "Ice Cube\u2019s BIG3 League Faces Proposed Class Action Lawsuit From NFT Holders",
-      "description": "Ice Cube\u2019s BIG3 league is planning to go public amid a lawsuit.",
-      "url": "https://sports.yahoo.com/articles/ice-cube-big3-league-faces-154106237.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-07-08",
-      "image": "https://s.yimg.com/ny/api/res/1.2/m18Fri.5g.F5FPF7QGpCOQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/afrotech_articles_589/c2cb592152034908fee169ab815b9462",
-      "category": "market"
-    },
-    {
-      "title": "LatAm assets slide with global markets after Trump says Iran deal 'over'",
-      "description": "July 8 : Most Latin American assets fell on Wednesday after U.S. President Donald Trump said the interim accord to end the war with Iran was over, sending oil prices higher and denting global risk sentiment. Trump also said that the U.S. was likely to launch \u2026",
-      "url": "https://www.channelnewsasia.com/business/latam-assets-slide-global-markets-after-trump-says-iran-deal-over-6241596",
-      "source": "CNA",
-      "date": "2026-07-08",
-      "image": "https://dam.mediacorp.sg/image/upload/s--oPUbZAS2--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-07-08T154106Z_1_LYNXMPEM670Y2_RTROPTP_3_USA-TRUMP-TARIFFS-BRAZIL.JPG?itok=HfIoccTX",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Pentel of America Announces New Collaboration with Hello Kitty\u00ae and Friends by Sanrio\u00ae",
-      "description": "Global Friendship Meets Creative Expression in New Writing & Art Collection TORRANCE, Calif., July 8, 2026 /PRNewswire/ -- Pentel of America, a leader in innovative writing instruments and creative tools, is excited to announce a new collaboration with Hello \u2026",
-      "url": "https://www.prnewswire.com/news-releases/pentel-of-america-announces-new-collaboration-with-hello-kitty-and-friends-by-sanrio-302820943.html",
-      "source": "PRNewswire",
-      "date": "2026-07-08",
-      "image": "https://mma.prnewswire.com/media/3004664/Pentel_of_America_Logo_Logo.jpg?p=facebook",
-      "category": "market"
-    },
-    {
-      "title": "Is Visibility The New Credibility For C-Suite Leaders? Even If Imperfect, It\u2019s Honest",
-      "description": "For C-suite leaders, the need is to show up consistently. From internal visibility to client engagement, more are seeking authentic communication - even if imperfect.",
-      "url": "https://www.forbes.com/sites/dougmelville/2026/07/08/is-visibility-the-new-credibility-for-c-suite-leaders-even-if-imperfect-its-honest/",
-      "source": "Forbes",
-      "date": "2026-07-08",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a4e6ddf0e41da54ae0e24cf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "category": "market"
-    },
-    {
-      "title": "'Never bet against America': Citadel Securities says AI will be a huge boost to US hustle culture",
-      "description": "Citadel Securities says AI is bolstering one of America's biggest economic advantages, lowering barriers for side hustlers and entrepreneurs.",
-      "url": "https://www.businessinsider.com/ai-small-business-hustle-culture-citadel-securities-economy-labor-market-2026-7#article",
-      "source": "Business Insider",
-      "date": "2026-07-08",
-      "image": "https://i.insider.com/6a4e63a3d3b3e4576519687e?width=1200&format=jpeg",
-      "category": "market"
-    },
-    {
-      "title": "SEC adds three crypto rules to 2026 regulatory agenda",
-      "description": "The SEC's proactive crypto regulation could enhance market clarity, potentially positioning the US as a global leader in digital asset innovation.\nThe post SEC adds three crypto rules to 2026 regulatory agenda appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/sec-crypto-rules-2026-regulatory-agenda/",
-      "source": "Crypto Briefing",
-      "date": "2026-07-08",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/08113925/a-landscape-shot-of-the-sec-building-with-the-engineering-ya-5-800x420.jpeg",
-      "category": "market"
-    },
-    {
-      "title": "Messi headlines MLS All-Star Game roster featuring 13 FIFA World Cup stars",
-      "description": "Lionel Messi will headline the 2026 Major League Soccer (MLS) All-Star Game after being named among 13 FIFA World Cup players selected for the showcase event.\nThe post Messi headlines MLS All-Star Game roster featuring 13 FIFA World Cup stars appeared first o\u2026",
-      "url": "https://www.vanguardngr.com/2026/07/messi-headlines-mls-all-star-game-roster-featuring-13-fifa-world-cup-stars/",
-      "source": "Vanguard",
-      "date": "2026-07-08",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/07/AFP__20260707__B9JR283__v1__MidRes__FblWc2026Match95ArgEgy.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Brilliant Shortlisted For Two 2026 Global Influencer Marketing Awards",
-      "description": "Full-funnel marketing and public relations agency recognized for influencer work in retail, eCommerce, and campaign ROI SCOTTSDALE, Ariz., July 8, 2026 /PRNewswire/ -- Brilliant made the 2026 Global Influencer Marketing Awards (GIMA26) shortlist in two catego\u2026",
-      "url": "https://www.prnewswire.com/news-releases/brilliant-shortlisted-for-two-2026-global-influencer-marketing-awards-302820940.html",
-      "source": "PRNewswire",
-      "date": "2026-07-08",
-      "image": "https://mmx.prnewswire.com/media/MS1879779/Nex-Playground-outsells-PS5-during-Black-Friday.mp4?id=OA2755477&p=thumbnail",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Obamacare Premiums Set To Surge Next Year",
-      "description": "Obamacare health insurance premiums are set to surge again in 2027, according to estimates from KFF released Wednesday.",
-      "url": "https://dailycaller.com/2026/07/08/obamacare-premiums-surge/",
-      "source": "The Daily Caller",
-      "date": "2026-07-08",
-      "image": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/07/GettyImages-2246416122-scaled-e1783523076641.jpg",
-      "category": "market"
-    },
-    {
-      "title": "IMF: AI offsets Middle East conflict impact, global growth steady for 2026",
-      "description": "AI's economic contributions may stabilize global growth, influencing monetary policy and reducing the likelihood of significant rate cuts.\nThe post IMF: AI offsets Middle East conflict impact, global growth steady for 2026 appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/imf-ai-offsets-middle-east-conflict-impact-global-growth-steady-for-2026/",
-      "source": "Crypto Briefing",
-      "date": "2026-07-08",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/08113704/international-monetary-fund-imf-check-its-headquarters-locat-12-1-800x420.jpeg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Bitcoin slides as Iran ceasefire collapse sees $75 oil on Hormuz blockade threats",
-      "description": "Bitcoin sellers return as markets react to the failure of the US-Iran ceasefire and Hormuz closure threats, sending oil past $75 per barrel.",
-      "url": "https://cointelegraph.com/markets/bitcoin-slides-as-iran-ceasefire-collapse-brings-back-hormuz-blockade-threat",
-      "source": "Cointelegraph",
-      "date": "2026-07-08",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-make-a-profit-when-bitcoin-prices-are-stagnant-oil.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Northern govs appoint ex-CDS, ex-defence minister Security Trust Fund co-chairs",
-      "description": "Northern governors inaugurate the Board of Trustees for the Northern Nigeria Security Trust Fund, appointing ex-CDS and ex-defence minister as co-chairs to\n\nRead More: https://punchng.com/northern-govs-appoint-ex-cds-ex-defence-minister-security-trust-fund-co\u2026",
-      "url": "https://punchng.com/northern-govs-appoint-ex-cds-ex-defence-minister-security-trust-fund-co-chairs/",
-      "source": "The Punch",
-      "date": "2026-07-08",
-      "image": "https://punchng.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-08-at-15.17.42_1783520292-1200x630.webp",
-      "category": "market"
-    },
-    {
-      "title": "Geopolitical shock sends risk assets into retreat as US airstrikes on Iran rattle markets",
-      "description": "US airstrikes on Iran ended the ceasefire, sending Bitcoin below $62K, Ethereum near $1,700, and Solana down 6.8% as risk-off sentiment gripped all markets.\nThe post Geopolitical shock sends risk assets into retreat as US airstrikes on Iran rattle markets app\u2026",
-      "url": "https://cryptobriefing.com/geopolitical-shock-risk-assets-retreat/",
-      "source": "Crypto Briefing",
-      "date": "2026-07-08",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/08113422/2af48c14-0e8c-4e75-8184-d555166336d1-1-800x420.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Reps seek stronger action against human trafficking",
-      "description": "\u2026Demand Better Support for Repatriated Nigerians By Gift ChapiOdekina, Abuja The House of Representatives has renewed its commitment to strengthening Nigeria\u2019s response to human trafficking, calling for closer collaboration among government agencies, internat\u2026",
-      "url": "https://www.vanguardngr.com/2026/07/reps-seek-stronger-action-against-human-trafficking/",
-      "source": "Vanguard",
-      "date": "2026-07-08",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2025/05/Reps-.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "\u2018They\u2019re not freak occurrences\u2019: Farmers grapple with protecting crops as heat waves and extreme weather become more frequent",
-      "description": "Specialty farmers are dealing with the extreme weather events that are driving prolonged drought in some states and intense flooding in others.",
-      "url": "https://fortune.com/2026/07/08/farmers-climate-change-adapting-grapple-extreme-weather/",
-      "source": "Fortune",
-      "date": "2026-07-08",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/AP26188682771578-e1783524246886.jpg?resize=1200,600",
+      "image": "https://live-production.wcms.abc-cdn.net.au/a3bfddde5f4f71e12ad38aeea70624b3?impolicy=wcms_watermark_news&cropH=2268&cropW=4032&xPos=0&yPos=0&width=862&height=485&imformat=generic",
       "category": "market"
     }
   ],
@@ -459,7 +459,7 @@
       "platinum_usd_oz": 1614.14
     }
   ],
-  "timestamp": "2026-07-09T21:12:10.963694+05:30",
+  "timestamp": "2026-07-10T12:29:18.005032+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
