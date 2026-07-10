@@ -54,7 +54,7 @@
         "hold": 29
       },
       "summary": "Gold is showing negative signals. Positive daily movement of 0.8%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-10T12:13:00.519202",
+      "timestamp": "2026-07-10T15:13:44.598168",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 50
       },
       "summary": "Silver is showing negative signals. Strong daily gain of 1.4%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-10T12:13:00.612335",
+      "timestamp": "2026-07-10T15:13:44.695567",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 50
       },
       "summary": "Platinum is showing negative signals. Strong daily gain of 1.9%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-10T12:13:00.729154",
+      "timestamp": "2026-07-10T15:13:44.785537",
       "source": "rule-based"
     }
   },
@@ -137,94 +137,139 @@
   },
   "news": [
     {
-      "title": "Rupee slips on week as Iran flare-up spurs caution, merchant hedging",
-      "description": "The Indian rupee ended nearly unchanged on Friday, but the week closed on a weaker note. Investor caution grew amid renewed hostilities in the Middle East, impacting oil-affiliated currencies. Meanwhile, global stock markets thrived, propelled by AI innovation and SK Hynix's entry in the US. The Jap",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-slips-on-week-as-iran-flare-up-spurs-caution-merchant-hedging/articleshow/132309601.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-07-10",
-      "image": "",
-      "category": "currency"
-    },
-    {
-      "title": "Christopher Wood warns of AI fatigue. Why Jefferies is turning to India and China",
-      "description": "Christopher Wood of Jefferies warns that the AI trade is showing signs of fatigue as investors seek cheaper value opportunities. With India and China positioned to benefit from a rotation away from crowded AI winners, Wood believes picks-and-shovels companies will continue to outperform amid massive",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/christopher-wood-warns-of-ai-fatigue-why-jefferies-is-turning-to-india-and-china/articleshow/132308164.cms",
+      "title": "Wall Street banks rule on staff betting on prediction markets, sources say",
+      "description": "In a significant move, major Wall Street banks have revised their employee conduct guidelines. The updated policies impose restrictions on engaging in financial and political prediction markets. Specifically, Goldman Sachs and Morgan Stanley have enacted firm prohibitions, while JPMorgan Chase and B",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-banks-rule-on-staff-betting-on-prediction-markets-sources-say/articleshow/132314792.cms",
       "source": "Economic Times Markets",
       "date": "2026-07-10",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "Global Market: European shares edge higher as miners, airlines offset tech weakness; benchmark set for weekly loss",
-      "description": "European shares saw minimal change as mining and travel stocks gained. Technology shares declined, weighing on the broader market's performance. Investors remained cautious due to renewed Middle East geopolitical tensions. EasyJet shares surged significantly after a takeover approach was revealed.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-edge-higher-as-miners-airlines-offset-tech-weakness-benchmark-set-for-weekly-loss/articleshow/132307730.cms",
+      "title": "US stocks today: US stocks open steady ahead of SK Hynix listing; Middle East in focus",
+      "description": "Wall Street opened steady as investors tracked SK Hynix\u2019s much-awaited Nasdaq debut and rising Middle East tensions. The Dow and S&amp;P 500 edged higher, while Nasdaq slipped slightly. Markets remained cautious amid inflation concerns linked to geopolitical risks, even as optimism around tech listi",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-opens-steady-ahead-of-sk-hynix-listing-middle-east-in-focus/articleshow/132313400.cms",
       "source": "Economic Times Markets",
       "date": "2026-07-10",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "Dynacor Commences Processing First Ore at Pilot Plant in Senegal",
-      "description": "MONTREAL, July 09, 2026 (GLOBE NEWSWIRE) \u2014 Dynacor Group Inc. (TSX: DNG) (\u201cDynacor\u201c or the \u201cCorporation\u201c)\u00a0is pleased to announce that ore production from its Galam pilot plant in the K\u00e9dougou region of southeastern Senegal has commenced, in line with its sche\u2026",
-      "url": "https://financialpost.com/globe-newswire/dynacor-commences-processing-first-ore-at-pilot-plant-in-senegal",
-      "source": "Financial Post",
-      "date": "2026-07-09",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/07/figure-1-18.jpeg",
-      "category": "supply_demand"
+      "title": "India's 10-year bond logs best day in over a week on oil relief",
+      "description": "On Friday, Indian government bonds experienced a positive shift with declining yields. This improvement was fueled by robust demand during a weekly auction and additional foreign investments. Falling oil prices further enhanced market sentiment. However, traders are keeping a vigilant eye on potenti",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/indias-10-year-bond-logs-best-day-in-over-a-week-on-oil-relief/articleshow/132312436.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-07-10",
+      "image": "",
+      "category": "geopolitics"
     },
     {
-      "title": "Investing for beginners: All about assets",
-      "description": "Do you know your equities from your bonds? And do you understand why that matters?\nThe post Investing for beginners: All about assets appeared first on Monevator.",
-      "url": "https://monevator.com/investing-for-beginners-all-about-assets/",
-      "source": "Monevator.com",
+      "title": "Good Morning, Illini Nation: Summer League primer",
+      "description": "Jul. 9\u2014The California Classic and Salt Lake City Summer League are already in the books. But that was just a warmup for actual Summer League. The Las Vegas version. Where all 30 teams participate. The full Summer League tips off today with a 2:30 p.m. showdow\u2026",
+      "url": "https://www.news-gazette.com/sports/good-morning-illini-nation-summer-league-primer/article_0dc205f7-b7e8-4d76-b562-82fb68aaad7e.html",
+      "source": "Champaign/Urbana News-Gazette",
       "date": "2026-07-09",
-      "image": "https://monevator.com/wp-content/uploads/2012/05/76.-A-quick-guide-to-asset-classes.png",
-      "category": "market"
+      "image": "https://s.yimg.com/cv/apiv2/sports/share/PD_010626-Social_Share_GENRIC_YAHOO_SPORTS-1200x630.jpg",
+      "category": "geopolitics"
     },
     {
-      "title": "Sensex today | Stock Market Live: Sensex ends 238 points higher; Nifty closes above 23,950",
-      "description": "Sensex, Nifty, Share Prices LIVE: Indian markets closed modestly higher, with the Sensex rising 0.31 per cent and the Nifty gaining 0.34 per cent. Advancing stocks outnumbered decliners by more than two to one, reflecting broad-based buying interest.",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-9th-july-2026/article71198232.ece",
-      "source": "BusinessLine",
+      "title": "This Guy Turned $316 Into $2M on Robinhood Chain \u2013 Will He Sell it Off or Ride Higher?",
+      "description": "Despite the ongoing bear market, a few insane success stories can be witnessed here and there in the cryptocurrency market.",
+      "url": "https://zycrypto.com/this-guy-turned-316-into-2m-on-robinhood-chain-will-he-sell-it-off-or-ride-higher/",
+      "source": "ZyCrypto",
       "date": "2026-07-09",
-      "image": "https://bl-i.thgim.com/public/incoming/2sncmw/article71198241.ece/alternates/LANDSCAPE_1200/iStock-1323542329%204.jpg",
-      "category": "market"
-    },
-    {
-      "title": "OTC Markets Group Welcomes Doubleview Gold Corp. to OTCQX",
-      "description": "NEW YORK, July 09, 2026 (GLOBE NEWSWIRE) \u2014 OTC Markets Group Inc. (OTCQX: OTCM), operator of regulated markets for trading 12,000 U.S. and international securities, today announced Doubleview Gold Corp. (TSX-V: DBG; OTCQX: DBLVF), a mineral resource explorati\u2026",
-      "url": "https://financialpost.com/globe-newswire/otc-markets-group-welcomes-doubleview-gold-corp-to-otcqx",
-      "source": "Financial Post",
-      "date": "2026-07-09",
-      "image": null,
-      "category": "metals"
-    },
-    {
-      "title": "NexGold Intersects 12.06 g/t Gold over 6.0 Metres and 3.84 g/t Gold over 18.0 Metres During Infill Drill Program at Goldboro",
-      "description": "TORONTO, July 09, 2026 (GLOBE NEWSWIRE) \u2014 NexGold Mining Corp.\u00a0(TSXV: NEXG; OTCQX: NXGCF) (\u201cNexGold\u201d or the \u201cCompany\u201d) is pleased to report additional assay results from its ongoing Reverse Circulation (\u201cRC\u201d) infill drill program (the \u201cRC Infill Drill Program\u2026",
-      "url": "https://financialpost.com/globe-newswire/nexgold-intersects-12-06-g-t-gold-over-6-0-metres-and-3-84-g-t-gold-over-18-0-metres-during-infill-drill-program-at-goldboro",
-      "source": "Financial Post",
-      "date": "2026-07-09",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/07/figure-1-17.jpeg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Fancamp Advances Goldera Spin-Out and Announces Strategic Settlement",
-      "description": "VANCOUVER, British Columbia, July 09, 2026 (GLOBE NEWSWIRE) \u2014 Fancamp Exploration Ltd. (\u201cFancamp\u201d or the \u201cCorporation\u201d) (TSX Venture Exchange: FNC) is pleased to provide shareholders with an update on several significant corporate initiatives that continue to\u2026",
-      "url": "https://financialpost.com/globe-newswire/fancamp-advances-goldera-spin-out-and-announces-strategic-settlement",
-      "source": "Financial Post",
-      "date": "2026-07-09",
-      "image": null,
-      "category": "metals"
-    },
-    {
-      "title": "Bybit Launches Combo Bot Hub, Expanding Automated Portfolio Trading Across Crypto and TradFi Markets",
-      "description": "DUBAI, UAE, July 9, 2026 /PRNewswire/ -- Bybit, the world's second-largest cryptocurrency exchange by trading volume, is excited to announce Bybit Combo Bot Hub, a centralized platform for portfolio-based automated trading strategies supporting traders for bo\u2026",
-      "url": "https://www.prnewswire.com/news-releases/bybit-launches-combo-bot-hub-expanding-automated-portfolio-trading-across-crypto-and-tradfi-markets-302821822.html",
-      "source": "PRNewswire",
-      "date": "2026-07-09",
-      "image": "https://mma.prnewswire.com/media/3005173/image1.jpg?p=facebook",
+      "image": "https://zycrypto.com/wp-content/uploads/2023/05/How-This-Early-PEPE-Buyer-Turned-260-Into-Almost-8-Million-Amid-Meme-Coin-Frenzy.jpg",
       "category": "currency"
+    },
+    {
+      "title": "Top 10 US stocks now account for 43% of the S&P 500, the highest concentration ever recorded",
+      "description": "The unprecedented concentration in the S&P 500 raises concerns about diversification and potential vulnerability to sector-specific risks.\nThe post Top 10 US stocks now account for 43% of the S&P 500, the highest concentration ever recorded appeared first on \u2026",
+      "url": "https://cryptobriefing.com/sp500-top-10-stocks-record-concentration/",
+      "source": "Crypto Briefing",
+      "date": "2026-07-09",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/09103136/new-york-stock-exchange-your-guide-to-nyc-tourism-3-800x420.jpeg",
+      "category": "market"
+    },
+    {
+      "title": "Nigeria\u2019s solid minerals exports reached \u20a6354bn in 2025 \u2013 SMDF",
+      "description": "Sector Generated Over \u20a6108bn for Federation in Two Years, Grew 33.5% in 2025 By Gabriel Ewepu ABUJA \u2014 The Executive Secretary and Chief Executive Officer of the Solid Minerals Development Fund (SMDF), Hajiya Fatima Shinkafi, says Nigeria\u2019s solid minerals expo\u2026",
+      "url": "https://www.vanguardngr.com/2026/07/nigerias-solid-minerals-exports-reached-\u20a6354bn-in-2025-smdf/",
+      "source": "Vanguard",
+      "date": "2026-07-09",
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/07/Gab.png",
+      "category": "central_bank"
+    },
+    {
+      "title": "Show HN: ContextNest versioned, governed context for AI agents (open-source CLI)",
+      "description": "Article URL: https://promptowl.ai/resources/building-a-viewable-second-brain-with-context/\nComments URL: https://news.ycombinator.com/item?id=48846201\nPoints: 2\n# Comments: 0",
+      "url": "https://promptowl.ai/resources/building-a-viewable-second-brain-with-context/",
+      "source": "Promptowl.ai",
+      "date": "2026-07-09",
+      "image": "https://promptowl.ai/Key-second-brain-hootie-v2.png",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Gray & Sons Releases Five-Year Post-Pandemic Review of Estate Jewelry Category Performance",
+      "description": "Internal analysis highlights changing consumer preferences, rising demand for unique vintage pieces, and continued strength in estate jewelry amid elevated gold prices Internal analysis highlights changing consumer preferences, rising demand for unique vintag\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/07/09/3324921/0/en/Gray-Sons-Releases-Five-Year-Post-Pandemic-Review-of-Estate-Jewelry-Category-Performance.html",
+      "source": "GlobeNewswire",
+      "date": "2026-07-09",
+      "image": "https://ml.globenewswire.com/Resource/Download/fcb3e1de-69fe-4a88-9969-5d9159e7ad24",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Characterisation of the thermal and non-thermal stress conditions that activate the Plasmodium falciparum AP2-HS-dependent heat-shock response",
+      "description": "Author summary The most common clinical symptom of malaria is periodic fever. To survive at febrile temperatures, malaria parasites must protect themselves from the damage that these temperatures produce, especially on proteins. This is achieved by activating\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014346",
+      "source": "Plos.org",
+      "date": "2026-07-09",
+      "image": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1014346.g006&size=inline",
+      "category": "market"
+    },
+    {
+      "title": "Why Google search can be a crypto wallet risk",
+      "description": "Think your wallet is safe? A major crypto risk may start with a Google search and one wrong click. Search engine results have quietly become one of the most underestimated weaknesses in cryptocurrency security. The usual understanding of crypto security focus\u2026",
+      "url": "https://www.activistpost.com/why-google-search-can-be-a-crypto-wallet-risk/",
+      "source": "Activistpost.com",
+      "date": "2026-07-09",
+      "image": "https://www.activistpost.com/wp-content/uploads/2026/06/why-google-search-can-be-a-crypto-wallet-risk.jpg",
+      "category": "currency"
+    },
+    {
+      "title": "Why The Management Thinking In \u2018The False Alignment Trap\u2019 Is Flawed",
+      "description": "BCG\u2019s article in HBR \u201cThe False Alignment Trap\u201d exemplifies deeper flaws in management thinking, consulting advice & business writing. Readers deserve better",
+      "url": "https://www.forbes.com/sites/stevedenning/2026/07/09/why-the-management-thinking-in-the-false-alignment-trap-is-flawed/",
+      "source": "Forbes",
+      "date": "2026-07-09",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a4fb362bdc128802070dc23/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "category": "market"
+    },
+    {
+      "title": "How to look expensive without buying expensive things",
+      "description": "Looking like a million bucks does not actually require a trust fund or a limitless...\nThis article, How to look expensive without buying expensive things first appeared on The Curvy Fashionista and is written by Dana Smith. \nNever miss the latest in plus size\u2026",
+      "url": "https://thecurvyfashionista.com/how-to-look-expensive-without-buying-expensive-things/",
+      "source": "Thecurvyfashionista.com",
+      "date": "2026-07-09",
+      "image": "https://thecurvyfashionista.com/wp-content/uploads/2026/07/Slinky-satin-Cowl-Neck-Dress.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Silver jumps by 3.5% on new Iran tensions",
+      "description": "The prices of precious metals continued to soar on Thursday as the United States and Iran resumed airstrikes. Meanwhile, Tehran warned Washington that its new attacks were hindering the reopening of t...",
+      "url": "https://biztoc.com/x/032e97741c364c26",
+      "source": "Biztoc.com",
+      "date": "2026-07-09",
+      "image": "https://biztoc.com/cdn/032e97741c364c26_s.webp",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Silver prices today, Thursday, July 9: Prices continue to open lower this week",
+      "description": "Silver September futures opened at $58.88 per ounce on Thursday, July 9, 2026, up 0.6% compared to Wednesday's closing price of $58.54. The silver price is m...",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-thursday-july-9-prices-continue-to-open-lower-this-week-122833571.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-07-09",
+      "image": "https://s.yimg.com/lo/mysterio/api/7B6C1FC44F8D17505763172CFC897DB3A215A0F0AF3402A830D26417DBB414AF/subgraphmysterio/resizefill_w1200_h780;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-12%2F01dc5a90-df88-11f0-bfff-e5a5c38339cf",
+      "category": "metals"
     },
     {
       "title": "Maxus Mining Mobilizes for Inaugural Drill Program at Alturas West Project",
@@ -245,166 +290,121 @@
       "category": "geopolitics"
     },
     {
-      "title": "ExGen Closes Acquisition of Lithium Properties in Nevada",
-      "description": "NOT FOR DISTRIBUTION TO UNITED STATES NEWSWIRE SERVICES OR FOR DISSEMINATION IN THE UNITED STATES  VANCOUVER, British Columbia, July  09, 2026  (GLOBE...",
-      "url": "https://www.globenewswire.com/news-release/2026/07/09/3324668/0/en/ExGen-Closes-Acquisition-of-Lithium-Properties-in-Nevada.html",
-      "source": "GlobeNewswire",
-      "date": "2026-07-09",
-      "image": "https://ml.globenewswire.com/Resource/Download/c9723016-402a-41bd-b6cf-5ee362972f2d",
-      "category": "market"
-    },
-    {
-      "title": "Zacatecas Silver Announces Completion of Phase Two Sampling at Oso Negro, Sonora",
-      "description": "VANCOUVER, British Columbia, July 09, 2026 (GLOBE NEWSWIRE) \u2014 Zacatecas Silver Corp. (TSXV: ZAC | OTCQB: ZCTSF | FRA: 7TV) (\u201cZacatecas Silver\u201d or the \u201cCompany\u201d)\u00a0is pleased to announce that a second phase of rock chip grab sampling and vein mapping has been co\u2026",
-      "url": "https://financialpost.com/globe-newswire/zacatecas-silver-announces-completion-of-phase-two-sampling-at-oso-negro-sonora",
-      "source": "Financial Post",
-      "date": "2026-07-09",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/07/figure-1-16.jpeg",
-      "category": "metals"
-    },
-    {
-      "title": "Earnings Preview: What To Expect From Mastercard\u2019s Report",
-      "description": "Valued at a market cap of $459.3 billion, Mastercard Incorporated (MA) is one of the world's leading payment technology companies. The New York-based company operates a global electronic payments network that connects consumers, financial institutions, mercha\u2026",
-      "url": "https://biztoc.com/x/8c95466a02e253d4",
-      "source": "Biztoc.com",
-      "date": "2026-07-09",
-      "image": "https://biztoc.com/cdn/8c95466a02e253d4_s.webp",
-      "category": "market"
-    },
-    {
-      "title": "Bristol-Myers Squibb\u2019s Q2 2026 Earnings: What to Expect",
-      "description": "With a market cap of $117.5 billion, Bristol-Myers Squibb Company (BMY) is a global biopharmaceutical company focused on discovering, developing, and commercializing innovative medicines for serious diseases. Headquartered in Princeton, New Jersey, the compan\u2026",
-      "url": "https://biztoc.com/x/78040abcefdd36cd",
-      "source": "Biztoc.com",
-      "date": "2026-07-09",
-      "image": "https://biztoc.com/cdn/78040abcefdd36cd_s.webp",
-      "category": "market"
-    },
-    {
-      "title": "Oman Tells UN It\u2019s Against Imposing Transit Fees in Hormuz",
-      "description": "Oman told the United Nations\u2019 shipping agency that it doesn\u2019t support imposing transit fees in the Strait of Hormuz, an approach which might set the sultanate at odds with Iran, which is pushing to charge passing freighters for navigation.",
-      "url": "https://financialpost.com/pmn/business-pmn/oman-tells-un-its-against-imposing-transit-fees-in-hormuz",
-      "source": "Financial Post",
-      "date": "2026-07-09",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "Real-time tax technology is changing corporate finance, says Cygnet",
-      "description": "AI, automation and e-invoicing are transforming tax operations into real-time business tools, improving compliance, cash flow, risk management and growth.",
-      "url": "https://www.thehindubusinessline.com/economy/real-time-tax-technology-is-changing-corporate-finance-says-cygnet/article71201718.ece",
+      "title": "Sensex today | Stock Market Live: Sensex ends 238 points higher; Nifty closes above 23,950",
+      "description": "Sensex, Nifty, Share Prices LIVE: Indian markets closed modestly higher, with the Sensex rising 0.31 per cent and the Nifty gaining 0.34 per cent. Advancing stocks outnumbered decliners by more than two to one, reflecting broad-based buying interest.",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-9th-july-2026/article71198232.ece",
       "source": "BusinessLine",
       "date": "2026-07-09",
-      "image": "https://bl-i.thgim.com/public/news/y5hefb/article71201738.ece/alternates/LANDSCAPE_1200/sss.jpeg",
+      "image": "https://bl-i.thgim.com/public/incoming/2sncmw/article71198241.ece/alternates/LANDSCAPE_1200/iStock-1323542329%204.jpg",
       "category": "market"
     },
     {
-      "title": "Why Indonesia's EV push is about more than just electric cars",
-      "description": "A Chinese electric car was cruising through the streets of Jakarta toward Halim Perdanakusuma International Airport. As a light late-June rain began ...",
-      "url": "https://en.antaranews.com/news/422047/why-indonesias-ev-push-is-about-more-than-just-electric-cars",
-      "source": "Antaranews.com",
+      "title": "NexGold Intersects 12.06 g/t Gold over 6.0 Metres and 3.84 g/t Gold over 18.0 Metres During Infill Drill Program at Goldboro",
+      "description": "TORONTO, July 09, 2026 (GLOBE NEWSWIRE) \u2014 NexGold Mining Corp.\u00a0(TSXV: NEXG; OTCQX: NXGCF) (\u201cNexGold\u201d or the \u201cCompany\u201d) is pleased to report additional assay results from its ongoing Reverse Circulation (\u201cRC\u201d) infill drill program (the \u201cRC Infill Drill Program\u2026",
+      "url": "https://financialpost.com/globe-newswire/nexgold-intersects-12-06-g-t-gold-over-6-0-metres-and-3-84-g-t-gold-over-18-0-metres-during-infill-drill-program-at-goldboro",
+      "source": "Financial Post",
       "date": "2026-07-09",
-      "image": "https://cdn.antaranews.com/cache/1200x800/2025/10/12/kendaraan-listrik.jpg",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/07/figure-1-17.jpeg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Quote of the Day by Al Pacino: \u201cI don't ever give my opinion. Opinions I have about anything are\u2026 \u2014 Inspiring lessons on privacy, communication, self-control, boundaries and why not everything needs to be said by the American actor known for his powerful performances and deep insights into human nature and life",
+      "description": "Quote of the Day by Al Pacino: Al Pacino\u2019s quote, \u201cI don't ever give my opinion. Opinions I have about anything are in my personal life,\u201d explores the importance of privacy, self-restraint, and thoughtful communication. The quote suggests that not every perso\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-al-pacino-i-dont-ever-give-my-opinion-opinions-i-have-about-anything-are-inspiring-lessons-on-privacy-communication-self-control-boundaries-and-why-not-everything-needs-to-be-said-by-the-american-actor-known-for-his-powerful-performances-and-deep-insights-into-human-nature-and-life/articleshow/132290503.cms",
+      "source": "The Times of India",
+      "date": "2026-07-09",
+      "image": "https://img.etimg.com/thumb/msid-132290503,width-1200,height-630,imgsize-53238,overlay-economictimes/articleshow.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Global M&A activity on track to eclipse 2021 deal boom, Morgan Stanley says",
+      "description": "Stocks slightly higher as investors digest mixed signals across the tech sector\nBy Manya Saini\nJuly 9 (Reuters) - Morgan Stanley expects global mergers and acquisitions activity to hit a record $6.4 trillion in 2026, overshadowing the levels seen in 2021 as b\u2026",
+      "url": "https://biztoc.com/x/6b2ac31a0a4f55a2",
+      "source": "Biztoc.com",
+      "date": "2026-07-09",
+      "image": "https://biztoc.com/cdn/6b2ac31a0a4f55a2_s.webp",
+      "category": "market"
+    },
+    {
+      "title": "Show HN: Sticky notes that disappear from screen sharing",
+      "description": "Sticky notes for Mac that stay always on top, even in fullscreen. Pin notes, checklists, and reference text above every app. macOS 15+.",
+      "url": "https://www.noticky.app/en",
+      "source": "Noticky.app",
+      "date": "2026-07-09",
+      "image": "https://www.noticky.app/og-image.png",
+      "category": "market"
+    },
+    {
+      "title": "Europe Accelerates Rearmament of Ukraine as US Distances Itself From Prolonged Conflict",
+      "description": "United States Vice President JD Vance\u2019s recent call for Ukraine to focus on defensive measures during ongoing negotiations marks a significant change in the Western stance on the conflict. This shift suggests that the US is slowly reducing its direct \u2026\nThe po\u2026",
+      "url": "https://www.globalresearch.ca/europe-accelerates-rearmament-ukraine-us-distances/5932851",
+      "source": "Globalresearch.ca",
+      "date": "2026-07-09",
+      "image": "https://www.globalresearch.ca/wp-content/uploads/2026/06/hegseth-nato.jpeg",
       "category": "geopolitics"
     },
     {
-      "title": "Polestar's Q2 sales volumes slide amid US market ban",
-      "description": "Sweden's Polestar has today reported a 4% fall in quarterly sales volumes, weeks after the EV maker was handed a US market ban starting in the 2027 model year, adding to its ongoing struggles to turn a profit.",
-      "url": "https://www.rte.ie/news/business/2026/0709/1582581-polestar-quarterly-sales/",
-      "source": "RTE",
+      "title": "Hellbreak Reveals Several Iconic IPs Coming To Horror TCG",
+      "description": "Spin Master Games has revealed a few new cards that will be introduced to Hellbreak, their new horror-centric trading card game. As you can see from the images below, they are getting some classics added to the mix, including Universal properties such as Drac\u2026",
+      "url": "https://bleedingcool.com/games/hellbreak-reveals-several-iconic-ips-coming-to-horror-tcg/",
+      "source": "Bleeding Cool News",
       "date": "2026-07-09",
-      "image": "https://www.rte.ie/images/00227f1e-1600.jpg",
+      "image": "https://bleedingcool.com/wp-content/uploads/2026/07/Hellbreak-Dracula-Art-Banner-2000x1125.jpg",
       "category": "market"
     },
     {
-      "title": "Stereotaxis Completes Acquisition of Robocath",
-      "description": "ST. LOUIS and ROUEN, France, July 09, 2026 (GLOBE NEWSWIRE) -- Stereotaxis\r\n (NYSE: STXS), a pioneer and global leader in surgical robotics for minimally invasive endovascular intervention, today announced that it has completed its previously announced acquis\u2026",
-      "url": "https://www.globenewswire.com/news-release/2026/07/09/3324770/21634/en/Stereotaxis-Completes-Acquisition-of-Robocath.html",
-      "source": "GlobeNewswire",
-      "date": "2026-07-09",
-      "image": "https://ml.globenewswire.com/Resource/Download/95a5b8ca-b7c0-4c80-8ca7-063ef10706c3",
-      "category": "market"
-    },
-    {
-      "title": "JNPA to develop 62-acre empty container yard near Nhava Sheva with RSA Global",
-      "description": "JNPA partners with RSA Global to develop a 62-acre advanced Empty Container Yard near Nhava Sheva, enhancing logistics efficiency.",
-      "url": "https://www.thehindubusinessline.com/economy/logistics/jnpa-to-develop-62-acre-empty-container-yard-near-nhava-sheva-with-rsa-global/article71201884.ece",
-      "source": "BusinessLine",
-      "date": "2026-07-09",
-      "image": "https://bl-i.thgim.com/public/incoming/ek9a3q/article71202212.ece/alternates/LANDSCAPE_1200/PTI03_03_2026_000176A.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Why Colorado replaced its AI discrimination law with a transparency requirement that the feds might challenge anyway",
-      "description": "Colorado watered down its AI legislation but may still face litigation from the Department of Justice.",
-      "url": "https://theconversation.com/why-colorado-replaced-its-ai-discrimination-law-with-a-transparency-requirement-that-the-feds-might-challenge-anyway-286517",
-      "source": "The Conversation Africa",
-      "date": "2026-07-09",
-      "image": "https://images.theconversation.com/files/746446/original/file-20260707-57-twggnv.jpg?ixlib=rb-4.1.0&rect=0%2C1555%2C7340%2C3670&q=45&auto=format&w=1356&h=668&fit=crop",
-      "category": "central_bank"
-    },
-    {
-      "title": "Why removing a distinct religious code for Native American military service members will make their needs invisible",
-      "description": "The Pentagon recategorized Native religions as \u2018other.\u2019 A scholar of Native American and Indigenous Studies explains the implications of that change.",
-      "url": "https://theconversation.com/why-removing-a-distinct-religious-code-for-native-american-military-service-members-will-make-their-needs-invisible-286226",
-      "source": "The Conversation Africa",
-      "date": "2026-07-09",
-      "image": "https://images.theconversation.com/files/745786/original/file-20260702-85-td8ren.jpeg?ixlib=rb-4.1.0&rect=0%2C9%2C1999%2C999&q=45&auto=format&w=1356&h=668&fit=crop",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Calibrant Energy Names Judith Judson Executive Vice President",
-      "description": "Nationally recognized energy executive brings deep experience across data center power, clean energy technology, utility strategy, and energy regulation BOSTON, July 9, 2026 /PRNewswire/ -- Calibrant Energy today announced that Judith Judson has joined the co\u2026",
-      "url": "https://www.prnewswire.com/news-releases/calibrant-energy-names-judith-judson-executive-vice-president-302821220.html",
+      "title": "FP Markets: The era of forward guidance coming to an end",
+      "description": "LIMASSOL, Cyprus, July 9, 2026 /PRNewswire/ -- The European Central Bank (ECB) Sintra forum recently took place between 29 June and 1 July, and welcomed several key central banking officials who each steered clear of previewing where interest rates are headed\u2026",
+      "url": "https://www.prnewswire.com/news-releases/fp-markets-the-era-of-forward-guidance-coming-to-an-end-302822054.html",
       "source": "PRNewswire",
       "date": "2026-07-09",
-      "image": "https://mmx.prnewswire.com/media/MS1879613/Judith-Judson-Executive-Vice-President-of-Regulatory-and-Policy.jpg?id=OA2755193&p=facebook",
+      "image": "https://mmx.prnewswire.com/media/MS1868904/FP-Markets-Logo.jpg?id=OA2757338&p=facebook",
+      "category": "geopolitics"
+    },
+    {
+      "title": "CBRN Protection Equipment Market to Reach USD 11.2 Billion by 2035 as Rising Defense Investments and Homeland Security Initiatives Drive Global Growth",
+      "description": "NEWARK, Del., July 9, 2026 /PRNewswire/ -- According to the latest analysis by Future Market Insights, the global CBRN Protection Equipment Market is witnessing steady expansion as governments, defense organizations, emergency response agencies, and critical \u2026",
+      "url": "https://www.prnewswire.com/news-releases/cbrn-protection-equipment-market-to-reach-usd-11-2-billion-by-2035-as-rising-defense-investments-and-homeland-security-initiatives-drive-global-growth-302822055.html",
+      "source": "PRNewswire",
+      "date": "2026-07-09",
+      "image": "https://mmx.prnewswire.com/media/MS1212296/FMI-Logo.jpg?id=OA2757352&p=facebook",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Against all odds, Palworld 1.0 proves that Pocketpair has built the ultimate Pok\u00e9mon alternative and Nintendo should be very worried",
+      "description": "There's a new Palworld 1.0 trailer to enjoy and it shoes just how expansive the game has got over the past 2.5 years",
+      "url": "https://www.windowscentral.com/gaming/palworld-full-release-new-trailer",
+      "source": "Windows Central",
+      "date": "2026-07-09",
+      "image": "https://cdn.mos.cms.futurecdn.net/YkTAJ5Pq7aGBY5exa9JXYR-2560-80.jpg",
       "category": "market"
     },
     {
-      "title": "[Eugene Volokh] Banning Parents from Possessing Guns Because Their Child Has Described Thoughts of \"Harming Herself Using a Rope\" Violated Second Amendment",
-      "description": "The ban was imposed even though police officers \"examined [the parents'] gun safes, confirming that the firearms were stored in locked safes with trigger locks.\"",
-      "url": "https://reason.com/volokh/2026/07/09/banning-parents-from-possessing-guns-because-their-child-has-described-thoughts-of-harming-herself-using-a-rope-violated-second-amendment/",
-      "source": "Reason",
+      "title": "Large Roundup of Section 230 Rulings",
+      "description": "This blog post rounds up nearly 20 Section 230 cases (and adjacent cases), mostly from the past four months, that for whatever reason I didn\u2019t cover in a standalone blog post. Section 230\u2019s effects are waning overall, but this post...\nThe post Large Roundup o\u2026",
+      "url": "https://blog.ericgoldman.org/archives/2026/07/large-roundup-of-section-230-rulings.htm",
+      "source": "Ericgoldman.org",
       "date": "2026-07-09",
-      "image": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2021/11/reason-logo-featured-placeholder.jpg.webp",
+      "image": "https://blog.ericgoldman.org/wp-content/uploads/2026/02/IMG_2022-1024x1020.jpg",
       "category": "market"
     },
     {
-      "title": "The Economy Is Not Breaking \u2014 It Is Splitting Into Two Parallel Systems, And Most People Are Still Living Inside Only One Of\u00a0Them",
-      "description": "EDITOR\u2019S NOTE: This report is based on a growing body of economic indicators, labor market behavior patterns, and on-the-ground observations across multiple U.S. states. While the official economy continues to show stability on paper, independent data sources\u2026",
-      "url": "https://www.activistpost.com/the-economy-is-not-breaking-it-is-splitting-into-two-parallel-systems-and-most-people-are-still-living-inside-only-one-of-them/",
-      "source": "Activistpost.com",
+      "title": "Trump Accounts reshape stock ownership, boosting one ETF\u2019s potential enormously",
+      "description": "The Trump Accounts initiative could significantly boost low-cost index fund investments, reshaping the ETF landscape and influencing future policy.\nThe post Trump Accounts reshape stock ownership, boosting one ETF\u2019s potential enormously appeared first on Cryp\u2026",
+      "url": "https://cryptobriefing.com/trump-accounts-reshape-stock-ownership-etf/",
+      "source": "Crypto Briefing",
       "date": "2026-07-09",
-      "image": "https://www.activistpost.com/wp-content/uploads/2026/07/istockphoto-2199052202-612x612-1.jpg",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/09110934/at-the-2018-conservative-political-action-conference-2-800x420.jpeg",
       "category": "market"
     },
     {
-      "title": "Switzerland upgrades its presence in Syria",
-      "description": "Syria has been undergoing fundamental change since the fall of the Assad regime at the end of 2024. This has prompted Switzerland to step up its efforts to promote a political transition and the country's socio-economic development. Its existing humanitarian \u2026",
-      "url": "https://www.globalsecurity.org/wmd/library/news/syria/2026/syria-260709-ch01.htm",
-      "source": "Globalsecurity.org",
+      "title": "Coalition urges FG to borrow for productive investments",
+      "description": "Emma Ujah, Abuja Bureau ChiefThe Economic and Fiscal Justice Coalition (EFJC) has tasked the Federal Government to adopt a \u201cBorrow Better\u201d framework by ensuring it borrows only for productive assets and not for recurrent consumption. This was contained in a p\u2026",
+      "url": "https://www.vanguardngr.com/2026/07/coalition-urges-fg-to-borrow-for-productive-investments/",
+      "source": "Vanguard",
       "date": "2026-07-09",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "Byrna Technologies Reports Fiscal Second Quarter 2026 Results",
-      "description": "ANDOVER, Mass., July 09, 2026 (GLOBE NEWSWIRE) -- Byrna Technologies Inc. (\u201cByrna\u201d or the \u201cCompany\u201d) (Nasdaq: BYRN), a personal defense technology company specializing in the development, manufacture, and sale of innovative less-lethal personal security solut\u2026",
-      "url": "https://www.globenewswire.com/news-release/2026/07/09/3324732/0/en/Byrna-Technologies-Reports-Fiscal-Second-Quarter-2026-Results.html",
-      "source": "GlobeNewswire",
-      "date": "2026-07-09",
-      "image": "https://ml.globenewswire.com/Resource/Download/b37ace10-a2b7-4002-8d20-1f4aff9c06c8",
-      "category": "market"
-    },
-    {
-      "title": "Gold (XAUUSD), Silver, Platinum Forecasts \u2013 Gold Rebounds As Oil Markets Retreat - FXEmpire",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQekRkbW5Tamk5NUVQWHh1RkRhOXhkU3YyQVlfbUJGSXpCOF9OOHdDY05vV2cwQm4tMVlHRko3dmJmSDFJaE14VWxKRTJYX0dON2hrU0gzTkdXRXhidDdtaE5OWldOMmRLTTZYaFQxaHNUWjJHczNORjBOcml1aU1KTGcyMUd0MFB2SjRNa1JYSjRBZWV0aGlHOTd5ZDFGdWJ2R1lnOVU4bjYwN3RNV3ZLS0JoUVpmRXdwRz",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQekRkbW5Tamk5NUVQWHh1RkRhOXhkU3YyQVlfbUJGSXpCOF9OOHdDY05vV2cwQm4tMVlHRko3dmJmSDFJaE14VWxKRTJYX0dON2hrU0gzTkdXRXhidDdtaE5OWldOMmRLTTZYaFQxaHNUWjJHczNORjBOcml1aU1KTGcyMUd0MFB2SjRNa1JYSjRBZWV0aGlHOTd5ZDFGdWJ2R1lnOVU4bjYwN3RNV3ZLS0JoUVpmRXdwRzczUWgxX0o1VUpuZEE?oc=5",
-      "source": "Google News - Precious Metals",
-      "date": "2026-07-09",
-      "image": "",
-      "category": "currency"
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2023/01/Artboard-1.png",
+      "category": "central_bank"
     }
   ],
   "history": [
@@ -459,7 +459,7 @@
       "platinum_usd_oz": 1614.14
     }
   ],
-  "timestamp": "2026-07-10T17:43:00.742335+05:30",
+  "timestamp": "2026-07-10T20:43:44.799144+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
