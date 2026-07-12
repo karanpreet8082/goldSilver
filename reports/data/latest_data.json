@@ -54,7 +54,7 @@
         "hold": 29
       },
       "summary": "Gold is showing negative signals. Positive daily movement of 0.8%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-12T06:16:45.047172",
+      "timestamp": "2026-07-12T08:37:10.270734",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 50
       },
       "summary": "Silver is showing negative signals. Strong daily gain of 1.4%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-12T06:16:45.157161",
+      "timestamp": "2026-07-12T08:37:10.352904",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 50
       },
       "summary": "Platinum is showing negative signals. Strong daily gain of 1.9%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-12T06:16:45.269962",
+      "timestamp": "2026-07-12T08:37:10.430226",
       "source": "rule-based"
     }
   },
@@ -137,13 +137,31 @@
   },
   "news": [
     {
-      "title": "Fed officials divided on US inflation views; US home prices hit all-time high",
-      "description": "The International Monetary Fund predicts a modest global economic growth of three percent for this year. In the United States, home prices have soared to unprecedented levels, creating challenges for prospective buyers. The Federal Reserve is experiencing internal disagreements about future interest",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-officials-divided-on-us-inflation-views-us-home-prices-hit-all-time-high/articleshow/132340764.cms",
+      "title": "NSE listing to \"complete the trioka\" and unlock value, drive governance upgrade: Report",
+      "description": "A potential NSE listing is positioned as the final step to \"complete the trioka\" of India's market infrastructure, with forward-looking benefits expected in transparency, valuation discovery and global index inclusion, according to a research report by Jefferies.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/nse-listing-to-complete-the-trioka-and-unlock-value-drive-governance-upgrade-report/articleshow/132342510.cms",
       "source": "Economic Times Markets",
       "date": "2026-07-12",
       "image": "",
-      "category": "central_bank"
+      "category": "geopolitics"
+    },
+    {
+      "title": "Mcap of 4 of top-10 most valued firms jumps Rs 92,995 cr; HDFC Bank, Airtel top gainers",
+      "description": "Last week, four major firms experienced a significant market valuation increase of over Rs 92,000 crore, with HDFC Bank and Bharti Airtel leading the charge. Despite benchmark indices Sensex and Nifty dipping slightly and breaking their winning streak due to geopolitical tensions and escalating crud",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-4-of-top-10-most-valued-firms-jumps-rs-92995-cr-hdfc-bank-airtel-top-gainers/articleshow/132342488.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-07-12",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Iran moves to close Strait of Hormuz. Should investors fear a Nifty crash in coming days?",
+      "description": "Indian equities are likely to remain volatile this week as escalating tensions in West Asia and the closure of the Strait of Hormuz threaten to push crude oil prices higher. Investors will also monitor Q1 earnings, inflation data, FII flows and global risk sentiment for market direction.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/iran-moves-to-close-strait-of-hormuz-should-investors-fear-a-nifty-crash-in-coming-days/articleshow/132341443.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-07-12",
+      "image": "",
+      "category": "geopolitics"
     },
     {
       "title": "How Global X Physical Precious Metal Basket (ASX:ETPMPM) Provides Multi-Metal Exposure - Kalkine",
@@ -153,6 +171,15 @@
       "date": "2026-07-12",
       "image": "",
       "category": "metals"
+    },
+    {
+      "title": "'PM Modi made several suggestions to advance trade ties with New Zealand': MEA during special press briefing",
+      "description": "Prime Minister Modi proposed strengthening trade and economic ties with New Zealand. A maritime cooperation arrangement will boost collaboration in the maritime domain. Sports and education are identified as important pillars for bilateral cooperation. Bilate\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/pm-modi-made-several-suggestions-to-advance-trade-ties-with-new-zealand-mea-during-special-press-briefing/articleshow/132325993.cms",
+      "source": "The Times of India",
+      "date": "2026-07-11",
+      "image": "https://img.etimg.com/thumb/msid-132326012,width-1200,height-630,imgsize-53228,overlay-economictimes/articleshow.jpg",
+      "category": "supply_demand"
     },
     {
       "title": "Sovereign Gold Bond investor alert: Check July 2026 premature redemption calendar and schedule",
@@ -182,76 +209,121 @@
       "category": "market"
     },
     {
-      "title": "Can We See AI Think? Anthropic\u2019s New Tech Explores Claude",
-      "description": "Anthropic has published a research paper detailing new insights into the internal mechanisms of its artificial intelligence, Claude. By utilizing an innovative technique known as the \u201cJacobian Lens\u201d (J-Lens), researchers successfully observed how the AI proce\u2026",
-      "url": "https://www.ubergizmo.com/2026/07/can-we-see-ai-think-anthropics-claude/",
-      "source": "Ubergizmo",
+      "title": "smilingfox added to PyPI",
+      "description": "Python API and CLI for the SmilingFox E621 image tagger",
+      "url": "https://pypi.org/project/smilingfox/",
+      "source": "Pypi.org",
       "date": "2026-07-11",
-      "image": "https://i0.wp.com/cdnbunny.ubergizmo.com/wp-content/uploads/2026/07/anthropic.webp",
+      "image": "https://pypi.org/static/images/twitter.abaf4b19.webp",
       "category": "market"
     },
     {
-      "title": "Could oil prices spike further? Inside the fragile US-Iran stance in the Gulf",
-      "description": "Geopolitical tensions in the Middle East have escalated after attacks on commercial vessels.  Iran's objective appears to be expanding its strategic influence over the Strait of Hormuz.  Gulf nations are remaining cautious to avoid direct involvement in the c\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/could-oil-prices-spike-further-inside-the-fragile-us-iran-stance-in-the-gulf/articleshow/132325682.cms",
+      "title": "Why Wabtec (WAB) Is Well Positioned to Grow Through Aftermarket Rail Services and Fleet Modernization",
+      "description": "Westinghouse Air Brake Technologies Corporation (NYSE:WAB) is one of the Best Railroad Stocks to Invest In According to Billionaires. As of Q1 2026, 20 billi...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-wabtec-wab-well-positioned-083335787.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-07-11",
+      "image": "https://s.yimg.com/lo/mysterio/api/C99790C41479CBC28E0E987C9F20A10074C60EB427BCCAEC66477244E300DDD3/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F21b3635213e5f404dd8a99a4f114db0e",
+      "category": "market"
+    },
+    {
+      "title": "EVERY Bali Launches Presale Villas & Apartments in Ungasan with Managed Rental Income",
+      "description": "EVERY Bali Launches Presale Villas & Apartments in Ungasan with Managed Rental Income...",
+      "url": "https://www.globenewswire.com/news-release/2026/07/11/3325794/0/en/EVERY-Bali-Launches-Presale-Villas-Apartments-in-Ungasan-with-Managed-Rental-Income.html",
+      "source": "GlobeNewswire",
+      "date": "2026-07-11",
+      "image": "https://ml.globenewswire.com/Resource/Download/94ade053-7f46-4a25-9297-cc1bfd975c32",
+      "category": "market"
+    },
+    {
+      "title": "Delhi University teachers oppose fourth-year UGCF overhaul, allege statutory bodies were bypassed",
+      "description": "Delhi University's decision to revise the fourth-year UGCF credit structure has triggered opposition from teachers, who allege the changes were introduced without approval from the Academic Council and Executive Council. Faculty members have raised concerns o\u2026",
+      "url": "https://timesofindia.indiatimes.com/education/news/delhi-university-teachers-oppose-fourth-year-ugcf-overhaul-allege-statutory-bodies-were-bypassed/articleshow/132327141.cms",
       "source": "The Times of India",
       "date": "2026-07-11",
-      "image": "https://img.etimg.com/thumb/msid-132325681,width-1200,height-630,imgsize-148512,overlay-etmarkets/articleshow.jpg",
+      "image": "https://static.toiimg.com/thumb/msid-132327159,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "category": "market"
+    },
+    {
+      "title": "SpaceX leads 2026 IPO boom as market shifts beyond AI mega-deals",
+      "description": "SpaceX's IPO success may shift investment focus from crypto to equities, potentially impacting altcoin markets and reshaping capital flows.\nThe post SpaceX leads 2026 IPO boom as market shifts beyond AI mega-deals appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/spacex-ipo-2026-crypto-capital-rotation/",
+      "source": "Crypto Briefing",
+      "date": "2026-07-11",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/11042934/the-spacex-falcon-9-rocket-booster-is-seen-just-seconds-befo-13-800x420.jpeg",
+      "category": "market"
+    },
+    {
+      "title": "India-New Zealand partnership is anchored in friendship & mutual commitment: PM Modi",
+      "description": "Prime Minister Narendra Modi addressed the Indian diaspora in Auckland during his visit. He described the India-New Zealand partnership as built on shared values and friendship. Modi highlighted the diaspora's integral role in strengthening bilateral ties bet\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/india-new-zealand-partnership-is-anchored-in-friendship-mutual-commitment-pm-modi/articleshow/132327115.cms",
+      "source": "The Times of India",
+      "date": "2026-07-11",
+      "image": "https://img.etimg.com/thumb/msid-132327173,width-1200,height-630,imgsize-147294,overlay-economictimes/articleshow.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Show HN: Open database of 2k IP camera specs (JSON/CSV, CC0)",
+      "description": "Article URL: https://github.com/ch-bas/cctv-camera-database\nComments URL: https://news.ycombinator.com/item?id=48869991\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/ch-bas/cctv-camera-database",
+      "source": "Github.com",
+      "date": "2026-07-11",
+      "image": "https://opengraph.githubassets.com/dafc706d51c218ae3eb53ee858ab672413937ad929b798002e7410d08f4a176e/ch-bas/cctv-camera-database",
       "category": "geopolitics"
     },
     {
-      "title": "Microsoft\u2019s Brad Smith criticizes US AI regulation for lack of clarity",
-      "description": "Unclear AI regulations hinder tech investment and innovation, highlighting the need for structured governance to ensure industry stability.\nThe post Microsoft\u2019s Brad Smith criticizes US AI regulation for lack of clarity appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/microsoft-brad-smith-ai-regulation-clarity/",
-      "source": "Crypto Briefing",
+      "title": "\u2018Sealed in blood\u2019: Where does the China-North Korea alliance stand today?",
+      "description": "China and North Korea are celebrating the 65th anniversary of a friendship treaty this week.",
+      "url": "https://www.aljazeera.com/news/2026/7/11/sealed-in-blood-where-does-the-china-north-korea-alliance-stand-today",
+      "source": "Al Jazeera English",
       "date": "2026-07-11",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/11021455/ms-execs-smith-brad-2019-05-31-800x420.jpeg",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/getty_6a51ef1ce6-1783754524.jpg?resize=1920%2C1440",
       "category": "market"
     },
     {
-      "title": "Global shocks may hit quarterly growth, but India's long-term outlook remains strong: PwC's Rara",
-      "description": "India's economic growth trajectory remains strong despite temporary global shocks. Experts project sustained growth between 6.5 and 7 percent over time. The country is simplifying financial system access through digital Know Your Customer initiatives. Busines\u2026",
-      "url": "https://economictimes.indiatimes.com/news/economy/indicators/global-shocks-may-hit-quarterly-growth-but-indias-long-term-outlook-remains-strong-pwcs-rara/articleshow/132325509.cms",
-      "source": "The Times of India",
+      "title": "India seeks review of proposed tariff, cites flaws in USTR's report on forced labour probe",
+      "description": "India requests a review of the USTR's proposed tariff, citing flaws in the forced labour investigation report.",
+      "url": "https://www.thehindubusinessline.com/economy/india-seeks-review-of-proposed-tariff-cites-flaws-in-ustrs-report-on-forced-labour-probe/article71209811.ece",
+      "source": "BusinessLine",
       "date": "2026-07-11",
-      "image": "https://img.etimg.com/thumb/msid-132325657,width-1200,height-630,imgsize-73598,overlay-economictimes/articleshow.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Men's testosterone levels in decline amid rising obesity, researchers warn | The Eastleigh Voice",
-      "description": "According to the World Health Organisation (WHO), about one in six people globally experience infertility during their lifetime, with male factors.",
-      "url": "https://eastleighvoice.co.ke/health/377719/mens-testosterone-levels-in-decline-amid-rising-obesity-researchers-warn",
-      "source": "Eastleighvoice.co.ke",
-      "date": "2026-07-11",
-      "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2026/01/Fertility.jpg",
+      "image": "https://bl-i.thgim.com/public/incoming/kcqnfi/article71209829.ece/alternates/LANDSCAPE_1200/1753874757445.jpg",
       "category": "geopolitics"
     },
     {
-      "title": "From Fragmented to Flawless: Ultumus Drives 104% Growth in High-Value Leads with AI-Enabled Loop Marketing",
-      "description": "The HubSpot Breeze Customer Agent helps businesses provide faster, more efficient customer support by handling repetitive queries automatically. Here\u2019s how it works, what it can handle, and where human support still matters most.",
-      "url": "https://blog.spitfireinbound.com/growth-in-high-value-leads-with-ai-enabled-loop-marketing",
-      "source": "Spitfireinbound.com",
+      "title": "Canada's next defence fight won\u2019t be over spending. It\u2019ll be over trust",
+      "description": "Britain\u2019s political upheaval exposed a simple reality: Defence spending without fiscal credibility is a political liability. Canada has bought itself time by revealing few details of its long-term plans. That changes this fall, when Ottawa must finally show C\u2026",
+      "url": "https://www.cbc.ca/news/politics/defence-spending-canada-uk-nato-9.7266431",
+      "source": "CBC News",
       "date": "2026-07-11",
-      "image": "https://blog.spitfireinbound.com/hubfs/Ultumus%20impact%20award%20Entry%20June%202026.png",
+      "image": "https://i.cbc.ca/ais/9a6bd41c-cac7-40cd-be7f-4f7c4536fc87,1783723078050/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C292%2C5616%2C3159%29%3BResize%3D620",
       "category": "market"
     },
     {
-      "title": "Colombia Adds Massive Soundstage as Bogot\u00e1 Audiovisual Market Attendance Soars and \u2018Narcos\u2019 Star-Led \u2018Rookies\u2019 Cleans Up in Project Prizes",
-      "description": "Colombia\u2019s Bogot\u00e1 Audiovisual Market (BAM) has wrapped its 17th Edition July 10 with an uptick in attendance. The numbers say it all: 2,336 accredited participants and 271 industry activities and 882 one-on-one business meetings connecting selected projects w\u2026",
-      "url": "https://variety.com/2026/film/global/colombia-bogota-audiovisual-market-prizes-uptick-attendance-1236807107/",
-      "source": "Variety",
+      "title": "Canada has lost millions of hectares of farmland. Where is it all going?",
+      "description": "The Carney government's recently released National Food Security Strategy aims to spend billions over a decade to produce more food in Canada. But it comes as Canadian farmers continue to lose land and struggle to convince the next generation to take up the m\u2026",
+      "url": "https://www.cbc.ca/news/politics/canada-farmland-carney-food-security-strategy-young-farmers-9.7266016",
+      "source": "CBC News",
       "date": "2026-07-11",
-      "image": "https://variety.com/wp-content/uploads/2026/07/PHOTO-2026-07-10-20-04-18.jpg?w=1000&h=563&crop=1",
+      "image": "https://i.cbc.ca/ais/941752ae-7cc2-4f21-8bb6-4a2a20f5693e,1783705842157/full/max/0/default.jpg?im=Crop%2Crect%3D%28282%2C26%2C1184%2C666%29%3BResize%3D620",
       "category": "market"
     },
     {
-      "title": "Manchester City\u2019s Sverre Nypan heads to Lommel SK on loan, continuing City Football Group\u2019s development pipeline",
-      "description": "Nypan's loan exemplifies City Football Group's strategy of leveraging global club networks to enhance player development and asset value.\nThe post Manchester City\u2019s Sverre Nypan heads to Lommel SK on loan, continuing City Football Group\u2019s development pipeline\u2026",
-      "url": "https://cryptobriefing.com/nypan-lommel-city-football-group-loan/",
-      "source": "Crypto Briefing",
+      "title": "The Secret Story of FTX\u2019s Rise and Ruin Part 1",
+      "description": "Sam Bankman-Fried was once called the \u201ccrypto king.\u201d But in November 2022, his company, FTX, imploded within a matter of days. All around the world, customers of the cryptocurrency exchange were suddenly cut off from their money.\u00a0 Subscribe to Mother Jones po\u2026",
+      "url": "https://www.motherjones.com/politics/2026/07/sam-bankman-fried-ftx-collapse-part-1-update-2026/",
+      "source": "Mother Jones",
       "date": "2026-07-11",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/11020645/sverre-nypan-800x420.jpeg",
-      "category": "market"
+      "image": "https://www.motherjones.com/wp-content/uploads/2025/10/20251003_FTX_J.jpg?w=1200&h=630&crop=1",
+      "category": "currency"
+    },
+    {
+      "title": "ICE are heavily armed killers. They\u2019re also huge losers",
+      "description": "Donald Trump's Homeland Security regime has been at the center of two critical stories in the past two weeks. In the first, federal agents shot and killed a man and quickly got to work justifying the use of force under the flimsiest of pretenses. In the other\u2026",
+      "url": "https://www.theverge.com/policy/964302/ice-donald-trump-killings",
+      "source": "The Verge",
+      "date": "2026-07-11",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2252426003.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
+      "category": "central_bank"
     },
     {
       "title": "Apple sues OpenAI over alleged trade secret theft linked to ChatGPT hardware development",
@@ -279,51 +351,6 @@
       "date": "2026-07-11",
       "image": "https://img.etimg.com/thumb/msid-132324540,width-1200,height-630,imgsize-33820,overlay-economictimes/articleshow.jpg",
       "category": "market"
-    },
-    {
-      "title": "\u2018Why Delta\u2019s Anti-Open Grazing Law failed\u2019",
-      "description": "Across several Delta communities, reports of cattle destroying crops, roaming highways and grazing on cultivated land continue to surface\nThe post \u2018Why Delta\u2019s Anti-Open Grazing Law failed\u2019\u00a0 appeared first on Vanguard News.",
-      "url": "https://www.vanguardngr.com/2026/07/why-deltas-anti-open-grazing-law-failed/",
-      "source": "Vanguard",
-      "date": "2026-07-11",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2025/11/Open-Grazing.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Trump takes unusual step, lets bipartisan housing bill become law unsigned amid SAVE pressure campaign",
-      "description": "Trump refused to sign the housing bill to pressure Congress on the SAVE America Act, but the measure became law without his signature at midnight.",
-      "url": "https://www.foxnews.com/politics/trump-takes-unusual-step-lets-bipartisan-housing-bill-become-law-unsigned-amid-save-pressure-campaign",
-      "source": "Fox News",
-      "date": "2026-07-11",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/donald-trump.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Citizen Kane at 85: A Revolutionary Masterpiece Still Hiding in Plain Sight",
-      "description": "Photo Credit:RKO Radio Pictures, still photographer Alexander Kahle, Public domain, via Wikimedia Commons\n \n Public DomainBy Charlton AllenOrson Welles\u2019s film may no longer shock us the way it shocked audiences in 1941\u2014but only because so much of modern cinem\u2026",
-      "url": "https://www.americanthinker.com/articles/2026/07/citizen-kane-at-85-a-revolutionary-masterpiece-still-hiding-in-plain-sight/",
-      "source": "Americanthinker.com",
-      "date": "2026-07-11",
-      "image": "https://images.americanthinker.com/fv/fv9k52j9xtop2rssyjo7_1200.jpg",
-      "category": "market"
-    },
-    {
-      "title": "5 world market themes for the week ahead",
-      "description": "TSMC's earnings will offer insights into AI chip demand this week. Wall Street banks are set to report, with expectations for strong corporate profits. Oil prices remain volatile amid tensions with Iran and Strait of Hormuz flows. US inflation data will gauge\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/5-world-market-themes-for-the-week-ahead/articleshow/132324291.cms",
-      "source": "The Times of India",
-      "date": "2026-07-11",
-      "image": "https://img.etimg.com/thumb/msid-132324305,width-1200,height-630,imgsize-998603,overlay-etmarkets/articleshow.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Raghuram Rajan, Microsoft's Asha Sharma among Indian-origin appointees to US Fed review panels",
-      "description": "US Federal Reserve appointed Indian-origin experts for policy review. Raghuram Rajan and Raj Chetty will join task forces. Asha Sharma will assess technology's impact on jobs and growth. These panels will examine monetary policy tools and data. The review aim\u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/raghuram-rajan-microsofts-asha-sharma-among-indian-origin-appointees-to-us-fed-review-panels/articleshow/132324231.cms",
-      "source": "The Times of India",
-      "date": "2026-07-11",
-      "image": "https://img.etimg.com/thumb/msid-132324231,width-1200,height-630,imgsize-56944,overlay-economictimes/articleshow.jpg",
-      "category": "central_bank"
     },
     {
       "title": "How to Invest in Junior Miners",
@@ -362,15 +389,6 @@
       "category": "geopolitics"
     },
     {
-      "title": "How Journalism Remains Strong During America\u2019s 250th",
-      "description": "Despite living in a faster news cycle, the national news business today, as a financial matter, is qualitatively stronger and more sustainable than ever.",
-      "url": "https://www.forbes.com/sites/andrewlack/2026/07/10/how-journalism-remains-strong-during-americas-250th/",
-      "source": "Forbes",
-      "date": "2026-07-10",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a4c0f73893918fde72145f1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "category": "market"
-    },
-    {
       "title": "This TSX stock could be looking at up to 35% upside, analyst says, as price target hikes flood in on \u2018impressive\u2019 earnings",
       "description": "The Week in Stocks: Why two Canadian stocks were added to a global list of top 30 stock ideas, new price targets for gold and silver and more",
       "url": "https://financialpost.com/investing/tsx-stock-could-have-35-upside-earnings",
@@ -387,24 +405,6 @@
       "date": "2026-07-10",
       "image": "https://mmx.prnewswire.com/media/MS645201/lear-capital-logo-1-Logo.jpg?id=OA2758639&p=facebook",
       "category": "geopolitics"
-    },
-    {
-      "title": "Phytochemical and biological evaluation of methanolic extracts as a preventive measure for antioxidant and Anticoccidial Eimeria columbae Oocysts",
-      "description": "Background Herbal products are rich in the source of bioactive ingredients, including phenols, flavonoids, tannins, and essential oil components such as cinnamaldehyde, eugenol, and 1,8-cineole, and have significant potential for therapeutic applications that\u2026",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353429",
-      "source": "Plos.org",
-      "date": "2026-07-10",
-      "image": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0353429.g009&size=inline",
-      "category": "market"
-    },
-    {
-      "title": "Gold price rises \u20b9400 per 10gm in Delhi on value buying; silver jumps \u20b95,000 per kg",
-      "description": "Gold prices in Delhi rise \u20b9400 per 10 grams as traders capitalize on lower prices and a weak US dollar.",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-price-rises-400-per-10gm-in-delhi-on-value-buying-silver-jumps-5000-per-kg/article71206865.ece",
-      "source": "BusinessLine",
-      "date": "2026-07-10",
-      "image": "https://bl-i.thgim.com/public/incoming/8z0cfg/article71206914.ece/alternates/LANDSCAPE_1200/PO03_Gold_silver_bars.jpg",
-      "category": "currency"
     }
   ],
   "history": [
@@ -459,7 +459,7 @@
       "platinum_usd_oz": 1614.14
     }
   ],
-  "timestamp": "2026-07-12T11:46:45.284326+05:30",
+  "timestamp": "2026-07-12T14:07:10.443084+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
