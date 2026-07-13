@@ -54,7 +54,7 @@
         "hold": 29
       },
       "summary": "Gold is showing negative signals. Positive daily movement of 0.8%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-13T12:19:47.907234",
+      "timestamp": "2026-07-13T15:23:51.224977",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 50
       },
       "summary": "Silver is showing negative signals. Strong daily gain of 1.4%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-13T12:19:48.083943",
+      "timestamp": "2026-07-13T15:23:51.326785",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 50
       },
       "summary": "Platinum is showing negative signals. Strong daily gain of 1.9%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-13T12:19:48.163329",
+      "timestamp": "2026-07-13T15:23:51.421898",
       "source": "rule-based"
     }
   },
@@ -137,18 +137,54 @@
   },
   "news": [
     {
-      "title": "Oil pangs resurface for rupee, options market gauge signals bearish bias",
-      "description": "On Monday, the Indian rupee fell to its lowest level in over a month, driven down by rising oil prices amid escalating tensions between the US and Iran. Despite the currency's decline, traders observed that the central bank's potential intervention helped mitigate further losses. Additionally, India",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/oil-pangs-resurface-for-rupee-options-market-gauge-signals-bearish-bias/articleshow/132364812.cms",
+      "title": "Global Markets: Shein eyes up to $3 billion Hong Kong IPO as soon as August, Bloomberg News reports",
+      "description": "Fast-fashion powerhouse Shein is gearing up for an initial public offering in Hong Kong, aiming to secure between two to three billion dollars in funds. The company's long-awaited entry into the public market has been greenlit by China's securities regulator. With a targeted valuation between forty ",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-shein-eyes-up-to-3-billion-hong-kong-ipo-as-soon-as-august-bloomberg-news-reports/articleshow/132368819.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-07-13",
+      "image": "",
+      "category": "currency"
+    },
+    {
+      "title": "Gold drops more than 1% as rising Middle East tensions add to rate-hike fears",
+      "description": "Gold prices saw a notable decline amidst rising tensions in the Middle East, driven by concerns over inflation linked to escalating oil prices. The prospect of an interest rate hike from the Federal Reserve in September is keeping traders on edge as they await crucial economic data releases this wee",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-drops-more-than-1-as-rising-middle-east-tensions-add-to-rate-hike-fears/articleshow/132368603.cms",
       "source": "Economic Times Markets",
       "date": "2026-07-13",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "Global Market: Eurozone bond yields climb as Middle East tensions rekindle inflation concerns",
-      "description": "Eurozone government bond yields climbed on Monday due to escalating US-Iran tensions. Oil prices surged significantly after Iran announced a closure of the Strait of Hormuz. This renewed conflict has increased concerns over global inflation and economic stability.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-eurozone-bond-yields-climb-as-middle-east-tensions-rekindle-inflation-concerns/articleshow/132362710.cms",
+      "title": "US stocks today: S&amp;P 500, Nasdaq decline as Iran tensions jolt sentiment; chip stocks fall",
+      "description": "On Monday, stock markets dipped as rising oil prices intensified due to increasing tensions between the U.S. and Iran. This surge in oil costs exacerbated the ongoing decline in chip stocks, heavily weighing on the Nasdaq index. Investors are now tasked with weighing strong corporate earnings agains",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-decline-as-iran-tensions-jolt-sentiment-chip-stocks-fall/articleshow/132368301.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-07-13",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Mylan to sell up to $363 million stake in India's Biocon, term sheet shows",
+      "description": "Mylan \u200bInc plans to \u200csell \u2060up \u2060to 92 \u200bmillion shares in \u200bIndian drugmaker \u200bBiocon \u2060Ltd, worth \u200cup \u200bto \u200b34.81 \u2060billion Indian rupees ($363 \u200bmillion), according to \u200ba term \u200csheet seen \u200bby \u200bReuters.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/mylan-to-sell-up-to-363-million-stake-in-indias-biocon-term-sheet-shows/articleshow/132368259.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-07-13",
+      "image": "",
+      "category": "currency"
+    },
+    {
+      "title": "Quote of the day by Irving Fisher: \"The chief evils of speculation flow from the participation of the general public, who lack the special knowledge, and enter the market in a purely gambling spirit\"",
+      "description": "Irving Fisher's timeless observation warns against public speculation in financial markets. Retail investors often treat markets like casinos, driven by emotion and trends. Knowledge and discipline are crucial for successful investing, not quick profits. Easy access to trading platforms democratizes",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-irving-fisher-the-chief-evils-of-speculation-flow-from-the-participation-of-the-general-public-who-lack-the-special-knowledge-and-enter-the-market-in-a-purely-gambling-spirit/articleshow/132356751.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-07-13",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "JSW Infrastructure among 7 stocks that hit 52-week highs and rallied up to 30% in a month",
+      "description": "Seven BSE 200 stocks, including Paytm, Nykaa, Oracle Financial Services and JSW Infrastructure, hit fresh 52-week highs despite a subdued market. The milestone reflects strong investor confidence, sustained buying interest and continued upward momentum in these counters.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/jsw-infrastructure-among-7-stocks-that-hit-52-week-highs-and-rallied-up-to-30-in-a-month/slideshow/132366807.cms",
       "source": "Economic Times Markets",
       "date": "2026-07-13",
       "image": "",
@@ -236,175 +272,139 @@
       "category": "metals"
     },
     {
-      "title": "Qatar's former ruler Sheikh Hamad bin Khalifa Al Thani died at age 74, state news agency says",
-      "description": "Sheikh Hamad transformed Qatar into a global diplomatic, media and investment power before voluntarily handing power to his son in 2013",
-      "url": "https://www.haaretz.com/middle-east-news/2026-07-12/ty-article/qatars-former-ruler-sheikh-hamad-bin-khalifa-al-thani-died-at-age-74/0000019f-55b9-d7c8-a3df-5fbf24390000",
-      "source": "Haaretz",
+      "title": "Esports industry continues retreat from crypto sponsorships as XSE Pro League Guangzhou wraps without a single blockchain partner",
+      "description": "The absence of crypto sponsors in esports highlights shifting industry dynamics and regulatory impacts, potentially reshaping future funding models.\nThe post Esports industry continues retreat from crypto sponsorships as XSE Pro League Guangzhou wraps without\u2026",
+      "url": "https://cryptobriefing.com/esports-crypto-sponsorship-retreat-xse-pro-league/",
+      "source": "Crypto Briefing",
       "date": "2026-07-12",
-      "image": "https://img.haarets.co.il/bs/0000019f-55b9-d7c8-a3df-5fbf24390000/6f/04/09f0ebc81d08795b0cfb3c387d5e/1018316866.jpg?precrop=2192,1268,x0,y40&width=1200&height=630&cmsprod",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/12112321/xse-pro-league-2026-guide-guangzhou-field-set-as-new-look-fa-800x420.jpeg",
       "category": "market"
     },
     {
-      "title": "Top Wall Street analysts are confident about these 3 stocks for the long haul",
-      "description": "Global stock markets have been under pressure as geopolitical tensions have resurfaced in the Middle East. Moreover, investors remain concerned about the sustainability of AI-driven demand and infrastructure spending.\nNonetheless, those looking for attractive\u2026",
-      "url": "https://biztoc.com/x/3aa26869dccfd2ed",
-      "source": "Biztoc.com",
+      "title": "Faith Tech: Pat Gelsinger steers Gloo\u2019s platform to lead faith-based organizations into the age of AI",
+      "description": "After eight years as the chief executive of VMware Inc. and nearly four more leading Intel Corp., Pat Gelsinger suddenly found himself retired. Then the phone rang. \u201cLess than two seconds after the Intel departure was announced, Scott called,\u201d Gelsinger (pict\u2026",
+      "url": "https://siliconangle.com/2026/07/12/faith-tech-pat-gelsinger-steers-gloos-platform-lead-faith-based-organizations-age-ai/",
+      "source": "SiliconANGLE News",
       "date": "2026-07-12",
-      "image": "https://biztoc.com/cdn/3aa26869dccfd2ed_s.webp",
+      "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Pat-Gelsinger.jpg",
       "category": "geopolitics"
     },
     {
-      "title": "Iran closes Strait of Hormuz, maritime traffic plummets",
-      "description": "The closure exacerbates regional tensions, disrupts global oil supply chains, and heightens geopolitical uncertainty, impacting global markets.\nThe post Iran closes Strait of Hormuz, maritime traffic plummets appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/iran-closes-strait-of-hormuz-maritime-traffic-plummets/",
-      "source": "Crypto Briefing",
+      "title": "US-Iran war: Oil shipments through Strait of Hormuz rise after ceasefire, renewed strikes revive fears, IEA says",
+      "description": "Iran war news: Oil flows through the Strait of Hormuz recovered sharply after a ceasefire. Renewed hostilities this week have revived uncertainty over global oil markets. Benchmark crude prices fell through June as tanker traffic resumed. Global oil supply re\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-iran-war-oil-shipments-through-strait-of-hormuz-rise-after-ceasefire-renewed-strikes-revive-fears-iea-says-crude-price/articleshow/132347710.cms",
+      "source": "The Times of India",
       "date": "2026-07-12",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/12081126/strait-of-hormuz-wikipedia-37-1-800x420.jpeg",
+      "image": "https://img.etimg.com/thumb/msid-132347800,width-1200,height-630,imgsize-83072,overlay-economictimes/articleshow.jpg",
       "category": "geopolitics"
     },
     {
-      "title": "FIFA to consider expanding 2030 World Cup to 64 teams",
-      "description": "FIFA president Gianni Infantino has confirmed that world football's governing body will examine a proposal to expand the FIFA World Cup to 64 teams for the 2030 edition following the conclusion of the ongoing 2026 tournament.\nThe post FIFA to consider expandi\u2026",
-      "url": "https://www.vanguardngr.com/2026/07/fifa-to-consider-expanding-2030-world-cup-to-64-teams/",
+      "title": "'Love of my life' - Partner mourns South Africa World Cup star Adams",
+      "description": "The partner of South Africa World Cup player Jayden Adams has spoken of her loss after his sudden death. \"There are no words to describe the pain I\u2019m feeling,\" Aqueelah Chloe Adendorf said in a post on Instagram.",
+      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260712-99-38984/",
+      "source": "Dpa-international.com",
+      "date": "2026-07-12",
+      "image": "https://s.yimg.com/ny/api/res/1.2/T3DEbw3UfW0D2CYP7r1HwA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/dpa_international_526/0871574f7b37b20967c9dfbd345bba2b",
+      "category": "market"
+    },
+    {
+      "title": "LEQEMBI\u00ae Subcutaneous Autoinjector Clinical Data Supports Similar Efficacy and Safety to IV Formulation in Early Alzheimer\u2019s Disease Presented at the Alzheimer\u2019s Association International Conference\u00ae (AAIC\u00ae) 2026",
+      "description": "New clinical and real-world data support a subcutaneous treatment pathway from initiation through maintenance treatment, offering dosing convenience for patients and care partners New clinical and real-world data support a subcutaneous treatment pathway from \u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/07/12/3325847/0/en/LEQEMBI-Subcutaneous-Autoinjector-Clinical-Data-Supports-Similar-Efficacy-and-Safety-to-IV-Formulation-in-Early-Alzheimer-s-Disease-Presented-at-the-Alzheimer-s-Association-Interna.html",
+      "source": "GlobeNewswire",
+      "date": "2026-07-12",
+      "image": "https://ml.globenewswire.com/Resource/Download/80f9c524-3da2-4583-a763-0dad931fa182",
+      "category": "market"
+    },
+    {
+      "title": "2027 Will Be the \u2018Worst Year in History\u2019 for Memory Supply, Says SK Hynix CEO",
+      "description": "The Korean chip boss believes demand for the memory chips could outstrip supply into 2030.\nIf you're concerned about spiraling prices for consumer electronics, from smartphones to consoles to PCs, one of the memory chip industry's most important figures has s\u2026",
+      "url": "https://uk.pcmag.com/components/166119/2027-will-be-the-worst-year-in-history-for-memory-supply-says-sk-hynix",
+      "source": "PCMag.com",
+      "date": "2026-07-12",
+      "image": "https://sm.pcmag.com/t/pcmag_uk/news/2/2027-will-/2027-will-be-the-worst-year-in-history-for-memory-supply-say_qxfp.1200.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Bank of America says this 107-year dividend giant is on sale",
+      "description": "It's not often that dividend stalwarts are viewed as obviously mispriced, but Bank of America sees an exception in Coca-Cola (KO) stock. For generations of i...",
+      "url": "https://www.thestreet.com/investing/bank-of-america-says-coca-cola-dividend-giant-on-sale",
+      "source": "TheStreet",
+      "date": "2026-07-12",
+      "image": "https://s.yimg.com/lo/mysterio/api/6AC1D5E333206983A3122B19B2B56C7E025EC3E2E6B09AA14C6E593EB00FE440/subgraphmysterio/resizefill_w1200_h674;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F2bf00a8527fdc5b2f8f73c52d2306648",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Mamdani Omits Italian and Jewish Neighborhoods From NYC Immigrant Map",
+      "description": "Socialist New York City Mayor Zohran Mamdani's administration published a map highlighting the city's immigrant neighborhoods but omitted Little Italy, as well as Greek, Irish, and Jewish enclaves.\nThe post Mamdani Omits Italian and Jewish Neighborhoods From \u2026",
+      "url": "https://www.thegatewaypundit.com/2026/07/mamdani-omits-italian-jewish-neighborhoods-nyc-immigrant-map/",
+      "source": "Thegatewaypundit.com",
+      "date": "2026-07-12",
+      "image": "https://www.thegatewaypundit.com/wp-content/uploads/2026/07/italian-american-mamdani-cover-1200x630.jpg",
+      "category": "market"
+    },
+    {
+      "title": "World Cup bets on prediction markets may get tax edge over gambling",
+      "description": "Treating prediction market bets like investments allows taxpayers to fully deduct losses and, under the most aggressive strategy, apply a lower tax rate.",
+      "url": "https://fortune.com/2026/07/12/world-cup-bets-prediction-markets-tax-advantage-sports-gambling/",
+      "source": "Fortune",
+      "date": "2026-07-12",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2285699448-e1783869493555.jpg?resize=1200,600",
+      "category": "market"
+    },
+    {
+      "title": "AI has triggered the biggest gas-plant building boom in history, and a quiet fight to stop it",
+      "description": "The AI build-out has done something the fossil-fuel industry could not do for itself. It has set off the largest-ever construction boom in natural gas-fired power plants,\u00a0the Associated Press reports. Aging coal plants are being kept alive past their retireme\u2026",
+      "url": "https://thenextweb.com/news/ai-data-centres-gas-plants-clean-energy-fight/",
+      "source": "The Next Web",
+      "date": "2026-07-12",
+      "image": "https://media.thenextweb.com/2026/07/ai-data-centres-gas-plants-clean-energy-fight.avif",
+      "category": "market"
+    },
+    {
+      "title": "Nigeria cannot plan for population it does not count, says NPC",
+      "description": "By Folarin Kehinde The National Population Commission (NPC) has stressed the importance of a credible, technology-driven Population and Housing Census, saying Nigeria cannot effectively plan or allocate resources without accurate population data. The Chairman\u2026",
+      "url": "https://www.vanguardngr.com/2026/07/nigeria-cannot-plan-for-population-it-does-not-count-says-npc/",
       "source": "Vanguard",
       "date": "2026-07-12",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/07/GettyImages-2280285373-1024x683-1.jpg",
-      "category": "market"
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2019/07/National-Population-Commission.jpg",
+      "category": "supply_demand"
     },
     {
-      "title": "Prince Harry played with kids & goats for Scotty\u2019s Little Soldiers on Saturday",
-      "description": "On Saturday, Prince Harry spent some time at an event for Scotty\u2019s Little Soldiers, for which he still serves as patron. Scotty\u2019s is a charity to help kids who have lost a military parent. Whenever Harry has come to London in previous years, he usually organi\u2026",
-      "url": "https://www.celebitchy.com/986160/prince_harry_played_with_kids_goats_for_scottys_little_soldiers_on_saturday/",
-      "source": "Celebitchy.com",
+      "title": "Health and elections: Vote like your life depends on it",
+      "description": "CHEYENNE, Wyo. \u2014 Wyoming ranks 29th in the nation for overall health, according to the America's Health Rankings 2025 Annual Report. That middling score",
+      "url": "http://capcity.news/community/elections/2026/07/12/health-and-elections-vote-like-your-life-depends-on-it/",
+      "source": "Capcity.news",
       "date": "2026-07-12",
-      "image": "https://www.celebitchy.com/wp-content/uploads/2026/07/avalon-1115961854.jpg",
-      "category": "geopolitics"
+      "image": "https://i0.wp.com/capcity.news/wp-content/uploads/2026/07/021920-ir002-scaled-1.jpg?fit=1024%2C683&ssl=1",
+      "category": "currency"
     },
     {
-      "title": "Strait of Hormuz instability threatens global energy supply amid US-Iran tensions",
-      "description": "Global energy markets face heightened volatility and potential price surges due to ongoing geopolitical tensions and supply disruptions.\nThe post Strait of Hormuz instability threatens global energy supply amid US-Iran tensions appeared first on Crypto Briefi\u2026",
-      "url": "https://cryptobriefing.com/strait-of-hormuz-instability-threatens-global-energy-supply-amid-us-iran/",
+      "title": "FBI is 'assisting' police after 71-year-old Lindsey Graham's mysterious death one day after secret Ukraine trip and chilling Iran 'murder plot'",
+      "description": "The Federal Bureau of Investigation has stepped in to 'assist' local authorities in the wake of Lindsey Graham's unexpected death.",
+      "url": "https://www.dailymail.com/news/article-15971771/Mystery-swirls-Lindsay-Graham-sudden-death-Ukraine-Iran.html",
+      "source": "Dailymail.com",
+      "date": "2026-07-12",
+      "image": "https://i.dailymail.com/1s/2026/07/12/16/109969669-0-image-m-11_1783868587695.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Fed Chair Warsh to emphasize price stability in first testimony",
+      "description": "Warsh's cautious stance may reinforce market expectations of stable rates, highlighting the Fed's data-dependent approach amid inflation concerns.\nThe post Fed Chair Warsh to emphasize price stability in first testimony appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/fed-chair-warsh-to-emphasize-price-stability-in-first-testimony/",
       "source": "Crypto Briefing",
       "date": "2026-07-12",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/12080550/strait-jacket-global-energy-flows-and-the-war-with-iran-coun-1-800x420.jpeg",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/12110601/kevin-warsh-banner-4-1-800x420.jpeg",
       "category": "geopolitics"
     },
     {
-      "title": "T. rex could become most expensive fossil ever - but it's a \u200bproblem for scientists",
-      "description": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.",
-      "url": "https://www.bbc.com/news/articles/c4gykgyn1r4o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "source": "BBC News",
+      "title": "Does Better Health Require Fewer Freedoms?",
+      "description": "\u201cBe careful of the steps.\u201d \u201cGet out and walk for five minutes.\u201d \u201c1,354 calories.\u201d Such was life during my four days in London last week. Innumerable precautions, suggestions, and \u2018useful information\u2019 litter the streets, hotels, and menus across the pond, all \u2026",
+      "url": "https://www.dailysignal.com/2026/07/12/health-and-freedom/",
+      "source": "Daily Signal",
       "date": "2026-07-12",
-      "image": "https://s.yimg.com/lo/mysterio/api/f427e44ec174b93ac1e666e37320f171b7cbd2892b629b5c3befb5002ee97b61/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F49df41d22cc209ff8623f9cb53387c9d",
+      "image": "https://static.dailysignalmedia.org/GettyImages-2245820878.jpg",
       "category": "market"
-    },
-    {
-      "title": "Lindsey Graham's death opens up an increasingly powerful job in the Senate",
-      "description": "In the year and a half before he died, the South Carolina Republican led a Senate committee that was largely responsible for Trump's biggest wins.",
-      "url": "https://www.usatoday.com/story/news/politics/2026/07/12/lindsey-graham-death-fallout-senate-congress/90892170007/",
-      "source": "USA Today",
-      "date": "2026-07-12",
-      "image": "https://s.yimg.com/lo/mysterio/api/53bc1b763cc476258379f3d56689ad538a1e78b2dd5ac6b74f743e5133be7484/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2F4705552bb5625c3a13a4f65f3eda7d89",
-      "category": "market"
-    },
-    {
-      "title": "Top 20% of Canadian earners pay more than half of all taxes, says study warning against increasing rates",
-      "description": "Meanwhile, the bottom 20 per cent of income-earning families are estimated to pay 0.7 per cent of all federal and provincial income taxes",
-      "url": "https://nationalpost.com/news/canada/top-20-of-canadian-earners-pay-more-than-half-of-all-taxes-says-study-warning-against-increasing-rates",
-      "source": "National Post",
-      "date": "2026-07-12",
-      "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/04/0228-biz-jg-column_301497827.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Lindsey Graham Suddenly Died Saturday at 71, Days After Visiting Ukraine and Meeting with Zelensky",
-      "description": "He was campaigning for a fifth Senate term just weeks ago, fending off five challengers to win his primary. His office called the illness that took him \u201cbrief and sudden.\u201d Sen. Lindsey \u2026",
-      "url": "https://thoughtcatalog.com/jeremy-london/2026/07/lindsey-graham-suddenly-died-saturday-at-71-days-after-visiting-ukraine-and-meeting-with-zelensky/",
-      "source": "Thoughtcatalog.com",
-      "date": "2026-07-12",
-      "image": "https://thoughtcatalog.com/wp-content/uploads/2026/07/lindsey-graham-suddenly-died-saturday-at-71-days-after-visiting-ukraine-and-meet.jpg?crop=0,12,100,33.38&w=1536",
-      "category": "market"
-    },
-    {
-      "title": "Sunday: Hili dialogue",
-      "description": "Welcome to Sabbath for goyische cats: Sunday, July 12, 2026, and National Pecan Pie Day, the best of all possible pies and a triumph of American cuisine.\u00a0 Here\u2019s an individual pie that I saw on my 2021 post-pandemic BBQ Tour of Texas (this is from Cooper\u2019s Pi\u2026",
-      "url": "https://whyevolutionistrue.com/2026/07/12/sunday-hili-dialogue-594/",
-      "source": "Whyevolutionistrue.com",
-      "date": "2026-07-12",
-      "image": "https://whyevolutionistrue.com/wp-content/uploads/2026/07/d774a7e3-2595-4adf-ac3a-d3474e8c47d1.jpg",
-      "category": "market"
-    },
-    {
-      "title": "IBIT Bitcoin ETF sees $292M inflow, reversing 8-week outflow streak",
-      "description": "The renewed institutional interest in Bitcoin could signal a potential shift in market dynamics, influencing future investment strategies.\nThe post IBIT Bitcoin ETF sees $292M inflow, reversing 8-week outflow streak appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/ibit-bitcoin-etf-sees-292m-inflow-reversing-8-week-outflow-streak/",
-      "source": "Crypto Briefing",
-      "date": "2026-07-12",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/12073653/crypto-bitcoin-in-boxes-background-wallpaper-7-1-800x420.jpeg",
-      "category": "market"
-    },
-    {
-      "title": "How Louisiana Became A Key Battleground For Anti-Energy Activism",
-      "description": "A new report from the Pelican Institute details more than $100 million being pour into the state to fund anti-energy activism.",
-      "url": "https://www.forbes.com/sites/davidblackmon/2026/07/12/how-louisiana-became-a-key-battleground-for-anti-energy-activism/",
-      "source": "Forbes",
-      "date": "2026-07-12",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a16db208aeac576a00f24d6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "category": "market"
-    },
-    {
-      "title": "The Trump Administration\u2019s Threat to Scientific Research",
-      "description": "In The Nationalization of American Science I warned that the Trump administration\u2019s rewriting of the seemingly mundane Regulation for Federal Financial Assistance was a tremendous threat to America\u2019s historically successful decentralized system of science fun\u2026",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-trump-administrations-threat-to-scientific-research.html",
-      "source": "Marginalrevolution.com",
-      "date": "2026-07-12",
-      "image": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png",
-      "category": "geopolitics"
-    },
-    {
-      "title": "EXCLUSIVE: Former 'Apprentice' star picked by Trump to showcase America's 250th anniversary through art",
-      "description": "\"Passport to Patriotism\" opens July 30 in Washington with 30+ artists exploring America's story through photography, sculpture and fashion for America 250.",
-      "url": "https://www.foxnews.com/politics/exclusive-former-apprentice-star-picked-trump-showcase-americas-250th-anniversary-through-art",
-      "source": "Fox News",
-      "date": "2026-07-12",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/erin-scavino-passport-to-patriotism.gif",
-      "category": "market"
-    },
-    {
-      "title": "Commodity Support and Resistance Levels for Precious Metals, Energy, and Agricultural Futures on July 13, 2026 - KuCoin",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdWx2andHSmNGRVhVbVJuTFBGUUNJS1JJYy1oU2FWOW9ES2ZlaGJSM0ZfUmsybmNHWXM1RUg0TG5QRzdiMlZpeEk0VFpVc2RMYXBPTnl1R0IyQXkwM2RhRUY2cjNaM2V1aE5OaTRTV2xjQ2JkYm9GZjhiTmNFZ1pVR3hxeUZ6WE00X0s0UkZRZlRZYTBraHF2WmliX2Q4WHlfVWM0YTVYR0pTOEVzcmYxSE43U1Z5Rks0VX",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdWx2andHSmNGRVhVbVJuTFBGUUNJS1JJYy1oU2FWOW9ES2ZlaGJSM0ZfUmsybmNHWXM1RUg0TG5QRzdiMlZpeEk0VFpVc2RMYXBPTnl1R0IyQXkwM2RhRUY2cjNaM2V1aE5OaTRTV2xjQ2JkYm9GZjhiTmNFZ1pVR3hxeUZ6WE00X0s0UkZRZlRZYTBraHF2WmliX2Q4WHlfVWM0YTVYR0pTOEVzcmYxSE43U1Z5Rks0VXhTUkJxeHVMalpCZFZDd1FVd3NSbkxBVmozNTg1SVQ?oc=5",
-      "source": "Google News - Precious Metals",
-      "date": "2026-07-12",
-      "image": "",
-      "category": "metals"
-    },
-    {
-      "title": "Gold and silver futures might decline",
-      "description": "Gold and silver futures show a declining trend, with key resistance levels signaling potential further drops in prices.",
-      "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/bullion-cues-gold-and-silver-futures-might-decline/article71209791.ece",
-      "source": "BusinessLine",
-      "date": "2026-07-11",
-      "image": "https://bl-i.thgim.com/public/incoming/8z0cfg/article71206914.ece/alternates/LANDSCAPE_1200/PO03_Gold_silver_bars.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "SIL vs. SILJ: Silver Miners and Senior Stability or Junior Leverage After the $120 Break and $60 Consolidation Test?",
-      "description": "Silver's violent swing from $120 to the $60 consolidation zone split silver equity investors into two camps with very different survival odds. The fund you c...",
-      "url": "https://247wallst.com/investing/etf/2026/07/11/sil-vs-silj-silver-miners-and-senior-stability-or-junior-leverage-after-the-120-break-and-60-consolidation-test/",
-      "source": "24/7 Wall St.",
-      "date": "2026-07-11",
-      "image": "https://s.yimg.com/lo/mysterio/api/9292525541A3D1356A655A860C1DA0F9F1A1646EF08F1002D70C5E5FC103F9A9/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F982bd526832f657455d053f3aaa17723",
-      "category": "metals"
-    },
-    {
-      "title": "Robert Kiyosaki warns the 'biggest crash' in US history is nigh \u2014 millions of may lose it all. Protect your riches now",
-      "description": "Kiyosaki identified several areas of concern.",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/robert-kiyosaki-warns-biggest-crash-125500463.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-07-11",
-      "image": "https://s.yimg.com/lo/mysterio/api/F1B40DEB295DA78C4349DD42EFE28AE5F8A4ECF5E0461C3BF428743DC7668FB4/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2F859633e458fec8a9f1487df8c72bbaf6",
-      "category": "geopolitics"
     }
   ],
   "history": [
@@ -459,7 +459,7 @@
       "platinum_usd_oz": 1614.14
     }
   ],
-  "timestamp": "2026-07-13T17:49:48.176369+05:30",
+  "timestamp": "2026-07-13T20:53:51.435106+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
