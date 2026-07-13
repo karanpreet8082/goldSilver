@@ -54,7 +54,7 @@
         "hold": 29
       },
       "summary": "Gold is showing negative signals. Positive daily movement of 0.8%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-13T06:36:05.499077",
+      "timestamp": "2026-07-13T09:52:15.395033",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 50
       },
       "summary": "Silver is showing negative signals. Strong daily gain of 1.4%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-13T06:36:05.687356",
+      "timestamp": "2026-07-13T09:52:15.493222",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 50
       },
       "summary": "Platinum is showing negative signals. Strong daily gain of 1.9%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-13T06:36:05.844186",
+      "timestamp": "2026-07-13T09:52:15.580297",
       "source": "rule-based"
     }
   },
@@ -137,31 +137,76 @@
   },
   "news": [
     {
-      "title": "Global market: Chinese stocks sink to one-month lows as Middle East tensions trigger a broad selloff",
-      "description": "Chinese stocks experienced a significant downturn on Monday, reaching monthly lows. Escalating Middle East geopolitical tensions dampened investor sentiment and triggered widespread profit-taking. High-growth sectors like defence and technology saw sharp declines, while defensive stocks gained.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinese-stocks-sink-to-one-month-lows-as-middle-east-tensions-trigger-a-broad-selloff/articleshow/132358395.cms",
+      "title": "Swiggy shares slide over 2% after FSSAI issues 9 notices over consumer complaints",
+      "description": "Swiggy shares fell over 2% on Monday, extending losses for a second session after the Food Safety and Standards Authority of India (FSSAI) issued nine notices to Swiggy Instamart over consumer complaints alleging food safety violations. The regulator has sought a detailed explanation, compliance rep",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-shares-slide-over-2-after-fssai-issues-9-notices-over-consumer-complaints/articleshow/132360998.cms",
       "source": "Economic Times Markets",
       "date": "2026-07-13",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "Stocks, gold and debt: Why ICICI Pru\u2019s Dharmesh Kakkad favours a multi-asset strategy now",
-      "description": "ICICI Prudential's Dharmesh Kakkad advises investors against chasing the best-performing asset classes, arguing that a dynamic multi-asset allocation strategy offers better risk-adjusted returns in a volatile market. He believes diversified exposure across equities, debt and commodities can help inv",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/stocks-gold-and-debt-why-icici-prus-dharmesh-kakkad-favours-a-multi-asset-strategy-now/articleshow/132358178.cms",
+      "title": "Radhika Gupta on Where to Invest Now | Stocks, Gold, International Funds &amp; More",
+      "description": "",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/radhika-gupta-on-where-to-invest-now-stocks-gold-international-funds-more/videoshow/132360809.cms",
       "source": "Economic Times Markets",
       "date": "2026-07-13",
       "image": "",
       "category": "metals"
     },
     {
-      "title": "Top developments that could move global markets this week",
-      "description": "Global markets face a pivotal week with TSMC and major U.S. bank earnings, U.S. inflation data, China's GDP numbers, and Middle East tensions shaping investor sentiment, oil prices and rate expectations.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/top-developments-that-could-move-global-markets-this-week/slideshow/132358147.cms",
+      "title": "TCS shares rally 8% in 2 days. Time to buy after sharp 32% crash in 2026? Here\u2019s what technical charts indicate",
+      "description": "TCS shares have surged 8% over the past two sessions after the IT major reported strong Q1 earnings and announced a multi-million-dollar AI-led network transformation deal with ABB. While technical indicators point to improving momentum, analysts remain divided on whether the recent rally marks the ",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-shares-rally-8-in-2-days-time-to-buy-after-sharp-32-crash-in-2026-heres-what-technical-charts-indicate/articleshow/132360768.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-07-13",
+      "image": "",
+      "category": "currency"
+    },
+    {
+      "title": "US Stock Market: Fed Chair Kevin Warsh unveils expert panels to overhaul US Central Bank policy framework",
+      "description": "Federal Reserve Chairman Kevin Warsh announced a comprehensive review of monetary policy. Five taskforces comprising prominent economists will lead this extensive review. These panels include experts from academia, business, and technology sectors. The review will examine monetary policy, communicat",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-fed-chair-kevin-warsh-unveils-expert-panels-to-overhaul-us-central-bank-policy-framework/articleshow/132360626.cms",
       "source": "Economic Times Markets",
       "date": "2026-07-13",
       "image": "",
       "category": "geopolitics"
+    },
+    {
+      "title": "Mamdani's biggest promises are now this millennial's day job",
+      "description": "Sam Levine runs the NYC Department of Consumer and Worker Protection. He told BI about his consumer gripes and Taco Bell celebration with Mamdani.",
+      "url": "https://www.businessinsider.com/mamdani-work-consumer-czar-ripoffs-business-practices-sam-levine-2026-6#article",
+      "source": "Business Insider",
+      "date": "2026-07-12",
+      "image": "https://i.insider.com/6a3ed9daa25092c74cca013b?width=1200&format=jpeg",
+      "category": "market"
+    },
+    {
+      "title": "Gold, silver may stay under pressure as US-Iran tensions, inflation data hold key: Analysts",
+      "description": "Analysts said any further escalation in the conflict could drive crude oil prices higher, revive inflation concerns and strengthen safe-haven assets such as the US dollar and Treasury yields, limiting the upside for precious metals",
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-silver-may-stay-under-pressure-as-us-iran-tensions-inflation-data-hold-key-analysts/article71213496.ece",
+      "source": "BusinessLine",
+      "date": "2026-07-12",
+      "image": "https://bl-i.thgim.com/public/incoming/c21q5v/article71213518.ece/alternates/LANDSCAPE_1200/iStock-506120376.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Is Equinox Gold (EQX) One of the Stocks Set to Explode in the Next 2 Years?",
+      "description": "Equinox Gold Corp. (NYSEAMERICAN:EQX) is one of the stocks set to explode in the next 2 years. On July 9, Equinox Gold reported a quarterly gold production o...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/equinox-gold-eqx-one-stocks-075901113.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-07-12",
+      "image": "https://s.yimg.com/lo/mysterio/api/05D01E430EDB34D6C08EF208EB46758ED8FCA473068A64156109E7F27B6729F6/subgraphmysterio/resizefill_w1200_h797;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fe10cef5887bc770af53198fee13b1245",
+      "category": "supply_demand"
+    },
+    {
+      "title": "How much does alpaca poop cost?",
+      "description": "How Much Does Alpaca Poop Cost? Untangling the Brown Gold Market The cost of alpaca poop, often referred to as \u201calpaca gold,\u201d varies greatly but generally ranges from $5 to $20 per cubic foot, depending on quality, processing, and location. Understanding this\u2026",
+      "url": "https://www.lifesciencesworld.com/how-much-does-alpaca-poop-cost/",
+      "source": "Lifesciencesworld.com",
+      "date": "2026-07-12",
+      "image": null,
+      "category": "metals"
     },
     {
       "title": "SIF AUM jumps 29% to \u20b917,858 crore in June; hybrid strategies hold 72% share",
@@ -200,15 +245,6 @@
       "category": "market"
     },
     {
-      "title": "Morning Brief Podcast: ET Deep Dive: Melting The Vault",
-      "description": "Gold has always been India\u2019s emotional anchor \u2014 heirlooms passed down for weddings, festivals, and hard times. But soaring prices are rewriting that relationship. This episode looks at why Gen Z and millennials are increasingly selling or exchanging inherited\u2026",
-      "url": "https://economictimes.indiatimes.com/news/morning-brief-podcast/et-deep-dive-melting-the-vault/podcast/132339723.cms",
-      "source": "The Times of India",
-      "date": "2026-07-12",
-      "image": "https://img.etimg.com/photo/132339723.cms",
-      "category": "metals"
-    },
-    {
       "title": "Will a magnet pick up silver?",
       "description": "Will a Magnet Pick Up Silver? The Truth Revealed No, a pure silver object will not be picked up by a standard magnet. Silver is a diamagnetic material, meaning it is actually repelled by a magnetic field, although the effect is very, very weak. Understanding \u2026",
       "url": "https://www.lifesciencesworld.com/will-a-magnet-pick-up-silver/",
@@ -218,148 +254,121 @@
       "category": "metals"
     },
     {
-      "title": "Qatar joins Iran-Oman talks in Muscat amid Strait of Hormuz crisis",
-      "description": "Qatar's mediation role may foster regional cooperation, influencing US-Iran relations and potentially easing global energy supply tensions.\nThe post Qatar joins Iran-Oman talks in Muscat amid Strait of Hormuz crisis appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/qatar-joins-iran-oman-talks-in-muscat-amid-strait-of-hormuz-crisis/",
-      "source": "Crypto Briefing",
-      "date": "2026-07-12",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/12023400/satellite-view-showing-the-strait-of-hormuz-connecting-the-p-7-1-800x420.jpeg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Iran warns US amid escalating 2026 conflict over Strait of Hormuz",
-      "description": "The escalating conflict risks destabilizing global energy markets and complicating diplomatic efforts, impacting international relations.\nThe post Iran warns US amid escalating 2026 conflict over Strait of Hormuz appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/iran-warns-us-amid-escalating-2026-conflict-over-strait-of-hormuz/",
-      "source": "Crypto Briefing",
-      "date": "2026-07-12",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/12022910/satellite-view-showing-the-strait-of-hormuz-connecting-the-p-6-1-800x420.jpeg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Dana White says he knows Fury vs. Joshua location, dodges repeated questions at UFC 329 press conference",
-      "description": "Dana White insisted he already knows where the long-awaited heavyweight showdown between Tyson Fury and ... continue\nDana White says he knows Fury vs. Joshua location, dodges repeated questions at UFC 329 press conference @ Boxing News 24",
-      "url": "https://www.boxingnews24.com/2026/07/dana-white-says-he-knows-fury-vs-joshua-location-dodges-repeated-questions-at-ufc-329-press-conference/",
-      "source": "Boxingnews24.com",
-      "date": "2026-07-12",
-      "image": "https://www.boxingnews24.com/wp-content/uploads/2026/07/Dana-White100.jpg",
-      "category": "market"
-    },
-    {
-      "title": "'Agreed upon new deal that builds on FTA': New Zealand PM hails PM Modi's visit",
-      "description": "India and New Zealand elevated their bilateral ties to a strategic partnership. Both nations aim to double bilateral trade between them by the year 2030. Prime Minister Christopher Luxon stated this will boost jobs and wages in New Zealand. Extensive discussi\u2026",
-      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/new-zealand-and-india-forge-strategic-partnership-to-double-trade-by-2030-during-pm-modis-historic-visit/articleshow/132341430.cms",
-      "source": "The Times of India",
-      "date": "2026-07-12",
-      "image": "https://img.etimg.com/thumb/msid-132341521,width-1200,height-630,imgsize-81988,overlay-economictimes/articleshow.jpg",
-      "category": "market"
-    },
-    {
-      "title": "The pale, eyeless olm salamander of Slovenian caves can go up to a decade without eating and lives more than 100 years, spending nearly its entire existence motionless in cold darkness it has never once seen.",
-      "description": "In the flooded caves of Slovenia, the blind, pale olm salamander can fast for ten years, sits motionless for years at a time, and lives past 100 in complete darkness.\nThe post The pale, eyeless olm salamander of Slovenian caves can go up to a decade without e\u2026",
-      "url": "https://spacedaily.com/j-the-pale-eyeless-olm-salamander-of-slovenian-caves-can-go-up-to-a-decade-without-eating-and-lives-more-than-100-years-spending-nearly-its-entire-existence-motionless-in-cold-darkness-it-has-never-on/",
-      "source": "Space Daily",
-      "date": "2026-07-12",
-      "image": "https://spacedaily.com/wp-content/uploads/2026/07/j-the-pale-eyeless-olm-salamander-of-slovenian-caves-can-go-.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Tinubu reiterates support for horse racing revival",
-      "description": "Tinubu spoke through Kaduna State Governor, Uba Sani, at Saturday\u2019s Renewed Hope West African Horse Racing Derby grand finale at Murtala Square, Kaduna.\nThe post Tinubu reiterates support for horse racing revival appeared first on Vanguard News.",
-      "url": "https://www.vanguardngr.com/2026/07/tinubu-reiterates-support-for-horse-racing-revival/",
+      "title": "Nigeria mourns Qatar\u2019s Father Amir, Sheikh Hamad bin Khalifa Al Thani",
+      "description": "By Favour Ulebor, Abuja The Federal Government has expressed condolences to the Government and people of Qatar over the death of the country\u2019s Father Amir, Sheikh Hamad bin Khalifa Al Thani. In a statement issued on Sunday by the spokesperson of the Ministry \u2026",
+      "url": "https://www.vanguardngr.com/2026/07/nigeria-mourns-qatars-father-amir-sheikh-hamad-bin-khalifa-al-thani/",
       "source": "Vanguard",
       "date": "2026-07-12",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/05/tinububah-e1779777661573.jpg",
-      "category": "market"
-    },
-    {
-      "title": "'I'm dying laughing' - what leaked messages tell us about global hacking gang",
-      "description": "A BBC podcast investigates as the tables are turned on a ransomware gang whose messages are leaked.",
-      "url": "https://www.bbc.com/news/articles/cz9lz8zp04po?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "source": "BBC News",
-      "date": "2026-07-12",
-      "image": "https://s.yimg.com/lo/mysterio/api/8afcbd34f921c594fbed7743d97e0ffe71ee5143f5b7ef69a48238916d3e7627/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fedd5ac5b904d3479bc334ab870da5aaf",
-      "category": "geopolitics"
-    },
-    {
-      "title": "NATO\u2019s Ankara Summit Exposes the Fractures in the Alliance",
-      "description": "T\u00fcrkiye hosted the NATO Summit on July 7\u20138, at one of the most consequential moments in NATO\u2019s modern history, with member states facing mounting pressure to increase defense spending, strengthen military capabilities, and redefine the Alliance\u2019s strategic pr\u2026",
-      "url": "https://www.globalresearch.ca/nato-ankara-summit-exposes-fractures-alliance/5933057",
-      "source": "Globalresearch.ca",
-      "date": "2026-07-12",
-      "image": "https://www.globalresearch.ca/wp-content/uploads/2026/07/nato-summit-2026.jpeg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "2026 SkS Weekly Climate Change & Global Warming News Roundup #28",
-      "description": "A listing of 28 news and opinion articles we found interesting and shared on social media during the past week: Sun, July 5, 2026 thru Sat, July 11, 2026.\nStories we promoted this week, by category:\nClimate Change Impacts (11 articles)\n<ul>\n<li>Ocean surface \u2026",
-      "url": "https://skepticalscience.com/2026-SkS-Weekly-News-Roundup_28.html",
-      "source": "Skepticalscience.com",
-      "date": "2026-07-12",
-      "image": "https://skepticalscience.com/public/assets/images/og/button_sks_200.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Abuja\u2019s housing crisis: why affordable homes stay out of reach for low paid workers",
-      "description": "Nigeria\u2019s housing policies have failed to meet the needs of its federal capital residents.",
-      "url": "https://theconversation.com/abujas-housing-crisis-why-affordable-homes-stay-out-of-reach-for-low-paid-workers-260435",
-      "source": "The Conversation Africa",
-      "date": "2026-07-12",
-      "image": "https://images.theconversation.com/files/738610/original/file-20260528-85-9xqat2.jpg?ixlib=rb-4.1.0&rect=0%2C222%2C3555%2C1777&q=45&auto=format&w=1356&h=668&fit=crop",
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/07/qartar.png",
       "category": "central_bank"
     },
     {
-      "title": "Data Center Expansion Targets Native American Lands, Sparking Tribal Resistance",
-      "description": "Big technology companies are increasingly looking to build data centers on or near Native American tribal lands, with at least 37 proposed projects mapped in those areas, according to trackers cited by the advocacy group Honor the Earth. Some estimates place \u2026",
-      "url": "https://www.naturalnews.com/2026-07-12-data-center-expansion-targets-native-american-lands.html",
-      "source": "Naturalnews.com",
+      "title": "Dubai Offers Strong Lifestyle Value in Julius Baer\u2019s Global Wealth Report 2026",
+      "description": "Released amid a dynamic and complex global economic landscape, the Julius Baer Global Wealth and Lifestyle Report 2026 highlights the effects of geopolitical tensions, evolving trade routes, and volatile foreign exchange markets. Even with resilient financial\u2026",
+      "url": "https://www.dubaichronicle.com/2026/07/12/dubai-strong-value-julius-baers-global-wealth-report/",
+      "source": "Dubaichronicle.com",
       "date": "2026-07-12",
-      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/data-center-expansion-native-american-lands-tribal-resistance-2652-original.jpg",
+      "image": "https://www.dubaichronicle.com/wp-content/uploads/2025/11/Image-1-10-scaled.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "The bloodied face of school run mum severly injured in high speed smash with Rag n' Bone Man's wife - who's NEVER said sorry or shown remorse, say family",
+      "description": "Single parent Samantha Keen was ferrying her three children when their vehicle was struck at speed by a Range Rover which was attempting to illegally overtake a line of traffic.",
+      "url": "https://www.dailymail.com/news/article-15968991/The-bloodied-face-school-run-mum-severly-injured-high-speed-smash-Rag-n-Bone-Mans-wife-whos-NEVER-said-sorry-shown-remorse-say-family.html",
+      "source": "Dailymail.com",
+      "date": "2026-07-12",
+      "image": "https://i.dailymail.com/1s/2026/07/10/20/109941891-0-image-m-18_1783711687097.jpg",
       "category": "market"
     },
     {
-      "title": "Germany to Impose Energy Levies to Fund Emergency Gas Reserve",
-      "description": "The German government confirmed plans to build a strategic gas reserve equivalent to 10% of the country\u2019s storage capacity, according to the Federal\u00a0Ministry of Economic Affairs. The reserve will be filled over 2027 and 2028, with establishment costs of \u20ac1.5 \u2026",
-      "url": "https://www.naturalnews.com/2026-07-12-germany-energy-levies-fund-emergency-gas-reserve.html",
-      "source": "Naturalnews.com",
+      "title": "India's households miss global shift to financial assets: UBS",
+      "description": "Global personal wealth increased significantly in 2025 due to strong financial markets. India's household wealth, however, remains dominated by property and physical assets. Financial assets constitute only about twenty-six percent of gross wealth in India. T\u2026",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/indias-households-miss-global-shift-to-financial-assets-ubs/articleshow/132343590.cms",
+      "source": "The Times of India",
       "date": "2026-07-12",
-      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/germany-energy-levies-emergency-gas-reserve-natural-gas-storage-2665-original.jpg",
+      "image": "https://img.etimg.com/thumb/msid-132343601,width-1200,height-630,imgsize-401456,overlay-economictimes/articleshow.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies: Reactions",
+      "description": "After Sheikh Hamad's death, global leaders offer condolences, praise his legacy and Qatar\u2019s growth.",
+      "url": "https://www.aljazeera.com/news/2026/7/12/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-reactions",
+      "source": "Al Jazeera English",
+      "date": "2026-07-12",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/085-1783842177.jpg?resize=1920%2C1440",
+      "category": "market"
+    },
+    {
+      "title": "Geopolitical situation, earnings, crude prices key factors to drive markets: Analysts",
+      "description": "\u201cInvestors will closely monitor June CPI and WPI inflation, as well as the latest foreign exchange reserves,\u201d said Ajit Mishra, SVP of Research at Religare Broking",
+      "url": "https://www.thehindubusinessline.com/markets/geopolitical-situation-earnings-crude-prices-key-factors-to-drive-markets-analysts/article71213597.ece",
+      "source": "BusinessLine",
+      "date": "2026-07-12",
+      "image": "https://bl-i.thgim.com/public/incoming/tu455w/article71213609.ece/alternates/LANDSCAPE_1200/IMG_bl20_corporate_loan_2_1_GQF24N0V.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "GAC Group to Celebrate 30 Million Global Users on July 16",
+      "description": "GUANGZHOU, China, July 12, 2026 /PRNewswire/ -- From the roll-off of its first vehicle to the upcoming milestone of its 30 millionth finished automobile, every step forward taken by GAC stems from the choices and trust of users worldwide. On July 16, GAC Grou\u2026",
+      "url": "https://www.prnewswire.co.uk/news-releases/gac-group-to-celebrate-30-million-global-users-on-july-16-302823328.html",
+      "source": "PR Newswire UK",
+      "date": "2026-07-12",
+      "image": "https://mmx.prnewswire.com/media/MS1881389/20260712042950EDT_image_1.jpg?id=OA2759478&p=facebook",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Every England goal at 2026 World Cup scored by players outside the Premier League",
+      "description": "England's reliance on non-Premier League players highlights the global talent dispersion and may influence future transfer market dynamics.\nThe post Every England goal at 2026 World Cup scored by players outside the Premier League appeared first on Crypto Bri\u2026",
+      "url": "https://cryptobriefing.com/england-world-cup-goals-non-premier-league/",
+      "source": "Crypto Briefing",
+      "date": "2026-07-12",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/12053427/england-football-team-wallpaper-4-800x420.jpeg",
+      "category": "market"
+    },
+    {
+      "title": "Anthony Albanese's own goal as divisive tax reforms in the Budget see his personal wealth take a very big hit",
+      "description": "Anthony Albanese's Copacabana mansion has seen a major price dive, as the housing market continues to soften.",
+      "url": "https://www.dailymail.com/news/article-15971333/anthony-albanese-house-mansion-price-Copacabana.html",
+      "source": "Dailymail.com",
+      "date": "2026-07-12",
+      "image": "https://i.dailymail.com/1s/2026/07/12/06/109964955-0-image-m-44_1783833701866.jpg",
+      "category": "market"
+    },
+    {
+      "title": "US government moves to restrict Chinese open-weight AI models after repeated distillation warnings",
+      "description": "US restrictions on Chinese AI models may inadvertently boost decentralized AI and crypto markets, challenging regulatory control efforts.\nThe post US government moves to restrict Chinese open-weight AI models after repeated distillation warnings appeared firs\u2026",
+      "url": "https://cryptobriefing.com/us-bans-chinese-ai-models-decentralized-tokens/",
+      "source": "Crypto Briefing",
+      "date": "2026-07-12",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/12051655/topshot-china-technology-xpeng-ai-1-800x420.jpeg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Student-debt relief and higher borrowing limits are on the line in lawsuits fighting Trump's repayment changes",
+      "description": "Key parts of Trump's student-loan repayment overhaul are being targeted in ongoing lawsuits, including the elimination of SAVE and limits to PSLF.",
+      "url": "https://www.businessinsider.com/lawsuits-student-loan-debt-relief-borrowers-repayment-overhaul-save-pslf-2026-7#article",
+      "source": "Business Insider",
+      "date": "2026-07-12",
+      "image": "https://i.insider.com/6a4e63e4b3a8c16f7e8ec6cd?width=1200&format=jpeg",
+      "category": "market"
+    },
+    {
+      "title": "Supreme Court to hear plea seeking curbs on arbitrary airline fares on July 13",
+      "description": "The petition seeks regulatory guidelines to check unpredictable airfare hikes, hidden charges and ancillary fees imposed by private airlines",
+      "url": "https://thefederal.com/category/business/supreme-court-plea-on-private-airlines-fluctuating-fare-regulation-249871",
+      "source": "Thefederal.com",
+      "date": "2026-07-12",
+      "image": "https://thefederal.com/h-upload/2025/12/08/624443-indigo-passengers.jpg",
       "category": "central_bank"
     },
     {
-      "title": "The Sustainability of AI Investment amidst High Interest Rates",
-      "description": "One of the mysteries of recent macro history is why tightening monetary policy failed to significantly slow economic activity, particularly capital investment. For instance, even as the Fed funds rate rose, nonnresidential fixed investment rose throughout 202\u2026",
-      "url": "https://econbrowser.com/archives/2026/07/the-sustainability-of-ai-investment",
-      "source": "Econbrowser.com",
+      "title": "Iran conflict challenges safe-haven status of US Treasurys, yen, and gold",
+      "description": "The Iran conflict exposes vulnerabilities in traditional safe havens, prompting a reevaluation of their reliability amid geopolitical tensions.\nThe post Iran conflict challenges safe-haven status of US Treasurys, yen, and gold appeared first on Crypto Briefin\u2026",
+      "url": "https://cryptobriefing.com/iran-conflict-challenges-safe-haven-status-of-us-treasurys-yen-and-gold/",
+      "source": "Crypto Briefing",
       "date": "2026-07-12",
-      "image": null,
-      "category": "central_bank"
-    },
-    {
-      "title": "Investing in Kids and Country",
-      "description": "Photo Credit:\n \n Clarice FBy Clarice FeldmanYet another Trump innovation that will be paying off long after he leaves office.",
-      "url": "https://www.americanthinker.com/articles/2026/07/investing-in-kids-and-country/",
-      "source": "Americanthinker.com",
-      "date": "2026-07-12",
-      "image": "https://images.americanthinker.com/65/65iw6uyrf4bso7q2hlmk_1200.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Puerto Rico\u2019s Independence Getting Talked About In D.C.",
-      "description": "Photo Credit:\n \n American ThinkerBy Javier A. Hern\u00e1ndezAdvocates are trying to make it a policy issue within official D.C. circles.",
-      "url": "https://www.americanthinker.com/articles/2026/07/puerto-rico-s-independence-getting-talked-about-in-d-c/",
-      "source": "Americanthinker.com",
-      "date": "2026-07-12",
-      "image": "https://images.americanthinker.com/va/vaa1pq02kd2og6fnjzbt_1200.jpg",
-      "category": "market"
-    },
-    {
-      "title": "JD Vance Takes on Milton Friedman (And Disappoints)",
-      "description": "JD Vance has served admirably as Donald Trump's vice president and has been a true asset to the administration. Right now, he's favored to be the next Republican nominee for president when 2028 rolls around. But there are many other viable contenders. That's \u2026",
-      "url": "https://freerepublic.com/focus/f-news/4387651/posts",
-      "source": "Freerepublic.com",
-      "date": "2026-07-12",
-      "image": null,
-      "category": "market"
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/12050224/iran-war-gold-s-safe-haven-status-is-failing-its-biggest-tes-1-800x420.jpeg",
+      "category": "geopolitics"
     },
     {
       "title": "Commodity Support and Resistance Levels for Precious Metals, Energy, and Agricultural Futures on July 13, 2026 - KuCoin",
@@ -371,33 +380,6 @@
       "category": "metals"
     },
     {
-      "title": "First Majestic Silver (AG) Agrees to Sell San Martin Mine for $90 Million",
-      "description": "First Majestic Silver Corp. (NYSE:AG) is one of the best stocks to invest in under $100. On July 7, First Majestic Silver announced a definitive agreement to...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/first-majestic-silver-ag-agrees-160053660.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-07-11",
-      "image": "https://s.yimg.com/lo/mysterio/api/B6BEE43C56F81E6DBB0EFAFCEEB5187A008654AC2ACA636522C772C4883C828E/subgraphmysterio/resizefill_w1200_h798;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fe2fa24f64fde246c3f151f86b6c0bace",
-      "category": "metals"
-    },
-    {
-      "title": "EPFO contributions evolve: Is it still lucrative investment as EPF rules, Labour Codes change? Experts explain the math",
-      "description": "With the new EPF rules and Labour Codes redefining contributions by employees and employers towards provident fund, we asked experts to explain how this impacts your monthly investment in the financial instrument. Here's what they said\u2026",
-      "url": "https://www.livemint.com/money/personal-finance/epfo-contributions-evolve-is-it-still-lucrative-investment-as-epf-rules-labour-codes-change-experts-explain-the-math-11783779707951.html",
-      "source": "Livemint",
-      "date": "2026-07-11",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/11/1600x900/logo/EPFO_contribution_experts_explain_math_investment_1783782714753_1783782714927_b9304523-6d3b-495c-8349-7fec992bedee.png",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Hong Kong builds a gold and yuan network that sidesteps dollar stablecoins",
-      "description": "Stablecoins won over users by making money easier to move, long before the financial world agreed on what they meant. That helps explain the scale of USDT\u00a0and\u00a0USDC: they never had to replace the global reserve system to become powerful. They simply made dolla\u2026",
-      "url": "https://cryptoslate.com/hong-kong-builds-a-gold-and-yuan-network-that-sidesteps-dollar-stablecoins/",
-      "source": "CryptoSlate",
-      "date": "2026-07-11",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/07/hong-kong-golden-yuan-financial-route-1.jpg",
-      "category": "currency"
-    },
-    {
       "title": "Gold and silver futures might decline",
       "description": "Gold and silver futures show a declining trend, with key resistance levels signaling potential further drops in prices.",
       "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/bullion-cues-gold-and-silver-futures-might-decline/article71209791.ece",
@@ -405,6 +387,24 @@
       "date": "2026-07-11",
       "image": "https://bl-i.thgim.com/public/incoming/8z0cfg/article71206914.ece/alternates/LANDSCAPE_1200/PO03_Gold_silver_bars.jpg",
       "category": "metals"
+    },
+    {
+      "title": "SIL vs. SILJ: Silver Miners and Senior Stability or Junior Leverage After the $120 Break and $60 Consolidation Test?",
+      "description": "Silver's violent swing from $120 to the $60 consolidation zone split silver equity investors into two camps with very different survival odds. The fund you c...",
+      "url": "https://247wallst.com/investing/etf/2026/07/11/sil-vs-silj-silver-miners-and-senior-stability-or-junior-leverage-after-the-120-break-and-60-consolidation-test/",
+      "source": "24/7 Wall St.",
+      "date": "2026-07-11",
+      "image": "https://s.yimg.com/lo/mysterio/api/9292525541A3D1356A655A860C1DA0F9F1A1646EF08F1002D70C5E5FC103F9A9/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F982bd526832f657455d053f3aaa17723",
+      "category": "metals"
+    },
+    {
+      "title": "Robert Kiyosaki warns the 'biggest crash' in US history is nigh \u2014 millions of may lose it all. Protect your riches now",
+      "description": "Kiyosaki identified several areas of concern.",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/robert-kiyosaki-warns-biggest-crash-125500463.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-07-11",
+      "image": "https://s.yimg.com/lo/mysterio/api/F1B40DEB295DA78C4349DD42EFE28AE5F8A4ECF5E0461C3BF428743DC7668FB4/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2F859633e458fec8a9f1487df8c72bbaf6",
+      "category": "geopolitics"
     }
   ],
   "history": [
@@ -459,7 +459,7 @@
       "platinum_usd_oz": 1614.14
     }
   ],
-  "timestamp": "2026-07-13T12:06:05.854894+05:30",
+  "timestamp": "2026-07-13T15:22:15.593015+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
