@@ -1,22 +1,85 @@
 {
   "news": [
     {
-      "title": "US Stock Market: Dollar rally gains support as global pension funds unwind FX hedges, easing pressure on greenback",
-      "description": "Major pension funds are reducing currency hedges, which supports the U.S. dollar's rally. This shift occurs as hedging costs rise due to widening U.S. interest rate differentials. The dollar has also regained its safe-haven status after recent global events. Higher U.S. rates and strong equity retur",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-dollar-rally-gains-support-as-global-pension-funds-unwind-fx-hedges-easing-pressure-on-greenback/articleshow/132381741.cms",
+      "title": "German yields hit 2-year high as Middle East conflict stokes inflation fears",
+      "description": "German two-year bond yields reached their highest point since July 2024.  This rise occurred as Middle East conflict fears boosted inflation and interest rate expectations.  Money markets now anticipate the European Central Bank raising its deposit rate significantly.  Oil prices also climbed due to",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/german-yields-hit-2-year-high-as-middle-east-conflict-stokes-inflation-fears/articleshow/132385088.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-07-14",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Global Market: EU opens talks on digital euro rules, eyes 2029 launch",
+      "description": "The European Union has begun negotiations on legislation to create the legal framework for a digital euro, aiming to finalize the rules by the end of 2026. If approved, the ECB could launch a pilot with around 40 banks and payment firms in 2027, followed by a full rollout in 2029. The digital euro w",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-eu-opens-talks-on-digital-euro-rules-eyes-2029-launch/articleshow/132384041.cms",
       "source": "Economic Times Markets",
       "date": "2026-07-14",
       "image": "",
       "category": "central_bank"
     },
     {
-      "title": "Global Market: South Korea targets AI-led growth, raises 2026 GDP forecast to five-year high; chip stocks in focus",
-      "description": "South Korea has raised its 2026 GDP growth forecast to 3%, the fastest pace in five years, backed by an AI and semiconductor-led investment push. The government's plans to boost chip manufacturing, AI infrastructure and exports are expected to support technology stocks despite inflation and bond yie",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-korea-targets-ai-led-growth-raises-2026-gdp-forecast-to-five-year-high-chip-stocks-in-focus/articleshow/132381407.cms",
-      "source": "Economic Times Markets",
+      "title": "GCC: Building resilience to de-risk geopolitics - Economy Middle East",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNaVZrTTZVTTl6bkh3ZE5Fc19NOG55cFlleFVpbnpRMnRlNnhQemhpZVQtYi12eGZzUk5tclZfdm84R0dvUUdzQ3VZaHROQkJXc3B6aUhCcTBBRDh2UFRtdWFOZVlxNHUzaXhoOUdHeFdhbHNUYmM0Tzc4bmQyaUhIMXloeldoNko5dmc?oc=5\" target=\"_blank\">GCC: Building resilience to de-risk geop",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaVZrTTZVTTl6bkh3ZE5Fc19NOG55cFlleFVpbnpRMnRlNnhQemhpZVQtYi12eGZzUk5tclZfdm84R0dvUUdzQ3VZaHROQkJXc3B6aUhCcTBBRDh2UFRtdWFOZVlxNHUzaXhoOUdHeFdhbHNUYmM0Tzc4bmQyaUhIMXloeldoNko5dmc?oc=5",
+      "source": "Google News - Global Economy",
       "date": "2026-07-14",
       "image": "",
-      "category": "inflation"
+      "category": "geopolitics"
+    },
+    {
+      "title": "T\u00fcrkiye posts current account deficit of $1.46 billion in May",
+      "description": "T\u00fcrkiye\u2019s current account posted a deficit of $1.46 billion in May, exceeding market expectations, according to data released on July 13 by the country\u2019s central bank.",
+      "url": "https://www.hurriyetdailynews.com/turkiye-posts-current-account-deficit-of-1-46-billion-in-may-224305",
+      "source": "Hurriyet Daily News",
+      "date": "2026-07-13",
+      "image": "https://image.hurimg.com/i/hurriyet/75/200x200/6a54a08cd76e93b6a8aa1076.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "When a billionaire's driver earned 1.6 times higher returns than his wealthy boss. Mutual fund CEO shares a real life lesson",
+      "description": "Kalpen Parekh of DSP Mutual Fund highlighted how systematic investment plans build wealth for retail investors, citing the return of a billionaire vs his driver.  Dhirendra Kumar of Value Research advises against market timing, saying it is difficult to achie\u2026",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/when-a-billionaires-driver-earned-1-6-times-higher-returns-than-his-wealthy-boss-mutual-fund-ceo-shares-a-real-life-lesson/articleshow/132358355.cms",
+      "source": "The Times of India",
+      "date": "2026-07-13",
+      "image": "https://img.etimg.com/thumb/msid-132359817,width-1200,height-630,imgsize-80308,overlay-etpanache/articleshow.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Show HN: TradingSpy-Loop based research and backtesting trading Agent",
+      "description": "Hi all, I build this agent for beginners to use it locally in this laptop\n\nComments URL: https://news.ycombinator.com/item?id=48889045\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/mrhustlex/TradingSpy-TradingAgentService/tree/main",
+      "source": "Github.com",
+      "date": "2026-07-13",
+      "image": "https://opengraph.githubassets.com/70fd591ad4be0a280d39864ba615f0b7361044de08e0175b27aecc642089c34d/mrhustlex/TradingSpy-TradingAgentService",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Stocks, gold and debt: Why ICICI Pru\u2019s Dharmesh Kakkad favours a multi-asset strategy now",
+      "description": "ICICI Prudential's Dharmesh Kakkad advises investors against chasing the best-performing asset classes, arguing that a dynamic multi-asset allocation strategy offers better risk-adjusted returns in a volatile market. He believes diversified exposure across eq\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/stocks-gold-and-debt-why-icici-prus-dharmesh-kakkad-favours-a-multi-asset-strategy-now/articleshow/132358178.cms",
+      "source": "The Times of India",
+      "date": "2026-07-13",
+      "image": "https://img.etimg.com/thumb/msid-132358205,width-1200,height-630,imgsize-35542,overlay-etmarkets/articleshow.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "Breathe easy: How modern air purifiers are redefining fresh indoor living",
+      "description": "The best air purifiers use HEPA filters, which can clean the air in rooms up to 1,500 square feet. They capture some harmful particles, such as dust and pollen, without creating dangerous byproducts. Additionally, a single filter can last three to five years.\u2026",
+      "url": "https://www.naturalnews.com/2026-07-13-modern-air-purifiers-redefining-fresh-indoor-living.html",
+      "source": "Naturalnews.com",
+      "date": "2026-07-13",
+      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/Beautiful-Contemporary-Living-Room-Home-Interior.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Why akara and kulikuli trap always succeed",
+      "description": "By Dele Sobowale It is another election\u00a0year; and suddenly, \u201cfree\u201d money is being given at every convenient gathering. Givers, usually politically exposed individuals, call it empowerment; their paid megaphones in the media hail the altruism and, naturally ex\u2026",
+      "url": "https://www.vanguardngr.com/2026/07/why-akara-and-kulikuli-trap-always-succeed/",
+      "source": "Vanguard",
+      "date": "2026-07-13",
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2024/06/akara.jpg",
+      "category": "market"
     },
     {
       "title": "Kaiser Reef lifts gold production 8% from Tassie and Vic mines",
@@ -37,13 +100,13 @@
       "category": "metals"
     },
     {
-      "title": "Q1 surprise sends jewellery stocks shining 40% in a month. Will the surge last in next quarters?",
-      "description": "Indian jewellery stocks saw a 40% surge after strong June quarter business updates. Resilient demand and a shift to organized players supported this sector's impressive rally. Titan Company reported significant growth in its consumer businesses during the Jun\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/q1-surprise-sends-jewellery-stocks-shining-40-in-a-month-will-the-surge-last-in-next-quarters/articleshow/132356680.cms",
+      "title": "Scientists discover largest 'invisible gold' reserve beneath Japan's seabed, but this one major problem may never let the underwater treasure be mined",
+      "description": "Scientists have identified a vast reserve of hidden gold deep beneath the Pacific Ocean. This \"invisible gold\" is locked inside pyrite and requires advanced techniques to detect. The discovery occurred in an active underwater volcanic region off the coast of \u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/scientists-discover-largest-invisible-gold-reserve-beneath-japans-seabed-but-this-one-major-problem-may-never-let-the-underwater-treasure-be-mined/articleshow/132359161.cms",
       "source": "The Times of India",
       "date": "2026-07-13",
-      "image": "https://img.etimg.com/thumb/msid-132356663,width-1200,height-630,imgsize-2132538,overlay-etmarkets/articleshow.jpg",
-      "category": "supply_demand"
+      "image": "https://img.etimg.com/thumb/msid-132359292,width-1200,height-630,imgsize-1469750,overlay-economictimes/articleshow.jpg",
+      "category": "metals"
     },
     {
       "title": "Gold prices fall by Rs 2,000/10 grams, silver dips by Rs 5,400/kg as rising oil prices spur rate hike bets. Should you sell?",
@@ -53,42 +116,6 @@
       "date": "2026-07-13",
       "image": "https://img.etimg.com/thumb/msid-132356039,width-1200,height-630,imgsize-88148,overlay-etmarkets/articleshow.jpg",
       "category": "central_bank"
-    },
-    {
-      "title": "Sensex, Nifty slide at open as Iran strikes rattle sentiment; IT stocks buck trend",
-      "description": "Global markets react to US-Iran tensions, with Sensex and Nifty down while IT stocks show resilience in early trading.",
-      "url": "https://www.thehindubusinessline.com/markets/stock-markets/sensex-nifty-slide-at-open-as-iran-strikes-rattle-sentiment-it-stocks-buck-trend/article71215901.ece",
-      "source": "BusinessLine",
-      "date": "2026-07-13",
-      "image": "https://bl-i.thgim.com/public/incoming/3neh6n/article71215917.ece/alternates/LANDSCAPE_1200/Stockmarket.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "The real reason India's middle class can't get ahead financially and it's not their salary",
-      "description": "Salaries are growing. Promotions are happening. Yet more and more Indian households feel like they're falling behind financially. The reason isn't how much people earn, it's how poorly that income gets managed once it lands in the bank account. Every month be\u2026",
-      "url": "https://m.economictimes.com/wealth/earn/the-real-reason-indias-middle-class-cant-get-ahead-financially-and-its-not-their-salary/why-indias-middle-class-is-cracking-under-money-stress-even-with-rising-salaries/slideshow/132346538.cms",
-      "source": "Economictimes.com",
-      "date": "2026-07-13",
-      "image": "https://img.etimg.com/thumb/msid-132346538,width-1200,height-900,overlay-etwealth/slideshow.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Gold Rate Today, July 13, 2026: Check 22K and 24K Gold Prices in Delhi, Mumbai, Chennai and Other Cities",
-      "description": "Gold prices in India remained steady on Monday, July 13, 2026, as investors continued to monitor global economic developments, inflation trends, and expectations surrounding future interest rate decisions by major central banks. Scroll down to check the gold \u2026",
-      "url": "https://www.latestly.com/business/gold-rate-today-july-13-2026-check-22k-and-24k-gold-prices-in-delhi-mumbai-chennai-and-other-cities-7514194.html",
-      "source": "LatestLY",
-      "date": "2026-07-13",
-      "image": "https://st1.latestly.com/wp-content/uploads/2025/10/1-539215670-784x441.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "Economic Digest: A Snapshot of Nepal\u2019s Business News",
-      "description": "KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. Nepal\u2019s latest economic and development landscape reflects a blend of encouraging progress and persiste\u2026",
-      "url": "https://english.khabarhub.com/2026/13/558282/",
-      "source": "Khabarhub.com",
-      "date": "2026-07-13",
-      "image": "https://english.khabarhub.com/wp-content/uploads/2024/05/Economic-Digest.jpg",
-      "category": "market"
     },
     {
       "title": "Kuniko fires up drill bit to chase bonanza NSW gold hit",
@@ -118,68 +145,41 @@
       "category": "metals"
     },
     {
-      "title": "French proverb of the day: \u2018To live happily, live hidden\u2019 - A timeless wisdom on embracing privacy to protect your peace",
-      "description": "True happiness thrives away from public attention and constant validation.  Today's French proverb of the day advises living hidden to protect inner peace and joy.  This philosophy counters social media's pressure for oversharing and external approval.  Apply\u2026",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/french-proverb-of-the-day-to-live-happily-live-hidden-a-timeless-wisdom-on-embracing-privacy-to-protect-your-peace/articleshow/132357892.cms",
-      "source": "The Times of India",
+      "title": "ECO Animal Health: FY Results Investor Presentation - 16 July 2026",
+      "description": "David Hallas (CEO) and Chris Wilks (CFO) of ECO Animal Health will conduct a live investor presentation with Q&A covering their Full Year Results.",
+      "url": "https://www.equitydevelopment.co.uk/news-and-events/eco-animal-health-fy-results-investor-presentation-16-july-2026",
+      "source": "Equitydevelopment.co.uk",
       "date": "2026-07-13",
-      "image": "https://img.etimg.com/thumb/msid-132357913,width-1200,height-630,imgsize-109574,overlay-etpanache/articleshow.jpg",
+      "image": "https://www.equitydevelopment.co.uk/hubfs/EAH%2016%20July%202026.png",
       "category": "market"
     },
     {
-      "title": "Europe heatwave kills more than 10000 people in a week, data shows",
-      "description": "A European heatwave in late June caused over ten thousand excess deaths.  Most of these fatalities occurred among individuals aged sixty-five and older.  Extreme heat is strongly linked to this unusual spike in mortality.  France and Belgium recorded very hig\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/europe-heatwave-kills-more-than-10000-people-in-a-week-data-shows/articleshow/132357093.cms",
+      "title": "USA, Iran Trade Fresh Strikes",
+      "description": "The U.S. and Iran exchanged fresh strikes overnight into Monday as they continued their tit-for-tat attacks.",
+      "url": "https://www.rigzone.com/news/wire/usa_iran_trade_fresh_strikes-13-jul-2026-184117-article/",
+      "source": "Rigzone",
+      "date": "2026-07-13",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "Global Market: European stocks edge lower as Middle East escalation dampens investor sentiment",
+      "description": "The pan-European STOXX 600 index slipped 0.3% to 639.29 in early trade, extending losses after posting its biggest weekly decline since late April in the previous session.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-stocks-edge-lower-as-middle-east-escalation-dampens-investor-sentiment/articleshow/132361444.cms",
       "source": "The Times of India",
       "date": "2026-07-13",
-      "image": "https://img.etimg.com/thumb/msid-132357888,width-1200,height-630,imgsize-434212,overlay-economictimes/articleshow.jpg",
+      "image": "https://img.etimg.com/thumb/msid-132361444,width-1200,height-630,imgsize-56836,overlay-etmarkets/articleshow.jpg",
       "category": "currency"
     },
     {
-      "title": "Elbit Systems to Report Second Quarter 2026 Financial Results on August 11, 2026",
-      "description": "The Company will host a Conference Call to discuss its financial results on August 11, 2026 at 9:00am ET HAIFA, Israel, July 13, 2026 /PRNewswire/ -- Elbit Systems Ltd. (NASDAQ: ESLT) (TASE: ESLT) (\"Elbit Systems\" or the \"Company\") announced today that it wil\u2026",
-      "url": "https://www.prnewswire.com/news-releases/elbit-systems-to-report-second-quarter-2026-financial-results-on-august-11-2026-302823566.html",
-      "source": "PRNewswire",
+      "title": "Cell Isolation Market/Cell Separation Market by Product, Cell Type, Source, Technique, Application, End User, Competition, Region - Global Forecast to 2031",
+      "description": "The cell isolation market is projected to grow from USD 4.39 billion in 2026 to USD 7.97 billion by 2031, with a CAGR of 12.7%. Key drivers include the expansion of cell and gene therapy, rising demand for immune cell isolation, and increased adoption of auto\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/07/13/3325976/28124/en/Cell-Isolation-Market-Cell-Separation-Market-by-Product-Cell-Type-Source-Technique-Application-End-User-Competition-Region-Global-Forecast-to-2031.html",
+      "source": "GlobeNewswire",
       "date": "2026-07-13",
-      "image": "https://mmx.prnewswire.com/media/MS1031713/Elbit-Systems-Logo.jpg?id=OA2759864&p=facebook",
-      "category": "market"
-    },
-    {
-      "title": "Comments - Rising from the Blind Spot: Oral Health on the Global Health Agenda",
-      "description": "Really enjoyed this, Bulela - the blind spot image is spot on - it is not empty, just not seen.\n\nOne thing I would somehow push back on though: I'm not sure we were \"preparing all along.\" Honestly, when the WHO resolution and the Global Strategy and Action Pl\u2026",
-      "url": "https://nomadicinsights.substack.com/p/rising-from-the-blind-spot-oral-health/comment/275000710",
-      "source": "Substack.com",
-      "date": "2026-07-13",
-      "image": "https://substackcdn.com/image/fetch/$s_!b3pQ!,w_40,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf3e21ad-5d94-4a0c-a069-bd7cef8c87a3_1945x1945.jpeg",
-      "category": "market"
-    },
-    {
-      "title": "Trump reinstates Iran port blockade and imposes 20% charge on cargo passing through Hormuz",
-      "description": "Trump says the US will become the \"guardian\" of the Strait of Hormuz and will charge ships for using it. Iran earlier warned the US not to \"interfere\" in the strait's \"management\".",
-      "url": "https://www.bbc.co.uk/news/live/cwy30p89rlgt",
-      "source": "BBC News",
-      "date": "2026-07-13",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4a24/live/013f1470-7ece-11f1-926f-c90d1bcfbc84.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Iran strikes US military assets in Middle East amid 2026 conflict escalation",
-      "description": "The escalation risks destabilizing regional security, impacting global markets, and challenging diplomatic efforts to maintain peace.\nThe post Iran strikes US military assets in Middle East amid 2026 conflict escalation appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/iran-strikes-us-military-assets-in-middle-east-amid-2026-conflict-escalation/",
-      "source": "Crypto Briefing",
-      "date": "2026-07-13",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/13013934/july-12-2026-us-launches-strikes-on-iran-for-a-second-night--1-800x420.jpeg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Top developments that could move global markets this week",
-      "description": "Global financial markets are set for a busy week as the second-quarter earnings season begins alongside key economic data releases from the U.S. and China. Investors will also closely monitor developments in the Middle East and their impact on oil prices and \u2026",
-      "url": "https://m.economictimes.com/markets/us-stocks/news/top-developments-that-could-move-global-markets-this-week/global-markets-brace-for-a-crucial-week/slideshow/132358147.cms",
-      "source": "Economictimes.com",
-      "date": "2026-07-13",
-      "image": "https://img.etimg.com/thumb/msid-132358147,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
-      "category": "market"
+      "image": "https://ml.globenewswire.com/Resource/Download/ee833a55-f210-4eb0-a5c6-dffaaf451b43",
+      "category": "currency"
     }
   ],
-  "timestamp": "2026-07-14T05:44:18.115608"
+  "timestamp": "2026-07-14T08:33:26.590574"
 }
