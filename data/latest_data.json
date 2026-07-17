@@ -54,7 +54,7 @@
         "hold": 29
       },
       "summary": "Gold is showing negative signals. Positive daily movement of 0.8%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-17T11:04:52.528168",
+      "timestamp": "2026-07-17T14:13:05.411139",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 50
       },
       "summary": "Silver is showing negative signals. Strong daily gain of 1.4%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-17T11:04:52.636898",
+      "timestamp": "2026-07-17T14:13:05.600523",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 50
       },
       "summary": "Platinum is showing negative signals. Strong daily gain of 1.9%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-17T11:04:52.730111",
+      "timestamp": "2026-07-17T14:13:05.723654",
       "source": "rule-based"
     }
   },
@@ -137,112 +137,139 @@
   },
   "news": [
     {
-      "title": "Rupee closes at 96.28 vs USD; logs sharpest weekly drop since May as oil price jump stings",
-      "description": "The Indian rupee faced its most significant weekly drop since May, driven by rising oil prices and strong demand for the dollar. Increasing tensions between the U.S. and Iran exacerbated concerns over energy supplies, further straining the rupee's position. However, interventions from state-run bank",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-closes-at-96-28-vs-usd-logs-sharpest-weekly-drop-since-may-as-oil-price-jump-stings/articleshow/132458678.cms",
+      "title": "India's gold jewellery demand revives as prices stabilise; festive orders pick up: WGC",
+      "description": "India's gold jewellery demand is showing signs of recovery as stable prices and retailer discounts draw consumers back to stores, the World Gold Council said. Festive season orders have begun picking up, while gold ETF inflows and digital gold purchases also rebounded despite weaker demand for bars ",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/indias-gold-jewellery-demand-revives-as-prices-stabilise-festive-orders-pick-up-wgc/articleshow/132462896.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-07-17",
+      "image": "",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Wall Street banks are having their best trading year since 2009. Does that mean a crash is coming?",
+      "description": "Wall Street banks are on track for record trading revenue, driven by AI investing, dealmaking and active markets rather than crisis conditions. While profits remain strong, analysts caution that crowded AI trades, rising volatility and inflation risks could challenge markets later in 2026.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-banks-are-having-their-best-trading-year-since-2009-does-that-mean-a-crash-is-coming/articleshow/132462445.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-07-17",
+      "image": "",
+      "category": "inflation"
+    },
+    {
+      "title": "Sebi warns listed firms, regulated entities against rising 'Boss Scam' cyber fraud",
+      "description": "Sebi has issued a warning to all regulated entities regarding a rising cyber fraud known as the 'Boss Scam'. In this scheme, fraudsters masquerade as senior executives to deceive finance teams into executing fund transfers. The scam employs various channels such as email, WhatsApp, and even sophisti",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-warns-listed-firms-regulated-entities-against-rising-boss-scam-cyber-fraud/articleshow/132461763.cms",
       "source": "Economic Times Markets",
       "date": "2026-07-17",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "Hang Seng crashes over 2% as tech selloff hits Asia markets. Why Hong Kong stocks are falling on Friday?",
-      "description": "Hong Kong's Hang Seng Index fell 2% by midday on Friday, weighed down by a global selloff in technology stocks as renewed inflation concerns dampened risk appetite. The Hang Seng Tech Index plunged 4%, with investors reducing exposure to technology and other growth stocks amid fears that higher infl",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hang-seng-crashes-over-2-as-tech-selloff-hits-asia-markets-why-hong-kong-stocks-are-falling-on-friday/articleshow/132458594.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-07-17",
-      "image": "",
+      "title": "Future Crypto Bull Market Leaders: Top Coins That Could Dominate the Next Cycle",
+      "description": "The top coins that dominate the next bull market will not necessarily be the same ones that delivered the best returns during the previous cycle....\nThe post Future Crypto Bull Market Leaders: Top Coins That Could Dominate the Next Cycle appeared first on Bit\u2026",
+      "url": "https://bitcoinfoundation.org/news/altcoins/future-crypto-bull-market-leaders-top-coins-that-could-dominate-the-next-cycle/",
+      "source": "Bitcoinfoundation.org",
+      "date": "2026-07-16",
+      "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/fut-1.webp",
+      "category": "market"
+    },
+    {
+      "title": "Wells Fargo upgrades commodities outlook amid rate cut expectations",
+      "description": "Wells Fargo's outlook shift may signal broader market optimism for commodities, potentially influencing investment strategies amid economic shifts.\nThe post Wells Fargo upgrades commodities outlook amid rate cut expectations appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/wells-fargo-upgrades-commodities-outlook-amid-rate-cut-expectations/",
+      "source": "Crypto Briefing",
+      "date": "2026-07-16",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/16085757/the-image-shows-a-wells-fargo-bank-building-with-a-large-gla-1-800x420.jpeg",
       "category": "central_bank"
     },
     {
-      "title": "Global Market: Euro zone current account surplus widens in May; market impact likely limited",
-      "description": "The euro zone's current account surplus increased in May, driven by stronger primary income. This rise offset a narrower trade surplus, according to European Central Bank data. On an unadjusted basis, a deficit was recorded for the month. Over twelve months, the surplus represented 1.7% of gross dom",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/global-market-euro-zone-current-account-surplus-widens-in-may-market-impact-likely-limited/articleshow/132458459.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-07-17",
-      "image": "",
-      "category": "central_bank"
+      "title": "IBM Stock Plunges, Money Simpler Launches an AI Copy Trading Solution for Retirement Passive Income",
+      "description": "After the IBM Stock Plunge, Use MoneySimpler AI Copy Trading to Build Long-Term Passive Retirement Income After the IBM Stock Plunge, Use MoneySimpler AI Copy Trading to Build Long-Term Passive Retirement Income",
+      "url": "https://www.globenewswire.com/news-release/2026/07/16/3328452/0/en/IBM-Stock-Plunges-Money-Simpler-Launches-an-AI-Copy-Trading-Solution-for-Retirement-Passive-Income.html",
+      "source": "GlobeNewswire",
+      "date": "2026-07-16",
+      "image": null,
+      "category": "market"
     },
     {
-      "title": "Bitcoin falls nearly 2% to $63,000 as geopolitical tensions weigh on crypto markets",
-      "description": "Ethereum fell 3.98% in the past 24 hours to trade at the $1,828 mark. Among the major altcoins, BNB, XRP, Solana, Tron, Hyperliquid, Dogecoin, and Cardano corrected up to 11.31%.",
-      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-falls-nearly-2-to-63000-as-geopolitical-tensions-weigh-on-crypto-markets/articleshow/132458432.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-07-17",
-      "image": "",
+      "title": "Silver prices today, Thursday, July 16, 2026: Prices can't crack $60 as U.S. airstrikes continue in Iran",
+      "description": "Silver opened at $58.12 per ounce on Thursday, July 16, 2026, up 1.2% compared to Wednesday's closing price of $57.43. The silver price is moving even lower...",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-thursday-july-16-2026-prices-cant-crack-60-as-us-airstrikes-continue-in-iran-122242295.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-07-16",
+      "image": "https://s.yimg.com/lo/mysterio/api/7B6C1FC44F8D17505763172CFC897DB3A215A0F0AF3402A830D26417DBB414AF/subgraphmysterio/resizefill_w1200_h780;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-12%2F01dc5a90-df88-11f0-bfff-e5a5c38339cf",
+      "category": "metals"
+    },
+    {
+      "title": "Lest We Forget the Horrors: An Unending Catalog of Trump\u2019s Cruelties, Collusions, Corruptions, and Crimes: June 2026: Atrocities 1014-1112",
+      "description": "Early in President Trump\u2019s first term, McSweeney\u2019s editors began to catalog the head-spinning number of misdeeds coming from his administration. We called this list a collection of Trump\u2019s cruelties, collusions, corruptions, and crimes, and it felt urgent to \u2026",
+      "url": "https://www.mcsweeneys.net/articles/june-2026-atrocities-1014-1112",
+      "source": "Mcsweeneys.net",
+      "date": "2026-07-16",
+      "image": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/umngchsamo0xyzcw0phft031r7yz",
+      "category": "market"
+    },
+    {
+      "title": "New Pacific Metals Reports Results of Updated Carangas Preliminary Economic Assessment: Post-tax $2.65 Billion NPV (5%) and 35.9% IRR; 339.0 Million Oz of Silver Equivalent Produced",
+      "description": "VANCOUVER, BC, July 16, 2026 /PRNewswire/ -- New Pacific Metals Corp. (TSX: NUAG) (NYSE-A: NEWP) (\"New Pacific\" or the \"Company\") is pleased to report the results of its updated preliminary economic assessment technical report titled \"Carangas Project NI 43-1\u2026",
+      "url": "https://www.prnewswire.com/news-releases/new-pacific-metals-reports-results-of-updated-carangas-preliminary-economic-assessment-post-tax-2-65-billion-npv-5-and-35-9-irr-339-0-million-oz-of-silver-equivalent-produced-302827198.html",
+      "source": "PRNewswire",
+      "date": "2026-07-16",
+      "image": "https://mmx.prnewswire.com/media/MS1884109/New-Pacific-Metals-Corp-New-Pacific-Metals-Reports-Results-of-U.jpg?id=OA2767090&p=facebook",
+      "category": "metals"
+    },
+    {
+      "title": "The best energy stocks right now as two major conflicts keep oil prices elevated",
+      "description": "What Brian Sullivan is hearing from energy insiders.",
+      "url": "https://www.cnbc.com/2026/07/16/the-best-energy-stocks-right-now-as-two-major-conflicts-keep-oil-prices-elevated.html",
+      "source": "CNBC",
+      "date": "2026-07-16",
+      "image": "https://image.cnbcfm.com/api/v1/image/108333857-1783941368918-108333857-1783925261070-gettyimages-2285158693-AFP_B9Y73WF.jpg?v=1784003966&w=1920&h=1080",
       "category": "geopolitics"
     },
     {
-      "title": "Gold Declines as Fresh US Strikes on Iran Fuel Inflation Fears",
-      "description": "Gold declined, erasing a moderate gain from the previous session, as escalating tensions in the Middle East fueled concerns that energy prices and inflation will stay high.",
-      "url": "https://financialpost.com/pmn/business-pmn/gold-declines-as-fresh-us-strikes-on-iran-fuel-inflation-fears",
+      "title": "CI Global Asset Management Announces July 2026 Distributions for Certain CI ETFs",
+      "description": "NOT FOR DISSEMINATION TO U.S. NEWSWIRE SERVICES OR FOR DISSEMINATION IN THE UNITED STATES OF AMERICA TORONTO \u2014 CI Global Asset Management (\u201cCI GAM\u201d) announces the following regular cash distributions for the month ending July 31, 2026 for certain ETFs managed\u2026",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/ci-global-asset-management-announces-july-2026-distributions-for-certain-ci-etfs",
       "source": "Financial Post",
       "date": "2026-07-16",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/07/776460375-4.jpg",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "4 Forgotten Frontier Towns Most People Have Never Heard Of",
+      "description": "You might have flown over or driven near these landmarks without realizing their history.",
+      "url": "https://www.mentalfloss.com/history/forgotten-frontier-towns-most-people-never-heard-of",
+      "source": "Mental Floss",
+      "date": "2026-07-16",
+      "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_225,w_4500,h_2531/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/GettyImages/mmsport/mentalfloss/01kxkacycfqg55acmjjj.jpg",
+      "category": "market"
+    },
+    {
+      "title": "This ancient sea worm has \u201cbio-metal\u201d jaws unlike anything scientists have seen",
+      "description": "An ancient sea worm may hold the secret to a whole new category of natural materials. Its jaws combine proteins and metal ions in a way that gives them metal-like strength and unusual mechanical behavior, yet they still differ from traditional metals. Researc\u2026",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260714225530.htm",
+      "source": "Science Daily",
+      "date": "2026-07-16",
+      "image": "https://www.sciencedaily.com/images/1920/bristle-worm-jaw-sample.webp",
+      "category": "market"
+    },
+    {
+      "title": "Flat finish masks turmoil; Nifty holds ground as crude, rupee weigh",
+      "description": "Markets ended flat amid geopolitical tensions, a weakening rupee, and high crude prices, with Nifty slightly down.",
+      "url": "https://www.thehindubusinessline.com/markets/flat-finish-masks-turmoil-nifty-holds-ground-as-crude-rupee-weigh/article71229590.ece",
+      "source": "BusinessLine",
+      "date": "2026-07-16",
+      "image": "https://bl-i.thgim.com/public/incoming/osk4yx/article71229615.ece/alternates/LANDSCAPE_1200/PO10_Chart.jpg",
       "category": "geopolitics"
     },
     {
-      "title": "Sensex today | Stock Market Highlights: Sensex, Nifty end flat as IT gains offset financials drop",
-      "description": "Sensex Today, Nifty 50 | Stock Market Highlights - Find here all the highlights related to Sensex, Nifty, BSE, NSE, share prices and Indian stock markets for 16th July 2026.",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-16-july-2026/article71225304.ece",
-      "source": "BusinessLine",
+      "title": "TomaGold Confirms Lateral Continuity of the Berrigan Deep Zone Over More Than 250 Metres with Extension Hole TOM-25-009EXT",
+      "description": "Highlights Significant mineralized intersections: Drill hole TOM-25-009EXT intersected multiple zinc, gold, silver and copper-rich mineralized intervals at depths between 389.35 m and 530.35 m, including: 29.90 m grading 2.24% ZnEq (0.52 g/t AuEq) from 469.25\u2026",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/tomagold-confirms-lateral-continuity-of-the-berrigan-deep-zone-over-more-than-250-metres-with-extension-hole-tom-25-009ext",
+      "source": "Financial Post",
       "date": "2026-07-16",
-      "image": "https://bl-i.thgim.com/public/incoming/zaxj1m/article71228305.ece/alternates/LANDSCAPE_1200/stock%20buying%20terminal.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Minister for Defence Readiness and Industry Luke Pollard MP keynote speech at the Global Air and Space Chiefs' Conference",
-      "description": "Minister for Defence Readiness and Industry Luke Pollard MP delivered a keynote speech at the second day of the Global Air and Space Chiefs' Conference in London.",
-      "url": "https://www.gov.uk/government/speeches/minister-for-defence-readiness-and-industry-luke-pollard-mp-keynote-speech-at-the-global-air-and-space-chiefs-conference",
-      "source": "Www.gov.uk",
-      "date": "2026-07-16",
-      "image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-      "category": "market"
-    },
-    {
-      "title": "Trump calls New York\u2019s data centre pause a \u2018terrible decision\u2019. Hochul is not moving.",
-      "description": "Kathy Hochul signed the executive order on Tuesday. Donald Trump was demanding she undo it by Wednesday. The order pauses construction of new data centres drawing 50 megawatts or more for up to a year, making New York\u00a0the first US state to pull the brake\u00a0on t\u2026",
-      "url": "https://thenextweb.com/news/trump-hochul-new-york-data-centre-moratorium/",
-      "source": "The Next Web",
-      "date": "2026-07-16",
-      "image": "https://media.thenextweb.com/2025/04/Untitled-design-26.avif",
-      "category": "supply_demand"
-    },
-    {
-      "title": "RBI fixes SGB 2019-20 Series II redemption price at \u20b914,199. Should investors redeem now?",
-      "description": "The Reserve Bank of India has fixed the premature redemption price for Sovereign Gold Bond 2019-20 Series II at  \u20b914,199 per gram. Investors who bought the bonds in 2019 have earned more than 300% in capital appreciation, but tax implications should also be f\u2026",
-      "url": "https://www.livemint.com/money/personal-finance/rbi-fixes-sgb-2019-20-series-ii-redemption-price-at-14-199-should-investors-redeem-now-11784191853386.html",
-      "source": "Livemint",
-      "date": "2026-07-16",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/16/1600x900/logo/Gemini_Generated_Image_q1x9s1q1x9s1q1x9_1784192498642_1784192505365_a89f3d2c-07c6-4665-97fe-3baeece6f88f.png",
-      "category": "central_bank"
-    },
-    {
-      "title": "112 Pump-Action Guns Seized In Anti-Galamsey Crackdown",
-      "description": "Government says\u00a0 security agencies arrested 465 suspects and seized 112 pump-action guns, excavators and other mining equipment during a six-month nationwide crackdown on illegal mining, popularly known as\u00a0galamsey, as authorities intensified efforts to prote\u2026",
-      "url": "https://thechronicle.com.gh/112-pump-action-guns-seized-in-anti-galamsey-crackdown/",
-      "source": "Thechronicle.com.gh",
-      "date": "2026-07-16",
-      "image": "https://thechronicle.com.gh/wp-content/uploads/2026/07/Mr-Emmanuel-Armah-Kofi-Buah-Minister-for-Lands-and-Natural-Resources.jpeg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Public Money Is Fueling an Explosion of Private Schools. States Often Don\u2019t Care How They\u2019re Run.",
-      "description": "As private schools proliferate, states are choosing a hands-off approach to regulating them. The backgrounds of school founders \u2014 sometimes with criminal histories \u2014 often don\u2019t matter",
-      "url": "https://www.propublica.org/article/private-schools-vouchers-growth-florida-arizona-west-virginia",
-      "source": "ProPublica",
-      "date": "2026-07-16",
-      "image": "https://www.propublica.org/wp-content/uploads/2026/06/20260612-Vouchers-Growth-National-Gordon-social.jpg?resize=2000,1050",
-      "category": "market"
-    },
-    {
-      "title": "Canada's critical mineral plan won't see 'big impact' before 2030s: International Energy Agency",
-      "description": "Despite advantages of world-class resources of key minerals and metals and a low-carbon grid, the country\u2019s first industrial-scale projects will not be online this decade, says head of IEA critical minerals division",
-      "url": "https://www.nationalobserver.com/2026/07/15/news/canadas-critical-mineral-plan-wont-see-big-impact-2030s-international-energy-agency",
-      "source": "National Observer",
-      "date": "2026-07-16",
-      "image": "https://www.nationalobserver.com/sites/default/files/img/2026/07/15/cats_in_pit_2_snieckus.jpg",
-      "category": "market"
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/07/bw20260716834757_lot_berrigan_image_en.jpeg",
+      "category": "geopolitics"
     },
     {
       "title": "Azimut and KGHM Launch 2026 Campaign at Kukamas",
@@ -263,147 +290,120 @@
       "category": "supply_demand"
     },
     {
-      "title": "Trilogy Metals Announces Publication of Federal and State Permitting Schedule for Arctic Project, Establishing Defined Timeline Toward a Record of Decision by September 2028",
-      "description": "VANCOUVER, BC, July 16, 2026 /PRNewswire/ -- Trilogy Metals Inc. (NYSE American: TMQ) (TSX: TMQ) (\"Trilogy Metals\", \"Trilogy\" or the \"Company\") announced today that a coordinated federal and state permitting schedule for its flagship Arctic Project in northwe\u2026",
-      "url": "https://www.prnewswire.com/news-releases/trilogy-metals-announces-publication-of-federal-and-state-permitting-schedule-for-arctic-project-establishing-defined-timeline-toward-a-record-of-decision-by-september-2028-302827083.html",
-      "source": "PRNewswire",
+      "title": "What to Expect From TransDigm Group's Q3 2026 Earnings Report",
+      "description": "With a market cap of $68.9 billion, TransDigm Group Incorporated (TDG) is a leading global designer, producer, and supplier of highly engineered aircraft components through its wholly owned subsidiaries, serving nearly all commercial and military aircraft in \u2026",
+      "url": "https://biztoc.com/x/185f9c2768b8b9fc",
+      "source": "Biztoc.com",
       "date": "2026-07-16",
-      "image": "https://mmx.prnewswire.com/media/MS1132784/Trilogy-Metals-Inc-Trilogy-Metals-Announces-Publication-of-Fede.jpg?id=OA2766691&p=facebook",
+      "image": "https://biztoc.com/cdn/185f9c2768b8b9fc_s.webp",
       "category": "geopolitics"
     },
     {
-      "title": "Bunker Hill Mining Strengthens Executive Team and Achieves Improved ESG Rating in Latest Digbee Assessment",
-      "description": "KELLOGG, Idaho and VANCOUVER, British Columbia, July 16, 2026 (GLOBE NEWSWIRE) \u2014 Bunker Hill Mining Corp.\u00a0(\u201cBunker Hill\u201d\u00a0or the \u201cCompany\u201d) (TSX: BNKR | OTCQB: BHLL)\u00a0is pleased to announce that Bradley Barnett has been appointed Chief Financial Officer of the \u2026",
-      "url": "https://financialpost.com/globe-newswire/bunker-hill-mining-strengthens-executive-team-and-achieves-improved-esg-rating-in-latest-digbee-assessment",
-      "source": "Financial Post",
-      "date": "2026-07-16",
-      "image": null,
-      "category": "supply_demand"
-    },
-    {
-      "title": "Blossom Gold Announces the Reopening of Portal #2 Underway at Rosebud",
-      "description": "TORONTO, July 16, 2026 (GLOBE NEWSWIRE) \u2014 Blossom Gold Inc. (\u201cBlossom\u201d or the \u201cCompany\u201d) (TSX: BGAU) is pleased to announce that the reopening of Portal #2 at its Rosebud Project in Pershing County, Nevada, is underway. Blossom\u2019s mining contractor, Small Mine\u2026",
-      "url": "https://financialpost.com/globe-newswire/blossom-gold-announces-the-reopening-of-portal-2-underway-at-rosebud",
-      "source": "Financial Post",
-      "date": "2026-07-16",
-      "image": null,
-      "category": "supply_demand"
-    },
-    {
-      "title": "The Trump Energy Agenda Means Astronomical Bills and Smoky Skies",
-      "description": "I write this under an ashy, yellow northeast sky; smoke from wildfires in Ontario and Minnesota swept across the region in the middle of the night, and I awoke at 3:00 am (as I too often do in these parlous times) with stinging eyes. But I will try to see cle\u2026",
-      "url": "https://billmckibben.substack.com/p/setting-money-on-fire",
-      "source": "Substack.com",
-      "date": "2026-07-16",
-      "image": "https://www.commondreams.org/media-library/image.jpg?id=67163753&width=1200&height=600&coordinates=0%2C365%2C0%2C365",
-      "category": "market"
-    },
-    {
-      "title": "Sedifly Brings Its Mission for Accessible College Admissions Guidance to Singapore's Youth Leadership Conversation",
-      "description": "The Singapore-based EdTech firm joined more than 1,200 youths at the Young PAP 40th Anniversary Conference, where discussions centered on widening access and opportunities for Singaporean youths The Singapore-based EdTech firm joined more than 1,200 youths at\u2026",
-      "url": "https://www.globenewswire.com/news-release/2026/07/16/3328346/0/en/Sedifly-Brings-Its-Mission-for-Accessible-College-Admissions-Guidance-to-Singapore-s-Youth-Leadership-Conversation.html",
+      "title": "Santee Cooper Implements ISNetworld\u00ae to Help Enhance Contractor Qualification and Safety Processes",
+      "description": "ISN announced Santee Cooper selected ISNetworld as its primary contractor information management platform...",
+      "url": "https://www.globenewswire.com/news-release/2026/07/16/3328608/0/en/Santee-Cooper-Implements-ISNetworld-to-Help-Enhance-Contractor-Qualification-and-Safety-Processes.html",
       "source": "GlobeNewswire",
       "date": "2026-07-16",
-      "image": "https://ml.globenewswire.com/Resource/Download/e49cf51a-4a83-47ec-8e29-ecb120aaea17",
+      "image": "https://ml.globenewswire.com/Resource/Download/26024d6c-e17c-42c1-b7ee-d2ab04123a94",
       "category": "market"
     },
     {
-      "title": "Soracom Recognized as the Most Valuable Pioneer in QKS Group's AI Maturity Matrix for IoT Connectivity Management Platform, 2026",
-      "description": "QKS Group designates Soracom as the Most Valuable Pioneer for its GenAI-native IoT connectivity infrastructure and leadership in accelerating AI-driven IoT application development and deployment. PUNE, India and SEATTLE, July 16, 2026 /PRNewswire/ -- QKS Grou\u2026",
-      "url": "https://www.prnewswire.com/news-releases/soracom-recognized-as-the-most-valuable-pioneer-in-qks-groups-ai-maturity-matrix-for-iot-connectivity-management-platform-2026-302827494.html",
-      "source": "PRNewswire",
+      "title": "Heroes & Villains Unveils Marvel SDCC Booth and Doomsday-Inspired Merch",
+      "description": "Heroes & Villains, the collector-focused lifestyle label from global pop culture merchandiser Bioworld Merchandising, returns to San Diego Comic-Con 2026 with an immersive booth experience tied to the highly anticipated Avengers: Doomsday, which comes out in \u2026",
+      "url": "https://biztoc.com/x/7be2eba94cf745da",
+      "source": "Biztoc.com",
       "date": "2026-07-16",
-      "image": "https://mmx.prnewswire.com/media/MS1596754/QKS-Group-Logo.jpg?id=OA2767358&p=facebook",
+      "image": "https://biztoc.com/cdn/7be2eba94cf745da_s.webp",
       "category": "market"
     },
     {
-      "title": "Gilat to Report Second Quarter 2026 Results on Wednesday, August 5",
-      "description": "PETACH TIKVA, Israel, July 16, 2026 (GLOBE NEWSWIRE) -- Gilat Satellite Networks Ltd. (NASDAQ: GILT, TASE: GILT), a worldwide leader in satellite networking technology, solutions and services, today announced that it will release its second quarter 2026 finan\u2026",
-      "url": "https://www.globenewswire.com/news-release/2026/07/16/3328344/11105/en/Gilat-to-Report-Second-Quarter-2026-Results-on-Wednesday-August-5.html",
-      "source": "GlobeNewswire",
-      "date": "2026-07-16",
-      "image": "https://ml.globenewswire.com/Resource/Download/3a83f1da-76ec-4c48-9e65-e6ae0139a63b",
-      "category": "market"
-    },
-    {
-      "title": "Chinese AI firms challenge Anthropic with open, free models",
-      "description": "Chinese AI firms' open models may reshape global AI competition, pressuring U.S. firms' market dominance and prompting strategic shifts.\nThe post Chinese AI firms challenge Anthropic with open, free models appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/chinese-ai-firms-challenge-anthropic-with-open-free-models/",
-      "source": "Crypto Briefing",
-      "date": "2026-07-16",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/16070307/ChatGPT-Image-May-21-2026-02_40_20-PM-6-800x420.png",
-      "category": "market"
-    },
-    {
-      "title": "Scaloni faces former tutor De la Fuente in Argentina-Spain World Cup final",
-      "description": "NEW YORK, July 16 : Spain swept aside France, Argentina scrambled past England and the World Cup final has been handed a scriptwriter's dream: European champions against world and South American champions, with a teacher and his old pupil in opposite technica\u2026",
-      "url": "https://www.channelnewsasia.com/sport/scaloni-faces-former-tutor-de-la-fuente-in-argentina-spain-world-cup-final-6258511",
-      "source": "CNA",
-      "date": "2026-07-16",
-      "image": "https://dam.mediacorp.sg/image/upload/s--YXTDF7EV--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-07-16T110525Z_2_LYNXMPEM6F0OM_RTROPTP_3_SOCCER-WORLDCUP-ARG-AUT-PREVIEW.JPG?itok=MdXyKcQh",
-      "category": "currency"
-    },
-    {
-      "title": "From colonial storage to open access",
-      "description": "For a century, African musical heritage was recorded, boxed, and shipped to museums abroad. In Nairobi, a new generation of archives is bringing cultural memory home\u00a0\u2014 and putting it online.",
-      "url": "https://africasacountry.com/2026/07/from-colonial-storage-to-open-access",
-      "source": "Africasacountry.com",
-      "date": "2026-07-16",
-      "image": "https://media.africasacountry.com/images/2026/7/810153573992.jpeg",
-      "category": "market"
-    },
-    {
-      "title": "MANE EXPANDS PARTNERSHIP WITH ARZEDA TO ACCELERATE GLOBAL COMMERCIALIZATION OF VIALEAF\u2122 REB M",
-      "description": "MANE acquires exclusive global licence agreement to produce and commercialize Arzeda's breakthrough Reb M technology, creating a fully integrated value chain for next-generation sugar reduction solutions. SEATTLE and LE BAR-SUR-LOUP, France, July 16, 2026 /PR\u2026",
-      "url": "https://www.prnewswire.com/news-releases/mane-expands-partnership-with-arzeda-to-accelerate-global-commercialization-of-vialeaf-reb-m-302827000.html",
-      "source": "PRNewswire",
-      "date": "2026-07-16",
-      "image": "https://mmx.prnewswire.com/media/MS1883988/ManeLogo.jpg?id=OA2766726&p=facebook",
-      "category": "market"
-    },
-    {
-      "title": "The CLARITY Act Delay Is Now A Compliance Problem, Not Just A Political One",
-      "description": "The CLARITY Act's Senate window is closing, but the real deadline belongs to compliance teams. What GCs, CCOs and boards should do before August, pass or fail.",
-      "url": "https://www.forbes.com/sites/tonyaevans/2026/07/16/the-clarity-act-delay-is-now-a-compliance-problem-not-just-a-political-one/",
+      "title": "BTS's Genius 'NORMAL' Promos Include Tabloid-Like Ads And Urinals",
+      "description": "Global superstars BTS have released interesting promotions for the upcoming unveiling of their \"NORMAL\" music video and the Korean version of the track, off ARIRANG.",
+      "url": "https://www.forbes.com/sites/laurasirikul/2026/07/16/btss-genius-normal-promos-include-tabloid-like-ads-and-urinals/",
       "source": "Forbes",
       "date": "2026-07-16",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a58631715726f004eec222d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a58e598b1f842c501b8da34/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "category": "market"
     },
     {
-      "title": "Rebecca Slaughter Got Fired, Lost Her Supreme Court Case, and Now She's Ready to Talk",
-      "description": "Of her loss in the Trump v. Slaughter case she says, \"there was nothing we could have done.\" Chief Justice John Roberts reasoned that \u201cSlaughter served as the President\u2019s subordinate at the FTC,\u201d and thus he \u201cwas entitled to cut her tenure short.\u201d",
-      "url": "https://www.vanityfair.com/story/rebecca-slaughter-donald-trump-ftc",
-      "source": "Vanity Fair",
+      "title": "Hexaware and Factory Partner to Bring Agent-native Development to Global Enterprises",
+      "description": "Driving modernization, refactoring, and migration efforts with Droids across sectors MUMBAI, India, LONDON and ISELIN N.J., July 16, 2026 /PRNewswire/ -- Hexaware Technologies (NSE: HEXT), a global provider of IT solutions and services, has announced a partne\u2026",
+      "url": "https://www.prnewswire.com/news-releases/hexaware-and-factory-partner-to-bring-agent-native-development-to-global-enterprises-302827691.html",
+      "source": "PRNewswire",
       "date": "2026-07-16",
-      "image": "https://media.vanityfair.com/photos/6a57d6c62b661a04063f9c18/16:9/w_1280,c_limit/2249224515",
-      "category": "market"
+      "image": "https://mmx.prnewswire.com/media/MS1484866/Hexaware-NEW-Logo.jpg?id=OA2767548&p=facebook",
+      "category": "geopolitics"
     },
     {
-      "title": "Data centers are booming. Indigenous leaders want help protecting their lands.",
-      "description": "This story is published through the Indigenous News Alliance. AI is the transformative technology of our time, with the potential to reshape our world on a global scale. And yet, underpinning its potential is the need for so-called hyperscale data centers tha\u2026",
-      "url": "https://grist.org/global-indigenous-affairs-desk/data-centers-are-booming-indigenous-leaders-want-help-protecting-their-lands/",
-      "source": "Grist",
+      "title": "Google accuses EU of undermining privacy of 'millions of Europeans'",
+      "description": "The European Union demanded Thursday that Google share data with other search engines and open up its Android system to rival AI services, but the US giant said the measures would put privacy at risk.",
+      "url": "https://www.thelocal.com/20260716/google-accuses-eu-of-undermining-privacy-of-millions-of-europeans",
+      "source": "Thelocal.com",
       "date": "2026-07-16",
-      "image": "https://grist.org/wp-content/uploads/2026/07/emrip-4.jpg?quality=75&strip=all",
-      "category": "market"
-    },
-    {
-      "title": "Wall Street's profit boom has Europe ripping up its banking rulebook",
-      "description": "A major overhaul of Europe's banking rules could provide a boost to the continent's banking sector.",
-      "url": "https://www.cnbc.com/2026/07/16/wall-street-us-banks-profit-boom-europe-regulation.html",
-      "source": "CNBC",
-      "date": "2026-07-16",
-      "image": "https://image.cnbcfm.com/api/v1/image/108074564-1733935197354-gettyimages-2186490766-GERMANY_SCHNABEL.jpeg?v=1738911496&w=1920&h=1080",
+      "image": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2024/06/watermarks-logo-20240605-141713-7-1920x1280we.jpg@webp",
       "category": "currency"
     },
     {
-      "title": "Democrats\u2019 key to winning the midterms",
-      "description": "The party's healthcare affordability agenda could lower prices and put the Senate in play",
-      "url": "https://www.salon.com/2026/07/16/democrats-key-to-winning-the-midterms/",
-      "source": "Salon",
+      "title": "UK competition watchdog clears eBay\u2019s $1.2bn Depop acquisition",
+      "description": "The deal was first disclosed in February, when eBay agreed to acquire Depop from Etsy via an all-cash arrangement valued at $1.2bn.",
+      "url": "https://www.retail-insight-network.com/news/cma-clears-ebay-depop-acquisition/",
+      "source": "Retail-insight-network.com",
       "date": "2026-07-16",
-      "image": "https://www.salon.com/app/uploads/2026/07/Democrats-Healthcare-2257051737.jpg",
+      "image": "https://s.yimg.com/lo/mysterio/api/F74FEA1388AF9955D7CA8A8B3074A578D1C85D7CCE1B21A14B9FA65812382809/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fretail_insight_network_724%2F81a49e6ee8f7dfb4d74149b4ce8743b3",
+      "category": "market"
+    },
+    {
+      "title": "Show HN: Notelet \u2013 open-source SwiftUI package to show release notes in iOS apps",
+      "description": "Hello HN, not sure how big the SwiftUI community is here, but maybe someone will find this small package useful.Notelet let's you show a sheet with release notes when user updates your app to a new version. It supports plain lists of features (similar to what\u2026",
+      "url": "https://github.com/mykolaharmash/notelet",
+      "source": "Github.com",
+      "date": "2026-07-16",
+      "image": "https://opengraph.githubassets.com/fb3ab2b1a691310454714a3d898779e81ad3a0bbda35a0da782b8b973bf0670a/mykolaharmash/notelet",
+      "category": "market"
+    },
+    {
+      "title": "New House Republican attack will spur 'pain and suffering' for students: lawmaker",
+      "description": "WASHINGTON \u2014 A major legislative package that would put into law President Donald Trump\u2019s push to greatly reduce the responsibilities of the U.S. Department of Education advanced out of a U.S. House panel on Wednesday.The U.S. House Committee on Education and\u2026",
+      "url": "https://www.rawstory.com/us-house-republicans-take-first-step-toward-dismantling-department-of-education/",
+      "source": "Raw Story",
+      "date": "2026-07-16",
+      "image": "https://www.rawstory.com/media-library/an-american-flag-and-a-tattered-u-s-department-of-education-flag-fly-outside-the-federal-office-building-amid-reports-that-u-s.jpg?id=56496297&width=1200&height=600&coordinates=0%2C469%2C0%2C469",
+      "category": "market"
+    },
+    {
+      "title": "Jim Cramer says AI bubble fears miss the market\u2019s real risk",
+      "description": "Investors worried about another dot-com crash may be asking the wrong question. Jim Cramer argues that pockets of speculation do not make the entire stock ma...",
+      "url": "https://www.thestreet.com/fed/jim-cramer-says-ai-bubble-fears-miss-the-markets-real-risk",
+      "source": "TheStreet",
+      "date": "2026-07-16",
+      "image": "https://s.yimg.com/lo/mysterio/api/79AC9E4A1D45C418EDCE2EA7CBC48C2BDF5D48E168E245AC9003DC9BE93D3041/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F0c4f6ff3700d39a368bec51dc718e363",
+      "category": "market"
+    },
+    {
+      "title": "AUA Names Emily Clennon, MD, MPH, 2026-2027 H. Logan Holtgrewe Legislative Fellow",
+      "description": "BALTIMORE, July 16, 2026 (GLOBE NEWSWIRE) -- The American Urological Association (AUA) today announced that Emily Clennon, MD, MPH, has been named the 2026-2027 H. Logan Holtgrewe Legislative Fellow. This fellowship aims to equip residents, fellows, and early\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/07/16/3328604/0/en/AUA-Names-Emily-Clennon-MD-MPH-2026-2027-H-Logan-Holtgrewe-Legislative-Fellow.html",
+      "source": "GlobeNewswire",
+      "date": "2026-07-16",
+      "image": "https://ml.globenewswire.com/Resource/Download/fec4f162-fe1b-4d82-be00-37a1fe61f52b",
+      "category": "market"
+    },
+    {
+      "title": "Gold Prices Sink 1.41% Below the Key $4,000 Mark as Stronger Dollar and Fed Rate Fears Weigh on Bullion",
+      "description": "Gold prices fell sharply below $4,000 due to a stronger US dollar and expectations of tighter Federal Reserve policy, despite geopolitical tensions that typically boost gold's safe-haven appeal.",
+      "url": "https://www.ibtimes.com.au/gold-prices-fall-below-4000-us-dollar-fed-policy-1872418",
+      "source": "Ibtimes.com.au",
+      "date": "2026-07-16",
+      "image": "https://d.ibtimes.com.au/en/full/1890872/gold.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Keeping Score: Feminists Denounce Supreme Trump Anti-Trans Ruling; Trump Tries to Hijack America 250; Camp Mystic Will Not Reopen; Birthright Citizenship Safe for Now",
+      "description": "In every issue of Ms., we track research on our progress in the fight for equality, catalogue can\u2019t-miss quotes from feminist voices and keep tabs on the feminist movement\u2019s many milestones. We\u2019re Keeping Score online, too\u2014in this biweekly roundup.\nThis week:\u2026",
+      "url": "https://msmagazine.com/2026/07/16/keeping-score-supreme-court-trans-athletes-birthright-citizenship-america-250/",
+      "source": "Ms. Magazine",
+      "date": "2026-07-16",
+      "image": "https://msmagazine.com/wp-content/uploads/2026/07/Keeping-Score-Feminists-Denounce-Supreme-Trump-Anti-Trans-Ruling-Trump-Tries-to-Hijack-America-250-Camp-Mystic-Will-Not-Reopen-Birthright-Citizenship-Safe-for-Now-1.png",
       "category": "market"
     }
   ],
@@ -459,7 +459,7 @@
       "platinum_usd_oz": 1614.14
     }
   ],
-  "timestamp": "2026-07-17T16:34:52.743563+05:30",
+  "timestamp": "2026-07-17T19:43:05.736846+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
