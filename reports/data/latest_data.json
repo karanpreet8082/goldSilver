@@ -54,7 +54,7 @@
         "hold": 29
       },
       "summary": "Gold is showing negative signals. Positive daily movement of 0.8%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-18T08:17:09.968345",
+      "timestamp": "2026-07-18T10:46:12.620402",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 50
       },
       "summary": "Silver is showing negative signals. Strong daily gain of 1.4%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-18T08:17:10.075342",
+      "timestamp": "2026-07-18T10:46:12.689100",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 50
       },
       "summary": "Platinum is showing negative signals. Strong daily gain of 1.9%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-18T08:17:10.170429",
+      "timestamp": "2026-07-18T10:46:12.768488",
       "source": "rule-based"
     }
   },
@@ -137,22 +137,58 @@
   },
   "news": [
     {
-      "title": "The New Oil? Why the World Is Chasing Copper",
-      "description": "Copper has emerged as a strategic commodity powering the global shift towards clean energy, electric vehicles and digital infrastructure. With demand rising faster than supply due to electrification and constrained mining output, the metal is increasingly viewed as a critical resource for the global",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/the-new-oil-why-the-world-is-chasing-copper/articleshow/132474599.cms",
+      "title": "Bitcoin rebounds to $64K after AI-led selloff triggers crypto rout. Here's what experts say",
+      "description": "Bitcoin recovered towards $64,000 after an AI-driven selloff pushed the cryptocurrency below the $63,000 mark. Experts said risk-off sentiment weighed on crypto markets, though softer US inflation data helped revive investor confidence. Analysts highlighted key technical levels and cautioned that th",
+      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-rebounds-to-64k-after-ai-led-selloff-triggers-crypto-rout-heres-what-experts-say/articleshow/132476886.cms",
       "source": "Economic Times Markets",
       "date": "2026-07-18",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "Longer-dated yields lower after data, on track for weekly decline",
-      "description": "Longer-dated U.S. Treasury yields declined on Friday after recent economic data. Markets largely priced out a Federal Reserve rate hike for this month. Import prices increased unexpectedly, while consumer and producer prices showed moderation. Geopolitical worries and hawkish Fed comments added to m",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/longer-dated-yields-lower-after-data-on-track-for-weekly-decline/articleshow/132474217.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-07-18",
-      "image": "",
-      "category": "geopolitics"
+      "title": "BOE attends UNESCO Global Conference of the International Decade of Sciences for Sustainable Development in Paris",
+      "description": "PARIS, July 17, 2026 /PRNewswire/ -- The 2026 Global Conference of the International Decade of Sciences for Sustainable Development (IDSSD) is taking place from July 15 to 17 at UNESCO Headquarters in Paris. As the first Chinese technology company to be a str\u2026",
+      "url": "https://www.prnewswire.com/news-releases/boe-attends-unesco-global-conference-of-the-international-decade-of-sciences-for-sustainable-development-in-paris-302828475.html",
+      "source": "PRNewswire",
+      "date": "2026-07-17",
+      "image": "https://mma.prnewswire.com/media/2412154/BOE_Logo.jpg?p=facebook",
+      "category": "market"
+    },
+    {
+      "title": "Quote by Neil deGrasse Tyson: \u201cWe spend the first year of a child\u2019s life teaching it to walk and talk and the rest of its life to shut up and sit down. There\u2019s something wrong there.\u201d",
+      "description": "Watch what happens when a one-year-old takes their first wobbly steps across a living room. The place erupts. Grandparents well up. Someone lunges for a phone to film it. That kid could stagger straight into the coffee table and we would still applaud, becaus\u2026",
+      "url": "https://spacedaily.com/d-quote-by-neil-degrasse-tyson-we-spend-the-first-year-of-a-childs-life-teaching-it-to-walk-and-talk-and-the-rest-of-its-life-to-shut-up-and-sit-down-theres-something-wrong-there/",
+      "source": "Space Daily",
+      "date": "2026-07-17",
+      "image": "https://spacedaily.com/wp-content/uploads/2026/07/Posts-1600840-2026-07-17T144117.226.png",
+      "category": "market"
+    },
+    {
+      "title": "The dollar\u2019s demise has been predicted for 55 years. The BCG Institute says it\u2019s still overstated",
+      "description": "Everyone's writing the dollar's obituary. They're ignoring that every rival has bigger problems than America does.",
+      "url": "https://fortune.com/2026/07/17/dollar-obituary-china-euro-reserve-currency/",
+      "source": "Fortune",
+      "date": "2026-07-17",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2280058182-e1784148670594.jpg?resize=1200,600",
+      "category": "currency"
+    },
+    {
+      "title": "New fiscal year starts today, bringing seven new taxes",
+      "description": "Kathmandu, July 17: Households across Nepal will begin paying more for a range of everyday goods and services from today as the government rolls out a series of new tax measures with the start of the new fiscal year. The revised tax regime widens the governme\u2026",
+      "url": "https://peoplesreview.com.np/2026/07/17/new-fiscal-year-starts-today-bringing-seven-new-taxes/",
+      "source": "Peoplesreview.com.np",
+      "date": "2026-07-17",
+      "image": "https://peoplesreview.com.np/wp-content/uploads/2026/07/taxa.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Bitget Launches Industry-First Cross-Asset Unified Account With 100 US Stock Tokens as Margin",
+      "description": "Bitget introduces the first Cross-Asset Unified Account, enabling tokenized stocks and crypto to share a single margin pool....",
+      "url": "https://www.globenewswire.com/news-release/2026/07/17/3328953/0/en/Bitget-Launches-Industry-First-Cross-Asset-Unified-Account-With-100-US-Stock-Tokens-as-Margin.html",
+      "source": "GlobeNewswire",
+      "date": "2026-07-17",
+      "image": "https://ml-eu.globenewswire.com/Resource/Download/8016503f-4d8d-4df8-a2b2-ac3e74cbf95e",
+      "category": "market"
     },
     {
       "title": "Pixel Watch 5 Reportedly Focuses on AI Over Fixing Battery Life",
@@ -182,48 +218,21 @@
       "category": "market"
     },
     {
-      "title": "Row Vikings Row: Norwegians Pull Together",
-      "description": "Norway stunned football royalty Brazil in the World Cup. Instead of dancing, posing or pounding their chests, every player sat down on the pitch and rowed in synchrony with their fans in the stands. \u201cThe Vikings took in their sails, put out their oars and row\u2026",
-      "url": "https://www.counterpunch.org/2026/07/17/row-vikings-row-norwegians-pull-together/",
-      "source": "CounterPunch",
+      "title": "Crisil Ratings upgrades long-term ratings of Vedanta group companies",
+      "description": "Crisil Ratings has upgraded Vedanta group companies' long-term ratings to AA+ and assigned a stable outlook. This upgrade reflects the strong financial profile and improved financial flexibility of the demerged entities. Vedanta Ltd anchors the group with mar\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/crisil-ratings-upgrades-long-term-ratings-of-vedanta-group-companies/articleshow/132459117.cms",
+      "source": "The Times of India",
       "date": "2026-07-17",
-      "image": "https://www.counterpunch.org/wp-content/uploads/2026/07/Norway_Italy_-_June_2025_A_46-scaled.jpg",
+      "image": "https://img.etimg.com/thumb/msid-132459273,width-1200,height-630,imgsize-561648,overlay-economictimes/articleshow.jpg",
       "category": "market"
     },
     {
-      "title": "SBI Funds Management\u2019s $1B IPO subscribed 42 times as investors pile into India\u2019s largest asset manager",
-      "description": "SBI Funds Management's $1 billion IPO attracted $31 billion in bids and 42 times oversubscription, becoming one of India's most demanded public offerings\nThe post SBI Funds Management\u2019s $1B IPO subscribed 42 times as investors pile into India\u2019s largest asset \u2026",
-      "url": "https://cryptobriefing.com/sbi-funds-management-ipo-42-times-subscribed/",
-      "source": "Crypto Briefing",
+      "title": "Nifty breaks past 24,200 as IT stocks surge; broader market lags",
+      "description": "IT stocks drive Nifty above 24,200, while broader markets show mixed performance amid ongoing trading trends.",
+      "url": "https://www.thehindubusinessline.com/markets/nifty-breaks-past-24200-as-it-stocks-surge-broader-market-lags/article71233262.ece",
+      "source": "BusinessLine",
       "date": "2026-07-17",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/17014429/what-is-fund-management-a-beginner-s-guide-to-managing-inves-800x420.jpeg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Navro chief Joe Redmond: \u2018I don\u2019t quite fit the profile of a fintech start-up CEO at this stage in my career\u2019",
-      "description": "Under a licence from the Central Bank of Ireland, Navro processes foreign exchange payments across Europe",
-      "url": "https://www.irishtimes.com/business/2026/07/17/navro-chief-joe-redmond-i-dont-quite-fit-the-profile-of-a-fintech-startup-ceo-at-this-stage-in-my-career/",
-      "source": "The Irish Times",
-      "date": "2026-07-17",
-      "image": "https://www.irishtimes.com/resizer/v2/ICZ7DWGOOJFSTFA3XFQIVW4Y2I.JPG?smart=true&auth=a0d33437ce7528e0db12d801789210d408526fcd703cb2fa0a5c9a33cca530af&width=1200&height=630",
-      "category": "central_bank"
-    },
-    {
-      "title": "The Trump Accounts vs. Inflation",
-      "description": "Photo Credit:Inflation\n \n PixabayBy David DeMayAre the new Trump accounts fatally flawed?",
-      "url": "https://www.americanthinker.com/articles/2026/07/the-trump-accounts-vs-inflation/",
-      "source": "Americanthinker.com",
-      "date": "2026-07-17",
-      "image": "https://images.americanthinker.com/5t/5tgzp4irc9iprpuow3ot_1200.JPG",
-      "category": "inflation"
-    },
-    {
-      "title": "Don't overpay for growth: Nippon Life AMC's Sailesh Raj Bhan on navigating India's next market cycle",
-      "description": "After two years of valuation-led consolidation, Nippon Life AMC's equity CIO Sailesh Raj Bhan says improving earnings, reasonable valuations and a strong macro backdrop are creating fresh opportunities for long-term investors.",
-      "url": "https://www.livemint.com/money/personal-finance/nippon-amc-sailesh-raj-bhan-market-outlook-equity-strategy-11784124925582.html",
-      "source": "Livemint",
-      "date": "2026-07-17",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/16/1600x900/logo/HH6A8119_copy_1778406577789_1778406584856_1784171653962_373edbb1-13df-4b4c-869c-42ea3d4e85f3.jpg",
+      "image": "https://bl-i.thgim.com/public/incoming/6o426a/article71233286.ece/alternates/LANDSCAPE_1200/PO16_Rising_chart.jpg",
       "category": "market"
     },
     {
@@ -272,138 +281,129 @@
       "category": "metals"
     },
     {
-      "title": "Forest City\u2019s Network School says US$122m investment plan on hold amid Malaysia\u2019s probe into alleged Israeli link",
-      "description": "Locals in Johor\u2019s Forest City tell CNA the startup community has boosted businesses but add that anyone found breaching Malaysia's immigration laws should face action.",
-      "url": "https://www.channelnewsasia.com/asia/malaysia-johor-forest-city-network-school-israeli-citizens-balaji-srinivasan-6260626",
-      "source": "CNA",
+      "title": "As Argentina Celebrates World Cup Revenge Vs. England, Milei Is Literally Auctioning Off His Country",
+      "description": "Whatever one might say about the 2026 World Cup, it has been eventful. Controversial, yes, downright dystopian at times, and quite possibly rigged, but eventful.",
+      "url": "https://www.nakedcapitalism.com/2026/07/as-argentina-celebrates-world-cup-semi-final-victory-with-falklands-malvinas-banner-milei-is-literally-auctioning-off-their-country.html",
+      "source": "Nakedcapitalism.com",
       "date": "2026-07-17",
-      "image": "https://dam.mediacorp.sg/image/upload/s--1rK7XRc3--/c_crop,h_900,w_1600,x_0,y_0/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/17/img_4817_copy.jpg?itok=wFsaCjio",
+      "image": "https://s.yimg.com/ny/api/res/1.2/UrmO7J2WvfhIhyFp4Bc.aQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTEyMDQ7Y2Y9d2VicA--/https://media.zenfs.com/en/the_comeback_288/b9adf6f2440ca0ba1b9471d093457447",
       "category": "market"
     },
     {
-      "title": "Why the Strait of Hormuz is losing importance",
-      "description": "The Iran-Israel conflict briefly raised fears that disruption of the Strait of Hormuz, through which about 20% of global oil and gas passes, would trigger a sharp energy crisis. Instead, oil markets remained resilient due to ample global supplies, coordinated\u2026",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/why-the-strait-of-hormuz-is-losing-importance/articleshow/132456005.cms",
-      "source": "The Times of India",
+      "title": "Europe's chip ambitions won't break dependence on US cloud and software, says Forrester",
+      "description": "Brussels may spend billions on semiconductor fabs, but tech sovereignty remains firmly in American and Chinese hands",
+      "url": "https://www.theregister.com/paas-and-iaas/2026/07/17/europes-chip-ambitions-wont-break-dependence-on-us-cloud-and-software-says-forrester/5274086",
+      "source": "Theregister.com",
       "date": "2026-07-17",
-      "image": "https://img.etimg.com/thumb/msid-132456149,width-1200,height-630,imgsize-96468,overlay-economictimes/articleshow.jpg",
+      "image": "https://image.theregister.com/5274106.jpg?imageId=5274106&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
       "category": "geopolitics"
     },
     {
-      "title": "\u2018Enemies of civilization\u2019: top Trump officials launch sweeping attack on left - The Guardian",
-      "description": "\u2018Enemies of civilization\u2019: top Trump officials launch sweeping attack on leftThe Guardian WATCH: Rubio speaks at conference on political terrorismPBS US hosts global meet on \u2018far-left terror\u2019: Who\u2019s attending, why it mattersAl Jazeera Rubio calls for global c\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184489944",
-      "source": "Slashdot.org",
+      "title": "Nokian Tyres plc Half Year Financial Report January-June 2026: Strong profitability improvement driven by higher sales volumes and enhanced pricing",
+      "description": "Nokian Tyres plc Half Year Financial Report January\u2013June 2026, July 17, 2026 at 1:00 p.m. EEST NOKIA, Finland, July 17, 2026 /PRNewswire/ -- This release is a summary of Nokian Tyres' Half Year Financial Report January\u2013June 2026. The complete report is attach\u2026",
+      "url": "https://www.prnewswire.com/news-releases/nokian-tyres-plc-half-year-financial-report-januaryjune-2026-strong-profitability-improvement-driven-by-higher-sales-volumes-and-enhanced-pricing-302828479.html",
+      "source": "PRNewswire",
       "date": "2026-07-17",
       "image": null,
       "category": "market"
     },
     {
-      "title": "AI data fabric emerges as a governance layer for agents",
-      "description": "The latest take on data fabric architecture promises to help AI agents coexist with existing platforms, but there's some assembly required.",
-      "url": "https://www.techtarget.com/searchdatamanagement/tip/AI-data-fabric-emerges-as-a-governance-layer-for-agents",
-      "source": "Techtarget.com",
+      "title": "Tech stocks lead steep global sell-off as investors lose faith in AI chip trade",
+      "description": "Good morning. On Fortune\u2019s radar today:\nMarkets: Big global selloff as traders bail out of tech stocks.\nHyperscaler pullback could tip economy into recession, Apollo analyst warns.\nAirbnb CEO Brian Chesky targeted in AI slop hack.\nThe U.S. is now bombing civi\u2026",
+      "url": "https://biztoc.com/x/6d08b218b008ab92",
+      "source": "Biztoc.com",
       "date": "2026-07-17",
-      "image": "https://www.techtarget.com/rms/onlineimages/strategy_g1151390404.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Sustainable Aviation Fuel Market - Global Forecast 2026-2032 Now Available \u2014 Forecasts Growth from $2.37B to $10.27B, Profiles Shell, BP, TotalEnergies, Neste, and 49 Other Key Players",
-      "description": "Opportunities span diverse feedstocks, advanced SAF and e-fuel production, airport infrastructure, long-term offtake, AI optimization, digital traceability and carbon verification. Opportunities span diverse feedstocks, advanced SAF and e-fuel production, air\u2026",
-      "url": "https://www.globenewswire.com/news-release/2026/07/17/3328942/28124/en/Sustainable-Aviation-Fuel-Market-Global-Forecast-2026-2032-Now-Available-Forecasts-Growth-from-2-37B-to-10-27B-Profiles-Shell-BP-TotalEnergies-Neste-and-49-Other-Key-Players.html",
-      "source": "GlobeNewswire",
-      "date": "2026-07-17",
-      "image": "https://ml.globenewswire.com/Resource/Download/344cd657-5c00-446d-83b0-d0df364d0d85",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Vitiligo Therapeutics Market Projected to Reach USD 2.28 Billion by 2032",
-      "description": "Targeted topical therapies, phototherapy optimization, artificial intelligence and expanding specialist care are accelerating the transition toward evidence-based, patient-centered vitiligo treatment. Targeted topical therapies, phototherapy optimization, art\u2026",
-      "url": "https://www.globenewswire.com/news-release/2026/07/17/3328941/28124/en/Vitiligo-Therapeutics-Market-Projected-to-Reach-USD-2-28-Billion-by-2032.html",
-      "source": "GlobeNewswire",
-      "date": "2026-07-17",
-      "image": "https://ml.globenewswire.com/Resource/Download/5d4ad7ea-7a56-4d7b-bc61-baeed7eafd56",
+      "image": "https://biztoc.com/cdn/6d08b218b008ab92_s.webp",
       "category": "geopolitics"
     },
     {
-      "title": "Industrial System Integrator and IIoT Technology Market to Reach USD 2.20 Trillion by 2032",
-      "description": "Global market projected to expand at a 23.47% CAGR as industrial enterprises accelerate smart manufacturing, OT-IT convergence, edge computing, artificial intelligence and cybersecurity investments Global market projected to expand at a 23.47% CAGR as industr\u2026",
-      "url": "https://www.globenewswire.com/news-release/2026/07/17/3328940/28124/en/Industrial-System-Integrator-and-IIoT-Technology-Market-to-Reach-USD-2-20-Trillion-by-2032.html",
+      "title": "Cancer Biomarkers Market to Reach US$ 54.48 Billion by 2032 as Precision Oncology and Multi-Omics Adoption Accelerate",
+      "description": "Asia-Pacific will be the fastest-growing region. Key players include Roche, Thermo Fisher, Illumina, Agilent Technologies, and QIAGEN. Asia-Pacific will be the fastest-growing region. Key players include Roche, Thermo Fisher, Illumina, Agilent Technologies, a\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/07/17/3329013/28124/en/Cancer-Biomarkers-Market-to-Reach-US-54-48-Billion-by-2032-as-Precision-Oncology-and-Multi-Omics-Adoption-Accelerate.html",
       "source": "GlobeNewswire",
       "date": "2026-07-17",
-      "image": "https://ml.globenewswire.com/Resource/Download/f502ce49-8430-4dc2-ad51-845b1998b184",
-      "category": "currency"
-    },
-    {
-      "title": "OpenCage: Interview: Matthew Whilden on Mapping the Unexpected",
-      "description": "Today in our OpenStreetMap (OSM) interview series we are speaking with Matthew Whilden about his journey as an OSM mapper, his work supporting the community ...",
-      "url": "https://blog.opencagedata.com/post/openstreetmap-interview-watmildon",
-      "source": "Opencagedata.com",
-      "date": "2026-07-17",
-      "image": "https://blog.opencagedata.com/images/opencage-reverse-geocoding.png",
+      "image": "https://ml.globenewswire.com/Resource/Download/62ac934d-4d1c-4cf4-972e-3483da37f047",
       "category": "market"
     },
     {
-      "title": "The privacy watchdog hasn\u2019t forgotten Grok\u2019s sexualized deepfakes. Neither should you",
-      "description": "J.B. Branch is the director of Federal AI Governance and Technology Policy at Public Citizen.\nThe Office of the Privacy Commissioner of Canada delivered a remarkable rebuke to Elon Musk\u2019s companies last month.\nAfter investigating xAI and X, Privacy Commission\u2026",
-      "url": "https://biztoc.com/x/e1741850b0fb2a67",
-      "source": "Biztoc.com",
+      "title": "Live markets: Bitcoin slips to $63,000 as the chip rout goes global",
+      "description": "A deepening global selloff in chipmakers dragged risk assets lower, pulling bitcoin back from the $65,000 it reached on this week's soft inflation print.",
+      "url": "https://www.coindesk.com/markets/2026/07/17/live-markets-bitcoin-slips-to-usd63-000-as-the-chip-rout-goes-global",
+      "source": "CoinDesk",
       "date": "2026-07-17",
-      "image": "https://biztoc.com/cdn/e1741850b0fb2a67_s.webp",
-      "category": "central_bank"
-    },
-    {
-      "title": "Gay FBI Agent Was Fired for Displaying a Pride Flag (That the FBI Gave Him)",
-      "description": "A gay FBI agent was given a pride flag by the bureau in recognition of his work with LGBTQ+ employees. Then they fired him for displaying it.",
-      "url": "https://www.jezebel.com/gay-fbi-agent-fired-pride-flag-lawsuit-discovery-david-maltinsky-kash-patel-political-signage",
-      "source": "Jezebel",
-      "date": "2026-07-17",
-      "image": "https://img.pastemagazine.com/wp-content/juploads/2026/07/fbi-agent-pride-flag-unsplash-main.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Biden\u2019s climate law is dead. The energy transition might not be.",
-      "description": "A year after Trump repealed the Inflation Reduction Act, the outlook for climate action is dark. But there are silver linings.",
-      "url": "https://grist.org/energy/trump-inflation-reduction-act-big-beautiful-bil/",
-      "source": "Grist",
-      "date": "2026-07-17",
-      "image": "https://grist.org/wp-content/uploads/2026/07/Big-Beautiful-Bill-RESIZED.jpg?quality=75&strip=all",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/ec16b0d98820048d0801ef198a8c4e6ca1e6f687-4608x3456.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
       "category": "inflation"
     },
     {
-      "title": "Can opossums live in your roof?",
-      "description": "Can Opossums Live in Your Roof? Yes, unfortunately, opossums can and do live in roofs. This article delves into the reasons why, the dangers they pose, and how to prevent and remove these unwanted houseguests, ensuring a safe and opossum-free home. Understand\u2026",
-      "url": "https://www.lifesciencesworld.com/can-opossums-live-in-your-roof/",
-      "source": "Lifesciencesworld.com",
+      "title": "Xi Promises AI for All in Debut at China\u2019s Top Tech Summit",
+      "description": "China\u2019s Xi Jinping made his debut at the country's top tech summit, urging for more inclusive AI development.\nBut his presence alone conveys a potent signal of Beijing's ambitions in the AI field and global governance of the tech.\n----------\nLike this video? \u2026",
+      "url": "https://biztoc.com/x/88a02cb38d2ba578",
+      "source": "Biztoc.com",
       "date": "2026-07-17",
-      "image": null,
+      "image": "https://biztoc.com/cdn/88a02cb38d2ba578_s.webp",
       "category": "market"
     },
     {
-      "title": "Health Minister discusses strengthening burn treatment services in Nepal",
-      "description": "KATHMANDU: Minister for Health and Food Hygiene Nisha Mehta held discussions with health experts on improving burn treatment services in Nepal through healthcare worker capacity building, implementation of integrated treatment standards, and strengthening the\u2026",
-      "url": "https://english.khabarhub.com/2026/17/559032/",
-      "source": "Khabarhub.com",
+      "title": "At Delaney Hall, the struggle persists after cameras left",
+      "description": "Volunteers say conditions have worsened at the New Jersey detention facility since the hunger strike ended",
+      "url": "https://www.salon.com/2026/07/17/at-delaney-hall-the-struggle-persists-after-cameras-left/",
+      "source": "Salon",
       "date": "2026-07-17",
-      "image": "https://english.khabarhub.com/wp-content/uploads/2026/07/nisha-mehata-1-1.jpg",
+      "image": "https://www.salon.com/app/uploads/2026/07/delaney-hall-ice-protest-GettyImages-2278320289.jpg",
       "category": "market"
     },
     {
-      "title": "Broken Drone, Far from Home: The Case for Overseas Autonomous System Sustainment",
-      "description": "It\u2019s 2028, and the Fujian carrier strike group has just left Yulin, China, for an unknown destination. The U.S. Navy\u2019s \u201cHedge Strategy\u201d has let commanders disperse unmanned systems across regional choke points as forward-deployed scouts. But days before conta\u2026",
-      "url": "https://warontherocks.com/broken-drone-far-from-home-the-case-for-overseas-autonomous-system-sustainment/",
-      "source": "War on the Rocks",
+      "title": "Gold Heads for Second Weekly Drop as War Raises Fed Hike Fears",
+      "description": "Gold was on track for the biggest weekly loss since early June as renewed hostilities in the Middle East raised concerns that higher interest rates will be needed to contain war-driven inflation.",
+      "url": "https://financialpost.com/pmn/business-pmn/gold-heads-for-second-weekly-drop-as-war-raises-fed-hike-fears",
+      "source": "Financial Post",
       "date": "2026-07-17",
-      "image": "https://warontherocks.com/wp-content/uploads/wotr-og-images/wotr-og-45636-e8f1faea9d06.jpg",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/07/776458177-1.jpg",
       "category": "geopolitics"
     },
     {
-      "title": "Germany news: Macron and Merz lead bilateral cabinet talks",
-      "description": "Berlin and Paris are seeking to deepen security cooperation as ministers meet in western Germany. Meanwhile, a court is set to deliver its verdict on an alleged supporter of the far-right NSU terror group. DW has more. French and German ministers are meeting \u2026",
-      "url": "https://www.dw.com/en/germany-news-macron-and-merz-lead-bilateral-cabinet-talks/live-77998510",
-      "source": "DW (English)",
+      "title": "Gold trims weekly drop on dip-buying despite rate hike odds",
+      "description": "Gold trimmed its weekly loss as some investors bought on dips after the precious metal broke below a key price level. Find out more here",
+      "url": "https://financialpost.com/commodities/gold-trims-weekly-drop",
+      "source": "Financial Post",
       "date": "2026-07-17",
-      "image": "https://static.dw.com/image/77998050_6.jpg",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/07/0718-mg-gold.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Govt allows lawmakers to appoint personal secretaries",
+      "description": "Kathmandu, July 17: The government has reinstated a long-discontinued provision allowing members of the federal parliament to appoint personal secretaries, restoring a facility that lawmakers had sought for years. The Cabinet approved an amendment to the sche\u2026",
+      "url": "https://peoplesreview.com.np/2026/07/17/govt-allows-lawmakers-to-appoint-personal-secretaries/",
+      "source": "Peoplesreview.com.np",
+      "date": "2026-07-17",
+      "image": "https://peoplesreview.com.np/wp-content/uploads/2026/07/PM.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Trump\u2019s Formula for Forever Wars",
+      "description": "Spencer Ackerman on Sen. Lindsey Graham\u2019s warmongering legacy and next U.S. forever war in Iran.\nThe post Trump\u2019s Formula for Forever Wars appeared first on The Intercept.",
+      "url": "https://theintercept.com/2026/07/17/spencer-ackerman-lindsey-graham-iran-war/",
+      "source": "The Intercept",
+      "date": "2026-07-17",
+      "image": "https://theintercept.com/wp-content/uploads/2026/07/0716-Iran.jpg?fit=2000%2C1000&w=1200&h=800",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Rising AI Demand Drives Surge in Data Center Water Consumption, Reports Indicate",
+      "description": "AI Workloads Push Data Center Water Use to Nearly One Trillion Liters Annually The rapid expansion of artificial intelligence workloads has driven U.S. data center water consumption to nearly one trillion liters per year, according to industry reports and inv\u2026",
+      "url": "https://www.activistpost.com/rising-ai-demand-drives-surge-in-data-center-water-consumption-reports-indicate/",
+      "source": "Activistpost.com",
+      "date": "2026-07-17",
+      "image": "https://www.activistpost.com/wp-content/uploads/2026/07/ai-demand-data-center-water-consumption-cooling-systems-2542-original.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "The Supreme Court\u2019s Most Brazen Attack on Congress Yet",
+      "description": "The Supreme Court\u2019s end-of-term blockbuster cascade of\ndecisions marked new heights of the right-wing majority\u2019s lust for power over\nthe other two branches of government, especially Congress; its disdain for the text\nof laws and the Constitution and their Fra\u2026",
+      "url": "https://newrepublic.com/article/212943/worst-supreme-court-decision-landor",
+      "source": "The New Republic",
+      "date": "2026-07-17",
+      "image": "https://images.newrepublic.com/0103e8942fff185db694ac92a647e499c32c2f68.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
       "category": "market"
     }
   ],
@@ -459,7 +459,7 @@
       "platinum_usd_oz": 1614.14
     }
   ],
-  "timestamp": "2026-07-18T13:47:10.180285+05:30",
+  "timestamp": "2026-07-18T16:16:12.781019+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
