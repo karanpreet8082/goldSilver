@@ -54,7 +54,7 @@
         "hold": 29
       },
       "summary": "Gold is showing negative signals. Positive daily movement of 0.8%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-20T06:30:12.101419",
+      "timestamp": "2026-07-20T09:40:43.643260",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 50
       },
       "summary": "Silver is showing negative signals. Strong daily gain of 1.4%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-20T06:30:12.216138",
+      "timestamp": "2026-07-20T09:40:43.745183",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 50
       },
       "summary": "Platinum is showing negative signals. Strong daily gain of 1.9%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-20T06:30:12.313897",
+      "timestamp": "2026-07-20T09:40:43.847822",
       "source": "rule-based"
     }
   },
@@ -137,111 +137,165 @@
   },
   "news": [
     {
-      "title": "Global Market: ASML's AI-fuelled rally raises prospects of becoming Europe's first trillion-dollar company",
-      "description": "The artificial intelligence boom has propelled Dutch chip equipment maker ASML to become Europe's most valuable listed technology company, with investors increasingly betting it could become the continent's first trillion-dollar company. Strong AI-driven demand, a dominant position in advanced chipm",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-asmls-ai-fuelled-rally-raises-prospects-of-becoming-europes-first-trillion-dollar-company/articleshow/132507707.cms",
+      "title": "Global Market: Euro Zone firms see slower price and wage growth, ECB survey shows",
+      "description": "Euro zone companies expect slower growth in selling prices and wages over the next year, according to the ECB's latest survey, signalling that inflationary pressures remain contained despite higher energy costs. The findings strengthen expectations that the central bank may keep interest rates uncha",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-euro-zone-firms-see-slower-price-and-wage-growth-ecb-survey-shows/articleshow/132510738.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-07-20",
+      "image": "",
+      "category": "central_bank"
+    },
+    {
+      "title": "Global Market: German bond yields hit two-year high as oil surge fuels ECB rate hike bets",
+      "description": "German bond yields rose as oil prices increased amid U.S.-Iran tensions. This surge strengthened expectations for the European Central Bank to tighten monetary policy. Money markets now anticipate higher deposit rates by early 2027. Traders have fully priced in a rate hike at the ECB's upcoming Sept",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-german-bond-yields-hit-two-year-high-as-oil-surge-fuels-ecb-rate-hike-bets/articleshow/132509565.cms",
       "source": "Economic Times Markets",
       "date": "2026-07-20",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "Big tech earnings to test AI rally as markets enter crucial week",
-      "description": "Big Tech earnings from Alphabet, Tesla and Intel will test the AI rally as investors assess cloud growth, chip demand, capital spending, guidance and macro risks amid geopolitical tensions and rate uncertainty.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/big-tech-earnings-to-test-ai-rally-as-markets-enter-crucial-week/slideshow/132507486.cms",
+      "title": "Global Market: European shares dip as oil surge fuels inflation fears ahead of ECB meeting",
+      "description": "European shares dipped slightly as oil prices climbed due to escalating US-Iran tensions.  This surge revived inflation concerns and impacted investor sentiment ahead of key economic events.  Energy stocks performed well, while travel and leisure shares faced pressure from higher fuel costs.  Techno",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-dip-as-oil-surge-fuels-inflation-fears-ahead-of-ecb-meeting/articleshow/132509438.cms",
       "source": "Economic Times Markets",
       "date": "2026-07-20",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "Rupee weakens to two-month low as oil climbs; state-run banks cushion",
-      "description": "The Indian rupee reached its weakest point in two months on Monday.  Rising oil prices and Middle East hostilities pressured the currency's value.  State-run banks sold dollars, which helped to moderate the rupee's decline.  Higher crude prices can create macroeconomic turbulence for India's economy",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-weakens-to-two-month-low-as-oil-climbs-state-run-banks-cushion/articleshow/132507326.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-07-20",
-      "image": "",
-      "category": "currency"
-    },
-    {
-      "title": "PC Jeweller shares jump 6%: What\u2019s driving the rally after 220% gains in 3 years?",
-      "description": "PC Jeweller shares jumped about 6% after its board approved raising up to Rs 1,000 crore through a QIP, nearly reversing Friday\u2019s losses. The rebound also comes amid strong Q1 revenue growth and the company\u2019s progress toward becoming debt-free.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pc-jeweller-shares-jump-6-whats-driving-the-rally-after-220-gains-in-3-years/articleshow/132507054.cms",
+      "title": "India 10-year bond slumps to lowest in nearly a month as Middle East oil risks heat up",
+      "description": "Indian government bonds experienced a significant decline early Monday.  Escalating U.S.-Iran tensions pushed oil prices higher, impacting the rupee.  This situation prompted traders to reduce their positions in government bonds.  Higher crude prices strain India's import bill and government finance",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-10-year-bond-slumps-to-lowest-in-nearly-a-month-as-middle-east-oil-risks-heat-up/articleshow/132509213.cms",
       "source": "Economic Times Markets",
       "date": "2026-07-20",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "Who is in the World Cup halftime show? Full details and list of known performers for 2026 final",
-      "description": "There are many big names set to appear at MetLife Stadium during halftime of Argentina vs. Spain.",
-      "url": "https://www.sportingnews.com/us/soccer/news/world-cup-halftime-show-details-performers-2026-final/ecafd0b6389b49c2764d1094",
-      "source": "Sporting News",
+      "title": "Trump Slams New York Data Center Moratorium as 'Terrible Decision' While Bill Ackman Points to AI Race With China and Says, 'Democracy at Risk'",
+      "description": "On Wednesday, President Donald Trump, hedge fund billionaire Bill Ackman and entrepreneur Anthony Pompliano criticized New York\u2019s decision to temporarily hal...",
+      "url": "https://finance.yahoo.com/technology/ai/articles/trump-slams-york-data-center-003119930.html",
+      "source": "Yahoo Entertainment",
       "date": "2026-07-19",
-      "image": "https://s.yimg.com/lo/mysterio/api/c8f1bfe78a132c22a0249e1bdcd7af04ff8e45ec38ef840c51c1f9f83e2ca2eb/lightyear_networkapi/resizefill_w760_h427;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fe4bcc5c6d2f13f3731fd6cf9714e9c60",
+      "image": "https://s.yimg.com/lo/mysterio/api/B5FFA811BC4234FDC2FF32045639CCED4913E3A6A4715B0903D0CB6799F74486/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F0b7fe114314a5be277ccdabb52837349",
       "category": "market"
     },
     {
-      "title": "The FIFA World Cup Halftime Show Breaks A Longstanding Tradition",
-      "description": "For 96 years, the FIFA World Cup final has observed the same halftime tradition: fifteen minutes of punditry, tactical analysis and players regrouping in the tunnel. On July 19, that changes.",
-      "url": "https://www.forbes.com/sites/hannahabraham/2026/07/19/the-fifa-world-cup-halftime-show-breaks-a-longstanding-tradition/",
-      "source": "Forbes",
-      "date": "2026-07-19",
-      "image": "https://s.yimg.com/lo/mysterio/api/c88b4c7015b7cf68e720ff2b11c473df00cc15dfaf78ad35e4eb69c1a531183a/lightyear_networkapi/resizefill_w960_h640;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F502b50133474e48d802e568e7b711461",
-      "category": "market"
-    },
-    {
-      "title": "London Landlords Head for the Exit as Rent Laws Deal Final Blow",
-      "description": "Landlords in the UK have been feeling the squeeze for a decade. For many, new legislation designed to strengthen the rights of tenants is the final straw.",
-      "url": "https://financialpost.com/pmn/business-pmn/london-landlords-head-for-the-exit-as-rent-laws-deal-final-blow",
-      "source": "Financial Post",
-      "date": "2026-07-19",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/07/uk-renters-rights-act-explained-the-first-phase-came-into-e.jpg",
-      "category": "market"
-    },
-    {
-      "title": "\u2018Good growth in every postcode\u2019: Burnham\u2019s economic to-do list in seven charts",
-      "description": "From industrial strategy and defence to housing and living costs, we lay out the challenges facing the new PM\nAndy Burnham becomes prime minister as Britain contends with a series of global economic shocks and years of weak growth in living standards, fuelled\u2026",
-      "url": "https://biztoc.com/x/12f4b031a8fcd7f4",
-      "source": "Biztoc.com",
-      "date": "2026-07-19",
-      "image": "https://biztoc.com/cdn/12f4b031a8fcd7f4_s.webp",
-      "category": "market"
-    },
-    {
-      "title": "Singtel Receives Four Frost & Sullivan 2026 Recognitions for Leadership in Enterprise Connectivity, Cybersecurity, and Digital Transformation",
-      "description": "The recognitions highlight Singtel's leadership in secure connectivity, network transformation, IoT innovation, and cybersecurity, delivering customer value through intelligent digital infrastructure and AI-enabled enterprise services. SAN ANTONIO, July 19, 2\u2026",
-      "url": "https://www.prnewswire.com/news-releases/singtel-receives-four-frost--sullivan-2026-recognitions-for-leadership-in-enterprise-connectivity-cybersecurity-and-digital-transformation-302829114.html",
-      "source": "PRNewswire",
-      "date": "2026-07-19",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "Andrew and Tristan Tate counting on Trump's support despite sickening new charges, as lawyer reveals why the president will back the brothers in fighting extradition to the UK",
-      "description": "The pending charges in the UK accuse Andrew, 39, and Tristan, 37, of abusing women between July 2010 and August 2017, which they deny.",
-      "url": "https://www.dailymail.com/news/article-15988199/andrew-tristan-tate-trump-extradition-miami.html",
-      "source": "Dailymail.com",
-      "date": "2026-07-19",
-      "image": "https://i.dailymail.com/1s/2026/07/19/06/110109637-0-image-m-25_1784440089777.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Middle East re-escalation: worrying implications for investors \u2013 and Andy Burnham",
-      "description": "Rising oil prices are spooking investors on both sides of the Atlantic",
-      "url": "https://theweek.com/business/markets/middle-east-re-escalation-worrying-implications-for-investors-and-andy-burnham",
-      "source": "The Week Magazine",
-      "date": "2026-07-19",
-      "image": "https://cdn.mos.cms.futurecdn.net/xZpR3YV4N5TCpjLvhXLbRX-2000-80.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Markets to track Q1 earnings, West Asia developments, crude oil this week",
-      "description": "This week, markets will focus on Q1 earnings, West Asia developments, and crude oil prices' impact on trading.",
-      "url": "https://www.thehindubusinessline.com/markets/markets-to-track-q1-earnings-west-asia-developments-crude-oil-this-week/article71240779.ece",
+      "title": "Panel on SEZ policy reforms to soon submit its report: Official",
+      "description": "The committee will recommend short-term, medium-term and long-term policy, legal and procedural reforms, including possible amendments to the SEZ Act/Rules, and suggest an implementation roadmap with clear timelines",
+      "url": "https://www.thehindubusinessline.com/economy/panel-on-sez-policy-reforms-to-soon-submit-its-report-official/article71241038.ece",
       "source": "BusinessLine",
       "date": "2026-07-19",
-      "image": "https://bl-i.thgim.com/public/incoming/sruc3a/article71240792.ece/alternates/LANDSCAPE_1200/Markets-up-1_-aGSBG90M79.3.jpg.jpg",
+      "image": "https://bl-i.thgim.com/public/todays-paper/tp-news/fswc8g/article70554356.ece/alternates/LANDSCAPE_1200/Markets-eye-capGOCFG8LAU.4.jpg.jpg",
+      "category": "market"
+    },
+    {
+      "title": "$6 for a Coke. $2,600 for an iPhone: Here's where everyday items cost the most.",
+      "description": "Everyday life \u2014 from a bottle of soda to rent for a one bedroom \u2014 costs the most in these cities.",
+      "url": "https://www.businessinsider.com/world-most-expensive-cities-everday-items-rent-food-iphone-switzerland-2026-7#article",
+      "source": "Business Insider",
+      "date": "2026-07-19",
+      "image": "https://i.insider.com/6a599007ce52cb26b83905a4?width=1200&format=jpeg",
+      "category": "market"
+    },
+    {
+      "title": "Ginsburg and Biden\u2019s blind spot: when leaders don\u2019t know when to leave",
+      "description": "I have spent much of my working life among entrepreneurs and business leaders wrestling with a deceptively simple question: when is it time to let go? Twenty-seven years ago, I founded TIGER 21, the premier global peer network of some of the world\u2019s most succ\u2026",
+      "url": "https://biztoc.com/x/15b3c696bbe17810",
+      "source": "Biztoc.com",
+      "date": "2026-07-19",
+      "image": "https://biztoc.com/cdn/15b3c696bbe17810_s.webp",
+      "category": "market"
+    },
+    {
+      "title": "World Cup 2026 final: Closing ceremony and half-time show \u2013 what to know",
+      "description": "Spain face Argentina in the 2026 World Cup final as musicians perform before kickoff and during the half-time break.",
+      "url": "https://www.aljazeera.com/sports/2026/7/19/world-cup-2026-final-closing-ceremony-and-half-time-show-what-to-know",
+      "source": "Al Jazeera English",
+      "date": "2026-07-19",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-05-07T230320Z_1348142667_RC2L4LAARRM1_RTRMADP_3_SOCCER-WORLD-CUP-USA-1784284523.jpg?resize=1920%2C1440",
+      "category": "market"
+    },
+    {
+      "title": "Divyanka Tripathi and Vivek Dahiya host first Satyanarayan Puja after welcoming \u2018twins\u2019, share heartfelt family moments",
+      "description": "Divyanka Tripathi and Vivek Dahiya recently held a Satyanarayan Puja at their home. This special ritual marked the first puja after the arrival of their twins. The couple shared glimpses of the devotional ceremony and family moments on YouTube. They also refl\u2026",
+      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/divyanka-tripathi-and-vivek-dahiya-host-first-satyanarayan-puja-after-welcoming-twins-share-heartfelt-family-moments/articleshow/132492408.cms",
+      "source": "The Times of India",
+      "date": "2026-07-19",
+      "image": "https://static.toiimg.com/thumb/msid-132492389,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Why we cannot abandon GDP and what the world can do to improve its utility as a statistical gauge",
+      "description": "Gross domestic product (GDP) has been long criticized for its inadequacy in measuring economic activity or welfare. True, it is imperfect. But it is too deeply embedded in the institutional architecture of governments, markets and global organizations to drop.",
+      "url": "https://www.livemint.com/opinion/online-views/abandon-gdp-statistical-gauge-sna-system-of-national-accounts-gross-domestic-product-11784210888983.html",
+      "source": "Livemint",
+      "date": "2026-07-19",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/19/1600x900/logo/gdp_map_1784447342857_1784447347323_80b98ce6-8550-4194-bfa2-c3ca40c3a507.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Victor Wembanyama explains what it would take for USA to become a \u2018problem\u2019 in soccer",
+      "description": "The USMNT saw their 2026 World Cup campaign end in disappointment following a great start. Mauricio Pochettino\u2019s side dominated their group and had secured qualification to the knockout round after just two games.",
+      "url": "https://www.hitc.com/victor-wembanyama-explains-what-it-would-take-for-usa-to-become-a-problem-in-soccer/",
+      "source": "HITC - Football, Gaming, Movies, TV, Music",
+      "date": "2026-07-19",
+      "image": "https://s.yimg.com/ny/api/res/1.2/biTII1I_JdMhGJRlKJZvog--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/hitc_articles_832/1a02242de561bec072d8860559810053",
+      "category": "market"
+    },
+    {
+      "title": "Scott Bessent: US to control 80% of global compute power soon",
+      "description": "Treasury Secretary Scott Bessent claims the US will soon control 80% of global compute power, up from 60%, asserting AI dominance over China.\nThe post Scott Bessent: US to control 80% of global compute power soon appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/bessent-us-80-percent-global-compute-power/",
+      "source": "Crypto Briefing",
+      "date": "2026-07-19",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/19051957/us-treasury-secretary-scott-bessent-looking-while-president--3-800x420.jpeg",
+      "category": "market"
+    },
+    {
+      "title": "How the U.S. Constitution was designed with respect for \u2018a degree of depravity in mankind\u2019",
+      "description": "A 1786 tax revolt by farmers helped push Hamilton, Madison and Jay to argue for a constitution that assumed the worst of human nature, not the best.",
+      "url": "https://fortune.com/2026/07/19/federalist-papers-250th-anniversary-founders-depravity/",
+      "source": "Fortune",
+      "date": "2026-07-19",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2285445594-e1784392047361.jpg?resize=1200,600",
+      "category": "market"
+    },
+    {
+      "title": "\u2018Withdraw backdoor social media shutdown bill or face legal action\u2019, SERAP tells Akpabio, Abbas",
+      "description": "Socio-Economic Rights and Accountability Project (SERAP) has urged the Senate President, Senator Godswill Akpabio, and the Speaker of the House of Representatives, Tajudeen Abbas to \u201cimmediately reject and withdraw the Nigeria Data Protection (Amendment) Bill\u2026",
+      "url": "https://www.vanguardngr.com/2026/07/withdraw-backdoor-social-media-shutdown-bill-or-face-legal-action-serap-tells-akpabio-abbas/",
+      "source": "Vanguard",
+      "date": "2026-07-19",
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2025/03/MixCollage-18-Aug-2024-10-03-AM-3707.webp",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Divorce as SHTF: Documents, Accounts, and Getting Out Intact",
+      "description": "Divorce as SHTF: Documents, Accounts, and Getting Out Intact\nShe\u2019s been planning this since last October. Talked to a lawyer in the spring. Copied the tax returns in June. Knows what\u2019s in the 401k, knows what the house appraises for, knows which credit card h\u2026",
+      "url": "https://offgridsurvival.com/divorce-as-shtf-documents-accounts-and-getting-out-intact/",
+      "source": "Offgridsurvival.com",
+      "date": "2026-07-19",
+      "image": "https://offgridsurvival.com/wp-content/themes/church_10/images/2026/07/divorce.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Poilievre names Conservatives' point person on the Alberta referendum",
+      "description": "Conservative leader Pierre Poilievre has tapped Alberta MP Dane Lloyd to serve as the party's referendum lead for Alberta, as the province prepares to vote on a question related to separation this fall.",
+      "url": "https://www.cbc.ca/news/canada/calgary/dane-lloyd-conservative-referendum-lead-alberta-9.7275791",
+      "source": "CBC News",
+      "date": "2026-07-19",
+      "image": "https://i.cbc.ca/ais/3e8e589a-4a31-4ead-9b5d-94ee346506e2,1784473054504/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C506%2C8221%2C4624%29%3BResize%3D620",
+      "category": "market"
+    },
+    {
+      "title": "40 Million People, One Dying River: The Biggest Water Disaster in America Is Coming",
+      "description": "40 Million People, One Dying River: The Biggest Water Disaster in America Is Coming\n40 million people drink from a river running dry before it reaches the sea. Lake Mead and Powell are at record lows and the 2026 deadline is coming. Here's the whole crisis, a\u2026",
+      "url": "https://offgridsurvival.com/40-million-people-one-dying-river-the-biggest-water-disaster-in-america-is-coming/",
+      "source": "Offgridsurvival.com",
+      "date": "2026-07-19",
+      "image": "https://offgridsurvival.com/wp-content/themes/church_10/images/2026/07/nomorelakemead.jpg",
       "category": "market"
     },
     {
@@ -260,60 +314,6 @@
       "source": "JNS.org",
       "date": "2026-07-19",
       "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/134844180.jpg?quality=75&strip=all&w=1200",
-      "category": "market"
-    },
-    {
-      "title": "Liberals in damage control as senior MP distances himself from party president Tony Abbott's fresh claims about multiculturalism: 'I don't agree'",
-      "description": "The NSW senator made a clear distinction between Tony Abbott's comments and the Liberal Party's support for multiculturalism.",
-      "url": "https://www.dailymail.com/news/article-15988235/andrew-bragg-tony-abbott-multiculturalism-Liberals.html",
-      "source": "Dailymail.com",
-      "date": "2026-07-19",
-      "image": "https://i.dailymail.com/1s/2026/07/19/05/110110911-0-image-a-33_1784435408321.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Meet the candidates in one of WA's most closely watched political contests",
-      "description": "The Secret Harbour by-election is shaping up as one of the most closely-watched political contests in WA for some time. Here's everything you need to know about the candidates and how to vote.",
-      "url": "https://www.abc.net.au/news/2026-07-19/who-are-the-candidates-in-the-secret-harbour-byelection/106931742",
-      "source": "ABC News (AU)",
-      "date": "2026-07-19",
-      "image": "https://live-production.wcms.abc-cdn.net.au/92c7ca72426f2f980a9349a61cd06b89?impolicy=wcms_watermark_news&cropH=2250&cropW=4000&xPos=0&yPos=400&width=862&height=485&imformat=generic",
-      "category": "market"
-    },
-    {
-      "title": "\u2018He does what his boss says\u2019: Trump\u2019s undiplomatic diplomat stirs it up for Maga in Ireland",
-      "description": "Ambassador Ed Walsh is making a mark after one year in the role, and has Irish leaders wondering what he will say or do next",
-      "url": "https://www.irishtimes.com/politics/2026/07/19/he-does-what-his-boss-says-trumps-undiplomatic-diplomat-stirs-it-up-for-maga-in-ireland/",
-      "source": "The Irish Times",
-      "date": "2026-07-19",
-      "image": "https://www.irishtimes.com/resizer/v2/MXHBSAIDBBBAVJDIV42RECEUKQ.jpg?smart=true&auth=6c11fae5e6164433d170b94f91126dd4f735b2eee9b3f77bce7c2a4a26debc43&width=1200&height=630",
-      "category": "market"
-    },
-    {
-      "title": "Strange Things Are Happening",
-      "description": "Photo Credit:\n \n Clarice FBy Clarice FeldmanOn one hand, we are winning the war with Iran.\u00a0On the other hand, the Vice President seems to be at odds with the administration.",
-      "url": "https://www.americanthinker.com/articles/2026/07/strange-things-are-happening/",
-      "source": "Americanthinker.com",
-      "date": "2026-07-19",
-      "image": "https://images.americanthinker.com/65/65iw6uyrf4bso7q2hlmk_1200.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "India-UK ties expected to stay the course with Andy Burnham as new PM",
-      "description": "Incoming British Prime Minister Andy Burnham is expected to continue strong India-UK ties, with his govt building upon the Comprehensive Economic and Trade Agreement's recent entry into force.  Experts see a deepening of bilateral defence and strategic cooper\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/india-uk-ties-expected-to-stay-the-course-with-andy-burnham-as-new-pm/articleshow/132489658.cms",
-      "source": "The Times of India",
-      "date": "2026-07-19",
-      "image": "https://img.etimg.com/thumb/msid-132489676,width-1200,height-630,imgsize-147940,overlay-economictimes/articleshow.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Economic Digest: A Snapshot of Nepal\u2019s Business News",
-      "description": "KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. Nepal\u2019s latest economic and policy developments present a mixed picture of progress and persistent stru\u2026",
-      "url": "https://english.khabarhub.com/2026/19/559209/",
-      "source": "Khabarhub.com",
-      "date": "2026-07-19",
-      "image": "https://english.khabarhub.com/wp-content/uploads/2024/05/Economic-Digest.jpg",
       "category": "market"
     },
     {
@@ -459,7 +459,7 @@
       "platinum_usd_oz": 1614.14
     }
   ],
-  "timestamp": "2026-07-20T12:00:12.327470+05:30",
+  "timestamp": "2026-07-20T15:10:43.854772+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
