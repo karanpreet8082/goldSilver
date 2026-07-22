@@ -54,7 +54,7 @@
         "hold": 29
       },
       "summary": "Gold is showing negative signals. Positive daily movement of 0.8%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-22T06:08:47.821616",
+      "timestamp": "2026-07-22T09:06:59.112017",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 50
       },
       "summary": "Silver is showing negative signals. Strong daily gain of 1.4%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-22T06:08:47.900079",
+      "timestamp": "2026-07-22T09:06:59.187192",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 50
       },
       "summary": "Platinum is showing negative signals. Strong daily gain of 1.9%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-22T06:08:47.976209",
+      "timestamp": "2026-07-22T09:06:59.295883",
       "source": "rule-based"
     }
   },
@@ -137,13 +137,13 @@
   },
   "news": [
     {
-      "title": "US Stock Market: Goldman Sachs launches new private markets platform to expand offerings for wealthy clients",
-      "description": "Goldman Sachs has launched a new platform to expand private market offerings.  Investor demand for access to privately held companies continues to grow.  This initiative caters to affluent investors seeking exposure to high-growth startups.  The bank is combining existing businesses to create a dedi",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-goldman-sachs-launches-new-private-markets-platform-to-expand-offerings-for-wealthy-clients/articleshow/132551491.cms",
+      "title": "Explained: What Donald Trump's up to 200% pharma tariffs mean for Indian investors",
+      "description": "Donald Trump's announcement of tariffs of up to 200% on pharmaceutical imports triggered a selloff in Indian pharma stocks. However, analysts believe the long-term impact could be limited, citing India's manufacturing cost advantage, US-based production facilities of several drugmakers and uncertain",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/explained-what-donald-trumps-up-to-200-pharma-tariffs-mean-for-indian-investors/articleshow/132554271.cms",
       "source": "Economic Times Markets",
       "date": "2026-07-22",
       "image": "",
-      "category": "supply_demand"
+      "category": "geopolitics"
     },
     {
       "title": "US Dollar Softens, Metals Generally Rise, SHFE Copper, Tin, Nickel Up Over 1%, Gold, Silver, Platinum, Palladium All Surge, SHFE Silver Up Nearly 5% [SMM Midday Review] - Shanghai Metals Market",
@@ -153,6 +153,33 @@
       "date": "2026-07-22",
       "image": "",
       "category": "currency"
+    },
+    {
+      "title": "Moonshot AI Raises Red Flags In The AI Industry",
+      "description": "Moonshot AI, a Chinese company, just released AI model Kimi K3. Kimi K3 is a 2.8 trillion-parameter open-source AI model that the company claims is the largest ever built. With Kimi K3, Moonshot AI believes it can compete with Claude Opus 4.8 and GPT-5.5 acro\u2026",
+      "url": "https://realinvestmentadvice.com/resources/blog/moonshot-ai-raises-red-flags-in-the-ai-industry/",
+      "source": "Realinvestmentadvice.com",
+      "date": "2026-07-21",
+      "image": "https://realinvestmentadvice.com/wp-content/uploads/2024/04/730_x_410_Daily_Market_Commentary_Header.png",
+      "category": "market"
+    },
+    {
+      "title": "Should I sell gold to buy a second home, or is it better to pledge it?",
+      "description": "ET Wealth Reader's Query: I am 45, and want to buy a holiday home, or what may be called a second home. I do not have any major financial commitments apart from my two daughters\u2019 education. I have also been investing through Systematic Investment plans (SIPs)\u2026",
+      "url": "https://economictimes.indiatimes.com/wealth/spend/should-i-sell-gold-to-buy-a-second-home-or-is-it-better-to-pledge-it/articleshow/132529860.cms",
+      "source": "The Times of India",
+      "date": "2026-07-21",
+      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-220781,resizemode-75,msid-132529860/wealth/spend/should-i-sell-gold-to-buy-a-second-home-or-is-it-better-to-pledge-it.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "Gold rate today (July 21, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from Joyalukkas, Kalyan Jewellers, Malabar Gold & Diamonds, Tanishq & IBJA in Delhi, Mumbai, Hyderabad, other cities",
+      "description": "Gold rate: Gold prices saw an increase across major Indian cities on Tuesday, July 21, 2026. The India Bullion and Jewellers Association also noted an upward trend in gold rates. Consumers planning purchases should verify current rates before buying.",
+      "url": "https://economictimes.indiatimes.com/wealth/invest/gold-rate-today-july-21-2026-check-24k-22k-20k-and-18k-gold-jewellery-prices-from-joyalukkas-kalyan-jewellers-malabar-gold-diamonds-tanishq-ibja-in-delhi-mumbai-hyderabad-other-cities/articleshow/132530249.cms",
+      "source": "The Times of India",
+      "date": "2026-07-21",
+      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1676687,resizemode-75,msid-132530249/wealth/invest/gold-rate-today-july-21-2026-check-24k-22k-20k-and-18k-gold-jewellery-prices-from-joyalukkas-kalyan-jewellers-malabar-gold-diamonds-tanishq-ibja-in-delhi-mumbai-hyderabad-other-cities.jpg",
+      "category": "geopolitics"
     },
     {
       "title": "Rs 1 lakh investment turns into Rs 3.57 lakh in gold bonds: SGB 2019-20 Series premature redemption date today, check if you need to pay capital gains tax",
@@ -182,22 +209,13 @@
       "category": "market"
     },
     {
-      "title": "Economic Digest: A Snapshot of Nepal\u2019s Business News",
-      "description": "KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. Nepal\u2019s latest economic developments present a cautiously optimistic outlook, with stronger investor co\u2026",
-      "url": "https://english.khabarhub.com/2026/21/559521/",
-      "source": "Khabarhub.com",
+      "title": "Reserve Transparency Built Through Continuous Operation: Matrixdock Marks Two Years of Independent Verification",
+      "description": "Reserve Transparency Built Through Continuous Operation: Matrixdock Marks Two Years of Independent Verification",
+      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/reserve-transparency-built-through-continuous-operation-matrixdock-marks-two-years-of-independent-verification/article71248604.ece",
+      "source": "BusinessLine",
       "date": "2026-07-21",
-      "image": "https://english.khabarhub.com/wp-content/uploads/2024/05/Economic-Digest.jpg",
+      "image": "https://bl-i.thgim.com/public/incoming/xqv4yq/article71248602.ece/alternates/LANDSCAPE_1200/image1.jpg",
       "category": "market"
-    },
-    {
-      "title": "FY26 Group production guidance delivered, record cashflow and maiden dividend proposed",
-      "description": "PERTH, Australia, July 20, 2026 (GLOBE NEWSWIRE) -- Alkane Resources Limited (ASX:ALK; TSX:ALK; OTCQX:ALKRY) (\u2018Alkane\u2019 or \u2018the Company\u2019) is pleased to present its Quarterly Activities Report for the period ending 30 June 2026 (\u2018Q4 FY26\u2019):",
-      "url": "https://apnews.com/press-release/globenewswire-mobile/press-release-4e4bcdeac0da5523168fb87d31fb958e",
-      "source": "Associated Press",
-      "date": "2026-07-21",
-      "image": "https://dims.apnews.com/dims4/default/d98fb7e/2147483647/strip/true/crop/671x447+265+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe8%2F7c%2F643ada93ef5bc0cd803f3ae8ced3%2F8669cd87e377500dcace527a1d1bf66a",
-      "category": "supply_demand"
     },
     {
       "title": "Gold prices rise by Rs 1,000/10g, silver up Rs 3,100/kg on hopes of Iran peace talks. Key levels to watch today",
@@ -218,148 +236,130 @@
       "category": "metals"
     },
     {
-      "title": "Attackers Exploit Critical ServiceNow RCE Flaw CVE-2026-6875",
-      "description": "Attackers are exploiting critical ServiceNow flaw CVE-2026-6875, allowing unauthenticated remote code execution on self-hosted instances. Searchlight Cyber researchers disclosed a critical pre-authentication remote code execution vulnerability, tracked as CVE\u2026",
-      "url": "https://securityaffairs.com/195723/ai/attackers-exploit-critical-servicenow-rce-flaw-cve-2026-6875.html",
-      "source": "Securityaffairs.com",
+      "title": "EUV Machinery To Remain Paramount For China\u2019s Commercial Chip Rise, Says Zeiss CEO, Doesn\u2019t Believe Multi-Patterning Approach With Low Yields Is Viable Long-Term",
+      "description": "One of the more interesting conversations is how China is managing its chipmaking endeavors with the U.S. export controls in place that bar the country from getting its hands on cutting-edge EUV equipment from Dutch manufacturer ASML. This massive roadblock h\u2026",
+      "url": "https://wccftech.com/zeiss-ceo-says-china-commercial-chip-cannot-happen-without-euv/",
+      "source": "Wccftech",
       "date": "2026-07-21",
-      "image": "https://securityaffairs.com/wp-content/uploads/2026/07/image-60.png",
+      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/SMICs-DUV-equipment.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "FTSE 100 Steadies Near 10,528 as Global Tech Rebound Offsets Weak UK Jobs Data and Burnhams New Agenda",
+      "description": "The FTSE 100 index remained stable as global tech stocks rebounded, offsetting weak UK employment data. New PM Andy Burnham's cost-of-living measures and geopolitical tensions also influenced market sentiment.",
+      "url": "https://www.ibtimes.com.au/ftse-100-steady-global-tech-rebound-uk-economic-uncertainty-1872695",
+      "source": "Ibtimes.com.au",
+      "date": "2026-07-21",
+      "image": "https://d.ibtimes.com.au/en/full/1893563/ftse-100-top-gainers-bp-leads-316-surge-oil.png",
+      "category": "geopolitics"
+    },
+    {
+      "title": "All3Media International\u2019s Jonathan Hughes Exits For ITV Studios After Banijay Merger",
+      "description": "Another senior All3Media International exec is exiting following the Midsomer Murder seller\u2019s merger with Banijay. Jonathan Hughes is joining ITV Studios (ITVS) after ten years at All3Media International, and will take on the role of Vice President, Germany a\u2026",
+      "url": "http://deadline.com/2026/07/all3media-international-sales-exit-itv-studios-post-merger-1236999084/",
+      "source": "Deadline",
+      "date": "2026-07-21",
+      "image": "https://deadline.com/wp-content/uploads/2026/07/Jonathan-Hughes.jpg?w=1024",
       "category": "market"
     },
     {
-      "title": "The geopolitics of AI: Why WAICO matters",
-      "description": "China's formation of the World Artificial Intelligence Cooperation Organization marks a pivotal moment in the global AI landscape, marking the likely beginning of new alignments among nations. Developing countries might lean towards China's affordable open-so\u2026",
-      "url": "https://economictimes.indiatimes.com/opinion/et-commentary/the-geopolitics-of-ai-why-waico-matters/articleshow/132528944.cms",
+      "title": "UK Lawmakers Launch Inquiry Into Crypto Banking Access",
+      "description": "A cross-party group is examining why UK banks block accounts and payments for crypto firms\u2014and whether it's holding the sector back.",
+      "url": "https://decrypt.co/373910/uk-lawmakers-launch-inquiry-into-crypto-banking-access",
+      "source": "Decrypt",
+      "date": "2026-07-21",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/07/uk-houses-of-parliament-big-ben-decrypt-style-02-gID_7.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Mercantile Bank Corporation Announces Strong Second Quarter 2026 Results",
+      "description": "Net interest income expansion, strong commercial loan growth, and sustained strength in asset quality metrics and capital levels highlight the quarter GRAND RAPIDS, Mich., July 21, 2026 /PRNewswire/ -- Mercantile Bank Corporation (NASDAQ: MBWM) (\"Mercantile\")\u2026",
+      "url": "https://www.prnewswire.com/news-releases/mercantile-bank-corporation-announces-strong-second-quarter-2026-results-302829894.html",
+      "source": "PRNewswire",
+      "date": "2026-07-21",
+      "image": "https://mmx.prnewswire.com/media/MS1078897/Mercantile-Bank-Corporation-Logo-Logo-Logo.jpg?id=OA2772246&p=facebook",
+      "category": "market"
+    },
+    {
+      "title": "lcsc-toolkit added to PyPI",
+      "description": "Unofficial Python client for LCSC with product search and authenticated order history",
+      "url": "https://pypi.org/project/lcsc-toolkit/",
+      "source": "Pypi.org",
+      "date": "2026-07-21",
+      "image": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+      "category": "market"
+    },
+    {
+      "title": "Indonesia urges ASEAN to deliver tangible benefits, stability",
+      "description": "Indonesian Foreign Affairs Minister Sugiono urged ASEAN to maintain its credibility by delivering development that produces tangible benefits for people while ...",
+      "url": "https://en.antaranews.com/news/423484/indonesia-urges-asean-to-deliver-tangible-benefits-stability",
+      "source": "Antaranews.com",
+      "date": "2026-07-21",
+      "image": "https://cdn.antaranews.com/cache/1200x800/2026/07/21/17846100606a5efd0ce90cd_WhatsApp_Image_2026_07_21_at_11_47_56.jpeg",
+      "category": "market"
+    },
+    {
+      "title": "LIZ PEEK: The Trump economy is doing better than the media want to admit",
+      "description": "Real wages are rising and income inequality is shrinking under Trump, yet 61% of Americans remain pessimistic about the economy's direction.",
+      "url": "https://www.foxnews.com/opinion/liz-peek-trump-economy-doing-better-media-admit",
+      "source": "Fox News",
+      "date": "2026-07-21",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/trump-accounts.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Crypto, AI, and AIPAC Super PACs Are Spending in Lockstep Against Progressives",
+      "description": "David Moore\n\n\n\nUnprecedented sums are being spent on Democratic primaries, reshaping races while keeping their policy agendas largely out of public view.\r\n\n\r\n\n\nThe post Crypto, AI, and AIPAC Super PACs Are Spending in Lockstep Against Progressives appeared fi\u2026",
+      "url": "https://www.thenation.com/?post_type=article&p=604532",
+      "source": "Thenation.com",
+      "date": "2026-07-21",
+      "image": "https://www.thenation.com/wp-content/uploads/2025/12/Super-PACs-Citizens-United.jpg",
+      "category": "market"
+    },
+    {
+      "title": "This Is How We Close the Camps",
+      "description": "John Washington\n\n\n\nUntil we, as a society, reject the camp and its logic, it will remain a threat\u2014and the linchpin in the entire immigration enforcement regime.\r\n\n\r\n\n\nThe post This Is How We Close the Camps appeared first on The Nation.",
+      "url": "https://www.thenation.com/?post_type=article&p=604605",
+      "source": "Thenation.com",
+      "date": "2026-07-21",
+      "image": "https://www.thenation.com/wp-content/uploads/2026/07/detention-camp-getty.jpg",
+      "category": "market"
+    },
+    {
+      "title": "A homeless man was charged with a felony for camping. He's one of the first",
+      "description": "When Joseph Lamont Williams refused to leave the public park where he has lived for years, he was charged with a felony. Camping bans are on the rise as states seek to crack down on homelessness.<br>",
+      "url": "https://www.npr.org/2026/07/21/nx-s1-5887358/tennessee-homeless-arrest-felony-camping-ban",
+      "source": "NPR",
+      "date": "2026-07-21",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5304x2984+0+1915/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcb%2Fb0%2F5edde377471694b42276d4fad0e9%2Fnpr-071026-josephwilliams-1-8.JPG",
+      "category": "market"
+    },
+    {
+      "title": "A Deloitte-Run System Denied Medicaid Benefits for Michigan\u2019s Disabled. Now Trump\u2019s Law Piles On.",
+      "description": "Complex computer systems that decide whether people, including the disabled, get Medicaid benefits have a history of errors. Now changes to comply with Trump\u2019s signature tax and domestic policy law are inundating those systems.",
+      "url": "https://kffhealthnews.org/health-industry/deloitte-medicaid-eligibility-system-denials-michigan-trump-policy-piles-on/",
+      "source": "Kffhealthnews.org",
+      "date": "2026-07-21",
+      "image": "https://kffhealthnews.org/wp-content/uploads/sites/8/2026/07/MI_Medicaid_06.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Leadership Vacuum: Agencies in New York and Beyond Pass the Buck on Opioid Cash Oversight",
+      "description": "The opioid settlements are a multibillion-dollar windfall with only loose spending suggestions rather than strict requirements. Some people directly affected by the crisis want stronger guardrails. But New York state\u2019s experience highlights the challenge in f\u2026",
+      "url": "https://kffhealthnews.org/public-health/opioid-settlement-funds-leadership-vacuum-disbursement-oversight-new-york/",
+      "source": "Kffhealthnews.org",
+      "date": "2026-07-21",
+      "image": "https://kffhealthnews.org/wp-content/uploads/sites/8/2026/07/NY-oversight-03_3840x2560web.jpg",
+      "category": "currency"
+    },
+    {
+      "title": "Dollar wavers as markets grapple with Gulf tensions",
+      "description": "The US dollar hovered near a one-week high as investors weighed escalating Middle East tensions against hopes for a ceasefire. Concerns over energy supplies supported the greenback, while the yen and euro remained largely steady. The British pound edged highe\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dollar-wavers-as-markets-grapple-with-gulf-tensions/articleshow/132532065.cms",
       "source": "The Times of India",
       "date": "2026-07-21",
-      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-76478,resizemode-75,msid-132528944/opinion/et-commentary/the-geopolitics-of-ai-why-waico-matters.jpg",
+      "image": "https://img.etimg.com/thumb/msid-132532128,width-1200,height-630,imgsize-201132,overlay-etmarkets/articleshow.jpg",
       "category": "geopolitics"
-    },
-    {
-      "title": "Nordea: Strong shipping finance activity expected in H2",
-      "description": "Nordea\u2019s shipping finance division expects lending activity to strengthen during the year, driven by new client relationships and financing for newbuild vessels.\nThe bank\u2019s shipping loan portfolio remained broadly stable\u2026\nNordea: Strong shipping finance activ\u2026",
-      "url": "https://www.naftemporiki.gr/english/2140401/nordea-strong-shipping-finance-activity-expected-in-h2/",
-      "source": "Naftemporiki.gr",
-      "date": "2026-07-21",
-      "image": "https://www.naftemporiki.gr/wp-content/uploads/2026/07/Thor-Erik-Bech.jpg",
-      "category": "market"
-    },
-    {
-      "title": "All the winners of the Engine of the Year award - does your car have one?",
-      "description": "From a frugal 1.0-litre to a mighty 3.9-litre V8, here\u2019s a list of the overall winners of the International Engine of the Year trophy\n\nStart your engines.\r\n\n\r\n\nIn 2021, Autocar picked 50 of our favourite road-going engines, including the Ford small-block V8, \u2026",
-      "url": "https://www.autocar.co.uk/car-news/slideshow/all-winners-engine-year-award-does-your-car-have-one-1",
-      "source": "Autocar",
-      "date": "2026-07-21",
-      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/first-drives/legacy/new_0-ford-ecoboost-ford_3_0_2_0_4_0_0_0_0_0_1_0_0_1.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Lost Pan Am Airliner Clipper Endeavor Found After Decades by Air/Sea Heritage Foundation, Eco Minerals, and Discovery Channel's \"Expedition Unknown\"",
-      "description": "This landmark discovery sheds new light on the fate of the aircraft whose tragic legacy forever transformed modern air travel.",
-      "url": "http://www.thefutoncritic.com/news/2026/07/21/lost-pan-am-airliner-clipper-endeavor-found-after-decades-by-air-sea-heritage-foundation-eco-minerals-and-discovery-channels-expedition-unknown-401313/20260721discovery01/",
-      "source": "Thefutoncritic.com",
-      "date": "2026-07-21",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "Where London Heathrow ranks in the world\u2019s 10 busiest airports",
-      "description": "The heaving aviation hub is among the busiest airport in the world, according to the latest rankings by Airports Council International (ACI)",
-      "url": "https://www.timeout.com/london/news/heathrow-airport-busiest-in-world-2026-072126",
-      "source": "Time Out",
-      "date": "2026-07-21",
-      "image": "https://media.timeout.com/images/106428580/image.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Lionel Messi to miss multiple Inter Miami games after World Cup",
-      "description": "MLS may be back, but its biggest star won\u2019t be back on the pitch.",
-      "url": "https://nypost.com/2026/07/21/sports/lionel-messi-to-miss-multiple-inter-miami-games-after-world-cup/",
-      "source": "New York Post",
-      "date": "2026-07-21",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/crop-40043322.jpg?quality=75&strip=all&w=1200",
-      "category": "market"
-    },
-    {
-      "title": "How this Champions League winner aims to ignite Stingers",
-      "description": "Winning the Champions League with Greek giants Olympiacos was \"one of the coolest moments\" of Abby Andrews's life. She wants to use that experience to push the Stingers to the next level.",
-      "url": "https://www.abc.net.au/news/2026-07-21/abby-andrews-water-polo-world-cup-sydney/106940074",
-      "source": "ABC News (AU)",
-      "date": "2026-07-21",
-      "image": "https://live-production.wcms.abc-cdn.net.au/d99900269a8ae262d3cb2bce46f6afba?impolicy=wcms_watermark_news&cropH=2487&cropW=4422&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-      "category": "market"
-    },
-    {
-      "title": "The Power Trap: Why AI\u2019s Energy Demands Risk Undermining American Operations in the Indo-Pacific",
-      "description": "Abstract: The United States (US) military is rapidly integrating artificial intelligence across operations, yet power, connectivity, and satellite communications infrastructure are struggling to keep pace. At the tactical edge, continuous AI inference workloa\u2026",
-      "url": "https://smallwarsjournal.com/2026/07/21/ai-energy-demands-indo-pacific/",
-      "source": "Smallwarsjournal.com",
-      "date": "2026-07-21",
-      "image": "https://smallwarsjournal.com/wp-content/uploads/2026/06/Image-1.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Out with alarmism: New climate report director promises science over scare tactics",
-      "description": "Dr. Matthew Wielicki replaces the climate assessment\u2019s former leadership, signaling a shift toward skepticism. The next climate report will focus on natural climate variability and positive effects like longer growing seasons. Hundreds of scientists and contr\u2026",
-      "url": "https://www.naturalnews.com/2026-07-21-climate-report-director-promises-science-over-alarmism.html",
-      "source": "Naturalnews.com",
-      "date": "2026-07-21",
-      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/A-City-Showing-Effect-Climate-Change.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Sacks: U.S. AI Edge at Risk Amid Chinese Model Advance",
-      "description": "Former White House AI and cryptocurrency czar David Sacks said Friday that the United States is undermining its competitive advantage in artificial intelligence through excessive regulation, following the release of a new Chinese AI model that reportedly matc\u2026",
-      "url": "https://www.naturalnews.com/2026-07-21-sacks-us-ai-edge-risk-chinese-model-advance.html",
-      "source": "Naturalnews.com",
-      "date": "2026-07-21",
-      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/us-ai-edge-kimi-k3-david-sacks-2865-original.jpg",
-      "category": "currency"
-    },
-    {
-      "title": "Nigeria losing jobs, forex to inconsistent fish import policy \u2014 Expert",
-      "description": "By EfeOnodjae Nigeria is\u00a0undermining its drive for food security, job creation and foreign exchange conservation through inconsistent fish import policies that continue to favour imported fish over locally farmed varieties, a fisheries expert, Dr. OlukayodeOl\u2026",
-      "url": "https://www.vanguardngr.com/2026/07/nigeria-losing-jobs-forex-to-inconsistent-fish-import-policy-expert/",
-      "source": "Vanguard",
-      "date": "2026-07-21",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2024/02/image-753.png",
-      "category": "currency"
-    },
-    {
-      "title": "Does Myanmar Still Have One Government to Recognize?",
-      "description": "Much of the world still views Myanmar through a narrow diplomatic lens that cannot encompass the full political complexity of its conflict.",
-      "url": "https://thediplomat.com/2026/07/does-myanmar-still-have-one-government-to-recognize/",
-      "source": "The Diplomat",
-      "date": "2026-07-21",
-      "image": "https://thediplomat.com/wp-content/uploads/2024/06/sizes/td-story-s-2/thediplomat_2024-06-17-020628.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Models Stripped of Insurance Cover for Club\u2019s Unauthorized Use of Their Images",
-      "description": "The insurer for Mr. Happy\u2019s Cafe is smiling because a federal court has found it is not obligated to defend the adult entertainment club against charges that it used the images and likenesses of six models in its advertising without \u2026",
-      "url": "https://www.insurancejournal.com/news/east/2026/07/21/878306.htm",
-      "source": "Insurance Journal",
-      "date": "2026-07-21",
-      "image": "https://www.insurancejournal.com/app/uploads/2026/07/night-club-stage-Deposit-photo-580x376.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "Endangerment Species Act Reform: Ending the Weaponization of Regulation Against Energy, Economy, and Environment",
-      "description": "These ESA reforms are a welcome return to the successful framework established during the first Trump administration. They enhance transparency, clarity, predictability, and efficiency while staying faithful to the statute\u2019s purposes. They lower costs for Ame\u2026",
-      "url": "https://wattsupwiththat.com/2026/07/20/endangerment-species-act-reform-ending-the-weaponization-of-regulation-against-energy-economy-and-environment/",
-      "source": "Wattsupwiththat.com",
-      "date": "2026-07-21",
-      "image": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/07/ChatGPTESA-reform-concept-with-old-and-new-approaches.webp?fit=1024%2C512&quality=75&ssl=1",
-      "category": "market"
-    },
-    {
-      "title": "Are chinchillas banned in the US?",
-      "description": "Are Chinchillas Banned in the US? Understanding Chinchilla Legality No, chinchillas are not generally banned in the US. However, their legality can vary significantly based on state and local regulations, mainly due to concerns regarding invasive species and \u2026",
-      "url": "https://www.lifesciencesworld.com/are-chinchillas-banned-in-the-us/",
-      "source": "Lifesciencesworld.com",
-      "date": "2026-07-21",
-      "image": null,
-      "category": "market"
     },
     {
       "title": "Gold (XAUUSD), Silver, Platinum Forecasts \u2013 Gold Rallies As Traders Ignore Rising Yields - FXEmpire",
@@ -459,7 +459,7 @@
       "platinum_usd_oz": 1614.14
     }
   ],
-  "timestamp": "2026-07-22T11:38:47.986056+05:30",
+  "timestamp": "2026-07-22T14:36:59.308294+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
