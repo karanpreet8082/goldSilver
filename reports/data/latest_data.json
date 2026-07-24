@@ -54,7 +54,7 @@
         "hold": 29
       },
       "summary": "Gold is showing negative signals. Positive daily movement of 0.8%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-24T11:15:54.335423",
+      "timestamp": "2026-07-24T14:21:17.578363",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 50
       },
       "summary": "Silver is showing negative signals. Strong daily gain of 1.4%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-24T11:15:54.446393",
+      "timestamp": "2026-07-24T14:21:17.665294",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 50
       },
       "summary": "Platinum is showing negative signals. Strong daily gain of 1.9%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-24T11:15:54.527205",
+      "timestamp": "2026-07-24T14:21:17.737303",
       "source": "rule-based"
     }
   },
@@ -137,31 +137,22 @@
   },
   "news": [
     {
-      "title": "ICICI Bank prices $1 billion debt in largest dollar issue by Indian private lender",
-      "description": "ICICI Bank successfully issued a five-year dollar bond worth $1 billion, achieving a notably tighter spread. This offering stands as the largest for an Indian bank in almost fourteen years. With a coupon set at 100 basis points above U.S. Treasuries, it surpassed initial expectations. The offering u",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/icici-bank-prices-1-billion-debt-in-largest-dollar-issue-by-indian-private-lender/articleshow/132603402.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-07-24",
-      "image": "",
-      "category": "central_bank"
-    },
-    {
-      "title": "RBI Intervention shields rupee in face of oil, hedging strain",
-      "description": "On Friday, the Indian rupee dodged a plunge to record lows thanks to decisive action by the Reserve Bank of India. State-run banks stepped in to sell dollars, likely under central bank directives, to alleviate mounting pressure. Escalating oil prices and increased corporate hedging had nearly pushed",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-intervention-shields-rupee-in-face-of-oil-hedging-strain/articleshow/132603138.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-07-24",
-      "image": "",
-      "category": "central_bank"
-    },
-    {
-      "title": "Quote of the day by John Neff: \"When you get to these frenzied markets, it drives managements or portions of managements to hanky-panky\"",
-      "description": "John Neff warned that market euphoria often encourages poor corporate decision-making.  Excessive optimism can pressure executives into questionable financial practices and acquisitions.  This \"hanky-panky\" can erode investor confidence and destroy shareholder wealth over time.  Value investors like",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/quote-of-the-day-by-john-neff-when-you-get-to-these-frenzied-markets-it-drives-managements-or-portions-of-managements-to-hanky-panky/articleshow/132601938.cms",
+      "title": "US stocks today: US stocks open subdued after tech rout; Mideast, tariffs in focus",
+      "description": "Wall Street opened mixed after a sharp tech-led selloff, with the Dow inching higher while the S&amp;P 500 and Nasdaq slipped. Investors remained cautious amid fresh earnings, renewed Trump tariffs and rising Middle East tensions, with oil prices and inflation concerns continuing to influence overal",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-open-subdued-after-tech-rout-mideast-tariffs-in-focus/articleshow/132607371.cms",
       "source": "Economic Times Markets",
       "date": "2026-07-24",
       "image": "",
       "category": "geopolitics"
+    },
+    {
+      "title": "Yen heads for biggest weekly drop since May despite Tokyo's support pledges",
+      "description": "The Japanese yen is experiencing a dramatic drop, marking its most significant weekly decline since May. The currency has hit 40-year lows against the US dollar, compounded by Japan's ineffective measures to bolster its value. Additionally, surging oil prices have reignited inflation worries, furthe",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/yen-heads-for-biggest-weekly-drop-since-may-despite-tokyos-support-pledges/articleshow/132606629.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-07-24",
+      "image": "",
+      "category": "currency"
     },
     {
       "title": "Yian Precious Metals Helps SMM Create the \"2026 SMM Platinum Group Metals and Precious Metals Industry Chain Distribution Map\" - Shanghai Metals Market",
@@ -173,66 +164,111 @@
       "category": "platinum"
     },
     {
+      "title": "Gina Rinehart offers big bonuses for Aussie athletes at the Glasgow Commonwealth Games",
+      "description": "Gina Rinehart, Australia's richest person, has offered thousands of dollars to swimmers who bring home medals.",
+      "url": "https://www.dailymail.com/sport/commonwealth-games/article-15999571/Gina-Rinehart-Australia-swim-Commonwealth-Games.html",
+      "source": "Dailymail.com",
+      "date": "2026-07-23",
+      "image": "https://i.dailymail.com/1s/2026/07/23/13/110206379-0-image-m-44_1784811140325.jpg",
+      "category": "currency"
+    },
+    {
+      "title": "2026 Fields Medals go to four young mathematicians",
+      "description": "The 2026 Fields Medals recognize breakthroughs in the math of messy fluids, tangled knots, spinning pencils, and more",
+      "url": "https://www.scientificamerican.com/article/2026-fields-medals-go-to-four-young-mathematicians/",
+      "source": "Scientific American",
+      "date": "2026-07-23",
+      "image": "https://static.scientificamerican.com/dam/asset/acd2e056-2a6e-4857-b0ad-eff81dfbf13f/hong-wang.JPG?m=1784814621.017&w=1200",
+      "category": "market"
+    },
+    {
+      "title": "ECB considers September rate hike amid rising energy prices: CNBC",
+      "description": "ECB considers a September rate hike due to rising energy prices. Rate hike by September at 34% YES.\nThe post ECB considers September rate hike amid rising energy prices: CNBC appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/ecb-considers-september-rate-hike-amid-rising-energy-prices-cnbc/",
+      "source": "Crypto Briefing",
+      "date": "2026-07-23",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/23093249/seat-in-frankfurt-1-1-800x420.jpeg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Sharp to Showcase Its Most Comprehensive Production Print Portfolio Yet at PRINTING United Expo 2026",
+      "description": "Visitors to Booth N6960 Will Get a First Look at New Production Print Innovations, an Expanded Partner Ecosystem and Sharp's Complete Digital Production Press Series MONTVALE, N.J., July 23, 2026 /PRNewswire/ -- Sharp Imaging and Information Company of Americ\u2026",
+      "url": "https://www.prnewswire.com/news-releases/sharp-to-showcase-its-most-comprehensive-production-print-portfolio-yet-at-printing-united-expo-2026-302832825.html",
+      "source": "PRNewswire",
+      "date": "2026-07-23",
+      "image": "https://mmx.prnewswire.com/media/MS1891619/Sharp-Team-at-PRINTING-United-Expo-2026.jpg?id=OA2780880&p=facebook",
+      "category": "supply_demand"
+    },
+    {
+      "title": "\u2018The only true one-and-done asset\u2019 \u2014 here\u2019s the passive income gig one investor says can net you $40,000 per month",
+      "description": "if you have the means to buy an existing park, it may be a consistent, dependable, low-effort money maker that\u2019s AI-proof to boot.",
+      "url": "https://finance.yahoo.com/real-estate/articles/only-true-one-done-asset-132000095.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-07-23",
+      "image": "https://s.yimg.com/lo/mysterio/api/5A409C85E02E82DFA6C8AE46E0A810BF4CE590F37906D4CE912FF30C6AB67B0A/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2F244829fe54844e618756fc515547f338",
+      "category": "market"
+    },
+    {
+      "title": "\u2018Whoever Wins, Come Face Me\u2019 \u2013 Prajanchai Breaks Down Interim World Title Clash Between Sam-A And Aliff",
+      "description": "Prajanchai offers his prediction for the massive showdown this Friday at The Inner Circle 23.",
+      "url": "https://www.onefc.com/news/whoever-wins-come-face-me-prajanchai-breaks-down-interim-world-title-clash-between-sam-a-and-aliff/",
+      "source": "Onefc.com",
+      "date": "2026-07-23",
+      "image": "https://s.yimg.com/ny/api/res/1.2/y5Kmp2palRzLT2VVAKHO2A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02Njk7Y2Y9d2VicA--/https://media.zenfs.com/en/one_championship_articles_385/01873bc210e6f8508617a47a1f6193bc",
+      "category": "market"
+    },
+    {
+      "title": "Steelers training camp: Offensive position battles, storylines to follow",
+      "description": "Read & React address the looming questions on offense with training camp less than a week from opening.",
+      "url": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/172542/steelers-training-camp-offensive-position-battles-storylines-to-follow-mike-mccarthy-offensive-line-zach-frazier-troy-fautanu-michael-pittman-jr-dk-metcalf-germie-bernard-will-howard-drew-allar-kaleb",
+      "source": "Behind the Steel Curtain",
+      "date": "2026-07-23",
+      "image": "https://s.yimg.com/ny/api/res/1.2/YkPwxwzTgoWzmYVilNVrFw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05Mjc7Y2Y9d2VicA--/https://media.zenfs.com/en/sb_nation_articles_115/0a332975b397dc04da7144514a4f5e6d",
+      "category": "market"
+    },
+    {
+      "title": "India Aims For Top Global Sports Ranking By 2047",
+      "description": "Union Minister Bandi Sanjay Kumar announced India's ambitious plan to rank among the top 10 sporting nations by 2036 and top five by 2047. He highlighted the central government's commitment to sports development through initiatives like Khelo India, increased\u2026",
+      "url": "https://www.rediff.com/sports/report/india-on-course-to-be-top-10-sporting-nation-by-2036/20260723.htm",
+      "source": "Rediff.com",
+      "date": "2026-07-23",
+      "image": "https://im.rediff.com/1200-630/news/2022/oct/27bandi.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Gold drops 2% to $4,046.92 as stronger US dollar impacts precious metals",
+      "description": "Gold drops 2% to $4,046.92 as the stronger US dollar weighs on prices. Silver at $66 in July 2026 priced at 4.1% YES.\nThe post Gold drops 2% to $4,046.92 as stronger US dollar impacts precious metals appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/gold-drops-2-to-404692-as-stronger-us-dollar-impacts-precious-metals/",
+      "source": "Crypto Briefing",
+      "date": "2026-07-23",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/23090958/wall-st-sign-33-800x419.jpg",
+      "category": "currency"
+    },
+    {
+      "title": "Silver drops 3% after Trump's remarks on Iran",
+      "description": "Precious metals traded lower on Thursday, with silver losing more than 3%, after United States President Donald Trump issued a stark warning to the Houthis.Trump said Washington \"would hold Iran respo...",
+      "url": "https://biztoc.com/x/96e7ccc7aec03167",
+      "source": "Biztoc.com",
+      "date": "2026-07-23",
+      "image": "https://biztoc.com/cdn/96e7ccc7aec03167_s.webp",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Rio2 Files Technical Report for Condestable and Publishes ESG Report",
+      "description": "VANCOUVER, British Columbia, July 23, 2026 (GLOBE NEWSWIRE) \u2014 Rio2 Limited (\u201cRio2\u201d or \u201cthe Company\u201d) (TSX: RIO; OTCQX: RIOFF; BVL: RIO) today announces that it has filed an independent technical report dated July 22, 2026, entitled \u201cNI 43-101 Technical Report\u2026",
+      "url": "https://financialpost.com/globe-newswire/rio2-files-technical-report-for-condestable-and-publishes-esg-report",
+      "source": "Financial Post",
+      "date": "2026-07-23",
+      "image": null,
+      "category": "market"
+    },
+    {
       "title": "Sensex today | Stock Market Highlights: Markets slip for 4th straight day as crude rises; Sensex drops 363 pts, Nifty ends below 23,870",
       "description": "Sensex Today, Nifty 50 | Stock Market Highlights: Find here all the highlights related to Sensex, Nifty, BSE, NSE, share prices and Indian stock markets for July 23, 2026.",
       "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-23rd-july-2026/article71253376.ece",
       "source": "BusinessLine",
       "date": "2026-07-23",
       "image": "https://bl-i.thgim.com/public/incoming/yjch97/article71253385.ece/alternates/LANDSCAPE_1200/stock%20market.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Idaho Strategic Resources Reports Significant Concentrations of Heavy Rare Earth Elements, Including Yttrium at Its Diamond Creek Project",
-      "description": "Next steps include additional mineralogical studies, initial processing test work, and follow-up exploration with possible bulk sampling of the identified heavy rare earth elements and yttrium mineralization Idaho Strategic Resources, Inc. (NYSE American: IDR\u2026",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/idaho-strategic-resources-reports-significant-concentrations-of-heavy-rare-earth-elements-including-yttrium-at-its-diamond-creek-project",
-      "source": "Financial Post",
-      "date": "2026-07-23",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/07/bw20260723497223_dc_hree_and_y.jpeg",
-      "category": "market"
-    },
-    {
-      "title": "MAYFAIR GOLD PROVIDES Q2 2026 UPDATE ON FENN-GIB PROJECT ADVANCEMENT AND DE-RISKING ACTIVITIES",
-      "description": "TORONTO, July 23, 2026 /PRNewswire/ -- Mayfair Gold Corp. (\"Mayfair\", \"Mayfair Gold\", or the \"Company\") (TSXV: MFG) (NYSE American: MINE) is pleased to provide a progress update on activities completed during Q2 2026 and ongoing key work streams to advance an\u2026",
-      "url": "https://www.prnewswire.com/news-releases/mayfair-gold-provides-q2-2026-update-on-fenn-gib-project-advancement-and-de-risking-activities-302832653.html",
-      "source": "PRNewswire",
-      "date": "2026-07-23",
-      "image": "https://mmx.prnewswire.com/media/MS1736413/Mayfair-Gold-Corp-MAYFAIR-GOLD-PROVIDES-Q2-2026-UPDATE-ON-FENN.jpg?id=OA2780699&p=facebook",
-      "category": "metals"
-    },
-    {
-      "title": "Britain\u2019s quarter century: Blair, populism and the battle over human rights",
-      "description": "How the political debate has shifted in the last 25 years.",
-      "url": "https://theconversation.com/britains-quarter-century-blair-populism-and-the-battle-over-human-rights-282676",
-      "source": "The Conversation Africa",
-      "date": "2026-07-23",
-      "image": "https://images.theconversation.com/files/747429/original/file-20260713-56-9y9c14.jpg?ixlib=rb-4.1.1&rect=0%2C424%2C5079%2C2539&q=45&auto=format&w=1356&h=668&fit=crop",
-      "category": "market"
-    },
-    {
-      "title": "Kazakhstan approves new mining rules to fund $1B Bitcoin reserve",
-      "description": "Kazakhstan approved strategic crypto mining rules offering miners capped electricity for 10 years in exchange for Bitcoin contributions to a $1B\nThe post Kazakhstan approves new mining rules to fund $1B Bitcoin reserve appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/kazakhstan-bitcoin-mining-rules-reserve/",
-      "source": "Crypto Briefing",
-      "date": "2026-07-23",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/23064320/dmse-kazakhstan-national-flag-2x3ft-foot-100-polyester-100d--800x420.jpeg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Chainlink Is Quietly Becoming Crypto\u2019s Most Important Infrastructure \u2014 Here\u2019s Why LINK Could Be Undervalued",
-      "description": "Chainlink rarely generates the excitement attached to a new blockchain, trading platform, or artificial intelligence token. Instead, it provides infrastructure that decentralized finance protocols and...\nThe post Chainlink Is Quietly Becoming Crypto\u2019s Most Im\u2026",
-      "url": "https://bitcoinfoundation.org/news/analysis/chainlink-is-quietly-becoming-cryptos-most-important-infrastructure-heres-why-link-could-be-undervalued/",
-      "source": "Bitcoinfoundation.org",
-      "date": "2026-07-23",
-      "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/chain-1.webp",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Meet The Wastewater Billionaire With His Eye On AI Data Centers",
-      "description": "America\u2019s biggest oil field produces lots of dirty water and cheap natural gas. That makes West Texas a perfect location for data centers, says David Capobianco.",
-      "url": "https://www.forbes.com/sites/christopherhelman/2026/07/23/meet-the-wastewater-billionaire-with-his-eye-on-ai-data-centers/",
-      "source": "Forbes",
-      "date": "2026-07-23",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a60e7ab89cda55ca0a97b75/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "category": "market"
     },
     {
@@ -263,148 +299,112 @@
       "category": "supply_demand"
     },
     {
-      "title": "Silver and gold prices stage a cautious rebound \u2014 but analysts see slim hopes for a sustained rally",
-      "description": "Precious metals have rallied in recent days after a sustained period of selling pressure, but analysts say gold and silver prices could face a difficult path back to all-time highs achieved earlier this year.\nSpot silver traded at $59.47 an ounce in early tra\u2026",
-      "url": "https://biztoc.com/x/e2cbbd89e1e693bc",
-      "source": "Biztoc.com",
+      "title": "Disney reportedly lays off hundreds of employees, Pixar hit hard despite blockbuster success / Finvestly",
+      "description": "Pixar absorbed the largest share of Disney's latest layoffs as ESPN, National Geographic and other entertainment divisions also faced significant workforce reductions.",
+      "url": "https://finvestly.com/business/disney-reportedly-lays-off-hundreds-of-employees-pixar-hit-hard-despite-blockbuster-success/",
+      "source": "Finvestly.com",
       "date": "2026-07-23",
-      "image": "https://biztoc.com/cdn/e2cbbd89e1e693bc_s.webp",
-      "category": "metals"
-    },
-    {
-      "title": "SK Telecom forms AI factory unit, SK Hyper",
-      "description": "SK Telecom has long held ambitions to build and run AI datacentre facilities in South Korea and in international marketsNow it has created a dedicated business\u2026",
-      "url": "https://www.telecomtv.com/content/ai/sk-telecom-forms-ai-factory-unit-sk-hyper-55932/",
-      "source": "TelecomTV",
-      "date": "2026-07-23",
-      "image": "https://assets.telecomtv.com/assets/telecomtv/sk-hyper-border-22882.jpg?w=1200",
+      "image": "https://finvestly.com/wp-content/uploads/2026/07/toy-story.jpg",
       "category": "market"
     },
     {
-      "title": "M&A Momentum Builds as Global Deal Kickoffs Rise 31% in 1H26, Datasite Data Shows",
-      "description": "New global deal kickoffs increased 31% in the first half of 2026 compared to the same period a year ago, according to Datasite Insights....",
-      "url": "https://www.globenewswire.com/news-release/2026/07/23/3332029/0/en/M-A-Momentum-Builds-as-Global-Deal-Kickoffs-Rise-31-in-1H26-Datasite-Data-Shows.html",
+      "title": "Iran will pay for any Houthi-led attacks, Trump says",
+      "description": "U.S. President Donald Trump said on Thursday he would hold \u200cIran accountable for any attacks by Yemen's Houthi militants, who \u200bsaid this week they \u200bwere imposing a naval blockade on Saudi Arabia.",
+      "url": "https://www.cbc.ca/news/world/us-iran-war-houthis-saudis-9.7280533",
+      "source": "CBC News",
+      "date": "2026-07-23",
+      "image": "https://i.cbc.ca/ais/a4c8371b-45f5-4402-aa25-0e3a15f757be,1784813692140/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C855%2C8192%2C4608%29%3BResize%3D620",
+      "category": "market"
+    },
+    {
+      "title": "Amphenol Corp (APH), a High-Quality Company, Strengthens From AI Infrastructure Buildout",
+      "description": "Brasada Capital Management, an investment management company, released its Q2 2026 investor letter. A copy of the letter is available to download here. The m...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amphenol-corp-aph-high-quality-142022844.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-07-23",
+      "image": "https://s.yimg.com/lo/mysterio/api/9A8E697D6CDA0EB99DF8B31510014406FFB3EDBC190ABABC6567629937813D89/subgraphmysterio/resizefill_w1200_h672;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fb5072e273440c96749a20caa1d2e8bca",
+      "category": "market"
+    },
+    {
+      "title": "Human-caused climate change, not El Ni\u00f1o, is the driving force behind all global coral bleaching events, new research finds",
+      "description": "Climate Central-led paper finds human-caused climate change has been the main driver of coral bleaching risk over the past 40 years. PRINCETON, N.J., July 23, 2026 /PRNewswire/ -- Nearly every global coral bleaching event over the past 40 years would not have\u2026",
+      "url": "https://www.prnewswire.com/news-releases/human-caused-climate-change-not-el-nino-is-the-driving-force-behind-all-global-coral-bleaching-events-new-research-finds-302833409.html",
+      "source": "PRNewswire",
+      "date": "2026-07-23",
+      "image": "https://mmx.prnewswire.com/media/MS1898859/Projected-coral-bleaching-risk-for-2026-2027-broken-down-into-total-risk-and-the-the-risk-specifical.jpg?id=OA2781677&p=facebook",
+      "category": "market"
+    },
+    {
+      "title": "Marine Engines Market to Reach $16.92 Billion by 2031 as Alternative Fuels and Digitalization Transform Maritime Propulsion - Analysis by Engine, Type, Power Range, Fuel, Vessel, Region",
+      "description": "Oil tankers and auxiliary engines will hold major shares, while Europe remains a significant market. Leading companies include Caterpillar, W\u00e4rtsil\u00e4, Volvo Penta, Everllence, Rolls-Royce, and Hyundai Heavy Industries. Oil tankers and auxiliary engines will ho\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/07/23/3332332/28124/en/Marine-Engines-Market-to-Reach-16-92-Billion-by-2031-as-Alternative-Fuels-and-Digitalization-Transform-Maritime-Propulsion-Analysis-by-Engine-Type-Power-Range-Fuel-Vessel-Region.html",
       "source": "GlobeNewswire",
       "date": "2026-07-23",
-      "image": "https://ml.globenewswire.com/Resource/Download/e3bf5a93-b1be-432c-a8dc-61fd20b41cfb",
+      "image": "https://ml.globenewswire.com/Resource/Download/f4b4ceac-b82b-475f-9eb0-4b42535c0b61",
+      "category": "currency"
+    },
+    {
+      "title": "How shipping insurance rates are rising, as Hormuz, Bab al-Mandeb shut down",
+      "description": "Insurance rates through Hormuz are currently four times the five-year average.",
+      "url": "https://www.aljazeera.com/economy/2026/7/23/how-shipping-insurance-rates-are-rising-as-hormuz-bab-al-mandeb-shut-down",
+      "source": "Al Jazeera English",
+      "date": "2026-07-23",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a58529e759d-1784173214.jpg?resize=1920%2C1440",
       "category": "market"
     },
     {
-      "title": "Moonshot AI accessed Nvidia's chips despite Chinese export ban, White House official says",
-      "description": "A White House official said Moonshot AI, which released the powerful Kimi K3 model last week, accessed Nvidia's GB300 chips in Thailand.",
-      "url": "https://www.cnbc.com/2026/07/23/moonshot-kimi-nvidia-ai-chips-export-ban.html",
-      "source": "CNBC",
+      "title": "Saudi oil tanker attacked in Red Sea, raising energy supply risks",
+      "description": "A Saudi oil tanker was attacked in the Red Sea, raising concerns over energy supply disruptions. Bab el-Mandeb Strait effectively closed by September 30 at 23.5.\nThe post Saudi oil tanker attacked in Red Sea, raising energy supply risks appeared first on Cryp\u2026",
+      "url": "https://cryptobriefing.com/saudi-oil-tanker-attacked-in-red-sea-raising-energy-supply-risks/",
+      "source": "Crypto Briefing",
       "date": "2026-07-23",
-      "image": "https://image.cnbcfm.com/api/v1/image/108280621-1773959104036-gettyimages-2266837944-NVIDIA_GTC.jpeg?v=1773959281&w=1920&h=1080",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/23101927/wall-st-sign-38-800x419.jpg",
       "category": "supply_demand"
     },
     {
-      "title": "Samsung announces Galaxy Watch 9 and Ultra 2, with new AI features - Mashable",
-      "description": "Samsung announces Galaxy Watch 9 and Ultra 2, with new AI featuresMashable Samsung Galaxy Watch Ultra2 and Watch9: Your Health Companion on the WristSamsung Global Newsroom Samsung Galaxy Watches now detect when you're going to get sick \u2014 but it's not the fir\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184601472",
-      "source": "Slashdot.org",
+      "title": "Inside the explosive temper of Olympian Rohan Dennis - and why, three years after his wife's death, his ban from his kids' school doesn't surprise those who knew 'Angry Rohan'",
+      "description": "Rohan Dennis was once known for his explosive talent - and explosive temper. Now, the Olympian dubbed \"Angry Rohan\" has been banned from his children's school.",
+      "url": "https://www.dailymail.com/news/article-15998319/rohan-dennis-angry-cyclist-school-ban-wife-death-adelaide.html",
+      "source": "Dailymail.com",
       "date": "2026-07-23",
-      "image": null,
+      "image": "https://i.dailymail.com/1s/2026/07/23/15/110199241-0-image-m-7_1784816330802.jpg",
       "category": "market"
     },
     {
-      "title": "Human Microbiome Market Size to Reach USD 7.66 Billion by 2035 | SNS Insider",
-      "description": "The U.S. Human Microbiome Market is projected to grow from USD 0.51 Billion in 2025 to USD 1.94 Billion by 2035, while Europe is expected to expand from USD 0.38 Billion to USD 1.94 Billion, driven by increasing microbiome therapeutics research, precision med\u2026",
-      "url": "https://www.globenewswire.com/news-release/2026/07/23/3332028/0/en/Human-Microbiome-Market-Size-to-Reach-USD-7-66-Billion-by-2035-SNS-Insider.html",
-      "source": "GlobeNewswire",
+      "title": "White House pushes back as key Democrats rejects CLARITY Act\u2019s crypto ethics",
+      "description": "The White House pushed back against the Senate Democrats' rejection of the latest version of the CLARITY Act, with ethics remaining a major sticking point. The clash comes despite President Donald Trump\u2019s decision this week to accept new ethics limits, reflec\u2026",
+      "url": "https://cryptoslate.com/white-house-pushes-back-as-key-democrats-rejects-clarity-acts-crypto-ethics/",
+      "source": "CryptoSlate",
       "date": "2026-07-23",
-      "image": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
-      "category": "currency"
-    },
-    {
-      "title": "'Nothing can save you': CNN host warns Trump he has a big Biden problem",
-      "description": "CNN's Audie Cornish warned that President Donald Trump Thursday that he was falling into the same economic trap as his predecessor when he declared the U.S. did not need the Strait of Hormuz to remain open.The 80-year-old president insisted that the U.S. alre\u2026",
-      "url": "https://www.rawstory.com/donald-trump-global-recession/",
-      "source": "Raw Story",
-      "date": "2026-07-23",
-      "image": "https://www.rawstory.com/media-library/image.png?id=67525050&width=1200&height=600&coordinates=0%2C25%2C0%2C25",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Crypto 'Wrench Attacks' Cost Victims $124M in Six Months, Up 12x: CertiK",
-      "description": "Physical attacks on crypto holders are increasingly happening at home, and France has become the epicenter, a new report finds.",
-      "url": "https://decrypt.co/374136/crypto-wrench-attacks-cost-victims-124m-in-six-months-up-12x-certik",
-      "source": "Decrypt",
-      "date": "2026-07-23",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/12/Wrench-gID_7.jpg",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/07/clarity-act-blue-banner-no-strings-no-hands.jpg",
       "category": "market"
     },
     {
-      "title": "Why BitMEX Is Shutting Down: Top 3 Fatal Mistakes That Destroyed a Crypto Giant",
-      "description": "BitMEX is shutting down. The exchange announced it will cease operations on September 23, 2026. BitMEX\u2019s exchange volume crossed more than 3 trillion dollars at...\nThe post Why BitMEX Is Shutting Down: Top 3 Fatal Mistakes That Destroyed a Crypto Giant appear\u2026",
-      "url": "https://bitcoinfoundation.org/news/crypto-exchanges-news/why-bitmex-is-shutting-down-top-3-fatal-mistakes-that-destroyed-a-crypto-giant/",
-      "source": "Bitcoinfoundation.org",
+      "title": "Imminent Collapse of Western States Water Resources and Infrastructure",
+      "description": "Corporate bond funding of AI reached $3.68 trillion as of June. \nMostly on data centers. But how are data centers profitable? \nTheir ONLY market is to rent space for storage and electricity is their biggest expense. \nElectricity just went up \u2026\nThe post Immine\u2026",
+      "url": "https://www.globalresearch.ca/imminent-collapse-western-states-water-resources-infrastructure/5934245",
+      "source": "Globalresearch.ca",
       "date": "2026-07-23",
-      "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/bitmex-1.webp",
-      "category": "currency"
-    },
-    {
-      "title": "An RCMP legend and why it took decades to solve the mystery of the missing Mountie",
-      "description": "Supt. Joe Atherton was a devoted husband and uncle, dedicated to the RCMP. When the decorated officer died in 1988, two men took his ashes \u2014 which then disappeared",
-      "url": "https://nationalpost.com/feature/mystery-of-the-buried-mountie",
-      "source": "National Post",
-      "date": "2026-07-23",
-      "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/07/Canada-Mountie-Joe-Atherton-rcmp-mystery-burial-portrait-main.jpg",
+      "image": "https://www.globalresearch.ca/wp-content/uploads/2026/07/lake-powell-1024x683.jpg",
       "category": "market"
     },
     {
-      "title": "OLD REPUBLIC REPORTS RESULTS FOR THE SECOND QUARTER AND FIRST HALF 2026",
-      "description": "CHICAGO, July 23, 2026 /PRNewswire/ -- Old Republic International Corporation (NYSE: ORI) \u2013 today reported the following results for the second quarter 2026: Net income of $322.3 million, compared to $204.4 million last year. Net income excluding investment g\u2026",
-      "url": "https://www.prnewswire.com/news-releases/old-republic-reports-results-for-the-second-quarter-and-first-half-2026-302832775.html",
-      "source": "PRNewswire",
+      "title": "Evaluation of outcomes in 201 child and youth survivors of Child Sexual Abuse (CSA) who participated in a one-year multimodal treatment program",
+      "description": "Background and rationale Child sexual abuse (CSA) is a pervasive and prevalent form of early-life trauma that can increase the risk for PTSD, mood disorders, substance abuse, harmful behaviour, non-suicidal self-harm, suicidal ideation, and death by suicide. \u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354692",
+      "source": "Plos.org",
       "date": "2026-07-23",
-      "image": null,
+      "image": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0354692.g003&size=inline",
       "category": "market"
     },
     {
-      "title": "Why Trump Wants You To Think All Dissent Is a \u201cConspiracy\u201d",
-      "description": "According to President Donald Trump\u2019s Justice Department, you may be a member of a criminal conspiracy if you have done any of the following: worn black to a demonstration, given face masks to protesters, joined a book club, distributed a zine. Recently, fede\u2026",
-      "url": "https://www.motherjones.com/politics/2026/07/trump-conspiracy-antifa-cell-arrests/",
-      "source": "Mother Jones",
+      "title": "Small-scale irrigators\u2019 intentions to adapt water use behaviour to climate variability in South Africa",
+      "description": "This study aimed to determine the impacts of climate variability on smallholder maize producers\u2019 water use behaviour and the factors that influence their decision-making in the Vhembe District Municipality, Limpopo Province, South Africa. This study utilized \u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0351125",
+      "source": "Plos.org",
       "date": "2026-07-23",
-      "image": "https://www.motherjones.com/wp-content/uploads/2026/07/515_CONSPIRACY_2000px.jpg?w=1200&h=630&crop=1",
-      "category": "central_bank"
-    },
-    {
-      "title": "Valley National Bancorp Announces Second Quarter 2026 Results",
-      "description": "NEW YORK, July 23, 2026 (GLOBE NEWSWIRE) -- Valley National Bancorp (NASDAQ: VLY), the holding company for Valley National Bank, today reported net income for the second quarter 2026 of $170.9 million, or $0.29 per diluted common share, as compared to the fir\u2026",
-      "url": "https://www.globenewswire.com/news-release/2026/07/23/3331987/0/en/Valley-National-Bancorp-Announces-Second-Quarter-2026-Results.html",
-      "source": "GlobeNewswire",
-      "date": "2026-07-23",
-      "image": "https://ml.globenewswire.com/Resource/Download/d740da22-3104-41a9-968b-6b7af283783c",
+      "image": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0351125.g004&size=inline",
       "category": "market"
-    },
-    {
-      "title": "VERSABANK WELCOMES BACK FINANCING INDUSTRY VETERAN MOE DANIS TO SUPPORT ANTICIPATED GROWTH OF REAL-TIME SRP",
-      "description": "LONDON, ON, July 23, 2026 /PRNewswire/ -- VersaBank (\"VersaBank\" or the \"Bank\") (TSX: VBNK) (NASDAQ: VBNK), a North American leader in business-to-business digital banking, as well as technology solutions for cybersecurity, today announced it has added point-\u2026",
-      "url": "https://www.prnewswire.com/news-releases/versabank-welcomes-back-financing-industry-veteran-moe-danis-to-support-anticipated-growth-of-real-time-srp-302832753.html",
-      "source": "PRNewswire",
-      "date": "2026-07-23",
-      "image": "https://mmx.prnewswire.com/media/MS1229470/VersaBank-VERSABANK-WELCOMES-BACK-FINANCING-INDUSTRY-VETERAN-MOE.jpg?id=OA2780827&p=facebook",
-      "category": "market"
-    },
-    {
-      "title": "DHS chief\u2019s early missteps and an AI-generated version of \u2018The Odyssey\u2019: Morning Rundown",
-      "description": "Tension is brewing between the White House and Homeland Security Secretary Markwayne Mullin, sources say.",
-      "url": "https://www.nbcnews.com/news/us-news/markwayne-mullin-missteps-ai-generated-odyssey-morning-rundown-rcna588839",
-      "source": "NBC News",
-      "date": "2026-07-23",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260717-Markwayne-Mullin-ch-1118-9ad625.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Want to stay ahead of the markets instead of reacting after the headlines? Money Metals News delivers timely, in-depth coverage of the biggest stories affecting gold, silver, platinum, palladium, and rhodium, along with expert analysis of the economy, inflation, - LinkedIn",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOWWRvVVg4TUNqT3hGU3lSZmlZVmY4UUdsVlNzU2FlcGdHUC1Fb1k2SGNEYmpscktGeS14azVyVWh1d1EzUm9oVVlCc21kaS1BM0NWVWZNTk9UUWdsbmxKcndfbENRUmd3em8zaGVPNjVmd3hkZUJDUHo0d2VaZ2dJbE1pZVV5b000c0dRdmJGc3luMGRXX1c5bzBKSmFjNVliR3pRRVZKRTQ5ZVRZeC1yUlJHVURHbjRZR2",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWWRvVVg4TUNqT3hGU3lSZmlZVmY4UUdsVlNzU2FlcGdHUC1Fb1k2SGNEYmpscktGeS14azVyVWh1d1EzUm9oVVlCc21kaS1BM0NWVWZNTk9UUWdsbmxKcndfbENRUmd3em8zaGVPNjVmd3hkZUJDUHo0d2VaZ2dJbE1pZVV5b000c0dRdmJGc3luMGRXX1c5bzBKSmFjNVliR3pRRVZKRTQ5ZVRZeC1yUlJHVURHbjRZR2tUWQ?oc=5",
-      "source": "Google News - Precious Metals",
-      "date": "2026-07-23",
-      "image": "",
-      "category": "inflation"
     }
   ],
   "history": [
@@ -459,7 +459,7 @@
       "platinum_usd_oz": 1614.14
     }
   ],
-  "timestamp": "2026-07-24T16:45:54.535390+05:30",
+  "timestamp": "2026-07-24T19:51:17.745903+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
