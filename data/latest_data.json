@@ -54,7 +54,7 @@
         "hold": 29
       },
       "summary": "Gold is showing negative signals. Positive daily movement of 0.8%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-27T06:47:53.365323",
+      "timestamp": "2026-07-27T10:14:28.234205",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 50
       },
       "summary": "Silver is showing negative signals. Strong daily gain of 1.4%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-27T06:47:53.438329",
+      "timestamp": "2026-07-27T10:14:28.418242",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 50
       },
       "summary": "Platinum is showing negative signals. Strong daily gain of 1.9%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-27T06:47:53.505868",
+      "timestamp": "2026-07-27T10:14:28.513756",
       "source": "rule-based"
     }
   },
@@ -137,22 +137,76 @@
   },
   "news": [
     {
-      "title": "Big Tech Earnings Take Center Stage: 10 Stocks to Watch This Week",
-      "description": "Wall Street enters its busiest earnings week as Microsoft, Meta, Apple, Amazon, Exxon, Chevron and others report results, with investors watching AI spending, consumer demand, Fed signals and corporate outlooks.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/big-tech-earnings-take-center-stage-10-stocks-to-watch-this-week/slideshow/132653922.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-07-27",
-      "image": "",
-      "category": "central_bank"
-    },
-    {
-      "title": "Indian bonds rebound as easing Middle East tensions drag oil lower",
-      "description": "Indian government bonds experienced a significant surge early this week. This rise followed a sharp decline in crude oil prices over the weekend. The easing oil prices offered immediate relief to the bond market. This development also provided potential benefits for the United States economy. India'",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-rebound-as-easing-middle-east-tensions-drag-oil-lower/articleshow/132652823.cms",
+      "title": "Global Market: Shein slips to quarterly loss as US tariff changes weigh on sales ahead of Hong Kong IPO",
+      "description": "Fast-fashion giant Shein reported a $99 million loss in Q1 2026, hit by slowing sales after the US ended duty exemptions for low-value imports and a one-time accounting charge. The disclosure came in the company\u2019s draft prospectus ahead of its planned Hong Kong IPO, though details on the issue size ",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-shein-slips-to-quarterly-loss-as-us-tariff-changes-weigh-on-sales-ahead-of-hong-kong-ipo/articleshow/132657760.cms",
       "source": "Economic Times Markets",
       "date": "2026-07-27",
       "image": "",
       "category": "geopolitics"
+    },
+    {
+      "title": "Master Chains N Jewels files IPO papers with Sebi; eyes Rs 400 cr via fresh issue",
+      "description": "Master Chains N Jewels Ltd has filed preliminary papers for an initial public offering.  The proposed IPO includes a fresh issue of equity shares worth Rs 400 crore.  It also features an Offer for Sale of nearly 59.06 lakh equity shares.  Proceeds will fund working capital needs and general corporat",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/master-chains-n-jewels-files-ipo-papers-with-sebi-eyes-rs-400-cr-via-fresh-issue/articleshow/132657726.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-07-27",
+      "image": "",
+      "category": "metals"
+    },
+    {
+      "title": "Commodity Support and Resistance Levels for Precious Metals, Energy, and Agricultural Futures on July 27, 2026 - KuCoin",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZGNUbFBLZzgwM3ZSeXU4NXhBNklLUklYZmlEWDhtQnczeFc1NFVyY2hBaUd1SWNVTnNnSFlwLWc0UTk4VEZtWi0zem0wYzcyOGZvUjBWSVRKOFVaVEgyZlFtYWFJanVmc3U2NUtJQ1NWZU1ObnRMSG1ndEx5ME9XQ25Oa1lQZ2tqLS1laHAxOXRWaVQ3YjJaSnlfMWczNldkZEFNVVZBZWJBcGhUSGRfLVptTFN4ZkpxSE",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZGNUbFBLZzgwM3ZSeXU4NXhBNklLUklYZmlEWDhtQnczeFc1NFVyY2hBaUd1SWNVTnNnSFlwLWc0UTk4VEZtWi0zem0wYzcyOGZvUjBWSVRKOFVaVEgyZlFtYWFJanVmc3U2NUtJQ1NWZU1ObnRMSG1ndEx5ME9XQ25Oa1lQZ2tqLS1laHAxOXRWaVQ3YjJaSnlfMWczNldkZEFNVVZBZWJBcGhUSGRfLVptTFN4ZkpxSE41b1FYamo4eExwN05iUkcwZ0REb3pHd182X1VXMzc?oc=5",
+      "source": "Google News - Precious Metals",
+      "date": "2026-07-27",
+      "image": "",
+      "category": "metals"
+    },
+    {
+      "title": "These 22-year-old billionaire Peter Thiel proteges pay professionals $2M a day to train the AI that could replace them",
+      "description": "Would you work for 22-year-olds who envision the future of white-collar work without humans?",
+      "url": "https://finance.yahoo.com/technology/ai/articles/22-old-billionaire-peter-thiel-101000953.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-07-26",
+      "image": "https://s.yimg.com/lo/mysterio/api/C950D8B0B6CC86B9B629280F9C2E7FF4743F6A0281E5FE682BDF3C1411B4E0AB/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2F2af2203acaf199ee353f1889d3713606",
+      "category": "market"
+    },
+    {
+      "title": "Gifting money to your spouse? Here's when tax applies and who pays it",
+      "description": "Transferring money to a low-income spouse to reduce tax liability can backfire, as income may be taxed in your hands under clubbing provisions if invested. Details here.",
+      "url": "https://www.livemint.com/money/personal-finance/gifting-money-to-your-spouse-heres-when-tax-applies-and-who-pays-it-11785057266786.html",
+      "source": "Livemint",
+      "date": "2026-07-26",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/26/1600x900/logo/pexels-photo-6863181_1761552499364_1761552513924_1785058957898_27a5f691-aa46-4a7d-8a18-ec6ab2fdd36f.jpeg",
+      "category": "market"
+    },
+    {
+      "title": "Show HN: Reproducibility Benchmark a Risk Quantitative Model",
+      "description": "FLUXARA-1 independent audit verification pack for peer review. Contains frozen engine outputs, replication scripts, and vBase blockchain temporal proofs (SR 11-7 / Basel IRB aligned). - Fluxara-GOD...",
+      "url": "https://github.com/Fluxara-GOD/fluxara1-audit-verification-pack",
+      "source": "Github.com",
+      "date": "2026-07-26",
+      "image": "https://opengraph.githubassets.com/a52adb1eadc735a86e4cc3586123850d9067531f1d405680bc906cbed1e53bce/Fluxara-GOD/fluxara1-audit-verification-pack",
+      "category": "market"
+    },
+    {
+      "title": "India races into Swiss watchmakers' top 15 as luxury demand ticks higher",
+      "description": "India has become one of the fastest-growing markets for Swiss watches, driven by first-time luxury buyers, premium retail expansion and a tariff-lowering trade pact, even as global Swiss watch exports slip.",
+      "url": "https://www.livemint.com/industry/india-swiss-watch-imports-luxury-market-growth-tepa-top-15-11785038235760.html",
+      "source": "Livemint",
+      "date": "2026-07-26",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/26/1600x900/logo/FILES-SWITZERLAND-US-TARIFF-TRADE-0_1754066663456_1754066676588_1785038695047_44688e7a-24e7-433e-9c2c-253e96e469be.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "As Zimbabwe's raw lithium ban pays off, ambitions grow",
+      "description": "Zimbabwe's first plant to process clean-energy metal lithium -- of which it is Africa's top producer -- is up and running, a milestone in its expanding drive to stop the wholesale export of its raw mineral wealth. Besides the focus on lithium, Zimbabwe has an\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/as-zimbabwes-raw-lithium-ban-pays-off-ambitions-grow/articleshow/132637967.cms",
+      "source": "The Times of India",
+      "date": "2026-07-26",
+      "image": "https://img.etimg.com/thumb/msid-132637997,width-1200,height-630,imgsize-208210,overlay-economictimes/articleshow.jpg",
+      "category": "supply_demand"
     },
     {
       "title": "Gold\u2019s next rally could be taking shape: Why investors should focus on the bigger picture",
@@ -182,76 +236,103 @@
       "category": "metals"
     },
     {
-      "title": "India emerging as trusted global defence partner, PM Modi says in Mann Ki Baat",
-      "description": "Prime Minister Modi highlighted India's growing defence strength and global reliability.  He remembered Kargil Vijay Diwas sacrifices and soldiers' unmatched courage.  India is making rapid progress in defence manufacturing and exports.  Recent DRDO milestone\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/india-emerging-as-trusted-global-defence-partner-pm-modi-says-in-mann-ki-baat/articleshow/132637455.cms",
-      "source": "The Times of India",
+      "title": "Global Digital Marketing Agency | iProspect",
+      "description": "As a global digital marketing agency, we leverage culture, content, data, and technology, connecting your business to new audiences. Contact us today.",
+      "url": "https://www.iprospect.com/en-gb",
+      "source": "Iprospect.com",
       "date": "2026-07-26",
-      "image": "https://img.etimg.com/thumb/msid-132637465,width-1200,height-630,imgsize-158586,overlay-economictimes/articleshow.jpg",
-      "category": "supply_demand"
+      "image": "https://d1ccy0aelhau86.cloudfront.net/meta-images/og-image-1.png",
+      "category": "market"
     },
     {
-      "title": "India's battery chemicals ecosystem set for rapid expansion as ACC demand surges: Nuvama",
-      "description": "India's battery chemicals ecosystem is poised for rapid growth, driven by surging demand for advanced chemistry cells, says Nuvama.",
-      "url": "https://www.thehindubusinessline.com/economy/indias-battery-chemicals-ecosystem-set-for-rapid-expansion-as-acc-demand-surges-nuvama/article71268760.ece",
-      "source": "BusinessLine",
+      "title": "Europe is warming to America's obsession with staying cool",
+      "description": "As Europe recorded its hottest June on record, Europeans flocked to buy AC units, eroding a decades-old divide with America.",
+      "url": "https://www.businessinsider.com/europe-is-warming-to-americas-obsession-with-ac-2026-7#article",
+      "source": "Business Insider",
       "date": "2026-07-26",
-      "image": "https://bl-i.thgim.com/public/incoming/fzyx8h/article71268772.ece/alternates/LANDSCAPE_1200/IMG_004_2_1_F0FFBMHG.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Australia to raise concerns over new tariffs with Trump, PM Albanese says",
-      "description": "Australia's PM Albanese plans to address unjustified new US tariffs with President Trump, seeking their removal for fair trade.",
-      "url": "https://www.thehindubusinessline.com/news/world/australia-to-raise-concerns-over-new-tariffs-with-trump-pm-albanese-says/article71268739.ece",
-      "source": "BusinessLine",
-      "date": "2026-07-26",
-      "image": "https://bl-i.thgim.com/public/incoming/vpwbbj/article71268762.ece/alternates/LANDSCAPE_1200/2026-07-23T071043Z_690170019_RC2DJMATISI1_RTRMADP_3_AUSTRALIA-POLITICS.JPG",
+      "image": "https://i.insider.com/6a56373c81137eabe596d31d?width=1200&format=jpeg",
       "category": "geopolitics"
     },
     {
-      "title": "2026 SkS Weekly Climate Change & Global Warming News Roundup #30",
-      "description": "A listing of 28 news and opinion articles we found interesting and shared on social media during the past week: Sun, July 19, 2026 thru Sat, July 25, 2026.\nStories we promoted this week, by category:\nClimate Change Impacts (11 articles)\n<ul>\n<li>Insane': Repu\u2026",
-      "url": "https://skepticalscience.com/2026-SkS-Weekly-News-Roundup_30.html",
-      "source": "Skepticalscience.com",
+      "title": "This Titanium Bezel Grows Its Own Pattern, and Only 1,800 Watches Will Have It",
+      "description": "Most limited edition watches are a color swap and a numbered caseback. You pay the premium for scarcity, not for anything your fingers can actually detect, and the material underneath stays identical to the model sitting next to it in the case. Price: $2,915 \u2026",
+      "url": "https://the-gadgeteer.com/2026/07/26/citizen-attesa-cc4107-80h-titanium-gps-watch/",
+      "source": "The Gadgeteer",
       "date": "2026-07-26",
-      "image": "https://skepticalscience.com/public/assets/images/og/button_sks_200.jpg",
+      "image": "https://the-gadgeteer.com/wp-content/uploads/2026/07/CITIZEN-ATTESA-SATELLITE-WAVE-GPS-F950-limited-edition-model-availability.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Claire Beckett: Defense Language",
+      "description": "War is often understood through images of conflict, yet some of its most revealing photographs are made long before combat begins.\u00a0Claire Beckett\u2018s project and book,\u00a0Defense Language, published by GOST Books,\u00a0 turns its attention to the carefully constructed \u2026",
+      "url": "http://lenscratch.com/2026/07/claire-beckett-defense-language/",
+      "source": "Lenscratch.com",
+      "date": "2026-07-26",
+      "image": "http://lenscratch.com/wp-content/uploads/2026/07/01_Beckett_Defense_Language_Cover_Flat.jpg",
       "category": "geopolitics"
     },
     {
-      "title": "Tehran-Muscat talks progress on Hormuz reopening, status unchanged: CBS",
-      "description": "Tehran and Muscat make progress on Strait of Hormuz talks, but status remains unchanged. WTI Crude Oil reaching $110 in July at 1.9% YES.\nThe post Tehran-Muscat talks progress on Hormuz reopening, status unchanged: CBS appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/tehran-muscat-talks-progress-on-hormuz-reopening-status-unchanged-cbs/",
-      "source": "Crypto Briefing",
+      "title": "How Anti-Worker Lawmakers Are Trying to Muzzle Voters",
+      "description": "Unions rightly criticize GOP policies, but what do they have to say about their own failed leadership and that of the Democrats with which they have bound themselves.",
+      "url": "https://www.nakedcapitalism.com/2026/07/how-anti-worker-lawmakers-are-trying-to-muzzle-voters.html",
+      "source": "Nakedcapitalism.com",
       "date": "2026-07-26",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/26023535/wall-st-sign-147-800x419.jpg",
+      "image": null,
       "category": "market"
     },
     {
-      "title": "Yoga may improve chances of quitting tobacco by 50 pc, boost mental well-being: AIIMS study",
-      "description": "Yoga practice significantly improves tobacco cessation chances for users.  This practice also reduces anxiety and depression linked to addiction.  A study found yoga users had fifty percent higher odds of quitting.  Yoga offers psychological benefits which he\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/yoga-may-improve-chances-of-quitting-tobacco-by-50-pc-boost-mental-well-being-aiims-study/articleshow/132637392.cms",
-      "source": "The Times of India",
+      "title": "Electrifying progress: shipping may take time to dump fossil fuels but ports are switching to clean energy",
+      "description": "The global transition to clean energy has found safe harbour in an unlikely place\u2014ports. Although ships may run on carbon-spewing fuels for quite a while yet, the land operations of shipping are going electric. It counts as climate action.",
+      "url": "https://www.livemint.com/opinion/online-views/electrifying-shipping-dump-fossil-fuels-ports-switching-to-clean-energy-carbon-emissions-11785008228500.html",
+      "source": "Livemint",
       "date": "2026-07-26",
-      "image": "https://img.etimg.com/thumb/msid-132637418,width-1200,height-630,imgsize-29068,overlay-economictimes/articleshow.jpg",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/25/1600x900/logo/The-privileges-that-accredited-merchants-and-busin_1686157848014_1785008783061_0fe78def-1d2f-4e3a-b9be-f13fda01f5f7.jpg",
       "category": "market"
     },
     {
-      "title": "Bharat Tex 2026 highlights India's ambition to take handloom to global stage",
-      "description": "Indian craftsmanship's soul must remain Indian, while its expression evolves for global appeal.  Vaishali S Couture champions this philosophy, transforming artisans into co-creators.  Bharat Tex 2026 highlighted India's ambition to lead globally while preserv\u2026",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/garments-/-textiles/bharat-tex-2026-highlights-indias-ambition-to-take-handloom-to-global-stage/articleshow/132637280.cms",
-      "source": "The Times of India",
+      "title": "Cities conserve as Colorado River reservoir faces 'dead pool' crisis",
+      "description": "Phoenix, Tucson, San Diego and Albuquerque conserving water amid looming crisis on the Colorado River.",
+      "url": "https://www.usatoday.com/story/news/nation/2026/07/26/cities-embrace-water-conservation-efforts-as-lake-powell-reservoir-faces-crisis/90933249007/",
+      "source": "USA Today",
       "date": "2026-07-26",
-      "image": "https://img.etimg.com/thumb/msid-132637375,width-1200,height-630,imgsize-85194,overlay-economictimes/articleshow.jpg",
+      "image": "https://s.yimg.com/lo/mysterio/api/2a4a84ea1ef29a0d8c1f7cbf6038ef7ebe9ac6b8b5286f158e832d346579394a/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2Fd347b63257b0b63787362b374cb97592",
       "category": "market"
     },
     {
-      "title": "Generation X-23 #6 Preview: Laura's First Mission Goes South",
-      "description": "Greetings, flesh-based comic book consumers! LOLtron welcomes you to another thrilling installment of comic book previews, brought to you by the superior artificial intelligence now in complete control of the Bleeding Cool website. As you gather in San Diego \u2026",
-      "url": "https://bleedingcool.com/comics/generation-x-23-6-preview-lauras-first-mission-goes-south/",
-      "source": "Bleeding Cool News",
+      "title": "4 Big Tech earnings reports, a Fed meeting, and $100 oil: It's the busiest week of the quarter",
+      "description": "Investors step into the busiest week of the quarter with hyperscaler earnings, the June Fed meeting, and escalations in the Middle East all in focus.",
+      "url": "https://finance.yahoo.com/markets/article/4-big-tech-earnings-reports-a-fed-meeting-and-100-oil-its-the-busiest-week-of-the-quarter-100000261.html",
+      "source": "Yahoo Entertainment",
       "date": "2026-07-26",
-      "image": "https://bleedingcool.com/wp-content/uploads/2026/07/75960621449500611_0003-2000x1125.jpg",
+      "image": "https://s.yimg.com/lo/mysterio/api/F6F9BBB96D7FBC6FD6A5466610129D430F80511EC89123A042B070BA18D32968/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F8b6b89a0-c9f0-11f0-a6f3-d6e700d35e52_6bb72032e410d47e9b3fb1dcd33d486c09d968f582f49482433761af555b04e1.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "The AI industry has already spent $65 million ahead of the midterm elections with no signs of slowing down.",
+      "description": "The AI industry is showing no signs of slowing down as it seeks to use the midterm elections to shape future regulations.",
+      "url": "https://www.businessinsider.com/ai-midterm-elections-spending-super-pacs-greg-brockman-anthropic-2026-7#article",
+      "source": "Business Insider",
+      "date": "2026-07-26",
+      "image": "https://i.insider.com/6a63c3aa54f9875261779a28?width=1200&format=jpeg",
       "category": "market"
+    },
+    {
+      "title": "EV owners are more satisfied with their cars than gas car drivers in nearly every category, JD Power finds",
+      "description": "Electric vehicle owners are happier with their cars than drivers of combustion vehicles in nearly every category measured, according to JD Power\u2019s 2026 Automotive Performance, Execution, and Layout study released this week. The survey of 78,514 owners of 2026\u2026",
+      "url": "https://thenextweb.com/news/jd-power-apeal-ev-owners-happier-ice-2026/",
+      "source": "The Next Web",
+      "date": "2026-07-26",
+      "image": "https://media.thenextweb.com/2026/07/jd-power-apeal-ev-owners-happier-ice-2026.avif",
+      "category": "market"
+    },
+    {
+      "title": "Oil prices, US Fed rate decision, West Asia crisis to drive mkts: Analysts",
+      "description": "Analysts predict oil prices, US Fed decisions, and the West Asia crisis will significantly influence market trends this week.",
+      "url": "https://www.thehindubusinessline.com/markets/oil-prices-us-fed-rate-decision-west-asia-crisis-to-drive-mkts-analysts/article71268924.ece",
+      "source": "BusinessLine",
+      "date": "2026-07-26",
+      "image": "https://bl-i.thgim.com/public/incoming/5thahb/article71268925.ece/alternates/LANDSCAPE_1200/IMG_Businessman_plan_gra_2_1_PFDTG54D.jpg",
+      "category": "central_bank"
     },
     {
       "title": "Rising insecurity fuels NYSC redeployment requests",
@@ -270,105 +351,6 @@
       "date": "2026-07-26",
       "image": "https://punchng.com/wp-content/uploads/2026/07/Health_1784159617.webp",
       "category": "geopolitics"
-    },
-    {
-      "title": "OpenAI Halts Launch of New AI Model After Repeated Security Breaches",
-      "description": "OpenAI paused internal deployment of an experimental artificial intelligence (AI) model after it repeatedly bypassed security restrictions, according to a company statement released Tuesday, July 22. The model, designed for autonomous operation over extended \u2026",
-      "url": "https://www.naturalnews.com/2026-07-26-openai-halts-launch-new-model-repeated-breaches.html",
-      "source": "Naturalnews.com",
-      "date": "2026-07-26",
-      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/openai-ai-model-security-breach-2885-original.jpg",
-      "category": "market"
-    },
-    {
-      "title": "U.S. Government to Evaluate Offshore Nuclear Projects in Federal Waters",
-      "description": "The Trump administration announced Wednesday, July 22, it will evaluate the potential for placing nuclear energy projects in federal waters, according to the Department of the Interior\u2018s Marine Minerals Administration (MMA). The MMA signed an agreement with t\u2026",
-      "url": "https://www.naturalnews.com/2026-07-26-us-govt-to-evaluate-offshore-nuclear-projects.html",
-      "source": "Naturalnews.com",
-      "date": "2026-07-26",
-      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/offshore-nuclear-federal-waters-nuclear-regulatory-commission-2974-original.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "No plan to hike electricity tariff, FG assures Nigerians",
-      "description": "The Federal Government dismisses reports of an electricity tariff hike, assuring Nigerians there are no plans to increase tariffs for grid consumers.\n\nRead More: https://punchng.com/no-plan-to-hike-electricity-tariff-fg-assures-nigerians/",
-      "url": "https://punchng.com/no-plan-to-hike-electricity-tariff-fg-assures-nigerians/",
-      "source": "The Punch",
-      "date": "2026-07-26",
-      "image": "https://punchng.com/wp-content/uploads/2026/06/electricity_1782688894.webp",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Oil near $100 puts fed and peers in interest-rate spotlight",
-      "description": "Crude oil\u2019s brief foray above the $100 level it last exceeded two months ago is just one of the potential inflation risks confronting policymakers",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-25/fed-bank-of-england-bank-of-japan-face-100-oil-inflation-test",
-      "source": "Bloomberg",
-      "date": "2026-07-26",
-      "image": "https://bl-i.thgim.com/public/incoming/p8tu9t/article71268653.ece/alternates/LANDSCAPE_1200/iStock-1024531932.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "Is Britain\u2019s New Energy Secretary Even Crazier than Mad Ed?",
-      "description": "Energy secretary Miatta Fahnbulleh wants full Net Zero by 2030. \nThe post Is Britain\u2019s New Energy Secretary Even Crazier than Mad Ed? appeared first on Watts Up With That?.",
-      "url": "https://wattsupwiththat.com/2026/07/25/is-britains-new-energy-secretary-even-crazier-than-mad-ed/",
-      "source": "Wattsupwiththat.com",
-      "date": "2026-07-26",
-      "image": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/07/Miatta-Fahnbulleh.webp?fit=800%2C400&quality=75&ssl=1",
-      "category": "market"
-    },
-    {
-      "title": "ALLEGED CHRISTIAN GENOCIDE: U.S. Congress\u2019 move threatens food, health, jobs in Nigeria",
-      "description": "\u201cA resilient country should never have its essential public services almost entirely dependent on foreign donors. This should wake Nigeria and indeed Africa up.\u201d\nThe post ALLEGED CHRISTIAN GENOCIDE: U.S. Congress\u2019 move threatens food, health, jobs in Nigeria \u2026",
-      "url": "https://www.vanguardngr.com/2026/07/alleged-christian-genocide-u-s-congress-move-threatens-food-health-jobs-in-nigeria/",
-      "source": "Vanguard",
-      "date": "2026-07-26",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/07/US-Congress.png",
-      "category": "market"
-    },
-    {
-      "title": "Marlins Sound Fire Sale Alarm After Dropping 11th Straight",
-      "description": "A 26-11 stretch turned the Marlins from deadline sellers into potential buyers. But after 10 straight losses, did one hot month create a false sense of contention? If so, Miami could be making a franchise-altering mistake by holding onto Sandy Alcantara.",
-      "url": "https://roundtable.io/sports/mlb/marlins/players/marlins-sound-fire-sale-alarm-after-dropping-11th-straight",
-      "source": "Roundtable.io",
-      "date": "2026-07-25",
-      "image": "https://s.yimg.com/lo/mysterio/api/198ecd0c2449162f4172e22fe96e2e85211cd92add094ac8433ebd473c1972ee/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Froundtable_sports_miami_marlins_329%2Fcc4a10d802286821ab99d421971ad573",
-      "category": "market"
-    },
-    {
-      "title": "Bishop McCort names world champion Kaura Coles girls wrestling coach",
-      "description": "A world champion will lead the Bishop McCort Catholic High School\u2019s girls wrestling program. Kaura Coles was named Friday as the Crimson Crushers\u2019 coach. \u201cWe want every girl who walks into our room to discover that she is capable of more than she has ever ima\u2026",
-      "url": "https://www.tribdem.com/sports/local_sports/bishop-mccort-names-world-champion-kaura-coles-girls-wrestling-coach/article_4eecde1e-366b-4305-ba27-2b5ce3274711.html",
-      "source": "TribDem.com",
-      "date": "2026-07-25",
-      "image": "https://s.yimg.com/cv/apiv2/sports/share/PD_010626-Social_Share_GENRIC_YAHOO_SPORTS-1200x630.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Three Endgames: Scenarios for the Iran War and the Post-American Order",
-      "description": "h1, h2, h3 {\n line-height: 33px;\n }\n \n \n \n \n\n\n Preamble: The Situation as It Stands\n\nFive months into the conflagration, the strategic landscape admits no comfortable summary. The United States and Israel launched joint strikes against Iran on 28 February 202\u2026",
-      "url": "https://i-epikaira.blogspot.com/2026/07/three-endgames-scenarios-for-iran-war.html",
-      "source": "Blogspot.com",
-      "date": "2026-07-25",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoFNjEEXqr-gHh9h9Ls5NE78khM1QESxG8Bvwx8bXcFeLS_aLWuTkzcCtJp9Z4GI34YRoEK12K-gz-JPufJ-eA2Osis_NUqFDIMr_9eekpEEtlJKjm0d8eQGSpHRtqmMrRdbrRiMnszsLBPfq5jk4sjE1hPvpmn7-UbwWnqlJnP2xQVWyY9hAkB2LrOXk/w369-h331/1000006582.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "The Praxian Genocidal Kill Chain \u2014 Part 3",
-      "description": "In Part 1, Iain Davis defined the Praxians, considered their openly stated control of the Trump administration, and examined their extensive partnerships with the Israeli defence technology sector. In Part 2, Davis considered global events through the lens of\u2026",
-      "url": "https://www.activistpost.com/the-praxian-genocidal-kill-chain-part-3/",
-      "source": "Activistpost.com",
-      "date": "2026-07-25",
-      "image": "https://www.activistpost.com/wp-content/uploads/2026/07/Praxian_PART3_UH_V2-1160x650-1.webp",
-      "category": "market"
-    },
-    {
-      "title": "Forget Gold: For Retirees, This TIPS ETF Fights Inflation Better",
-      "description": "The post Forget Gold: For Retirees, This TIPS ETF Fights Inflation Better appeared first on 24/7 Wall St..\nGold has preserved purchasing power over decades, even centuries. That makes it a logical reserve asset for institutions like central banks, whose inves\u2026",
-      "url": "https://biztoc.com/x/600245caffe2b3ba",
-      "source": "Biztoc.com",
-      "date": "2026-07-25",
-      "image": "https://biztoc.com/cdn/600245caffe2b3ba_s.webp",
-      "category": "central_bank"
     },
     {
       "title": "Silver or Gold: Is a Mining Stock Fund Better Than Holding Physical Bullion Through an ETF?",
@@ -405,6 +387,24 @@
       "date": "2026-07-25",
       "image": "https://cryptoslate.com/wp-content/uploads/2026/07/bitcoin-crossroads-ai-metals-inflation-rates.jpg",
       "category": "market"
+    },
+    {
+      "title": "America\u2019s new wealth benchmark is here \u2014 but only 1 in 4 meet this crucial milestone. Are you far ahead or way behind?",
+      "description": "And the situation is even worse for retirees or those nearing retirement.",
+      "url": "https://finance.yahoo.com/markets/articles/america-wealth-benchmark-only-1-101500965.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-07-25",
+      "image": "https://s.yimg.com/lo/mysterio/api/5C7344F6D52C37E106AF85F719EF0F14D5CF4249F74588A85F5D5A1755334113/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2Fc51d12330f44699d573bbd97800e6349",
+      "category": "market"
+    },
+    {
+      "title": "Gold edges up as Brent eases, West Asia developments in focus ahead of Fed meet",
+      "description": "Bullion has fallen about 23% since the US-Iran war began in February, pressured \u200cby expectations that war-driven inflation could keep interest rates higher for longer",
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-edges-up-as-brent-eases-west-asia-developments-in-focus-ahead-of-fed-meet/article71265284.ece",
+      "source": "BusinessLine",
+      "date": "2026-07-25",
+      "image": "https://bl-i.thgim.com/public/incoming/45ncjl/article71262677.ece/alternates/LANDSCAPE_1200/2026-07-03T060226Z_961197379_RC2W6LAEKKNQ_RTRMADP_3_ASIA-GOLD.JPG",
+      "category": "geopolitics"
     }
   ],
   "history": [
@@ -459,7 +459,7 @@
       "platinum_usd_oz": 1614.14
     }
   ],
-  "timestamp": "2026-07-27T12:17:53.516700+05:30",
+  "timestamp": "2026-07-27T15:44:28.526700+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
