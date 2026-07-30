@@ -1,31 +1,94 @@
 {
   "news": [
     {
-      "title": "Dabur India shares fall 4% even as Q1 earnings meet estimates. What\u2019s spooking investors?",
-      "description": "Dabur India shares dropped over 4% on Thursday after reporting Q1 earnings. The company announced a 15% rise in net profit and 11% revenue growth. Brokerages noted steady performance, with home and personal care leading segment growth. Dabur expects double-digit revenue growth and improved margins f",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/dabur-india-shares-fall-4-even-as-q1-earnings-meet-estimates-whats-spooking-investors/articleshow/132728216.cms",
+      "title": "India central bank sold about $7 billion to defend rupee on Friday",
+      "description": "India's central bank sold approximately $7 billion to defend the rupee. The Reserve Bank of India intervened across markets as the currency neared a record low. This intervention followed a surge in crude prices impacting Asian oil importers. The RBI's actions helped lift the rupee further away from",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/india-central-bank-sold-about-7-billion-to-defend-rupee-on-friday/articleshow/132651573.cms",
       "source": "Economic Times Markets",
       "date": "2026-07-30",
       "image": "",
-      "category": "inflation"
+      "category": "central_bank"
     },
     {
-      "title": "Thangamayil Jewellery shares crash 19% in 2 days on weak Q2 outlook. What did the company say?",
-      "description": "Thangamayil Jewellery shares hit the lower circuit, extending losses to 19% in two sessions after the company warned of a weak Q2 FY27. The jeweller said sales showed no visible improvement in the first 28 days of the quarter due to geopolitical uncertainty and customers delaying purchases amid expe",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/thangamayil-jewellery-shares-crash-19-in-2-days-on-weak-q2-outlook-what-did-the-company-say/articleshow/132728014.cms",
+      "title": "Explained: Why Microsoft shares rallied 9% in extended trading after Q4 earnings despite AI worries",
+      "description": "Microsoft shares surged nearly 9% in extended trading after the software giant reported stronger-than-expected Q4 earnings and Azure cloud growth. Robust AI-driven demand, upbeat guidance and lower-than-expected capital expenditure expectations reassured investors that Microsoft's heavy investments ",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/explained-why-microsoft-shares-rallied-9-in-extended-trading-after-q4-earnings-despite-ai-worries/articleshow/132733071.cms",
       "source": "Economic Times Markets",
       "date": "2026-07-30",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "Global Market: BOJ may shift to inflation-fighting mode by December, says former official Watanabe",
-      "description": "The Bank of Japan could switch to an aggressive inflation-fighting stance as early as December 2026, accelerating interest rate hikes to quarterly intervals, according to former BOJ official Tsutomu Watanabe. Rising underlying inflation and wage growth may force the central bank to abandon its curre",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-boj-may-shift-to-inflation-fighting-mode-by-december-says-former-official-watanabe/articleshow/132727303.cms",
+      "title": "US bond yield is global finance\u2019s Achilles heel: Uday Kotak after Fed meeting",
+      "description": "The yield on the 30-year US Treasury bond rose to a 19-year high, according to a Reuters report, as concerns over the Federal Reserve\u2019s commitment to curbing inflation prompted investors to seek greater protection against inflation risks. The 10-year US Treasury yield also crossed 4.70%.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-bond-yield-is-global-finances-achilles-heel-uday-kotak-after-fed-meeting/articleshow/132732760.cms",
       "source": "Economic Times Markets",
       "date": "2026-07-30",
       "image": "",
       "category": "central_bank"
+    },
+    {
+      "title": "Maruti Q1 results: What could lead to a profit decline for India's largest carmaker?",
+      "description": "Maruti Suzuki is expected to post strong Q1FY27 revenue growth of 31% YoY, driven by robust volumes and better realisations. However, the average estimates of six brokerages point to a 7% decline in net profit as higher commodity costs, increased discounts and lower other income weigh on margins. In",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/maruti-q1-results-what-could-lead-to-a-profit-decline-for-indias-largest-carmaker/articleshow/132732464.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-07-30",
+      "image": "",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Global Market: Bank of England expected to hold rates steady as inflation risks stay in focus",
+      "description": "The Bank of England is expected to hold its benchmark interest rate at 3.75% as policymakers assess inflation risks from geopolitical tensions, energy prices and a slowing labour market. Investors will track the central bank\u2019s guidance on future rate moves.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-bank-of-england-expected-to-hold-rates-steady-as-inflation-risks-stay-in-focus/articleshow/132731866.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-07-30",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Which Jaguars players face most pressure, have most to lose in 2026?",
+      "description": "The Jaguars look to 2026 after a turnaround year. We analyze the players under pressure and those poised for a breakout.",
+      "url": "https://www.jacksonville.com/story/sports/nfl/jaguars/2026/07/29/jacksonville-jaguars-players-poised-for-success-failure-in-2026/91013033007/",
+      "source": "The Florida Times-Union",
+      "date": "2026-07-29",
+      "image": "https://s.yimg.com/lo/mysterio/api/aa5498f6034a2572be6764ba21af7a03717c0a42ff3a7f7df9d452954db553f7/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe-florida-times-union%2F58684ff6f02f350d7af05a1d6c6452dd",
+      "category": "market"
+    },
+    {
+      "title": "FIFA's $20 billion PE plan sets up fresh Europe showdown",
+      "description": "FIFA plans a twenty billion dollar subsidiary for World Cup events.  This move offers external investors up to twenty percent stakes.  UEFA criticizes this proposal, calling it a sale of the game's soul.  FIFA aims to democratize sport by sharing financial be\u2026",
+      "url": "https://economictimes.indiatimes.com/news/sports/football/fifas-20-billion-pe-plan-sets-up-fresh-europe-showdown/articleshow/132706964.cms",
+      "source": "The Times of India",
+      "date": "2026-07-29",
+      "image": "https://img.etimg.com/thumb/msid-132707163,width-1200,height-630,imgsize-52064,overlay-economictimes/articleshow.jpg",
+      "category": "currency"
+    },
+    {
+      "title": "Why is Uganda experiencing a food crisis?",
+      "description": "At least 19 people have died of starvation in the country and 1.5 million are at risk of malnutrition, experts warn.",
+      "url": "https://www.aljazeera.com/news/2026/7/29/why-is-uganda-experiencing-a-food-crisis",
+      "source": "Al Jazeera English",
+      "date": "2026-07-29",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2022/06/000_32C226X.jpg?resize=1920%2C1440",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Dormer Pramet to showcase latest tooling innovations at AMB 2026",
+      "description": "ERLANGEN, Germany, July 29, 2026 (GLOBE NEWSWIRE) -- Dormer Pramet will showcase its latest cutting tool innovations at AMB 2026 in Stuttgart, Germany, offering visitors the opportunity to experience the latest additions to its turning, milling and drilling p\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/07/29/3334991/0/en/Dormer-Pramet-to-showcase-latest-tooling-innovations-at-AMB-2026.html",
+      "source": "GlobeNewswire",
+      "date": "2026-07-29",
+      "image": "https://ml.globenewswire.com/Resource/Download/14e16117-183e-4320-aa1a-1a5b69a8f210",
+      "category": "market"
+    },
+    {
+      "title": "HTX's First TradFi \"Trade to Earn\" Campaign Unleashes New Trading Momentum: Rewards Exceed $23,000, Fee Savings Reach 1.8 Billion $HTX",
+      "description": "APIA, Samoa, July 29, 2026 (GLOBE NEWSWIRE) -- Recently, HTX's first-ever TradFi \u201cTrade to Earn\u201d campaign concluded successfully. The campaign leveraged innovative gameplay - \"24/7 mining\" and \"up to 110% fee rebates\" - to ignite significant trading enthusias\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/07/29/3334989/0/en/HTX-s-First-TradFi-Trade-to-Earn-Campaign-Unleashes-New-Trading-Momentum-Rewards-Exceed-23-000-Fee-Savings-Reach-1-8-Billion-HTX.html",
+      "source": "GlobeNewswire",
+      "date": "2026-07-29",
+      "image": "https://ml.globenewswire.com/Resource/Download/cf597ba8-a998-40fa-8403-9ff0fe2fb0a6",
+      "category": "geopolitics"
     },
     {
       "title": "There Is No Oil Price",
@@ -43,60 +106,6 @@
       "source": "GlobeNewswire",
       "date": "2026-07-29",
       "image": "https://ml-eu.globenewswire.com/Resource/Download/a9c694e6-43b8-4a90-b465-8ad89974bf03",
-      "category": "market"
-    },
-    {
-      "title": "Beyond Bitcoin: Crypto trends investors should watch over the next 6 months",
-      "description": "CoinDCX Co-founder Sumit Gupta writes that disciplined investing through crypto SIPs is replacing market timing. Beyond Bitcoin, structural value is forming across stablecoin payment rails, real-world asset tokenisation led by institutions like BlackRock, and\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/beyond-bitcoin-crypto-trends-investors-should-watch-over-the-next-6-months/articleshow/132701499.cms",
-      "source": "The Times of India",
-      "date": "2026-07-29",
-      "image": "https://img.etimg.com/thumb/msid-132701565,width-1200,height-630,imgsize-190784,overlay-etmarkets/articleshow.jpg",
-      "category": "market"
-    },
-    {
-      "title": "A man loved to buy new cars. But his wife found a trick to stop him and save money. Actor Madhavan was left amazed",
-      "description": "During an interview with R Madhavan, banker Sarthak Ahuja explained how men and women often approach money differently. He shared a client\u2019s story where a wife asked her husband to buy gold equal to every car he purchased, helping him control expenses and bui\u2026",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/a-man-loved-to-buy-new-cars-but-his-wife-found-a-trick-to-stop-him-and-save-money-actor-madhavan-was-left-amazed/articleshow/132701255.cms",
-      "source": "The Times of India",
-      "date": "2026-07-29",
-      "image": "https://img.etimg.com/thumb/msid-132701452,width-1200,height-630,imgsize-137592,overlay-etpanache/articleshow.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "Top Gold IRA Companies Reported \u2013 Goldco Wins Best Overall",
-      "description": "InvestingInGold.com releases its latest Gold IRA review, naming Goldco Best Overall for client experience, reputation, and educational resources. InvestingInGold.com releases its latest Gold IRA review, naming Goldco Best Overall for client experience, reputa\u2026",
-      "url": "https://www.globenewswire.com/news-release/2026/07/29/3334945/0/en/Top-Gold-IRA-Companies-Reported-Goldco-Wins-Best-Overall.html",
-      "source": "GlobeNewswire",
-      "date": "2026-07-29",
-      "image": "https://ml.globenewswire.com/Resource/Download/dd7618ee-8889-40ea-b492-3962c2b961d8",
-      "category": "metals"
-    },
-    {
-      "title": "Nifty correction a buying opportunity, but keep 10-15% cash: Sonam Srivastava",
-      "description": "Banking is still the best risk-reward pocket in my view\u2014valuations are attractive, credit growth is strong, and NPAs are very low. There\u2019s also some value in healthcare and a few capital goods names where order books are robust, and earnings don\u2019t depend on c\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/nifty-correction-a-buying-opportunity-but-keep-10-15-cash-sonam-srivastava/articleshow/132697959.cms",
-      "source": "The Times of India",
-      "date": "2026-07-29",
-      "image": "https://img.etimg.com/thumb/msid-132698232,width-1200,height-630,imgsize-78970,overlay-etmarkets/articleshow.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Economic Digest: A Snapshot of Nepal\u2019s Business News",
-      "description": "KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. The latest economic developments in Nepal present a mixed picture of cautious reform, improving sectora\u2026",
-      "url": "https://english.khabarhub.com/2026/29/560713/",
-      "source": "Khabarhub.com",
-      "date": "2026-07-29",
-      "image": "https://english.khabarhub.com/wp-content/uploads/2024/05/Economic-Digest.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Alkane Significantly Increases Storheden Mineral Resource and Provides Exploration Update",
-      "description": "Alkane Significantly Increases Storheden Mineral Resource...",
-      "url": "https://www.globenewswire.com/news-release/2026/07/29/3334928/0/en/Alkane-Significantly-Increases-Storheden-Mineral-Resource-and-Provides-Exploration-Update.html",
-      "source": "GlobeNewswire",
-      "date": "2026-07-29",
-      "image": "https://ml.globenewswire.com/Resource/Download/0bd8dbe7-beb1-4096-acd8-3e038bb749a0",
       "category": "market"
     },
     {
@@ -136,6 +145,15 @@
       "category": "metals"
     },
     {
+      "title": "Top Gold IRA Companies Reported \u2013 Goldco Wins Best Overall",
+      "description": "InvestingInGold.com releases its latest Gold IRA review, naming Goldco Best Overall for client experience, reputation, and educational resources. InvestingInGold.com releases its latest Gold IRA review, naming Goldco Best Overall for client experience, reputa\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/07/29/3334945/0/en/Top-Gold-IRA-Companies-Reported-Goldco-Wins-Best-Overall.html",
+      "source": "GlobeNewswire",
+      "date": "2026-07-29",
+      "image": "https://ml.globenewswire.com/Resource/Download/dd7618ee-8889-40ea-b492-3962c2b961d8",
+      "category": "metals"
+    },
+    {
       "title": "Gold, silver prices slip as Fed decision, stronger dollar keep traders cautious",
       "description": "Bullion markets faced a combination of global and domestic headwinds as investors balanced monetary policy expectations, currency movements and geopo",
       "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-rate-today-live-updates-18k-22-carat-24k-gold-price-10g-silver-cost-per-kg-mcx-comex-etf-stock-precious-metal-gold-prediction-city-wise-cost-latest-gold-news/liveblog/132698224.cms",
@@ -145,41 +163,23 @@
       "category": "central_bank"
     },
     {
-      "title": "Quote of the day from Jim Carrey: 'Life doesn't happen to you. It happens for you. We are part of...' - Hollywood legend on spirituality, purpose and having faith in life's journey",
-      "description": "Jim Carrey quote of the day: Hollywood actor Jim Carrey's quote on life's challenges. He believes difficulties are invitations for personal growth and connection. Carrey's perspective shifted from victimhood to empowerment and inner connection. His early life\u2026",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/quote-of-the-day-from-jim-carrey-life-doesnt-happen-to-you-it-happens-for-you-we-are-part-of-hollywood-legend-on-spirituality-purpose-and-having-faith-in-lifes-journey/articleshow/132701321.cms",
-      "source": "The Times of India",
+      "title": "Iran War: Iran Hits US Base in Jordan After US-Saudi Strike on Iraqi Militia",
+      "description": "Today's Iran war news. So much for that pause. Iran hit the US base in Jordan because provocation as Netanyahu pushes for bigger US strikes.",
+      "url": "https://www.nakedcapitalism.com/2026/07/iran-war-iran-hits-us-base-in-jordan-after-us-saudi-strike-on-iraqi-militia.html",
+      "source": "Nakedcapitalism.com",
       "date": "2026-07-29",
-      "image": "https://img.etimg.com/thumb/msid-132701435,width-1200,height-630,imgsize-139828,overlay-etpanache/articleshow.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Coforge shares rally 5% after strong Q1 earnings; net profit surges 63% YoY",
-      "description": "Coforge shares surged after the IT services firm reported strong Q1 FY27 results. Net profit jumped 63% YoY, while revenue from operations rose 49% YoY to \u20b95,527.7 crore, marking a 24% QoQ growth. The strong performance boosted investor sentiment toward the s\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/coforge-shares-rally-5-after-strong-q1-earnings-net-profit-surges-63-yoy/articleshow/132702559.cms",
-      "source": "The Times of India",
-      "date": "2026-07-29",
-      "image": "https://img.etimg.com/thumb/msid-132702562,width-1200,height-630,imgsize-2122020,overlay-etmarkets/articleshow.jpg",
+      "image": "https://www.nakedcapitalism.com/wp-content/uploads/2026/07/Screenshot-2026-07-29-at-1.24.28\u202fPM.png",
       "category": "geopolitics"
     },
     {
-      "title": "Electrolux Group Interim report Q2 2026",
-      "description": "STOCKHOLM, July 29, 2026 /PRNewswire/ -- Highlights of the second quarter of 2026 Net sales amounted to SEK 31,569m (31,276) with organic sales growth of 2.0% (1.8). Growth was driven by increased sales volumes in Europe, Middle East & Africa and Asia Pacific\u2026",
-      "url": "https://www.prnewswire.com/news-releases/electrolux-group-interim-report-q2-2026-302837419.html",
-      "source": "PRNewswire",
+      "title": "Norwegian Cruise Line Stock: Analyst Estimates & Ratings",
+      "description": "Miami, Florida-based Norwegian Cruise Line Holdings Ltd. (NCLH) is a leading global cruise company that owns and operates three distinct cruise brands: Norwegian Cruise Line, Oceania Cruises, and Regent Seven Seas Cruises. Valued at a market capitalization of\u2026",
+      "url": "https://biztoc.com/x/cd7afa567a2875f3",
+      "source": "Biztoc.com",
       "date": "2026-07-29",
-      "image": null,
-      "category": "currency"
-    },
-    {
-      "title": "Silverpush Helps Epitaph Group Reverse the Algorithm to Win Big at Cannes Lions 2026",
-      "description": "Silverpush Helps Epitaph Group Reverse the Algorithm to Win Big at Cannes Lions 2026",
-      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/silverpush-helps-epitaph-group-reverse-the-algorithm-to-win-big-at-cannes-lions-2026/article71280154.ece",
-      "source": "BusinessLine",
-      "date": "2026-07-29",
-      "image": "https://bl-i.thgim.com/public/incoming/2hz4wq/article71280153.ece/alternates/LANDSCAPE_1200/Silverpush_Logo.jpg",
-      "category": "metals"
+      "image": "https://biztoc.com/cdn/cd7afa567a2875f3_s.webp",
+      "category": "market"
     }
   ],
-  "timestamp": "2026-07-30T06:04:17.271354"
+  "timestamp": "2026-07-30T09:11:46.426508"
 }
