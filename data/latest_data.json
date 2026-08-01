@@ -1,84 +1,84 @@
 {
   "prices": {
     "gold": {
-      "price_per_gram_inr": 12626.5,
-      "price_usd_oz": 4107.77,
-      "change_percent": 0.75,
-      "change_value_usd": 30.76,
-      "price_per_10g_inr": 126264.96
+      "price_per_gram_inr": 12416.86,
+      "price_usd_oz": 4043.21,
+      "change_percent": -1.47,
+      "change_value_usd": -60.27,
+      "price_per_10g_inr": 124168.61
     },
     "silver": {
-      "price_per_gram_inr": 181.66,
-      "price_usd_oz": 59.1,
-      "change_percent": 1.41,
-      "change_value_usd": 0.82,
-      "price_per_kg_inr": 181656.12
+      "price_per_gram_inr": 176.77,
+      "price_usd_oz": 57.56,
+      "change_percent": -2.44,
+      "change_value_usd": -1.44,
+      "price_per_kg_inr": 176770.61
     },
     "platinum": {
-      "price_per_gram_inr": 4961.56,
-      "price_usd_oz": 1614.14,
-      "change_percent": 1.88,
-      "change_value_usd": 29.72
+      "price_per_gram_inr": 5061.38,
+      "price_usd_oz": 1648.1,
+      "change_percent": -0.7,
+      "change_value_usd": -11.6
     },
     "currencies": {
-      "USD_INR": 95.6063,
-      "EUR_INR": 109.1147,
-      "GBP_INR": 127.8672,
-      "JPY_INR": 0.5883,
-      "CHF_INR": 118.2368,
-      "AUD_INR": 66.269,
-      "CAD_INR": 67.4566,
-      "SGD_INR": 73.8957
+      "USD_INR": 95.5201,
+      "EUR_INR": 109.9575,
+      "GBP_INR": 128.5081,
+      "JPY_INR": 0.6025,
+      "CHF_INR": 118.1887,
+      "AUD_INR": 67.0834,
+      "CAD_INR": 68.1265,
+      "SGD_INR": 74.4564
     },
-    "gold_silver_ratio": 69.51,
-    "timestamp": "2026-07-09T07:04:10.194636",
+    "gold_silver_ratio": 70.24,
+    "timestamp": "2026-08-01T06:12:59.043564",
     "source": "GoldAPI"
   },
   "currencies": {
-    "USD_INR": 95.6063,
-    "EUR_INR": 109.1147,
-    "GBP_INR": 127.8672,
-    "JPY_INR": 0.5883,
-    "CHF_INR": 118.2368,
-    "AUD_INR": 66.269,
-    "CAD_INR": 67.4566,
-    "SGD_INR": 73.8957
+    "USD_INR": 95.5201,
+    "EUR_INR": 109.9575,
+    "GBP_INR": 128.5081,
+    "JPY_INR": 0.6025,
+    "CHF_INR": 118.1887,
+    "AUD_INR": 67.0834,
+    "CAD_INR": 68.1265,
+    "SGD_INR": 74.4564
   },
   "analysis": {
     "gold": {
       "metal": "gold",
       "recommendation": "SELL",
       "confidence": {
-        "buy": 15,
-        "sell": 56,
-        "hold": 29
+        "buy": 10,
+        "sell": 65,
+        "hold": 25
       },
-      "summary": "Gold is showing negative signals. Positive daily movement of 0.8%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-31T15:00:29.505240",
+      "summary": "Gold is showing negative signals. Significant daily drop of -1.5%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-08-01T06:13:04.488574",
       "source": "rule-based"
     },
     "silver": {
       "metal": "silver",
-      "recommendation": "HOLD",
+      "recommendation": "SELL",
       "confidence": {
-        "buy": 25,
-        "sell": 25,
-        "hold": 50
+        "buy": 10,
+        "sell": 65,
+        "hold": 25
       },
-      "summary": "Silver is showing negative signals. Strong daily gain of 1.4%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-31T15:00:29.606381",
+      "summary": "Silver is showing negative signals. Significant daily drop of -2.4%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-08-01T06:13:04.596630",
       "source": "rule-based"
     },
     "platinum": {
       "metal": "platinum",
-      "recommendation": "HOLD",
+      "recommendation": "SELL",
       "confidence": {
-        "buy": 25,
-        "sell": 25,
-        "hold": 50
+        "buy": 10,
+        "sell": 65,
+        "hold": 25
       },
-      "summary": "Platinum is showing negative signals. Strong daily gain of 1.9%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-07-31T15:00:29.703923",
+      "summary": "Platinum is showing negative signals. Slight decline of -0.7%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-08-01T06:13:04.707882",
       "source": "rule-based"
     }
   },
@@ -90,14 +90,14 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -4.8% in 4 weeks",
+        "Weak momentum: -6.9% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
-      "support": 126264.96,
+      "support": 124168.61,
       "resistance": 140736.5,
-      "current_price": 126264.96,
-      "ma_short": 130028.23,
-      "ma_long": 132169.88,
+      "current_price": 124168.61,
+      "ma_short": 127922.0,
+      "ma_long": 130836.34,
       "trend_score": -3.5
     },
     "silver": {
@@ -107,14 +107,14 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -12.5% in 4 weeks",
+        "Weak momentum: -16.0% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
-      "support": 181656.12,
+      "support": 176770.61,
       "resistance": 243170.57,
-      "current_price": 181656.12,
-      "ma_short": 197684.77,
-      "ma_long": 206781.93,
+      "current_price": 176770.61,
+      "ma_short": 189976.71,
+      "ma_long": 201780.05,
       "trend_score": -3.5
     },
     "platinum": {
@@ -124,287 +124,287 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -9.0% in 4 weeks",
+        "Weak momentum: -6.6% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
       "support": 4961.56,
       "resistance": 6206.5,
-      "current_price": 4961.56,
-      "ma_short": 5216.04,
-      "ma_long": 5414.13,
+      "current_price": 5061.38,
+      "ma_short": 5119.0,
+      "ma_long": 5355.34,
       "trend_score": -3.5
     }
   },
   "news": [
     {
-      "title": "Dollywood Ends the Suspense: Official Opening Date Confirmed for Ambitious $50M Coaster",
-      "description": "For months, Dollywood fans have watched the calendar, hoping for good news after an unexpected delay pushed back one of the park\u2019s most ambitious attractions. Construction updates kept interest high, but questions about when guests would finally get to experi\u2026",
-      "url": "https://insidethemagic.net/2026/07/dollywood-ends-the-suspense-official-opening-date-confirmed-for-ambitious-50m-coaster-sb1/",
-      "source": "Inside the Magic",
-      "date": "2026-07-30",
-      "image": "https://insidethemagic.net/wp-content/uploads/2026/07/dollywood-summer-celebration-sign.jpg",
-      "category": "market"
-    },
-    {
-      "title": "La Mancha Resource Fund to acquire 19.9% stake in Miata Metals",
-      "description": "The investment involves a private placement of approximately 31 million shares, raising around $9.03m (C$12.7m) for Miata Metals.",
-      "url": "https://www.mining-technology.com/news/la-mancha-to-acquire-stake-miata-metals/",
-      "source": "Mining Technology",
-      "date": "2026-07-30",
-      "image": "https://s.yimg.com/lo/mysterio/api/2D976C71800AD9B32F95AF087CC2D19706345B29A0602F8988F88B32D73B5090/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmining_technology_700%2F010373ba29080d9b134e4e06f6982e02",
-      "category": "market"
-    },
-    {
-      "title": "Gold Electronics Demand Rises 4% on AI Infrastructure Boom",
-      "description": "AI infrastructure lifted gold electronics demand 4% in Q2, while smartphone shipments are on track for the steepest annual contraction.",
-      "url": "https://beincrypto.com/ai-gold-electronics-demand-q2-2026/",
-      "source": "BeInCrypto",
-      "date": "2026-07-30",
-      "image": "https://s.yimg.com/lo/mysterio/api/17A6E6E4E45C04F4BFB1CD01611E72C605D7EEFC99444A47A4CAF84415988EED/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Feab053139b60f3614f35a2e02311c8fd",
-      "category": "supply_demand"
-    },
-    {
-      "title": "The Coca-Cola Company: Volume Scale Beats CPG Stagflation as FIFA Activation Drives Guidance Upgrade",
-      "description": "The Consumer Packaged Goods (CPG) industry is going through a major shift this year, with broad inflation-driven price hikes having reached their peak. With...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-company-volume-scale-131924953.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-07-30",
-      "image": "https://s.yimg.com/lo/mysterio/api/5E21755AB35DB2CDD5718E2B091B1EF4586B9C34ED93505C0B92D64142ADB038/subgraphmysterio/resizefill_w1200_h797;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F18e5a9de2ae37bf8d647a668a59ce747",
-      "category": "inflation"
-    },
-    {
-      "title": "Veracyte (VCYT) Rises with Upward Guidance Revision and Earnings Beat",
-      "description": "Meridian Funds, managed by ArrowMark Partners, released its second-quarter 2026 investor letter for \u201cMeridian Small Cap Growth Fund\u201d. A copy of the letter ca...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/veracyte-vcyt-rises-upward-guidance-131733735.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-07-30",
-      "image": "https://s.yimg.com/lo/mysterio/api/0FDB45764EFF554CE2AE8FCC7C4871D1BCF3D7FDB81395817606A57388FAB274/subgraphmysterio/resizefill_w1200_h672;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fc200f697adf7d3a10877801a1a41bce0",
+      "title": "Aluminium signals recovery after correction; supply risks and energy concerns may drive the next leg higher",
+      "description": "The recent rebound has been supported by tightening global inventories, concerns over energy availability in key producing regions, geopolitical tensions in the Middle East, and expectations of robust demand from the power, transportation, renewable energy, and electric vehicle sectors.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/aluminium-signals-recovery-after-correction-supply-risks-and-energy-concerns-may-drive-the-next-leg-higher/articleshow/132761511.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-08-01",
+      "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "Tandem Diabetes Care (TNDM) Slid as Lower Beta Profile Lags in Risk On Market",
-      "description": "Meridian Funds, managed by ArrowMark Partners, released its second-quarter 2026 investor letter for \u201cMeridian Small Cap Growth Fund\u201d. A copy of the letter ca...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tandem-diabetes-care-tndm-slid-131547358.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-07-30",
-      "image": "https://s.yimg.com/lo/mysterio/api/F2059C446E85B9F59CA9A65C9951DB6B18C826BD593CD521A3375EF6B460ABD5/subgraphmysterio/resizefill_w1200_h672;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F9f7add0a677d67c0b551fbef3f7a8b04",
-      "category": "market"
-    },
-    {
-      "title": "New Designation Offers Expertise in Donor-Advised Funds",
-      "description": "DAFCP\u2122 Program Helps Advisors & Nonprofit Professionals Differentiate Themselves as Philanthropic Planning Specialists KING OF PRUSSIA, Pa., July 30, 2026 /PRNewswire/ -- The American College of Financial Services announces the launch of the standard of educa\u2026",
-      "url": "https://www.prnewswire.com/news-releases/new-designation-offers-expertise-in-donor-advised-funds-302839026.html",
-      "source": "PRNewswire",
-      "date": "2026-07-30",
-      "image": "https://mmx.prnewswire.com/media/MS1961030/The-American-College-of-Financial-Services-2.jpg?id=OA2804552&p=facebook",
-      "category": "market"
-    },
-    {
-      "title": "This 4,000-year-old city defied the rules of history",
-      "description": "As Mohenjo-daro prospered, the gap between its richest and poorest households actually shrank. Its shared infrastructure, fair trade systems, and lack of powerful royal elites suggest that equality may have helped fuel the ancient city\u2019s success.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260729010730.htm",
-      "source": "Science Daily",
-      "date": "2026-07-30",
-      "image": "https://www.sciencedaily.com/images/1920/ancient-city-of-mohenjo-daro-indus-valley-civilization.webp",
-      "category": "market"
-    },
-    {
-      "title": "Gold Rises \u20b91,000 To \u20b91.48 Lakh Per 10 Grams On Fresh Retail Buying",
-      "description": "Gold prices in Delhi rose Rs 1,000 to Rs 1.48 lakh per 10 grams on fresh buying by jewellers and retailers, supported by firm global trends. Silver fell Rs 600 per kg, while analysts said upcoming US economic data and geopolitical developments could keep prec\u2026",
-      "url": "https://www.freepressjournal.in/business/gold-rises-1000-to-148-lakh-per-10-grams-on-fresh-retail-buying",
-      "source": "Free Press Journal",
-      "date": "2026-07-30",
-      "image": "https://media.assettype.com/freepressjournal/2026-07-30/40l5a6fq/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Queen-Of-All-Mayhem-2026-07-30T190708.104.jpg",
+      "title": "5 World Market themes for the week ahead",
+      "description": "Global markets face significant turbulence this week from multiple sources.  AI-linked stocks are experiencing unprecedented volatility as investor concerns grow.  The ongoing conflict in the Middle East continues to impact oil prices and trade routes.  U.S. jobs data will provide clues on potential",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/5-world-market-themes-for-the-week-ahead/articleshow/132780885.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-08-01",
+      "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "Silver prices today, Thursday, July 30, 2026: Silver prices remain below $60, even without a rate increase",
-      "description": "Silver September futures opened at $57.97 per ounce on Thursday, July 30, 2026, down 0.2% from Wednesday's closing price. Silver prices moved higher this mor...",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-thursday-july-30-2026-silver-prices-remain-below-60-even-without-a-rate-increase-125729235.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-07-30",
-      "image": "https://s.yimg.com/lo/mysterio/api/7B6C1FC44F8D17505763172CFC897DB3A215A0F0AF3402A830D26417DBB414AF/subgraphmysterio/resizefill_w1200_h780;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-12%2F01dc5a90-df88-11f0-bfff-e5a5c38339cf",
-      "category": "metals"
+      "title": "Fed chief Warsh faces hard choice on inflation after bond market's 'red flag'",
+      "description": "Federal Reserve Chairman Kevin Warsh faces a difficult choice regarding monetary policy.  His recent statements on inflation have unsettled bond markets significantly.  Some central bankers are advocating for interest rate hikes to combat rising prices.  Others, however, are hesitant to disappoint P",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-chief-warsh-faces-hard-choice-on-inflation-after-bond-markets-red-flag/articleshow/132780818.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-08-01",
+      "image": "",
+      "category": "geopolitics"
     },
     {
-      "title": "AARP: Nearly half of U.S. private-sector workers have no retirement account. Build your nest egg before it's too late",
-      "description": "It's even worse for young workers, but near-retirees are in serious trouble, too.",
-      "url": "https://finance.yahoo.com/small-business/articles/aarp-nearly-half-u-private-124500924.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-07-30",
-      "image": "https://s.yimg.com/lo/mysterio/api/D846579F763375376BDC2F9A8F3F012F54DF73E2A7A6F3521AFC1232F2902EFD/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2Fd5095ae25c39684f510481b3a8a4fcd9",
+      "title": "Best Travel Clothes For Men",
+      "description": "The Best travel clothes for men need to hit that sweet spot between performance and design for traveling light. Western Rise does just that.",
+      "url": "https://www.theprofessionalhobo.com/best-travel-clothes-for-men/",
+      "source": "Theprofessionalhobo.com",
+      "date": "2026-07-31",
+      "image": "https://www.theprofessionalhobo.com/wp-content/uploads/2020/10/Best-Travel-Clothes-for-Men.jpg",
       "category": "market"
     },
     {
-      "title": "55 Grams of Gold Per Tonne, and a Map That Says It Is Not an Accident: A Junior's District-Scale Story Comes Into Focus",
-      "description": "Issued on behalf of GoldHaven Resources Corp. (CSE: GOH) (OTCQB: GHVNF) (FSE: 4QS) VANCOUVER, BC, July 30, 2026 /PRNewswire/ -- USA News Group News Commentary - With gold trading around record levels above US$4,000 an ounce, the hunt for high-grade discovery \u2026",
-      "url": "https://www.prnewswire.com/news-releases/55-grams-of-gold-per-tonne-and-a-map-that-says-it-is-not-an-accident-a-juniors-district-scale-story-comes-into-focus-302838599.html",
-      "source": "PRNewswire",
-      "date": "2026-07-30",
-      "image": "https://mmx.prnewswire.com/media/MS1718298/USA-News-Group-Logo.jpg?id=OA2810077&p=facebook",
-      "category": "metals"
-    },
-    {
-      "title": "'Big Short' investor Steve Eisman says AI is 'one trade' and a 'big correction\u2019 will come. Is your portfolio exposed?",
-      "description": "AI will change the world, but the \"how\" is up for debate.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/big-short-investor-steve-eisman-122500497.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-07-30",
-      "image": "https://s.yimg.com/lo/mysterio/api/1CB78E4EEFC481862B4A7BA4D825A764C4E758FB120F055DD0C2863405B5BDA7/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2F6edf2934c606dcf701f69778f7a7887e",
+      "title": "The field marshal remaking Pakistan\u2019s place in the world",
+      "description": "Asim Munir is trying to refashion Pakistan\u2019s place in the world \u2014 and bolster his power at home",
+      "url": "https://www.irishtimes.com/world/asia-pacific/2026/07/28/pakistans-all-powerful-field-marshal-capitalises-on-ties-with-riyadh-while-keeping-a-lid-on-challenges-through-authoritarian-rule/",
+      "source": "The Irish Times",
+      "date": "2026-07-31",
+      "image": "https://www.irishtimes.com/resizer/v2/B2IDITG3HNF73HL2DKMDXAYQHA.jpg?smart=true&auth=401b237bcfdc9cc91007216cf2f2fedb9b0fbfacec1a2a92e5c39673fd805320&width=1200&height=630",
       "category": "market"
     },
     {
-      "title": "Hot Chili Quarterly Report - Period Ending 30 June 2026",
-      "description": "PERTH, Australia, July 30, 2026 /PRNewswire/ -- Highlights La Verde Emerging as Hot Chili Cornerstone Asset Drilling at the Company's La Verde copper-gold (Cu-Au) porphyry deposit in coastal Chile continued during the quarter, with a third drill rig commencin\u2026",
-      "url": "https://www.prnewswire.com/news-releases/hot-chili-quarterly-report---period-ending-30-june-2026-302838627.html",
-      "source": "PRNewswire",
-      "date": "2026-07-30",
-      "image": "https://mmx.prnewswire.com/media/MS1961140/Hot-Chili-Limited-Hot-Chili-Quarterly-Report-Period-Ending-30.jpg?id=OA2809070&p=facebook",
-      "category": "metals"
+      "title": "Los Angeles Dodgers Star Shohei Ohtani Card Sells for $11M: Report",
+      "description": "Shohei Ohtani\u2019s unprecedented dual Gold Logoman card has an eight-figure price that would dwarf the Dodgers star\u2019s previous card records. The post Los Angeles Dodgers Star Shohei Ohtani Card Sells for $11M: Report appeared first on HEAVY.",
+      "url": "https://heavy.com/sports/cards/shohei-ohtani-dual-logoman-cost/",
+      "source": "Heavy.com",
+      "date": "2026-07-31",
+      "image": "https://s.yimg.com/lo/mysterio/api/c77f476743e5a26b2644b09f38fb30baa13c8df2c2587ddab2985c1e8281d188/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F1280b48c0b6ac19513886da95507fb42",
+      "category": "geopolitics"
     },
     {
-      "title": "Riverside Resources Expands British Columbia Mineral Tenures for Rare Earth Elements (REE) and Gold-Copper",
-      "description": "VANCOUVER, British Columbia, July 30, 2026 (GLOBE NEWSWIRE) \u2014 Riverside Resources Inc. (\u201cRiverside\u201d or the \u201cCompany\u201d) (TSX-V: RRI) (OTCQB: RVSDF) (FSE: 5YY0), is pleased to announce that it has received mineral title for expanded property packages at its Reve\u2026",
-      "url": "https://financialpost.com/globe-newswire/riverside-resources-expands-british-columbia-mineral-tenures-for-rare-earth-elements-ree-and-gold-copper",
-      "source": "Financial Post",
-      "date": "2026-07-30",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/07/figure-1-41.jpeg",
-      "category": "metals"
+      "title": "Economic Digest: A Snapshot of Nepal\u2019s Business News",
+      "description": "KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. Nepal\u2019s latest economic developments reveal a contradictory transition in which technological moderniza\u2026",
+      "url": "https://english.khabarhub.com/2026/31/561066/",
+      "source": "Khabarhub.com",
+      "date": "2026-07-31",
+      "image": "https://english.khabarhub.com/wp-content/uploads/2024/05/Economic-Digest.jpg",
+      "category": "market"
     },
     {
-      "title": "Aarti Industries Delivers Promising Q1 FY27; Reaffirms Long-Term Growth Outlook",
-      "description": "Aarti Industries Delivers Promising Q1 FY27; Reaffirms Long-Term Growth Outlook",
-      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/aarti-industries-delivers-promising-q1-fy27-reaffirms-long-term-growth-outlook/article71286953.ece",
+      "title": "Gold on track to end four-month slump as investors weigh Fed signals",
+      "description": "Gold prices are poised for their first monthly gain in five months. Investors are assessing the impact of the U.S.-Iran conflict on global markets. The Federal Reserve's signals are being parsed for clues on inflation and interest rates. Global gold demand re\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-on-track-to-end-four-month-slump-as-investors-weigh-fed-signals/articleshow/132753370.cms",
+      "source": "The Times of India",
+      "date": "2026-07-31",
+      "image": "https://img.etimg.com/thumb/msid-132753378,width-1200,height-630,imgsize-202484,overlay-etmarkets/articleshow.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Principles Over Politics: The Ron Paul prescription for surviving empire\u2019s collapse",
+      "description": "\u201cPrinciples Over Politics\u201d argues that placing faith in political saviors rather than principles leads to tyranny, as charismatic leaders are temporary but ideas like non-aggression, sound money and free speech are timeless. Ron Paul documents how every war i\u2026",
+      "url": "https://www.naturalnews.com/2026-07-31-ron-paul-prescription-for-surviving-empires-collapse.html",
+      "source": "Naturalnews.com",
+      "date": "2026-07-31",
+      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/Principles-Over-Politics-The-Ron-Paul-Path-to-Liberty-in-an-Age-of-Empire.png",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Vedanta share price target: Why brokerages see up to 24% upside after Q1 earnings?",
+      "description": "Vedanta's net profit surged 72% year-on-year to Rs 5,473 crore. EBITDA also jumped 98% to a record Rs 8,469 crore. The company announced Arun Misra as its new CEO, effective August first. Nuvama maintained a buy rating with a target price of Rs 333. Motilal O\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-share-price-target-why-brokerages-see-up-to-24-upside-after-q1-earnings/articleshow/132755711.cms",
+      "source": "The Times of India",
+      "date": "2026-07-31",
+      "image": "https://img.etimg.com/thumb/msid-132755702,width-1200,height-630,imgsize-1910020,overlay-etmarkets/articleshow.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Gold slips but on track to end four-month losing streak",
+      "description": "The \u200bdollar gained about 0.3%, \u200cafter diving 2.4% in its\nbiggest single-day drop since January 2023 on Thursday",
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-slips-but-on-track-to-end-four-month-losing-streak/article71288936.ece",
       "source": "BusinessLine",
-      "date": "2026-07-30",
-      "image": "https://bl-i.thgim.com/public/incoming/pttvkj/article71286952.ece/alternates/LANDSCAPE_1200/Aarti-Industries-Logo.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Outdoor Wi-Fi finally means business",
-      "description": "Basic outdoor Wi-Fi can't handle modern IoT and security. The Cisco Wireless 9177 Series redefines connectivity with Wi-Fi 7, URWB, and rugged reliability for mission-critical environments where failure is not an option.",
-      "url": "https://blogs.cisco.com/?p=495395",
-      "source": "Cisco.com",
-      "date": "2026-07-30",
-      "image": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/07/CW9177-blog-feature.png",
-      "category": "market"
-    },
-    {
-      "title": "AI workers just got together and donated $40 million to save factory-farmed chickens",
-      "description": "A viral tech podcast led to an influx of $40 million toward improving the lives of chickens, pigs, and other animals raised in industrial agriculture.",
-      "url": "https://fortune.com/2026/07/30/artifical-intelligence-workers-wealth-influx-rewriting-philanthropy-giving-to-save-factory-farm-animals-openai-anthropic-ipo-wealth/",
-      "source": "Fortune",
-      "date": "2026-07-30",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2215291121-e1785423187191.jpg?resize=1200,600",
-      "category": "geopolitics"
-    },
-    {
-      "title": "US private credit market faces challenges as borrowers seek cheaper financing in Europe",
-      "description": "The shift in borrower preferences highlights potential risks for US investors, urging diversification and adaptation to evolving global credit dynamics.\nThe post US private credit market faces challenges as borrowers seek cheaper financing in Europe appeared \u2026",
-      "url": "https://cryptobriefing.com/us-private-credit-challenges-europe-financing/",
-      "source": "Crypto Briefing",
-      "date": "2026-07-30",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/30105958/pinebridge-private-credit-closes-oversubscribed-third-direct-800x420.jpeg",
+      "date": "2026-07-31",
+      "image": "https://bl-i.thgim.com/public/incoming/wq4so7/article71288958.ece/alternates/LANDSCAPE_1200/IMG_bl09_gold_promo_2_1_URG3B8VU.jpg",
       "category": "currency"
     },
     {
-      "title": "Batman: Caped Crusader Season 2 Reinvents the Joker for the Global Age",
-      "description": "The Joker is one of the most important villains in history. His evil grin has appeared in everything from comics and movies and video games to every type of clothing and product to philosophical works by thinkers such as Franco Berardi. Two actors have won Ac\u2026",
-      "url": "http://www.denofgeek.com/tv/batman-caped-crusader-season-2-reinvents-the-joker/",
-      "source": "Den of Geek US",
-      "date": "2026-07-30",
-      "image": "https://www.denofgeek.com/wp-content/uploads/2026/07/CAPC_S2_00220722_Still638_3000.jpg?fit=1200%2C675",
+      "title": "Gold Holds Gain as Japan Currency Intervention Weighs on Dollar",
+      "description": "Gold held a two-day gain, supported by a sharp decline in the US dollar after Japan intervened to bolster the yen.",
+      "url": "https://financialpost.com/pmn/business-pmn/gold-holds-gain-as-japan-currency-intervention-weighs-on-dollar",
+      "source": "Financial Post",
+      "date": "2026-07-31",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/07/gold-poised-to-snap-losing-streak-the-metal-is-set-for-its-.jpg",
+      "category": "currency"
+    },
+    {
+      "title": "Capital Group buys 1.5% stake in IIFL Fin for Rs 374 cr; stock rises over 2%",
+      "description": "Capital Group bought a 1.49 percent stake in IIFL Finance for Rs 374 crore. This acquisition was made through open market transactions from Fairfax India's affiliate. US-based Capital Group purchased over 63 lakh shares at an average price of Rs 590. FIH Maur\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/capital-group-buys-1-5-stake-in-iifl-fin-for-rs-374-cr-stock-rises-over-2/articleshow/132757960.cms",
+      "source": "The Times of India",
+      "date": "2026-07-31",
+      "image": "https://img.etimg.com/thumb/msid-132758026,width-1200,height-630,imgsize-23424,overlay-economictimes/articleshow.jpg",
+      "category": "market"
+    },
+    {
+      "title": "PBOC Seeks to Temper Yuan Rally With Stable Daily Fix",
+      "description": "China\u2019s central bank signaled a preference for slower gains in the yuan, setting the daily fixing at a broadly stable level that is much weaker than expected, after the currency climbed to a three-year high.",
+      "url": "https://financialpost.com/pmn/business-pmn/pboc-seeks-to-temper-yuan-rally-with-stable-daily-fix",
+      "source": "Financial Post",
+      "date": "2026-07-31",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/07/pboc-sets-steady-fixing-after-yuans-month-end-rally.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "L&T Energy Hydrocarbon Onshore secures partnership with Petroleum Development Oman",
+      "description": "L&T Energy Hydrocarbon Onshore has secured a significant six-year framework agreement. This partnership is with Oman's leading oil and gas company, Petroleum Development Oman. L&T will serve as one of four selected EPC contractors for upcoming projects. The c\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/lt-energy-hydrocarbon-onshore-secures-partnership-with-petroleum-development-oman/articleshow/132757241.cms",
+      "source": "The Times of India",
+      "date": "2026-07-31",
+      "image": "https://img.etimg.com/thumb/msid-132757978,width-1200,height-630,imgsize-176158,overlay-economictimes/articleshow.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Pearson Interim Results for the six months to 30th June 2026 (Unaudited)",
+      "description": "Good H1 performance and reiterating 2026 guidance. Uniquely positioned to benefit from accelerating demand for reskilling in an AI-driven world. LONDON, July 31, 2026 /PRNewswire/ -- Financial Highlights \u00a3m H1 2026 vs H1 2025 \u00a3m H1 2026 H1 2025 Business perfo\u2026",
+      "url": "https://www.prnewswire.com/news-releases/pearson-interim-results-for-the-six-months-to-30th-june-2026-unaudited-302839585.html",
+      "source": "PRNewswire",
+      "date": "2026-07-31",
+      "image": "https://mmx.prnewswire.com/media/MS797043/PearsonLogo-Horizontal-Blk-RGB.jpg?id=OA2818376&p=facebook",
       "category": "supply_demand"
     },
     {
-      "title": "Andy Garcia\u2019s Cannes Premiere \u2018Diamond\u2019 Acquired By Sony Pictures Classics",
-      "description": "Sony Pictures Classics is taking a majority of global rights to the Andy Garcia crime drama Diamond, which the Oscar nominee directed, wrote, produced and stars in. The film world-premiered back in May at the Cannes Film Festival. The contemporary Los Angeles\u2026",
-      "url": "http://deadline.com/2026/07/andy-garcia-diamond-sony-pictures-classics-1237012968/",
-      "source": "Deadline",
-      "date": "2026-07-30",
-      "image": "https://deadline.com/wp-content/uploads/2026/05/Diamond-omni.jpg?w=1024",
+      "title": "India ready for a premium wealth show while US missiles rattle the world",
+      "description": "India's festive shopping season is set to highlight the country's premiumisation boom despite global uncertainty triggered by the US-Iran war. Economists and industry executives say resilient consumer demand, rising household wealth and a rapidly expanding af\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/services/retail/india-ready-for-a-premium-wealth-show-while-us-missiles-rattle-the-world-premiumisation-festive-shopping-consumer-spending-luxury-products-india-economy/articleshow/132757651.cms",
+      "source": "The Times of India",
+      "date": "2026-07-31",
+      "image": "https://img.etimg.com/thumb/msid-132758088,width-1200,height-630,imgsize-406734,overlay-economictimes/articleshow.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Massachusetts High Court Rules FCC Preempts Local Regulation of Verizon Tower",
+      "description": "The Supreme Judicial Court of Massachusetts ruled that local health authorities cannot require changes to a Verizon cell tower that complies with federal radiofrequency limits. The ruling affirmed a lower court decision in a case brought by Pittsfield residen\u2026",
+      "url": "https://www.naturalnews.com/2026-07-31-massachusetts-court-rules-fcc-preempts-regulation-verizon-tower.html",
+      "source": "Naturalnews.com",
+      "date": "2026-07-31",
+      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/fcc-preemption-rf-radiation-limits-verizon-cell-tower-3073-original.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Medicare Part D subsidy ending: Trump administration cuts Biden-era premium stabilization program",
+      "description": "Trump administration ends Medicare Part D Premium Stabilization Demonstration, effective 2027. CMS Administrator Mehmet Oz says program gave \u201cbillions of taxpayer money\u201d to insurance companies. Congressional Budget Office projects Inflation Reduction Act will\u2026",
+      "url": "https://www.naturalnews.com/2026-07-31-trump-administration-cuts-biden-premium-stabilization-program.html",
+      "source": "Naturalnews.com",
+      "date": "2026-07-31",
+      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/medicare-fraud-healthcare-fraud-billion-dollar-scheme-189-original.jpg",
+      "category": "inflation"
+    },
+    {
+      "title": "ICE Agents Patrolling U.S. Airports to Arrest Visa Overstayers, Report Says",
+      "description": "U.S. Immigration Enforcement Intensifies at Airports Immigration and Customs Enforcement (ICE) agents are patrolling U.S. airports to arrest individuals who have overstayed their visas and are taking domestic flights, according to an ABC News report cited by \u2026",
+      "url": "https://www.naturalnews.com/2026-07-31-ice-agents-patrolling-airports-arrest-visa-overstayers.html",
+      "source": "Naturalnews.com",
+      "date": "2026-07-31",
+      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/ice-agents-visa-overstayers-airport-arrests-3061-original.jpg",
       "category": "market"
     },
     {
-      "title": "XTransfer Named to CNBC\u2019s World\u2019s Top Fintech Companies 2026",
-      "description": "XTransfer Named to CNBC\u2019s World\u2019s Top Fintech Companies 2026...",
-      "url": "https://www.globenewswire.com/news-release/2026/07/30/3336207/0/en/XTransfer-Named-to-CNBC-s-World-s-Top-Fintech-Companies-2026.html",
-      "source": "GlobeNewswire",
-      "date": "2026-07-30",
-      "image": "https://ml.globenewswire.com/Resource/Download/4309d68e-f9ff-43ec-ba27-ccd85579d2f0",
+      "title": "Nationwide Deployment of AI-Powered License Plate Cameras Raises Oversight Questions",
+      "description": "As of July 17, 2026, the crowdsourced DeFlock project had located 95,923 Flock Safety cameras across the United States, representing about 83% of the automated license plate readers volunteers have identified, according to the project\u2019s data. Flock Safety its\u2026",
+      "url": "https://www.naturalnews.com/2026-07-31-deployment-ai-powered-license-plate-cameras-raises-questions.html",
+      "source": "Naturalnews.com",
+      "date": "2026-07-31",
+      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/license-plate-cameras-flock-safety-ai-surveillance-3058-original.jpg",
       "category": "market"
     },
     {
-      "title": "Chrome 151 stable (Google, 2026.07.29)",
-      "description": "e\r\n\n<ul> <li> \nStable Channel Update for Desktop (Google, 2026.07.29)\u30c6hrome 151.0.7922.71/.72 for Windows / Mac 151.0.7922.71 for Linux 370 \u7bc1\u541f\u7949\u30e5\u30e3\u300d\u7bc6\u2462c \r\n <li> Chrome for Android Update (Google, 2026.07.29)\u30c6hrome 151 (151.0.7922.71) for Android \r\n </li></li></u\u2026",
-      "url": "http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/07.html#20260731_chrome",
-      "source": "Ryukoku.ac.jp",
+      "title": "FEMA said yes to Democratic disaster requests. Trump killed them anyway. - E&E News by POLITICO",
+      "description": "President Donald Trump cast aside bipartisan precedent when he rejected eligible disaster requests from four blue states.",
+      "url": "https://www.eenews.net/articles/fema-said-yes-to-democratic-disaster-requests-trump-killed-them-anyway/",
+      "source": "E&E News",
+      "date": "2026-07-31",
+      "image": "https://static.politico.com/dims4/default/55a1666/2147483647/resize/1200/quality/100/?url=https://static.politico.com/ad/26/76a150d54cdb9ad2ed08615fd2bf/https-delivery-gettyimages.com/downloads/2263119631",
+      "category": "market"
+    },
+    {
+      "title": "\u2018Talk is cheap\u2019: Wall Street delivers harsh verdict on Warsh Fed",
+      "description": "Warsh, who took over in May, has made a point of not signaling where the Fed is heading, wary of leaving himself boxed in if economic conditions change",
+      "url": "https://www.moneycontrol.com/news/business/markets/talk-is-cheap-wall-street-delivers-harsh-verdict-on-warsh-fed-13989431.html",
+      "source": "Moneycontrol",
+      "date": "2026-07-31",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260730174119_kevin-warsh.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Menace of open defecation: Nigeria\u2019s silent sanitation emergency",
+      "description": "YET, consider this: Right inside the major car park on inner Marina on Lagos Island, stretching from directly opposite the UBA Headquarters Building to the Old Kingsway Building (just before Oando gas station), is a public toilet. Five years ago, it had eight\u2026",
+      "url": "https://www.vanguardngr.com/2026/07/menace-of-open-defecation-nigerias-silent-sanitation-emergency/",
+      "source": "Vanguard",
+      "date": "2026-07-31",
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/07/Open-defecation.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Gold (XAUUSD), Silver, Platinum Forecasts \u2013 Gold Pulls Back As Treasury Yields Test New Highs - FXEmpire",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQclVtSU0tdHhCRWJEWm43U002Zy13dFluV3NZUFJyenZGdUo2ZXZNWkgxR2pJeGdBd09EX09FUEFOVTg0eFFlYXR6ZXJkRmpyUmRrVG5qQUJIdjFzdWpkZXgtVVRHZTZGR0pMZjJVZk4xYzhveXFLLW1FU3czTlZwT3VWZGpuRXZXUWRuLUxudFFvNFlWZVp2bVdNUXkwVjh6b1N4S0JQR19nakZNYlFLNVBHc0hlcGpjNz",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQclVtSU0tdHhCRWJEWm43U002Zy13dFluV3NZUFJyenZGdUo2ZXZNWkgxR2pJeGdBd09EX09FUEFOVTg0eFFlYXR6ZXJkRmpyUmRrVG5qQUJIdjFzdWpkZXgtVVRHZTZGR0pMZjJVZk4xYzhveXFLLW1FU3czTlZwT3VWZGpuRXZXUWRuLUxudFFvNFlWZVp2bVdNUXkwVjh6b1N4S0JQR19nakZNYlFLNVBHc0hlcGpjNzBJMk9neVVnallIWlM3d21MMXQ0SnFBLXhuOQ?oc=5",
+      "source": "Google News - Precious Metals",
+      "date": "2026-07-31",
+      "image": "",
+      "category": "currency"
+    },
+    {
+      "title": "Copper Bars You Have to See to Believe | Money Metals If you're looking to diversify your tangible assets, investment grade copper is becoming an increasingly popular choice among precious metals investors and collectors. In this video, Money Metals takes - LinkedIn",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR2FnMXBHeFA5bkQ5bW01c25FVEtyOWlBMmJSUFZkV3VoNy1LcENfdzEySC0yWmhIYXFZbk1tclo3R0xsRzl3UFZVQWRVMEgtbm9sUEpCb2pHODRPVk1VTkZuVFdob2dpbE5SbW0xT0otMjcxdEtzay1zMG1aWmRMaUlEMktBNDgwNS1yMHh0R1JrX19pdTlKVWVPd2ZJZl9aeTdpV05LS0RYUQ?oc=5\" target=\"_blan",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR2FnMXBHeFA5bkQ5bW01c25FVEtyOWlBMmJSUFZkV3VoNy1LcENfdzEySC0yWmhIYXFZbk1tclo3R0xsRzl3UFZVQWRVMEgtbm9sUEpCb2pHODRPVk1VTkZuVFdob2dpbE5SbW0xT0otMjcxdEtzay1zMG1aWmRMaUlEMktBNDgwNS1yMHh0R1JrX19pdTlKVWVPd2ZJZl9aeTdpV05LS0RYUQ?oc=5",
+      "source": "Google News - Precious Metals",
+      "date": "2026-07-31",
+      "image": "",
+      "category": "metals"
+    },
+    {
+      "title": "Rethinking friction in an AI world",
+      "description": "Why the best UX often disappears. And when it shouldn\u2019t",
+      "url": "https://uxdesign.cc/rethinking-friction-in-an-ai-world-8f361d62ab5e",
+      "source": "Uxdesign.cc",
+      "date": "2026-07-30",
+      "image": "https://miro.medium.com/v2/da:true/resize:fit:862/0*awQhwQtyDfSv3nDp",
+      "category": "market"
+    },
+    {
+      "title": "Live: US stocks lift and ASX 200 set to follow",
+      "description": "US stocks lifted, and the ASX 200 is set to follow despite fresh conflict in the Middle East. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
+      "url": "https://www.abc.net.au/news/2026-07-31/asx-markets-business-live-news-31-july-2026/104556762",
+      "source": "ABC News (AU)",
+      "date": "2026-07-30",
+      "image": "https://live-production.wcms.abc-cdn.net.au/2bcc5de27112144035164dd51dacf77e?impolicy=wcms_watermark_news&cropH=530&cropW=942&xPos=0&yPos=14&width=862&height=485&imformat=generic",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Eldorado Gold Announces Renewal of Normal Course Issuer Bid",
+      "description": "VANCOUVER, British Columbia, July 30, 2026 (GLOBE NEWSWIRE) \u2014 Eldorado Gold Corporation\u00a0(TSX: ELD, NYSE: EGO) (\u201cEldorado\u201d or \u201cthe Company\u201d) announces that it has received approval from the Toronto Stock Exchange (the \u201cTSX\u201c) of Eldorado\u2019s notice of intention t\u2026",
+      "url": "https://financialpost.com/globe-newswire/eldorado-gold-announces-renewal-of-normal-course-issuer-bid-2",
+      "source": "Financial Post",
       "date": "2026-07-30",
       "image": null,
+      "category": "metals"
+    },
+    {
+      "title": "GreenX Metals announces major copper exploration target in June 2026 quarter",
+      "description": "GreenX Metals announced a major copper exploration target and progress at its Greenland project in its June 2026 quarterly report.\nThe post GreenX Metals announces major copper exploration target in June 2026 quarter appeared first on The Motley Fool Australi\u2026",
+      "url": "https://www.fool.com.au/2026/07/31/greenx-metals-announces-major-copper-exploration-target-in-june-2026-quarter/",
+      "source": "Motley Fool Australia",
+      "date": "2026-07-30",
+      "image": "https://www.fool.com.au/wp-content/uploads/2021/10/GettyImages-174782494-1-1200x675.jpg",
       "category": "market"
-    },
-    {
-      "title": "Tinubu dissolves property privatisation committee",
-      "description": "President Tinubu dissolves the 25-year-old Presidential Implementation Committee on Alienation of Federal Government Properties, transferring functions to\n\nRead More: https://punchng.com/tinubu-dissolves-property-privatisation-committee/",
-      "url": "https://punchng.com/tinubu-dissolves-property-privatisation-committee/",
-      "source": "The Punch",
-      "date": "2026-07-30",
-      "image": "https://punchng.com/wp-content/uploads/2026/06/Tinubu-Kaftan-black.webp",
-      "category": "central_bank"
-    },
-    {
-      "title": "Louisiana Men Convicted After Secretly Taking Out Millions in Life Insurance Policies on Aspiring Rappers",
-      "description": "Chevez Robillard named himself a beneficiary on numerous multi-million life insurance policies on unsuspecting aspiring artists. Now, he and Calvin Kemp was just convicted for it. Read more...",
-      "url": "https://www.theroot.com/louisiana-men-convicted-after-secretly-taking-out-milli-2000118783",
-      "source": "The Root",
-      "date": "2026-07-30",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "Map Shows Where 19 Million Children Are Missing Child Tax Credit",
-      "description": "More than 19 million children will receive less than the full federal Child Tax Credit in 2026 because their families earn too little, according to a new analysis.\nThe estimate from the Center on Budget and Policy Priorities, a left-leaning think tank, sugges\u2026",
-      "url": "https://biztoc.com/x/3e4f666a3ce82a16",
-      "source": "Biztoc.com",
-      "date": "2026-07-30",
-      "image": "https://biztoc.com/cdn/3e4f666a3ce82a16_s.webp",
-      "category": "central_bank"
-    },
-    {
-      "title": "Bank of England keeps interest rates at 3.75% for fifth time this year",
-      "description": "The monetary policy committee voted to keep the rate, following the expectations of most economists.",
-      "url": "https://fortune.com/2026/07/30/bank-of-england-keeps-interest-rates-at-3-75-for-fifth-time-this-year/",
-      "source": "Fortune",
-      "date": "2026-07-30",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/AP26211446172659-e1785421549939.jpg?resize=1200,600",
-      "category": "central_bank"
-    },
-    {
-      "title": "Health insurers pitch 21 percent increase",
-      "description": "If health insurers have their way, the amount Queens residents pay to purchase health insurance through the Affordable Care Act marketplace could go up by an average of nearly 21 percent.The proposed rate hikes for 2027 have yet to be\u2026",
-      "url": "https://www.qchron.com/editions/queenswide/health-insurers-pitch-21-percent-increase/article_7bd4ee47-2c0c-56e3-9c80-8a13686ba0a5.html",
-      "source": "Qchron.com",
-      "date": "2026-07-30",
-      "image": "https://bloximages.chicago2.vip.townnews.com/qchron.com/content/tncms/assets/v3/editorial/f/58/f58e7d96-5f39-5d6e-a185-4da7a50ed897/6a6b60ea081fc.image.jpg?resize=839%2C630",
-      "category": "central_bank"
-    },
-    {
-      "title": "Trump Accounts And The Two Economies",
-      "description": "The accounts that launched this month look like a savings program. They are actually the first bridge across a divide AI will eventually turn into a canyon.",
-      "url": "https://www.forbes.com/sites/forbesbooksauthors/2026/07/30/trump-accounts-and-the-two-economies/",
-      "source": "Forbes",
-      "date": "2026-07-30",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a6b5d8ced9ba96eb77dced6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "category": "market"
-    },
-    {
-      "title": "Short gilts surge as markets slash expectations for BOE hike in september",
-      "description": "The BoE's steady rate and easing inflation may signal a shift in monetary policy, impacting market expectations and economic strategies.\nThe post Short gilts surge as markets slash expectations for BOE hike in september appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/short-gilts-surge-as-markets-slash-expectations-for-boe-hike-in-september/",
-      "source": "Crypto Briefing",
-      "date": "2026-07-30",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/30102041/short-gilts-surge-as-markets-slash-expectations-for-boe-hike-1-800x420.jpeg",
-      "category": "central_bank"
     }
   ],
   "history": [
@@ -457,9 +457,19 @@
       "gold_usd_oz": 4107.77,
       "silver_usd_oz": 59.1,
       "platinum_usd_oz": 1614.14
+    },
+    {
+      "date": "2026-08-01",
+      "week": "2026-W31",
+      "gold_10g": 124168.61,
+      "silver_kg": 176770.61,
+      "platinum_g": 5061.38,
+      "gold_usd_oz": 4043.21,
+      "silver_usd_oz": 57.56,
+      "platinum_usd_oz": 1648.1
     }
   ],
-  "timestamp": "2026-07-31T20:30:29.716973+05:30",
+  "timestamp": "2026-08-01T11:43:04.721207+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
