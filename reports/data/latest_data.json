@@ -31,7 +31,7 @@
       "SGD_INR": 74.4564
     },
     "gold_silver_ratio": 70.24,
-    "timestamp": "2026-08-01T08:38:36.622829",
+    "timestamp": "2026-08-01T10:55:51.150787",
     "source": "GoldAPI"
   },
   "currencies": {
@@ -54,7 +54,7 @@
         "hold": 25
       },
       "summary": "Gold is showing negative signals. Significant daily drop of -1.5%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-01T08:38:41.230327",
+      "timestamp": "2026-08-01T10:55:56.109317",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 25
       },
       "summary": "Silver is showing negative signals. Significant daily drop of -2.4%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-01T08:38:41.300322",
+      "timestamp": "2026-08-01T10:55:56.213119",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 25
       },
       "summary": "Platinum is showing negative signals. Slight decline of -0.7%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-01T08:38:41.375886",
+      "timestamp": "2026-08-01T10:55:56.302151",
       "source": "rule-based"
     }
   },
@@ -137,22 +137,58 @@
   },
   "news": [
     {
-      "title": "Chris Wood warns AI capex binge may burn billions as markets turn against Big Tech spending",
-      "description": "Wood\u2019s long-standing view is that the \u201chyperscalers will end up blowing a lot of money on their capex binge\u201d and that AI could resemble the airline industry more than the winner-takes-all economics of the internet era.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/chris-wood-warns-ai-capex-binge-may-burn-billions-as-markets-turn-against-big-tech-spending/articleshow/132784757.cms",
+      "title": "Silver Storm Parks &amp; Resorts Limited Successfully Concludes IPO",
+      "description": "Silver Storm Parks &amp; Resorts Limited successfully concluded its initial public offering, raising \u20b982.43 crore. The company's Qualified Institutional Buyers category saw strong subscription interest. Retail and Non-Institutional Investors also participated actively in the offering. Silver Storm i",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/silver-storm-parks-resorts-limited-successfully-concludes-ipo/articleshow/132786876.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-08-01",
+      "image": "",
+      "category": "metals"
+    },
+    {
+      "title": "GHCL Q1 profit rises 32% to Rs 191 cr on lower costs, warns of margin pressure ahead",
+      "description": "GHCL reported a thirty-two percent profit increase for the first quarter. Lower expenses helped boost net profit to Rs 191.18 crore from Rs 144.78 crore. Total income fell three point zero six percent while total expenses declined. New projects are nearing commercial operations in the second quarter",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/ghcl-q1-profit-rises-32-pc-to-rs-191-cr-on-lower-costs-warns-of-margin-pressure-ahead/articleshow/132786743.cms",
       "source": "Economic Times Markets",
       "date": "2026-08-01",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "Bitcoin slips below $63,000 to a two-week low as weak Coinbase earnings and fading optimism weigh on sentiment",
-      "description": "Bitcoin fell below $63,000, its lowest in two weeks, as sentiment weakened. Coinbase earnings and fading optimism about U.S. crypto legislation impacted market sentiment. Major altcoins like XRP and Solana also saw corrections, while BNB and Cardano experienced gains. Global crypto market capitaliza",
-      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-slips-below-63000-to-a-two-week-low-as-weak-coinbase-earnings-and-fading-optimism-weigh-on-sentiment/articleshow/132783427.cms",
+      "title": "AI bubble gone bust? Once a billionaire, how AI investor Leopold Aschenbrenner lost most of his hedge fund\u2019s fortune in days",
+      "description": "Aschenbrenner's fund, Situational Awareness, massively grew to as big as $45 billion at the beginning of July before big losses took hold, CNBC reported citing sources. The fund began to see massive losses in recent weeks as its heavyweight AI holdings like SK Hynix sharply crashed, while its short ",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-bubble-gone-bust-once-a-billionaire-how-ai-investor-leopold-aschenbrenner-lost-most-of-his-hedge-funds-fortune-in-days/articleshow/132785441.cms",
       "source": "Economic Times Markets",
       "date": "2026-08-01",
       "image": "",
-      "category": "central_bank"
+      "category": "geopolitics"
+    },
+    {
+      "title": "Geomembranes Market worth $5.20 billion by 2031 - Exclusive Report by MarketsandMarkets\u2122",
+      "description": "DELRAY BEACH, Fla., July 31, 2026 /PRNewswire/ -- According to MarketsandMarkets\u2122, the Geomembranes Market is projected to reach USD 5.20 billion by 2031 from USD 3.39 billion in 2026, at a CAGR of 7.5% during the forecast period. Browse 248 market data Table\u2026",
+      "url": "https://www.prnewswire.com/news-releases/geomembranes-market-worth-5-20-billion-by-2031---exclusive-report-by-marketsandmarkets-302839795.html",
+      "source": "PRNewswire",
+      "date": "2026-07-31",
+      "image": "https://mmx.prnewswire.com/media/MS1173081/MarketsandMarkets-Logo.jpg?id=OA2818819&p=facebook",
+      "category": "currency"
+    },
+    {
+      "title": "The Best Places To Retire Abroad In 2026",
+      "description": "Forbes has picked 96 top retirement spots in 24 countries around the world based on costs, quality of life, healthcare, climate change and how welcome U.S. retirees are.",
+      "url": "https://www.forbes.com/sites/williampbarrett/2026/07/31/the-best-places-to-retire-abroad-in-2026/",
+      "source": "Forbes",
+      "date": "2026-07-31",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a6a151d205b801113609cc1/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&height=900&width=1600&fit=bounds",
+      "category": "market"
+    },
+    {
+      "title": "A professor who hit 'Lean FI' by moving abroad and saving 70% of his income explains why he prefers the 'permanent portfolio' investment strategy",
+      "description": "Miguel Marquez earned his undergraduate degree in Spain before pursuing an international teaching career.\nCourtesy of Miguel Marquez\nMiguel Marquez reached Lean FI by lowering his costs and investing consistently.\nHe follows a modified permanent portfolio of \u2026",
+      "url": "https://biztoc.com/x/120d5c846cf65928",
+      "source": "Biztoc.com",
+      "date": "2026-07-31",
+      "image": "https://biztoc.com/cdn/120d5c846cf65928_s.webp",
+      "category": "market"
     },
     {
       "title": "Swiss National Bank posts big second quarter profit",
@@ -180,51 +216,6 @@
       "date": "2026-07-31",
       "image": "https://en.protothema.gr/wp-content/uploads/2024/06/ProtothemaEn.png",
       "category": "market"
-    },
-    {
-      "title": "FICG Strengthens ASEAN Presence Through Strategic Partnerships with AME and JTC",
-      "description": "Establishes JS-SEZ Twinning Strategy to Advance Regional Manufacturing, Innovation and Supply Chain Integration SINGAPORE, July 31, 2026 /PRNewswire/ -- As artificial intelligence (AI), high-performance computing (HPC), data centres and semiconductor technolo\u2026",
-      "url": "https://www.prnewswire.com/news-releases/ficg-strengthens-asean-presence-through-strategic-partnerships-with-ame-and-jtc-302839821.html",
-      "source": "PRNewswire",
-      "date": "2026-07-31",
-      "image": "https://mmx.prnewswire.com/media/MS1961851/20260731015315EDT_image_1.jpg?id=OA2818821&p=facebook",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Here are the top 10 ASX 200 shares today",
-      "description": "The ASX scraped a win this Friday to close the week.\nThe post Here are the top 10 ASX 200 shares today appeared first on The Motley Fool Australia.",
-      "url": "https://www.fool.com.au/2026/07/31/here-are-the-top-10-asx-200-shares-today-31-july-2026/",
-      "source": "Motley Fool Australia",
-      "date": "2026-07-31",
-      "image": "https://www.fool.com.au/wp-content/uploads/2021/08/ten-2-1200x675.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Best Travel Clothes For Men",
-      "description": "The Best travel clothes for men need to hit that sweet spot between performance and design for traveling light. Western Rise does just that.",
-      "url": "https://www.theprofessionalhobo.com/best-travel-clothes-for-men/",
-      "source": "Theprofessionalhobo.com",
-      "date": "2026-07-31",
-      "image": "https://www.theprofessionalhobo.com/wp-content/uploads/2020/10/Best-Travel-Clothes-for-Men.jpg",
-      "category": "market"
-    },
-    {
-      "title": "The field marshal remaking Pakistan\u2019s place in the world",
-      "description": "Asim Munir is trying to refashion Pakistan\u2019s place in the world \u2014 and bolster his power at home",
-      "url": "https://www.irishtimes.com/world/asia-pacific/2026/07/28/pakistans-all-powerful-field-marshal-capitalises-on-ties-with-riyadh-while-keeping-a-lid-on-challenges-through-authoritarian-rule/",
-      "source": "The Irish Times",
-      "date": "2026-07-31",
-      "image": "https://www.irishtimes.com/resizer/v2/B2IDITG3HNF73HL2DKMDXAYQHA.jpg?smart=true&auth=401b237bcfdc9cc91007216cf2f2fedb9b0fbfacec1a2a92e5c39673fd805320&width=1200&height=630",
-      "category": "market"
-    },
-    {
-      "title": "Los Angeles Dodgers Star Shohei Ohtani Card Sells for $11M: Report",
-      "description": "Shohei Ohtani\u2019s unprecedented dual Gold Logoman card has an eight-figure price that would dwarf the Dodgers star\u2019s previous card records. The post Los Angeles Dodgers Star Shohei Ohtani Card Sells for $11M: Report appeared first on HEAVY.",
-      "url": "https://heavy.com/sports/cards/shohei-ohtani-dual-logoman-cost/",
-      "source": "Heavy.com",
-      "date": "2026-07-31",
-      "image": "https://s.yimg.com/lo/mysterio/api/c77f476743e5a26b2644b09f38fb30baa13c8df2c2587ddab2985c1e8281d188/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F1280b48c0b6ac19513886da95507fb42",
-      "category": "geopolitics"
     },
     {
       "title": "Nifty tops 24,400 as Financials, Auto stocks shine; IT trims morning losses",
@@ -281,130 +272,139 @@
       "category": "currency"
     },
     {
-      "title": "US government presents map of Africa with every country wrong at global Aids conference 'after team member changed slide at the last minute'",
-      "description": "The image of the map included in the presentation bore an\u00a0artificial intelligence watermark indicating it was made with OpenAI tools.",
-      "url": "https://www.dailymail.com/news/article-16019067/US-government-presents-map-Africa-country-wrong-global-Aids-conference-team-member-changed-slide-minute.html",
-      "source": "Dailymail.com",
-      "date": "2026-07-31",
-      "image": "https://i.dailymail.com/1s/2026/07/31/09/110362159-0-image-a-9_1785486418438.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Lupin launches generic Sugammadex injection in US",
-      "description": "Lupin Limited announced the launch of its Sugammadex Injection in the United States. This follows approval from the US Food and Drug Administration for its abbreviated new drug application. The company's injection is claimed to be bioequivalent to Merck's Bri\u2026",
-      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/lupin-launches-generic-sugammadex-injection-in-us/articleshow/132761291.cms",
-      "source": "The Times of India",
-      "date": "2026-07-31",
-      "image": "https://img.etimg.com/thumb/msid-132761703,width-1200,height-630,imgsize-76356,overlay-economictimes/articleshow.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Asian confederation joins Uefa and Concacaf in opposing Fifa plan",
-      "description": "The Asian Football Confederation (AFC) says it \"stands in solidarity\" with Uefa and Concacaf in opposition to Fifa's proposal to sell stakes in its competitions to private investors.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro",
-      "source": "BBC News",
-      "date": "2026-07-31",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/942d/live/7e2ddf90-8cb9-11f1-b49b-bb9fc846a015.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "Manipal Health Enterprises IPO subscribed 2.54X so far on closing day",
-      "description": "The IPO comprises a fresh issue of equity shares worth up to \u20b98,000 crore and an offer for sale of up to 2.16 crore equity shares by existing shareholders",
-      "url": "https://www.thehindubusinessline.com/markets/manipal-health-enterprises-ipo-subscribed-254x-so-far-on-closing-day/article71289655.ece",
-      "source": "BusinessLine",
-      "date": "2026-07-31",
-      "image": "https://bl-i.thgim.com/public/incoming/4q1o3c/article71289662.ece/alternates/LANDSCAPE_1200/2026-07-31T080237Z_1730123298_RC20HLAR38NY_RTRMADP_3_MANIPAL-HEALTH-IPO.JPG",
-      "category": "market"
-    },
-    {
-      "title": "India must go beyond signing free trade agreements to reduce vulnerabilities amid today\u2019s flux in global trade",
-      "description": "India\u2019s exports have gained thanks to FTAs but imports of crude oil and critical inputs have surged faster, exposing us to geopolitical and energy price shocks. New Delhi must strengthen domestic manufacturing and reduce external dependence.",
-      "url": "https://www.livemint.com/opinion/online-views/india-free-trade-agreements-reduce-vulnerabilities-global-flux-fta-ceta-exports-oil-11785478499803.html",
-      "source": "Livemint",
-      "date": "2026-07-31",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/31/1600x900/logo/US-PORT-56_1784096774460_1784096831387_64b653b2-6eaa-41d7-b64e-a331dad4cf2b_1785479462093_48ba9e7e-077f-4b3d-9a70-2f17391c6570.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Research: Review of appeals process changes in the Immigration Act 2014",
-      "description": "This report presents an evaluation of the changes to the appeals process introduced by the Immigration Act 2014.",
-      "url": "https://www.gov.uk/government/publications/review-of-appeals-process-changes-in-the-immigration-act-2014",
-      "source": "Www.gov.uk",
-      "date": "2026-07-31",
-      "image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-      "category": "market"
-    },
-    {
-      "title": "Felicia is the new Official Healthy Food Partner of Juventus Football Club",
-      "description": "Felicia, the flagship brand of Andriani Societa Benefit, announces a multi-year partnership with Juventus Football Club, becoming the Club\u2019s Official Healthy Food Partner. The agreement brings toget...",
-      "url": "https://www.juventus.com/en/news/articles/felicia-is-the-new-official-healthy-food-partner-of-juventus-football-club",
-      "source": "Juventus.com",
-      "date": "2026-07-31",
-      "image": "https://s.yimg.com/lo/mysterio/api/44f09fabd1bd39add0f9442a6484c7026550ecead128ad85a11905bfa699673e/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjuventus_football_club_articles_524%2F3b1d59eb52a894c12ba5e9236fd4d164",
-      "category": "market"
-    },
-    {
-      "title": "Element Pictures Names Former Sky and HBO Publicist Chris Duggan as First Head of Communications and Marketing (EXCLUSIVE)",
-      "description": "Element Pictures, the powerhouse Irish film and TV production company and awards season regular, has appointed its first in-house head of communications and marketing. Seasoned publicity veteran Chris Duggan has been appointed to the newly-created role and wi\u2026",
-      "url": "https://variety.com/2026/film/global/element-pictures-chris-duggan-communications-marketing-head-1236824038/",
-      "source": "Variety",
-      "date": "2026-07-31",
-      "image": "https://variety.com/wp-content/uploads/2026/07/Chris-Duggan.jpeg?w=1000&h=563&crop=1",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Who gets faster Internet? India's net world may soon have first class and economy",
-      "description": "India is reviewing its net neutrality rules to allow 5G network slicing, a move that could let telecom operators offer premium connectivity with guaranteed speed, latency and reliability. The policy shift could transform industries from healthcare to manufact\u2026",
-      "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/who-gets-faster-internet-indias-net-world-may-soon-have-first-class-and-economy-v/articleshow/132761288.cms",
-      "source": "The Times of India",
-      "date": "2026-07-31",
-      "image": "https://img.etimg.com/thumb/msid-132761622,width-1200,height-630,imgsize-303224,overlay-economictimes/articleshow.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Global Market: Euro zone, US bond yields log biggest monthly rise since March on Middle East inflation concerns",
-      "description": "Euro zone and US bond yields recorded their largest monthly increase since March as Middle East conflict concerns renewed inflation fears. Traders pushed back interest rate cut expectations, with Germany\u2019s 10-year yield rising 28 basis points in July and US 1\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-euro-zone-us-bond-yields-log-biggest-monthly-rise-since-march-on-middle-east-inflation-concerns/articleshow/132761537.cms",
-      "source": "The Times of India",
-      "date": "2026-07-31",
-      "image": "https://img.etimg.com/thumb/msid-132761537,width-1200,height-630,imgsize-145032,overlay-etmarkets/articleshow.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Johor State Election 2026: Decoding Peninsular Malaysian Politics",
-      "description": "The Johor state election does not automatically presage a nationwide BN sweep because the results are heavily steeped in Johor's unique local context.",
-      "url": "https://thediplomat.com/2026/07/johor-state-election-2026-decoding-peninsular-malaysian-politics/",
-      "source": "The Diplomat",
-      "date": "2026-07-31",
-      "image": "https://thediplomat.com/wp-content/uploads/2026/07/sizes/td-story-s-2/thediplomat_2026-07-31-172947.jpg",
-      "category": "market"
-    },
-    {
-      "title": "WTF?! Maine\u2019s New Democrat Senate candidate Troy Jackson is in a ROMANTIC RELATIONSHIP with his COUSIN, and has TWO CHILDREN with her",
-      "description": " WTF?! Maine\u2019s New Democrat Senate candidate Troy Jackson is in a ROMANTIC RELATIONSHIP with his COUSIN, and has TWO CHILDREN with her THIS is the guy the Democrat Party swapped Graham Platner out for  Per The Main Wire\u2019s @SteveRob, Jackson and his \u201cpartn\u2026",
-      "url": "https://freerepublic.com/focus/f-chat/4390015/posts",
-      "source": "Freerepublic.com",
+      "title": "Why Non GamStop Casinos Attract UK Players Seeking Adaptable Gaming Choices",
+      "description": "UK players increasingly turn to non GamStop casinos when looking for more control over their gaming habits, as these platforms\u2026",
+      "url": "https://blogdoandroid.com/why-non-gamstop-casinos-attract-uk-players-seeking-adaptable-gaming-choices/",
+      "source": "Blogdoandroid.com",
       "date": "2026-07-31",
       "image": null,
       "category": "market"
     },
     {
-      "title": "Premiers need to give leeway for feds to negotiate hard with Trump, trade analysts say",
-      "description": "'The longer we go, the more daylight there is between all of the premiers,' said Matthew Holmes, from the Canadian Chamber of Commerce",
-      "url": "https://nationalpost.com/news/trade-analysts-say-premiers-need-to-give-leeway-for-feds-to-negotiate-hard-with-trump",
-      "source": "National Post",
+      "title": "Norwegian football chief warns of 'very serious' crisis over FIFA World Cup stake plan",
+      "description": "OSLO, July 31 : FIFA's proposal to sell a stake in the World Cup has provoked a \"very serious situation\" for the game, Norwegian Football Federation president Lise Klaveness said on Friday.\u201cThis is a very serious situation for Norwegian and international foot\u2026",
+      "url": "https://www.channelnewsasia.com/sport/norwegian-football-chief-warns-very-serious-crisis-over-fifa-world-cup-stake-plan-6291011",
+      "source": "CNA",
       "date": "2026-07-31",
-      "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/07/premiersmith0706dp_09.ca_304139892.jpg",
+      "image": "https://dam.mediacorp.sg/image/upload/s--nLOYa-1b--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-07-31T105411Z_1_LYNXMPEM6U10I_RTROPTP_3_SOCCER-FIFA-STAKE-NORWAY.JPG?itok=uMjetJ8u",
+      "category": "geopolitics"
+    },
+    {
+      "title": "India's Q1 FY27 fiscal deficit widens to Rs 3.1 lakh crore from Rs 2.8 lakh crore a year ago; at 18.2% of full-year target",
+      "description": "India Q1 FY27 fiscal deficit: The fiscal gap was higher than the Rs 2.8 lakh crore recorded during the April-June period of the previous financial year, showing increased government spending even as revenue collections remained robust.",
+      "url": "https://economictimes.indiatimes.com/news/economy/finance/indias-fiscal-deficit-reaches-rs-3-1-lakh-crore-in-q1-fy27-at-18-2-of-full-year-target/articleshow/132765087.cms",
+      "source": "The Times of India",
+      "date": "2026-07-31",
+      "image": "https://img.etimg.com/thumb/msid-132765176,width-1200,height-630,imgsize-98312,overlay-economictimes/articleshow.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Sports teams have gone from trophies to trillion-dollar investment targets",
+      "description": "Since 2014, overall total returns for the NBA, NFL, NHL, and MLB have outperformed the S&P 500.",
+      "url": "https://fortune.com/2026/07/31/sports-teams-trophies-trillion-dollar-investment-targets/",
+      "source": "Fortune",
+      "date": "2026-07-31",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2282659016-e1783378542105.jpg?resize=1200,600",
+      "category": "currency"
+    },
+    {
+      "title": "Italy Becomes EU\u2019s Top LNG Importer as Purchases Elsewhere Lag",
+      "description": "Italy became Europe\u2019s top importer of liquefied natural gas in July as traders made use of government incentives to keep buying cargoes despite soaring prices, while neighboring countries held back on costly purchases and allowed storage levels to lag.",
+      "url": "https://gcaptain.com/italy-becomes-eus-top-lng-importer-as-purchases-elsewhere-lag/",
+      "source": "gcaptain.com",
+      "date": "2026-07-31",
+      "image": "https://gcaptain.com/wp-content/uploads/2022/10/2022-10-20T124104Z_1872174585_RC205X9HZNFV_RTRMADP_3_UKRAINE-CRISIS-ITALY-LNG-scaled.jpg",
+      "category": "currency"
+    },
+    {
+      "title": "Why Players Choose Casino not on GamStop for More Freedom",
+      "description": "Digital gaming fans in the UK are increasingly looking for options beyond conventional regulated establishments that offer more flexibility and\u2026",
+      "url": "https://blogdoandroid.com/why-players-choose-casino-not-on-gamstop-for-more-freedom/",
+      "source": "Blogdoandroid.com",
+      "date": "2026-07-31",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "Timken Announces Key Leadership Appointments",
+      "description": "CCO, COO Roles Created to Advance One Timken Structure NORTH CANTON, Ohio, July 31, 2026 /PRNewswire/ -- The Timken Company (NYSE: TKR), a leader in advanced motion technology, today announced key executive leadership appointments in support of its Elevate to\u2026",
+      "url": "https://www.prnewswire.com/news-releases/timken-announces-key-leadership-appointments-302839646.html",
+      "source": "PRNewswire",
+      "date": "2026-07-31",
+      "image": "https://mmx.prnewswire.com/media/MS1961800/Tim-Graham-Headshot.jpg?id=OA2818731&p=facebook",
+      "category": "market"
+    },
+    {
+      "title": "Vista Gold Highlights Mt Todd Progress and Announces Participation in Australia\u2019s Diggers & Dealers Mining Forum",
+      "description": "DENVER \u2014 Vista Gold Corp. (NYSE American and TSX: VGZ) today provided an update on its Mt Todd gold project (\u201cMt Todd\u201d or the \u201cProject\u201d) in Australia\u2019s Northern Territory and announced the Company\u2019s participation in the Diggers & Dealers Mining Forum in Kalgo\u2026",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/vista-gold-highlights-mt-todd-progress-and-announces-participation-in-australias-diggers-dealers-mining-forum",
+      "source": "Financial Post",
+      "date": "2026-07-31",
+      "image": null,
+      "category": "supply_demand"
+    },
+    {
+      "title": "Bitcoin trades near $64K; key support seen at $63,800-$64,000 amid Fed uncertainty",
+      "description": "Bitcoin traded near $64,000 on Friday, holding largely steady over the past 24 hours as softer US inflation data offset concerns over the Federal Reserve\u2019s hawkish stance. Ethereum slipped 0.93%, while Bitcoin eased 0.10%. Among major altcoins, XRP, Solana an\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-trades-near-64k-key-support-seen-at-63800-64000-amid-fed-uncertainty/articleshow/132764733.cms",
+      "source": "The Times of India",
+      "date": "2026-07-31",
+      "image": "https://img.etimg.com/thumb/msid-132764733,width-1200,height-630,imgsize-291142,overlay-etmarkets/articleshow.jpg",
       "category": "central_bank"
     },
     {
-      "title": "NDIS provider pockets $1 million after incorrectly billing participants",
-      "description": "Some NDIS service providers have been referred to the ACCC as the government reveals thousands have been engaging in questionable billing practices, including using funds to pay for float tanks and golf lessons.",
-      "url": "https://www.abc.net.au/news/2026-07-31/ndis-service-providers-profiting-from-incorrect-billing/106981132",
-      "source": "ABC News (AU)",
+      "title": "'Deliberate indifference': NY state put imprisoned man's life at risk, judge rules",
+      "description": "Federal judge rebukes prison system after finding an \u2018appalling\u2019 disregard for incarcerated man\u2019s care. [ more \u203a ]",
+      "url": "https://gothamist.com/news/deliberate-indifference-ny-state-put-imprisoned-mans-life-at-risk-judge-rules",
+      "source": "Gothamist",
       "date": "2026-07-31",
-      "image": "https://live-production.wcms.abc-cdn.net.au/7a6ceffe7c73c32bf3c0d67ca355cb17?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=249&width=862&height=485&imformat=generic",
+      "image": "https://api-prod.gothamist.com/images/358395/fill-1200x650|format-webp|webpquality-85/",
+      "category": "central_bank"
+    },
+    {
+      "title": "The Forbes Guide To Planning For A Foreign Retirement",
+      "description": "How six Americans picked retirement spots ranging from Mauritius to France. Start your own search with Forbes\u2019 list of The Best Places To Retire Abroad in 2026.",
+      "url": "https://www.forbes.com/sites/williampbarrett/2026/07/31/the-forbes-guide-to-planning-for-a-foreign-retirement/",
+      "source": "Forbes",
+      "date": "2026-07-31",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a57a45dd394ff95e2d7251a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "category": "market"
+    },
+    {
+      "title": "How to apply for Zacch Adedeji\u2019s taxation, fiscal policy fellowship",
+      "description": "Apply for the Zacch Adedeji Taxation and Fiscal Policy Fellowship. Gain practical knowledge and experience in tax administration and public finance. Deadli\n\nRead More: https://punchng.com/how-to-apply-for-zacch-adedejis-taxation-fiscal-policy-fellowship/",
+      "url": "https://punchng.com/how-to-apply-for-zacch-adedejis-taxation-fiscal-policy-fellowship/",
+      "source": "The Punch",
+      "date": "2026-07-31",
+      "image": "https://punchng.com/wp-content/uploads/2026/07/Zacch-Adedeji_1784485957.webp",
+      "category": "market"
+    },
+    {
+      "title": "FG unveils plan to produce military doctors, nurses",
+      "description": "The Federal Government unveils plans to establish a dedicated college to train military doctors, nurses, and other healthcare professionals for the Nigeria\n\nRead More: https://punchng.com/alausa-unveils-plan-to-produce-military-doctors-nurses/",
+      "url": "https://punchng.com/alausa-unveils-plan-to-produce-military-doctors-nurses/",
+      "source": "The Punch",
+      "date": "2026-07-31",
+      "image": "https://punchng.com/wp-content/uploads/2026/06/The-Minister-of-Education-Dr-Maruf-Tunji-Alausa._1782728314-1200x630.webp",
+      "category": "geopolitics"
+    },
+    {
+      "title": "New Federal Limits on Risky Pathogen Research Take Effect in November, and Scientists Are Split on What They Will Cost",
+      "description": "A new federal policy halts dangerous gain-of-function research from November. Here is what it covers and why scientists disagree.",
+      "url": "https://www.medicaldaily.com/federal-policy-high-risk-life-sciences-research-gain-function-2026-476669",
+      "source": "Medical Daily",
+      "date": "2026-07-31",
+      "image": "https://d.medicaldaily.com/en/full/483794/olivier-douliery-afp-via-getty-images.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "RFK Jr\u2019s undermining of vaccine science and official data is eroding institutional confidence in American healthcare",
+      "description": "In nearly 18 months as US Secretary of Health and Human Services Robert Kennedy Jr has overseen the elevation of vaccine sceptics into government health leadership and championed a \u201cfreedom of choice\u201d approach to vaccination which makes it harder for those wh\u2026",
+      "url": "https://blogs.lse.ac.uk/usappblog/2026/07/31/rfk-jrs-undermining-of-vaccine-science-and-official-data-is-eroding-institutional-confidence-in-american-healthcare/",
+      "source": "Lse.ac.uk",
+      "date": "2026-07-31",
+      "image": "https://blogsmedia.lse.ac.uk/blogs.dir/58/files/2026/07/RFK-Jr-Flickr-2000x1250-1.jpg",
+      "category": "supply_demand"
     }
   ],
   "history": [
@@ -469,7 +469,7 @@
       "platinum_usd_oz": 1648.1
     }
   ],
-  "timestamp": "2026-08-01T14:08:41.388599+05:30",
+  "timestamp": "2026-08-01T16:25:56.315037+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
