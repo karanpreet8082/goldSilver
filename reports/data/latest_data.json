@@ -31,7 +31,7 @@
       "SGD_INR": 74.438
     },
     "gold_silver_ratio": 70.24,
-    "timestamp": "2026-08-02T06:16:30.824972",
+    "timestamp": "2026-08-02T08:42:22.393785",
     "source": "GoldAPI"
   },
   "currencies": {
@@ -54,7 +54,7 @@
         "hold": 25
       },
       "summary": "Gold is showing negative signals. Significant daily drop of -1.5%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-02T06:16:35.555457",
+      "timestamp": "2026-08-02T08:42:27.302649",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 25
       },
       "summary": "Silver is showing negative signals. Significant daily drop of -2.4%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-02T06:16:35.728257",
+      "timestamp": "2026-08-02T08:42:27.375426",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 25
       },
       "summary": "Platinum is showing negative signals. Slight decline of -0.7%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-02T06:16:35.830517",
+      "timestamp": "2026-08-02T08:42:27.458379",
       "source": "rule-based"
     }
   },
@@ -137,18 +137,27 @@
   },
   "news": [
     {
-      "title": "Goldman Sachs sees a bigger space opportunity beyond launch providers",
-      "description": "Space stocks could offer significant long-term growth opportunities as the industry expands beyond rocket launches into satellites, orbital broadband, communications, defence applications and other space-enabled services, although high valuations and extreme volatility could make the investment jour",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/goldman-sachs-sees-a-bigger-space-opportunity-beyond-launch-providers/articleshow/132800299.cms",
+      "title": "Muthoot Finance reports 25% rise in Q1 profit, announces leadership transition",
+      "description": "Muthoot Finance reported a 25% year-on-year rise in standalone net profit to Rs 2,550 crore for the June quarter, driven by robust growth in its gold loan business. The company also announced a leadership transition, with Alexander George Muthoot set to take over as managing director from October 1,",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/muthoot-finance-reports-25-rise-in-q1-profit-announces-leadership-transition/articleshow/132803408.cms",
       "source": "Economic Times Markets",
       "date": "2026-08-02",
       "image": "",
-      "category": "central_bank"
+      "category": "metals"
     },
     {
-      "title": "Will Nifty, Sensex extend gains on Monday? 6 factors which will drive D-Street action this week",
-      "description": "Indian stock market is expected to extend recent gains this week.  The Reserve Bank of India's policy decision will significantly influence market direction.  Geopolitical tensions in the Middle East and fluctuating oil prices remain key concerns.  Foreign institutional investors are showing renewed",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-nifty-sensex-extend-gains-on-monday-6-factors-which-will-drive-d-street-action-this-week/articleshow/132800020.cms",
+      "title": "Real estate firm Assetz files IPO papers with Sebi via confidential route; plans Rs 1,200 cr issue",
+      "description": "Assetz Ltd, a prominent Bengaluru-based real estate developer, has embarked on its journey towards an initial public offering by submitting its preliminary documentation. The firm aims to secure around Rs 1,200 crore as it ventures into public markets. With ambitious plans for land acquisition and a",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/real-estate-firm-assetz-files-ipo-papers-with-sebi-via-confidential-route-plans-rs-1200-cr-issue/articleshow/132802599.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-08-02",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "AI isn\u2019t a catch-all trade for stocks in this earnings season",
+      "description": "Investors are becoming more selective about AI-linked stocks, rewarding companies such as Microsoft and Amazon for showing clear returns from their investments while penalising Meta and Alphabet for rising spending and weaker cash flows. Despite strong earnings growth across the US and Europe, Europ",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-isnt-a-catch-all-trade-for-stocks-in-this-earnings-season/articleshow/132801452.cms",
       "source": "Economic Times Markets",
       "date": "2026-08-02",
       "image": "",
@@ -200,6 +209,15 @@
       "category": "metals"
     },
     {
+      "title": "Creality Falcon T1 review \u2013 A 5-in-1 modular laser engraver tested with 20W fiber and 40W diode laser modules",
+      "description": "Creality sent us a sample of the Falcon T1 5-in-1 modular laser engraver for review. The company describes it as the world\u2019s first 5-in-1 laser engraving and cutting machine that supports five types of laser modules in a single unit: 20W diode laser 20W, 40W \u2026",
+      "url": "https://www.cnx-software.com/2026/08/01/creality-falcon-t1-review-a-5-in-1-modular-laser-engraver-tested-with-20w-fiber-and-40w-diode-laser-modules/",
+      "source": "CNX Software",
+      "date": "2026-08-01",
+      "image": "https://www.cnx-software.com/wp-content/uploads/2026/08/Creality-Falcon-T1-5-in-1-Laser-Engraver-review.jpg",
+      "category": "market"
+    },
+    {
       "title": "What are the markings on silver ingot?",
       "description": "What are the markings on silver ingot? The markings on silver ingots are a crucial indicator of their authenticity, purity, origin, and production details. These markings can include the assayer\u2019s mark, fineness (purity) stamp, manufacturer\u2019s logo, weight, an\u2026",
       "url": "https://www.lifesciencesworld.com/what-are-the-markings-on-silver-ingot/",
@@ -209,39 +227,102 @@
       "category": "supply_demand"
     },
     {
-      "title": "Bloomberg puts off adding Indian bonds to its global index",
-      "description": "Bloomberg delays adding Indian bonds to its global index, disappointing traders and prompting expected selling in the bond market.",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-31/bloomberg-defers-inclusion-of-indian-bonds-in-global-index-ms8wqbxp",
-      "source": "Bloomberg",
+      "title": "Kate Moss' agency has lost \u00a31.8M in a YEAR as the company reports its first ever loss after the star set it up because she was 'sick of paying huge commission to agents'",
+      "description": "Kate Moss' agency has lost a staggering \u00a31.8million in a year as the company reports its first ever loss in 12 years.",
+      "url": "https://www.dailymail.com/tvshowbiz/article-16021461/Kate-Moss-agency-lost-1-8M-YEAR-company-reports-loss-star-set-sick-paying-huge-commission-agents.html",
+      "source": "Dailymail.com",
       "date": "2026-08-01",
-      "image": "https://bl-i.thgim.com/public/incoming/vfi5mp/article71293685.ece/alternates/LANDSCAPE_1200/PO18_Saving_money.jpg",
+      "image": "https://i.dailymail.com/1s/2026/08/01/09/110381163-0-image-m-11_1785572330295.jpg",
       "category": "market"
     },
     {
-      "title": "June/July in KDE Itinerary",
-      "description": "Time for another bi-monthly update on what happened around Itinerary!\nSince the previous report\nthere\u2019s a new combined journey view, support for ride sharing services and new Apple Wallet pass formats,\namong many other things.\nNew Features\nNew combined journe\u2026",
-      "url": "https://www.volkerkrause.eu/2026/08/01/kde-itinerary-june-july-2026.html",
-      "source": "Volkerkrause.eu",
+      "title": "EPFO fast-tracks PF withdrawals, aims to settle claims within 24\u201348 hours \u2014 check details here",
+      "description": "The EPFO aims to settle fresh PF withdrawal claims within the same day or a maximum of two days, easing access to savings for members. Details here.&nbsp;",
+      "url": "https://www.livemint.com/money/personal-finance/epfo-fast-tracks-pf-withdrawals-aims-to-settle-claims-within-24-48-hours-check-details-here-11785571828350.html",
+      "source": "Livemint",
       "date": "2026-08-01",
-      "image": "https://www.volkerkrause.eu/assets/posts/236/kde-itinerary-rental-vehicle-service-opening-hours.png",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/01/1600x900/logo/epfo_1785573340218_1785573340350_be3fd66d-6b3f-44f4-9b1a-2b3ed9592de9.png",
       "category": "market"
     },
     {
-      "title": "FIFA scraps private investment plan after backlash",
-      "description": "FIFA president Gianni Infantino said on August 1 he has scrapped a plan to allow private investment in the World Cup following fierce backlash from football officials worldwide.",
-      "url": "https://www.hurriyetdailynews.com/fifa-scraps-private-investment-plan-after-backlash-225092",
-      "source": "Hurriyet Daily News",
+      "title": "Kuwait Intercepts Iranian Drones as Trump Weighs Fresh Strikes",
+      "description": "Kuwait said its air defenses had detected and destroyed Iranian drones as US President Donald Trump weighs new strikes.",
+      "url": "https://financialpost.com/pmn/business-pmn/kuwait-intercepts-iranian-drones-as-trump-weighs-fresh-strikes",
+      "source": "Financial Post",
       "date": "2026-08-01",
-      "image": "https://image.hurimg.com/i/hurriyet/75/200x200/6a6d8c9da64e05517541f446.jpg",
+      "image": null,
       "category": "market"
     },
     {
-      "title": "FIFA abandon $20B World Cup sell-off plan as investors pull out, CONCACAF president set to challenge Infantino for presidency",
-      "description": "FIFA have abandoned plans to sell a minority stake in its commercial business after serious opposition from the global football community and the withdrawal of key investors, per The New York Post.It ...",
-      "url": "https://footballtoday.com/2026/08/01/fifa-abandon-20b-world-cup-sell-off-plan-as-investors-pull-out-due-to-worldwide-backlash/",
-      "source": "Footballtoday.com",
+      "title": "FIFA drops World Cup investment plan after global backlash",
+      "description": "PARIS, Aug 1: FIFA has abandoned its controversial proposal to open the commercial rights of the World Cup to private investors after facing widespread opposition from football federations, confederations and senior officials. FIFA President Gianni Infantino \u2026",
+      "url": "https://peoplesreview.com.np/2026/08/01/fifa-drops-world-cup-investment-plan-after-global-backlash/",
+      "source": "Peoplesreview.com.np",
       "date": "2026-08-01",
-      "image": "https://s.yimg.com/lo/mysterio/api/a8d9208bf414e76021eaeb1ec5ec9f018cb6739bf8f3633e14d55d0c0b2cda8e/lightyear_networkapi/resizefill_w760_h536;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffootball_today_articles_719%2Ff0707399bf986e76bbe3a096242a46c3",
+      "image": "https://peoplesreview.com.np/wp-content/uploads/2025/12/Fifa-World-Cup-draw-1.png",
+      "category": "central_bank"
+    },
+    {
+      "title": "AI bubble gone bust? Once a billionaire, how AI investor Leopold Aschenbrenner lost most of his hedge fund\u2019s fortune in days",
+      "description": "Aschenbrenner's fund, Situational Awareness, massively grew to as big as $45 billion at the beginning of July before big losses took hold, CNBC reported citing sources. The fund began to see massive losses in recent weeks as its heavyweight AI holdings like S\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-bubble-gone-bust-once-a-billionaire-how-ai-investor-leopold-aschenbrenner-lost-most-of-his-hedge-funds-fortune-in-days/articleshow/132785441.cms",
+      "source": "The Times of India",
+      "date": "2026-08-01",
+      "image": "https://img.etimg.com/thumb/msid-132785465,width-1200,height-630,imgsize-22975,overlay-etmarkets/articleshow.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "The Gaza Medical Crisis: A Public Health Timeline",
+      "description": "How healthcare access, hospitals, water and disease risk in Gaza have changed since 2007, sourced from WHO, UNICEF, UN OCHA, UNRWA and the ICRC, not commentary.",
+      "url": "https://aitimeline.in/gaza-medical-crisis-timeline-blockades-disease-2508/",
+      "source": "Aitimeline.in",
+      "date": "2026-08-01",
+      "image": "https://aitimeline.in/wp-content/uploads/2026/08/gaza-medical-crisis-timeline-cover.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Daddy Showkey: From ghetto to grace, celebrates 50 years on stage",
+      "description": "\u2026How Ajegunle, \u2018Dyna\u2019 miracle, Vanguard, Eko hotels shaped my journey \u2026To honour on August 9 concert \u2026\u2019I once scavenged for aluminium to survive\u2019 \u2026Reveals how he created Galala sound, got the name \u2018Showkey\u2019 For Daddy Showkey, the journey has been one of survi\u2026",
+      "url": "https://www.vanguardngr.com/2026/08/daddy-showkey-from-ghetto-to-grace-celebrates-50-years-on-stage/",
+      "source": "Vanguard",
+      "date": "2026-08-01",
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2017/09/daddy-showkey.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Canada could add billions to its economy by processing more food. Here's what it's trying",
+      "description": "The federal government's national food security strategy is pledging hundreds of millions of dollars to scale up Canada's food processing industry. CBC's The House spoke to Ontario farmers and innovators to understand why the push matters \u2014 and what Canada co\u2026",
+      "url": "https://www.cbc.ca/news/politics/canada-food-processing-national-food-strategy-carney-9.7292819",
+      "source": "CBC News",
+      "date": "2026-08-01",
+      "image": "https://i.cbc.ca/ais/2009e6b3-6df7-40a9-8407-4c1497d51046,1785524400869/full/max/0/default.jpg?im=Crop%2Crect%3D%28351%2C835%2C6148%2C3458%29%3BResize%3D620",
+      "category": "central_bank"
+    },
+    {
+      "title": "Benue Government Strengthens Maternal Health Services Through Comprehensive SRHR Training",
+      "description": "Benue Government Strengthens Maternal Health Services Through Comprehensive SRHR Trainingsubstack.com",
+      "url": "https://wardcnigeria.substack.com/p/benue-government-strengthens-maternal",
+      "source": "Substack.com",
+      "date": "2026-08-01",
+      "image": "https://substackcdn.com/image/fetch/$s_!cNzf!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f398400-fecd-40d3-80ed-9cc80ca492ff_750x529.jpeg",
+      "category": "market"
+    },
+    {
+      "title": "Trump wanted interest rate cuts to be 'Rocket Fuel' for the economy. He is losing that fight so far",
+      "description": "President Donald Trump has for months pressured the Federal Reserve to slash interest rates, claiming it would be \u201cRocket Fuel!\u201d",
+      "url": "https://abcnews.com/US/wireStory/trump-wanted-interest-rate-cuts-rocket-fuel-economy-135280708",
+      "source": "Abcnews.com",
+      "date": "2026-08-01",
+      "image": "https://i.abcnewsfe.com/a/8f600f3f-808c-4e3a-9c77-8aef8ab0f0a7/wirestory_9db7b892114e7863064323396f633c9d_16x9.jpg?w=1600",
+      "category": "central_bank"
+    },
+    {
+      "title": "Bitcoin slips below $63,000 to a two-week low as weak Coinbase earnings and fading optimism weigh on sentiment",
+      "description": "Bitcoin fell below $63,000, its lowest in two weeks, as sentiment weakened. Coinbase earnings and fading optimism about U.S. crypto legislation impacted market sentiment. Major altcoins like XRP and Solana also saw corrections, while BNB and Cardano experienc\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-slips-below-63000-to-a-two-week-low-as-weak-coinbase-earnings-and-fading-optimism-weigh-on-sentiment/articleshow/132783427.cms",
+      "source": "The Times of India",
+      "date": "2026-08-01",
+      "image": "https://img.etimg.com/thumb/msid-132783424,width-1200,height-630,imgsize-287342,overlay-etmarkets/articleshow.jpg",
       "category": "market"
     },
     {
@@ -251,24 +332,6 @@
       "source": "TheStreet",
       "date": "2026-08-01",
       "image": "https://s.yimg.com/lo/mysterio/api/09B4E2EDA920D2A6C198BB75D2DC5EDC068C51971D3B1302FAD5008220FF4CAE/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2Fd9171f38ccde3962e3a52560be1cbdc6",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Which managers talk in riddles... and who's straight to the point? We reveal the World Cup's most cliche-ridden coaches - so how does Thomas Tuchel fare?",
-      "description": "It's enough to leave long-suffering football fans as sick as a parrot - the post-match press conference in which a manager reels off a string of cliches.",
-      "url": "https://www.dailymail.com/sport/football/article-16019851/managers-tWorld-Cup-cliche-Thomas-Tuchel.html",
-      "source": "Dailymail.com",
-      "date": "2026-08-01",
-      "image": "https://i.dailymail.com/1s/2026/07/31/14/110367013-0-image-m-19_1785503611640.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Fears Middle East war could expand as conflict reignites",
-      "description": "What US President Donald Trump predicted would be a four-to-six-week joint military operation with Israel to dismantle the Iranian regime is fast sliding into a six-month stalemate with no immediate end in sight, writes Washington Correspondent Jackie Fox.",
-      "url": "https://www.rte.ie/news/analysis-and-comment/2026/0801/1586068-iran-us-conflict/",
-      "source": "RTE",
-      "date": "2026-08-01",
-      "image": "https://www.rte.ie/images/0024c18a-1600.jpg",
       "category": "geopolitics"
     },
     {
@@ -297,42 +360,6 @@
       "date": "2026-08-01",
       "image": "https://bl-i.thgim.com/public/incoming/wom33l/article71288944.ece/alternates/LANDSCAPE_1200/2020-06-10T160054Z_346300937_RC2G6H9AJQEG_RTRMADP_3_USA-FED-DOLLAR.JPG",
       "category": "central_bank"
-    },
-    {
-      "title": "Trump Administration Permanently Expands Visa Bond Policy",
-      "description": "The U.S. State Department is making its visa bond program permanent and increasing the maximum bond amount to $20,000, according to a draft notice published in the Federal Register. \nThe policy is intended to reduce visa overstays and is expected to take effe\u2026",
-      "url": "https://biztoc.com/x/ee53be34e9627f6c",
-      "source": "Biztoc.com",
-      "date": "2026-08-01",
-      "image": "https://biztoc.com/cdn/ee53be34e9627f6c_s.webp",
-      "category": "central_bank"
-    },
-    {
-      "title": "Juniper Research Group \u2014 Legislative Bulletin: H.R. 3962, Speaker Pelosi\u2019s Government Takeover of Health Care",
-      "description": "On October 29, 2009, Speaker Pelosi and the House Democrat leadership introduced H.R. 3962, the Affordable Health Care for America Act. The legislation combines provisions in earlier versions approved by the Committees on Education and Labor, Energy and Comme\u2026",
-      "url": "http://www.juniperresearchgroup.com/post/2446/legislative-bulletin-h-r-3962-speaker-pelosis-government-takeover-of-health-care",
-      "source": "Juniperresearchgroup.com",
-      "date": "2026-08-01",
-      "image": "http://www.juniperresearchgroup.com/img/hero.png",
-      "category": "market"
-    },
-    {
-      "title": "Trump wanted interest rate cuts to be 'Rocket Fuel' for the economy. He is losing that fight so far",
-      "description": "President Donald Trump has been losing his own battle to cut interest rates.  Trump for months publicly pressured the Federal Reserve to slash its benchmark...",
-      "url": "https://finance.yahoo.com/economy/policy/articles/trump-wanted-interest-rate-cuts-040051373.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-08-01",
-      "image": "https://s.yimg.com/lo/mysterio/api/AEDC318081352B80C1A5C35E39AFBF57883D20667BF5FBBDFB7B726286E9C068/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F47e3e76b713a645e0ebddf5d13bd9fca",
-      "category": "central_bank"
-    },
-    {
-      "title": "Through a Glass, Darkly",
-      "description": "Photo Credit:ChatGPT\n \n ChatGPTBy Charlton AllenAn elegy for Lamar and Ashton Allen, thirty years after TWA Flight 800.",
-      "url": "https://www.americanthinker.com/articles/2026/08/through-a-glass-darkly/",
-      "source": "Americanthinker.com",
-      "date": "2026-08-01",
-      "image": "https://images.americanthinker.com/vg/vgokrcl8ur2roi5kjohe_1200.jpg",
-      "category": "market"
     },
     {
       "title": "DENARIUS METALS ANNOUNCES CLOSING OF TRANSACTION TO RETIRE ITS CONVERTIBLE DEBENTURES",
@@ -378,33 +405,6 @@
       "date": "2026-07-31",
       "image": null,
       "category": "metals"
-    },
-    {
-      "title": "Bunker Hill Ships First Concentrate to Trail Smelter and Announces Drawdown of Standby Facility",
-      "description": "KELLOGG, Idaho and VANCOUVER, British Columbia, July 31, 2026 (GLOBE NEWSWIRE) -- Bunker Hill Mining Corp. (\u201cBunker Hill\u201d or the \u201cCompany\u201d) (TSX:BNKR | OTCQB:BHLL) is pleased to announce the first shipment of concentrate to Teck Resources Limited\u2019s (\u201cTeck\u201d) T\u2026",
-      "url": "https://www.globenewswire.com/news-release/2026/07/31/3337077/0/en/Bunker-Hill-Ships-First-Concentrate-to-Trail-Smelter-and-Announces-Drawdown-of-Standby-Facility.html",
-      "source": "GlobeNewswire",
-      "date": "2026-07-31",
-      "image": "https://ml.globenewswire.com/Resource/Download/fe8c6df0-c863-4e47-bac0-5415e52ee00b",
-      "category": "supply_demand"
-    },
-    {
-      "title": "The Best Jewelry Brands Our Editors Shop on Amazon",
-      "description": "We're no stranger to an Amazon jewelry section. These are the brands we've wear-tested ourselves, from affordable rings and bracelets to genuine diamond necklaces.",
-      "url": "https://www.cosmopolitan.com/style-beauty/fashion/a73232474/best-jewelry-on-amazon-2026/",
-      "source": "Cosmopolitan.com",
-      "date": "2026-07-31",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/90b678d5-f684-4a8d-b6df-6015693452e2.png?crop=1xw:0.889xh;0xw,0.083xh&resize=1200:*",
-      "category": "market"
-    },
-    {
-      "title": "Dollar Finds Support on Higher T-Note Yields",
-      "description": "The dollar index (DXY00 ) rose by +0.04% on Friday. The dollar recovered from a 6-week low on Friday and posted modest gains as higher T-note yields strength...",
-      "url": "https://www.barchart.com/story/news/3583741/dollar-finds-support-on-higher-t-note-yields",
-      "source": "Barchart.com",
-      "date": "2026-07-31",
-      "image": "https://s.yimg.com/lo/mysterio/api/85E7CA5BEBF51AB9C0EC2C7F5EE4630546A70DA0E20B68BF0BF51F34C5E945B2/subgraphmysterio/resizefill_w1200_h821;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F84ae0eb9df2ee375c1348da6ad2c252a",
-      "category": "currency"
     }
   ],
   "history": [
@@ -469,7 +469,7 @@
       "platinum_usd_oz": 1648.1
     }
   ],
-  "timestamp": "2026-08-02T11:46:35.843138+05:30",
+  "timestamp": "2026-08-02T14:12:27.471018+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
