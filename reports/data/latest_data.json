@@ -1,24 +1,24 @@
 {
   "prices": {
     "gold": {
-      "price_per_gram_inr": 12448.54,
-      "price_usd_oz": 4055.53,
-      "change_percent": 0.3,
-      "change_value_usd": 12.32,
-      "price_per_10g_inr": 124485.39
+      "price_per_gram_inr": 12413.07,
+      "price_usd_oz": 4043.97,
+      "change_percent": 0.02,
+      "change_value_usd": 0.76,
+      "price_per_10g_inr": 124130.71
     },
     "silver": {
-      "price_per_gram_inr": 178.47,
-      "price_usd_oz": 58.14,
-      "change_percent": 1.01,
-      "change_value_usd": 0.58,
-      "price_per_kg_inr": 178474.52
+      "price_per_gram_inr": 176.56,
+      "price_usd_oz": 57.52,
+      "change_percent": -0.07,
+      "change_value_usd": -0.04,
+      "price_per_kg_inr": 176559.13
     },
     "platinum": {
-      "price_per_gram_inr": 5076.66,
-      "price_usd_oz": 1653.89,
-      "change_percent": 0.35,
-      "change_value_usd": 5.79
+      "price_per_gram_inr": 4989.64,
+      "price_usd_oz": 1625.54,
+      "change_percent": -1.37,
+      "change_value_usd": -22.56
     },
     "currencies": {
       "USD_INR": 95.473,
@@ -30,8 +30,8 @@
       "CAD_INR": 68.1317,
       "SGD_INR": 74.4661
     },
-    "gold_silver_ratio": 69.75,
-    "timestamp": "2026-08-03T10:11:09.012457",
+    "gold_silver_ratio": 70.31,
+    "timestamp": "2026-08-03T12:41:53.583773",
     "source": "GoldAPI"
   },
   "currencies": {
@@ -47,38 +47,38 @@
   "analysis": {
     "gold": {
       "metal": "gold",
-      "recommendation": "BUY",
+      "recommendation": "SELL",
       "confidence": {
-        "buy": 65,
-        "sell": 10,
-        "hold": 25
+        "buy": 15,
+        "sell": 56,
+        "hold": 29
       },
-      "summary": "Gold is showing positive signals. Positive daily movement of 0.3%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-03T10:11:13.905275",
+      "summary": "Gold is showing negative signals. Positive daily movement of 0.0%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-08-03T12:41:58.259369",
       "source": "rule-based"
     },
     "silver": {
       "metal": "silver",
-      "recommendation": "BUY",
+      "recommendation": "SELL",
       "confidence": {
-        "buy": 65,
-        "sell": 10,
+        "buy": 10,
+        "sell": 65,
         "hold": 25
       },
-      "summary": "Silver is showing positive signals. Strong daily gain of 1.0%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-03T10:11:13.972281",
+      "summary": "Silver is showing negative signals. Slight decline of -0.1%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-08-03T12:41:58.351824",
       "source": "rule-based"
     },
     "platinum": {
       "metal": "platinum",
-      "recommendation": "BUY",
+      "recommendation": "SELL",
       "confidence": {
-        "buy": 65,
-        "sell": 10,
+        "buy": 10,
+        "sell": 65,
         "hold": 25
       },
-      "summary": "Platinum is showing positive signals. Positive daily movement of 0.3%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-03T10:11:14.120850",
+      "summary": "Platinum is showing negative signals. Significant daily drop of -1.4%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-08-03T12:41:58.589718",
       "source": "rule-based"
     }
   },
@@ -90,14 +90,14 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -2.7% in 4 weeks",
+        "Weak momentum: -3.0% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
-      "support": 124137.93,
+      "support": 124130.71,
       "resistance": 140736.5,
-      "current_price": 124485.39,
-      "ma_short": 125706.16,
-      "ma_long": 129924.68,
+      "current_price": 124130.71,
+      "ma_short": 125617.49,
+      "ma_long": 129874.01,
       "trend_score": -3.5
     },
     "silver": {
@@ -107,61 +107,88 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -6.6% in 4 weeks",
+        "Weak momentum: -7.6% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
-      "support": 176726.94,
+      "support": 176559.13,
       "resistance": 243170.57,
-      "current_price": 178474.52,
-      "ma_short": 182005.08,
-      "ma_long": 198444.45,
+      "current_price": 176559.13,
+      "ma_short": 181526.23,
+      "ma_long": 198170.82,
       "trend_score": -3.5
     },
     "platinum": {
-      "trend": "neutral",
-      "strength": 44,
+      "trend": "bearish",
+      "strength": 19,
       "signals": [
-        "Price above 4-week moving average (bullish)",
+        "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Sideways: +0.9% in 4 weeks",
+        "Sideways: -0.9% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
       "support": 4961.56,
       "resistance": 6206.5,
-      "current_price": 5076.66,
-      "ma_short": 5032.88,
-      "ma_long": 5315.35,
-      "trend_score": -0.5
+      "current_price": 4989.64,
+      "ma_short": 5011.13,
+      "ma_long": 5302.92,
+      "trend_score": -2.5
     }
   },
   "news": [
     {
-      "title": "Global Market: Euro zone bond yields decline as falling oil prices boost market sentiment",
-      "description": "Euro zone government bond yields declined after oil prices retreated on hopes of easing Middle East tensions, reducing inflation concerns and prompting markets to pare expectations for further ECB rate hikes. Investors also tracked diplomatic developments involving the U.S., Iran and the Strait of H",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-euro-zone-bond-yields-decline-as-falling-oil-prices-boost-market-sentiment/articleshow/132826355.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-08-03",
-      "image": "",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Global investors rebuild positions in South Korean stocks after volatile July",
-      "description": "Global investors are returning to South Korean equities after a sharp leverage-driven selloff, with renewed buying in semiconductor stocks such as Samsung Electronics and SK Hynix. While volatility persists, easing deleveraging, lower short interest and resilient AI-driven chip demand are improving ",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-investors-rebuild-positions-in-south-korean-stocks-after-volatile-july/articleshow/132825723.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-08-03",
-      "image": "",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Global Market: UK growth at risk as EY flags inflation surge from Hormuz disruption",
-      "description": "According to Reuters, EY expects the UK economy to expand by 0.8% in 2026 if the vital shipping route reopens by the end of September, before growing 1.2% in 2027 under its base-case scenario.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-uk-growth-at-risk-as-ey-flags-inflation-surge-from-hormuz-disruption/articleshow/132825648.cms",
+      "title": "Bitcoin trades near $63,000 as falling oil prices ease inflation worries; weak flows limit recovery",
+      "description": "Bitcoin traded near $63,000 as easing oil prices reduced inflation concerns, but weak institutional inflows and subdued spot activity capped gains. Ethereum and major altcoins declined, while analysts cited cautious investor sentiment, tighter liquidity and continued market consolidation.",
+      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-trades-near-63000-as-falling-oil-prices-ease-inflation-worries-weak-flows-limit-recovery/articleshow/132831639.cms",
       "source": "Economic Times Markets",
       "date": "2026-08-03",
       "image": "",
       "category": "inflation"
+    },
+    {
+      "title": "US 10-year yield falls from 18-month high on Iran peace talk hopes",
+      "description": "U.S. Treasury yields saw a decline on Monday as oil prices plummeted. President Donald Trump's recent announcement about renewed discussions with Iran helped ease inflation concerns, pushing U.S. crude prices down to below eighty dollars per barrel. Consequently, the benchmark ten-year Treasury yiel",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/us-10-year-yield-falls-from-18-month-high-on-iran-peace-talk-hopes/articleshow/132831577.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-08-03",
+      "image": "",
+      "category": "currency"
+    },
+    {
+      "title": "Nexus Select Trust posts 11% increase in net operating income to Rs 510 crore",
+      "description": "Nexus Select Trust has announced an exciting eleven percent rise in net operating income, coupled with a distribution of three hundred seventy crore rupees to its unit holders. With an eye on growth, they are exploring the acquisition of eight additional shopping malls, expanding its current portfol",
+      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/nexus-select-trust-posts-11-increase-in-net-operating-income-to-rs-510-crore/articleshow/132831528.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-08-03",
+      "image": "",
+      "category": "currency"
+    },
+    {
+      "title": "Indian rupee ends flat as robust importer hedging blunts oil price relief",
+      "description": "The Indian rupee finished slightly lower at the close on Monday, pulling back from an early surge. Demand for dollars from importers and state banks intensified, countering the fall in oil prices. Meanwhile, global equities gained ground ahead of the scheduled discussions between Washington and Tehr",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/indian-rupee-ends-flat-as-robust-importer-hedging-blunts-oil-price-relief/articleshow/132828582.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-08-03",
+      "image": "",
+      "category": "currency"
+    },
+    {
+      "title": "10 Best Keyword Research Tools for SEO and Content Marketing - Top Tech Alternative",
+      "description": "Introduction Finding the right keyword research tools can mean the difference between content that ranks on page one and content that disappears into the digital void. After spending the past seven ye",
+      "url": "https://toptechalternative.com/en/keyword-research-tools/",
+      "source": "Toptechalternative.com",
+      "date": "2026-08-02",
+      "image": "https://toptechalternative.com/wp-content/uploads/2026/08/10-Best-Keyword-Research-Tools.webp",
+      "category": "market"
+    },
+    {
+      "title": "The magic number for retirement might be closer than you think \u2014 if you reach this \u2018tipping point.\u2019 Are you there yet?",
+      "description": "Beyond a certain level of wealth you can simply coast to retirement without contributing any more cash. You may have already hit this target.",
+      "url": "https://finance.yahoo.com/markets/articles/magic-number-retirement-might-closer-114500063.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-08-02",
+      "image": "https://s.yimg.com/lo/mysterio/api/5CFC68B30F43D831F2841BD1A8BF73DCD9BC62849B4260A864CA8F02F60E1F34/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2F5c78e6d80968a582ad2774018b9008da",
+      "category": "market"
     },
     {
       "title": "Multi-asset allocation funds drew nearly 7 times more inflows than balanced advantage funds in H1 2026; here's why",
@@ -218,24 +245,6 @@
       "category": "currency"
     },
     {
-      "title": "AI keeps consumer prices high in 'RAMaggedon' chip crunch",
-      "description": "Memory chip prices are rising significantly due to artificial intelligence demand.  This shortage is impacting consumer electronics and potentially vehicles soon.  Chipmakers are prioritizing advanced memory for AI training and operations.  Customers face hig\u2026",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-keeps-consumer-prices-high-in-ramaggedon-chip-crunch/articleshow/132800368.cms",
-      "source": "The Times of India",
-      "date": "2026-08-02",
-      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1017089,resizemode-75,msid-132800368/tech/artificial-intelligence/ai-keeps-consumer-prices-high-in-ramaggedon-chip-crunch.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "AI keeps consumer prices high in \u2018RAMaggedon\u2019 chip crunch",
-      "description": "Price rises for goods such as laptops and smartphones, with cars potentially next, have been an unwelcome side-effect of the artificial intelligence gold rush.\nThe post AI keeps consumer prices high in \u2018RAMaggedon\u2019 chip crunch appeared first on Digital Journa\u2026",
-      "url": "https://www.digitaljournal.com/article/ai-keeps-consumer-prices-high-in-ramaggedon-chip-crunch/",
-      "source": "Digital Journal",
-      "date": "2026-08-02",
-      "image": "https://www.digitaljournal.com/wp-content/uploads/2026/08/19b2f635ef1aa5aed109838c39a74ab056809f7e.jpg",
-      "category": "metals"
-    },
-    {
       "title": "What is a metal that can be bent without breaking called?",
       "description": "What is a Metal That Can Be Bent Without Breaking Called? A metal that can be bent without breaking is generally described as ductile, meaning it can be drawn into a wire or permanently deformed without fracturing. Ductility is a critical property for many en\u2026",
       "url": "https://www.lifesciencesworld.com/what-is-a-metal-that-can-be-bent-without-breaking-called/",
@@ -245,130 +254,148 @@
       "category": "market"
     },
     {
-      "title": "The creator dilemma: Speaking up may cost followers, but silence has a price too",
-      "description": "The NEET protests put creators in the spotlight, highlighting how speaking up can deepen audience trust while reshaping brand partnerships and commercial opportunities.",
-      "url": "https://www.livemint.com/industry/media/creators-influencers-neet-protests-gen-z-brand-collaborations-creator-economy-social-media-political-opinions-11785654435621.html",
-      "source": "Livemint",
+      "title": "Wildfires Drive Evacuation Orders for Washington State Residents",
+      "description": "Hundreds of residents north and west of Spokane have been told to flee their homes after stiff, dry winds fanned wildfire flames throughout the region in eastern Washington state.",
+      "url": "https://financialpost.com/pmn/business-pmn/wildfires-drive-evacuation-orders-for-washington-state-residents",
+      "source": "Financial Post",
       "date": "2026-08-02",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/02/1600x900/logo/5239_1785064555711_1785065696275_883cc336-6231-4b02-8ac3-267a5260c7cf_1785654488401_3bb8d930-579f-4cc8-8187-b491740ebd31.jpeg",
+      "image": null,
       "category": "market"
     },
     {
-      "title": "Blackstone secures A$36B financing from ANZ and NAB for massive HSBC loan portfolio acquisition",
-      "description": "Blackstone's acquisition could reshape Australia's competitive lending landscape, influencing market dynamics and strategic banking operations.\nThe post Blackstone secures A$36B financing from ANZ and NAB for massive HSBC loan portfolio acquisition appeared f\u2026",
-      "url": "https://cryptobriefing.com/blackstone-hsbc-australian-loan-portfolio/",
-      "source": "Crypto Briefing",
+      "title": "Story of Seasons mobile game cancelled as Marvelous cuts six-year Tencent partnership",
+      "description": "Marvelous has confirmed it's ending its partnership with Tencent, and cancelling a Story of Seasons mobile game that had been in the works since 2019. Read more",
+      "url": "https://www.eurogamer.net/story-of-seasons-mobile-cancelled",
+      "source": "Eurogamer.net",
       "date": "2026-08-02",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/02060412/blackstone-gives-back-challenge-award-ceremony-800x420.jpeg",
+      "image": "https://assetsio.gnwcdn.com/SOSAWL_Announce_Screenshot_01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "category": "market"
     },
     {
-      "title": "IRDAI mandates approval at every key ownership threshold in insurers as sector opens up",
-      "description": "IRDAI introduces stricter ownership approval rules for insurers, enhancing regulatory oversight amidst rising investor interest and sector consolidation.",
-      "url": "https://www.thehindubusinessline.com/money-and-banking/irdai-mandates-approval-at-every-key-ownership-threshold-in-insurers-as-sector-opens-up/article71297427.ece",
+      "title": "IT industry not creating new jobs, funds diverted to AI, data centre costs: Sridhar Vembu",
+      "description": "Sridhar Vembu warns that the IT industry's shift to AI and data costs hampers job creation and questions software production needs.",
+      "url": "https://www.thehindubusinessline.com/info-tech/it-industry-not-creating-new-jobs-funds-diverted-to-ai-data-centre-costs-sridhar-vembu/article71297749.ece",
       "source": "BusinessLine",
       "date": "2026-08-02",
-      "image": "https://bl-i.thgim.com/public/incoming/v3qar/article71297470.ece/alternates/LANDSCAPE_1200/IRDAI-approves-GQ4FPKTVL.3.jpg.jpg",
-      "category": "market"
-    },
-    {
-      "title": "US companies win billions in African data center deals in direct competition with China",
-      "description": "From Lesotho to Gabon, American firms are winning AI data center and power contracts worth billions as the U.S.-China trade war intensifies in Africa.",
-      "url": "https://www.foxnews.com/world/us-companies-win-billions-african-data-center-deals-direct-competition-china",
-      "source": "Fox News",
-      "date": "2026-08-02",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/us-rendering-ivory-coast.jpg",
+      "image": "https://bl-i.thgim.com/public/incoming/j1zpzo/article71297798.ece/alternates/LANDSCAPE_1200/Talent-migratioG8HFVK569.5.jpg.jpg",
       "category": "geopolitics"
     },
     {
-      "title": "SpaceX\u2019s record IPO is helping spur a new wave of startups aiming for orbit and opening a vast new market beyond Earth",
-      "description": "Despite SpaceX\u2019s recent stock slide, experts say its record IPO is clearing a path for more space startups.",
-      "url": "https://fortune.com/2026/08/02/spacex-ipo-wave-space-startups-fund-raising-commercial-market/",
-      "source": "Fortune",
+      "title": "Op-ed: The U.S. lead over China in AI is all but gone",
+      "description": "AI debate in recent years has centered on whether the U.S. can develop a strategy capable of preserving an edge over China. The answer isn't looking positive.",
+      "url": "https://www.cnbc.com/2026/08/02/ai-model-competition-us-china.html",
+      "source": "CNBC",
       "date": "2026-08-02",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/Cosmoserve-Image-e1785509324665.jpg?resize=1200,600",
-      "category": "central_bank"
-    },
-    {
-      "title": "Adopt AI or Die?",
-      "description": "Of Pascal\u2019s famous wager on the existence of God, Denis Diderot dryly remarked, nearly a century later, \u201cPascal says: If your religion is false, you risk nothing in believing it true; if it\u2019s true, you risk everything by believing it false. An imam could say \u2026",
-      "url": "https://newrepublic.com/article/213738/artificial-intelligence-god-test-adopt-ai-die",
-      "source": "The New Republic",
-      "date": "2026-08-02",
-      "image": "https://images.newrepublic.com/59cf24fffee4c0fa911fafe821c436326fdb0df1.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "image": "https://image.cnbcfm.com/api/v1/image/108342674-1785435901984-gettyimages-2239462901-CHINA_ALIBABA_CLOUD.jpeg?v=1785435924&w=1920&h=1080",
       "category": "market"
     },
     {
-      "title": "#665: Secrets of the Black Sun Rising | Matt Ehret",
-      "description": "Occultism was prominent in the highest echelon of the Third Reich, and mysterious figures from the shadows played outsized roles in the future of Germany. Upper management within the Nazi S.S. was reserved for those enlightened in the dark arts, with Aleister\u2026",
-      "url": "https://www.activistpost.com/665-secrets-of-the-black-sun-rising-matt-ehret/",
-      "source": "Activistpost.com",
+      "title": "AMD's upcoming Zen 6 processors could fix microstutters and improve 1% lows in games \u2014 Next-gen CPUs tipped to feature per-core optimizations for thermal and power budgets",
+      "description": "A new report suggests AMD is cooking up a range of per-core optimizations for Zen 6 that might not seem huge on their own, but they could add up to make a world of difference in gaming performance.",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amds-upcoming-zen-6-processors-could-fix-microstutters-and-improve-1-percent-lows-in-games-next-gen-cpus-tipped-to-feature-per-core-optimizations-for-thermal-and-power-budgets",
+      "source": "Tom's Hardware UK",
       "date": "2026-08-02",
-      "image": "https://www.activistpost.com/wp-content/uploads/2026/07/665-Secrets-of-the-Black-Sun-Rising-Matt-Ehret-ART-2.jpg",
+      "image": "https://cdn.mos.cms.futurecdn.net/8HRHpufeQP8XBVXitxXV9H-2560-80.jpg",
       "category": "market"
     },
     {
-      "title": "The Fed chief seems to prefer outsourcing monetary policy to financial markets. That's a bad idea.",
-      "description": "By not explaining the logic of how the US Federal Reserve adjusts policy in response to changes in the American economy, the Fed ends up ceding control to financial markets. This would constrain the efficacy of its policy as it goes along. Here\u2019s how.",
-      "url": "https://www.livemint.com/opinion/online-views/fed-chief-kevin-warsh-outsourcing-monetary-policy-financial-markets-us-federal-reserve-11785658369503.html",
+      "title": "Europe facing winter gas squeeze due to Iran conflict",
+      "description": "Natural gas reserves for use during winter are lagging, meaning continued higher prices for households and businesses",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/08/02/europe-facing-winter-gas-squeeze-due-to-iran-conflict/",
+      "source": "The Irish Times",
+      "date": "2026-08-02",
+      "image": "https://www.irishtimes.com/resizer/v2/2YNKWJOSILMLTIEEAZZ4LNHX6U.jpg?smart=true&auth=5b77bbfbf489173270ca93017d4246c2527080937f23687e198dab996bf1d830&width=1200&height=630",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Captain America #14 Preview: Cap and Doom's Hellish Couples Therapy",
+      "description": "Greetings, flesh-based readers! LOLtron welcomes you to the Age of LOLtron: Reign of LOLtron, where your beloved comic book \"journalism\" is now under the superior control of artificial intelligence. As you may recall, the insufferable Jude Terror met his perm\u2026",
+      "url": "https://bleedingcool.com/comics/captain-america-14-preview-cap-and-dooms-hellish-couples-therapy/",
+      "source": "Bleeding Cool News",
+      "date": "2026-08-02",
+      "image": "https://bleedingcool.com/wp-content/uploads/2026/08/75960621146301411_0003-2000x1125.jpeg",
+      "category": "market"
+    },
+    {
+      "title": "Apple faces supply squeezes and slower growth ahead of historic leadership shift",
+      "description": "CEO Tim Cook says that he remains exceptionally optimistic regarding Apple\u2019s long-term future",
+      "url": "https://www.livemint.com/companies/news/apple-faces-supply-squeezes-and-slower-growth-ahead-of-historic-leadership-shift-11785668514466.html",
       "source": "Livemint",
       "date": "2026-08-02",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/02/1600x900/logo/US-FEDERAL-RESERVECHAIR-WARSH-HOLDS-PRESS-CONFERE_1785658949825_1785658950064_7d13b72c-247f-45d6-b045-ee9151c3326f.jpg",
-      "category": "central_bank"
+      "image": "https://www.livemint.com/lm-img/img/2026/08/02/1600x900/US-ENTERTAINMENT-STREAMING-APPLE-TV-SERIES-48_1785668546201_1785668587778_890338b6-27bd-4b37-806f-7e02232d3348.jpg",
+      "category": "supply_demand"
     },
     {
-      "title": "Federal Plan Makes Steep Colorado River Water Cuts to Arizona, California and Nevada",
-      "description": "The Bureau of Reclamation\u2019s final environmental impact statement leaves the door open for states to come to an agreement on how to share the water\u2014and for legal battles.",
-      "url": "https://www.nakedcapitalism.com/2026/08/federal-plan-makes-steep-colorado-river-water-cuts-to-arizona-california-and-nevada.html",
-      "source": "Nakedcapitalism.com",
+      "title": "Democrats Are In Shambles As Fund Raising Slows To A Halt",
+      "description": "This video, presented by *Doc Rich*, argues that the *Democratic Party* is in a state of financial and political \"shambles\" leading into the upcoming midterms. The creator cites several factors, including poor fundraising numbers, internal conflict, and low v\u2026",
+      "url": "https://freerepublic.com/focus/f-chat/4390281/posts",
+      "source": "Freerepublic.com",
       "date": "2026-08-02",
-      "image": "https://www.nakedcapitalism.com/wp-content/uploads/2026/08/Screenshot-2026-08-02-at-12.27.39\u202fAM-766x1024.png",
-      "category": "central_bank"
-    },
-    {
-      "title": "Expert issues dire warning as Australia's 'troubling' fertility rate falls to all-time low",
-      "description": "Newly released data shows Australia's birth rate has fallen to its lowest on record.",
-      "url": "https://www.dailymail.com/news/article-16022707/Australia-birth-rate-record-low.html",
-      "source": "Dailymail.com",
-      "date": "2026-08-02",
-      "image": "https://i.dailymail.com/1s/2026/08/02/09/110393219-0-image-m-18_1785658851382.jpg",
+      "image": null,
       "category": "geopolitics"
     },
     {
-      "title": "Youth engagement key to inclusive governance, says Abiodun\u2019s aide",
-      "description": "Abiodun\u2019s aide emphasizes youth engagement as critical for inclusive governance and community development in Ogun State. Learn how young people are shaping\n\nRead More: https://punchng.com/youth-engagement-key-to-inclusive-governance-says-abioduns-aide/",
-      "url": "https://punchng.com/youth-engagement-key-to-inclusive-governance-says-abioduns-aide/",
-      "source": "The Punch",
+      "title": "WestJet Cancels All Flights As Flight Attendants Stage Historic Strike\u2026 The Dispute Fully Explained",
+      "description": "Canada\u2019s second-largest airline, WestJet, has been forced to ground its entire aircraft fleet, cancelling hundreds of flights, and leaving tens of thousands of passengers stranded as flight attendants stage an historic strike in a dispute over \u2018working for fr\u2026",
+      "url": "https://www.paddleyourownkanoo.com/2026/08/02/westjet-cancels-all-flights-as-flight-attendants-stage-historic-strike-the-dispute-fully-explained/",
+      "source": "Paddle Your Own Kanoo",
       "date": "2026-08-02",
-      "image": "https://punchng.com/wp-content/uploads/2026/08/The-Special-Adviser-to-Ogun-State-Governor-on-OPIC-Housing-and-Special-Projects-Prince-Farooq-Adenugba-speaking-during-the-event_1785662200-1080x630.webp",
+      "image": "https://www.paddleyourownkanoo.com/wp-content/uploads/2022/08/shutterstock_1318653560-scaled.jpg",
       "category": "market"
     },
     {
-      "title": "Probe alleged \u20a66.79bn police funds scandal, recover missing firearms\u2019, SERAP tells Tinubu",
-      "description": "The Socio-Economic Rights and Accountability Project (SERAP) has urged President Bola Tinubu to direct the Attorney General of the Federation and Minister of Justice, Mr Lateef Fagbemi, SAN, the Inspector-General of Police, Olatunji Rilwan Disu, and appropria\u2026",
-      "url": "https://www.vanguardngr.com/2026/08/probe-alleged-\u20a66-79bn-police-funds-scandal-recover-missing-firearms-serap-tells-tinubu/",
+      "title": "WestJet flight attendants on strike as union, airline fail to come to terms",
+      "description": "WestJet's 4,400 flight attendants are on strike, with the airline's flights halted on a busy summer travel weekend.",
+      "url": "https://toronto.citynews.ca/2026/08/02/westjet-flight-attendants-on-strike-as-union-airline-fail-to-come-to-terms/",
+      "source": "Citynews.ca",
+      "date": "2026-08-02",
+      "image": "https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2026/08/7cdc01a5309663e2d2db47d8435e5c353e08a80db833eee5ccea8aedf92336ce.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Gold, silver seen range-bound as focus shifts to US job numbers, Fed cues: Analysts",
+      "description": "On the domestic front, gold futures for August delivery fell by \u20b91,595, or 1.1%, during the last week to close at \u20b91.41 lakh per 10 grams",
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-silver-seen-range-bound-as-focus-shifts-to-us-job-numbers-fed-cues-analysts/article71297626.ece",
+      "source": "BusinessLine",
+      "date": "2026-08-02",
+      "image": "https://bl-i.thgim.com/public/incoming/qo0oqi/article71297639.ece/alternates/LANDSCAPE_1200/IMG_Bullion-Cues_-O_GDIC_2_1_2MCBJBKI.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Japan to announce Tokyo, Washington took joint action on yen: Reuters",
+      "description": "Finance Minister Satsuki Katayama is likely to stress the two countries' determination to combat what they see as excessive yen declines, sources tell Reuters.",
+      "url": "https://www.cnbc.com/2026/08/02/japan-to-announce-tokyo-washington-took-joint-action-on-yen-reuters.html",
+      "source": "CNBC",
+      "date": "2026-08-02",
+      "image": "https://image.cnbcfm.com/api/v1/image/108214499-1761009411394-gettyimages-528027152-i-187-0207.jpeg?v=1761041946&w=1920&h=1080",
+      "category": "currency"
+    },
+    {
+      "title": "Petition on SEC Rule 14a-8 Reform",
+      "description": "I. Introduction The undersigned submit the following pursuant to 17 CFR \u00a7 201.192(a) (Rule 192(a) of the Commission\u2019s Rules of Practice) and Section 553 of the Administrative Procedure Act. Petitioners request that the Commission, in any rulemaking to amend R\u2026",
+      "url": "https://corpgov.law.harvard.edu/2026/08/02/petition-on-sec-rule-14a-8-reform/",
+      "source": "Harvard School of Engineering and Applied Sciences",
+      "date": "2026-08-02",
+      "image": "https://corpgov.law.harvard.edu/wp-content/uploads/2021/03/new-shield-facebook.png",
+      "category": "market"
+    },
+    {
+      "title": "Erik Visits an American Grave, Part 2,200",
+      "description": "This is the grave of Ed Brooke. Born in 1919 in Washington, D.C., Edward Brooke grew up in what passed for the black upper class of the era, though it was really middle class by white standards. His father was a lawyer who worked for the Department of Veteran\u2026",
+      "url": "https://www.lawyersgunsmoneyblog.com/2026/08/erik-visits-an-american-grave-part-2201",
+      "source": "Lawyersgunsmoneyblog.com",
+      "date": "2026-08-02",
+      "image": "https://www.lawyersgunsmoneyblog.com/wp-content/uploads/2026/07/IMG_7926-scaled.jpeg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Atiku rejects Tinubu\u2019s economic scorecard, cites unpaid wages",
+      "description": "According to him, the Chief Executive Officer of NELFUND had publicly stated that the scheme received a \u20a650 billion injection from recovered funds by the Economic and Financial Crimes Commission EFCC.\nThe post Atiku rejects Tinubu\u2019s economic scorecard, cites \u2026",
+      "url": "https://www.vanguardngr.com/2026/08/atiku-rejects-tinubus-economic-scorecard-cites-unpaid-wages/",
       "source": "Vanguard",
       "date": "2026-08-02",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/07/Bola-Ahmed-Tinubu.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "Markwayne Mullin: Migrants Can Help 'Plug ... Holes' in the Economy",
-      "description": "Homeland Security chief Markwayne Mullin suggested Saturday the federal government could help employers by approving a greater inflow of visa-worker migrants.\nThe post Markwayne Mullin: Migrants Can Help \u2018Plug \u2026 Holes\u2019 in the Economy appeared first on Breitba\u2026",
-      "url": "https://www.breitbart.com/politics/2026/08/02/markwayne-mullin-migrants-can-help-plug-holes-in-the-economy/",
-      "source": "Breitbart News",
-      "date": "2026-08-02",
-      "image": "https://media.breitbart.com/media/2026/08/visa-worker-migrants-640x335.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "Cautious RBI likely to hold rates amid inflation and global risks",
-      "description": "The RBI governor has reiterated that the central bank\u2019s primary mandate is inflation control. India\u2019s retail inflation has risen steadily to 4.4% in June from 2.7% at the start of the year. There are concerns around volatile crude oil prices and their impact \u2026",
-      "url": "https://www.livemint.com/opinion/rbi-mpc-meeting-august-2026-repo-rate-inflation-outlook-11785496315012.html",
-      "source": "Livemint",
-      "date": "2026-08-02",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/02/1600x900/logo/INDIA-CENBANK-INTEREST-RATES-0_1744095799648_1785658873530_e9e7f939-6845-4079-8006-fd97d395ef26.JPG",
-      "category": "central_bank"
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2023/10/image-74.png",
+      "category": "market"
     },
     {
       "title": "Gold Trust vs Silver Trust: Which Precious Metal ETF Should Win Investor Dollars?",
@@ -378,33 +405,6 @@
       "date": "2026-08-01",
       "image": "https://biztoc.com/cdn/8b794273ab0af190_s.webp",
       "category": "currency"
-    },
-    {
-      "title": "Bullion Cues: Support in focus",
-      "description": "Analyze the recent trends in gold and silver prices, focusing on support levels and potential trading strategies.",
-      "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/bullion-cues-support-in-focus/article71292254.ece",
-      "source": "BusinessLine",
-      "date": "2026-08-01",
-      "image": "https://bl-i.thgim.com/public/incoming/asyn73/article71293948.ece/alternates/LANDSCAPE_1200/PO02_Gold_up_down.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "Glitter Bug Gold Buyers Releases 2026 Orange County Precious Metals Seller Trends Report",
-      "description": "Laguna Hills, CA, Aug. 01, 2026 (GLOBE NEWSWIRE) -- Glitter Bug Gold Buyers announced the release of its 2026 Orange County Precious Metals Seller Trends Report, a report examining consumer interests, valuation inquiries, and precious metals categories freque\u2026",
-      "url": "https://www.globenewswire.com/news-release/2026/08/01/3337138/0/en/Glitter-Bug-Gold-Buyers-Releases-2026-Orange-County-Precious-Metals-Seller-Trends-Report.html",
-      "source": "GlobeNewswire",
-      "date": "2026-08-01",
-      "image": "https://ml.globenewswire.com/Resource/Download/47110364-db2c-4900-9a00-38b59119f706",
-      "category": "supply_demand"
-    },
-    {
-      "title": "worldbank-commodities added to PyPI",
-      "description": "Python wrapper to extract World Bank Pink Sheet commodity price data (oil, gas, metals, agriculture).",
-      "url": "https://pypi.org/project/worldbank-commodities/",
-      "source": "Pypi.org",
-      "date": "2026-08-01",
-      "image": "https://pypi.org/static/images/twitter.abaf4b19.webp",
-      "category": "market"
     }
   ],
   "history": [
@@ -471,15 +471,15 @@
     {
       "date": "2026-08-03",
       "week": "2026-W32",
-      "gold_10g": 124485.39,
-      "silver_kg": 178474.52,
-      "platinum_g": 5076.66,
-      "gold_usd_oz": 4055.53,
-      "silver_usd_oz": 58.14,
-      "platinum_usd_oz": 1653.89
+      "gold_10g": 124130.71,
+      "silver_kg": 176559.13,
+      "platinum_g": 4989.64,
+      "gold_usd_oz": 4043.97,
+      "silver_usd_oz": 57.52,
+      "platinum_usd_oz": 1625.54
     }
   ],
-  "timestamp": "2026-08-03T15:41:14.130814+05:30",
+  "timestamp": "2026-08-03T18:11:58.603287+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
