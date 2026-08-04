@@ -1,24 +1,24 @@
 {
   "prices": {
     "gold": {
-      "price_per_gram_inr": 12460.34,
-      "price_usd_oz": 4062.69,
-      "change_percent": 0.18,
-      "change_value_usd": 7.48,
-      "price_per_10g_inr": 124603.44
+      "price_per_gram_inr": 12519.6,
+      "price_usd_oz": 4082.01,
+      "change_percent": 0.66,
+      "change_value_usd": 26.8,
+      "price_per_10g_inr": 125195.99
     },
     "silver": {
-      "price_per_gram_inr": 181.14,
-      "price_usd_oz": 59.06,
-      "change_percent": 1.5,
-      "change_value_usd": 0.87,
-      "price_per_kg_inr": 181144.23
+      "price_per_gram_inr": 182.63,
+      "price_usd_oz": 59.55,
+      "change_percent": 2.33,
+      "change_value_usd": 1.35,
+      "price_per_kg_inr": 182628.66
     },
     "platinum": {
-      "price_per_gram_inr": 5243.11,
-      "price_usd_oz": 1709.52,
-      "change_percent": 4.67,
-      "change_value_usd": 76.29
+      "price_per_gram_inr": 5338.07,
+      "price_usd_oz": 1740.47,
+      "change_percent": 6.57,
+      "change_value_usd": 107.25
     },
     "currencies": {
       "USD_INR": 95.395,
@@ -30,8 +30,8 @@
       "CAD_INR": 67.9403,
       "SGD_INR": 74.3763
     },
-    "gold_silver_ratio": 68.79,
-    "timestamp": "2026-08-04T11:38:12.740601",
+    "gold_silver_ratio": 68.55,
+    "timestamp": "2026-08-04T15:03:52.723599",
     "source": "GoldAPI"
   },
   "currencies": {
@@ -53,8 +53,8 @@
         "sell": 10,
         "hold": 25
       },
-      "summary": "Gold is showing positive signals. Positive daily movement of 0.2%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-04T11:38:18.123160",
+      "summary": "Gold is showing positive signals. Positive daily movement of 0.7%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
+      "timestamp": "2026-08-04T15:03:57.520089",
       "source": "rule-based"
     },
     "silver": {
@@ -65,8 +65,8 @@
         "sell": 10,
         "hold": 25
       },
-      "summary": "Silver is showing positive signals. Strong daily gain of 1.5%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-04T11:38:18.222431",
+      "summary": "Silver is showing positive signals. Strong daily gain of 2.3%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
+      "timestamp": "2026-08-04T15:03:57.624467",
       "source": "rule-based"
     },
     "platinum": {
@@ -77,8 +77,8 @@
         "sell": 10,
         "hold": 25
       },
-      "summary": "Platinum is showing positive signals. Strong daily gain of 4.7%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-04T11:38:18.321314",
+      "summary": "Platinum is showing positive signals. Strong daily gain of 6.6%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
+      "timestamp": "2026-08-04T15:03:57.727249",
       "source": "rule-based"
     }
   },
@@ -90,14 +90,14 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -2.6% in 4 weeks",
+        "Weak momentum: -2.1% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
       "support": 124137.93,
       "resistance": 140736.5,
-      "current_price": 124603.44,
-      "ma_short": 125735.67,
-      "ma_long": 129941.54,
+      "current_price": 125195.99,
+      "ma_short": 125883.81,
+      "ma_long": 130026.19,
       "trend_score": -3.5
     },
     "silver": {
@@ -107,14 +107,14 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -5.2% in 4 weeks",
+        "Weak momentum: -4.5% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
       "support": 176726.94,
       "resistance": 243170.57,
-      "current_price": 181144.23,
-      "ma_short": 182672.5,
-      "ma_long": 198825.83,
+      "current_price": 182628.66,
+      "ma_short": 183043.61,
+      "ma_long": 199037.89,
       "trend_score": -3.5
     },
     "platinum": {
@@ -124,42 +124,123 @@
         "Price above 4-week moving average (bullish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Strong momentum: +4.2% in 4 weeks"
+        "Strong momentum: +6.1% in 4 weeks"
       ],
       "support": 4961.56,
       "resistance": 6206.5,
-      "current_price": 5243.11,
-      "ma_short": 5074.5,
-      "ma_long": 5339.13,
+      "current_price": 5338.07,
+      "ma_short": 5098.24,
+      "ma_long": 5352.7,
       "trend_score": 0.0
     }
   },
   "news": [
     {
-      "title": "Competing cues, caution ahead of RBI policy decision keep rupee nearly flat",
-      "description": "The rupee remained stable as traders awaited the Reserve Bank of India's policy announcement. Foreign bank dollar sales and importer hedging demand influenced currency movements throughout the day. Banking system liquidity improved, leading to lower forward premiums on dollar-rupee trades. Economist",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/competing-cues-caution-ahead-of-rbi-policy-decision-keep-rupee-nearly-flat/articleshow/132858867.cms",
+      "title": "A crash coming? Ray Dalio warns AI rally looks like 1929 and 2000 bubbles",
+      "description": "Bridgewater founder Ray Dalio warned the AI-driven market rally displays bubble-like traits seen before the 1929 crash and dot-com bust. He cited stretched valuations, rising rates and heavy stock issuance as key risks, echoing concerns from Jeremy Grantham and Goldman Sachs.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/a-crash-coming-ray-dalio-warns-ai-rally-looks-like-1929-and-2000-bubbles/articleshow/132862682.cms",
       "source": "Economic Times Markets",
       "date": "2026-08-04",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "How dumb I was! When Peter Lynch regretted not buying Warren Buffett's favourite stock whose product his daughter used",
-      "description": "Legendary investor Peter Lynch expressed regret over missing out on Apple despite his daughter buying an iPod, calling the oversight a mistake given Apple's simple business model and strong balance sheet. Lynch emphasized his core investing rule to know what you own before putting money into any sto",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/how-dumb-i-was-when-peter-lynch-regretted-not-buying-warren-buffetts-favourite-stock-whose-product-his-daughter-used/articleshow/132855960.cms",
-      "source": "Economic Times Markets",
+      "title": "New Gold & Silver Live Price Tracking App Launches on iOS and Android Mobile Phones - The National Law Review",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQRmJDY1YyQW8zd2paVHlMVDRjTFRabVRCTlBxQUpqRTZrd0RWejNScG1qUEVQT1lPbjNwcWVaZzRpdzJzMldHTjZqeTctTGNEYU1VRndac2wwMWpleGdxXzlKem5uUXRjbkRsQ1IxZnZGV1BnS3ZIamZWc21KODhGaktQWG5vNTU5UFpJUGFJTHZvQ20tRkNKZ1J5QVkyMTdISnEwZ3hZdUhCMTJMNUZKbQ?oc=5\" targe",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRmJDY1YyQW8zd2paVHlMVDRjTFRabVRCTlBxQUpqRTZrd0RWejNScG1qUEVQT1lPbjNwcWVaZzRpdzJzMldHTjZqeTctTGNEYU1VRndac2wwMWpleGdxXzlKem5uUXRjbkRsQ1IxZnZGV1BnS3ZIamZWc21KODhGaktQWG5vNTU5UFpJUGFJTHZvQ20tRkNKZ1J5QVkyMTdISnEwZ3hZdUhCMTJMNUZKbQ?oc=5",
+      "source": "Google News - Precious Metals",
       "date": "2026-08-04",
       "image": "",
-      "category": "geopolitics"
+      "category": "metals"
     },
     {
-      "title": "Trump overhaul could gut Head Start preschool quality standards",
-      "description": "President Donald Trump's administration is planning to overhaul the Head Start program. Two people familiar with the deliberations tell The Associated Press the Republican administration's proposed changes could significantly reduce the preschool program's qu\u2026",
-      "url": "https://apnews.com/article/head-start-preschool-trump-6207d2fb0934df35722cc2505b679131",
-      "source": "Associated Press",
+      "title": "Prevalence and related factors of high myopia among adults aged 50 years and older in Fujian Eye Study",
+      "description": "Purpose This study aimed to assess the prevalence of high myopia and its associated demographic and ocular factors among residents aged 50 and older in Fujian Province, Southeast China.   Methods A population-based cross-sectional eye study was conducted from\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0355042",
+      "source": "Plos.org",
       "date": "2026-08-03",
-      "image": "https://dims.apnews.com/dims4/default/934da3d/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa0%2Fab%2F943497e24d3ae0f43fbdb1dc5e13%2F4f23f168a2c144528c8ceb2f8b0b8539",
+      "image": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0355042.t003&size=inline",
+      "category": "market"
+    },
+    {
+      "title": "Effectiveness, safety, and implementation outcomes of a decentralization program to deliver antivenoms in the Western Brazilian Amazonia: The SAVING program",
+      "description": "Author summary Snakebite envenoming is a major public health problem in the Amazon region, especially among Indigenous peoples living in remote forest areas. In Brazil, antivenom treatment has traditionally only been available in hospitals located in urban ce\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014612",
+      "source": "Plos.org",
+      "date": "2026-08-03",
+      "image": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0014612.g002&size=inline",
+      "category": "market"
+    },
+    {
+      "title": "RBI sold $14.9 billion in forex market during Jan-May 2026 to curb rupee volatility",
+      "description": "The Finance Ministry also updated Parliament on loan recoveries, wilful defaulters, SWAMIH housing, gold loan NPAs and Kisan Credit Cards",
+      "url": "https://www.thehindubusinessline.com/markets/forex/rbi-sold-149-billion-in-forex-market-during-jan-may-2026-to-curb-rupee-volatility/article71301364.ece",
+      "source": "BusinessLine",
+      "date": "2026-08-03",
+      "image": "https://bl-i.thgim.com/public/todays-paper/tp-others/tp-variety/5cu5rv/article71078354.ece/alternates/LANDSCAPE_1200/RBI-announces-sGLRG3B8CR.4.jpg.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "The U.S. Cannot Make Its Own Ammunition Metal; A Nevada Explorer Just Defined One of America's Largest Domestic Sources of It",
+      "description": "Issued on behalf of NevGold Corp. (TSXV: NAU) (OTCQX: NAUFF) (Frankfurt: 5E50) VANCOUVER, BC, Aug. 3, 2026 /PRNewswire/ -- Equity Insider News Commentary - Antimony is not a metal most investors think about, but the U.S. government thinks about it constantly.\u2026",
+      "url": "https://www.prnewswire.com/news-releases/the-us-cannot-make-its-own-ammunition-metal-a-nevada-explorer-just-defined-one-of-americas-largest-domestic-sources-of-it-302840986.html",
+      "source": "PRNewswire",
+      "date": "2026-08-03",
+      "image": "https://mmx.prnewswire.com/media/MS1718299/Equity-Insider-Logo.jpg?id=OA2821045&p=facebook",
+      "category": "metals"
+    },
+    {
+      "title": "RBI sells USD 14.9 bn during Jan-May to check excess volatility in rupee",
+      "description": "In an effort to stabilize the rupee, the Reserve Bank of India sold USD 14.9 billion. Banks are also re-engaging with defaulters to recover substantial written-off loans. The SWAMIH Fund has been effective in funding 147 projects, benefitting many home buyers\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-sells-usd-14-9-bn-during-jan-may-to-check-excess-volatility-in-rupee/articleshow/132832815.cms",
+      "source": "The Times of India",
+      "date": "2026-08-03",
+      "image": "https://img.etimg.com/thumb/msid-132832844,width-1200,height-630,imgsize-87206,overlay-etmarkets/articleshow.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "How Mumbai Indians takeover has affected MI London & Surrey",
+      "description": "BBC Sport takes a look at what has changed, what has stayed the same and what the future holds for MI London after investment from Indian Premier League side Mumbai Indians.",
+      "url": "https://www.bbc.com/sport/cricket/articles/cyvl6n9d2y9o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "source": "BBC News",
+      "date": "2026-08-03",
+      "image": "https://s.yimg.com/lo/mysterio/api/04409846269391d7a70ef4f46de6e3ec7b11afdd639bf463e5c8b3a8658783fe/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1e6cce8cd4b34081db06aee88aa5ccb1",
+      "category": "market"
+    },
+    {
+      "title": "Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.8 Million Tokens, and Total Crypto and Total Cash Holdings of $11.3 Billion",
+      "description": "Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 13 months In July, ETH outperformed Nasdaq 100 by 2,500 basis points, the largest since July 2025, reflective of the strengthening fundame\u2026",
+      "url": "https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-8-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-3-billion-302840749.html",
+      "source": "PRNewswire",
+      "date": "2026-08-03",
+      "image": "https://mmx.prnewswire.com/media/MS1962596/BITMINE-Weekly-Update.jpg?id=OA2820914&p=facebook",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Diebold Nixdorf Recognized as an Android\u2122 Enterprise Gold Partner",
+      "description": "Recognition advances reliable, enterprise-scale Android deployments for customers with enhanced support and faster rollout capabilities NORTH CANTON, Ohio, Aug. 3, 2026 /PRNewswire/ -- Diebold Nixdorf (NYSE: DBD), a world leader in transforming the way people\u2026",
+      "url": "https://www.prnewswire.com/news-releases/diebold-nixdorf-recognized-as-an-android-enterprise-gold-partner-302840098.html",
+      "source": "PRNewswire",
+      "date": "2026-08-03",
+      "image": "https://mmx.prnewswire.com/media/MS1961982/Diebold-Nixdorf-Mobile-Solutions.jpg?id=OA2819554&p=facebook",
+      "category": "metals"
+    },
+    {
+      "title": "Everybody Knows",
+      "description": "\u201cI underestimated how emotionally committed much of the press is to rallying around Anthony Fauci. His reputation is more important to them than anything. . .\u201d \u2014Matt Taibbi",
+      "url": "https://www.kunstler.com/p/everybody-knows",
+      "source": "Kunstler.com",
+      "date": "2026-08-03",
+      "image": "https://substackcdn.com/image/fetch/$s_!nGZJ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc042be1-37f9-4e48-8252-073c88e5627e_646x394.heic",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Accessory Focus: Rings",
+      "description": "Some people feel undressed without their favourite rings, while others prefer the simplicity of bare hands.",
+      "url": "https://youlookfab.com/2026/08/03/accessory-focus-rings/",
+      "source": "Youlookfab.com",
+      "date": "2026-08-03",
+      "image": null,
       "category": "market"
     },
     {
@@ -181,51 +262,6 @@
       "category": "market"
     },
     {
-      "title": "Texas Precious Metals Rings Nasdaq Closing Bell to Celebrate Launch of Y'all Street Physical Gold and Silver ETFs",
-      "description": "Texas Precious Metals Rings Nasdaq Closing Bell to Celebrate Launch of Y'all Street Physical Gold and Silver ETFs....",
-      "url": "https://www.globenewswire.com/news-release/2026/08/03/3337297/0/en/Texas-Precious-Metals-Rings-Nasdaq-Closing-Bell-to-Celebrate-Launch-of-Y-all-Street-Physical-Gold-and-Silver-ETFs.html",
-      "source": "GlobeNewswire",
-      "date": "2026-08-03",
-      "image": "https://ml.globenewswire.com/Resource/Download/cee7759e-5a42-49de-90a7-5b5261d3a0ef",
-      "category": "metals"
-    },
-    {
-      "title": "Bitget Lists 2U2.ai (2U2) for Spot Trading",
-      "description": "Bitget lists 2U2.ai (2U2), expanding spot access to AIGC meme creation and Web3 community distribution tools....",
-      "url": "https://www.globenewswire.com/news-release/2026/08/03/3337291/0/en/Bitget-Lists-2U2-ai-2U2-for-Spot-Trading.html",
-      "source": "GlobeNewswire",
-      "date": "2026-08-03",
-      "image": "https://ml-eu.globenewswire.com/Resource/Download/9d0920c3-1287-40ba-bd03-519a3e44a733",
-      "category": "market"
-    },
-    {
-      "title": "India, Uzbekistan could explore FTA, says Piyush Goyal; Uzbekistan invites Indian investment in mining, rare earths",
-      "description": "India and Uzbekistan aim to double bilateral trade to three billion dollars within three years.  Businesses are urged to increase investments and explore opportunities in key sectors.  India offers strengths in information technology and a skilled workforce f\u2026",
-      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-uzbekistan-could-explore-fta-says-piyush-goyal-uzbekistan-invites-indian-investment-in-mining-rare-earths/articleshow/132825083.cms",
-      "source": "The Times of India",
-      "date": "2026-08-03",
-      "image": "https://img.etimg.com/thumb/msid-132825311,width-1200,height-630,imgsize-69068,overlay-economictimes/articleshow.jpg",
-      "category": "currency"
-    },
-    {
-      "title": "Global Market: Hong Kong launches offshore Chinese government bond futures to boost Yuan internationalisation",
-      "description": "Hong Kong has launched the world's first offshore Chinese government bond futures, providing global investors with a new tool to hedge interest rate risk and strengthening the international use of the yuan. The move forms part of Beijing's broader efforts to \u2026",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-hong-kong-launches-offshore-chinese-government-bond-futures-to-boost-yuan-internationalisation/articleshow/132823590.cms",
-      "source": "The Times of India",
-      "date": "2026-08-03",
-      "image": "https://img.etimg.com/thumb/msid-132823795,width-1200,height-630,imgsize-10476,overlay-etmarkets/articleshow.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "Accessory Focus: Rings",
-      "description": "Some people feel undressed without their favourite rings, while others prefer the simplicity of bare hands.",
-      "url": "https://youlookfab.com/2026/08/03/accessory-focus-rings/",
-      "source": "Youlookfab.com",
-      "date": "2026-08-03",
-      "image": null,
-      "category": "market"
-    },
-    {
       "title": "The American Art of Blowing Stuff Up",
       "description": "The Gruccis, often called the First Family of Fireworks, have been in the pyrotechnics business for six generations. Paige Williams reports on how their shows come to life.",
       "url": "https://www.newyorker.com/magazine/2026/08/10/the-american-art-of-blowing-stuff-up",
@@ -233,6 +269,15 @@
       "date": "2026-08-03",
       "image": "https://media.newyorker.com/photos/6a68fdc0ac28e2e76a4f2f7f/16:9/w_1280,c_limit/r49785.jpg",
       "category": "market"
+    },
+    {
+      "title": "Texas Precious Metals Rings Nasdaq Closing Bell to Celebrate Launch of Y'all Street Physical Gold and Silver ETFs",
+      "description": "Texas Precious Metals Rings Nasdaq Closing Bell to Celebrate Launch of Y'all Street Physical Gold and Silver ETFs....",
+      "url": "https://www.globenewswire.com/news-release/2026/08/03/3337297/0/en/Texas-Precious-Metals-Rings-Nasdaq-Closing-Bell-to-Celebrate-Launch-of-Y-all-Street-Physical-Gold-and-Silver-ETFs.html",
+      "source": "GlobeNewswire",
+      "date": "2026-08-03",
+      "image": "https://ml.globenewswire.com/Resource/Download/cee7759e-5a42-49de-90a7-5b5261d3a0ef",
+      "category": "metals"
     },
     {
       "title": "The \u2018Guardrail Guy\u2019 Went Viral for Posting About Flock Cameras. Then Someone Destroyed Them",
@@ -244,166 +289,121 @@
       "category": "market"
     },
     {
-      "title": "Ardee Industries IPO GMP rises to 13% ahead of launch on August 5. Check key details",
-      "description": "The Rs 425.87 crore Ardee Industries IPO will open for subscription on August 5, with a grey market premium of 13% signalling positive listing expectations. The lead recycling and non-ferrous metals company plans to use the proceeds for working capital, debt \u2026",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/ardee-industries-ipo-gmp-rises-to-13-ahead-of-launch-on-august-5-check-key-details/articleshow/132821014.cms",
-      "source": "The Times of India",
+      "title": "Bluesky\u2019s new CEO wants a big tent, not a bubble",
+      "description": "Today, I\u2019m talking with Toni Schneider, who is the brand new CEO of the social platform Bluesky \u2014 he formally took over after a short stint as interim CEO. This is one of my favorite kinds of interviews to do on Decoder, because a couple years ago, we had Blu\u2026",
+      "url": "https://www.theverge.com/podcast/974387/bluesky-toni-schneider-interview-ai-atproto-atmosphere",
+      "source": "The Verge",
       "date": "2026-08-03",
-      "image": "https://img.etimg.com/thumb/msid-132821075,width-1200,height-630,imgsize-2316373,overlay-etmarkets/articleshow.jpg",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_20260803_Schneider.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "category": "market"
     },
     {
-      "title": "Economic Digest: A Snapshot of Nepal\u2019s Business News",
-      "description": "KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. The developments outlined in the report suggest that Nepal is entering a phase of simultaneous economic\u2026",
-      "url": "https://english.khabarhub.com/2026/03/561581/",
-      "source": "Khabarhub.com",
+      "title": "RI, Thailand expand local currency use to boost trade, investment",
+      "description": "The governments of Indonesia and Thailand agreed to strengthen cooperation in the digital economy sector, including expanding the use of local currency ...",
+      "url": "https://en.antaranews.com/news/425328/ri-thailand-expand-local-currency-use-to-boost-trade-investment",
+      "source": "Antaranews.com",
       "date": "2026-08-03",
-      "image": "https://english.khabarhub.com/wp-content/uploads/2024/05/Economic-Digest.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Curium Announces Definitive Agreement to Merge with Lantheus",
-      "description": "$8B Curium-Lantheus deal creates a global radiopharmaceutical leader, expanding reach across oncology, neurology and cardiology in 70+ countries....",
-      "url": "https://www.globenewswire.com/news-release/2026/08/03/3337413/0/en/Curium-Announces-Definitive-Agreement-to-Merge-with-Lantheus.html",
-      "source": "GlobeNewswire",
-      "date": "2026-08-03",
-      "image": "https://ml.globenewswire.com/Resource/Download/14929fc2-ce79-44d6-99b0-feef364cad92",
+      "image": "https://cdn.antaranews.com/cache/1200x800/2026/08/03/prabowo-thiland.jpg",
       "category": "currency"
     },
     {
-      "title": "Tyson Foods Third Quarter 2026 Financial Results Available on the Company\u2019s Investor Relations Website",
-      "description": "SPRINGDALE, Ark., Aug. 03, 2026 (GLOBE NEWSWIRE) \u2014 Tyson Foods, Inc. (NYSE: TSN) today announced its third quarter 2026 financial results through an earnings release available on the company\u2019s Investor Relations website at Management will host a conference ca\u2026",
-      "url": "https://financialpost.com/globe-newswire/tyson-foods-third-quarter-2026-financial-results-available-on-the-companys-investor-relations-website",
-      "source": "Financial Post",
+      "title": "Twist Bioscience Q3 Earnings Call Highlights",
+      "description": "Twist Bioscience (NASDAQ:TWST) reported fiscal 2026 third-quarter revenue of $118.4 million, up 23% from a year earlier, marking its 14th consecutive quarter...",
+      "url": "https://www.marketbeat.com/instant-alerts/twist-bioscience-q3-earnings-call-highlights-2026-08-03/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+      "source": "MarketBeat",
       "date": "2026-08-03",
-      "image": null,
+      "image": "https://s.yimg.com/lo/mysterio/api/9DEF4BC304330B97FE1FEA3062B036CF4E58AE8B5E95FFAD50AEE632EC51B68C/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmarketbeat_955%2F29eae2ee8aff1b0b04e0f54b9006eeca",
       "category": "market"
     },
     {
-      "title": "Battery Smart may file IPO papers in September-October; eyes 70-80% annual growth",
-      "description": "Battery Smart is preparing to file draft papers with Sebi for an initial public offering. The company targets substantial annual growth over the next five years. It currently operates over 1,500 swapping stations across more than 75 cities. Battery Smart's re\u2026",
-      "url": "https://economictimes.indiatimes.com/tech/technology/battery-smart-may-file-ipo-papers-in-september-october-eyes-70-80-annual-growth/articleshow/132830152.cms",
-      "source": "The Times of India",
+      "title": "Robust Guidelines for EU Companies Vital to Accountability Law",
+      "description": "Click to expand Image\n \n\n\n\n \n \n \n\n \n \n \n \n Bangladesh Federation of Worker Solidarity activists hold a rally in Dhaka on May 7, 2023 to mark ten years since the Rana Plaza building collapse that killed more than 1,130 people.\n \u00a9 2023 Mamunur Rashid/NurPhoto v\u2026",
+      "url": "https://www.hrw.org/news/2026/08/03/robust-guidelines-for-eu-companies-vital-to-accountability-law",
+      "source": "Human Rights Watch",
       "date": "2026-08-03",
-      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-84474,resizemode-75,msid-132830152/tech/technology/battery-smart-may-file-ipo-papers-in-september-october-eyes-70-80-annual-growth.jpg",
+      "image": "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2025/03/202503asia_bangladesh_rana_rally.jpg?h=94bc8005&itok=Phl6CNnc",
+      "category": "central_bank"
+    },
+    {
+      "title": "The horrifying truth behind Antarctica's 'Blood Falls': Scientists discover the striking red waterfall is teeming with ancient sea creatures trapped beneath the ice",
+      "description": "Scientists have uncovered the gruesome secret behind Antarctica's infamous Blood Falls - it's alive with the descendants of ancient sea creatures.",
+      "url": "https://www.dailymail.com/sciencetech/article-16024839/Antarcticas-Blood-Falls-ancient-sea-creatures.html",
+      "source": "Dailymail.com",
+      "date": "2026-08-03",
+      "image": "https://i.dailymail.com/1s/2026/08/03/15/110411693-0-image-a-23_1785766396030.jpg",
       "category": "market"
     },
     {
-      "title": "Japan's Nissan sees profit for latest quarter but warns of Middle East and China woes",
-      "description": "Nissan has reported a $24 million profit for January-March, a reversal from the loss it racked up in the same period a year earlier",
-      "url": "https://abcnews.com/Business/wireStory/japans-nissan-sees-profit-latest-quarter-warns-middle-135319428",
-      "source": "Abcnews.com",
+      "title": "July 2026 Updates",
+      "description": "Every month we send an email newsletter to our supporters sharing recent updates from our work. We publish selected portions of the newsletter on our blog to make this news more accessible to people who visit our website. For key updates from the latest insta\u2026",
+      "url": "https://blog.givewell.org/2026/08/03/july-2026-updates/",
+      "source": "Givewell.org",
       "date": "2026-08-03",
-      "image": "https://i.abcnewsfe.com/a/91ef1a80-43a0-46a8-a23c-9c812ca204c1/wirestory_df38eae77630b933d5b8b058e7094b73_16x9.jpg?w=1600",
+      "image": "https://blog.givewell.org/wp-content/uploads/2023/11/GWlogo.png",
+      "category": "market"
+    },
+    {
+      "title": "(PR) MSI Announces Availability of Crosshair A16 HX MLG Edition Gaming Laptop",
+      "description": "MSI today announced the global availability of the Crosshair A16 HX MLG Edition, a distinctive white gaming laptop created for players who want powerful performance, immersive visuals, and a bold design identity. The new edition introduces global gamers to LO\u2026",
+      "url": "https://www.techpowerup.com/351320/msi-announces-availability-of-crosshair-a16-hx-mlg-edition-gaming-laptop",
+      "source": "Techpowerup.com",
+      "date": "2026-08-03",
+      "image": "https://www.techpowerup.com/img/wzgW8wUonCQzvSEP.jpg",
+      "category": "market"
+    },
+    {
+      "title": "The Hollywood Reporter, Sportico Launch 'Game Recognize Game' Series",
+      "description": "Launching Aug. 26 in tandem with THR and Sportico\u2019s \u201cThe Sports Issue,\u201d the series pairs acclaimed Hollywood talent with the sports superstars they most admire for a candid conversation at the intersection of achievement, fame and cultural influence.",
+      "url": "http://www.hollywoodreporter.com/business/business-news/the-hollywood-reporter-sportico-game-recognize-game-series-1236660538/",
+      "source": "Hollywood Reporter",
+      "date": "2026-08-03",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/Mahershala-Ali-and-Jaylen-Brown-Split-Getty-H-2026.jpg?w=1296&h=730&crop=1",
+      "category": "market"
+    },
+    {
+      "title": "Oregon Tilth Names Kellee James as Chief Executive Officer to Lead Next Era of Organic Trust, Innovation, and Impact",
+      "description": "Leadership announcement builds on more than 50 years of mission-driven service in organic certification, education, advocacy, and sustainable agriculture Leadership announcement builds on more than 50 years of mission-driven service in organic certification, \u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/08/03/3337713/0/en/Oregon-Tilth-Names-Kellee-James-as-Chief-Executive-Officer-to-Lead-Next-Era-of-Organic-Trust-Innovation-and-Impact.html",
+      "source": "GlobeNewswire",
+      "date": "2026-08-03",
+      "image": "https://ml.globenewswire.com/Resource/Download/3fc2be80-d818-4baf-9f2d-d6bc0e356553",
+      "category": "market"
+    },
+    {
+      "title": "Democrats eye this battleground seat in Congress as key to flipping House",
+      "description": "Handful of competitive seats are likely to determine which political party sets policy priorities over President Trump's final two years",
+      "url": "https://www.wnd.com/2026/08/democrats-eye-this-battleground-seat-congress-as-key/",
+      "source": "Wnd.com",
+      "date": "2026-08-03",
+      "image": "https://www.wnd.com/wp-content/uploads/2020/05/capitol-congress-americans-politics-government-freedom-pixabay-jpg-1200x630.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Rep. Thomas Massie warns 10% of all US debt will be added in Trump\u2019s second term",
+      "description": "Massie's warning highlights potential fiscal instability, influencing economic policy, investor behavior, and the appeal of alternative assets.\nThe post Rep. Thomas Massie warns 10% of all US debt will be added in Trump\u2019s second term appeared first on Crypto \u2026",
+      "url": "https://cryptobriefing.com/massie-warns-10-percent-us-debt-trump-second-term/",
+      "source": "Crypto Briefing",
+      "date": "2026-08-03",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2020/12/02092245/link-bull-1024x538.jpg",
       "category": "geopolitics"
     },
     {
-      "title": "Shemaroo Ent Standalone June 2026 Net Sales at Rs 123.23 crore, down 5.96% Y-o-Y- Moneycontrol.com",
-      "description": "Shemaroo Ent Standalone June 2026 Net Sales at Rs 123.23 crore, down 5.96% Y-o-Y- Moneycontrol.commoneycontrol.com",
-      "url": "https://www.moneycontrol.com/news/business/earnings/shemaroo-ent-standalone-june-2026-net-sales-at-rs-123-23-crore-down-5-96-y-o-y-13992160.html",
-      "source": "Moneycontrol",
-      "date": "2026-08-03",
-      "image": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Soludo\u2019s wife urges women to embrace exclusive breastfeeding",
-      "description": "Anambra First Lady, Dr. Nonye Soludo, advocates for exclusive breastfeeding during World Breastfeeding Week 2026, highlighting its benefits for infant heal\n\nRead More: https://punchng.com/soludos-wife-urges-women-to-embrace-exclusive-breastfeeding/",
-      "url": "https://punchng.com/soludos-wife-urges-women-to-embrace-exclusive-breastfeeding/",
-      "source": "The Punch",
-      "date": "2026-08-03",
-      "image": "https://punchng.com/wp-content/uploads/2026/06/Nonye-Soludo.webp",
-      "category": "market"
-    },
-    {
-      "title": "Mirror: Prince Harry wants his father to attend the Birmingham Invictus games",
-      "description": "We\u2019re simply never going to get past this ridiculous storyline of \u201cPrince Harry and Meghan will eventually run out of money and come crawling back.\u201d They\u2019re still going to be saying that in 2040, I swear to god. These people have been banging their heads agai\u2026",
-      "url": "https://www.celebitchy.com/989685/mirror_prince_harry_wants_his_father_to_attend_the_birmingham_invictus_games/",
-      "source": "Celebitchy.com",
-      "date": "2026-08-03",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "French proverb of the day: \u2018The more things change, the more they stay the same\u2019 - A life lesson on finding stability amid constant change",
-      "description": "French proverb of the day: Life's core human elements remain constant despite rapid external shifts. This French proverb offers a perspective for navigating constant global disruption. Understanding unchanging human nature builds essential mental resilience f\u2026",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/french-proverb-of-the-day-the-more-things-change-the-more-they-stay-the-same-a-life-lesson-on-finding-stability-amid-constant-change/articleshow/132830117.cms",
+      "title": "US manufacturing activity jumps to more than four-year high in July",
+      "description": "U.S. manufacturing activity reached its highest level in over four years during July. Strong order growth boosted factory employment, while supply chains faced strain. Input costs remained elevated due to the ongoing Middle East conflict. Businesses are front\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/business/us-manufacturing-activity-soars-to-highest-level-in-over-four-years-amid-strong-orders/articleshow/132834895.cms",
       "source": "The Times of India",
       "date": "2026-08-03",
-      "image": "https://img.etimg.com/thumb/msid-132830158,width-1200,height-630,imgsize-240241,overlay-etpanache/articleshow.jpg",
+      "image": "https://img.etimg.com/thumb/msid-132834913,width-1200,height-630,imgsize-239750,overlay-economictimes/articleshow.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Senate Seeks Delay On Crackdown Of Hemp THC Products",
+      "description": "Congress is trying to delay a law that would effectively kill the $28 billion intoxicating hemp industry.",
+      "url": "https://www.forbes.com/sites/maryroeloffs/2026/08/03/senate-seeks-delay-on-crackdown-of-hemp-thc-products/",
+      "source": "Forbes",
+      "date": "2026-08-03",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a70a95b893b181efdb82a0f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "category": "market"
-    },
-    {
-      "title": "Trump overhaul could gut Head Start preschool standards, leaving states to set the rules",
-      "description": "President Donald Trump's administration is planning a major overhaul of the Head Start program",
-      "url": "https://abcnews.com/Business/wireStory/trump-overhaul-gut-head-start-preschool-standards-leaving-135319525",
-      "source": "Abcnews.com",
-      "date": "2026-08-03",
-      "image": "https://i.abcnewsfe.com/a/f0fc9d45-67d2-4395-8b65-df368a98b6cf/wirestory_6207d2fb0934df35722cc2505b679131_16x9.jpg?w=1600",
-      "category": "market"
-    },
-    {
-      "title": "5 Strategies to Strengthen Corporate Governance",
-      "description": "1. Update Your Disclosure Playbook Major investors are increasingly using AI to decide how to vote proxies, and JPMorgan\u2019s industry-first decision to replace its external proxy advisors with an in-house AI tool signals that the trend is accelerating. Coupled \u2026",
-      "url": "https://corpgov.law.harvard.edu/2026/08/03/5-strategies-to-strengthen-corporate-governance/",
-      "source": "Harvard School of Engineering and Applied Sciences",
-      "date": "2026-08-03",
-      "image": "https://corpgov.law.harvard.edu/wp-content/uploads/2021/03/new-shield-facebook.png",
-      "category": "market"
-    },
-    {
-      "title": "DHS Wants To Build A Border Wall Through Tohono O\u2019odham Land. It\u2019s Another Instance of The US Undermining Tribal Sovereignty.",
-      "description": "In May, the Department of Homeland Security informed the Tohono O\u2019odham Nation, the largest Native nation located along an international border, that it was beginning construction on a border wall that would cut through its reservation. But DHS failed to ask \u2026",
-      "url": "https://www.motherjones.com/politics/2026/08/border-wall-tribal-sovereignty/",
-      "source": "Mother Jones",
-      "date": "2026-08-03",
-      "image": "https://www.motherjones.com/wp-content/uploads/2026/07/Untitled-design.png?w=1200&h=630&crop=1",
-      "category": "supply_demand"
-    },
-    {
-      "title": "What the market is saying about the U.S. intervention to prop up the yen",
-      "description": "Following the joint involvement the yen now sits at \u00a5157 to the dollar, down from just above \u00a5163, which represented its lowest level in four decades.",
-      "url": "https://www.cnbc.com/2026/08/03/yen-us-intervention-japan-market-currency.html",
-      "source": "CNBC",
-      "date": "2026-08-03",
-      "image": "https://image.cnbcfm.com/api/v1/image/108342699-1785438054164-gettyimages-2285558408-JAPAN_YEN.jpeg?v=1785438125&w=1920&h=1080",
-      "category": "currency"
-    },
-    {
-      "title": "Avista Corp. Reports Q2 2026 Financial Results, Confirms 2026 Utility Earnings Guidance",
-      "description": "SPOKANE, Wash., Aug. 03, 2026 (GLOBE NEWSWIRE) -- Avista Corp. (NYSE: AVA) today reported the following results for the second quarter of 2026 and the six months ended June\u00a030, 2026 as compared to the respective periods in 2025 (dollars in millions, except pe\u2026",
-      "url": "https://www.globenewswire.com/news-release/2026/08/03/3337380/0/en/Avista-Corp-Reports-Q2-2026-Financial-Results-Confirms-2026-Utility-Earnings-Guidance.html",
-      "source": "GlobeNewswire",
-      "date": "2026-08-03",
-      "image": "https://ml.globenewswire.com/Resource/Download/781cf86b-3c68-4fef-b549-e9a6b98947c1",
-      "category": "currency"
-    },
-    {
-      "title": "Exclusive: AFP Action Goes \u2018All In\u2019 as Mike Rogers Vows to Get Michigan \u2018Working Again\u2019",
-      "description": "Republican Michigan Senate candidate Mike Rogers and Americans for Prosperity Action senior adviser Tim Golding told Breitbart News they are emphasizing affordability, energy reform, education reform, manufacturing, and bipartisan problem-solving as Rogers ca\u2026",
-      "url": "https://www.breitbart.com/politics/2026/08/03/exclusive-afp-action-allin-mike-rogers-vows-michigan-working-again/",
-      "source": "Breitbart News",
-      "date": "2026-08-03",
-      "image": "https://media.breitbart.com/media/2026/08/7-27-26-Republican-Senate-candidate-Michigan-Mike-Rogers-ap-640x335.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "Gold (XAUUSD), Silver, Platinum Forecasts \u2013 Gold Pulls Back As Treasury Yields Test New Highs - FXEmpire",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQclVtSU0tdHhCRWJEWm43U002Zy13dFluV3NZUFJyenZGdUo2ZXZNWkgxR2pJeGdBd09EX09FUEFOVTg0eFFlYXR6ZXJkRmpyUmRrVG5qQUJIdjFzdWpkZXgtVVRHZTZGR0pMZjJVZk4xYzhveXFLLW1FU3czTlZwT3VWZGpuRXZXUWRuLUxudFFvNFlWZVp2bVdNUXkwVjh6b1N4S0JQR19nakZNYlFLNVBHc0hlcGpjNz",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQclVtSU0tdHhCRWJEWm43U002Zy13dFluV3NZUFJyenZGdUo2ZXZNWkgxR2pJeGdBd09EX09FUEFOVTg0eFFlYXR6ZXJkRmpyUmRrVG5qQUJIdjFzdWpkZXgtVVRHZTZGR0pMZjJVZk4xYzhveXFLLW1FU3czTlZwT3VWZGpuRXZXUWRuLUxudFFvNFlWZVp2bVdNUXkwVjh6b1N4S0JQR19nakZNYlFLNVBHc0hlcGpjNzBJMk9neVVnallIWlM3d21MMXQ0SnFBLXhuOQ?oc=5",
-      "source": "Google News - Precious Metals",
-      "date": "2026-07-31",
-      "image": "",
-      "category": "currency"
-    },
-    {
-      "title": "Gold, silver, and platinum prices rise amid Mid... - Pluang",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPSzVUdEotUFNFcnY0OEpTR3cwNkRBY1dCTTBSaEdfTERQeEFyUk9WeFdQMVlvbU11dzM1RlhZbk5pdzlpT1ZYY2JyZjZHNElnTUZnb3ZFSmNuRlV3b2dsOTdfTjJFZ2JZaEhHMU0tSlNnSk9KRWxLdFB0ZS0wOThpNmRJRklhSEZDVl9XblQ4UTJGeXhqY2c?oc=5\" target=\"_blank\">Gold, silver, and platin",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSzVUdEotUFNFcnY0OEpTR3cwNkRBY1dCTTBSaEdfTERQeEFyUk9WeFdQMVlvbU11dzM1RlhZbk5pdzlpT1ZYY2JyZjZHNElnTUZnb3ZFSmNuRlV3b2dsOTdfTjJFZ2JZaEhHMU0tSlNnSk9KRWxLdFB0ZS0wOThpNmRJRklhSEZDVl9XblQ4UTJGeXhqY2c?oc=5",
-      "source": "Google News - Precious Metals",
-      "date": "2026-07-22",
-      "image": "",
-      "category": "platinum"
     }
   ],
   "history": [
@@ -470,15 +470,15 @@
     {
       "date": "2026-08-04",
       "week": "2026-W32",
-      "gold_10g": 124603.44,
-      "silver_kg": 181144.23,
-      "platinum_g": 5243.11,
-      "gold_usd_oz": 4062.69,
-      "silver_usd_oz": 59.06,
-      "platinum_usd_oz": 1709.52
+      "gold_10g": 125195.99,
+      "silver_kg": 182628.66,
+      "platinum_g": 5338.07,
+      "gold_usd_oz": 4082.01,
+      "silver_usd_oz": 59.55,
+      "platinum_usd_oz": 1740.47
     }
   ],
-  "timestamp": "2026-08-04T17:08:18.333573+05:30",
+  "timestamp": "2026-08-04T20:33:57.740523+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
