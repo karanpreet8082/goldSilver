@@ -1,24 +1,24 @@
 {
   "prices": {
     "gold": {
-      "price_per_gram_inr": 12467.47,
-      "price_usd_oz": 4065.01,
-      "change_percent": 0.24,
-      "change_value_usd": 9.8,
-      "price_per_10g_inr": 124674.75
+      "price_per_gram_inr": 12426.5,
+      "price_usd_oz": 4051.66,
+      "change_percent": -0.09,
+      "change_value_usd": -3.55,
+      "price_per_10g_inr": 124265.0
     },
     "silver": {
-      "price_per_gram_inr": 181.34,
-      "price_usd_oz": 59.13,
-      "change_percent": 1.61,
-      "change_value_usd": 0.93,
-      "price_per_kg_inr": 181338.98
+      "price_per_gram_inr": 179.87,
+      "price_usd_oz": 58.65,
+      "change_percent": 0.78,
+      "change_value_usd": 0.46,
+      "price_per_kg_inr": 179868.35
     },
     "platinum": {
-      "price_per_gram_inr": 5070.2,
-      "price_usd_oz": 1653.13,
-      "change_percent": 1.22,
-      "change_value_usd": 19.91
+      "price_per_gram_inr": 5079.5,
+      "price_usd_oz": 1656.17,
+      "change_percent": 1.4,
+      "change_value_usd": 22.95
     },
     "currencies": {
       "USD_INR": 95.395,
@@ -30,8 +30,8 @@
       "CAD_INR": 67.9403,
       "SGD_INR": 74.3763
     },
-    "gold_silver_ratio": 68.75,
-    "timestamp": "2026-08-04T06:08:08.548328",
+    "gold_silver_ratio": 69.09,
+    "timestamp": "2026-08-04T09:19:08.439422",
     "source": "GoldAPI"
   },
   "currencies": {
@@ -49,12 +49,12 @@
       "metal": "gold",
       "recommendation": "BUY",
       "confidence": {
-        "buy": 65,
-        "sell": 10,
-        "hold": 25
+        "buy": 56,
+        "sell": 15,
+        "hold": 29
       },
-      "summary": "Gold is showing positive signals. Positive daily movement of 0.2%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-04T06:08:13.410768",
+      "summary": "Gold is showing positive signals. Slight decline of -0.1%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
+      "timestamp": "2026-08-04T09:19:13.439897",
       "source": "rule-based"
     },
     "silver": {
@@ -65,8 +65,8 @@
         "sell": 10,
         "hold": 25
       },
-      "summary": "Silver is showing positive signals. Strong daily gain of 1.6%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-04T06:08:13.511647",
+      "summary": "Silver is showing positive signals. Positive daily movement of 0.8%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
+      "timestamp": "2026-08-04T09:19:13.552134",
       "source": "rule-based"
     },
     "platinum": {
@@ -77,8 +77,8 @@
         "sell": 10,
         "hold": 25
       },
-      "summary": "Platinum is showing positive signals. Strong daily gain of 1.2%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-04T06:08:13.600531",
+      "summary": "Platinum is showing positive signals. Strong daily gain of 1.4%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
+      "timestamp": "2026-08-04T09:19:13.650855",
       "source": "rule-based"
     }
   },
@@ -90,14 +90,14 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -2.5% in 4 weeks",
+        "Weak momentum: -2.9% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
       "support": 124137.93,
       "resistance": 140736.5,
-      "current_price": 124674.75,
-      "ma_short": 125753.5,
-      "ma_long": 129951.73,
+      "current_price": 124265.0,
+      "ma_short": 125651.06,
+      "ma_long": 129893.19,
       "trend_score": -3.5
     },
     "silver": {
@@ -107,14 +107,14 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -5.1% in 4 weeks",
+        "Weak momentum: -5.9% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
       "support": 176726.94,
       "resistance": 243170.57,
-      "current_price": 181338.98,
-      "ma_short": 182721.19,
-      "ma_long": 198853.65,
+      "current_price": 179868.35,
+      "ma_short": 182353.53,
+      "ma_long": 198643.56,
       "trend_score": -3.5
     },
     "platinum": {
@@ -124,53 +124,62 @@
         "Price above 4-week moving average (bullish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Sideways: +0.7% in 4 weeks",
+        "Sideways: +0.9% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
       "support": 4961.56,
       "resistance": 6206.5,
-      "current_price": 5070.2,
-      "ma_short": 5031.27,
-      "ma_long": 5314.43,
+      "current_price": 5079.5,
+      "ma_short": 5033.59,
+      "ma_long": 5315.76,
       "trend_score": -0.5
     }
   },
   "news": [
     {
-      "title": "Thangamayil share selloff continues: Stock drops 5% despite Rs 344 crore sales in first 3 days of August",
-      "description": "Thangamayil Jewellery shares fell significantly despite robust August sales figures. The company reported strong sales during the auspicious Aadi Perukku festival. However, weak guidance and market uncertainties impacted investor sentiment negatively. Customers postponed purchases due to gold price ",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/thangamayil-share-selloff-continues-stock-drops-5-despite-rs-344-crore-sales-in-first-3-days-of-august/articleshow/132847383.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-08-04",
-      "image": "",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Global Market: Japan's Nikkei slips as intervention fears weigh; Toyota earnings in focus",
-      "description": "Japan\u2019s Nikkei edged 0.11% lower, while the Topix fell 0.26%, as investors remained cautious over possible further yen-buying intervention by authorities and awaited Toyota\u2019s quarterly earnings. The yen traded around 157.5 per dollar after Japan and the US coordinated intervention to support the cur",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-slips-as-intervention-fears-weigh-toyota-earnings-in-focus/articleshow/132847238.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-08-04",
-      "image": "",
+      "title": "India, Uzbekistan could explore FTA, says Piyush Goyal; Uzbekistan invites Indian investment in mining, rare earths",
+      "description": "India and Uzbekistan aim to double bilateral trade to three billion dollars within three years.  Businesses are urged to increase investments and explore opportunities in key sectors.  India offers strengths in information technology and a skilled workforce f\u2026",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-uzbekistan-could-explore-fta-says-piyush-goyal-uzbekistan-invites-indian-investment-in-mining-rare-earths/articleshow/132825083.cms",
+      "source": "The Times of India",
+      "date": "2026-08-03",
+      "image": "https://img.etimg.com/thumb/msid-132825311,width-1200,height-630,imgsize-69068,overlay-economictimes/articleshow.jpg",
       "category": "currency"
     },
     {
-      "title": "US Stock Market: Treasury sees higher Q3 borrowing needs as cash flow outlook weakens",
-      "description": "The US Treasury anticipates borrowing $739 billion in the third quarter. This borrowing estimate reflects lower cash flows and a stronger opening balance. For the fourth quarter, the department projects borrowing of $628 billion. The Treasury borrowed $190 billion in the second quarter, ending June ",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-treasury-sees-higher-q3-borrowing-needs-as-cash-flow-outlook-weakens/articleshow/132846616.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-08-04",
-      "image": "",
-      "category": "inflation"
+      "title": "Global Market: Hong Kong launches offshore Chinese government bond futures to boost Yuan internationalisation",
+      "description": "Hong Kong has launched the world's first offshore Chinese government bond futures, providing global investors with a new tool to hedge interest rate risk and strengthening the international use of the yuan. The move forms part of Beijing's broader efforts to \u2026",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-hong-kong-launches-offshore-chinese-government-bond-futures-to-boost-yuan-internationalisation/articleshow/132823590.cms",
+      "source": "The Times of India",
+      "date": "2026-08-03",
+      "image": "https://img.etimg.com/thumb/msid-132823795,width-1200,height-630,imgsize-10476,overlay-etmarkets/articleshow.jpg",
+      "category": "central_bank"
     },
     {
-      "title": "Rupee opens on flat note, rises 3 paise to 95.34 against US dollar in early trade",
-      "description": "The rupee opened flat and gained three paise against the US dollar in early trade. Dollar demand from importers was negated by a weaker dollar index and improved risk sentiment. Lower oil prices and a softer US dollar also supported the rupee's movement. Market participants are now awaiting the upco",
-      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-opens-on-flat-note-rises-3-paise-to-95-34-against-us-dollar-in-early-trade/articleshow/132846463.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-08-04",
-      "image": "",
-      "category": "central_bank"
+      "title": "Binance to Launch Commodity Options on Gold and Silver",
+      "description": "Building on strong demand for commodity perpetuals, Binance adds another layer to its TradFi ecosystem with compliant, crypto-native options on core macro assets",
+      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/binance-to-launch-commodity-options-on-gold-and-silver/article71289112.ece",
+      "source": "BusinessLine",
+      "date": "2026-08-03",
+      "image": "https://bl-i.thgim.com/public/incoming/93jp4e/article71289114.ece/alternates/LANDSCAPE_1200/Screenshot%202026-07-31%20at%209.43.39%E2%80%AFAM.png",
+      "category": "supply_demand"
+    },
+    {
+      "title": "India\u2019s gold headache far from cured after 60 days of breather",
+      "description": "India's gold jewellery demand is rebounding after a weak first half hit by soaring prices, higher import duties and Adhik Maas. Retailers report stronger footfall, wedding demand and rising festive bookings, while old gold exchanges have surged.",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/indias-gold-headache-far-from-cured-after-60-days-of-breather/articleshow/132820704.cms",
+      "source": "The Times of India",
+      "date": "2026-08-03",
+      "image": "https://img.etimg.com/thumb/msid-132821685,width-1200,height-630,imgsize-219976,overlay-economictimes/articleshow.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Thangamayil Jewellery shares crash 32% in a week. What should investors do?",
+      "description": "Thangamayil Jewellery shares fell 5%, extending their one-week decline to 32%, after the company said it saw no visible improvement in sales during the first 28 days of Q2 FY27. The jeweller attributed the weakness to higher import duty, rupee depreciation, g\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/thangamayil-jewellery-shares-crash-32-in-a-week-what-should-investors-do/articleshow/132821479.cms",
+      "source": "The Times of India",
+      "date": "2026-08-03",
+      "image": "https://img.etimg.com/thumb/msid-132821453,width-1200,height-630,imgsize-47246,overlay-etmarkets/articleshow.jpg",
+      "category": "currency"
     },
     {
       "title": "West Ham confirm Amanda Staveley has agreed a deal to buy 25.1% stake in the club",
@@ -200,48 +209,21 @@
       "category": "currency"
     },
     {
-      "title": "Economic Digest: A Snapshot of Nepal\u2019s Business News",
-      "description": "KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. The developments outlined in the report suggest that Nepal is entering a phase of simultaneous economic\u2026",
-      "url": "https://english.khabarhub.com/2026/03/561581/",
-      "source": "Khabarhub.com",
-      "date": "2026-08-03",
-      "image": "https://english.khabarhub.com/wp-content/uploads/2024/05/Economic-Digest.jpg",
-      "category": "market"
-    },
-    {
-      "title": "30 years on: Remembering Nigeria\u2019s 1996 Olympic heroes",
-      "description": "30 years after their historic Atlanta triumph, discover what Nigeria\u2019s 1996 Olympic heroes like Chioma Ajunwa and Kanu Nwankwo are doing today.\n\nRead More: https://punchng.com/30-years-on-remembering-nigerias-1996-olympic-heroes/",
-      "url": "https://punchng.com/30-years-on-remembering-nigerias-1996-olympic-heroes/",
-      "source": "The Punch",
-      "date": "2026-08-03",
-      "image": "https://punchng.com/wp-content/uploads/2026/08/GOLDEN1_1785716599.webp",
-      "category": "market"
-    },
-    {
-      "title": "Another batch of high-grade assays for FireFly\u2019s resource update and economic studies",
-      "description": "Latest high-grade results such as 11.5m @ 11.1% copper and 2.1g/t gold (13.2% CuEq) are expected to form part of the production profile for the early years of a Green Bay re-start Latest high-grade results such as 11.5m @ 11.1% copper and 2.1g/t gold (13.2% C\u2026",
-      "url": "https://www.globenewswire.com/news-release/2026/08/03/3337199/0/en/Another-batch-of-high-grade-assays-for-FireFly-s-resource-update-and-economic-studies.html",
-      "source": "GlobeNewswire",
-      "date": "2026-08-03",
-      "image": "https://ml.globenewswire.com/Resource/Download/ec7898e4-3c93-4271-ade4-87fdb715af3d",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Diaspora Must Invest, Not Just Send Money Home -Sammy Gyamfi",
-      "description": "The Chief Executive Officer of the Ghana Gold Board (GoldBod), c, has challenged Africans living abroad to abandon what he described as a culture of \u201cremittance-only\u201d support and instead become investors, entrepreneurs and partners in Africa\u2019s economic transf\u2026",
-      "url": "https://thechronicle.com.gh/diaspora-must-invest-not-just-send-money-home-sammy-gyamfi/",
-      "source": "Thechronicle.com.gh",
-      "date": "2026-08-03",
-      "image": "https://thechronicle.com.gh/wp-content/uploads/2026/08/Mr-Gyamfi-speaking-at-the-forum.jpg",
-      "category": "metals"
-    },
-    {
       "title": "Ardee Industries IPO GMP rises to 13% ahead of launch on August 5. Check key details",
       "description": "The Rs 425.87 crore Ardee Industries IPO will open for subscription on August 5, with a grey market premium of 13% signalling positive listing expectations. The lead recycling and non-ferrous metals company plans to use the proceeds for working capital, debt \u2026",
       "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/ardee-industries-ipo-gmp-rises-to-13-ahead-of-launch-on-august-5-check-key-details/articleshow/132821014.cms",
       "source": "The Times of India",
       "date": "2026-08-03",
       "image": "https://img.etimg.com/thumb/msid-132821075,width-1200,height-630,imgsize-2316373,overlay-etmarkets/articleshow.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Economic Digest: A Snapshot of Nepal\u2019s Business News",
+      "description": "KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. The developments outlined in the report suggest that Nepal is entering a phase of simultaneous economic\u2026",
+      "url": "https://english.khabarhub.com/2026/03/561581/",
+      "source": "Khabarhub.com",
+      "date": "2026-08-03",
+      "image": "https://english.khabarhub.com/wp-content/uploads/2024/05/Economic-Digest.jpg",
       "category": "market"
     },
     {
@@ -254,6 +236,15 @@
       "category": "central_bank"
     },
     {
+      "title": "Another batch of high-grade assays for FireFly\u2019s resource update and economic studies",
+      "description": "Latest high-grade results such as 11.5m @ 11.1% copper and 2.1g/t gold (13.2% CuEq) are expected to form part of the production profile for the early years of a Green Bay re-start KEY POINTS Latest drilling at Green Bay has returned more results which demonst\u2026",
+      "url": "https://financialpost.com/globe-newswire/another-batch-of-high-grade-assays-for-fireflys-resource-update-and-economic-studies",
+      "source": "Financial Post",
+      "date": "2026-08-03",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/08/figure-1.jpeg",
+      "category": "supply_demand"
+    },
+    {
       "title": "Gold Gains as Iran Talks Ease Concerns Over Interest-Rate Hike",
       "description": "Gold advanced after US President Donald Trump said fresh negotiations with Iran would begin later Monday, raising hopes for a breakthrough in the months-long conflict that would ease energy-driven inflation.",
       "url": "https://financialpost.com/pmn/business-pmn/gold-gains-as-iran-talks-ease-concerns-over-interest-rate-hike",
@@ -263,112 +254,139 @@
       "category": "geopolitics"
     },
     {
-      "title": "Key global triggers that could move markets this week",
-      "description": "The AI-driven market rally has turned highly volatile as investors grow concerned about lofty valuations, profitability and rising competition. Chipmakers and AI-linked companies have experienced sharp swings, while South Korea's KOSPI recently rebounded 18% \u2026",
-      "url": "https://m.economictimes.com/markets/us-stocks/news/key-global-triggers-that-could-move-markets-this-week/multi-trillion-dollar-ai-rout-keeps-investors-on-edge/slideshow/132821501.cms",
-      "source": "Economictimes.com",
+      "title": "Is Ice Cream Really That Bad For You? Here's What The Science Says",
+      "description": "Stop feeling guilty &amp; enjoy that sundae!",
+      "url": "https://www.mindbodygreen.com/articles/is-ice-cream-actually-good-for-you-what-the-science-says",
+      "source": "mindbodygreen.com",
       "date": "2026-08-03",
-      "image": "https://img.etimg.com/thumb/msid-132821501,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
+      "image": "https://mindbodygreen-res.cloudinary.com/image/upload/c_crop,x_0,y_0,w_2000,h_1334/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/1785515002279_4uga3c2q2la.jpg",
       "category": "market"
     },
     {
-      "title": "More pregnant women are dying in Congo as they avoid hospitals over Ebola",
-      "description": "Some pregnant women in eastern Congo are avoiding hospitals over fears of a rapidly growing Ebola outbreak, and more of them are dying around childbirth",
-      "url": "https://abcnews.com/International/wireStory/pregnant-women-dying-congo-avoid-hospitals-ebola-135316943",
-      "source": "Abcnews.com",
+      "title": "MagIron Completes Study to Establish the First Large-Scale U.S. Merchant Pig Iron Producer",
+      "description": "GILBERT, Minn., Aug. 3, 2026 /PRNewswire/ -- MagIron LLC (\"MagIron\" or the \"Company\") is pleased to announce the completion of a concept and economic study by Primetals Technologies (\"Primetals\"), a recognized global leader in engineering, plant building, and\u2026",
+      "url": "https://www.prnewswire.com/news-releases/magiron-completes-study-to-establish-the-first-large-scale-us-merchant-pig-iron-producer-302841064.html",
+      "source": "PRNewswire",
       "date": "2026-08-03",
-      "image": "https://i.abcnewsfe.com/a/d8c0c748-567e-456c-9f7d-9666010f1a51/wirestory_932b867b7933c36c9ebf069b90e5cd60_16x9.jpg?w=1600",
+      "image": null,
       "category": "market"
     },
     {
-      "title": "Girls' Generation member Yuri to leave longtime agency SM Entertainment after 19 years",
-      "description": "Yuri's exclusive contract with SM Entertainment will officially end on Aug 31.",
-      "url": "https://cnalifestyle.channelnewsasia.com/entertainment/girls-generation-yuri-leaving-sm-entertainment-586966",
-      "source": "CNA",
+      "title": "bugseer added to PyPI",
+      "description": "Offline bug-risk prediction for code repositories. Static analysis + git intelligence + local ML. No cloud, no API keys required.",
+      "url": "https://pypi.org/project/bugseer/",
+      "source": "Pypi.org",
       "date": "2026-08-03",
-      "image": "https://dam.mediacorp.sg/image/upload/s--fKApbDuD--/c_crop,h_843,w_1500,x_0,y_164/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/08/03/yuri_leaving_sm.jpg?itok=gZAIUlXX",
+      "image": "https://pypi.org/static/images/twitter.abaf4b19.webp",
       "category": "market"
     },
     {
-      "title": "The First Great Compound War: Why America Is Fighting Iran With an Obsolete Theory of Victory",
-      "description": "Abstract The renewed U.S. military campaign against Iran reveals more than a regional crisis\u2014it exposes the limits of America\u2019s prevailing theory of victory. While the United States retains overwhelming military superiority, it continues to approach contempor\u2026",
-      "url": "https://smallwarsjournal.com/2026/08/03/first-great-compound-war/",
-      "source": "Smallwarsjournal.com",
+      "title": "New pools of capital emerge for India's net-zero push as investors widen climate bets",
+      "description": "India's transition towards its 2070 net-zero target is expected to require significant investments across renewable energy, transmission networks, storage, electric mobility and other low-carbon infrastructure.&nbsp;",
+      "url": "https://www.livemint.com/industry/india-net-zero-target-climate-infra-energy-transition-renewable-energy-11785741053694.html",
+      "source": "Livemint",
       "date": "2026-08-03",
-      "image": "https://smallwarsjournal.com/wp-content/uploads/2026/07/map-1400x933.png",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/03/1600x900/logo/The_new_economics_of_Net_Zero_1785748298584_1785748306253_884f63b5-4b58-4ad2-b35f-2cc16db934ad.JPG",
       "category": "geopolitics"
     },
     {
-      "title": "Trump\u2019s hypocritical new tariffs are a chance for the world to fight back | Joseph Stiglitz",
-      "description": "The president\u2019s pretext of stopping forced labour is only a ruse \u2013 he is trying to grab a share of global trade for the USHere he goes again. The US President, Donald Trump, is increasing and decreasing tariffs willy-nilly, violating international agreements \u2026",
-      "url": "https://www.goodreads.com/author_blog_posts/26813042-trump-s-hypocritical-new-tariffs-are-a-chance-for-the-world-to-fight-bac",
-      "source": "Goodreads.com",
-      "date": "2026-08-03",
-      "image": "https://images.gr-assets.com/authors/1296682487p8/6426.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Trump Confirms Joint U.S.-Japan Yen Support, Calls Move \u2018Signal of Friendship\u2019",
-      "description": "President Donald Trump confirmed Sunday that the United States had intervened jointly with Japan to support the yen, describing the move as a \u201csignal of friendship.\u201d According to the Financial Times, the U.S. Treasury coordinated with Japan for the first time\u2026",
-      "url": "https://www.naturalnews.com/2026-08-03-trump-confirms-joint-us-japan-yen-support.html",
-      "source": "Naturalnews.com",
-      "date": "2026-08-03",
-      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/yen-intervention-us-japan-joint-intervention-currency-markets-3140-original.jpg",
-      "category": "currency"
-    },
-    {
-      "title": "Bill Gates\u00e2\u0080\u0099 secret \u00e2\u0080\u0098Q\u00e2\u0080\u0099 clearance at the Department of Energy raises nuclear and surveillance questions that demand answers",
-      "description": "The revelation that Microsoft co-founder Bill Gates held a top-tier \u201cQ\u201d security clearance at the Department of Energy for seven years, from 2014 to 2021, has ignited a firestorm of scrutiny over the intersection of private wealth, public health policy, and n\u2026",
-      "url": "https://www.naturalnews.com/2026-08-03-bill-gates-secret-clearance-department-of-energy.html",
-      "source": "Naturalnews.com",
-      "date": "2026-08-03",
-      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/Editorial-Use-Bill-Gates-Speech.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Sanusi II, Onaiyekan, and critiques of Tinubunomics, by\u00a0Suleiman Suleiman",
-      "description": "An otherwise routine meeting between President Bola Ahmed Tinubu and the Catholic Bishops of Nigeria Conference last week took a dramatic turn. \nThe post Sanusi II, Onaiyekan, and critiques of Tinubunomics, by\u00a0Suleiman Suleiman\u00a0\u00a0 appeared first on Vanguard Ne\u2026",
-      "url": "https://www.vanguardngr.com/2026/08/sanusi-ii-onaiyekan-and-critiques-of-tinubunomics-by-suleiman-suleiman/",
+      "title": "Welsh FA withdraws support for Infantino\u2019s FIFA re-election bid",
+      "description": "Infantino announced last week he was shelving the plan, which sparked a global outcry, but the Football Association of Wales said it would not back his candidature.\nThe post Welsh FA withdraws support for Infantino\u2019s FIFA re-election bid appeared first on Van\u2026",
+      "url": "https://www.vanguardngr.com/2026/08/welsh-fa-withdraws-support-for-infantinos-fifa-re-election-bid/",
       "source": "Vanguard",
       "date": "2026-08-03",
       "image": "https://cdn.vanguardngr.com/wp-content/uploads/2023/01/Artboard-1.png",
       "category": "market"
     },
     {
-      "title": "Oil slumps on hopes of Iran deal, yen firms after intervention",
-      "description": "By Ankur Banerjee SINGAPORE, Aug 3 (Reuters) - Oil prices skidded and U.S. and European stock futures rose on Monday as hopes of a peace deal in the Middle E...",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/oil-slumps-hopes-iran-deal-010323774.html",
-      "source": "Yahoo Entertainment",
+      "title": "Why even the biggest brands have low AI readiness",
+      "description": "AI presents what it finds across your digital estate including out-of-date and inaccurate content.",
+      "url": "https://www.techradar.com/pro/why-even-the-biggest-brands-have-low-ai-readiness",
+      "source": "TechRadar",
       "date": "2026-08-03",
-      "image": "https://s.yimg.com/lo/mysterio/api/89CE3EDAFA664E05A79E7FBA5F49ED752068C9DA5CB69E9B7335C39653F5BD25/subgraphmysterio/resizefill_w1200_h809;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fd60e516759c34e46de5d8dafdb3fcb47",
-      "category": "currency"
-    },
-    {
-      "title": "N10trn investments in 13 years fail to lift power supply",
-      "description": "Current updates on the\u00a0electricity sector development has indicated that about N10 trillion public finance has either been frittered away or trapped in the sector value chain in form of interventions.\nThe post N10trn investments in 13 years fail to lift power\u2026",
-      "url": "https://www.vanguardngr.com/2026/08/n10trn-investments-in-13-years-fail-to-lift-power-supply/",
-      "source": "Vanguard",
-      "date": "2026-08-03",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2023/06/electricity-e1712147130573.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Electric bills hit new highs across Ohio, state data shows - Signal Ohio",
-      "description": "Electric bills will likely hit record highs for millions of Ohioans when July bills go out this month. In Columbus, average bills near $200.",
-      "url": "https://signalohio.org/electric-bills-hit-new-highs-across-ohio-state-data-shows/",
-      "source": "Signalohio.org",
-      "date": "2026-08-03",
-      "image": "https://signalohio.org/wp-content/uploads/2026/07/Power-lines.webp",
+      "image": "https://cdn.mos.cms.futurecdn.net/TaxPLZc75WiicpmgZNzWzL-2560-80.jpg",
       "category": "market"
     },
     {
-      "title": "MAN seeks tax harmonisation, stable policies to boost manufacturing",
-      "description": "The Manufacturers\u00a0Association of Nigeria (MAN) has called for urgent tax harmonisation, improved infrastructure, reliable energy supply and a predictable regulatory environment to strengthen the country\u2019s manufacturing sector. The appeal was made at the 41st \u2026",
-      "url": "https://www.vanguardngr.com/2026/08/man-seeks-tax-harmonisation-stable-policies-to-boost-manufacturing/",
-      "source": "Vanguard",
+      "title": "Pain and the struggle for relief: How fear influences patient access to medical opioids",
+      "description": "Patients in Indonesia cannot access medical opioids because the government fears drug misuse.",
+      "url": "https://theconversation.com/pain-and-the-struggle-for-relief-how-fear-influences-patient-access-to-medical-opioids-287872",
+      "source": "The Conversation Africa",
       "date": "2026-08-03",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2025/03/image-161.png",
-      "category": "supply_demand"
+      "image": "https://images.theconversation.com/files/748733/original/file-20260622-57-rbyrgi.jpg?ixlib=rb-4.1.1&rect=0%2C766%2C4592%2C2296&q=45&auto=format&w=1356&h=668&fit=crop",
+      "category": "market"
+    },
+    {
+      "title": "The AI Bailout Could Be Baked Into the AI Bubble",
+      "description": "Private credit companies are key owners of AI-related assets. Many of their parent private equity firms own life insurers that are dumping grounds for bad loans\u2014and subject to state bailouts.\nThe post The AI Bailout Could Be Baked Into the AI Bubble appeared \u2026",
+      "url": "https://prospect.org/2026/08/03/ai-bailout-could-be-baked-into-bubble-private-equity-life-insurers-loans/",
+      "source": "The American Prospect",
+      "date": "2026-08-03",
+      "image": "https://i0.wp.com/prospect.org/wp-content/uploads/2026/07/Dayen-AI-bailout-080326.jpg?fit=2309%2C1299&ssl=1",
+      "category": "market"
+    },
+    {
+      "title": "CPA Australia calls for review of minimum tax on discretionary trusts",
+      "description": "The professional body labelled the measure as \u201cdisproportionate\u201d.",
+      "url": "https://www.theaccountant-online.com/news/cpa-australia-calls-for-review-of-minimum-tax-on-discretionary-trusts/",
+      "source": "Theaccountant-online.com",
+      "date": "2026-08-03",
+      "image": "https://s.yimg.com/lo/mysterio/api/8917BE68A3FEF8C163ABBDC2482339D06182ABB24DEAD7DD1ACCC9B305D44EFE/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_accountant_923%2Ffa9af31b21c62bee1e1260b875cb5529",
+      "category": "market"
+    },
+    {
+      "title": "RFK Jr., Oz blame ACA enrollment drop on fraud, but experts cite rising costs",
+      "description": "Rising premiums forced many people in Affordable Care Act plans to give up their coverage. But the Trump administration claims a huge drop in enrollment is a...",
+      "url": "https://www.cbsnews.com/news/rfk-jr-oz-aca-fraud-rising-costs/",
+      "source": "CBS News",
+      "date": "2026-08-03",
+      "image": "https://s.yimg.com/lo/mysterio/api/92605546f88f1f7186ec3b21ce255101494100ca02e55244125fdcf8f12ed4f3/lightyear_networkapi/resizefill_w1024_h687;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fa3fbee8a87322063e12ce357297d6563",
+      "category": "market"
+    },
+    {
+      "title": "Senator J. William Fulbright Is Remembered Today Primarily for the Scholarship Program That Bears His Name",
+      "description": "Julian Casta\u00f1on Villa\n\n\n\nBut a broader look at Fulbright\u2019s legacy reveals him as one of the most prescient critics of militarism and the \u201cimperial presidency\u201d\u2014lessons that apply more than ever today.\r\n\n\r\n\n\nThe post Senator J. William Fulbright Is Remembered T\u2026",
+      "url": "https://www.thenation.com/?post_type=article&p=605709",
+      "source": "Thenation.com",
+      "date": "2026-08-03",
+      "image": "https://www.thenation.com/wp-content/uploads/2026/07/fulbright_edited.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Establishment Democrats\u2019 Response to DSA\u2019s Electoral Wins Should Be of Concern to Anyone Invested in the Future of Black Politics",
+      "description": "Anthony Conwright\n\n\n\nWhatever happened to \u201cbig tent\u201d politics?\r\n\n\r\n\n\nThe post Establishment Democrats\u2019 Response to DSA\u2019s Electoral Wins Should Be of Concern to Anyone Invested in the Future of Black Politics appeared first on The Nation.",
+      "url": "https://www.thenation.com/article/politics/black-politics-democratic-socialists-dsa-congressional-black-caucus-democratic-party/",
+      "source": "Thenation.com",
+      "date": "2026-08-03",
+      "image": "https://www.thenation.com/wp-content/uploads/2026/06/DarializaAC.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Ben Wikler Has a Plan to Supercharge American Democracy",
+      "description": "Ben Wikler\n\n\n\nDemocrats can save the country from an authoritarian takeover, but to do so they must focus on systemic reforms, the author argues in this adaptation from his new book.\r\n\n\r\n\n\nThe post Ben Wikler Has a Plan to Supercharge American Democracy appea\u2026",
+      "url": "https://www.thenation.com/?post_type=article&p=605659",
+      "source": "Thenation.com",
+      "date": "2026-08-03",
+      "image": "https://www.thenation.com/wp-content/uploads/2026/07/GettyImages-1479825705.jpeg",
+      "category": "market"
+    },
+    {
+      "title": "Over 4 million people are no longer receiving food aid amid sweeping changes to SNAP",
+      "description": "SNAP, also known as food stamps, has seen a rapid and consistent participation decline since last July. The drop comes as the program faces historic cuts and changes.",
+      "url": "https://www.npr.org/2026/08/03/nx-s1-5906797/snap-food-stamp-federal-changes-what-to-know",
+      "source": "NPR",
+      "date": "2026-08-03",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1d%2F64%2Fae6f44054c5a8d1ebc8541bccc91%2Fgettyimages-2285263820.jpg",
+      "category": "market"
+    },
+    {
+      "title": "For Republicans planning post-Trump future, one race in Washington is worth watching",
+      "description": "The primary to replace Rep. Dan Newhouse is a rare opportunity for Washington's Republicans to seek federal office. Candidates representing different wings of the party are testing Trump's influence.",
+      "url": "https://www.npr.org/2026/08/03/nx-s1-5902154/2026-primaries-washington-state-republican-party-trump",
+      "source": "NPR",
+      "date": "2026-08-03",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F98%2F87%2F34fc456d4b998a8494b28adf723a%2Fgettyimages-1200310335.jpg",
+      "category": "central_bank"
     },
     {
       "title": "\u201cYou Will Have No Freedom\u201d: Open AI Sam Altman Describes the World He Is Building for You",
@@ -387,24 +405,6 @@
       "date": "2026-08-02",
       "image": "https://opengraph.githubassets.com/e9de92592f2555595ce6056d9b7158d70f4340d09c6c139e57a312928a6c73d2/xcreener/xcreener-mcp",
       "category": "geopolitics"
-    },
-    {
-      "title": "Gold (XAUUSD), Silver, Platinum Forecasts \u2013 Gold Pulls Back As Treasury Yields Test New Highs - FXEmpire",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQclVtSU0tdHhCRWJEWm43U002Zy13dFluV3NZUFJyenZGdUo2ZXZNWkgxR2pJeGdBd09EX09FUEFOVTg0eFFlYXR6ZXJkRmpyUmRrVG5qQUJIdjFzdWpkZXgtVVRHZTZGR0pMZjJVZk4xYzhveXFLLW1FU3czTlZwT3VWZGpuRXZXUWRuLUxudFFvNFlWZVp2bVdNUXkwVjh6b1N4S0JQR19nakZNYlFLNVBHc0hlcGpjNz",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQclVtSU0tdHhCRWJEWm43U002Zy13dFluV3NZUFJyenZGdUo2ZXZNWkgxR2pJeGdBd09EX09FUEFOVTg0eFFlYXR6ZXJkRmpyUmRrVG5qQUJIdjFzdWpkZXgtVVRHZTZGR0pMZjJVZk4xYzhveXFLLW1FU3czTlZwT3VWZGpuRXZXUWRuLUxudFFvNFlWZVp2bVdNUXkwVjh6b1N4S0JQR19nakZNYlFLNVBHc0hlcGpjNzBJMk9neVVnallIWlM3d21MMXQ0SnFBLXhuOQ?oc=5",
-      "source": "Google News - Precious Metals",
-      "date": "2026-07-31",
-      "image": "",
-      "category": "currency"
-    },
-    {
-      "title": "25karats Launches Free Precious Metal Calculator for Gold, Silver and Platinum - PR Newswire",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPdlpENGp3T1N5bVhjVmJCaUZVQkFWYkxVLVpMeXBpeWZYSTV3anJMdzJXcHpzWEJkRHFoZXA3ODVDZGhYRk5YRGxfYU9CTGl1Mk1xVkFseE1seFB0Q3FwUTF1NHNvUEE2LWU2QmswdVVTZkYyMFdXb2xhS3o4Z1ZKS29pUTRCb1YtQ2VJTUZiZFZUbmtRTTdQanVVOFdNTDhlQktha2dLT01yejlxakFlX3B4b3U4RGxCTV",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdlpENGp3T1N5bVhjVmJCaUZVQkFWYkxVLVpMeXBpeWZYSTV3anJMdzJXcHpzWEJkRHFoZXA3ODVDZGhYRk5YRGxfYU9CTGl1Mk1xVkFseE1seFB0Q3FwUTF1NHNvUEE2LWU2QmswdVVTZkYyMFdXb2xhS3o4Z1ZKS29pUTRCb1YtQ2VJTUZiZFZUbmtRTTdQanVVOFdNTDhlQktha2dLT01yejlxakFlX3B4b3U4RGxCTVFlSHJKUWZDekwybUhNa0FfaGZzQQ?oc=5",
-      "source": "Google News - Precious Metals",
-      "date": "2026-07-29",
-      "image": "",
-      "category": "platinum"
     }
   ],
   "history": [
@@ -471,15 +471,15 @@
     {
       "date": "2026-08-04",
       "week": "2026-W32",
-      "gold_10g": 124674.75,
-      "silver_kg": 181338.98,
-      "platinum_g": 5070.2,
-      "gold_usd_oz": 4065.01,
-      "silver_usd_oz": 59.13,
-      "platinum_usd_oz": 1653.13
+      "gold_10g": 124265.0,
+      "silver_kg": 179868.35,
+      "platinum_g": 5079.5,
+      "gold_usd_oz": 4051.66,
+      "silver_usd_oz": 58.65,
+      "platinum_usd_oz": 1656.17
     }
   ],
-  "timestamp": "2026-08-04T11:38:13.614210+05:30",
+  "timestamp": "2026-08-04T14:49:13.661144+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
