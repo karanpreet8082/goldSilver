@@ -1,24 +1,24 @@
 {
   "prices": {
     "gold": {
-      "price_per_gram_inr": 12823.82,
-      "price_usd_oz": 4182.97,
-      "change_percent": 2.59,
-      "change_value_usd": 105.75,
-      "price_per_10g_inr": 128238.23
+      "price_per_gram_inr": 13001.94,
+      "price_usd_oz": 4241.06,
+      "change_percent": 4.02,
+      "change_value_usd": 163.84,
+      "price_per_10g_inr": 130019.42
     },
     "silver": {
-      "price_per_gram_inr": 189.59,
-      "price_usd_oz": 61.84,
-      "change_percent": 3.89,
-      "change_value_usd": 2.31,
-      "price_per_kg_inr": 189590.61
+      "price_per_gram_inr": 190.93,
+      "price_usd_oz": 62.28,
+      "change_percent": 4.62,
+      "change_value_usd": 2.75,
+      "price_per_kg_inr": 190933.4
     },
     "platinum": {
-      "price_per_gram_inr": 5396.52,
-      "price_usd_oz": 1760.28,
-      "change_percent": 1.28,
-      "change_value_usd": 22.27
+      "price_per_gram_inr": 5320.44,
+      "price_usd_oz": 1735.46,
+      "change_percent": -0.15,
+      "change_value_usd": -2.55
     },
     "currencies": {
       "USD_INR": 95.3548,
@@ -30,8 +30,8 @@
       "CAD_INR": 67.8103,
       "SGD_INR": 74.3681
     },
-    "gold_silver_ratio": 67.64,
-    "timestamp": "2026-08-05T11:36:08.413853",
+    "gold_silver_ratio": 68.1,
+    "timestamp": "2026-08-05T14:56:40.726034",
     "source": "GoldAPI"
   },
   "currencies": {
@@ -53,8 +53,8 @@
         "sell": 10,
         "hold": 25
       },
-      "summary": "Gold is showing positive signals. Strong daily gain of 2.6%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-05T11:36:13.137917",
+      "summary": "Gold is showing positive signals. Strong daily gain of 4.0%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
+      "timestamp": "2026-08-05T14:56:48.486036",
       "source": "rule-based"
     },
     "silver": {
@@ -65,20 +65,20 @@
         "sell": 10,
         "hold": 25
       },
-      "summary": "Silver is showing positive signals. Strong daily gain of 3.9%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-05T11:36:13.251210",
+      "summary": "Silver is showing positive signals. Strong daily gain of 4.6%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
+      "timestamp": "2026-08-05T14:56:48.606059",
       "source": "rule-based"
     },
     "platinum": {
       "metal": "platinum",
       "recommendation": "BUY",
       "confidence": {
-        "buy": 65,
-        "sell": 10,
-        "hold": 25
+        "buy": 56,
+        "sell": 15,
+        "hold": 29
       },
-      "summary": "Platinum is showing positive signals. Strong daily gain of 1.3%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-05T11:36:13.363879",
+      "summary": "Platinum is showing positive signals. Slight decline of -0.1%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
+      "timestamp": "2026-08-05T14:56:48.678211",
       "source": "rule-based"
     }
   },
@@ -90,76 +90,75 @@
         "Price above 4-week moving average (bullish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Sideways: +0.2% in 4 weeks"
+        "Sideways: +1.6% in 4 weeks"
       ],
       "support": 124137.93,
       "resistance": 140736.5,
-      "current_price": 128238.23,
-      "ma_short": 126644.37,
-      "ma_long": 130460.8,
+      "current_price": 130019.42,
+      "ma_short": 127089.66,
+      "ma_long": 130715.25,
       "trend_score": -1.0
     },
     "silver": {
       "trend": "neutral",
-      "strength": 44,
+      "strength": 38,
       "signals": [
         "Price above 4-week moving average (bullish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Sideways: -0.8% in 4 weeks",
-        "Near support \u2014 potential buy zone"
+        "Sideways: -0.1% in 4 weeks"
       ],
       "support": 176726.94,
       "resistance": 243170.57,
-      "current_price": 189590.61,
-      "ma_short": 184784.1,
-      "ma_long": 200032.46,
-      "trend_score": -0.5
+      "current_price": 190933.4,
+      "ma_short": 185119.8,
+      "ma_long": 200224.29,
+      "trend_score": -1.0
     },
     "platinum": {
-      "trend": "bullish",
-      "strength": 75,
+      "trend": "neutral",
+      "strength": 50,
       "signals": [
         "Price above 4-week moving average (bullish)",
-        "Price above 12-week moving average (bullish)",
+        "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Strong momentum: +7.2% in 4 weeks"
+        "Strong momentum: +5.7% in 4 weeks"
       ],
       "support": 4961.56,
       "resistance": 6206.5,
-      "current_price": 5396.52,
-      "ma_short": 5112.85,
-      "ma_long": 5361.05,
-      "trend_score": 2.0
+      "current_price": 5320.44,
+      "ma_short": 5093.83,
+      "ma_long": 5350.18,
+      "trend_score": 0.0
     }
   },
   "news": [
     {
-      "title": "Rupee hits one-month closing high as oil slide outweighs RBI pause",
-      "description": "On Wednesday, the Indian rupee climbed to its highest point in a month, bolstered by a dip in crude oil prices that fueled early gains. Although the Reserve Bank of India's decision to maintain rates restricted further growth, analysts pointed out that immediate support lies around 94.75 with resist",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-hits-one-month-closing-high-as-oil-slide-outweighs-rbi-pause/articleshow/132916592.cms",
+      "title": "CREDAI, NAREDCO hail RBI policy, stable home loan interest rate to help sustain housing demand",
+      "description": "The real estate industry's leading organizations, CREDAI and NAREDCO, applaud the RBI's decision to maintain the current repo rate. This move stabilizes home loan rates, which is anticipated to bolster housing demand and offer comfort to buyers. Additionally, the RBI has fine-tuned its GDP outlook a",
+      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/credai-naredco-hail-rbi-policy-stable-home-loan-interest-rate-to-help-sustain-housing-demand/articleshow/132927569.cms",
       "source": "Economic Times Markets",
       "date": "2026-08-05",
       "image": "",
       "category": "central_bank"
     },
     {
-      "title": "Sensex rises 152 points, Nifty closes above 24,600 as market trims gains. What lies ahead?",
-      "description": "Indian equity benchmarks Sensex and Nifty ended higher on Wednesday after the RBI MPC maintained interest rates and raised the FY27 GDP growth outlook. Despite early upswings, markets trimmed gains due to rising crude prices and West Asia tensions. Auto and realty stocks outperformed, while IT share",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-152-points-nifty-closes-above-24600-as-market-trims-gains-what-lies-ahead/articleshow/132915892.cms",
+      "title": "India bonds rally on 'dovish' RBI hold, lower oil prices",
+      "description": "Indian government bonds surged on Wednesday, with yields falling below important levels. The Reserve Bank of India decided to keep the repo rate steady, in line with anticipated market outcomes. A drop in oil prices helped ease inflation fears, supporting the economy. This favorable policy not only ",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-rally-on-dovish-rbi-hold-lower-oil-prices/articleshow/132927259.cms",
       "source": "Economic Times Markets",
       "date": "2026-08-05",
       "image": "",
-      "category": "geopolitics"
+      "category": "central_bank"
     },
     {
-      "title": "Global Market: European shares climb as earnings, US-Iran diplomacy lift sentiment",
-      "description": "European stocks advanced on Wednesday, driven by U.S.-Iran diplomatic talks. Mining companies led the rally as geopolitical concerns eased for investors. Novo Nordisk shares fell despite an improved outlook due to drug trial setbacks. Sandoz surged on strong second-quarter net sales, boosting health",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-climb-as-earnings-us-iran-diplomacy-lift-sentiment/articleshow/132911978.cms",
+      "title": "The next RBI policy: Likely more of the same",
+      "description": "The RBI's decision to keep the repo rate unchanged and retain a neutral stance signals policy continuity over pre-emptive action. With inflation seen as temporary, financial conditions already tightening and global risks under watch, the central bank is expected to stay on hold in October unless mac",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/the-next-rbi-policy-likely-more-of-the-same/articleshow/132926883.cms",
       "source": "Economic Times Markets",
       "date": "2026-08-05",
       "image": "",
-      "category": "geopolitics"
+      "category": "central_bank"
     },
     {
       "title": "Gold, Silver, Platinum, Palladium Dance Together, Precious Metals Sector Surges Nearly 8%, Shengda Resources and Sichuan Gold Hit Daily Limit [SMM Flash News] - Shanghai Metals Market",
@@ -180,75 +179,120 @@
       "category": "platinum"
     },
     {
-      "title": "Tinubu celebrates Team Nigeria\u2019s 24-medal haul at 2026 Commonwealth Games",
-      "description": "The President described Nigeria's haul of 10 gold, seven silver and seven bronze medals as proof of the athletes' resilience, discipline and determination.\nThe post Tinubu celebrates Team Nigeria\u2019s 24-medal haul at 2026 Commonwealth Games appeared first on Va\u2026",
-      "url": "https://www.vanguardngr.com/2026/08/tinubu-celebrates-team-nigerias-24-medal-haul-at-2026-commonwealth-games/",
-      "source": "Vanguard",
+      "title": "What\u2019s Behind Indonesia\u2019s Anti-Corruption Crusade?",
+      "description": "A high-profile case is raising doubts about President Prabowo Subianto\u2019s motivations.",
+      "url": "http://foreignpolicy.com/2026/08/04/indonesia-corruption-nadiem-makari-investigation-jokowi-prabowo/",
+      "source": "Foreign Policy",
       "date": "2026-08-04",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/07/AFP__20260723__C2ZY277__v1__MidRes__OpeningCeremonyCgames2026.jpg",
+      "image": "https://foreignpolicy.com/wp-content/uploads/2026/08/GettyImages-2283467772.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Two Years of Surface Work. Three Priority Targets. Now the Drills Are Permitted in One of the World's Last Undrilled Epithermal Districts.",
+      "description": "Issued on behalf of RUA GOLD Inc. The Hauraki Goldfield has produced fifteen million ounces of gold from over fifty historic mines. The ground next door to the district's highest-grade undeveloped deposit has never been drilled. RUA GOLD just received the per\u2026",
+      "url": "https://www.prnewswire.com/news-releases/two-years-of-surface-work-three-priority-targets-now-the-drills-are-permitted-in-one-of-the-worlds-last-undrilled-epithermal-districts-302841687.html",
+      "source": "PRNewswire",
+      "date": "2026-08-04",
+      "image": "https://mmx.prnewswire.com/media/MS1718298/USA-News-Group-Logo.jpg?id=OA2815421&p=facebook",
       "category": "metals"
     },
     {
-      "title": "Sensex today | Stock Market Highlights: Markets end in the red; Sensex drops 210 points, Nifty slips 159",
-      "description": "Sensex, Nifty, Share Prices Highlights: Indian equity benchmarks closed lower on Tuesday as investors turned cautious ahead of the RBI's policy decision, while adjustments to the new F&O closing-auction mechanism and rising crude oil prices added to market vo\u2026",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-4th-august-2026/article71301258.ece",
-      "source": "BusinessLine",
+      "title": "America\u2019s Cosmic Bet on AI",
+      "description": "The winner takes it all. What happens if the United States loses?",
+      "url": "http://foreignpolicy.com/2026/08/04/united-states-artificial-intelligence-race-china-openai-anthropic-donald-trump-elon-musk/",
+      "source": "Foreign Policy",
       "date": "2026-08-04",
-      "image": "https://bl-i.thgim.com/public/incoming/adqy8g/article71301294.ece/alternates/LANDSCAPE_1200/stock%20market%20graph.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "272. \u201cWe own two houses, but can\u2019t afford dinner out\u201d",
-      "description": "\ufeff\ufeff\ufeff\ufeff\ufeff \ufeff\ufeff\ufeff\ufeff Ramit Sethi of I Will Teach You To Be Rich speaks with Nicole and Drew, 39 and 40, who are expecting their first child in just two weeks. They split their time between Southern California and Maui, where they each own a home. Nicole bought her hous\u2026",
-      "url": "https://www.iwillteachyoutoberich.com/272-we-own-two-houses-but-cant-afford-dinner-out/",
-      "source": "Iwillteachyoutoberich.com",
-      "date": "2026-08-04",
-      "image": "https://www.iwillteachyoutoberich.com/wp-content/uploads/2022/11/cropped-favicon-dark-1.png",
+      "image": "https://foreignpolicy.com/wp-content/uploads/2026/08/1-ai-gamble-illustration-iStock-895813942.jpg",
       "category": "market"
     },
     {
-      "title": "Commonwealth Games: Tinubu lauds Team Nigeria\u2019s 24-medal feat, pledges more investment in sports",
-      "description": "President Tinubu congratulates Team Nigeria on winning 24 medals at the 2026 Commonwealth Games and pledges more investment in sports development.\n\nRead More: https://punchng.com/commonwealth-games-tinubu-lauds-team-nigerias-24-medal-feat-pledges-more-investm\u2026",
-      "url": "https://punchng.com/commonwealth-games-tinubu-lauds-team-nigerias-24-medal-feat-pledges-more-investment-in-sports/",
-      "source": "The Punch",
+      "title": "Transcript: Som Seif, Purpose Unlimited",
+      "description": "The transcript from this week\u2019s, MiB: Som Seif, Purpose Unlimited, is below. You can stream and download our full conversation, including any podcast extras, on Apple Podcasts, Spotify, YouTube (video), YouTube (audio), and Bloomberg. All of our earlier podca\u2026",
+      "url": "https://ritholtz.com/2026/08/transcript-som-seif/",
+      "source": "Ritholtz.com",
       "date": "2026-08-04",
-      "image": "https://punchng.com/wp-content/uploads/2026/06/Bola-Tinubu-on-blue-blue-alone.webp",
+      "image": "https://ritholtz.com/wp-content/uploads/2025/05/mib_2025.png",
       "category": "market"
     },
     {
-      "title": "Bitcoin Search Interest in the US Plunges to a Five-Year Low Despite Crypto\u2019s Political Momentum",
-      "description": "Public interest in Bitcoin in the United States has decreased to one of the lowest points in almost five years, despite growing institutional interest in...\nThe post Bitcoin Search Interest in the US Plunges to a Five-Year Low Despite Crypto\u2019s Political Momen\u2026",
-      "url": "https://bitcoinfoundation.org/news/bitcoin/bitcoin-search-interest-in-the-us-plunges-to-a-five-year-low-despite-cryptos-political-momentum/",
-      "source": "Bitcoinfoundation.org",
+      "title": "Ecuador\u2019s Mining Reset Is Opening Doors. Salazar Resources Is Walking Through All of Them",
+      "description": "Issued on behalf of Salazar Resources Limited In less than a month, Salazar Resources defined a 1.5 km by 0.5 km copper-gold porphyry mineralized footprint at Monja, received a government fee exemption that materially improves the economics of exploration-sta\u2026",
+      "url": "https://financialpost.com/globe-newswire/ecuadors-mining-reset-is-opening-doors-salazar-resources-is-walking-through-all-of-them",
+      "source": "Financial Post",
       "date": "2026-08-04",
-      "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/08/3-1785830604.webp",
-      "category": "market"
+      "image": null,
+      "category": "supply_demand"
     },
     {
-      "title": "MEXC Ranks No. 1 in Near-Touch BTC, ETH and Silver Futures Depth, TokenInsight's July Liquidity Report Shows",
-      "description": "MEXC ranked first in near-touch order book depth for BTC and ETH futures and led in silver (XAG) futures depth, according to TokenInsight's Report....",
-      "url": "https://www.globenewswire.com/news-release/2026/08/04/3338105/0/en/MEXC-Ranks-No-1-in-Near-Touch-BTC-ETH-and-Silver-Futures-Depth-TokenInsight-s-July-Liquidity-Report-Shows.html",
+      "title": "Ecuador's Mining Reset Is Opening Doors. Salazar Resources Is Walking Through All of Them",
+      "description": "Issued on behalf of Salazar Resources Limited  In less than a month, Salazar Resources defined a 1.5 km by 0.5 km copper-gold porphyry mineralized...",
+      "url": "https://www.globenewswire.com/news-release/2026/08/04/3338432/0/en/Ecuador-s-Mining-Reset-Is-Opening-Doors-Salazar-Resources-Is-Walking-Through-All-of-Them.html",
       "source": "GlobeNewswire",
       "date": "2026-08-04",
-      "image": "https://ml.globenewswire.com/Resource/Download/25ea571a-bee4-4bfc-98a2-271fc56ff9a9",
-      "category": "metals"
+      "image": "https://ml.globenewswire.com/Resource/Download/2f54e5ac-913c-4cd9-b83b-5ebd616705c2",
+      "category": "supply_demand"
     },
     {
-      "title": "Why Hooda wants Haryana to host CWG 2030",
-      "description": "Congress MP Deepender Hooda has urged the central government to consider Haryana as the host or co-host for the 2030 Commonwealth Games, citing the state's significant contribution to India's medal tally in major competitions.",
-      "url": "https://www.rediff.com/sports/report/why-hooda-wants-haryana-to-host-cwg-2030/20260804.htm",
-      "source": "Rediff.com",
+      "title": "Frontier FOMO: The psychology of traders when chasing the world\u2019s fast-growing markets",
+      "description": "Understand frontier FOMO and the psychology behind traders chasing fast-growing markets. Learn to differentiate opportunity from emotional decisions.\n\nRead More: https://punchng.com/frontier-fomo-the-psychology-of-traders-when-chasing-the-worlds-fast-growing-\u2026",
+      "url": "https://punchng.com/frontier-fomo-the-psychology-of-traders-when-chasing-the-worlds-fast-growing-markets/",
+      "source": "The Punch",
       "date": "2026-08-04",
-      "image": "https://im.rediff.com/1200-630/sports/2026/aug/04hooda.jpg",
+      "image": "https://punchng.com/wp-content/uploads/2026/08/dome_1785849196.webp",
       "category": "market"
     },
     {
-      "title": "Travis Perkins H1 Earnings Call Highlights",
-      "description": "Travis Perkins (LON:TPK) reported a modest decline in first-half revenue as challenging construction markets continued to weigh on volumes, while higher gros...",
-      "url": "https://www.marketbeat.com/instant-alerts/travis-perkins-h1-earnings-call-highlights-2026-08-04/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
-      "source": "MarketBeat",
+      "title": "The AI Bubble Is Looming: $27 Trillion Valuation on Zero Revenue",
+      "description": "The AI Bubble\u00a0is looming. \nBut it isn\u2019t global \u2013 it is quite specific to those companies which are debt-heavy, and non-revenue producing. \nAmerican companies. Historically, when the Bubble bursts, the crash is out of reach for protection. \nIt moves \u2026\nThe post\u2026",
+      "url": "https://www.globalresearch.ca/ai-bubble-27-trillion-valuation-zero-revenue/5935690",
+      "source": "Globalresearch.ca",
       "date": "2026-08-04",
-      "image": "https://s.yimg.com/lo/mysterio/api/E5B480CA6B9516CE539CA843EC96FA2B34EE6DEA01D70F724EE7E0F2B2D2E494/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmarketbeat_955%2Fff45866efff89b23c79eb969b7d6050c",
+      "image": "https://www.globalresearch.ca/wp-content/uploads/2024/01/artificial-intelligence-1024x794.jpeg",
+      "category": "market"
+    },
+    {
+      "title": "Metallic alchemy",
+      "description": "After writing the previous post about metallic ratios, I thought about the analogy to alchemy and the attempt to make precious metals out of base metals. When can you make one metallic ratio out of another? Can you make the golden ratio out of the lead ratio?\u2026",
+      "url": "https://www.johndcook.com/blog/2026/08/04/metallic-alchemy/",
+      "source": "Johndcook.com",
+      "date": "2026-08-04",
+      "image": "https://www.johndcook.com/blog/wp-content/uploads/2022/05/twittercard.png",
+      "category": "metals"
+    },
+    {
+      "title": "Gold and Silver Lincoln Coin Commemorating America's 250th Anniversary Debuts at Lear Capital",
+      "description": "The legal tender coin, available in .9999 fine gold and silver versions, features a portrait of Abraham Lincoln and a heraldic eagle marking 1776 to 2026. LOS ANGELES, Aug. 4, 2026 /PRNewswire/ -- Lear Capital has released an exclusive Gold and Silver Abraham\u2026",
+      "url": "https://www.prnewswire.com/news-releases/gold-and-silver-lincoln-coin-commemorating-americas-250th-anniversary-debuts-at-lear-capital-302842041.html",
+      "source": "PRNewswire",
+      "date": "2026-08-04",
+      "image": "https://mmx.prnewswire.com/media/MS1963410/LC-Lincoln-Coin.pdf?id=OA2823136&p=pdf&p=facebook",
+      "category": "metals"
+    },
+    {
+      "title": "Silver jumps 2% on Hormuz deal optimism",
+      "description": "The prices of precious metals rose on Tuesday, with silver growing by more than 2% after United States Treasury Secretary Scott Bessent signaled that a deal between the US and Iran to reopen the Strai...",
+      "url": "https://biztoc.com/x/8dd2500a645b2c5a",
+      "source": "Biztoc.com",
+      "date": "2026-08-04",
+      "image": "https://biztoc.com/cdn/8dd2500a645b2c5a_s.webp",
+      "category": "metals"
+    },
+    {
+      "title": "Star Gold Corp., to Present at the Precious Metals & Critical Minerals Virtual Investor Conference on August 6",
+      "description": "Company invites individual and institutional investors, as well as advisors and analysts, to attend online at VirtualInvestorConferences.com COEUR D\u2019ALENE, Idaho, Aug. 04, 2026 (GLOBE NEWSWIRE) \u2014 Star Gold Corp. (OTCQB:SRGZ) based in Nevada, focused on develo\u2026",
+      "url": "https://financialpost.com/globe-newswire/star-gold-corp-to-present-at-the-precious-metals-critical-minerals-virtual-investor-conference-on-august-6",
+      "source": "Financial Post",
+      "date": "2026-08-04",
+      "image": null,
+      "category": "metals"
+    },
+    {
+      "title": "Here Are Tuesday\u2019s Top Wall Street Analyst Research Calls: Apple, CoreWeave, eBay, Exxon Mobil, Intuit, Nebius Group, Palantir Technologies, SK hynix, and More",
+      "description": "Wall Street wasted no time Monday, sending the Nasdaq surging past 25,900 while analysts took aim at some of the market's biggest names with fresh upgrades,...",
+      "url": "https://247wallst.com/investing/2026/08/04/here-are-tuesdays-top-wall-street-analyst-research-calls-apple-coreweave-ebay-exxon-mobil-intuit-nebius-group-palantir-technologies-sk-hynix-and-more/",
+      "source": "24/7 Wall St.",
+      "date": "2026-08-04",
+      "image": "https://s.yimg.com/lo/mysterio/api/95D83ECC441A734667A5CD07A425A7209C4D53871C027D8830793B92DD16C92D/subgraphmysterio/resizefill_w1200_h803;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fffa12de664351d2add9abe9bb1d08bbf",
       "category": "market"
     },
     {
@@ -261,148 +305,103 @@
       "category": "supply_demand"
     },
     {
-      "title": "CME Group July Volume Hits New Record of 27 Million Contracts, Up 23% Year Over Year",
-      "description": "Record July ADV in interest rate, equity index, energy, agricultural and metals products International ADV grew 32% to 8.8 million contracts CHICAGO, Aug. 4, 2026 /PRNewswire/ -- CME Group, the world's leading derivatives marketplace, today reported its highe\u2026",
-      "url": "https://www.prnewswire.com/news-releases/cme-group-july-volume-hits-new-record-of-27-million-contracts-up-23-year-over-year-302842336.html",
-      "source": "PRNewswire",
+      "title": "Background Checks Surged in Colorado as Buyers Raced to Beat Democrat Gun Control",
+      "description": "Background checks in Colorado surged in July 2026 as residents raced to buy up all the AR-15s and other semiautomatic rifles before Democrats' new \"assault weapons\" gun control took effect.\nThe post Background Checks Surged in Colorado as Buyers Raced to Beat\u2026",
+      "url": "https://www.breitbart.com/2nd-amendment/2026/08/04/background-checks-surged-in-colorado-as-buyers-raced-to-beat-democrat-gun-control/",
+      "source": "Breitbart News",
       "date": "2026-08-04",
-      "image": null,
-      "category": "central_bank"
-    },
-    {
-      "title": "Abaxx Exchange Monthly Trading Volume More Than Doubles in July 2026",
-      "description": "Abaxx Exchange provides monthly trading statistics for July, where volume more than doubled over June, reaching 785,129 contracts....",
-      "url": "https://www.globenewswire.com/news-release/2026/08/04/3338191/0/en/Abaxx-Exchange-Monthly-Trading-Volume-More-Than-Doubles-in-July-2026.html",
-      "source": "GlobeNewswire",
-      "date": "2026-08-04",
-      "image": "https://ml.globenewswire.com/Resource/Download/ebbabd4c-4502-4b72-9fa6-6894dfd9ae90",
+      "image": "https://media.breitbart.com/media/2026/08/GettyImages-1731117126-640x335.png",
       "category": "market"
     },
     {
-      "title": "The Green New Deal is not a solution for the real problem: Overshoot",
-      "description": "Preface.\u00a0 Seibert & Rees\u2019 paper is important and well-written, without unintelligible scientific jargon.\u00a0 It explains overshoot in just 13 pages, and covers the most important issues we face and real solutions. It explains why the Green New Deal is a \u2026 Contin\u2026",
-      "url": "https://energyskeptic.com/2026/the-green-new-deal-is-not-a-solution-for-the-real-problem-overshoot/",
-      "source": "Energyskeptic.com",
+      "title": "Why Cleveland\u2019s WNBA return is a win for Northeast Ohio | Opinion",
+      "description": "The Dan Gilbert-owned Cleveland Sirens are the latest piece of a rejuvenated Northeast Ohio sports and entertainment scene.",
+      "url": "https://www.beaconjournal.com/story/sports/2026/08/04/dan-gilbert-cleveland-sirens-wnba-bet-already-looks-smart/91155885007/",
+      "source": "Akron Beacon Journal",
+      "date": "2026-08-04",
+      "image": "https://s.yimg.com/lo/mysterio/api/7c76aed1a53761b7b070653ff6008d57a001ddfcc646330e078a0d2ac90aa006/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fakron-beacon-journal%2Fc499c2c42f04cf7c05e037a46c3d166a",
+      "category": "market"
+    },
+    {
+      "title": "\u2018Spider-Man: Brand New Day\u2019 Has Record Monday At U.S. Box Office With $46M+",
+      "description": "Sony and Marvel Studios\u2019 Spider-Man: Brand New Day continues to set records in its fourth day at domestic box office, notching the biggest Monday ever with north of $46M+. Sony hasn\u2019t reported their official number yet, but the Destin Daniel Cretton directed \u2026",
+      "url": "http://deadline.com/2026/08/box-office-spider-man-brand-new-day-monday-record-1237017035/",
+      "source": "Deadline",
+      "date": "2026-08-04",
+      "image": "https://deadline.com/wp-content/uploads/2026/07/Spider-Man-Brand-New-Day.jpg?w=1024",
+      "category": "market"
+    },
+    {
+      "title": "HTZ Shareholder Alert: Hertz Global Holdings, Inc. Securities Class Action Lawsuit - Investors Should Contact SueWallSt",
+      "description": "Regulatory compliance focus: The Hertz action challenges whether the Company's SEC liquidity language adequately disclosed alleged near-term financing pressure, used-car market volatility, and dilution risk before HTZ shares fell more than 40% Regulatory comp\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/08/04/3338556/0/en/HTZ-Shareholder-Alert-Hertz-Global-Holdings-Inc-Securities-Class-Action-Lawsuit-Investors-Should-Contact-SueWallSt.html",
+      "source": "GlobeNewswire",
       "date": "2026-08-04",
       "image": null,
+      "category": "market"
+    },
+    {
+      "title": "The Decisions That Changed Everything",
+      "description": "People often ask me what the secret was to building a business that sold more than three times the number of investment properties than any other firm in New York City for 14 consecutive years. They expect the answer to involve a particular strategy, a recrui\u2026",
+      "url": "http://commercialobserver.com/2026/08/decisions-that-changed-everything/",
+      "source": "Commercial Observer",
+      "date": "2026-08-04",
+      "image": "https://commercialobserver.com/wp-content/uploads/sites/3/2026/08/Paul-Massey-Bob-Knakal-2008-GettyImages-620262130-WEB.jpg?quality=80&crop=0px%2C117px%2C2000px%2C1051px&resize=1200%2C630&strip",
+      "category": "market"
+    },
+    {
+      "title": "Electronic mode of payment outside negative list likely to attract MDR",
+      "description": "New bill proposes electronic payments outside the negative list will incur Merchant Discount Rate (MDR), including potential UPI charges.",
+      "url": "https://www.thehindubusinessline.com/economy/electronic-mode-of-payment-outside-negative-list-likely-to-attract-mdr/article71306052.ece",
+      "source": "BusinessLine",
+      "date": "2026-08-04",
+      "image": "https://bl-i.thgim.com/public/incoming/rzhyzu/article71306171.ece/alternates/LANDSCAPE_1200/Smaller-UPI-plaG7TGA18U8.5.jpg.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Tech Companies Are Setting Themselves on Fire to Keep Up in the AI Race",
+      "description": "Despite significant windfalls, tech companies are struggling to have any cash left over thanks to some enormous AI-related expenses.",
+      "url": "https://futurism.com/artificial-intelligence/tech-companies-setting-on-fire-ai-race",
+      "source": "Futurism",
+      "date": "2026-08-04",
+      "image": "https://futurism.com/wp-content/uploads/2026/08/tech-companies-setting-on-fire-ai-race.jpg?w=1200",
+      "category": "market"
+    },
+    {
+      "title": "Advanced Carbon Materials Global Market Report, 2027-2037 | Pricing, Demand and Revenue Forecasts Through 2037",
+      "description": "Dublin, Aug.  04, 2026  (GLOBE NEWSWIRE) -- The \"Advanced Carbon Materials: Global Market 2027-2037\" has been added to  ResearchAndMarkets.com's offering. ...",
+      "url": "https://www.globenewswire.com/news-release/2026/08/04/3338551/28124/en/Advanced-Carbon-Materials-Global-Market-Report-2027-2037-Pricing-Demand-and-Revenue-Forecasts-Through-2037.html",
+      "source": "GlobeNewswire",
+      "date": "2026-08-04",
+      "image": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
       "category": "supply_demand"
     },
     {
-      "title": "Gold steady as West Asia talks weigh on interest rate outlook",
-      "description": "The US and Iran both signalled that negotiations to restore shipping through the Strait of Hormuz were ongoing, raising hopes for a pickup in supply that would soften energy-driven inflation",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-03/gold-steady-as-middle-east-talks-weigh-on-interest-rate-outlook",
-      "source": "Bloomberg",
+      "title": "The Democrats\u2019 civil war over Israel is getting worse",
+      "description": "While the party fractures over Middle East policy, it is ignoring the threat posed by AI and social media",
+      "url": "https://www.irishtimes.com/world/us/2026/08/04/the-democrats-civil-war-over-israel-is-getting-worse/",
+      "source": "The Irish Times",
       "date": "2026-08-04",
-      "image": "https://bl-i.thgim.com/public/incoming/qo0oqi/article71297639.ece/alternates/LANDSCAPE_1200/IMG_Bullion-Cues_-O_GDIC_2_1_2MCBJBKI.jpg",
+      "image": "https://www.irishtimes.com/resizer/v2/R2HGPUQF6XAEQB7DRIKWBPWM2A.jpg?smart=true&auth=71a75b6f247de00c6e4da298a0db4c9fb458ee28ceb6ae047d398deec52207c9&width=1200&height=630",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Trans federal workers sue Trump administration over ban on gender-affirming care coverage",
+      "description": "Five trans federal employees have filed a proposed class action lawsuit against the Trump administration, challenging a policy that excludes gender-affirming care from health insurance plans covering federal workers, retirees, Postal Service employees and the\u2026",
+      "url": "https://www.thepinknews.com/2026/08/04/trans-federal-workers-sue-trump-administration-over-ban-on-gender-affirming-care-coverage/",
+      "source": "Thepinknews.com",
+      "date": "2026-08-04",
+      "image": "https://www.thepinknews.com/wp-content/uploads/2026/07/donald-trump-1.jpg",
       "category": "central_bank"
     },
     {
-      "title": "Why don t hospitals use copper?",
-      "description": "Why Don\u2019t Hospitals Use Copper? Unveiling the Barriers to Widespread Adoption Despite the proven antimicrobial properties of copper, hospitals haven\u2019t universally adopted it due to a combination of cost, installation challenges, perceived aesthetic limitation\u2026",
-      "url": "https://www.lifesciencesworld.com/why-don-t-hospitals-use-copper/",
-      "source": "Lifesciencesworld.com",
-      "date": "2026-08-04",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "Gold holds steady with U.S.-Iran standoff and Fed outlook in focus",
-      "description": "Gold was little changed as traders monitored diplomatic efforts to cool U.S.-Iran tensions, potentially pushing energy prices lower. Read on",
-      "url": "https://financialpost.com/commodities/gold-steady-interest-rate-outlook",
-      "source": "Financial Post",
-      "date": "2026-08-04",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/08/0805-mg-gold-bars.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Volatus Aerospace Partners with Singular Aircraft to Introduce Heavy-Lift Autonomous Aircraft for Canadian Wildfire Response",
-      "description": "Strategic partnership advances the introduction of a new class of autonomous aircraft, Canadian manufacturing and sovereign industrial capability VAUGHAN, Ontario, Aug. 04, 2026 (GLOBE NEWSWIRE) \u2014 Volatus Aerospace Inc. (TSX: FLT) (OTCQX: TAKOF) (Frankfurt: A\u2026",
-      "url": "https://financialpost.com/globe-newswire/volatus-aerospace-partners-with-singular-aircraft-to-introduce-heavy-lift-autonomous-aircraft-for-canadian-wildfire-response",
-      "source": "Financial Post",
-      "date": "2026-08-04",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "DEEP SEA MINERALS CORP. FILES FORM F-10 REGISTRATION STATEMENT WITH U.S. SECURITIES AND EXCHANGE COMMISSION BECOMING A U.S. REPORTING COMPANY",
-      "description": "NOT FOR DISTRIBUTION TO UNITED STATES NEWS WIRE SERVICES OR FOR DISSEMINATION IN THE UNITED STATES. Vancouver, British Columbia, Aug. 04, 2026 (GLOBE NEWSWIRE) \u2014 Deep Sea Minerals Corp. (CSE: SEAS) (OTCQB: DSEAF) (FSE: X450) (\u201cDeep Sea Minerals\u201d or the \u201cCompa\u2026",
-      "url": "https://financialpost.com/globe-newswire/deep-sea-minerals-corp-files-form-f-10-registration-statement-with-u-s-securities-and-exchange-commission-becoming-a-u-s-reporting-company",
-      "source": "Financial Post",
-      "date": "2026-08-04",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "Telesat secures $2.3 billion Arctic military satcom contract, expanding Telesat Lightspeed network and capacity by 44%",
-      "description": "Largest contract in company\u2019s six-decade history expands Telesat Lightspeed constellation to 225 satellites and delivers secure Mil-Ka Arctic connectivity for the Canadian Armed Forces OTTAWA, Aug. 04, 2026 (GLOBE NEWSWIRE) \u2014 Telesat LEO ULC, a subsidiary of\u00a0\u2026",
-      "url": "https://financialpost.com/globe-newswire/telesat-secures-2-3-billion-arctic-military-satcom-contract-expanding-telesat-lightspeed-network-and-capacity-by-44",
-      "source": "Financial Post",
-      "date": "2026-08-04",
-      "image": null,
-      "category": "geopolitics"
-    },
-    {
-      "title": "India\u2019s hospitality industry to grow 7-9% in FY27 despite global headwinds: ICRA",
-      "description": "Domestic travel demand is expected to sustain hotel occupancy and room rates despite weaker foreign tourist arrivals and geopolitical uncertainties",
-      "url": "https://www.thehindubusinessline.com/economy/indias-hospitality-industry-to-grow-7-9-in-fy27-despite-global-headwinds-icra/article71305018.ece",
-      "source": "BusinessLine",
-      "date": "2026-08-04",
-      "image": "https://bl-i.thgim.com/public/incoming/9on4mu/article71305089.ece/alternates/LANDSCAPE_1200/hospitality%20luxury%20resort%20India.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Thunder Signs Strategic Collaboration Agreement with Amazon Web Services to Deliver AI-Powered Contact Center Solutions",
-      "description": "SAN FRANCISCO, Aug. 4, 2026 /PRNewswire/ -- Thunder, a member of the AWS Partner Network and a leading Amazon Connect delivery Partner, today announced a strategic collaboration agreement (SCA) with Amazon Web Services (AWS) to help organizations accelerate t\u2026",
-      "url": "https://www.prnewswire.com/news-releases/thunder-signs-strategic-collaboration-agreement-with-amazon-web-services-to-deliver-ai-powered-contact-center-solutions-302841924.html",
+      "title": "/C O R R E C T I O N -- BSA-AML Compliance Group LLC/",
+      "description": "In the news release, Treasury Deputy Assistant Secretary Scott Rembrandt to Deliver Opening Keynote Address at the 2026 Annual BSA/AML Gaming Conference, issued 04-Aug-2026 by BSA-AML Compliance Group LLC over PR Newswire, we are advised by the company that c\u2026",
+      "url": "https://www.prnewswire.com/news-releases/treasury-deputy-assistant-secretary-scott-rembrandt-to-deliver-opening-keynote-address-at-the-2026-annual-bsaaml-gaming-conference-302842001.html",
       "source": "PRNewswire",
       "date": "2026-08-04",
-      "image": "https://mmx.prnewswire.com/media/MS1295852/Thunder-Logo-Logo.jpg?id=OA2822890&p=facebook",
+      "image": "https://mmx.prnewswire.com/media/MS1577347/BSA-AML-Logos-1-01-Logo.jpg?id=OA2823333&p=facebook",
       "category": "market"
-    },
-    {
-      "title": "Bombardier\u2019s 4th Annual Flight Attendant Safety Summit in Montreal to Focus on Elevating Cabin Safety and Operational Excellence",
-      "description": "Free-to-attend safety summit is expanding to two days this year, providing flight attendants and aviation professionals with life-long learning opportunities to strengthen safety standards, enhance their knowledge, and collaborate to keep passengers and crews\u2026",
-      "url": "https://financialpost.com/globe-newswire/bombardiers-4th-annual-flight-attendant-safety-summit-in-montreal-to-focus-on-elevating-cabin-safety-and-operational-excellence",
-      "source": "Financial Post",
-      "date": "2026-08-04",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/08/bombardiers-4th-annual-flight-attendant-safety-summit-in-mon.jpeg",
-      "category": "market"
-    },
-    {
-      "title": "PK storms Bankipur, ends BJP\u2019s 30-year hold in electoral debut",
-      "description": "Prashant Kishor wins Bankipur bypoll, ending BJP\u2019s 30-year hold; defeats BJP\u2019s Neeraj Sinha by 19,324 votes, giving Jan Suraaj its first Bihar seat.",
-      "url": "https://timesofindia.indiatimes.com/city/patna/pk-storms-bankipur-ends-bjps-30-year-hold-in-electoral-debut/articleshow/132859347.cms",
-      "source": "The Times of India",
-      "date": "2026-08-04",
-      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Suddenly, Communists Are Everywhere",
-      "description": "The Trump administration would like you to worry like it\u2019s 1979.",
-      "url": "https://www.theatlantic.com/national-security/2026/08/suddenly-communists-are-everywhere/688161/",
-      "source": "The Atlantic",
-      "date": "2026-08-04",
-      "image": "https://cdn.theatlantic.com/thumbor/WZjAJtP28V1dzTcjQjna7X5Q7Kk=/0x61:2876x1559/1200x625/media/img/mt/2026/08/2026_08_03_Trump_admin_communism/original.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Lead Service Line Replacement Cost Calculator Listed in the United Nations SDG Partnership Platform",
-      "description": "Lead Service Line Replacement Cost Calculator listed on UN SDG Partnership Platform supporting climate-resilient drinking water planning....",
-      "url": "https://www.globenewswire.com/news-release/2026/08/04/3338194/0/en/Lead-Service-Line-Replacement-Cost-Calculator-Listed-in-the-United-Nations-SDG-Partnership-Platform.html",
-      "source": "GlobeNewswire",
-      "date": "2026-08-04",
-      "image": "https://ml.globenewswire.com/Resource/Download/453fe688-5eb1-48d9-a8f2-ba9405ce5ff4",
-      "category": "market"
-    },
-    {
-      "title": "Crypto Is Down Again \u2014 When Bitcoin Price Finally Go Back Up?",
-      "description": "The decline was attributed to weaker institutional inflows, geopolitical uncertainty and a resurgence in risk-off conditions.\u00a0 Why Is Crypto Down Again? By early August, Bitcoin...\nThe post Crypto Is Down Again \u2014 When Bitcoin Price Finally Go Back Up? appeare\u2026",
-      "url": "https://bitcoinfoundation.org/news/analysis/crypto-is-down-again-when-bitcoin-price-finally-go-back-up/",
-      "source": "Bitcoinfoundation.org",
-      "date": "2026-08-04",
-      "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/08/1-1785835091.webp",
-      "category": "geopolitics"
     }
   ],
   "history": [
@@ -469,15 +468,15 @@
     {
       "date": "2026-08-05",
       "week": "2026-W32",
-      "gold_10g": 128238.23,
-      "silver_kg": 189590.61,
-      "platinum_g": 5396.52,
-      "gold_usd_oz": 4182.97,
-      "silver_usd_oz": 61.84,
-      "platinum_usd_oz": 1760.28
+      "gold_10g": 130019.42,
+      "silver_kg": 190933.4,
+      "platinum_g": 5320.44,
+      "gold_usd_oz": 4241.06,
+      "silver_usd_oz": 62.28,
+      "platinum_usd_oz": 1735.46
     }
   ],
-  "timestamp": "2026-08-05T17:06:13.376378+05:30",
+  "timestamp": "2026-08-05T20:26:48.686786+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
