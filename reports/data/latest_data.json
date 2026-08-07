@@ -1,24 +1,24 @@
 {
   "prices": {
     "gold": {
-      "price_per_gram_inr": 13126.91,
-      "price_usd_oz": 4285.86,
-      "change_percent": 1.08,
-      "change_value_usd": 45.65,
-      "price_per_10g_inr": 131269.13
+      "price_per_gram_inr": 13209.32,
+      "price_usd_oz": 4312.77,
+      "change_percent": 1.71,
+      "change_value_usd": 72.56,
+      "price_per_10g_inr": 132093.18
     },
     "silver": {
-      "price_per_gram_inr": 195.19,
-      "price_usd_oz": 63.73,
-      "change_percent": 3.61,
-      "change_value_usd": 2.22,
-      "price_per_kg_inr": 195194.7
+      "price_per_gram_inr": 197.04,
+      "price_usd_oz": 64.33,
+      "change_percent": 4.59,
+      "change_value_usd": 2.82,
+      "price_per_kg_inr": 197037.0
     },
     "platinum": {
-      "price_per_gram_inr": 5384.76,
-      "price_usd_oz": 1758.1,
-      "change_percent": 1.84,
-      "change_value_usd": 31.82
+      "price_per_gram_inr": 5425.48,
+      "price_usd_oz": 1771.39,
+      "change_percent": 2.61,
+      "change_value_usd": 45.11
     },
     "currencies": {
       "USD_INR": 95.265,
@@ -30,8 +30,8 @@
       "CAD_INR": 67.9833,
       "SGD_INR": 74.2575
     },
-    "gold_silver_ratio": 67.25,
-    "timestamp": "2026-08-07T07:50:32.000181",
+    "gold_silver_ratio": 67.04,
+    "timestamp": "2026-08-07T10:24:39.115560",
     "source": "GoldAPI"
   },
   "currencies": {
@@ -53,8 +53,8 @@
         "sell": 10,
         "hold": 25
       },
-      "summary": "Gold is showing positive signals. Strong daily gain of 1.1%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-07T07:50:35.932102",
+      "summary": "Gold is showing positive signals. Strong daily gain of 1.7%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
+      "timestamp": "2026-08-07T10:24:44.200576",
       "source": "rule-based"
     },
     "silver": {
@@ -65,8 +65,8 @@
         "sell": 10,
         "hold": 25
       },
-      "summary": "Silver is showing positive signals. Strong daily gain of 3.6%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-07T07:50:36.056193",
+      "summary": "Silver is showing positive signals. Strong daily gain of 4.6%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
+      "timestamp": "2026-08-07T10:24:44.301539",
       "source": "rule-based"
     },
     "platinum": {
@@ -77,8 +77,8 @@
         "sell": 10,
         "hold": 25
       },
-      "summary": "Platinum is showing positive signals. Strong daily gain of 1.8%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-07T07:50:36.168101",
+      "summary": "Platinum is showing positive signals. Strong daily gain of 2.6%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
+      "timestamp": "2026-08-07T10:24:44.402598",
       "source": "rule-based"
     }
   },
@@ -90,13 +90,13 @@
         "Price above 4-week moving average (bullish)",
         "Price above 12-week moving average (bullish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Strong momentum: +2.6% in 4 weeks"
+        "Strong momentum: +3.2% in 4 weeks"
       ],
       "support": 124137.93,
       "resistance": 140736.5,
-      "current_price": 131269.13,
-      "ma_short": 127402.09,
-      "ma_long": 130893.78,
+      "current_price": 132093.18,
+      "ma_short": 127608.1,
+      "ma_long": 131011.5,
       "trend_score": 2.0
     },
     "silver": {
@@ -106,13 +106,13 @@
         "Price above 4-week moving average (bullish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Strong momentum: +2.1% in 4 weeks"
+        "Strong momentum: +3.1% in 4 weeks"
       ],
       "support": 176726.94,
       "resistance": 243170.57,
-      "current_price": 195194.7,
-      "ma_short": 186185.12,
-      "ma_long": 200833.04,
+      "current_price": 197037.0,
+      "ma_short": 186645.7,
+      "ma_long": 201096.23,
       "trend_score": 0.0
     },
     "platinum": {
@@ -122,34 +122,70 @@
         "Price above 4-week moving average (bullish)",
         "Price above 12-week moving average (bullish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Strong momentum: +7.0% in 4 weeks"
+        "Strong momentum: +7.8% in 4 weeks"
       ],
       "support": 4961.56,
       "resistance": 6206.5,
-      "current_price": 5384.76,
-      "ma_short": 5109.91,
-      "ma_long": 5359.37,
+      "current_price": 5425.48,
+      "ma_short": 5120.09,
+      "ma_long": 5365.18,
       "trend_score": 2.0
     }
   },
   "news": [
     {
-      "title": "US Stock Market: Warsh's Fed leaves markets searching for policy clues",
-      "description": "Federal Reserve Chair Kevin Warsh is changing the central bank\u2019s communication approach, reducing reliance on forward guidance and leaving markets to interpret economic data more independently. The shift has triggered volatility in bond markets, with investors seeking clarity on future rate moves. A",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stock-market-warshs-fed-leaves-markets-searching-for-policy-clues/articleshow/133027004.cms",
+      "title": "Rupee nudges up on-week; traders stay cautious as oil firms, US payrolls loom",
+      "description": "The Indian rupee maintained stability on Friday, showing a small improvement over the week. The central bank's intervention helped alleviate the impact of higher oil prices and market hesitance. Significant inflows from balance of payments strategies fortified the Reserve Bank of India\u2019s defenses. I",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-nudges-up-on-week-traders-stay-cautious-as-oil-firms-us-payrolls-loom/articleshow/133030667.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-08-07",
+      "image": "",
+      "category": "central_bank"
+    },
+    {
+      "title": "Global Market: European shares rise as healthcare stocks offset geopolitical concerns; investors await US jobs data",
+      "description": "European stock markets edged higher on Friday, supported by gains in healthcare stocks, while rising oil prices and renewed Middle East tensions kept investors cautious ahead of the closely watched U.S. non-farm payrolls report.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-rise-as-healthcare-stocks-offset-geopolitical-concerns-investors-await-us-jobs-data/articleshow/133029661.cms",
       "source": "Economic Times Markets",
       "date": "2026-08-07",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "Global Market: China\u2019s July exports top forecasts as AI boom and pre-tariff rush fuel trade growth",
-      "description": "China's July exports rose 23.9%, beating forecasts as strong global AI-related demand and pre-tariff shipments boosted trade. High-tech and semiconductor exports remained key growth drivers despite fresh U.S. restrictions. Robust exports supported markets, but weak domestic demand, slowing investmen",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-july-exports-top-forecasts-as-ai-boom-and-pre-tariff-rush-fuel-trade-growth/articleshow/133026299.cms",
+      "title": "SBI Q1 Results: Standalone profit rises 10% YoY to Rs 21,121 crore, beats estimates",
+      "description": "State Bank of India reported a ten percent year-on-year net profit growth.  Its net interest income also saw a fifteen percent rise during the quarter.  Total business crossed one hundred ten trillion rupees, with deposits exceeding sixty trillion.  Advances grew nineteen percent year-on-year, drive",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/sbi-q1-results-standalone-profit-rises-10-yoy-to-rs-21121-crore-beats-estimates/articleshow/133028121.cms",
       "source": "Economic Times Markets",
       "date": "2026-08-07",
       "image": "",
+      "category": "currency"
+    },
+    {
+      "title": "IMF Warns Ghana: Over-Reliance On Gold Exports Is Very Dangerous",
+      "description": "The International Monetary Fund (IMF) has warned Ghana against becoming overly dependent on gold exports, cautioning that the country\u2019s recent macro-economic recovery, though impressive, is increasingly being driven by a single commodity, whose fortunes are d\u2026",
+      "url": "https://thechronicle.com.gh/imf-warns-ghana-over-reliance-on-gold-exports-is-very-dangerous/",
+      "source": "Thechronicle.com.gh",
+      "date": "2026-08-06",
+      "image": "https://thechronicle.com.gh/wp-content/uploads/2026/08/Finance-Minister-Dr-Ato-Forson.jpg",
       "category": "geopolitics"
+    },
+    {
+      "title": "Northwood Space\u2019s Bridgit Mendler on the next chapter for space startups",
+      "description": "Bridgit Mendler\u2014a Harvard and MIT grad who cofounded Northwood in 2022\u2014draws attention for her childhood as a Disney Channel star. But she\u2019s chasing one of the most granular (and most vital) space economy problems.",
+      "url": "https://fortune.com/2026/08/06/northwood-spaces-bridgit-mendler-on-the-next-chapter-for-space-startups/",
+      "source": "Fortune",
+      "date": "2026-08-06",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/55325665553_294d8de98f_k.jpg?resize=1200,600",
+      "category": "market"
+    },
+    {
+      "title": "UPSC Quiz \u2013 2026 : IASbaba\u2019s Daily Current Affairs Quiz 21st July 2026",
+      "description": "For Previous Daily Quiz (ARCHIVES) \u2013 CLICK HERE The Current Affairs questions are based on sources like \u2018The Hindu\u2019, \u2018Indian Express\u2019 and \u2018PIB\u2019, which are very important sources for UPSC Prelims Exam. The questions are focused on both the concepts and facts. \u2026",
+      "url": "https://iasbaba.com/2026/08/upsc-quiz-2026-iasbabas-daily-current-affairs-quiz-20th-july-2026-copy/",
+      "source": "Iasbaba.com",
+      "date": "2026-08-06",
+      "image": "https://iasbaba.com/wp-content/uploads/2025/06/Daily-Current-Affairs-Quiz-2025.jpeg",
+      "category": "supply_demand"
     },
     {
       "title": "000-17 Auditorium Spruce-Mahogany Acoustic Guitar Whiskey Sunset - Today's Price $1399.99 - Reg $1899.99",
@@ -197,22 +233,13 @@
       "category": "central_bank"
     },
     {
-      "title": "McEwen Q2 Results: Net Income of $9.6M ($0.16 per Share), Compared with $3.0M ($0.06 per Share) in Q2 2025; Exploration Results Driving Resource Growth Across All Sites; New Stock Mine in Timmins Nearing Production, with Mine Life Extended",
-      "description": "(See Glossary for Defined Terms) TORONTO, Aug. 05, 2026 (GLOBE NEWSWIRE) \u2014 McEwen Inc. (NYSE/TSX: MUX) (\u201cMcEwen\u201d or the \u201cCompany\u201d) today announced its second quarter financial results for the period ended June 30, 2026 (Q2). In addition, the Company is provid\u2026",
-      "url": "https://financialpost.com/globe-newswire/mcewen-q2-results-net-income-of-9-6m-0-16-per-share-compared-with-3-0m-0-06-per-share-in-q2-2025-exploration-results-driving-resource-growth-across-all-sites-new-stock-mine-in-timmins-near",
-      "source": "Financial Post",
+      "title": "Goliath Reports Up To 8.09 G/T AuEq Over 16.00 Meters, Assays Confirm Gold Mineralization In Expanded Bonanza and Golden Gate Zones On High-Grade Gold Surebet Discovery, Golden Triangle, B.C.",
+      "description": "Assay results from multiple gold-rich drill intercepts from 2026 drilling, have confirmed expansion of the Bonanza and Golden Gate Zones that remain open...",
+      "url": "https://www.globenewswire.com/news-release/2026/08/06/3340032/0/en/Goliath-Reports-Up-To-8-09-G-T-AuEq-Over-16-00-Meters-Assays-Confirm-Gold-Mineralization-In-Expanded-Bonanza-and-Golden-Gate-Zones-On-High-Grade-Gold-Surebet-Discovery-Golden-Trian.html",
+      "source": "GlobeNewswire",
       "date": "2026-08-06",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/08/figure-8-cross-section-of-tartans-main-zone-selected-drill-h.png",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Thieves target Twin Cities gaming stores as Pok\u00e9mon values soar",
-      "description": "Among the recent victims were stores in Eagan, Forest Lake, Hudson and Minneapolis.",
-      "url": "https://www.twincities.com/2026/08/05/pokemon-card-thefts-increase/",
-      "source": "TwinCities.com-Pioneer Press",
-      "date": "2026-08-06",
-      "image": "https://www.twincities.com/wp-content/uploads/2026/07/STP-L-POKEMONTHEFT-0728.jpg?w=1454&h=816",
-      "category": "market"
+      "image": "https://ml.globenewswire.com/Resource/Download/45899e21-381f-40d6-b035-8a62137933c8",
+      "category": "metals"
     },
     {
       "title": "Notice of Q2 Results and Investor Presentation",
@@ -233,6 +260,15 @@
       "category": "currency"
     },
     {
+      "title": "McEwen Q2 Results: Net Income of $9.6M ($0.16 per Share), Compared with $3.0M ($0.06 per Share) in Q2 2025; Exploration Results Driving Resource Growth Across All Sites; New Stock Mine in Timmins Nearing Production, with Mine Life Extended",
+      "description": "(See Glossary for Defined Terms) TORONTO, Aug. 05, 2026 (GLOBE NEWSWIRE) \u2014 McEwen Inc. (NYSE/TSX: MUX) (\u201cMcEwen\u201d or the \u201cCompany\u201d) today announced its second quarter financial results for the period ended June 30, 2026 (Q2). In addition, the Company is provid\u2026",
+      "url": "https://financialpost.com/globe-newswire/mcewen-q2-results-net-income-of-9-6m-0-16-per-share-compared-with-3-0m-0-06-per-share-in-q2-2025-exploration-results-driving-resource-growth-across-all-sites-new-stock-mine-in-timmins-near",
+      "source": "Financial Post",
+      "date": "2026-08-06",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/08/figure-8-cross-section-of-tartans-main-zone-selected-drill-h.png",
+      "category": "supply_demand"
+    },
+    {
       "title": "Ardee Industries IPO Day 2: GMP at 29%; issue subscribed 3.08 times so far. Should you subscribe?",
       "description": "On the first day of bidding, the IPO was subscribed 3.08 times, with bids received for more than 17.98 crore shares against the 5.84 crore shares on offer. Retail investors showed strong enthusiasm, with their portion oversubscribed 3.22 times against the 2.9\u2026",
       "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/ardee-industries-ipo-day-2-gmp-at-29-issue-subscribed-3-08-times-so-far-should-you-subscribe/articleshow/132979574.cms",
@@ -251,157 +287,121 @@
       "category": "currency"
     },
     {
-      "title": "Economic Digest: A Snapshot of Nepal\u2019s Business News",
-      "description": "KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. The collection of economic and policy developments presents a picture of an economy that is showing sig\u2026",
-      "url": "https://english.khabarhub.com/2026/06/561981/",
-      "source": "Khabarhub.com",
+      "title": "Unemployment rate ticks up to 5.1% in July - CSO",
+      "description": "The country's unemployment rate ticked up to 5.1% in July from 5% in June, new figures from the Central Statistics Office showed today.",
+      "url": "https://www.rte.ie/news/business/2026/0806/1586750-cso-unemployment-figures/",
+      "source": "RTE",
       "date": "2026-08-06",
-      "image": "https://english.khabarhub.com/wp-content/uploads/2024/05/Economic-Digest.jpg",
+      "image": "https://www.rte.ie/images/0021801c-1600.jpg",
       "category": "market"
     },
     {
-      "title": "Peacock books another Five Star Weekend with S2 order",
-      "description": "NEWS BRIEF: Peacock has renewed Five Star Weekend after it became the most-watched scripted show ever on the US streaming service. Based on Elin Hilderbrand's 2023 novel of the same name, the drama ser...",
-      "url": "https://www.c21media.net/news/peacock-books-another-five-star-weekend-with-s2-order/",
-      "source": "C21media.net",
+      "title": "Meta latest to tell world its AI agent wandered out of test pen",
+      "description": "Another week, another firm explaining why one of its models reached somewhere it wasn't supposed to",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/06/meta-latest-to-tell-world-its-ai-agent-wandered-out-of-test-pen/5283947",
+      "source": "Theregister.com",
       "date": "2026-08-06",
-      "image": "https://cdn.c21media.net/wp-content/uploads/2026/08/five-star-weekend.jpg",
+      "image": "https://image.theregister.com/5283960.jpg?imageId=5283960&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
       "category": "market"
     },
     {
-      "title": "LG ELECTRONICS INVITES THE WORLD TO EXPERIENCE \"INNOVATION IN TUNE WITH YOU\" AT IFA 2026",
-      "description": "LG to Showcase an Expanded AI Orchestra Designed Around European Lifestyles SEOUL, South Korea, Aug. 6, 2026 /PRNewswire/ -- LG Electronics (LG) is inviting consumers from around the world to visit its exhibition at IFA 2026 in Berlin, Germany, from September\u2026",
-      "url": "https://www.prnewswire.com/news-releases/lg-electronics-invites-the-world-to-experience-innovation-in-tune-with-you-at-ifa-2026-302844759.html",
+      "title": "Indian rupee slips on importer bids, far forward premiums ease to one-month low",
+      "description": "On Thursday, the Indian rupee ended slightly lower against the dollar, impacted by continuous demand from importers hedging their positions. While falling oil prices helped bolster market sentiment, the rupee has enjoyed recent appreciation thanks to central \u2026",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/indian-rupee-slips-on-importer-bids-far-forward-premiums-ease-to-one-month-low/articleshow/132997510.cms",
+      "source": "The Times of India",
+      "date": "2026-08-06",
+      "image": "https://img.etimg.com/thumb/msid-132997543,width-1200,height-630,imgsize-46062,overlay-etmarkets/articleshow.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Hormuz deal \u2018close\u2019: What\u2019s the latest on each side\u2019s positions?",
+      "description": "US officials say they would not accept any arrangement on the waterway that would leave Iran in control.",
+      "url": "https://www.aljazeera.com/news/2026/8/6/hormuz-deal-close-whats-the-latest-on-each-sides-positions",
+      "source": "Al Jazeera English",
+      "date": "2026-08-06",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a724e61f27c-1785876066.jpg?resize=1920%2C1440",
+      "category": "market"
+    },
+    {
+      "title": "Nazara Technologies approves \u20b9733.5-crore preferential fundraise",
+      "description": "Nazara Technologies approves a \u20b9733.5-crore preferential issue led by future CEO Raymond Stauffer to fund acquisitions, AI gaming and expansion.",
+      "url": "https://www.thehindubusinessline.com/markets/nazara-technologies-approves-7335-crore-preferential-fundraise/article71312942.ece",
+      "source": "BusinessLine",
+      "date": "2026-08-06",
+      "image": "https://bl-i.thgim.com/public/todays-paper/tp-news/usb9t2/article70759562.ece/alternates/LANDSCAPE_1200/Nazara-TechnoloGGPFO049R.4.jpg.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Inside the modern horological renaissance where Hublot watches marry technical audacity with decadal reliability",
+      "description": "Modern haute horlogerie is shifting toward manufacturing autonomy, exemplified by Hublot\u2019s in-house Unico movement, the architectural Big Bang Reloaded collection, and an unprecedented 5+5 year warranty structure for long-term reliability.",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/durables/inside-the-modern-horological-renaissance-where-hublot-watches-marry-technical-audacity-with-decadal-reliability/articleshow/132996399.cms",
+      "source": "The Times of India",
+      "date": "2026-08-06",
+      "image": "https://img.etimg.com/thumb/msid-132996681,width-1200,height-630,imgsize-62146,overlay-economictimes/articleshow.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Standard Chartered gets nod to launch wealth management services from GIFT City",
+      "description": "Standard Chartered gains approval to launch wealth management services from GIFT City, expanding its financial offerings in India.",
+      "url": "https://www.thehindubusinessline.com/money-and-banking/standard-chartered-gets-nod-to-launch-wealth-management-services-from-gift-city/article71313016.ece",
+      "source": "BusinessLine",
+      "date": "2026-08-06",
+      "image": "https://bl-i.thgim.com/public/incoming/eyy47z/article71313098.ece/alternates/LANDSCAPE_1200/2026-08-04T090537Z_613298835_RC2FRMA8Q55T_RTRMADP_3_SINGAPORE-BUSINESS.JPG",
+      "category": "market"
+    },
+    {
+      "title": "Africa CDC Says Contact Tracing Is Not Working in Congo Ebola Outbreak as Deaths Pass 1,700",
+      "description": "Africa CDC says contact tracing is failing in Congo's Ebola outbreak as deaths reach 1,707. What the surveillance gap means and what US officials watch.",
+      "url": "https://www.medicaldaily.com/congo-ebola-contact-tracing-failure-1700-deaths-476926",
+      "source": "Medical Daily",
+      "date": "2026-08-06",
+      "image": "https://d.medicaldaily.com/en/full/484063/tony-karumba-afp-via-getty-images.jpg",
+      "category": "market"
+    },
+    {
+      "title": "At Trump's DOJ, watchdogs gutted as misconduct complaints soar",
+      "description": "By Andrew Goudsward and Brad Heath WASHINGTON, Aug 6 (Reuters) - In one courtroom after another, federal judges have accused U.S.",
+      "url": "https://www.yahoo.com/news/politics/articles/trumps-doj-watchdogs-gutted-misconduct-101505619.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-08-06",
+      "image": "https://s.yimg.com/lo/mysterio/api/7f839dcf91d944792f48f19bbe0d8032f91c1d7d344e1128e4ebf29a5b4ee00b/lightyear_networkapi/resizefill_w800_h533%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F0f83d2f1eb1056e51d1b4ffa862bdf49",
+      "category": "geopolitics"
+    },
+    {
+      "title": "FS KKR Capital Corp. Announces Second Quarter 2026 Results; Declares Third Quarter 2026 Distribution of $0.44 per share",
+      "description": "PHILADELPHIA and NEW YORK, Aug. 6, 2026 /PRNewswire/ -- FS KKR Capital Corp. (NYSE: FSK), or the Company, today announced its financial and operating results for the quarter ended June 30, 2026, and that its board of directors has declared a third quarter 202\u2026",
+      "url": "https://www.prnewswire.com/news-releases/fs-kkr-capital-corp-announces-second-quarter-2026-results-declares-third-quarter-2026-distribution-of-0-44-per-share-302844444.html",
       "source": "PRNewswire",
       "date": "2026-08-06",
-      "image": "https://mmx.prnewswire.com/media/MS1965151/20260806022223EDT_image_1.jpg?id=OA2830956&p=facebook",
-      "category": "currency"
-    },
-    {
-      "title": "KOSPI Plunges Nearly 5% as Chip Stock Selloff Triggers Trading Halt as SK Hynix and Samsung Tumble",
-      "description": "South Korea's KOSPI index fell 4.58% due to a semiconductor selloff, triggering a trading halt. The decline affected global markets, highlighting the volatility of Korean equities in 2026.",
-      "url": "https://www.ibtimes.com.au/kospi-index-plummets-semiconductor-selloff-1873643",
-      "source": "Ibtimes.com.au",
-      "date": "2026-08-06",
-      "image": "https://d.ibtimes.com.au/en/full/1895041/5-top-kospi-stocks-investors-are-watching-right-now.png",
+      "image": "https://mmx.prnewswire.com/media/MS654971/FS-KKR-Logo-v1.jpg?id=OA2829056&p=facebook",
       "category": "market"
     },
     {
-      "title": "'We're not here to beg for a seat': how Victoria Montgomery & Tamira Hamden built Women in Brand",
-      "description": "The founders of the branding world's fastest-growing sisterhood on impostor syndrome, a cheetah called Beyonc\u00e9, and why they stopped tiptoeing around their big idea and started shouting.\n\nPicture an ...",
-      "url": "https://www.creativeboom.com/insight/were-not-here-to-beg-for-a-seat-how-victoria-montgomery-and-tamira-hamden-built-women-in-brand/",
-      "source": "Creative Boom",
+      "title": "EPAM Reports Results for Second Quarter 2026",
+      "description": "Second quarter revenues of $1.415 billion, up 4.5% year-over-year Second quarter GAAP income from operations increased to 10.8% of revenues from 9.3%, and non-GAAP income from operations increased to 16.4% of revenues from 15.0%, on a year-over-year basis Sec\u2026",
+      "url": "https://www.prnewswire.com/news-releases/epam-reports-results-for-second-quarter-2026-302844570.html",
+      "source": "PRNewswire",
       "date": "2026-08-06",
-      "image": "https://www.creativeboom.com/upload/articles/4b/4b5dbdd92d999defaf0c57fae84d60adea14878d_800.jpg",
+      "image": "https://mmx.prnewswire.com/media/MS1964954/EOQ_Q2_Infographic_07_26_FINAL_HiRes.jpg?id=OA2828907&p=facebook",
       "category": "market"
     },
     {
-      "title": "Explained: How AI-led Kospi, Nikkei selloff sparked record 15% drawdown in Asian funds in July",
-      "description": "Asia\u2019s major multi-strategy funds suffered sharp July losses as an AI-linked stock selloff across Japan, South Korea and China erased much of their 2026 gains. Concerns over AI spending and Middle East tensions hit semiconductor stocks, with some funds losing\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/explained-how-ai-led-kospi-nikkei-selloff-sparked-record-15-drawdown-in-asian-funds-in-july/articleshow/132989783.cms",
-      "source": "The Times of India",
+      "title": "How Donald Trump Made the World Safe for Kleptocrats",
+      "description": "The first evidence of the sledgehammer the new Trump administration would take to America\u2019s anti-corruption policies came just two weeks into his second term. The new attorney general, Pam Bondi, unveiled a series of memos outlining the Department of Justice\u2019\u2026",
+      "url": "https://newrepublic.com/article/213948/donald-trump-made-world-safe-kleptocrats",
+      "source": "The New Republic",
       "date": "2026-08-06",
-      "image": "https://img.etimg.com/thumb/msid-132989783,width-1200,height-630,imgsize-2295311,overlay-etmarkets/articleshow.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "No high-tech lab, just bedroom experiments: How 17-year-old Hiten Dharpure built world's smallest robotic arm & made Guinness history",
-      "description": "Hiten Dharpure, a talented teenager from Nagpur, has made waves by achieving a Guinness World Record for his incredibly small robotic arm, measuring just 39.25 mm. This intricate device performs remarkably precise movements. In addition to this feat, Hiten al\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/no-high-tech-lab-just-bedroom-experiments-how-17-year-old-hiten-dharpure-built-worlds-smallest-robotic-arm-made-guinness-history/articleshow/132989087.cms",
-      "source": "The Times of India",
-      "date": "2026-08-06",
-      "image": "https://img.etimg.com/thumb/msid-132989371,width-1200,height-630,imgsize-81582,overlay-economictimes/articleshow.jpg",
+      "image": "https://images.newrepublic.com/3e54638adb538d9b9a136829379744fe69c1749c.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
       "category": "market"
     },
     {
-      "title": "Philippines to Launch RE Auction for Off-Grid Islands",
-      "description": "The Department of Energy expects to launch a Green Energy Auction next year to migrate off-grid island communities from diesel power to solar power supported with battery energy storage.",
-      "url": "https://www.rigzone.com/news/philippines_to_launch_re_auction_for_offgrid_islands-06-aug-2026-184308-article/",
-      "source": "Rigzone",
+      "title": "\u201cClosing a Detention Center Is Rarely a Single Strike. It\u2019s a Siege.\u201d",
+      "description": "The GOP\u2019s \u201cOne Big Beautiful Bill\u201d last year\nallocated $45 billion to Immigration and Customs Enforcement to build and\nrun camps to lock up immigrants\u2014potentially more than 100,000 people on any given day. From\nAlligator Alcatraz to the Speedway Slammer, ICE \u2026",
+      "url": "https://newrepublic.com/article/213448/closing-detention-center-rarely-single-strike-it-siege",
+      "source": "The New Republic",
       "date": "2026-08-06",
-      "image": "https://images.rigzone.com/images/news/articles/Philippines-to-Launch-RE-Auction-for-OffGrid-Islands-184308-1200x628.png",
+      "image": "https://images.newrepublic.com/3c77202afe9e18b4e959bf74256230794078e44b.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
       "category": "market"
-    },
-    {
-      "title": "Nintendo's fiscal first-quarter profit and revenue beat estimates, despite Switch 2 sales slump",
-      "description": "Nintendo reported fiscal first-quarter earnings Thursday.",
-      "url": "https://www.cnbc.com/2026/08/06/nintendo-first-quarter-earnings-switch2.html",
-      "source": "CNBC",
-      "date": "2026-08-06",
-      "image": "https://image.cnbcfm.com/api/v1/image/108345183-1785931998842-gettyimages-2264643860-SN_Nintendo7129.jpeg?v=1785932091&w=1920&h=1080",
-      "category": "market"
-    },
-    {
-      "title": "Nikkei Falls as AI Heavyweights Drag Market Lower",
-      "description": "Tokyo stocks diverged on August 6, with the Nikkei 225 closing at 65,683.26, down 617.18 points, or 0.93%, as selling in artificial intelligence and semiconductor-related heavyweights outweighed broad gains across the wider market. (News On Japan)",
-      "url": "https://newsonjapan.com/article/150271.php",
-      "source": "Newsonjapan.com",
-      "date": "2026-08-06",
-      "image": "https://i2.ytimg.com/vi/d1zeOhKRB0k/maxresdefault.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Grattan on Friday: The battle for Victoria will send important signals to federal players",
-      "description": "Victoria\u2019s election on November 28 has taken on a drama and significance we wouldn\u2019t have anticipated a year ago and will be watched closely by federal players.",
-      "url": "https://theconversation.com/grattan-on-friday-the-battle-for-victoria-will-send-important-signals-to-federal-players-288349",
-      "source": "The Conversation Africa",
-      "date": "2026-08-06",
-      "image": "https://images.theconversation.com/files/752461/original/file-20260806-50-ax186z.png?ixlib=rb-4.1.1&rect=345%2C0%2C2371%2C1184&q=45&auto=format&w=1356&h=668&fit=crop",
-      "category": "central_bank"
-    },
-    {
-      "title": "Education Department Approves First Workforce Pell Program",
-      "description": "The U.S. Department of Education approved its first Workforce Pell program, for training emergency medical technicians at Iowa Central Community College, according to a Tuesday announcement. Students can now access Pell Grants, federal financial aid for low-i\u2026",
-      "url": "https://www.insidehighered.com/news/quick-takes/2026/08/06/education-department-approves-first-workforce-pell-program",
-      "source": "Inside Higher Ed",
-      "date": "2026-08-06",
-      "image": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-03/GettyImages-1975117620%20%281%29.jpg?itok=iSuXVQCK",
-      "category": "central_bank"
-    },
-    {
-      "title": "Cassidy Eyes Final Push to Pass College Transparency Act",
-      "description": "Cassidy Eyes Final Push to Pass College Transparency Act\n\n \n\n\n \njessica.blake@\u2026\n\nThu, 08/06/2026 - 03:00 AM\n\nThe Louisiana Republican is trying to use his final months in office to turn it into law. But once again, he faces a steep climb.\n \n Byline(s)\r\n\n \n Je\u2026",
-      "url": "https://www.insidehighered.com/news/government/2026/08/06/cassidy-eyes-final-push-pass-college-transparency-act",
-      "source": "Inside Higher Ed",
-      "date": "2026-08-06",
-      "image": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-08/Bill_Cassidy_GettyImages-2288381894_edit.jpg?itok=V1USJf-8",
-      "category": "market"
-    },
-    {
-      "title": "Weak Dollar and Middle East Crisis Boosted Gold Prices to Record Heights \u2014 Expert",
-      "description": "Gold prices demonstrated the fastest single-day growth in the past six months, driven by easing tensions in the Middle East, a weakening US dollar, and a number of other factors, former Central Bank of Turkiye analyst Onur Dashdemir told Sputnik.",
-      "url": "https://sputnikglobe.com/20260806/weak-dollar-and-middle-east-crisis-boosted-gold-prices-to-record-heights--expert-1124543124.html",
-      "source": "Sputnikglobe.com",
-      "date": "2026-08-06",
-      "image": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1124543124.jpg?11175662591785999282",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Tax, gambling and migration fights ahead for Labor",
-      "description": "Parliament is yet to resume but the stage has been set for the political fights set to play out next week.",
-      "url": "https://www.abc.net.au/news/2026-08-06/tax-changes-gambling-inquiry-migration-parliament-winter-break/106999116",
-      "source": "ABC News (AU)",
-      "date": "2026-08-06",
-      "image": "https://live-production.wcms.abc-cdn.net.au/05870f2a8fb9f1fb9d1088a56db598d5?impolicy=wcms_watermark_news&cropH=900&cropW=1600&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-      "category": "market"
-    },
-    {
-      "title": "Federal Court Rules NFA Registration for Suppressors and Short-Barreled Firearms Unconstitutional",
-      "description": "A federal judge in Texas ruled Wednesday, Aug. 5, that the National Firearms Act\u2019s (NFA) registration and approval requirements for suppressors, short-barreled rifles and short-barreled shotguns are unconstitutional. U.S. District Court Judge James Wesley Hen\u2026",
-      "url": "https://www.naturalnews.com/2026-08-06-nfa-registration-suppressors-short-barreled-firearms-unconstitutional.html",
-      "source": "Naturalnews.com",
-      "date": "2026-08-06",
-      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/national-firearms-act-nfa-registration-suppressors-3194-original.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "China Imposes Drone Export Controls, Sanctions U.S. Entities in Trade Countermeasures",
-      "description": "China\u2019s Ministry of Commerce (MOFCOM) announced on Wednesday, Aug. 5, that exports of drones, drone components and related dual-use technologies to the United States will face \u201cstricter case-by-case review,\u201d according to a ministry statement [1]. The controls\u2026",
-      "url": "https://www.naturalnews.com/2026-08-06-china-imposes-drone-export-controls-sanctions-us-entities.html",
-      "source": "Naturalnews.com",
-      "date": "2026-08-06",
-      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/drone-export-controls-china-sanctions-us-entities-3199-original.jpg",
-      "category": "geopolitics"
     }
   ],
   "history": [
@@ -468,15 +468,15 @@
     {
       "date": "2026-08-07",
       "week": "2026-W32",
-      "gold_10g": 131269.13,
-      "silver_kg": 195194.7,
-      "platinum_g": 5384.76,
-      "gold_usd_oz": 4285.86,
-      "silver_usd_oz": 63.73,
-      "platinum_usd_oz": 1758.1
+      "gold_10g": 132093.18,
+      "silver_kg": 197037.0,
+      "platinum_g": 5425.48,
+      "gold_usd_oz": 4312.77,
+      "silver_usd_oz": 64.33,
+      "platinum_usd_oz": 1771.39
     }
   ],
-  "timestamp": "2026-08-07T13:20:36.181098+05:30",
+  "timestamp": "2026-08-07T15:54:44.416525+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
