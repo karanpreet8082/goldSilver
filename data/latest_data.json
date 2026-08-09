@@ -54,7 +54,7 @@
         "hold": 25
       },
       "summary": "Gold is showing positive signals. Strong daily gain of 2.4%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-09T10:03:55.873625",
+      "timestamp": "2026-08-09T13:32:18.767842",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 25
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 3.4%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-09T10:03:55.947562",
+      "timestamp": "2026-08-09T13:32:18.871424",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 25
       },
       "summary": "Platinum is showing positive signals. Strong daily gain of 1.4%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-09T10:03:56.026348",
+      "timestamp": "2026-08-09T13:32:18.975118",
       "source": "rule-based"
     }
   },
@@ -134,6 +134,15 @@
   },
   "news": [
     {
+      "title": "Is 'Trumpflation' real? Why Wall Street fears this could be a reason for stock market crash",
+      "description": "Wall Street's record rally faces a new test as 'Trumpflation' concerns grow alongside AI-driven pricing pressures. Sticky core PCE inflation at 3.3% and rising Treasury yields raise fears that the Federal Reserve could hold interest rates higher for longer or hike rates, threatening high equity valu",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/is-trumpflation-real-why-wall-street-fears-this-could-be-a-reason-for-stock-market-crash/articleshow/133066108.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-08-09",
+      "image": "",
+      "category": "central_bank"
+    },
+    {
       "title": "$20 billion bet: Where is Warren Buffett's successor spending Berkshire's cash pile after 14 quarters?",
       "description": "Berkshire Hathaway became a net buyer of equities for the first time in 14 quarters under new CEO Greg Abel, spending nearly $20 billion on net stock purchases and $4.5 billion on share buybacks in Q2. Alphabet entered its top five holdings alongside Apple, American Express, Coca-Cola and Bank of Am",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/20-billion-bet-where-is-warren-buffetts-successor-spending-berkshires-cash-pile-after-14-quarters/articleshow/133063236.cms",
@@ -143,75 +152,84 @@
       "category": "geopolitics"
     },
     {
-      "title": "Q1 Results Tracker: Tata Motors, Vodafone Idea among 2,045 companies set to announce earnings this week",
-      "description": "Goldman Sachs expects the Nifty 50 to rebound to 26,500 by June 2027, above its current record high, as India\u2019s macro backdrop improves. Lower commodity prices, a stable currency, resilient domestic growth and better earnings prospects are supporting its bullish view. The brokerage expects a shift t",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/q1-results-tracker-tata-motors-vodafone-idea-among-2045-companies-set-to-announce-earnings-this-week/articleshow/133062827.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-08-09",
-      "image": "",
-      "category": "geopolitics"
-    },
-    {
-      "title": "The Color Recession May Be Permanent",
-      "description": "Consumers are so afraid of getting colors wrong, they don\u2019t use them at all.",
-      "url": "https://www.theatlantic.com/ideas/2026/08/colorless-gray-products-houses/688174/",
-      "source": "The Atlantic",
+      "title": "The US says it has a Bitcoin reserve, but nobody can agree on how much it owns",
+      "description": "On March 6, 2025, President Donald Trump signed an executive order creating the Strategic Bitcoin Reserve, and most of the attention went straight to the grand idea: America had built a digital Fort Knox, the government would stop selling Bitcoin, and Washing\u2026",
+      "url": "https://cryptoslate.com/the-us-says-it-has-a-bitcoin-reserve-but-nobody-can-agree-on-how-much-it-owns/",
+      "source": "CryptoSlate",
       "date": "2026-08-08",
-      "image": "https://cdn.theatlantic.com/thumbor/DJ9JJciYh6gVJkjtR-4k05xuS5w=/0x74:1800x1012/1200x625/media/img/mt/2026/08/2026_04_17_colors_mpg_landscape/original.gif",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-reserve-legal-ownership-balance-scale.jpg",
       "category": "market"
     },
     {
-      "title": "10 personal finance rules to build wealth, reduce risks and create a financially secure future",
-      "description": "Check out the 10 essential personal finance rules every Indian should follow to build wealth, manage taxes, reduce debt, invest through SIPs, and secure financial stability with insurance, emergency savings and disciplined investing for long-term financial su\u2026",
-      "url": "https://www.livemint.com/money/personal-finance/10-personal-finance-rules-to-build-wealth-reduce-risks-and-create-a-financially-secure-future-11785658206263.html",
-      "source": "Livemint",
+      "title": "Iamgold Q2 Earnings Call Highlights",
+      "description": "Iamgold (NYSE:IAG) reported second-quarter gold production of 188,100 ounces attributable to the company, bringing first-half output to 371,700 ounces and ke...",
+      "url": "https://www.marketbeat.com/instant-alerts/iamgold-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+      "source": "MarketBeat",
       "date": "2026-08-08",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/02/1600x900/logo/magic_of_compounding_1767029245971_1767029443556_1785658817137_7a93de6d-8b62-4ded-91ab-beed315b21e1.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Bank of America says the midterm elections could be a major turning point for the stock market",
-      "description": "Bank of America said voters' concerns about the K-shaped economy could cause an upheaval in markets this fall.",
-      "url": "https://www.businessinsider.com/stock-market-outlook-bofa-selloff-bond-yields-midterm-elections-2026-8#article",
-      "source": "Business Insider",
-      "date": "2026-08-08",
-      "image": "https://i.insider.com/6a75f0010c0bf4e8be522a94?width=1200&format=jpeg",
-      "category": "market"
-    },
-    {
-      "title": "Army Officially Opens New Idaho Plant to Help End US Reliance on Foreign Antimony",
-      "description": "The plant will develop a domestic supply of antimony to reduce U.S. dependence on China, Russia and Tajikistan, which dominate the world's supply.",
-      "url": "https://military.com/army-officially-opens-new-idaho-plant-to-help-end-us-reliance-on-foreign-antimony",
-      "source": "Military.com",
-      "date": "2026-08-08",
-      "image": "https://static0.mltimages.com/wordpresshttps://static0.mltimages.com/wordpress/wp-content/uploads/2026/08/img_6775.png?w=1200&h=675&fit=crop",
+      "image": "https://s.yimg.com/lo/mysterio/api/7E44AF424440E09BD2894E7B78BF540DE8BA627292570204DF33C84B516BC6CE/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmarketbeat_955%2F1d95b7652c411008ef2423c1030ba956",
       "category": "supply_demand"
     },
     {
-      "title": "Yen intervention lays bare the dangers of monetary experiments",
-      "description": "Tokyo and Washington\u2019s desire to maintain stability may be creating long-term danger",
-      "url": "https://www.irishtimes.com/business/markets/2026/08/08/yen-intervention-lays-bare-the-dangers-of-monetary-experiments/",
-      "source": "The Irish Times",
+      "title": "Marquis Holdings Appoints Veteran Canadian Mining Executive John Hick as Senior Adviser",
+      "description": "Appointment strengthens Marquis's international capital markets, governance and mining M&A capabilities as the Group advances Project Atlantic....",
+      "url": "https://www.globenewswire.com/news-release/2026/08/08/3341456/0/en/marquis-holdings-appoints-veteran-canadian-mining-executive-john-hick-as-senior-adviser.html",
+      "source": "GlobeNewswire",
       "date": "2026-08-08",
-      "image": "https://www.irishtimes.com/resizer/v2/3RSWXSQXPYZLGJC76OXCGDIH2M.jpg?smart=true&auth=ff682c40346faa636494ba7882d6ecba3d54a543c53ba40f0b854fa46bf7fefd&width=1200&height=630",
+      "image": "https://ml.globenewswire.com/Resource/Download/33401dcf-35fa-45b1-92db-766e8baf4c24",
+      "category": "supply_demand"
+    },
+    {
+      "title": "This refurbished MacBook Air is down to just $270",
+      "description": "A portable laptop fit for browsing, streaming, and media editing.\nThe post This refurbished MacBook Air is down to just $270 appeared first on Popular Science.",
+      "url": "https://www.popsci.com/sponsored-content/this-refurbished-macbook-air-2018-is-on-sale-sponsored-deal/",
+      "source": "Popular Science",
+      "date": "2026-08-08",
+      "image": "https://www.popsci.com/wp-content/uploads/2026/08/image_c8b8e2.jpeg?quality=85&w=1200",
       "category": "central_bank"
     },
     {
-      "title": "Gold prices jump 7% to log best weekly gain in 8 months. Start of another yellow metal bull run?",
-      "description": "Gold prices surged 7% this week, marking their strongest weekly gain in eight months as falling crude prices, weak US jobs data and resilient central bank demand boosted the metal\u2019s appeal. With geopolitical risks and rate-cut hopes providing further support,\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-jump-7-to-log-best-weekly-gain-in-8-months-start-of-another-yellow-metal-bull-run/articleshow/133046536.cms",
-      "source": "The Times of India",
+      "title": "En Banc DC Circuit Reinstates Funding Of The Most Corrupt Program Ever Enacted",
+      "description": "I recognize that there could be many contenders for the title of the \u201cMost Corrupt Program Ever Enacted.\u201d However, I challenge any reader, or anyone else for that matter, to name any program in the vast federal handout universe more corrupt that the so-called\u2026",
+      "url": "https://freerepublic.com/focus/f-chat/4391076/posts",
+      "source": "Freerepublic.com",
       "date": "2026-08-08",
-      "image": "https://img.etimg.com/thumb/msid-133046556,width-1200,height-630,imgsize-210138,overlay-etmarkets/articleshow.jpg",
+      "image": null,
+      "category": "central_bank"
+    },
+    {
+      "title": "Robert Kiyosaki warned Americans who own 401(k)s that the US could be on the brink of \u2018Great Depression.\u2019 Prepare now",
+      "description": "Here's why he thinks the economy is headed for trouble and what to invest in instead.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/robert-kiyosaki-warned-americans-own-113000295.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-08-08",
+      "image": "https://s.yimg.com/lo/mysterio/api/D23CAB20C5AE34B3FE585BA513288CAA506269F5F6C0D254D079634D05C0697B/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2F1d41f288ebe9dde301ad35746e461102",
       "category": "geopolitics"
     },
     {
-      "title": "Trump administration to invest $3 billion in minerals projects to boost US defense supply chains",
-      "description": "By Jarrett Renshaw and Ernest Scheyder WASHINGTON, Aug 7 (Reuters) - The U.S. government will invest $3 billion in critical minerals and battery projects as...",
-      "url": "https://www.yahoo.com/news/articles/trump-host-mining-ceos-administration-100449126.html",
+      "title": "The AI boom ripples into regional banks as lending picks up",
+      "description": "Regional banks are getting a boost as the AI gold rush spills out beyond Wall Street.",
+      "url": "https://finance.yahoo.com/markets/article/the-ai-boom-ripples-into-regional-banks-as-lending-picks-up-112917906.html",
       "source": "Yahoo Entertainment",
       "date": "2026-08-08",
-      "image": "https://s.yimg.com/lo/mysterio/api/0394db67788b9782aa62e404d5c307e56408e17860d0efa6a960ffd5a7e56b48/lightyear_networkapi/resizefill_w800_h534%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F855ac9014f65dc5ffcd924f506d12998",
+      "image": "https://s.yimg.com/lo/mysterio/api/D7FE8AD822D137917795ACF9DEA1061FBD4E379982D63BA5656923A38CE1860B/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-09%2F7d56e540-8cc8-11f0-b7fe-0a0ae59fdcea",
+      "category": "metals"
+    },
+    {
+      "title": "US wages plummet to 43% of national income \u2014 lowest since the Great Depression. Did Nixon\u2019s gold breakup kill paychecks?",
+      "description": "Despite the change, gold is still an American favorite.",
+      "url": "https://finance.yahoo.com/economy/articles/us-wages-plummet-43-national-104500200.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-08-08",
+      "image": "https://s.yimg.com/lo/mysterio/api/B06EB9F8A942C38F7D692CAAB0196BB7A9DFC6AC2DE25E45B6F79F171C6E09EE/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2F09a83d7068535fc71ad0c623f061e4ed",
+      "category": "metals"
+    },
+    {
+      "title": "Hecla Mining Q2 Earnings Call Highlights",
+      "description": "Hecla Mining (NYSE:HL) reported second-quarter results marked by strong cash generation, record site-level free cash flow at Greens Creek and Lucky Friday, a...",
+      "url": "https://www.marketbeat.com/instant-alerts/hecla-mining-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+      "source": "MarketBeat",
+      "date": "2026-08-08",
+      "image": "https://s.yimg.com/lo/mysterio/api/70CE91D72177A022C2811D6186BD3335E021DFE73160F1150861E0ADCDF9BBEE/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmarketbeat_955%2F60621e1a9c23d3192b78a6704392045d",
       "category": "supply_demand"
     },
     {
@@ -233,130 +251,139 @@
       "category": "market"
     },
     {
-      "title": "'Formula 1 CEO claims fans are \"Loving\" the 2026 car regulations'",
-      "description": "Stefano Domenicali claimed that viewers enjoy the amount of on-track action the new regulations have brought to Formula 1 and don't care about the technical details behind it. In the latest episode of GPblog's F1 Paddock Update, Ben Hunt and Jim Kimberley dis\u2026",
-      "url": "https://www.gpblog.com/en/videos/formula-1-ceo-claims-fans-are-loving-the-2026-car-regulations",
-      "source": "GPblog.com",
-      "date": "2026-08-08",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "Germany news: Trucking rules eased as rivers run low",
-      "description": "Several states will let trucks use motorways on Sundays and holidays as freight shipping is hampered by low water levels. The body of a German sailor missing for days has been found in the southern Aegean. DW has more. Germany's main industrial association we\u2026",
-      "url": "https://www.dw.com/en/germany-news-trucking-rules-eased-as-rivers-run-low/live-78287439",
+      "title": "War, terror, diplomacy: What if Israel takes Al-Aqsa Mosque?",
+      "description": "Reports from Jerusalem suggest that Israeli authorities are taking over one of Islam's holiest sites, the Al-Aqsa Mosque. If they do, experts say anything could happen, from war to terrorism to ending diplomatic ties. Israeli infringements on one of Islam's h\u2026",
+      "url": "https://www.dw.com/en/war-terror-diplomacy-what-if-israel-takes-al-aqsa-mosque/a-78284016",
       "source": "DW (English)",
       "date": "2026-08-08",
-      "image": "https://static.dw.com/image/60216634_6.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Opinion: Alberta is ground zero for Canada\u2019s 10-year investment crisis",
-      "description": "The decline in investment wasn't even across Canada. The Trudeau government's climate policies hit energy-producing provinces hard. Read on",
-      "url": "https://financialpost.com/opinion/opinion-alberta-is-ground-zero-for-canadas-10-year-investment-crisis",
-      "source": "Financial Post",
-      "date": "2026-08-08",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/08/0806-mg-energy-provinces.jpeg",
-      "category": "market"
-    },
-    {
-      "title": "William Watson: We need wakes for policies that fail",
-      "description": "Modern politics is all about announcements and ribbon-cutting. We need a way to get people excited about ending programs that don't work",
-      "url": "https://financialpost.com/opinion/william-watson-we-need-wakes-for-policies-that-fail",
-      "source": "Financial Post",
-      "date": "2026-08-08",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/08/0807-bc-bridge-.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Just How Bad Are AI Data Centers for Your Local Water?",
-      "description": "Communities say AI is draining their water supplies, but the tech industry begs to differ. Gizmodo asked experts for their honest assessments.",
-      "url": "https://gizmodo.com/just-how-bad-are-ai-data-centers-for-your-local-water-2000795372",
-      "source": "Gizmodo.com",
-      "date": "2026-08-08",
-      "image": "https://gizmodo.com/app/uploads/2026/08/data-center-protest-sign-1-1200x675.jpg",
-      "category": "market"
-    },
-    {
-      "title": "What is the Trump Administration doing with foreign aid money?",
-      "description": "One proposal from the Trump administration suggested funding research on crime against Afrikaners in South Africa",
-      "url": "https://www.salon.com/2026/08/08/what-is-the-trump-administration-doing-with-foreign-aid-money-partner/",
-      "source": "Salon",
-      "date": "2026-08-08",
-      "image": "https://www.salon.com/app/uploads/2025/05/ramaphosa-trump-2216313099.jpg",
-      "category": "market"
-    },
-    {
-      "title": "alancode added to PyPI",
-      "description": "Alan Code \u2014 an open-source python agent inspired by Claude Code",
-      "url": "https://pypi.org/project/alancode/",
-      "source": "Pypi.org",
-      "date": "2026-08-08",
-      "image": "https://pypi.org/static/images/twitter.abaf4b19.webp",
-      "category": "market"
-    },
-    {
-      "title": "The Agricultural And Environmental Toll Of Russia\u2019s War In Ukraine",
-      "description": "Russia\u2019s ongoing full-scale invasion has damaged Ukraine\u2019s agricultural sector and caused over $57 billion in environmental harm. Now, Ukraine is seeking accountability.",
-      "url": "https://www.forbes.com/sites/marktemnycky/2026/08/08/the-agricultural-and-environmental-toll-of-russias-war-in-ukraine/",
-      "source": "Forbes",
-      "date": "2026-08-08",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a738165c44b6581ee2c6698/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "image": "https://static.dw.com/image/78284098_6.jpg",
       "category": "geopolitics"
     },
     {
-      "title": "Federal funds can't be used to give test strips to drug users, raising overdose fears",
-      "description": "Drug addiction groups are reeling after Trump officials said federal grants cannot be used to hand out test strips to drug users. The strips help users check street drugs for dangerous adulterants.",
-      "url": "https://www.npr.org/2026/08/08/nx-s1-5874719/federal-funds-cant-be-used-to-give-test-strips-to-drug-users-raising-overdose-fears",
-      "source": "NPR",
+      "title": "California may win chip race while losing productivity one - Asia Times",
+      "description": "Silicon Valley built its reputation by making transistors smaller and smaller. For decades, each shrink delivered a predictable payoff: faster computers,",
+      "url": "https://asiatimes.com/2026/08/california-may-win-chip-race-while-losing-productivity-one/",
+      "source": "Asia Times",
       "date": "2026-08-08",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3942x2217+0+300/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd3%2F03%2F643edfe14201b5f889af4c1a2c2f%2Fap18239710997115.jpg",
+      "image": "https://asiatimes.com/wp-content/uploads/2026/08/Microchip.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Bitcoin will never fall below $60K again: Nansen founder",
+      "description": "Crypto is growing up thanks to trading in real world assets, and Bitcoin will never dip below $60K again, says Nansen founder founder Alex Svanevik.",
+      "url": "https://cointelegraph.com/magazine/bitcoin-will-never-fall-below-60k-again-nansen-founder",
+      "source": "Cointelegraph",
+      "date": "2026-08-08",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/alex-svanevik-interview.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Could Copper\u2019s Tariff-Driven Rally Be Running Out of Steam?",
+      "description": "Copper prices have surged to near-record levels as markets continue to price in the possibility of new U. S.",
+      "url": "https://investorshub.advfn.com/market-news/article/33783/could-coppers-tariff-driven-rally-be-running-out-of-steam",
+      "source": "Advfn.com",
+      "date": "2026-08-08",
+      "image": "https://s.yimg.com/lo/mysterio/api/DB64A6E6C5B9510A9FC666607DAA96E0A811D0AC9D395737FB371A2AB5ADFAC0/subgraphmysterio/resizefill_w1200_h659;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finvestorshub_458%2Fe052b3182d700cd3ec3047db2d54de1d",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Russian drone hunts, taunts street vendor in Ukraine\u2019s \u2018human safari zone\u2019 in disturbing video",
+      "description": "Terrifying footage shows a Russian drone hunting a street vendor in Ukraine \u2013 as Moscow intensifies its drone and missile attacks against the country. The nerve-wracking video, which has sparked allegations of war crimes from Ukrainian officials, shows a vege\u2026",
+      "url": "https://freerepublic.com/focus/f-news/4391089/posts",
+      "source": "Freerepublic.com",
+      "date": "2026-08-08",
+      "image": null,
+      "category": "geopolitics"
+    },
+    {
+      "title": "Jorge Messi, Lionel\u2019s father and lifelong, unconditional supporter of the Argentine national team\u2019s hero, dies at 68",
+      "description": "Find out who Jorge Messi is\u2014Lionel Messi\u2019s father, who passed away in Argentina\u2014and how he managed the soccer player\u2019s career from Rosario to his rise as a global soccer star.",
+      "url": "https://www.lanacion.com.ar/usa/jorge-messi-lionels-father-and-lifelong-unconditional-supporter-of-the-argentine-national-teams-hero-nid08082026/",
+      "source": "La Nacion",
+      "date": "2026-08-08",
+      "image": "https://www.lanacion.com.ar/resizer/v2/jorge-messi-played-a-key-role-in-lionels-transfer-4KZYVCJ7AZCWTN2ZNKCQZKZRCA.jpg?auth=33fdace3023725fa5c417dff8408ca65246e7478cea57ae2a050a6e1f417f402&width=1200&height=800&quality=70&smart=true",
+      "category": "market"
+    },
+    {
+      "title": "Iran seizes vessel, another ship hit amid Strait of Hormuz tensions",
+      "description": "Heightened tensions in the Strait of Hormuz could lead to geopolitical shifts, impacting global oil markets and increasing foreign intervention risks.\nThe post Iran seizes vessel, another ship hit amid Strait of Hormuz tensions appeared first on Crypto Briefi\u2026",
+      "url": "https://cryptobriefing.com/iran-seizes-vessel-another-ship-hit-amid-strait-of-hormuz-tensions/",
+      "source": "Crypto Briefing",
+      "date": "2026-08-08",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/08092205/vessels-anchored-at-the-strait-of-hormuz-2-1-800x420.jpeg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "PLAB Investors Have Opportunity to Lead Photronics, Inc. Securities Fraud Lawsuit",
+      "description": "NEW YORK, Aug. 8, 2026 /PRNewswire/ -- Why: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Photronics, Inc. (NASDAQ: PLAB) between December 10, 2025 and May 27, 2026, inclusive (the \"Class Period\"), of the important Sep\u2026",
+      "url": "https://www.prnewswire.com/news-releases/plab-investors-have-opportunity-to-lead-photronics-inc-securities-fraud-lawsuit-302846273.html",
+      "source": "PRNewswire",
+      "date": "2026-08-08",
+      "image": "https://mmx.prnewswire.com/media/MS1118010/Rosen-Law-Firm-Logo.jpg?id=OA2839263&p=facebook",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Why One Top Economist Says the Fed\u2019s Inflation Fight Can\u2019t Be Won With Rate Hikes",
+      "description": "Wells Fargo economist Tom Porcelli rejects the case for a 2026 Fed rate hike, as market bets remain elevated and inflation remains sticky.",
+      "url": "https://beincrypto.com/wells-fargo-economist-fed-rate-hike/",
+      "source": "BeInCrypto",
+      "date": "2026-08-08",
+      "image": "https://s.yimg.com/lo/mysterio/api/6B70CD3ACFABC7CB3BD78B3BF737EFF48014FC69C7766A7D1C54CB650FF904F2/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Fd3a10fbd9827218373e9b5f05e1d0948",
       "category": "central_bank"
     },
     {
-      "title": "Australian bishops warn against rising antisemitism in message on social division",
-      "description": "Bishops in Australia sound alarm over antisemitism, Canada\u2019s military bishop expresses concern over latest prayer restrictions, and more in this week\u2019s roundup of Catholic world news.",
-      "url": "https://www.ewtnnews.com/world/us/australian-bishops-warn-against-rising-antisemitism-in-message-on-social-division",
-      "source": "Ewtnnews.com",
+      "title": "Arizona ACA Health Insurance Rate Increase 2027: 25% Average Request",
+      "description": "Arizona ACA health insurers are seeking average rate hikes of 25% for 2027, with Oscar Health topping 33%. Explore the underlying actuarial drivers, carrier breakdowns, and key deadlines.",
+      "url": "https://thenextcoverage.com/arizona-aca-rate-hikes-2027-insurers-request-25-percent-increase/",
+      "source": "Thenextcoverage.com",
       "date": "2026-08-08",
-      "image": "https://res.cloudinary.com/ewtn/image/upload/c_fill,g_auto,w_1200,h_630/v1786138720/ewtn-news/en/BondiBeachMemorial080726_whzd09.jpg",
-      "category": "geopolitics"
+      "image": "https://thenextcoverage.com/wp-content/uploads/2026/08/health-insurance-premium-calculator-coverage-costs.webp",
+      "category": "central_bank"
     },
     {
-      "title": "Trump Thinks He Can Defy the Supremes on Birthright Citizenship",
-      "description": "The White House appears to think that it can ignore a Supreme Court ruling by lying about its previous defeat and trying to achieve the same goal another way.President Donald Trump issued an executive order on Thursday that purported to narrow the scope of bi\u2026",
-      "url": "https://newrepublic.com/article/214115/trump-supreme-court-birthright-citizenship",
-      "source": "The New Republic",
+      "title": "Using AI to write complaint letters? Here's why it doesn't work",
+      "description": "When travelers use AI to help write complaints to airlines, hotels and cruise lines, their efforts go off the rails. Here's what not to do.",
+      "url": "https://thepointsguy.com/news/ai-complaint-letter-fails/",
+      "source": "The Points Guy",
       "date": "2026-08-08",
-      "image": "https://images.newrepublic.com/7e0fa6b9dc579f80f3d63ff66dd64ac7fd84e676.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "image": "https://runway-media-production.global.ssl.fastly.net/us/originals/2024/06/Frustrated-person-using-computer-while-working-in-office-at-home_FreshSplash.jpg",
       "category": "market"
     },
     {
-      "title": "History Made, Future Beckons:\u00a0How Oloyede\u2019s stewardship redefined JAMB, restored public trust",
-      "description": "At JAMB\u2019s National Headquarters in Bwari, Abuja, Prof. Oloyede described the occasion as both a moment of gratitude and reflection\nThe post History Made, Future Beckons:\u00a0How Oloyede\u2019s stewardship redefined JAMB, restored public trust appeared first on Vanguar\u2026",
-      "url": "https://www.vanguardngr.com/2026/08/history-made-future-beckons-how-oloyedes-stewardship-redefined-jamb-restored-public-trust/",
+      "title": "Trump is blocking billions of dollars of grants that would fix the\u00a0grid",
+      "description": "The Department of Energy has canceled or stalled funding for thousands of projects that would improve the country\u2019s stressed grid \u2014 and not just in blue states.",
+      "url": "https://grist.org/energy/trump-is-blocking-billions-of-dollars-of-grants-that-would-fix-the-grid/",
+      "source": "Grist",
+      "date": "2026-08-08",
+      "image": "https://grist.org/wp-content/uploads/2026/08/ChrisWright.jpg",
+      "category": "currency"
+    },
+    {
+      "title": "The U.S. Somehow Lost Jobs Last Month While the Unemployment Rate Fell",
+      "description": "Since 2007, Jezebel has been the Internet's most treasured source for everything celebrities, sex, and politics...with teeth.",
+      "url": "https://www.jezebel.com/strange-jobs-report-reveals-the-u-s-lost-jobs-last-month-while-the-unemployment-rate-fell",
+      "source": "Jezebel",
+      "date": "2026-08-08",
+      "image": "https://img.pastemagazine.com/wp-content/suploads/2025/06/main-Now-Hiring-Sign-May-Jobs-report.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Mother, son trek from Toronto to Ottawa to urge program extension for Turkish, Syrian immigrants",
+      "description": "As the clock ticks down on a temporary program that brought a wave of Turkish and Syrian people to Canada after a deadly earthquake, a mother and her son have embarked on a weeks-long journey to press Ottawa for an extension for those stuck in what they call \u2026",
+      "url": "https://www.cbc.ca/news/canada/toronto/toronto-ottawa-protest-march-turkey-syria-temporary-immigration-program-9.7300598",
+      "source": "CBC News",
+      "date": "2026-08-08",
+      "image": "https://i.cbc.ca/ais/b2f37ba1-4c68-427b-9170-1eb8855683ba,1786192009061/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C317%2C2048%2C1152%29%3BResize%3D620",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Osun 2026: Strengths and weaknesses of Adeleke, Oyebamiji, Salaam as voters head to polls",
+      "description": "Although Adeleke is incumbent, his two main challengers are far from newcomers in Osun politics. Both possess extensive political histories\nThe post Osun 2026: Strengths and weaknesses of Adeleke, Oyebamiji, Salaam as voters head to polls appeared first on Va\u2026",
+      "url": "https://www.vanguardngr.com/2026/08/osun-2026-strengths-and-weaknesses-of-adeleke-oyebamiji-salaam-as-voters-head-to-polls/",
       "source": "Vanguard",
       "date": "2026-08-08",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2023/05/JAMB-boss.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "GrayMatter Robotics CEO: The FCC was right to ban Chinese robots. But protection alone won\u2019t win the robotics race",
-      "description": "The Federal Communications Commission\u2019s decision to restrict new Chinese-made humanoid and advanced mobile robots marks one of the most significant industrial policy decisions the United States has taken in years.\nIt reflects a growing recognition that roboti\u2026",
-      "url": "https://biztoc.com/x/dfd5c709b8733878",
-      "source": "Biztoc.com",
-      "date": "2026-08-08",
-      "image": "https://biztoc.com/cdn/dfd5c709b8733878_s.webp",
-      "category": "central_bank"
-    },
-    {
-      "title": "US announces $400m investment in Australian rare earth mine",
-      "description": "Deal aims to secure scandium supply as China restricts exports for defence products.",
-      "url": "https://www.aljazeera.com/news/2026/8/8/us-announces-400m-investment-in-australian-rare-earth-mine",
-      "source": "Al Jazeera English",
-      "date": "2026-08-08",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a76e6cd26-1786177229.jpg?resize=1920%2C1440",
-      "category": "supply_demand"
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/04/oyebamiji-and-adeleke.jpg",
+      "category": "market"
     },
     {
       "title": "Platinum\u2019s Changing Investment Story: Deficits, Geopolitics and New Sources of Demand | by Money Metals | Aug, 2026 - Medium",
@@ -374,33 +401,6 @@
       "source": "Yahoo Entertainment",
       "date": "2026-08-07",
       "image": "https://s.yimg.com/lo/mysterio/api/BBF0F4DE198A83EA492E410D03F7C45CEF68660145D7750853BCE16304FDAB9B/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2Fa1e8770cad500978d9a0e03e395fbb1e",
-      "category": "central_bank"
-    },
-    {
-      "title": "Gold hits seven-week high as weak U.S. jobs data dents rate hike bets",
-      "description": "Gold prices reached a seven-week high on Friday owing to surprising job losses in the United States that lowered the likelihood of upcoming rate hikes. This trend puts gold on track for its best weekly gain in seven months, as reduced interest rates boost its\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-hits-seven-week-high-as-weak-u-s-jobs-data-dents-rate-hike-bets/articleshow/133037877.cms",
-      "source": "The Times of India",
-      "date": "2026-08-07",
-      "image": "https://img.etimg.com/thumb/msid-133037892,width-1200,height-630,imgsize-95614,overlay-etmarkets/articleshow.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "The Four Way Squeeze",
-      "description": "\u201c. . . it\u2019s subversion and nothing about it is accidental. it\u2019s a well worn playbook to use the democratic institutions of a high trust state to destroy a civilization.\u201d \u2014El Gato Malo on Substack",
-      "url": "https://www.kunstler.com/p/the-four-way-squeeze",
-      "source": "Kunstler.com",
-      "date": "2026-08-07",
-      "image": "https://substackcdn.com/image/fetch/$s_!O6R8!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd83b5eec-36f0-496e-b95d-9df13643e4ab_660x372.heic",
-      "category": "market"
-    },
-    {
-      "title": "U.S. unexpectedly shed 23,000 jobs in July, putting Fed rate hikes in question",
-      "description": "The chances of a Federal Reserve rate hike at its next meeting in September have slipped below 50% in the aftermath of the report.",
-      "url": "https://www.coindesk.com/markets/2026/08/07/the-u-s-lost-23-000-jobs-in-july-far-shy-of-forecasts-for-a-gain-of-80-000",
-      "source": "CoinDesk",
-      "date": "2026-08-07",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/802ff63bb41cf1a48be506ef0f8579ae4fffea87-1920x1040.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
       "category": "central_bank"
     }
   ],
@@ -476,7 +476,7 @@
       "platinum_usd_oz": 1750.12
     }
   ],
-  "timestamp": "2026-08-09T15:33:56.040605+05:30",
+  "timestamp": "2026-08-09T19:02:18.987741+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
