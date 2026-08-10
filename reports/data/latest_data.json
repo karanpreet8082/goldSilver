@@ -54,7 +54,7 @@
         "hold": 25
       },
       "summary": "Gold is showing positive signals. Strong daily gain of 2.4%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-10T05:02:34.138918",
+      "timestamp": "2026-08-10T08:12:26.753727",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 25
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 3.4%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-10T05:02:34.222200",
+      "timestamp": "2026-08-10T08:12:26.843226",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 25
       },
       "summary": "Platinum is showing positive signals. Strong daily gain of 1.4%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-10T05:02:34.303578",
+      "timestamp": "2026-08-10T08:12:26.928980",
       "source": "rule-based"
     }
   },
@@ -134,40 +134,76 @@
   },
   "news": [
     {
-      "title": "Sky Gold and Diamonds shares rally 10% after Q1 profit soars 141% YoY, revenue rises 78%",
-      "description": "Sky Gold and Diamonds shares surged after the jewellery manufacturer reported strong Q1 FY27 results, with revenue rising 78% and net profit jumping 141% YoY. The stock is also up sharply over the past year, while rising FII and mutual fund holdings add to investor interest.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sky-gold-and-diamonds-shares-rally-10-after-q1-profit-soars-141-yoy-revenue-rises-78/articleshow/133083710.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-08-10",
-      "image": "",
-      "category": "metals"
-    },
-    {
-      "title": "Rupee falls 8 paise to 95.25 against US dollar in early trade",
-      "description": "The rupee has fallen eight paise to 95.25 versus the US dollar as of Monday, influenced by a strengthening dollar and surging global crude oil costs. Despite this, foreign institutional investor inflows and solid forex reserves have provided crucial backing. Exporters might take advantage of price r",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-falls-8-paise-to-95-25-against-us-dollar-in-early-trade/articleshow/133082110.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-08-10",
-      "image": "",
-      "category": "currency"
-    },
-    {
-      "title": "Silver climbs Rs 2,100/kg, but gold prices fall as focus shifts to inflation data amid Iran war. Key levels to track",
-      "description": "Gold and silver prices traded mixed on the MCX, with silver extending gains while gold edged lower as investors booked profits after last week\u2019s sharp rally. Focus shifted to upcoming US inflation data for cues on the Federal Reserve\u2019s rate outlook. MCX silver futures rose Rs 2,134 to Rs 2,33,600 pe",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-climbs-rs-2100/kg-but-gold-prices-fall-as-focus-shifts-to-inflation-data-amid-iran-war-key-levels-to-track/articleshow/133081450.cms",
+      "title": "$48 billion profit! 5 global oil majors cash in on oil surge amid Iran war. Where is money flowing?",
+      "description": "Five global oil majors \u2014 Exxon Mobil, Chevron, BP, Shell and TotalEnergies \u2014 posted a combined $48 billion profit in Q2, benefiting from oil prices surging above $100 a barrel amid US-Iran hostilities. Their combined cash generation hit a record $90 billion, surpassing levels seen after Russia\u2019s 202",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/48-billion-profit-5-global-oil-majors-cash-in-on-oil-surge-amid-iran-war-where-is-money-flowing/articleshow/133091563.cms",
       "source": "Economic Times Markets",
       "date": "2026-08-10",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "Global Market: South Korean shares rise as chipmakers gain on Wall Street rally, easing rate fears",
-      "description": "South Korean shares rose on Monday, led by chipmakers Samsung Electronics and SK Hynix, after a Wall Street rally and weaker U.S. jobs data eased concerns over near-term Federal Reserve rate hikes. The KOSPI gained 0.80%, though continued foreign selling limited gains. Investors also awaited oversea",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-korean-shares-rise-as-chipmakers-gain-on-wall-street-rally-easing-rate-fears/articleshow/133080687.cms",
+      "title": "Global Market: Shanghai, Hong Kong stocks rise as consumer gains offset tech weakness",
+      "description": "Shanghai and Hong Kong stocks gained on Monday as consumer and property shares offset weakness in technology stocks. Investors assessed fresh Chinese inflation data, which pointed to persistent deflationary pressures, for clues on Beijing\u2019s policy outlook. Expectations of fiscal support and resilien",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-shanghai-hong-kong-stocks-rise-as-consumer-gains-offset-tech-weakness/articleshow/133090625.cms",
       "source": "Economic Times Markets",
       "date": "2026-08-10",
       "image": "",
-      "category": "central_bank"
+      "category": "inflation"
+    },
+    {
+      "title": "Global Market: BOJ rate hike case strengthens as policymakers warn of rising inflation risks",
+      "description": "The case for a Bank of Japan rate hike as soon as September has strengthened, with several policymakers signalling support for a faster pace of monetary tightening. Rising inflation risks, yen weakness and higher import costs are adding pressure on the central bank, while markets increasingly expect",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-boj-rate-hike-case-strengthens-as-policymakers-warn-of-rising-inflation-risks/articleshow/133090142.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-08-10",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Rupee anchored by central bank hand, traders watchful of oil ructions",
+      "description": "The stability of the Indian rupee was evident on Monday, thanks to the proactive measures taken by the central bank. State-run banks actively provided dollars, reflecting an intervention strategy to uphold currency stability against the backdrop of surging oil prices and the demand from forward cont",
+      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-anchored-by-central-bank-hand-traders-watchful-of-oil-ructions/articleshow/133089685.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-08-10",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Alphabet vs Meta: Which stock is the better long-term bet?",
+      "description": "Alphabet and Meta are both investing heavily in AI to drive advertising growth and build new revenue streams. While Alphabet benefits from greater diversification across Search, YouTube and Cloud, Meta has a strong edge in AI-powered advertising. The key question for investors is which stock offers ",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/alphabet-vs-meta-which-stock-is-the-better-long-term-bet/slideshow/133090309.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-08-10",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Mutual fund flows and takeaways for you",
+      "description": "Investors are staying invested despite volatility, getting comfortable delegating market-cap allocation decisions to fund managers and warming up to one-stop asset allocation via MAFs",
+      "url": "https://www.thehindubusinessline.com/portfolio/personal-finance/mutual-fund-flows-and-takeaways-for-you/article71324209.ece",
+      "source": "BusinessLine",
+      "date": "2026-08-09",
+      "image": "https://bl-i.thgim.com/public/incoming/4iaqd9/article71324203.ece/alternates/LANDSCAPE_1200/SEBI-s-MF-only-GGSGAJVB8.4.jpg.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "How luxury homeowners are winning from Albo's tax reforms - even as prices go down: '$30,000 a week'",
+      "description": "New tax laws have handed luxury homeowners a lucrative reason to sit tight, according to a real estate guru.",
+      "url": "https://www.dailymail.com/news/article-16029521/albanese-tax-negative-gearing-capital-gains-luxury-property.html",
+      "source": "Dailymail.com",
+      "date": "2026-08-09",
+      "image": "https://i.dailymail.com/1s/2026/08/06/06/110469063-0-image-m-69_1785994814105.jpg",
+      "category": "market"
+    },
+    {
+      "title": "AI trade gets crowded as India stages a comeback: What fund flows reveal",
+      "description": "As global investors crowd into AI-linked markets in South Korea and Taiwan, India is re-emerging as an anti-AI portfolio diversifier. Moderating long-only fund redemptions, $3.6 billion in recent foreign inflows, strong domestic SIP contributions, and potenti\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ai-trade-gets-crowded-as-india-stages-a-comeback-what-fund-flows-reveal/articleshow/133062811.cms",
+      "source": "The Times of India",
+      "date": "2026-08-09",
+      "image": "https://img.etimg.com/thumb/msid-133062825,width-1200,height-630,imgsize-1108694,overlay-etmarkets/articleshow.jpg",
+      "category": "market"
     },
     {
       "title": "vSocial Security is more than an entitlement",
@@ -197,76 +233,112 @@
       "category": "market"
     },
     {
-      "title": "India Secures Multiple Medals At World U20 Athletics",
-      "description": "Indian athletes Basant Kumar Meghwal and Shahnavaz Khan secured historic medals at the World Athletics U20 Championships. Meghwal won silver in high jump, becoming the first Indian to do so, while Khan clinched bronze in long jump. These achievements, alongsi\u2026",
-      "url": "https://www.rediff.com/sports/report/indian-athletes-shine-at-world-u20-meghwal-wins-silver-khan-bronze/20260809.htm",
-      "source": "Rediff.com",
+      "title": "The Ball in OpenAI's court",
+      "description": "Trump alum and voluble Substacker Dean Ball is angling to shape the future of OpenAI, if he can get people to listen.",
+      "url": "https://www.businessinsider.com/dean-ball-openai-court-trump-regulation-2026-8#article",
+      "source": "Business Insider",
       "date": "2026-08-09",
-      "image": "https://im.rediff.com/1200-630/sports/2025/jul/04neeraj3.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "New iPhone 18 Pro Leak Hints at Major Challenges for Apple",
-      "description": "Apple\u2019s highly anticipated iPhone 18 Pro and iPhone 18 Pro Max, along with the rumored foldable iPhone Ultra, are capturing widespread attention in the tech community. These devices are expected to push the boundaries of smartphone technology, offering featur\u2026",
-      "url": "https://www.geeky-gadgets.com/iphone-18-pro-stock-delays/",
-      "source": "Geeky Gadgets",
-      "date": "2026-08-09",
-      "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/08/iphone-18-pro-red.jpg",
+      "image": "https://i.insider.com/6a760c4e0c6c5a263f3a793c?width=1200&format=jpeg",
       "category": "market"
     },
     {
-      "title": "Tracking Bees with a Stereo Camera",
-      "description": "For whatever reason, [Jeremy] wants to photograph bees in flight. This is one of those things that doesn\u2019t seem that hard until you try to do it. He\u2019s got the mechanical part that can m\u2026",
-      "url": "https://hackaday.com/2026/08/08/tracking-bees-with-a-stereo-camera/",
-      "source": "Hackaday",
+      "title": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+      "description": "SAP says it needs to \u201cbe disciplined in how we spend.\u201d That includes still freezing hires and travel. Unless it's to do with AI, of course.",
+      "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
+      "source": "404media.co",
       "date": "2026-08-09",
-      "image": "https://hackaday.com/wp-content/uploads/2026/08/bee.png",
-      "category": "market"
-    },
-    {
-      "title": "\u201cIf your ironclad proof that Big Oil secretly knew their products cause global warming is a leaked industry memo \u2026 why would you alter it to make it look more plausible?\u201d",
-      "description": "\u201cIf the evidence you have proving the fossil fuel industry intentionally ran a particular disinformation campaign is a very specific \u2018leaked industry memo,\u2019 and it is ironclad proof \u2026\u2026 why would you see any need whatsoever to doctor that memo to make it look \u2026",
-      "url": "https://wattsupwiththat.com/2026/08/08/if-your-ironclad-proof-that-big-oil-secretly-knew-their-products-cause-global-warming-is-a-leaked-industry-memo-why-would-you-alter-it-to-make-it-look-more-plausible/",
-      "source": "Wattsupwiththat.com",
-      "date": "2026-08-09",
-      "image": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2024/01/exxon-lawsuit.webp?fit=1024%2C512&quality=75&ssl=1",
+      "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/SAP_SAPPHIRE25ORL_4229__1_.jpg",
       "category": "geopolitics"
     },
     {
-      "title": "Indonesia backs fairer global trade rules at BRICS meeting",
-      "description": "Indonesia pledged to work with BRICS members to strengthen fair, transparent trade rules, while urging reforms that keep the World Trade Organization central ...",
-      "url": "https://en.antaranews.com/news/426196/indonesia-backs-fairer-global-trade-rules-at-brics-meeting",
-      "source": "Antaranews.com",
+      "title": "Unmasking London City's Spanish superstar",
+      "description": "Alexia Putellas' arrival at London City Lionesses was the biggest transfer in WSL history - but who is the person behind the global stardom?",
+      "url": "https://www.bbc.com/sport/football/articles/c8en56r919ro?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "source": "BBC News",
       "date": "2026-08-09",
-      "image": "https://cdn.antaranews.com/cache/1200x800/2026/08/09/IMG_1006.jpeg",
+      "image": "https://s.yimg.com/lo/mysterio/api/34e75d0e4320f7f68081c7088f7cfcd912e40662a9a209480697fcf698eb47b2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F8f5823222ce4a0119354b73bacba33d3",
       "category": "market"
     },
     {
-      "title": "Hugh Jackman and Rebecca Ferguson\u2019s Forgotten Sci-Fi Noir Is a Streaming Hidden Gem",
-      "description": "Hugh Jackman and Rebecca Ferguson\u2019s overlooked sci-fi thriller Reminiscence is finally finding the audience it always deserved on streaming.",
-      "url": "https://collider.com/rebecca-ferguson-sci-fi-reminiscence-streaming-success-youtube-itunes-august-2026/",
-      "source": "Collider.com",
+      "title": "Schwalbe says hookless safety standards need tightening, while Cadex argues tyre beads are the real issue \u2013 we speak to the brands shaping the future of wheel and tyre technology",
+      "description": "Wheels are huge business to the cycling world. They\u2019re one of the biggest aesthetic choices riders makes, and one of the components we obsess over most. Once you\u2019ve owned a bike for a while, I suspect a new wheelset becomes the most desired \u2018upgrade\u2019. The eas\u2026",
+      "url": "https://road.cc/feature/cycling-brands-shaping-the-future-of-bike-wheel-and-tyre-technology",
+      "source": "road.cc",
       "date": "2026-08-09",
-      "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/08/mcdremi_wb009.jpg?w=1600&h=900&fit=crop",
+      "image": "https://cdn.road.cc/wp-content/uploads/2026/08/Untitled-design-1-1024x683.png",
       "category": "market"
     },
     {
-      "title": "Govt encourages yacht tourism to strengthen Indonesia's marine tourism",
-      "description": "Indonesia is seeking to expand yacht tourism to strengthen its marine-tourism ecosystem, attract higher-value visitors and improve competitiveness, Tourism ...",
-      "url": "https://en.antaranews.com/news/426193/govt-encourages-yacht-tourism-to-strengthen-indonesias-marine-tourism",
-      "source": "Antaranews.com",
+      "title": "Circle Built Its Own Blockchain: What Is Arc and Why It Matters for USDC",
+      "description": "Circle has spent years enabling USDC on other blockchains. Now it is building its own infrastructure. Arc, the Circle blockchain, is a settlement network for...\nThe post Circle Built Its Own Blockchain: What Is Arc and Why It Matters for USDC appeared first o\u2026",
+      "url": "https://bitcoinfoundation.org/news/uncategorised/circle-blockchain-arc/",
+      "source": "Bitcoinfoundation.org",
       "date": "2026-08-09",
-      "image": "https://cdn.antaranews.com/cache/1200x800/2026/08/09/WhatsApp-Image-2026-08-09-at-06.59.48.jpeg",
+      "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/08/arc-1.webp",
+      "category": "currency"
+    },
+    {
+      "title": "Some of Whitney Houston\u2019s Iconic Looks Are Now Up For Sale",
+      "description": "Whitney Houston fans can now own pieces of her wardrobe as some of her most iconic outfits are set for auction, just in time for the late legend\u2019s birthday. Born Aug. 9, 1963, Houston would have turned 63 this year, and nearly 15 years after her death, the wo\u2026",
+      "url": "https://www.theroot.com/some-of-whitney-houston-s-iconic-looks-are-now-up-for-s-2000120237",
+      "source": "The Root",
+      "date": "2026-08-09",
+      "image": null,
+      "category": "geopolitics"
+    },
+    {
+      "title": "Lake Mead hits historic low water level as Colorado River struggles",
+      "description": "The largest reservoir in the United States has plummeted to its lowest water level since it was created some 90 years ago. Federal data shows Lake Mead fell Friday to a level just below the prior record-low set in July 2022. It\u2019s another sign of the crisis pl\u2026",
+      "url": "https://apnews.com/article/colorado-river-lake-mead-record-low-fa402842e76ed624f71360f467b2579d",
+      "source": "Associated Press",
+      "date": "2026-08-09",
+      "image": "https://dims.apnews.com/dims4/default/b653884/2147483647/strip/true/crop/6762x4506+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F92%2F40%2F672c6da42adf289332eaa013467d%2F54b31412b20248baa81a6c8ecce9bd72",
+      "category": "central_bank"
+    },
+    {
+      "title": "This nuclear startup and Halliburton repurposed oil-drilling tech in a bid to solve America\u2019s radioactive waste problem",
+      "description": "Deep Isolation is betting on drilling wells to bury nuclear waste if federal regulations evolve.",
+      "url": "https://fortune.com/2026/08/09/nuclear-startup-halliburton-oil-drilling-tech-radioactive-waste/",
+      "source": "Fortune",
+      "date": "2026-08-09",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/Unknown-3.jpeg?resize=1200,600",
+      "category": "central_bank"
+    },
+    {
+      "title": "2026 SkS Weekly Climate Change & Global Warming News Roundup #32",
+      "description": "A listing of 29 news and opinion articles we found interesting and shared on social media during the past week: Sun, August 2, 2026 thru Sat, August 8, 2026.\nStories we promoted this week, by category:\nClimate Change Impacts (11 articles)\n<ul>\n<li>El Ni\u00f1o and\u2026",
+      "url": "https://skepticalscience.com/2026-SkS-Weekly-News-Roundup_32.html",
+      "source": "Skepticalscience.com",
+      "date": "2026-08-09",
+      "image": "https://skepticalscience.com/public/assets/images/og/button_sks_200.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Govt moves to revive defunct Public Transport Authority",
+      "description": "Kathmandu, Aug 9: The government has moved to revive the Urban Area Public Transport Management Authority, which had been placed on a list of agencies proposed for abolition, by amending its governing law. The authority was established in 2022 to modernise an\u2026",
+      "url": "https://peoplesreview.com.np/2026/08/09/govt-moves-to-revive-defunct-public-transport-authority/",
+      "source": "Peoplesreview.com.np",
+      "date": "2026-08-09",
+      "image": "https://peoplesreview.com.np/wp-content/uploads/2026/08/urban.jpg",
       "category": "market"
     },
     {
-      "title": "The next AI race is for data, and China wants more of it",
-      "description": "China faces new AI bottleneck as it runs out of Chinese-language training data\nThe global supply of high-quality, publicly available human-generated text could be fully exhausted within the next six years\nChina\u2019s high-stakes race to build next-generation arti\u2026",
-      "url": "https://biztoc.com/x/a4d3a0cf8eed2630",
-      "source": "Biztoc.com",
+      "title": "The History of Catalog Shopping",
+      "description": "Podcast Transcript Long before smartphones and Amazon, shopping from home was already a global phenomenon thanks to the printed catalog. The massive Sears Catalog became an American icon, serving as a vital lifeline for isolated rural homesteads and a book of\u2026",
+      "url": "https://everything-everywhere.com/the-history-of-catalog-shopping/",
+      "source": "Everything-everywhere.com",
       "date": "2026-08-09",
-      "image": "https://biztoc.com/cdn/a4d3a0cf8eed2630_s.webp",
-      "category": "supply_demand"
+      "image": "https://photos.smugmug.com/Other/n-hRFP2/Podcast-Images/i-GrsJk5Q/0/LsKt5zLb5h3THRPmgbTctzLCwbB2hKGPtD7CmfJFP/L/2225epart-L.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Bessent: Rich-Poor Gap Narrowing Despite Persistent Inflation",
+      "description": "Treasury Secretary Scott Bessent said the long-running economic divide between wealthier and lower-income Americans is narrowing, even as inflation and high living costs continue to weigh on consumers, according to an interview with CNBC this week. Bessent di\u2026",
+      "url": "https://www.naturalnews.com/2026-08-09-bessent-rich-poor-gap-narrowing-despite-inflation.html",
+      "source": "Naturalnews.com",
+      "date": "2026-08-09",
+      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/k-shaped-economy-c-shaped-economy-income-inequality-3283-original.jpg",
+      "category": "inflation"
     },
     {
       "title": "How to Start a Cleaning Business: A Step-by-Step Guide",
@@ -276,60 +348,6 @@
       "date": "2026-08-09",
       "image": "https://wordupnews.com/wp-content/uploads/2026/08/cleaning-business-1-1000x600.png",
       "category": "currency"
-    },
-    {
-      "title": "Insecurity: Scores of schools in 40 LGAs shut down",
-      "description": "At least 65 secondary and\u00a0primary schools have\u00a0been shut or rendered\u00a0non-functional by\u00a0insecurity across northern Nigeria, findings by Sunday Vanguard have shown...\nThe post Insecurity: Scores of schools in 40 LGAs shut down appeared first on Vanguard News.",
-      "url": "https://www.vanguardngr.com/2026/08/insecurity-scores-of-schools-in-40-lgas-shut-down/",
-      "source": "Vanguard",
-      "date": "2026-08-09",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/08/schools1.jpg",
-      "category": "market"
-    },
-    {
-      "title": "At long last, Senate Republicans condemn the Muslim Brotherhood",
-      "description": "By Susan QuinnIt\u2019s beyond shocking that, 25 years after 9/11, it takes political courage to condemn an organization openly dedicated to our destruction.",
-      "url": "https://www.americanthinker.com/blog/2026/08/at-long-last-senate-republicans-condemn-the-muslim-brotherhood/",
-      "source": "Americanthinker.com",
-      "date": "2026-08-09",
-      "image": "https://images.americanthinker.com/zl/zlvrcwrrpieywc461kyv_1200.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Will Nifty, Sensex extend losses on Monday? Middle East tension, Q1 results, 3 other factors to drive mood next week",
-      "description": "Indian stock markets ended lower as benchmark indices Sensex and Nifty diverged. Investors face crucial triggers next week, including over 2,000 Q1 earnings announcements, crude oil price movements amid Middle East geopolitical tensions, US nonfarm payroll da\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-nifty-sensex-extend-losses-on-monday-middle-east-tension-q1-results-3-other-factors-to-drive-mood-next-week/articleshow/133061939.cms",
-      "source": "The Times of India",
-      "date": "2026-08-09",
-      "image": "https://img.etimg.com/thumb/msid-133061953,width-1200,height-630,imgsize-349886,overlay-etmarkets/articleshow.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Tinubu\u2019s economy pushing homes, cars beyond reach \u2014 Atiku",
-      "description": "Atiku Abubakar criticizes President Tinubu\u2019s economic policies, stating that Nigerian households can no longer afford homes, cars, and basic assets.\n\nRead More: https://punchng.com/tinubus-economy-pushing-homes-cars-beyond-reach-atiku/",
-      "url": "https://punchng.com/tinubus-economy-pushing-homes-cars-beyond-reach-atiku/",
-      "source": "The Punch",
-      "date": "2026-08-09",
-      "image": "https://punchng.com/wp-content/uploads/2026/07/Atiku_1783724948.webp",
-      "category": "market"
-    },
-    {
-      "title": "Health insurance: Nigerian struggle with rising medical costs",
-      "description": "Millions of Nigerians struggle with rising medical costs. Discover how health insurance can provide financial protection and improve access to quality heal\n\nRead More: https://punchng.com/health-insurance-nigerian-struggle-with-rising-medical-costs/",
-      "url": "https://punchng.com/health-insurance-nigerian-struggle-with-rising-medical-costs/",
-      "source": "The Punch",
-      "date": "2026-08-09",
-      "image": "https://punchng.com/wp-content/uploads/2026/08/NHIA-LARGE_1786101230.webp",
-      "category": "market"
-    },
-    {
-      "title": "Purpose over privilege: Prada, Oprah Uzodimma\u2019s journey of impact",
-      "description": "Prada Uzodimma, daughter of Imo State Governor, discusses her passion for disability inclusion and The Ability Life Initiative. Learn about her journey.\n\nRead More: https://punchng.com/purpose-over-privilege-prada-oprah-uzodimmas-journey-of-impact/",
-      "url": "https://punchng.com/purpose-over-privilege-prada-oprah-uzodimmas-journey-of-impact/",
-      "source": "The Punch",
-      "date": "2026-08-09",
-      "image": "https://punchng.com/wp-content/uploads/2026/08/35ae8c45-07ab-4a54-a6f5-24251a3998b4_1786235878.webp",
-      "category": "market"
     },
     {
       "title": "Osun: Before algorithms, vices kidnap the polls",
@@ -348,33 +366,6 @@
       "date": "2026-08-08",
       "image": "https://s.yimg.com/lo/mysterio/api/D100BCDF4104361F894FA9566F5C290A1B97C1A3A0EBF554AEA0405D50693DEE/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmarketbeat_955%2F895f02679bd885b03bf455a214f666a0",
       "category": "market"
-    },
-    {
-      "title": "The Dana Brown Ledger: Have the Astros GM\u2019s Hits Outweighed His Misses?",
-      "description": "As Dana Brown works through the final year of his current contract as Astros general manager, it\u2019s fair to start evaluating his tenure the same way you would any executive in professional sports. Create a ledger. Put the good decisions on one side, the questi\u2026",
-      "url": "https://www.crawfishboxes.com/houston-astros-analysis/77172/the-dana-brown-ledger-have-the-astros-gms-hits-outweighed-his-misses",
-      "source": "The Crawfish Boxes",
-      "date": "2026-08-08",
-      "image": "https://s.yimg.com/lo/mysterio/api/72cb27fcc9f7da7130805a46e4a3a71fa98ec52ac8e1ee7f1f02e06530996bc3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F71995f5c68c9e405e9ba9d975df96628",
-      "category": "market"
-    },
-    {
-      "title": "Victorian premier pledges to lift school funding to meet Gonski standards",
-      "description": "New premier Ben Carroll says Victoria will fulfil the state's funding obligations to public schools under the Gonski plan.",
-      "url": "https://www.abc.net.au/news/2026-08-09/ben-carroll-gonski-inspired-school-funding-boost/107010038",
-      "source": "ABC News (AU)",
-      "date": "2026-08-08",
-      "image": "https://live-production.wcms.abc-cdn.net.au/b6115eb2f66a6444267190d4cfffaf98?impolicy=wcms_watermark_news&cropH=879&cropW=1563&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-      "category": "market"
-    },
-    {
-      "title": "'I felt I wasn't worthy': Para athletes on barriers in elite sport",
-      "description": "Paralympic gold medallist Nikki Ayers walked away from rowing, feeling devalued in the sport. She's not alone; disabled athletes have told ABC Sport they face discrimination and burnout due to a lack of funding and support.",
-      "url": "https://www.abc.net.au/news/2026-08-09/discrimination-barriers-sporting-success-elite-disabled-athletes/106976092",
-      "source": "ABC News (AU)",
-      "date": "2026-08-08",
-      "image": "https://live-production.wcms.abc-cdn.net.au/fc17693de1db49fc1f6a0c6630fa3afc?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=177&width=862&height=485&imformat=generic",
-      "category": "metals"
     },
     {
       "title": "Nexa Resources Q2 Earnings Call Highlights",
@@ -402,6 +393,15 @@
       "date": "2026-08-08",
       "image": "https://bl-i.thgim.com/public/incoming/4u4mzy/article71316768.ece/alternates/LANDSCAPE_1200/iStock-133998150.jpg",
       "category": "metals"
+    },
+    {
+      "title": "Hecla Mining Q2 Earnings Call Highlights",
+      "description": "Hecla Mining (NYSE:HL) reported second-quarter results marked by strong cash generation, record site-level free cash flow at Greens Creek and Lucky Friday, a...",
+      "url": "https://www.marketbeat.com/instant-alerts/hecla-mining-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+      "source": "MarketBeat",
+      "date": "2026-08-08",
+      "image": "https://s.yimg.com/lo/mysterio/api/70CE91D72177A022C2811D6186BD3335E021DFE73160F1150861E0ADCDF9BBEE/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmarketbeat_955%2F60621e1a9c23d3192b78a6704392045d",
+      "category": "supply_demand"
     }
   ],
   "history": [
@@ -476,7 +476,7 @@
       "platinum_usd_oz": 1750.12
     }
   ],
-  "timestamp": "2026-08-10T10:32:34.317011+05:30",
+  "timestamp": "2026-08-10T13:42:26.937305+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
