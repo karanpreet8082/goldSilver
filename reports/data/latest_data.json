@@ -54,7 +54,7 @@
         "hold": 25
       },
       "summary": "Gold is showing positive signals. Strong daily gain of 2.4%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-10T08:12:26.753727",
+      "timestamp": "2026-08-10T10:42:21.654979",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 25
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 3.4%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-10T08:12:26.843226",
+      "timestamp": "2026-08-10T10:42:21.731090",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 25
       },
       "summary": "Platinum is showing positive signals. Strong daily gain of 1.4%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-10T08:12:26.928980",
+      "timestamp": "2026-08-10T10:42:21.810989",
       "source": "rule-based"
     }
   },
@@ -134,48 +134,57 @@
   },
   "news": [
     {
-      "title": "$48 billion profit! 5 global oil majors cash in on oil surge amid Iran war. Where is money flowing?",
-      "description": "Five global oil majors \u2014 Exxon Mobil, Chevron, BP, Shell and TotalEnergies \u2014 posted a combined $48 billion profit in Q2, benefiting from oil prices surging above $100 a barrel amid US-Iran hostilities. Their combined cash generation hit a record $90 billion, surpassing levels seen after Russia\u2019s 202",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/48-billion-profit-5-global-oil-majors-cash-in-on-oil-surge-amid-iran-war-where-is-money-flowing/articleshow/133091563.cms",
+      "title": "Global Market: European shares hold steady as Hormuz uncertainty keeps oil prices elevated",
+      "description": "European shares were broadly flat on Monday as uncertainty over the Strait of Hormuz kept oil prices elevated. Investors awaited key economic data and monetary-policy signals, while strong corporate earnings and expectations of lower U.S. borrowing costs supported sentiment. Energy and technology st",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-hold-steady-as-hormuz-uncertainty-keeps-oil-prices-elevated/articleshow/133095725.cms",
       "source": "Economic Times Markets",
       "date": "2026-08-10",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "Global Market: Shanghai, Hong Kong stocks rise as consumer gains offset tech weakness",
-      "description": "Shanghai and Hong Kong stocks gained on Monday as consumer and property shares offset weakness in technology stocks. Investors assessed fresh Chinese inflation data, which pointed to persistent deflationary pressures, for clues on Beijing\u2019s policy outlook. Expectations of fiscal support and resilien",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-shanghai-hong-kong-stocks-rise-as-consumer-gains-offset-tech-weakness/articleshow/133090625.cms",
+      "title": "Global Market |Bank of Japan signals vigilance on Yen weakness, keeps door open for rate hikes",
+      "description": "The Bank of Japan monitors yen weakness closely, with Governor Kazuo Ueda highlighting its impact on import costs and inflation. While short-term rates remain at 0.75%, currency movements increasingly influence price trends. Policymakers balance supporting economic recovery with managing inflation r",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-bank-of-japan-signals-vigilance-on-yen-weakness-keeps-door-open-for-rate-hikes/articleshow/133094512.cms",
       "source": "Economic Times Markets",
       "date": "2026-08-10",
       "image": "",
-      "category": "inflation"
+      "category": "central_bank"
     },
     {
-      "title": "Global Market: BOJ rate hike case strengthens as policymakers warn of rising inflation risks",
-      "description": "The case for a Bank of Japan rate hike as soon as September has strengthened, with several policymakers signalling support for a faster pace of monetary tightening. Rising inflation risks, yen weakness and higher import costs are adding pressure on the central bank, while markets increasingly expect",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-boj-rate-hike-case-strengthens-as-policymakers-warn-of-rising-inflation-risks/articleshow/133090142.cms",
-      "source": "Economic Times Markets",
+      "title": "Government collects Rs 10,463 crore customs duty on precious metals - Telangana Today",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNNWQ2X2o2Uml0ejNYM1BPVDJrS3h6cUxPVnVYSHNWMW9XUHYwT1daTjk0Q1ZnSk9IaENGNUxnUG5yc01ZcEpCTzFicEJwWUV0VEhacHJLSEdGQ1YyMGF0OW1YWG9uWHY0Y2VFUGxyTGtxY3VkY2ZyM1dLS1RvZnN1cU13dkJMNnd1c1VtM19nOHgwR3lmVTkyeQ?oc=5\" target=\"_blank\">Government collects R",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNWQ2X2o2Uml0ejNYM1BPVDJrS3h6cUxPVnVYSHNWMW9XUHYwT1daTjk0Q1ZnSk9IaENGNUxnUG5yc01ZcEpCTzFicEJwWUV0VEhacHJLSEdGQ1YyMGF0OW1YWG9uWHY0Y2VFUGxyTGtxY3VkY2ZyM1dLS1RvZnN1cU13dkJMNnd1c1VtM19nOHgwR3lmVTkyeQ?oc=5",
+      "source": "Google News - Precious Metals",
       "date": "2026-08-10",
       "image": "",
-      "category": "geopolitics"
+      "category": "metals"
     },
     {
-      "title": "Rupee anchored by central bank hand, traders watchful of oil ructions",
-      "description": "The stability of the Indian rupee was evident on Monday, thanks to the proactive measures taken by the central bank. State-run banks actively provided dollars, reflecting an intervention strategy to uphold currency stability against the backdrop of surging oil prices and the demand from forward cont",
-      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-anchored-by-central-bank-hand-traders-watchful-of-oil-ructions/articleshow/133089685.cms",
-      "source": "Economic Times Markets",
+      "title": "Gold, silver, platinum duty earns govt Rs 10,463 crore since May 13 - The Economic Times",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxQQ3kycXJ0WG1pbHJTaUVuWWpyajg1R3VhWVlwVURURlU5Q1Y4OG5QWEp2LWhsT2ZhVHVDOXhwTWZEQ0kxcmdmaC1sVmlCdHZ6bWtpSDdtYTY0Q1Q0dVVWSmlOZ3ZCVE1PRmE5RVhRRlhvVXRITmxUbkN5S1U5TWpseTUwZE1MUXJ1Qm1FQ0VHdDRyVlN3ZUswZkNHTDlYeWdCZzhwV20zVl9uRVRWcF9NQ0IyS1gyUk1JRG",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQQ3kycXJ0WG1pbHJTaUVuWWpyajg1R3VhWVlwVURURlU5Q1Y4OG5QWEp2LWhsT2ZhVHVDOXhwTWZEQ0kxcmdmaC1sVmlCdHZ6bWtpSDdtYTY0Q1Q0dVVWSmlOZ3ZCVE1PRmE5RVhRRlhvVXRITmxUbkN5S1U5TWpseTUwZE1MUXJ1Qm1FQ0VHdDRyVlN3ZUswZkNHTDlYeWdCZzhwV20zVl9uRVRWcF9NQ0IyS1gyUk1JRGNJUHFxSlFiZVFPZk5fb2NuT1QzaVZfWWtNdk16SHczOUdoQUFyVHF4U1lpRTdycHpLWVM2MFRHVU5ZV2toWHZBRmR2ZzRxb2ZF0gGIAkFVX3lxTE1mNTV5M19lQkNsZnBqYi1oZC1MU1NSSkNRaUp3eVowSVluVXpCYWhZcjZZZU0yV2YtZVBDamtCNFotaDlXN3F1VWxNWGlHODhpeUZ3T19uR1N1c1ViWENwTVBDaVozRmpmQ2hRZnJ5Q0RRNzZ0NktDUHI1R0cwbG8zWkxHaEVzbU5NNC1RblRQZTBrZFNIR05JOUtobE9QbHh5NG5SRmljUENKZXVGX2cxMkcwSmFGazdjZWVYZ3p5dmNNb1NPR3JrZDZ5c01LQk5yZGFYclhXUjRMVmxpWkFVd0R3OFMwV1FpUzN3WWEyQk5VMWJnLWFnekhwNkpzNFlOUHZNZ01SUQ?oc=5",
+      "source": "Google News - Precious Metals",
       "date": "2026-08-10",
       "image": "",
-      "category": "geopolitics"
+      "category": "platinum"
     },
     {
-      "title": "Alphabet vs Meta: Which stock is the better long-term bet?",
-      "description": "Alphabet and Meta are both investing heavily in AI to drive advertising growth and build new revenue streams. While Alphabet benefits from greater diversification across Search, YouTube and Cloud, Meta has a strong edge in AI-powered advertising. The key question for investors is which stock offers ",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/alphabet-vs-meta-which-stock-is-the-better-long-term-bet/slideshow/133090309.cms",
-      "source": "Economic Times Markets",
+      "title": "Here\u2019s how much the Centre earned from higher import duties on gold, silver, platinum - Business Today",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMmR1QktHMFAwbkhBbXZxSzJ4SEVaWVFlTzN3RkttbEJvWjRNZ3ZKZENGdmVFRlNOMmZQMlV1Q0VhbzBVbE0teUhQWjlhT1B2RUNIR1RQTmdTeHRSc3puUnlpMGc3N1BKYU5tUktlZTBMOW13ZmxsX2NsbkN3NThkNnFjb2hfcU1kT2hMUGlWNEdyS0o4SVM2Wlp3WGhwXzJEN2pxLUVRdGdhcTVnSl9saHhLeWkwbjQ2Q0",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMmR1QktHMFAwbkhBbXZxSzJ4SEVaWVFlTzN3RkttbEJvWjRNZ3ZKZENGdmVFRlNOMmZQMlV1Q0VhbzBVbE0teUhQWjlhT1B2RUNIR1RQTmdTeHRSc3puUnlpMGc3N1BKYU5tUktlZTBMOW13ZmxsX2NsbkN3NThkNnFjb2hfcU1kT2hMUGlWNEdyS0o4SVM2Wlp3WGhwXzJEN2pxLUVRdGdhcTVnSl9saHhLeWkwbjQ2Q0FVQ2loeWpERV9kRXRNeFh4VVdIZThXSUVwMG5kTlppU2FSWFHSAd4BQVVfeXFMTzJkdUJLRzBQMG5IQW12cUsyeEhFWllRZU8zd0ZLbWxCb1o0TWd2SmRDRnZlRUZTTjJmUDJVdUNFYW8wVWxNLXlIUFo5YU9QdkVDSEdUUE5nU3h0UnN6blJ5aTBnNzdQSmFObVJLZWUwTDltd2ZsbF9jbG5DdzU4ZDZxY29oX3FNZE9oTFBpVjRHcktKOElTNlpad1hocF8yRDdqcS1FUXRnYXE1Z0pfbGh4S3lpMG40NkNBVUNpaHlqREVfZEV0TXhYeFVXSGU4V0lFcDBuZE5aaVNhUlhR?oc=5",
+      "source": "Google News - Precious Metals",
       "date": "2026-08-10",
       "image": "",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Ahead of Market: 10 things that will decide D-Street action on Monday",
+      "description": "Indian benchmark indices closed lower on Friday as closing auction sessions caused divergence between Sensex and Nifty. While Sensex fell 456 points, Nifty dropped 65 points. Market sentiment remained cautious amid Middle East tensions and crude oil volatilit\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-drops-456-points-nifty-falls-65-as-closing-auction-session-creates-divergence/articleshow/133065105.cms",
+      "source": "The Times of India",
+      "date": "2026-08-09",
+      "image": "https://img.etimg.com/thumb/msid-133065115,width-1200,height-630,imgsize-11508,overlay-etmarkets/articleshow.jpg",
       "category": "geopolitics"
     },
     {
@@ -233,121 +242,130 @@
       "category": "market"
     },
     {
-      "title": "The Ball in OpenAI's court",
-      "description": "Trump alum and voluble Substacker Dean Ball is angling to shape the future of OpenAI, if he can get people to listen.",
-      "url": "https://www.businessinsider.com/dean-ball-openai-court-trump-regulation-2026-8#article",
-      "source": "Business Insider",
+      "title": "Signature Global awards \u20b9920 cr contracts to construct housing project in Gurugram",
+      "description": "Signature Global awards \u20b9920 crore contracts for luxury housing project 'Sarvam at DXP Estate' in Gurugram, featuring 1,798 units.",
+      "url": "https://www.thehindubusinessline.com/news/real-estate/signature-global-awards-920-cr-contracts-to-construct-housing-project-in-gurugram/article71324397.ece",
+      "source": "BusinessLine",
       "date": "2026-08-09",
-      "image": "https://i.insider.com/6a760c4e0c6c5a263f3a793c?width=1200&format=jpeg",
-      "category": "market"
-    },
-    {
-      "title": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-      "description": "SAP says it needs to \u201cbe disciplined in how we spend.\u201d That includes still freezing hires and travel. Unless it's to do with AI, of course.",
-      "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
-      "source": "404media.co",
-      "date": "2026-08-09",
-      "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/SAP_SAPPHIRE25ORL_4229__1_.jpg",
+      "image": "https://bl-i.thgim.com/public/incoming/m7fnsd/article71324559.ece/alternates/LANDSCAPE_1200/PO09_Home_buying.jpg",
       "category": "geopolitics"
     },
     {
-      "title": "Unmasking London City's Spanish superstar",
-      "description": "Alexia Putellas' arrival at London City Lionesses was the biggest transfer in WSL history - but who is the person behind the global stardom?",
-      "url": "https://www.bbc.com/sport/football/articles/c8en56r919ro?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "source": "BBC News",
+      "title": "Liverpool vs.\u00a0Monaco Pre-Season 2026: Preview, Lineups, and How to Watch",
+      "description": "Liverpool\u2019s pre-season continues at Anfield vs. Monaco.",
+      "url": "https://liverpooloffside.sbnation.com/liverpool-preseason-coverage/82509/liverpool-vs-monaco-pre-season-2026-preview-lineups-and-how-to-watch",
+      "source": "SB Nation",
       "date": "2026-08-09",
-      "image": "https://s.yimg.com/lo/mysterio/api/34e75d0e4320f7f68081c7088f7cfcd912e40662a9a209480697fcf698eb47b2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F8f5823222ce4a0119354b73bacba33d3",
+      "image": "https://s.yimg.com/lo/mysterio/api/4acf74b069cdf46c662484074701d4e231526e680413496da494022e0328670e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F443621589b419869fdbc9cbdbc32e1e5",
       "category": "market"
     },
     {
-      "title": "Schwalbe says hookless safety standards need tightening, while Cadex argues tyre beads are the real issue \u2013 we speak to the brands shaping the future of wheel and tyre technology",
-      "description": "Wheels are huge business to the cycling world. They\u2019re one of the biggest aesthetic choices riders makes, and one of the components we obsess over most. Once you\u2019ve owned a bike for a while, I suspect a new wheelset becomes the most desired \u2018upgrade\u2019. The eas\u2026",
-      "url": "https://road.cc/feature/cycling-brands-shaping-the-future-of-bike-wheel-and-tyre-technology",
-      "source": "road.cc",
+      "title": "ITransBook 2.3.0",
+      "description": "ITransBook is a Windows desktop translation and AI assistant tool that combines document translation, text translation, and multi-model AI chat in one interface.... [License: | Requires:\n | Size: ]",
+      "url": "https://www.majorgeeks.com/files/details/itransbook.html",
+      "source": "Majorgeeks.com",
       "date": "2026-08-09",
-      "image": "https://cdn.road.cc/wp-content/uploads/2026/08/Untitled-design-1-1024x683.png",
+      "image": "https://www.majorgeeks.com/files/file/39369_itranslate.jpg",
       "category": "market"
     },
     {
-      "title": "Circle Built Its Own Blockchain: What Is Arc and Why It Matters for USDC",
-      "description": "Circle has spent years enabling USDC on other blockchains. Now it is building its own infrastructure. Arc, the Circle blockchain, is a settlement network for...\nThe post Circle Built Its Own Blockchain: What Is Arc and Why It Matters for USDC appeared first o\u2026",
-      "url": "https://bitcoinfoundation.org/news/uncategorised/circle-blockchain-arc/",
-      "source": "Bitcoinfoundation.org",
+      "title": "Zillow Deadline Tomorrow: Z, ZG Investors Have Opportunity to Lead Zillow Group, Inc. Securities Fraud Lawsuit Filed by The Rosen Law Firm",
+      "description": "NEW YORK, Aug. 9, 2026 /PRNewswire/ -- Rosen Law Firm, a global investor rights law firm, reminds purchasers of Class A or Class C common stock of Zillow Group, Inc. (NASDAQ: ZG) (NASDAQ: Z) between February 11, 2025 and May 7, 2026, both dates inclusive (the\u2026",
+      "url": "https://www.prnewswire.com/news-releases/zillow-deadline-tomorrow-z-zg-investors-have-opportunity-to-lead-zillow-group-inc-securities-fraud-lawsuit-filed-by-the-rosen-law-firm-302846409.html",
+      "source": "PRNewswire",
       "date": "2026-08-09",
-      "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/08/arc-1.webp",
-      "category": "currency"
+      "image": "https://mmx.prnewswire.com/media/MS1118010/Rosen-Law-Firm-Logo.jpg?id=OA2840909&p=facebook",
+      "category": "market"
     },
     {
-      "title": "Some of Whitney Houston\u2019s Iconic Looks Are Now Up For Sale",
-      "description": "Whitney Houston fans can now own pieces of her wardrobe as some of her most iconic outfits are set for auction, just in time for the late legend\u2019s birthday. Born Aug. 9, 1963, Houston would have turned 63 this year, and nearly 15 years after her death, the wo\u2026",
-      "url": "https://www.theroot.com/some-of-whitney-houston-s-iconic-looks-are-now-up-for-s-2000120237",
-      "source": "The Root",
+      "title": "International Equity Group Announces Expansion of Its Global Advisory and Wealth Management Services",
+      "description": "LONDON, Aug. 09, 2026 (GLOBE NEWSWIRE) -- International Equity Group, a London-based wealth management and investment advisory firm, today announced the expansion of its global advisory and client service capabilities, supporting investors seeking diversified\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/08/09/3341480/0/en/international-equity-group-announces-expansion-of-its-global-advisory-and-wealth-management-services.html",
+      "source": "GlobeNewswire",
       "date": "2026-08-09",
       "image": null,
-      "category": "geopolitics"
-    },
-    {
-      "title": "Lake Mead hits historic low water level as Colorado River struggles",
-      "description": "The largest reservoir in the United States has plummeted to its lowest water level since it was created some 90 years ago. Federal data shows Lake Mead fell Friday to a level just below the prior record-low set in July 2022. It\u2019s another sign of the crisis pl\u2026",
-      "url": "https://apnews.com/article/colorado-river-lake-mead-record-low-fa402842e76ed624f71360f467b2579d",
-      "source": "Associated Press",
-      "date": "2026-08-09",
-      "image": "https://dims.apnews.com/dims4/default/b653884/2147483647/strip/true/crop/6762x4506+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F92%2F40%2F672c6da42adf289332eaa013467d%2F54b31412b20248baa81a6c8ecce9bd72",
-      "category": "central_bank"
-    },
-    {
-      "title": "This nuclear startup and Halliburton repurposed oil-drilling tech in a bid to solve America\u2019s radioactive waste problem",
-      "description": "Deep Isolation is betting on drilling wells to bury nuclear waste if federal regulations evolve.",
-      "url": "https://fortune.com/2026/08/09/nuclear-startup-halliburton-oil-drilling-tech-radioactive-waste/",
-      "source": "Fortune",
-      "date": "2026-08-09",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/Unknown-3.jpeg?resize=1200,600",
-      "category": "central_bank"
-    },
-    {
-      "title": "2026 SkS Weekly Climate Change & Global Warming News Roundup #32",
-      "description": "A listing of 29 news and opinion articles we found interesting and shared on social media during the past week: Sun, August 2, 2026 thru Sat, August 8, 2026.\nStories we promoted this week, by category:\nClimate Change Impacts (11 articles)\n<ul>\n<li>El Ni\u00f1o and\u2026",
-      "url": "https://skepticalscience.com/2026-SkS-Weekly-News-Roundup_32.html",
-      "source": "Skepticalscience.com",
-      "date": "2026-08-09",
-      "image": "https://skepticalscience.com/public/assets/images/og/button_sks_200.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Govt moves to revive defunct Public Transport Authority",
-      "description": "Kathmandu, Aug 9: The government has moved to revive the Urban Area Public Transport Management Authority, which had been placed on a list of agencies proposed for abolition, by amending its governing law. The authority was established in 2022 to modernise an\u2026",
-      "url": "https://peoplesreview.com.np/2026/08/09/govt-moves-to-revive-defunct-public-transport-authority/",
-      "source": "Peoplesreview.com.np",
-      "date": "2026-08-09",
-      "image": "https://peoplesreview.com.np/wp-content/uploads/2026/08/urban.jpg",
       "category": "market"
     },
     {
-      "title": "The History of Catalog Shopping",
-      "description": "Podcast Transcript Long before smartphones and Amazon, shopping from home was already a global phenomenon thanks to the printed catalog. The massive Sears Catalog became an American icon, serving as a vital lifeline for isolated rural homesteads and a book of\u2026",
-      "url": "https://everything-everywhere.com/the-history-of-catalog-shopping/",
-      "source": "Everything-everywhere.com",
+      "title": "Why is Pezeshkian urging an end to Iran\u2019s \u2018no war, no peace\u2019 status?",
+      "description": "The Iranian president calls for an end to deadlock with the US, declaring it the right moment for a lasting agreement.",
+      "url": "https://www.aljazeera.com/news/2026/8/9/why-is-pezeshkian-urging-an-end-to-irans-no-war-no-peace-status",
+      "source": "Al Jazeera English",
       "date": "2026-08-09",
-      "image": "https://photos.smugmug.com/Other/n-hRFP2/Podcast-Images/i-GrsJk5Q/0/LsKt5zLb5h3THRPmgbTctzLCwbB2hKGPtD7CmfJFP/L/2225epart-L.jpg",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a783b0da257-1786264333.jpg?resize=1920%2C1440",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Jeff Bezos Harshly Criticized for $200 Million Pledge to Protect the World\u2019s Most Endangered Species",
+      "description": "\"Uber-wealthy people helping a fraction of the problems that they cause.\"\nThe post Jeff Bezos Harshly Criticized for $200 Million Pledge to Protect the World\u2019s Most Endangered Species appeared first on Futurism.",
+      "url": "https://futurism.com/future-society/jeff-bezos-leonardo-dicaprio-greenwashing-amazon-pollution",
+      "source": "Futurism",
+      "date": "2026-08-09",
+      "image": "https://futurism.com/wp-content/uploads/2026/08/jeff-bezos-leonardo-dicaprio-greenwashing-amazon-pollution.jpg?quality=85&w=1200",
       "category": "market"
     },
     {
-      "title": "Bessent: Rich-Poor Gap Narrowing Despite Persistent Inflation",
-      "description": "Treasury Secretary Scott Bessent said the long-running economic divide between wealthier and lower-income Americans is narrowing, even as inflation and high living costs continue to weigh on consumers, according to an interview with CNBC this week. Bessent di\u2026",
-      "url": "https://www.naturalnews.com/2026-08-09-bessent-rich-poor-gap-narrowing-despite-inflation.html",
-      "source": "Naturalnews.com",
+      "title": "Tamil Nadu could incentivise couples for more children over falling fertility rate: Health Minister Arunraj",
+      "description": "Tamil Nadu's Health Minister indicated potential incentives for couples to have more children.  This move addresses the state's declining Total Fertility Rate and growing elderly population.  The government is also studying reasons for fewer deliveries at pub\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/tamil-nadu-could-incentivise-couples-for-more-children-over-falling-fertility-rate-health-minister-arunraj/articleshow/133065981.cms",
+      "source": "The Times of India",
       "date": "2026-08-09",
-      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/k-shaped-economy-c-shaped-economy-income-inequality-3283-original.jpg",
-      "category": "inflation"
+      "image": "https://img.etimg.com/thumb/msid-133066004,width-1200,height-630,imgsize-81136,overlay-economictimes/articleshow.jpg",
+      "category": "market"
     },
     {
-      "title": "How to Start a Cleaning Business: A Step-by-Step Guide",
-      "description": "The cleaning services industry in the United States employs more than 3 million people and generates over $100 billion a year, and it doesn\u2019t ask for a fraction of that revenue as an entry fee. A laptop for scheduling, a car, and a few hundred dollars in supp\u2026",
-      "url": "https://wordupnews.com/business/how-to-start-a-cleaning-business-a-step-by-step-guide/",
-      "source": "Wordupnews.com",
+      "title": "10 Sunday Reads",
+      "description": "Avert your eyes! My Sunday morning\u00a0look at incompetency, corruption and policy failures: \u2022 Criminal Deception in Silicon Valley: With entrepreneurial fraud cases on the rise, we investigate how entrepreneurs carry out criminal deception, employing deceptive m\u2026",
+      "url": "https://ritholtz.com/2026/08/10-sunday-reads-240/",
+      "source": "Ritholtz.com",
       "date": "2026-08-09",
-      "image": "https://wordupnews.com/wp-content/uploads/2026/08/cleaning-business-1-1000x600.png",
-      "category": "currency"
+      "image": "https://ritholtz.com/wp-content/uploads/2035/05/aiboom.jpg",
+      "category": "market"
+    },
+    {
+      "title": "US Senate advances landmark crypto bill before heading on August recess",
+      "description": "John Thune, a Republican, early Saturday morning filed to set up a key procedural vote on the Clarity Act when the Senate returns from \u200cits August recess \u2060in \u2060mid-September, potentially paving the way for a full floor vote on the bill, according to the US Sen\u2026",
+      "url": "https://economictimes.indiatimes.com/tech/technology/us-senate-advances-landmark-crypto-bill-before-heading-on-august-recess/articleshow/133065890.cms",
+      "source": "The Times of India",
+      "date": "2026-08-09",
+      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-61572,resizemode-75,msid-133065890/tech/technology/us-senate-advances-landmark-crypto-bill-before-heading-on-august-recess.jpg",
+      "category": "market"
+    },
+    {
+      "title": "\u2060Is ICE using too much force? New poll shows big public opinion shift",
+      "description": "Recent polling shows that only a fraction of independent voters support ICE's enforcement of immigration laws.",
+      "url": "https://www.usatoday.com/story/news/politics/2026/08/09/immigration-support-independents-republicans-midterms/91179270007/",
+      "source": "USA Today",
+      "date": "2026-08-09",
+      "image": "https://s.yimg.com/lo/mysterio/api/166d40015ef310a563e1cd17b8189afd518ee682e31e1644b01e3e9fbdc4af57/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2F69f90a95124f2daf7c3194d27e7c84c6",
+      "category": "market"
+    },
+    {
+      "title": "\u2018Merz must go\u2019: Thousands protest against German government (VIDEO)",
+      "description": "Around 10,000 people have protested in Germany\u2019s Plauen against the federal government, calling for Chancellor Friedrich Merz\u2019s resignation Read Full Article at RT.com",
+      "url": "https://www.rt.com/news/644025-germany-protest-merz-government/",
+      "source": "RT",
+      "date": "2026-08-09",
+      "image": "https://mf.b37mrtl.ru/files/2026.08/article/6a783cc685f5402ece48d7b0.png",
+      "category": "central_bank"
+    },
+    {
+      "title": "As housing starts expected to slow, major developer says Canada must continue building",
+      "description": "The CEO of the Skyline Group of Companies, one of the largest real estate companies in Canada, expects immigration and housing demand to pick up again in the future.",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/skyline-apartments-housing-construction-9.7298202",
+      "source": "CBC News",
+      "date": "2026-08-09",
+      "image": "https://i.cbc.ca/ais/16f84d2b-d674-4bc1-ab3d-bafeb54ac5fe,1786028069434/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5438%2C3058%29%3BResize%3D620",
+      "category": "supply_demand"
+    },
+    {
+      "title": "US payroll drop raises job market concerns as Fed rate hike odds fall",
+      "description": "The unexpected payroll decline and low participation rate may hinder economic growth, complicating the Fed's policy decisions on rates.\nThe post US payroll drop raises job market concerns as Fed rate hike odds fall appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/us-payroll-drop-job-market-concerns-fed/",
+      "source": "Crypto Briefing",
+      "date": "2026-08-09",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/09043454/us-payroll-drop-raises-job-market-concerns-as-fed-rate-hike--800x420.jpeg",
+      "category": "central_bank"
     },
     {
       "title": "Osun: Before algorithms, vices kidnap the polls",
@@ -383,24 +401,6 @@
       "source": "MarketBeat",
       "date": "2026-08-08",
       "image": "https://s.yimg.com/lo/mysterio/api/B7BA84B02D404E002AA32660E5B50A490FFD74331E2D1728526ECCDCFA7F45D9/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmarketbeat_955%2Fed95e923c1f29d7e10f6c96540e5c30e",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Outlook positive",
-      "description": "Positive outlook for bullion as traders are advised to buy dips in gold and silver futures after recent rallies.",
-      "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/bullion-cues-outlook-positive/article71321155.ece",
-      "source": "BusinessLine",
-      "date": "2026-08-08",
-      "image": "https://bl-i.thgim.com/public/incoming/4u4mzy/article71316768.ece/alternates/LANDSCAPE_1200/iStock-133998150.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "Hecla Mining Q2 Earnings Call Highlights",
-      "description": "Hecla Mining (NYSE:HL) reported second-quarter results marked by strong cash generation, record site-level free cash flow at Greens Creek and Lucky Friday, a...",
-      "url": "https://www.marketbeat.com/instant-alerts/hecla-mining-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
-      "source": "MarketBeat",
-      "date": "2026-08-08",
-      "image": "https://s.yimg.com/lo/mysterio/api/70CE91D72177A022C2811D6186BD3335E021DFE73160F1150861E0ADCDF9BBEE/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmarketbeat_955%2F60621e1a9c23d3192b78a6704392045d",
       "category": "supply_demand"
     }
   ],
@@ -476,7 +476,7 @@
       "platinum_usd_oz": 1750.12
     }
   ],
-  "timestamp": "2026-08-10T13:42:26.937305+05:30",
+  "timestamp": "2026-08-10T16:12:21.818957+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
