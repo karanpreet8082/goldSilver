@@ -54,7 +54,7 @@
         "hold": 25
       },
       "summary": "Gold is showing positive signals. Strong daily gain of 2.4%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-17T04:09:16.887839",
+      "timestamp": "2026-08-17T07:30:38.517003",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 25
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 3.4%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-17T04:09:16.946454",
+      "timestamp": "2026-08-17T07:30:38.591556",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 25
       },
       "summary": "Platinum is showing positive signals. Strong daily gain of 1.4%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-17T04:09:17.008384",
+      "timestamp": "2026-08-17T07:30:38.669095",
       "source": "rule-based"
     }
   },
@@ -134,31 +134,67 @@
   },
   "news": [
     {
-      "title": "One common stock across 6 top performing mutual funds: Is MCX a signal or a crowded trade?",
-      "description": "MCX is the sole stock held by six top-performing mid and small-cap mutual funds. Analysts at UBS see a re-rating opportunity, upgrading the stock to Buy. JPMorgan also upgraded MCX, citing potential growth catalysts from regulatory changes. Dolat Capital, however, flags regulatory and valuation risk",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/one-common-stock-across-6-top-performing-mutual-funds-is-mcx-a-signal-or-a-crowded-trade/articleshow/133285869.cms",
+      "title": "RBI's heavy FX footprint revives memories of a tightly managed rupee",
+      "description": "The Reserve Bank of India has stepped in, providing crucial support for the rupee amidst global economic uncertainties. State-run banks are actively engaging in dollar sales to ensure currency stability, reminiscent of a time when central bank measures were more decisive. Despite fluctuating oil pri",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbis-heavy-fx-footprint-revives-memories-of-a-tightly-managed-rupee/articleshow/133288323.cms",
       "source": "Economic Times Markets",
       "date": "2026-08-17",
       "image": "",
-      "category": "market"
+      "category": "central_bank"
     },
     {
-      "title": "ETMarkets Smart Talk | Dhawal Dalal\u2019s fixed-income playbook: Stagger bond bets, favour AAA debt",
-      "description": "While the near-term rate outlook remains uncertain amid global inflation and energy price risks, the fixed-income landscape continues to offer opportunities across select segments.",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/etmarkets-smart-talk-dhawal-dalals-fixed-income-playbook-stagger-bond-bets-favour-aaa-debt/articleshow/133284956.cms",
+      "title": "Rupee falls 17 paise to 95.59 against US dollar in early trade",
+      "description": "In early trading, the rupee slipped by 17 paise against the US dollar as investor sentiment turned cautious following the Reserve Bank of India's announcement on its swap facility adjustment. The end of the FCNR (B) deposit facility on August 31 is causing concern among traders, even though prior fo",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-falls-17-paise-to-95-59-against-us-dollar-in-early-trade/articleshow/133288203.cms",
       "source": "Economic Times Markets",
       "date": "2026-08-17",
       "image": "",
-      "category": "inflation"
+      "category": "currency"
     },
     {
-      "title": "gold, silver, platinum or palladium: which to invest in - The Straits Times",
+      "title": "Gold, silver, platinum and palladium: What S\u2019pore investors should know about these precious metals - The Straits Times",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMlpjQWxNT2pseFM5Ulg1elVMWjJTTElfTFZFX0tSekVFVVJoSUhDeV9CenVzaG1SRmYwYldHWjJKdmNuaFdxZWhiU2RkcVAtcXhsSUdTcW00SFhqU09KLTJhbTg3YTVyaURFRHdUVXk4S0xyWXJVUlhhNnN1dE5aSklkaDZEUmVZSGZwUjd6N3FrbzY0a3FCN29OX1hFWG1yOGFJSkVjSHhPTmRzcm5mWklRWkM3WFl2VD",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMlpjQWxNT2pseFM5Ulg1elVMWjJTTElfTFZFX0tSekVFVVJoSUhDeV9CenVzaG1SRmYwYldHWjJKdmNuaFdxZWhiU2RkcVAtcXhsSUdTcW00SFhqU09KLTJhbTg3YTVyaURFRHdUVXk4S0xyWXJVUlhhNnN1dE5aSklkaDZEUmVZSGZwUjd6N3FrbzY0a3FCN29OX1hFWG1yOGFJSkVjSHhPTmRzcm5mWklRWkM3WFl2VDdNZFl5cTJDOXUxYlFVYmpCd2pNMTVlc3BOM0VTQklJOGRvdFNYQ2I5dzZ2Zw?oc=5",
       "source": "Google News - Precious Metals",
       "date": "2026-08-17",
       "image": "",
       "category": "platinum"
+    },
+    {
+      "title": "Gold prices rise as weaker dollar supports precious metals - Sharjah24",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNT2RSUU16WGRRVjVEbEJQbE9mVlBrU20xbGZhcThUTkhUSkNBX1pPYWdBVTlKTXpSVEQ4LTdVUHBwbkNuMS04OVhwZklkaGVoZE50bGhUOGkyODlJLTVoaERUWVJnTjc1LTJxcDNxN2FjbVMtOXFNUFZKSHlYUFh4LWg5NGsxRnkzSzJ2TEcxcnE1TzI5QnhRZVBRSE9icnZHT2QwVw?oc=5\" target=\"_blank\">Gold ",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT2RSUU16WGRRVjVEbEJQbE9mVlBrU20xbGZhcThUTkhUSkNBX1pPYWdBVTlKTXpSVEQ4LTdVUHBwbkNuMS04OVhwZklkaGVoZE50bGhUOGkyODlJLTVoaERUWVJnTjc1LTJxcDNxN2FjbVMtOXFNUFZKSHlYUFh4LWg5NGsxRnkzSzJ2TEcxcnE1TzI5QnhRZVBRSE9icnZHT2QwVw?oc=5",
+      "source": "Google News - Precious Metals",
+      "date": "2026-08-17",
+      "image": "",
+      "category": "currency"
+    },
+    {
+      "title": "Cami Clark: Anthropic CEO Dario Amodei\u2019s wife is a Silicon Valley power player. But Claude barely knows her",
+      "description": "Cami Clark, wife of Anthropic CEO Dario Amodei, has remained largely unknown outside Silicon Valley\u2019s elite despite her proximity to some of the technology world\u2019s most powerful figures. Her unconventional career includes a women-focused pornography startup, \u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/cami-clark-anthropic-ceo-dario-amodeis-wife-is-a-silicon-valley-power-player-but-claude-barely-knows-her/articleshow/133270618.cms",
+      "source": "The Times of India",
+      "date": "2026-08-16",
+      "image": "https://img.etimg.com/thumb/msid-133271079,width-1200,height-630,imgsize-93764,overlay-economictimes/articleshow.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Lithium in the Sahel: how armed groups are exploiting the global scramble for the critical mineral",
+      "description": "Armed groups in the Sahel are finding new ways to profit from the rapidly expanding lithium trade.",
+      "url": "https://theconversation.com/lithium-in-the-sahel-how-armed-groups-are-exploiting-the-global-scramble-for-the-critical-mineral-287526",
+      "source": "The Conversation Africa",
+      "date": "2026-08-16",
+      "image": "https://images.theconversation.com/files/751931/original/file-20260804-50-wccb07.jpg?ixlib=rb-4.1.1&rect=0%2C674%2C5283%2C2641&q=45&auto=format&w=1356&h=668&fit=crop",
+      "category": "market"
+    },
+    {
+      "title": "Small, microcaps offer better alpha opportunities; midcaps look expensive: Equitree CIO Pawan Bharaddia",
+      "description": "Indian equities may stay supported by a resilient domestic economy, but future returns are likely to depend more on earnings growth than valuation re-rating, says Pawan Bharaddia of Equitree Capital Advisors. He sees alpha opportunities in select small and mi\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/small-microcaps-offer-better-alpha-opportunities-midcaps-look-expensive-equitree-cio-pawan-bharaddia/articleshow/133269914.cms",
+      "source": "The Times of India",
+      "date": "2026-08-16",
+      "image": "https://img.etimg.com/thumb/msid-133269942,width-1200,height-630,imgsize-81358,overlay-etmarkets/articleshow.jpg",
+      "category": "market"
     },
     {
       "title": "Mengkang rare earth project in Laos suspended amid policy changes",
@@ -170,147 +206,156 @@
       "category": "supply_demand"
     },
     {
-      "title": "Corruption: Big Oil Buys Congress Lawmakers",
-      "description": "While states are trying to hold Big Oil accountable for climate disasters, some fossil fuel-funded lawmakers in Congress are shielding them",
-      "url": "https://www.juancole.com/2026/08/corruption-congress-lawmakers.html",
-      "source": "Juancole.com",
+      "title": "Can bleach get rid of cockroaches?",
+      "description": "Can Bleach Really Eradicate Cockroaches? The Truth Exposed Bleach might kill cockroaches on direct contact, but it\u2019s not an effective long-term solution for infestation control. The lingering effects of can bleach get rid of cockroaches are minimal, and using\u2026",
+      "url": "https://www.lifesciencesworld.com/can-bleach-get-rid-of-cockroaches/",
+      "source": "Lifesciencesworld.com",
       "date": "2026-08-16",
-      "image": "https://www.juancole.com/images/2026/08/documerica-x-EG-R-bUTI-unsplash.jpg",
+      "image": null,
       "category": "market"
     },
     {
-      "title": "Smart Tugs And Trucks That Don\u2019t Sleep. Automation Rewires US Transport",
-      "description": "By Gavin Maguire LITTLETON, Colorado, Aug 14 (Reuters)\u00a0\u2013\u00a0U.S. transportation has steadily become more efficient through advances in engine technology, infrastructure upgrades and increasingly sophisticated logistics networks. The next wave is...",
-      "url": "https://gcaptain.com/smart-tugs-and-trucks-that-dont-sleep-automation-rewires-us-transport/",
-      "source": "gcaptain.com",
+      "title": "Microsoft exec on Southern Europe\u2019s big AI moment: skills \u2014 not technology \u2014 will determine who leads the region\u2019s AI future",
+      "description": "\u201cI see Greece as more than a market; I see it as an innovation hub,\u201d Charles Calestroupat, Microsoft\u2019s VP for Southern Europe, told Fortune Greece.",
+      "url": "https://fortune.com/2026/08/16/southern-europe-ai-moment-skills-charles-calestroupat-microsoft/",
+      "source": "Fortune",
       "date": "2026-08-16",
-      "image": "https://gcaptain.com/wp-content/uploads/2018/09/shutterstock_3418335-e1652992704869.jpg",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/charles-c.png?resize=1200,600",
+      "category": "currency"
+    },
+    {
+      "title": "Jimmy Wales: \u2018AI can generate answers. It still can\u2019t earn trust\u2019",
+      "description": "The leadership lesson of Wikipedia.",
+      "url": "https://fortune.com/2026/08/16/jimmy-wales-ai-can-generate-answers-it-still-cant-earn-trust/",
+      "source": "Fortune",
+      "date": "2026-08-16",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/wales.jpg?resize=1200,600",
       "category": "market"
     },
     {
-      "title": "Uwa Bu Ahia: Trading ideas for development",
-      "description": "By Emeka Mba There is a proverb the Igbo publicly\u00a0render with relish and pride: Uwa bu\u00a0afia \u2014 the world is a marketplace. We say it to explain our pursuit of communal and personal value, our enterprise, our presence in every corner of the globe where commerce\u2026",
-      "url": "https://www.vanguardngr.com/2026/08/uwa-bu-ahia-trading-ideas-for-development/",
+      "title": "India Day Parade: Zohran Mamdani attends as first Indian American mayor of New York",
+      "description": "US News: New York City's first Indian-American mayor, Zohran Mamdani, joined the Queens 'India Day' Parade in Floral Park as Indian-American communities across.",
+      "url": "https://timesofindia.indiatimes.com/world/us/india-day-parade-zohran-mamdani-attends-as-first-indian-american-mayor-of-new-york/articleshow/133271648.cms",
+      "source": "The Times of India",
+      "date": "2026-08-16",
+      "image": "https://static.toiimg.com/thumb/msid-133271695,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Kwattle Kitchen Season 2 grand finale: Suraj Singh lifts the trophy; emerges as the winner",
+      "description": "In an exhilarating conclusion to Kwattle Kitchen Season 2, Suraj Singh emerged as the champion, displaying remarkable culinary prowess amid numerous unexpected challenges. Bhavish captured the runner-up spot after an intense finale. Throughout the season, con\u2026",
+      "url": "https://timesofindia.indiatimes.com/tv/news/kannada/kwattle-kitchen-season-2-grand-finale-suraj-singh-lifts-the-trophy-emerges-as-the-winner/articleshow/133271597.cms",
+      "source": "The Times of India",
+      "date": "2026-08-16",
+      "image": "https://static.toiimg.com/thumb/msid-133271619,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "category": "market"
+    },
+    {
+      "title": "University of Texas researchers turn everyday biomass into a machine that makes water from air",
+      "description": "In a groundbreaking study, researchers have engineered hydrogels derived from natural resources designed to absorb moisture from the atmosphere. These advanced sorbents can capture water vapour even in arid environments. By applying gentle heat, the collected\u2026",
+      "url": "https://timesofindia.indiatimes.com/science/university-of-texas-researchers-turn-everyday-biomass-into-a-machine-that-makes-water-from-air/articleshow/133271435.cms",
+      "source": "The Times of India",
+      "date": "2026-08-16",
+      "image": "https://static.toiimg.com/thumb/msid-133271606,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Rubina Dilaik reacts to plastic surgery rumours: \u2018I\u2019ve not gone under the knife to look the way that I am today\u2019",
+      "description": "In a recent YouTube video alongside friends, Rubina Dilaik confronted rumors surrounding her looks, firmly denying any claims of surgical enhancements. She explained that old images had been modified using AI, and her changing appearance is a natural evolutio\u2026",
+      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/rubina-dilaik-shuts-down-plastic-surgery-rumors-ive-embraced-natural-beauty/articleshow/133271560.cms",
+      "source": "The Times of India",
+      "date": "2026-08-16",
+      "image": "https://static.toiimg.com/thumb/msid-133271572,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "category": "market"
+    },
+    {
+      "title": "India must strengthen shipping capacity, naval protection amid growing chokepoints: GTRI",
+      "description": "India needs to enhance shipping capacity and naval protection due to persistent maritime insecurity and rising trade risks, warns GTRI.",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/india-must-strengthen-shipping-capacity-naval-protection-amid-growing-chokepoints-gtri/article71352225.ece",
+      "source": "BusinessLine",
+      "date": "2026-08-16",
+      "image": "https://bl-i.thgim.com/public/incoming/6185df/article71352268.ece/alternates/LANDSCAPE_1200/BL20_Think_trade.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Hormuz risks raise Ceyhan\u2019s potential as global oil hub",
+      "description": "Rising supply risks in the Strait of Hormuz are increasing the importance of alternative oil export routes, with T\u00fcrkiye\u2019s southern district of Ceyhan emerging as a potential hub for global crude oil and petroleum products trade.",
+      "url": "https://www.hurriyetdailynews.com/hormuz-risks-raise-ceyhans-potential-as-global-oil-hub-225666",
+      "source": "Hurriyet Daily News",
+      "date": "2026-08-16",
+      "image": "https://image.hurimg.com/i/hurriyet/75/200x200/6a8163bdb506f6e33737df14.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Many immigrants with legal status could lose Medicare coverage",
+      "description": "Hundreds of lawfully present immigrants in CT could lose Medicare health coverage in January, and officials must decide whether to help.",
+      "url": "https://ctmirror.org/2026/08/14/many-immigrants-with-legal-status-could-lose-medicare-coverage/",
+      "source": "The CT Mirror",
+      "date": "2026-08-16",
+      "image": "https://ctmirror.org/wp-content/uploads/2025/03/2025_0303_SR_ImmigrantsRally_171-scaled.jpg",
+      "category": "market"
+    },
+    {
+      "title": "US takes risky bet on private 'pirates' to combat cybercrime",
+      "description": "The United States will allow private companies to hack foreign cybercriminal groups, a seemingly unprecedented measure that is dividing experts who say it has potential to succeed or spiral out of control. Any company that participates in government-sanctione\u2026",
+      "url": "https://economictimes.indiatimes.com/tech/technology/us-takes-risky-bet-on-private-pirates-to-combat-cybercrime/articleshow/133271071.cms",
+      "source": "The Times of India",
+      "date": "2026-08-16",
+      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-51230,resizemode-75,msid-133271071/tech/technology/us-takes-risky-bet-on-private-pirates-to-combat-cybercrime.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "OLUBUNMI TUNJI-OJO: Beyond passport reforms",
+      "description": "This further promoted institutional discipline as the hallmark of that policy is electronic correspondence across departments and agencies of the ministry of Interior.\nThe post OLUBUNMI TUNJI-OJO: Beyond passport reforms appeared first on Vanguard News.",
+      "url": "https://www.vanguardngr.com/2026/08/olubunmi-tunji-ojo-beyond-passport-reforms-2/",
       "source": "Vanguard",
       "date": "2026-08-16",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/08/development.jpg",
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/08/Tunji-Ojo.jpeg",
       "category": "market"
     },
     {
-      "title": "Go Forward (Massugu ni Ikou) to Stream on SkySetTV August 18",
-      "description": "DENTON, TX - August 14, 2026 - SkySet Entertainment has announced that its release of Go Forward (Massugu ni Ikou) and its second season will begin streaming...",
-      "url": "https://www.animenewsnetwork.com/press-release/2026-08-16/go-forward-to-stream-on-skysettv-august-18/.240614",
-      "source": "Anime News Network",
+      "title": "White House Allows TikTok on Government Devices, Reversing 2022 Ban",
+      "description": "Federal employees can once again use TikTok on their government-issued devices, according to a Department of Justice (DOJ) memorandum released July 17 [1]. On Aug. 10, the Office of Management and Budget (OMB) issued a memorandum to heads of executive departm\u2026",
+      "url": "https://www.naturalnews.com/2026-08-16-white-house-allows-tiktok-government-devices-reversing-ban.html",
+      "source": "Naturalnews.com",
       "date": "2026-08-16",
-      "image": "",
+      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/tiktok-ban-government-devices-white-house-3376-original.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "\u2018Quite frustrating:\u2019 what it\u2019s like to have a treaty with the United States - High Country News",
+      "description": "The Treaty of Point Elliott bears the signatures of over 80 Indigenous leaders representing more than 20 tribal nations from the Pacific Northwest. Contemporary leaders from some of those nations explain what their treaty means today.",
+      "url": "https://www.hcn.org/issues/58-8/quite-frustrating-what-its-like-to-have-a-treaty-with-the-united-states/",
+      "source": "High Country News",
+      "date": "2026-08-16",
+      "image": "https://www.hcn.org/wp-content/uploads/2026/07/072926-treaty-1.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Will Sensex, Nifty continue to bleed on Monday? 4 factors which will drive D-Street action this week",
+      "description": "Indian equities are likely to remain range-bound in the week of August 17\u201321, with elevated crude prices, global uncertainty and shifting US Fed expectations keeping investors cautious. Sensex fell around 500 points and Nifty 205 points last week, while broad\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-sensex-nifty-continue-to-bleed-on-monday-4-factors-which-will-drive-d-street-action-this-week/articleshow/133270103.cms",
+      "source": "The Times of India",
+      "date": "2026-08-16",
+      "image": "https://img.etimg.com/thumb/msid-133270127,width-1200,height-630,imgsize-57422,overlay-etmarkets/articleshow.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Geopolitical developments, crude oil major driving factors for market movement this week: Analysts",
+      "description": "Analysts predict market movements this week will hinge on crude oil prices and geopolitical tensions, especially in the US-Iran context.",
+      "url": "https://www.thehindubusinessline.com/markets/geopolitical-developments-crude-oil-major-driving-factors-for-market-movement-this-week-analysts/article71352010.ece",
+      "source": "BusinessLine",
+      "date": "2026-08-16",
+      "image": "https://bl-i.thgim.com/public/incoming/7wk36r/article66304040.ece/alternates/LANDSCAPE_1200/IMG_PO25_stock_market_2_1_2AALTEPA.jpg",
       "category": "geopolitics"
     },
     {
-      "title": "The Peruvian Amazon holds a river that runs hot enough to boil small animals that fall in, reaching 86 degrees Celsius along a 6-kilometre stretch with no volcano anywhere nearby, and geologists think it is heated by water circulating several kilometres deep through faults in the rock",
-      "description": "A tributary in the Peruvian Amazon reaches 86 degrees Celsius along a six-kilometre stretch, with no volcano within 700 kilometres. Geologists trace the heat to rainwater circulating kilometres deep through faults before rising back to the surface.\nThe post T\u2026",
-      "url": "https://spacedaily.com/sd-the-peruvian-amazon-holds-a-river-that-runs-hot-enough-to-boil-small-animals-that-fall-in-reaching-86-degrees-celsius-along-a-6-kilometre-stretch-with-no-volcano-anywhere-nearby-and-geologists-thin/",
-      "source": "Space Daily",
+      "title": "Trump's 2024 grocery photo op now haunts Republicans in the midterms",
+      "description": "Rising grocery and fuel prices are emerging as a political vulnerability for US Republicans ahead of the November midterms. Despite Donald Trump\u2019s pledge to lower living costs, prices of several staples remain elevated, contributing to voter frustration over \u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/trumps-2024-grocery-photo-op-now-haunts-republicans-in-the-midterms/articleshow/133269953.cms",
+      "source": "The Times of India",
       "date": "2026-08-16",
-      "image": "https://spacedaily.com/wp-content/uploads/2026/08/the-peruvian-amazon-holds-a-river-that-r.jpg",
-      "category": "market"
-    },
-    {
-      "title": "SPLC: The first domino falls",
-      "description": "By Mike McDanielWe\u2019ll soon see if Beirich and others are true believers, or merely con artists who know when to hold and fold.",
-      "url": "https://www.americanthinker.com/blog/2026/08/splc-the-first-domino-falls/",
-      "source": "Americanthinker.com",
-      "date": "2026-08-16",
-      "image": "https://images.americanthinker.com/ui/uirn63yoziivlrpqerqw_1200.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Karoline Leavitt and the courage to walk away while winning",
-      "description": "By Meda Parameswara ReddyIt\u2019s a powerful message to a generation of young women under pressure.",
-      "url": "https://www.americanthinker.com/blog/2026/08/karoline-leavitt-and-the-courage-to-walk-away-while-winning/",
-      "source": "Americanthinker.com",
-      "date": "2026-08-16",
-      "image": "https://images.americanthinker.com/rt/rtavooc3momamgfhbhte_1200.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "America\u2019s Stranger Problem",
-      "description": "Photo Credit:\n \n American Thinker AIBy Allan J. FeiferMass immigration can only work if immigrants are introduced to a common American culture and expected to assimilate.",
-      "url": "https://www.americanthinker.com/articles/2026/08/america-s-stranger-problem/",
-      "source": "Americanthinker.com",
-      "date": "2026-08-16",
-      "image": "https://images.americanthinker.com/fr/frhbvo7vhxjuegzwcgps_1200.jpg",
-      "category": "market"
-    },
-    {
-      "title": "America\u2019s economy was being traded away...until Trump stepped in.",
-      "description": "By Joseph Ford CottoTrump\u2019s tariffs exposed a vast transshipment racket, and his administration is now closing the loopholes that let foreign exporters evade them.",
-      "url": "https://www.americanthinker.com/blog/2026/08/america-s-economy-was-being-traded-away-until-trump-stepped-in/",
-      "source": "Americanthinker.com",
-      "date": "2026-08-16",
-      "image": "https://images.americanthinker.com/oh/ohhzl1alnletcpz8snmm_1200.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "California Blues",
-      "description": "Photo Credit:Albert Bierstadt, Public domain, via Wikimedia Commons\n \n Public DomainBy Lars M\u00f8llerWherever Democrat majorities have held power for long enough, an inexorable process of decivilization sets in, involving the collapse of civic order and dystopia\u2026",
-      "url": "https://www.americanthinker.com/articles/2026/08/california-blues/",
-      "source": "Americanthinker.com",
-      "date": "2026-08-16",
-      "image": "https://images.americanthinker.com/cr/cr4jio6t8whyl53yh6mh_1200.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Albanese government's migration overhaul faces further delays - as Pauline Hanson calls for cuts",
-      "description": "Home Affairs Minister Tony Burke has refused to reveal when the government will announce it's migration overhaul.",
-      "url": "https://www.dailymail.com/news/article-16055693/tony-burke-migration-overhaul-labor-pauline-hanson.html",
-      "source": "Dailymail.com",
-      "date": "2026-08-16",
-      "image": "https://i.dailymail.com/1s/2026/08/16/03/110662421-0-image-m-13_1786846036239.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Election rigging: Universities should reply Obi, by Tonnie Iredia",
-      "description": "A scathing recent remark\u00a0by the presidential candidate of the Nigeria Democratic Congress NDC, Mr. Peter Obi that Nigerian professors now help illiterates to rig elections in the country must have disconcerted many citizens.\u00a0 It is certainly a remark which ke\u2026",
-      "url": "https://www.vanguardngr.com/2026/08/election-rigging-universities-should-reply-obi-by-tonnie-iredia/",
-      "source": "Vanguard",
-      "date": "2026-08-16",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2022/06/Tonnie-iredia-e1702768089171.jpg",
-      "category": "market"
-    },
-    {
-      "title": "GENERAL BABANGIDA AT 85: Another tribute, by Dele Sobowale",
-      "description": "\u201dNobody is worth being called a friend unless he is prepared to suffer attacks on account of defending you\u201d \u2013 Anonymous Annual tributes to\u00a0former military President Ibrahim Badamasi Babangida, IBB, has become a ritual; shared by several highly respected indiv\u2026",
-      "url": "https://www.vanguardngr.com/2026/08/general-babangida-at-85-another-tribute-by-dele-sobowale/",
-      "source": "Vanguard",
-      "date": "2026-08-16",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2014/05/Dele-sobowale.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "INVESTOR DEADLINE APPROACHING: Faruqi & Faruqi, LLP Reminds First Solar (FSLR) Investors of Securities Class Action Lawsuit Deadline on August 24, 2026",
-      "description": "Faruqi & Faruqi, LLP Securities Litigation Partner James (Josh) Wilson Encourages Investors Who Suffered Losses In First Solar To Contact Him Directly To Discuss Their Options If you purchased or acquired securities in First Solar between February 26, 2025 an\u2026",
-      "url": "https://www.prnewswire.com/news-releases/investor-deadline-approaching-faruqi--faruqi-llp-reminds-first-solar-fslr-investors-of-securities-class-action-lawsuit-deadline-on-august-24-2026-302851512.html",
-      "source": "PRNewswire",
-      "date": "2026-08-16",
-      "image": "https://mmx.prnewswire.com/media/MS1955060/Faruqi-Logo-Logo.jpg?id=OA2886288&p=facebook",
-      "category": "market"
-    },
-    {
-      "title": "UK inflation set to rise as AI chip crunch, energy costs add pressure",
-      "description": "Data on Wednesday are set to show inflation accelerating for the first time in four months, with the median economist estimate in a Bloomberg survey predicting a 2.9% jump in July",
-      "url": "https://www.business-standard.com/world-news/uk-inflation-set-to-rise-as-ai-chip-crunch-energy-costs-add-pressure-126081600048_1.html",
-      "source": "Business Standard",
-      "date": "2026-08-16",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/16/thumb/fitandfill/1200X628/1786846448-8379.jpg",
-      "category": "inflation"
-    },
-    {
-      "title": "Economic Digest: A Snapshot of Nepal\u2019s Business News",
-      "description": "KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. The developments reflect a mixed picture of Nepal\u2019s economy and public policy, with encouraging signs i\u2026",
-      "url": "https://english.khabarhub.com/2026/16/563414/",
-      "source": "Khabarhub.com",
-      "date": "2026-08-16",
-      "image": "https://english.khabarhub.com/wp-content/uploads/2024/05/Economic-Digest.jpg",
+      "image": "https://img.etimg.com/thumb/msid-133270049,width-1200,height-630,imgsize-81102,overlay-economictimes/articleshow.jpg",
       "category": "market"
     },
     {
@@ -350,33 +395,6 @@
       "category": "market"
     },
     {
-      "title": "Four USC Trojans Freshmen Who Could Start Week 1 Against San Jose State",
-      "description": "Which freshmen from the USC Trojans top-ranked recruiting class could be starters in the season opener against San Jose State?",
-      "url": "https://www.si.com/college/usc/football/four-usc-trojans-freshmen-could-start-week-1-against-san-jose-state",
-      "source": "Sports Illustrated",
-      "date": "2026-08-15",
-      "image": "https://s.yimg.com/lo/mysterio/api/7c09399036fda0877873e319e43889551b8638c7544c839451f97d0787624955/lightyear_networkapi/resizefill_w912_h513%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusc_trojans_on_si_articles_602%2Fc273c34e6ef0f8855dc61716640d5588.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Dolly Parton Shares Health Update After Skipping Dollywood\u2019s Record-Breaking Unveiling",
-      "description": "After being unable to attend the NightFlight dedication ceremony at Dollywood due to a health emergency, Dolly Parton\u2019s condition has finally been revealed, affecting millions of fans. Dolly Parton Reveals Updated Health Diagnoses After Emergency Scare Dolly \u2026",
-      "url": "https://insidethemagic.net/2026/08/dolly-parton-health-update-dollywood-nightflight-expedition-emd1/",
-      "source": "Inside the Magic",
-      "date": "2026-08-15",
-      "image": "https://insidethemagic.net/wp-content/uploads/2025/10/dolly-parton-at-dollywood-flickr-kristopher-harris.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Steelers invest in defensive tackle Keeanu Benton, signing him to 5-year deal",
-      "description": "The Pittsburgh Steelers and defensive tackle Keeanu Benton have agreed to a new five-year contract that will keep Benton in black and gold into the next decade. The deal, which carries a total value of $73.75 million, replaces Benton's rookie contract that he\u2026",
-      "url": "https://sports.yahoo.com/articles/steelers-invest-defensive-tackle-keeanu-170639052.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-08-15",
-      "image": "https://s.yimg.com/lo/mysterio/api/aab4614020ffc1b3f9a886df8341b1b864fc2f7d9687b0479b16babd82ed7cf8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fb2b6d284bc88a25ae3f4569a84176dce.jpg",
-      "category": "metals"
-    },
-    {
       "title": "Gold's wild 2026 ride might not be over yet",
       "description": "Gold traders have had a hard time getting this year right. The metal has swung from record highs to steep drops and back again. Most of the people who trade...",
       "url": "https://www.thestreet.com/investing/golds-wild-2026-ride-might-not-be-over-yet",
@@ -384,24 +402,6 @@
       "date": "2026-08-15",
       "image": "https://s.yimg.com/lo/mysterio/api/38355756FF670C33A7E37B9CBC18EE7CA5F84F2918CE3BD998F5849754CBD30B/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2Fa07be4baa48f25d9d81aaefb2dc14311.jpg",
       "category": "metals"
-    },
-    {
-      "title": "Bullion Cues: Prices could soften",
-      "description": "Bullion prices may soften; consider initiating short positions on gold and silver futures amid resistance levels.",
-      "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/bullion-cues-prices-could-soften/article71348580.ece",
-      "source": "BusinessLine",
-      "date": "2026-08-15",
-      "image": "https://bl-i.thgim.com/public/incoming/yze982/article71349608.ece/alternates/LANDSCAPE_1200/Investments-in-GDUGC3S7F.4.jpg.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "'Ultimate crash': Peter Schiff calls US stocks a 'ticking time bomb' \u2014 but is he right? Protect your wealth now",
-      "description": "\u201cThe majority of investors don\u2019t understand the fundamentals.\u201d",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ultimate-crash-peter-schiff-calls-114500834.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-08-15",
-      "image": "https://s.yimg.com/lo/mysterio/api/AE3FC9141C5F67D0DE8052BB5F4E20FCD7C843DBFCD81662AC0AD93718629230/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2Fb3838abb08dfa4af59e74963616219c4.jpg",
-      "category": "market"
     }
   ],
   "history": [
@@ -476,7 +476,7 @@
       "platinum_usd_oz": 1750.12
     }
   ],
-  "timestamp": "2026-08-17T09:39:17.021319+05:30",
+  "timestamp": "2026-08-17T13:00:38.677706+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
