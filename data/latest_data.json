@@ -54,7 +54,7 @@
         "hold": 25
       },
       "summary": "Gold is showing positive signals. Strong daily gain of 2.4%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-16T13:10:39.246913",
+      "timestamp": "2026-08-17T04:09:16.887839",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 25
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 3.4%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-16T13:10:39.311943",
+      "timestamp": "2026-08-17T04:09:16.946454",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 25
       },
       "summary": "Platinum is showing positive signals. Strong daily gain of 1.4%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-16T13:10:39.376775",
+      "timestamp": "2026-08-17T04:09:17.008384",
       "source": "rule-based"
     }
   },
@@ -134,40 +134,265 @@
   },
   "news": [
     {
-      "title": "Still holding cash at home? Warren Buffett calls it oxygen, but says it\u2019s not good as an asset",
-      "description": "Berkshire Hathaway's successor Greg Abel is deploying its large cash reserves. The firm recently bought back shares and invested heavily in equities. Alphabet stock saw a significant purchase, becoming a major holding. Berkshire's cash pile decreased after these strategic acquisitions. The company r",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/still-holding-cash-at-home-warren-buffett-calls-it-oxygen-but-says-its-not-good-as-an-asset/articleshow/133272964.cms",
+      "title": "One common stock across 6 top performing mutual funds: Is MCX a signal or a crowded trade?",
+      "description": "MCX is the sole stock held by six top-performing mid and small-cap mutual funds. Analysts at UBS see a re-rating opportunity, upgrading the stock to Buy. JPMorgan also upgraded MCX, citing potential growth catalysts from regulatory changes. Dolat Capital, however, flags regulatory and valuation risk",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/one-common-stock-across-6-top-performing-mutual-funds-is-mcx-a-signal-or-a-crowded-trade/articleshow/133285869.cms",
       "source": "Economic Times Markets",
+      "date": "2026-08-17",
+      "image": "",
+      "category": "market"
+    },
+    {
+      "title": "ETMarkets Smart Talk | Dhawal Dalal\u2019s fixed-income playbook: Stagger bond bets, favour AAA debt",
+      "description": "While the near-term rate outlook remains uncertain amid global inflation and energy price risks, the fixed-income landscape continues to offer opportunities across select segments.",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/etmarkets-smart-talk-dhawal-dalals-fixed-income-playbook-stagger-bond-bets-favour-aaa-debt/articleshow/133284956.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-08-17",
+      "image": "",
+      "category": "inflation"
+    },
+    {
+      "title": "gold, silver, platinum or palladium: which to invest in - The Straits Times",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMlpjQWxNT2pseFM5Ulg1elVMWjJTTElfTFZFX0tSekVFVVJoSUhDeV9CenVzaG1SRmYwYldHWjJKdmNuaFdxZWhiU2RkcVAtcXhsSUdTcW00SFhqU09KLTJhbTg3YTVyaURFRHdUVXk4S0xyWXJVUlhhNnN1dE5aSklkaDZEUmVZSGZwUjd6N3FrbzY0a3FCN29OX1hFWG1yOGFJSkVjSHhPTmRzcm5mWklRWkM3WFl2VD",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMlpjQWxNT2pseFM5Ulg1elVMWjJTTElfTFZFX0tSekVFVVJoSUhDeV9CenVzaG1SRmYwYldHWjJKdmNuaFdxZWhiU2RkcVAtcXhsSUdTcW00SFhqU09KLTJhbTg3YTVyaURFRHdUVXk4S0xyWXJVUlhhNnN1dE5aSklkaDZEUmVZSGZwUjd6N3FrbzY0a3FCN29OX1hFWG1yOGFJSkVjSHhPTmRzcm5mWklRWkM3WFl2VDdNZFl5cTJDOXUxYlFVYmpCd2pNMTVlc3BOM0VTQklJOGRvdFNYQ2I5dzZ2Zw?oc=5",
+      "source": "Google News - Precious Metals",
+      "date": "2026-08-17",
+      "image": "",
+      "category": "platinum"
+    },
+    {
+      "title": "Mengkang rare earth project in Laos suspended amid policy changes",
+      "description": "The suspension underscores the regulatory and operational risks in developing economies, impacting China's rare earth supply strategy.\nThe post Mengkang rare earth project in Laos suspended amid policy changes appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/mengkang-rare-earth-laos-suspended/",
+      "source": "Crypto Briefing",
+      "date": "2026-08-16",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/15210803/rare-earth-mineral-mines-have-spread-across-laos-since-2022--800x420.jpeg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Corruption: Big Oil Buys Congress Lawmakers",
+      "description": "While states are trying to hold Big Oil accountable for climate disasters, some fossil fuel-funded lawmakers in Congress are shielding them",
+      "url": "https://www.juancole.com/2026/08/corruption-congress-lawmakers.html",
+      "source": "Juancole.com",
+      "date": "2026-08-16",
+      "image": "https://www.juancole.com/images/2026/08/documerica-x-EG-R-bUTI-unsplash.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Smart Tugs And Trucks That Don\u2019t Sleep. Automation Rewires US Transport",
+      "description": "By Gavin Maguire LITTLETON, Colorado, Aug 14 (Reuters)\u00a0\u2013\u00a0U.S. transportation has steadily become more efficient through advances in engine technology, infrastructure upgrades and increasingly sophisticated logistics networks. The next wave is...",
+      "url": "https://gcaptain.com/smart-tugs-and-trucks-that-dont-sleep-automation-rewires-us-transport/",
+      "source": "gcaptain.com",
+      "date": "2026-08-16",
+      "image": "https://gcaptain.com/wp-content/uploads/2018/09/shutterstock_3418335-e1652992704869.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Uwa Bu Ahia: Trading ideas for development",
+      "description": "By Emeka Mba There is a proverb the Igbo publicly\u00a0render with relish and pride: Uwa bu\u00a0afia \u2014 the world is a marketplace. We say it to explain our pursuit of communal and personal value, our enterprise, our presence in every corner of the globe where commerce\u2026",
+      "url": "https://www.vanguardngr.com/2026/08/uwa-bu-ahia-trading-ideas-for-development/",
+      "source": "Vanguard",
+      "date": "2026-08-16",
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/08/development.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Go Forward (Massugu ni Ikou) to Stream on SkySetTV August 18",
+      "description": "DENTON, TX - August 14, 2026 - SkySet Entertainment has announced that its release of Go Forward (Massugu ni Ikou) and its second season will begin streaming...",
+      "url": "https://www.animenewsnetwork.com/press-release/2026-08-16/go-forward-to-stream-on-skysettv-august-18/.240614",
+      "source": "Anime News Network",
       "date": "2026-08-16",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "Mark Cuban calls these investments 'death' for ultra-rich Americans. Are you making the same mistakes?",
-      "description": "The billionaire investor says some of the most glamorous business opportunities can be money pits.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mark-cuban-calls-investments-death-123500844.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-08-15",
-      "image": "https://s.yimg.com/lo/mysterio/api/5461D239A021610ED5219919371EA355C53D062F60FEBE0F3AC5B59ED6595B8C/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2F7bf844f7cb9277ba0a06703ebad0519b.png",
+      "title": "The Peruvian Amazon holds a river that runs hot enough to boil small animals that fall in, reaching 86 degrees Celsius along a 6-kilometre stretch with no volcano anywhere nearby, and geologists think it is heated by water circulating several kilometres deep through faults in the rock",
+      "description": "A tributary in the Peruvian Amazon reaches 86 degrees Celsius along a six-kilometre stretch, with no volcano within 700 kilometres. Geologists trace the heat to rainwater circulating kilometres deep through faults before rising back to the surface.\nThe post T\u2026",
+      "url": "https://spacedaily.com/sd-the-peruvian-amazon-holds-a-river-that-runs-hot-enough-to-boil-small-animals-that-fall-in-reaching-86-degrees-celsius-along-a-6-kilometre-stretch-with-no-volcano-anywhere-nearby-and-geologists-thin/",
+      "source": "Space Daily",
+      "date": "2026-08-16",
+      "image": "https://spacedaily.com/wp-content/uploads/2026/08/the-peruvian-amazon-holds-a-river-that-r.jpg",
       "category": "market"
     },
     {
-      "title": "The Atlassian 'velvet vixen' who 'has all the secrets': How Amy Glancey became Mike Cannon-Brookes' closest confidante as his marriage faltered and a rift grew with co-founder Scott Farquhar",
-      "description": "As Mike Cannon-Brookes' marriage and partnership with Scott Farquhar came under strain, chief of staff Amy Glancey emerged as an increasingly influential figure behind the scenes.",
-      "url": "https://www.dailymail.com/news/article-16048937/atlassian-amy-glancey-mike-cannon-brookes-chief-staff-annie-cannon-brookes-scott-farquhar-rift-lines.html",
+      "title": "SPLC: The first domino falls",
+      "description": "By Mike McDanielWe\u2019ll soon see if Beirich and others are true believers, or merely con artists who know when to hold and fold.",
+      "url": "https://www.americanthinker.com/blog/2026/08/splc-the-first-domino-falls/",
+      "source": "Americanthinker.com",
+      "date": "2026-08-16",
+      "image": "https://images.americanthinker.com/ui/uirn63yoziivlrpqerqw_1200.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Karoline Leavitt and the courage to walk away while winning",
+      "description": "By Meda Parameswara ReddyIt\u2019s a powerful message to a generation of young women under pressure.",
+      "url": "https://www.americanthinker.com/blog/2026/08/karoline-leavitt-and-the-courage-to-walk-away-while-winning/",
+      "source": "Americanthinker.com",
+      "date": "2026-08-16",
+      "image": "https://images.americanthinker.com/rt/rtavooc3momamgfhbhte_1200.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "America\u2019s Stranger Problem",
+      "description": "Photo Credit:\n \n American Thinker AIBy Allan J. FeiferMass immigration can only work if immigrants are introduced to a common American culture and expected to assimilate.",
+      "url": "https://www.americanthinker.com/articles/2026/08/america-s-stranger-problem/",
+      "source": "Americanthinker.com",
+      "date": "2026-08-16",
+      "image": "https://images.americanthinker.com/fr/frhbvo7vhxjuegzwcgps_1200.jpg",
+      "category": "market"
+    },
+    {
+      "title": "America\u2019s economy was being traded away...until Trump stepped in.",
+      "description": "By Joseph Ford CottoTrump\u2019s tariffs exposed a vast transshipment racket, and his administration is now closing the loopholes that let foreign exporters evade them.",
+      "url": "https://www.americanthinker.com/blog/2026/08/america-s-economy-was-being-traded-away-until-trump-stepped-in/",
+      "source": "Americanthinker.com",
+      "date": "2026-08-16",
+      "image": "https://images.americanthinker.com/oh/ohhzl1alnletcpz8snmm_1200.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "California Blues",
+      "description": "Photo Credit:Albert Bierstadt, Public domain, via Wikimedia Commons\n \n Public DomainBy Lars M\u00f8llerWherever Democrat majorities have held power for long enough, an inexorable process of decivilization sets in, involving the collapse of civic order and dystopia\u2026",
+      "url": "https://www.americanthinker.com/articles/2026/08/california-blues/",
+      "source": "Americanthinker.com",
+      "date": "2026-08-16",
+      "image": "https://images.americanthinker.com/cr/cr4jio6t8whyl53yh6mh_1200.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Albanese government's migration overhaul faces further delays - as Pauline Hanson calls for cuts",
+      "description": "Home Affairs Minister Tony Burke has refused to reveal when the government will announce it's migration overhaul.",
+      "url": "https://www.dailymail.com/news/article-16055693/tony-burke-migration-overhaul-labor-pauline-hanson.html",
       "source": "Dailymail.com",
-      "date": "2026-08-15",
-      "image": "https://i.dailymail.com/1s/2026/08/14/00/110607335-0-image-m-12_1786665464975.jpg",
+      "date": "2026-08-16",
+      "image": "https://i.dailymail.com/1s/2026/08/16/03/110662421-0-image-m-13_1786846036239.jpg",
       "category": "market"
     },
     {
-      "title": "Why US boomers seriously need to prepare for a stock market crash before it\u2019s too late \u2014 3 red flags and what to do now",
-      "description": "If you\u2019re anxious about the stock market, you\u2019re not alone. Here are three things that could make you more vulnerable than most other investors.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-us-boomers-seriously-prepare-121500467.html",
+      "title": "Election rigging: Universities should reply Obi, by Tonnie Iredia",
+      "description": "A scathing recent remark\u00a0by the presidential candidate of the Nigeria Democratic Congress NDC, Mr. Peter Obi that Nigerian professors now help illiterates to rig elections in the country must have disconcerted many citizens.\u00a0 It is certainly a remark which ke\u2026",
+      "url": "https://www.vanguardngr.com/2026/08/election-rigging-universities-should-reply-obi-by-tonnie-iredia/",
+      "source": "Vanguard",
+      "date": "2026-08-16",
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2022/06/Tonnie-iredia-e1702768089171.jpg",
+      "category": "market"
+    },
+    {
+      "title": "GENERAL BABANGIDA AT 85: Another tribute, by Dele Sobowale",
+      "description": "\u201dNobody is worth being called a friend unless he is prepared to suffer attacks on account of defending you\u201d \u2013 Anonymous Annual tributes to\u00a0former military President Ibrahim Badamasi Babangida, IBB, has become a ritual; shared by several highly respected indiv\u2026",
+      "url": "https://www.vanguardngr.com/2026/08/general-babangida-at-85-another-tribute-by-dele-sobowale/",
+      "source": "Vanguard",
+      "date": "2026-08-16",
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2014/05/Dele-sobowale.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "INVESTOR DEADLINE APPROACHING: Faruqi & Faruqi, LLP Reminds First Solar (FSLR) Investors of Securities Class Action Lawsuit Deadline on August 24, 2026",
+      "description": "Faruqi & Faruqi, LLP Securities Litigation Partner James (Josh) Wilson Encourages Investors Who Suffered Losses In First Solar To Contact Him Directly To Discuss Their Options If you purchased or acquired securities in First Solar between February 26, 2025 an\u2026",
+      "url": "https://www.prnewswire.com/news-releases/investor-deadline-approaching-faruqi--faruqi-llp-reminds-first-solar-fslr-investors-of-securities-class-action-lawsuit-deadline-on-august-24-2026-302851512.html",
+      "source": "PRNewswire",
+      "date": "2026-08-16",
+      "image": "https://mmx.prnewswire.com/media/MS1955060/Faruqi-Logo-Logo.jpg?id=OA2886288&p=facebook",
+      "category": "market"
+    },
+    {
+      "title": "UK inflation set to rise as AI chip crunch, energy costs add pressure",
+      "description": "Data on Wednesday are set to show inflation accelerating for the first time in four months, with the median economist estimate in a Bloomberg survey predicting a 2.9% jump in July",
+      "url": "https://www.business-standard.com/world-news/uk-inflation-set-to-rise-as-ai-chip-crunch-energy-costs-add-pressure-126081600048_1.html",
+      "source": "Business Standard",
+      "date": "2026-08-16",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/16/thumb/fitandfill/1200X628/1786846448-8379.jpg",
+      "category": "inflation"
+    },
+    {
+      "title": "Economic Digest: A Snapshot of Nepal\u2019s Business News",
+      "description": "KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. The developments reflect a mixed picture of Nepal\u2019s economy and public policy, with encouraging signs i\u2026",
+      "url": "https://english.khabarhub.com/2026/16/563414/",
+      "source": "Khabarhub.com",
+      "date": "2026-08-16",
+      "image": "https://english.khabarhub.com/wp-content/uploads/2024/05/Economic-Digest.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Goldberg puts Yoruba heritage on Ibadan skyline",
+      "description": "Goldberg Lager celebrates Yoruba heritage with a monumental talking drum installation atop Ibadan\u2019s iconic Cocoa House, blending culture and history.\n\nRead More: https://punchng.com/goldberg-puts-yoruba-heritage-on-ibadan-skyline/",
+      "url": "https://punchng.com/goldberg-puts-yoruba-heritage-on-ibadan-skyline/",
+      "source": "The Punch",
+      "date": "2026-08-15",
+      "image": "https://punchng.com/wp-content/uploads/2026/08/Goldberg_1786826745.webp",
+      "category": "metals"
+    },
+    {
+      "title": "Royal Gold\u2019s (RGLD) Profits Doubled, So Why Add A Buyback Now?",
+      "description": "Royal Gold (NASDAQ:RGLD) posted second-quarter 2026 results on August 6, and the numbers show a company operating at a different scale than a year ago. Reven...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/royal-gold-rgld-profits-doubled-223104992.html",
       "source": "Yahoo Entertainment",
       "date": "2026-08-15",
-      "image": "https://s.yimg.com/lo/mysterio/api/5C0273D739EEF49BB11506F5FDD1F6B523C96751BF5965FE242A118CBFE3303D/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2F4fc40a2763bb91c8f9d6fb4b78840624.jpg",
+      "image": "https://s.yimg.com/lo/mysterio/api/3243621BD7966317721B8FB3AAA081866FD75F19A464F2A83CE1A093C3741E8D/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F63a1ca3177f66114a93a8ee290fc3e59.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "Trump-linked crypto venture World Liberty Trust granted bank status",
+      "description": "A national bank regulator granted a wing of the Trump family's crypto business conditional approval to establish a bank charter, opening the door for larger clients.",
+      "url": "https://abcnews.com/Business/trump-linked-crypto-venture-world-liberty-trust-granted/story?id=135668756",
+      "source": "Abcnews.com",
+      "date": "2026-08-15",
+      "image": "https://i.abcnewsfe.com/a/9e462936-3d9b-4fb6-8f35-031f17713bf8/trump-occ-ruling_1786788347758_hpMain_16x9.jpg?w=1600",
       "category": "market"
+    },
+    {
+      "title": "Navigating the obscene, but not illegal, in modern politics",
+      "description": "The real erosion of public trust happens in the vast, gray area where rules are bent, loopholes are exploited, and the taxpayers get stuck",
+      "url": "https://www.wnd.com/2026/08/navigating-obscene-not-illegal-modern-politics/",
+      "source": "Wnd.com",
+      "date": "2026-08-15",
+      "image": "https://www.wnd.com/wp-content/uploads/2024/06/magnifying-glass-money-corruption-Pexels-1200x630.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Four USC Trojans Freshmen Who Could Start Week 1 Against San Jose State",
+      "description": "Which freshmen from the USC Trojans top-ranked recruiting class could be starters in the season opener against San Jose State?",
+      "url": "https://www.si.com/college/usc/football/four-usc-trojans-freshmen-could-start-week-1-against-san-jose-state",
+      "source": "Sports Illustrated",
+      "date": "2026-08-15",
+      "image": "https://s.yimg.com/lo/mysterio/api/7c09399036fda0877873e319e43889551b8638c7544c839451f97d0787624955/lightyear_networkapi/resizefill_w912_h513%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusc_trojans_on_si_articles_602%2Fc273c34e6ef0f8855dc61716640d5588.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Dolly Parton Shares Health Update After Skipping Dollywood\u2019s Record-Breaking Unveiling",
+      "description": "After being unable to attend the NightFlight dedication ceremony at Dollywood due to a health emergency, Dolly Parton\u2019s condition has finally been revealed, affecting millions of fans. Dolly Parton Reveals Updated Health Diagnoses After Emergency Scare Dolly \u2026",
+      "url": "https://insidethemagic.net/2026/08/dolly-parton-health-update-dollywood-nightflight-expedition-emd1/",
+      "source": "Inside the Magic",
+      "date": "2026-08-15",
+      "image": "https://insidethemagic.net/wp-content/uploads/2025/10/dolly-parton-at-dollywood-flickr-kristopher-harris.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Steelers invest in defensive tackle Keeanu Benton, signing him to 5-year deal",
+      "description": "The Pittsburgh Steelers and defensive tackle Keeanu Benton have agreed to a new five-year contract that will keep Benton in black and gold into the next decade. The deal, which carries a total value of $73.75 million, replaces Benton's rookie contract that he\u2026",
+      "url": "https://sports.yahoo.com/articles/steelers-invest-defensive-tackle-keeanu-170639052.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-08-15",
+      "image": "https://s.yimg.com/lo/mysterio/api/aab4614020ffc1b3f9a886df8341b1b864fc2f7d9687b0479b16babd82ed7cf8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fb2b6d284bc88a25ae3f4569a84176dce.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "Gold's wild 2026 ride might not be over yet",
+      "description": "Gold traders have had a hard time getting this year right. The metal has swung from record highs to steep drops and back again. Most of the people who trade...",
+      "url": "https://www.thestreet.com/investing/golds-wild-2026-ride-might-not-be-over-yet",
+      "source": "TheStreet",
+      "date": "2026-08-15",
+      "image": "https://s.yimg.com/lo/mysterio/api/38355756FF670C33A7E37B9CBC18EE7CA5F84F2918CE3BD998F5849754CBD30B/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2Fa07be4baa48f25d9d81aaefb2dc14311.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "Bullion Cues: Prices could soften",
+      "description": "Bullion prices may soften; consider initiating short positions on gold and silver futures amid resistance levels.",
+      "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/bullion-cues-prices-could-soften/article71348580.ece",
+      "source": "BusinessLine",
+      "date": "2026-08-15",
+      "image": "https://bl-i.thgim.com/public/incoming/yze982/article71349608.ece/alternates/LANDSCAPE_1200/Investments-in-GDUGC3S7F.4.jpg.jpg",
+      "category": "metals"
     },
     {
       "title": "'Ultimate crash': Peter Schiff calls US stocks a 'ticking time bomb' \u2014 but is he right? Protect your wealth now",
@@ -176,231 +401,6 @@
       "source": "Yahoo Entertainment",
       "date": "2026-08-15",
       "image": "https://s.yimg.com/lo/mysterio/api/AE3FC9141C5F67D0DE8052BB5F4E20FCD7C843DBFCD81662AC0AD93718629230/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2Fb3838abb08dfa4af59e74963616219c4.jpg",
-      "category": "market"
-    },
-    {
-      "title": "He Bought a $50,000 Baseball Card Through His IRA. The IRS Called It a Withdrawal and Taxed More of His Social Security.",
-      "description": "One unconventional purchase inside a self-directed IRA triggered a tax bill the retiree never saw coming, and the damage rippled all the way into his Social...",
-      "url": "https://247wallst.com/personal-finance/social-security/2026/08/15/he-bought-a-50000-baseball-card-through-his-ira-the-irs-called-it-a-withdrawal-and-taxed-more-of-his-social-security/",
-      "source": "24/7 Wall St.",
-      "date": "2026-08-15",
-      "image": "https://s.yimg.com/lo/mysterio/api/ECF59BFBCCD919132273A8D75970AE10708F1CEDB0D3CC5E6CA1C7600A608CA9/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fcc878d5a7eb240d630903adf949ac5a3.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Larry Fink\u2019s brutal warning to Americans: This everyday habit is \u2018one of the worst financial decisions\u2019 of your life",
-      "description": "Conventional wisdom could capsize your retirement.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/larry-fink-brutal-warning-americans-103500383.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-08-15",
-      "image": "https://s.yimg.com/lo/mysterio/api/4E774BF33245406DD972125625DF4C010360A436CAD8C74C45305BD197454B8C/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2Ff227899538d1fd2a00b212bc0b43447f.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "It\u2019s a Good Time for People Who Want to Bet on Sports. It\u2019s Hell for Others.",
-      "description": "\u201cLegal\u201d sports betting in one form or another is nationwide. Not everyone loves it.",
-      "url": "https://www.covers.com/industry/good-to-be-a-bettor-bad-for-others-sports-betting-prediction-markets-august-2026",
-      "source": "Covers.com",
-      "date": "2026-08-15",
-      "image": "https://s.yimg.com/lo/mysterio/api/3ece9d3551935f81c08ada94823ac0b128c59229cb271499f05a5be0434ca0ee/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcovers_articles_287%2Fd3f4f33eb905dcad30ed1e92cf02de37.jpg",
-      "category": "market"
-    },
-    {
-      "title": "NRI shares journey from Rs 10 LPA to Rs 7.5 crore net worth and 3 Mumbai homes after moving to Middle East",
-      "description": "An Indian NRI has shared his financial journey on social media, detailing how his career progressed from a Rs 10 lakh annual salary to a net worth of around Rs 7.5 crore at 37. After moving to the Middle East, he said he accumulated substantial savings, clear\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/nri-shares-journey-from-rs-10-lpa-to-rs-7-5-crore-net-worth-and-3-mumbai-homes-after-moving-to-middle-east/articleshow/133259702.cms",
-      "source": "The Times of India",
-      "date": "2026-08-15",
-      "image": "https://img.etimg.com/thumb/msid-133259936,width-1200,height-630,imgsize-78402,overlay-economictimes/articleshow.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Currencies of the World",
-      "description": "Podcast Transcript Every day, billions of people exchange pieces of paper, metal coins, and increasingly, numbers on a screen.\u00a0 The names attached to that money often have histories stretching back centuries, with origins in weights of silver, royal crowns, a\u2026",
-      "url": "https://everything-everywhere.com/currencies-of-the-world/",
-      "source": "Everything-everywhere.com",
-      "date": "2026-08-15",
-      "image": "https://photos.smugmug.com/Other/n-hRFP2/Podcast-Images/i-wrNbSwX/1/Lr4hkKLS8c3mMd8rBHfTMCDT9kkq2jmzpBvdXdbxX/L/2231epart-L.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "Gold rises on weaker dollar as inflation data cements rate-hold bets",
-      "description": "On Friday, gold prices moved upward, signaling a positive outlook for the week. The precious metal received a boost from a weaker dollar and stable inflation figures, reducing the likelihood of an upcoming interest rate hike by the Federal Reserve. Meanwhile,\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-rises-on-weaker-dollar-as-inflation-data-cements-rate-hold-bets/articleshow/133256537.cms",
-      "source": "The Times of India",
-      "date": "2026-08-15",
-      "image": "https://img.etimg.com/thumb/msid-133256553,width-1200,height-630,imgsize-8256,overlay-etmarkets/articleshow.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "\u201cYou Will Have No Freedom\u201d: Open AI Sam Altman Describes the World He Is Building for You",
-      "description": "Sam Altman, CEO of OpenAI (CHATGPT), stood in front of a packed Chase Center alongside Y Combinator CEO Garry Tan and described a future where ordinary people have no freedom, no agency and no privacy. In his version of what the world could look like ten year\u2026",
-      "url": "https://www.activistpost.com/you-will-have-no-freedom-open-ai-sam-altman-describes-the-world-he-is-building-for-you/",
-      "source": "Activistpost.com",
-      "date": "2026-08-15",
-      "image": "https://www.activistpost.com/wp-content/uploads/2026/08/aithreats.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Iran blocks Strait of Hormuz, demands US compliance amid stalled talks",
-      "description": "The blockade exacerbates global energy market instability, heightening geopolitical tensions and impacting international diplomatic relations.\nThe post Iran blocks Strait of Hormuz, demands US compliance amid stalled talks appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/iran-blocks-strait-of-hormuz-demands-us-compliance-amid-stalled-talks/",
-      "source": "Crypto Briefing",
-      "date": "2026-08-15",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/15090825/iran-blocks-strait-of-hormuz-demands-us-compliance-amid-stal-1-800x420.jpeg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "FCNR deposits explained: Can they help stabilise the rupee? | On the beat podcast",
-      "description": "Explore how FCNR deposits could stabilize the rupee and why global investors still see India as a long-term opportunity.",
-      "url": "https://www.thehindubusinessline.com/multimedia/video/fcnr-deposits-explained-can-they-help-stabilise-the-rupee/article71349609.ece",
-      "source": "BusinessLine",
-      "date": "2026-08-15",
-      "image": "https://bl-i.thgim.com/public/multimedia/video/run4zh/article71349594.ece/alternates/LANDSCAPE_1200/On%20the%20beat%20horizontal.jpg",
-      "category": "currency"
-    },
-    {
-      "title": "Gen Z isn\u2019t killing nightlife, it\u2019s just drinking differently",
-      "description": "Behind the sober-generation stereotype is careful spending and new ways to go out",
-      "url": "https://www.salon.com/2026/08/15/gen-z-isnt-killing-nightlife-its-just-drinking-differently/",
-      "source": "Salon",
-      "date": "2026-08-15",
-      "image": "https://www.salon.com/app/uploads/2023/09/5_five_cocktails_1466465380.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Fancy Footwork: How to Play Birkenstock Stock After a Revenue Beat",
-      "description": "As Birkenstock shares jump on a revenue beat and brighter guidance, can BIRK keep the momentum going?",
-      "url": "https://www.barchart.com/story/news/3867720/fancy-footwork-how-to-play-birkenstock-stock-after-a-revenue-beat",
-      "source": "Barchart.com",
-      "date": "2026-08-15",
-      "image": "https://s.yimg.com/lo/mysterio/api/A670C5B6F33B6C92423167424D8F6E2966DE42794991A9E77FE80A72D8F81C37/subgraphmysterio/resizefill_w1200_h708;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2Fde3c56ef59782b3aa873c0db6aa67f6c.jpg",
-      "category": "market"
-    },
-    {
-      "title": "NVDA Stock Alert: Nvidia CEO Jensen Huang Says Chips Are \u2018Investable Asset Class\u2019",
-      "description": "Nvidia is reshaping the AI investment landscape as Jensen Huang positions its chips as an \u201cinvestable asset class.\u201d",
-      "url": "https://www.barchart.com/story/news/3867712/nvda-stock-alert-nvidia-ceo-jensen-huang-says-chips-are-investable-asset-class",
-      "source": "Barchart.com",
-      "date": "2026-08-15",
-      "image": "https://s.yimg.com/lo/mysterio/api/A2F86C2B6065BB414143924360C9E3770C7BAC440E3AF4A284F487F62EF92147/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2Fe6f9cbf762054b4a83941a8757d2d9f9.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Common Earth Project Aims to End Chip Supply Chain Bottlenecks",
-      "description": "Supply chains in many industries are full of tangles, but for semiconductor tech, that\u2019s putting it lightly. Many chip components are location-constrained and can easily be throttled by geopolitical factors. Chipmaking is also tied up with social and environm\u2026",
-      "url": "https://spectrum.ieee.org/rare-earth-metals-in-semiconductors",
-      "source": "Ieee.org",
-      "date": "2026-08-15",
-      "image": "https://spectrum.ieee.org/media-library/three-professors-standing-around-a-colleague-seated-at-a-computer-workstation.jpg?id=67625295&width=1200&height=600&coordinates=0%2C81%2C0%2C419",
-      "category": "geopolitics"
-    },
-    {
-      "title": "AI could help fossil fuel companies create more emissions",
-      "description": "New research finds that by making the fossil fuel industry more productive, AI could help increase carbon emissions by up to nearly 5 percent \u2014 vastly outpacing the impact of data centers.",
-      "url": "https://grist.org/business/ai-could-help-fossil-fuel-companies-create-more-emissions/",
-      "source": "Grist",
-      "date": "2026-08-15",
-      "image": "https://grist.org/wp-content/uploads/2026/08/carbon-emissions.jpg",
-      "category": "market"
-    },
-    {
-      "title": "India has 'more potential than any country' for esports: Esports Foundation",
-      "description": "Mike McCabe, COO and Deputy CEO of the Esports Foundation, believes India has and quot;more potential than any country on the planet and quot; for esports, citing its enormous fan base, improving competitive ecosystem, and evolving policy environment as key d\u2026",
-      "url": "https://www.rediff.com/sports/report/esports-foundation-bets-big-on-indias-potential-as-global-growth-story/20260815.htm",
-      "source": "Rediff.com",
-      "date": "2026-08-15",
-      "image": "https://im.rediff.com/1200-630/sports/2023/sep/26esport.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Marijuana reform is\u00a0emerging\u00a0as a midterm elections issue\u00a0on both sides of the aisle",
-      "description": "With November's midterms fast approaching, cannabis reform is an issue. It's popular with voters, but its power to tilt elections remains uncertain.",
-      "url": "https://www.cnbc.com/2026/08/15/cannabis-marijuana-legalization-midterm-elections.html",
-      "source": "CNBC",
-      "date": "2026-08-15",
-      "image": "https://image.cnbcfm.com/api/v1/image/108349571-1786691479170-gettyimages-2275460438-cannabis_BC_021_051326JPG.jpeg?v=1786691530&w=1920&h=1080",
-      "category": "market"
-    },
-    {
-      "title": "Why was there an 'evil\u2019 Delta airlines Wi-Fi network? The experts weigh in",
-      "description": "A passenger set up an evil Wi-Fi network on a post-DEF CON Delta flight - we find out what the experts think.",
-      "url": "https://www.techradar.com/pro/security/why-was-there-an-evil-delta-airlines-wi-fi-network-the-experts-weigh-in",
-      "source": "TechRadar",
-      "date": "2026-08-15",
-      "image": "https://cdn.mos.cms.futurecdn.net/KZMrozx7RQQq5F2nbhK2iZ-1920-80.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Anthony Albanese has become the very leader he once despised after spending years condemning him - only this time a compliant media lets him get away with it: PVO",
-      "description": "From the WA GST deal to broken promises and the melons controversy, Albo now relies on the same playbook that destroyed the leader he once made a career out of condemning.",
-      "url": "https://www.dailymail.com/news/article-16051691/albanese-scott-morrison-playbook-pvo-analysis-gst-controversy.html",
-      "source": "Dailymail.com",
-      "date": "2026-08-15",
-      "image": "https://i.dailymail.com/1s/2026/08/14/07/110629971-0-image-m-50_1786688316903.jpg",
-      "category": "market"
-    },
-    {
-      "title": "US inflation remains above Fed target, rate cuts unlikely soon: Bloomberg",
-      "description": "Persistent inflation above target suggests prolonged cautious Fed policy, impacting economic growth and market stability expectations.\nThe post US inflation remains above Fed target, rate cuts unlikely soon: Bloomberg appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/us-inflation-remains-above-fed-target-rate-cuts-unlikely-soon-bloomberg/",
-      "source": "Crypto Briefing",
-      "date": "2026-08-15",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/15080359/federal-reserve-building-in-washington-dc-on-constitution-av-39-1-800x420.jpeg",
-      "category": "central_bank"
-    },
-    {
-      "title": "Saturday: Hili dialogue",
-      "description": "Welcome to CaturSaturday, August 15, 2026: shabbos for Jewish cats and I Love Cowboys and Cowgirls Day.\u00a0 Here for the Sabbath is a photo of a Jewish cowboy that I post periodically. As I said when I last posted it, \u201cA rare Jewish cowboy, photo in the\u00a0Eastern \u2026",
-      "url": "https://whyevolutionistrue.com/2026/08/15/saturday-hili-dialogue-595/",
-      "source": "Whyevolutionistrue.com",
-      "date": "2026-08-15",
-      "image": "https://whyevolutionistrue.com/wp-content/uploads/2026/08/Jewish-Cowboy.jpg.-2.webp",
-      "category": "market"
-    },
-    {
-      "title": "Karoline Leavitt's Trail Of Lies And Propaganda",
-      "description": "White House press secretary Karoline Leavitt announced on Wednesday that she will be leaving her job as President Donald Trump\u2019s chief propagandist at the end of the month. For her taxpayer-funded salary of $195,200 per year, Leavitt has repeatedly lied, atta\u2026",
-      "url": "https://crooksandliars.com/2026/08/karoline-leavitts-trail-lies-and",
-      "source": "Crooksandliars.com",
-      "date": "2026-08-15",
-      "image": "https://crooksandliars.com/files/embeds/2026/08/71317.jpg",
-      "category": "market"
-    },
-    {
-      "title": "This critical Social Security rule permanently changes in November \u2014 with less than 90 days to prepare. Are you ready?",
-      "description": "If you\u2019re a certain age, it can impact your payments.",
-      "url": "https://finance.yahoo.com/healthcare/articles/critical-social-security-rule-permanently-111500909.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-08-15",
-      "image": "https://s.yimg.com/lo/mysterio/api/6A1A436F4723933756DC177CF51820F0668D2D1403B2A6F301172819F0CFA3AD/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2F8d481d97c354d3b4342e7a689b4dc751.jpg",
-      "category": "market"
-    },
-    {
-      "title": "$600B of Biden\u2019s clean energy funding survives Trump\u2019s cuts",
-      "description": "Despite cuts, the preservation of substantial clean energy funding ensures continued support for renewable projects, impacting future policy debates.\nThe post $600B of Biden\u2019s clean energy funding survives Trump\u2019s cuts appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/600-billion-biden-clean-energy-funding-survives-trump-cuts/",
-      "source": "Crypto Briefing",
-      "date": "2026-08-15",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/15071052/photo-of-biden-raising-his-right-hand-reciting-the-oath-800x420.jpeg",
-      "category": "market"
-    },
-    {
-      "title": "Glitter Bug Gold Buyers Announces New Gold Seller Transparency Standard Across Orange County Locations - markets.businessinsider.com",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxNV3V5Q005dXJub2dtQ2IwM2FzMk9zNmFuQXkyS3A4RHcyTV9yaE50TjVkaVJEaFhfRWNfMFh1cWNYSmV5N25rU3c1and6MlI3VzYxRXlFVXZOUEV3S1ZIbnZzYnkwSWNFUDlMaW5fYXpzV0YzSkI1c2VfY25XLUUyV0p1QUxXYkpneldJYTcybWZrOWFFSGcxeUNrQkxrTGUzb3BzZjJoc09kMHFxVkRtR1ZaWk9QdDRoZU",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNV3V5Q005dXJub2dtQ2IwM2FzMk9zNmFuQXkyS3A4RHcyTV9yaE50TjVkaVJEaFhfRWNfMFh1cWNYSmV5N25rU3c1and6MlI3VzYxRXlFVXZOUEV3S1ZIbnZzYnkwSWNFUDlMaW5fYXpzV0YzSkI1c2VfY25XLUUyV0p1QUxXYkpneldJYTcybWZrOWFFSGcxeUNrQkxrTGUzb3BzZjJoc09kMHFxVkRtR1ZaWk9QdDRoZU1jSHU0Q05wdFVxVVVFblBmdTl2djZkV0VmTGo5VEFGcllLWHdlQmJJZC1oQW9QQ2pTeW55SFcyeEU?oc=5",
-      "source": "Google News - Precious Metals",
-      "date": "2026-08-15",
-      "image": "",
-      "category": "metals"
-    },
-    {
-      "title": "VWA Crypto Explained: What Is Vanguard (VWA) Token and Is It Legit?",
-      "description": "VWA crypto refers to the Vanguard (VWA) token, a Solana-based token that is marketed to tokenize real world assets. In public market pages such as...\nThe post VWA Crypto Explained: What Is Vanguard (VWA) Token and Is It Legit? appeared first on Bitcoin Founda\u2026",
-      "url": "https://bitcoinfoundation.org/news/altcoins/vwa-crypto-explained-what-is-vanguard-vwa-token-and-is-it-legit/",
-      "source": "Bitcoinfoundation.org",
-      "date": "2026-08-14",
-      "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/08/VWA-Crypto-Explained-What-Is-Vanguard-VWA-Token-and-Is-It-Legit-2.webp",
       "category": "market"
     }
   ],
@@ -476,7 +476,7 @@
       "platinum_usd_oz": 1750.12
     }
   ],
-  "timestamp": "2026-08-16T18:40:39.386652+05:30",
+  "timestamp": "2026-08-17T09:39:17.021319+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
