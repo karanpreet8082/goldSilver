@@ -54,7 +54,7 @@
         "hold": 25
       },
       "summary": "Gold is showing positive signals. Strong daily gain of 2.4%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-18T07:12:54.767405",
+      "timestamp": "2026-08-18T09:58:02.536032",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 25
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 3.4%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-18T07:12:54.839625",
+      "timestamp": "2026-08-18T09:58:02.626118",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 25
       },
       "summary": "Platinum is showing positive signals. Strong daily gain of 1.4%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-18T07:12:54.903546",
+      "timestamp": "2026-08-18T09:58:02.711658",
       "source": "rule-based"
     }
   },
@@ -134,40 +134,130 @@
   },
   "news": [
     {
-      "title": "Colgate-Palmolive shares fall over 2% after Investor Day. What Goldman Sachs and other brokerages are saying",
-      "description": "Colgate-Palmolive shares slipped after the company\u2019s Investor Day 2026, as investors weighed higher brand investments against its long-term growth and profitability strategy. While Goldman Sachs retained a Neutral view, Motilal Oswal and Nuvama maintained Buy ratings, citing volume recovery, premium",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/colgate-palmolive-shares-fall-over-2-after-investor-day-what-goldman-sachs-and-other-brokerages-are-saying/articleshow/133314060.cms",
+      "title": "Global bond yields rise to multi-year highs as inflation and fiscal concerns intensify",
+      "description": "Global bond yields surged on Tuesday, with US, Japanese and German government borrowing costs hitting multi-year or multi-decade highs. Rising oil prices, inflation concerns, tighter Japanese monetary policy expectations and mounting fiscal pressures added to the bond market selloff, raising concern",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-bond-yields-rise-to-multi-year-highs-as-inflation-and-fiscal-concerns-intensify/articleshow/133317680.cms",
       "source": "Economic Times Markets",
       "date": "2026-08-18",
       "image": "",
-      "category": "metals"
+      "category": "central_bank"
     },
     {
-      "title": "Hindustan Copper, Vedanta, other metal stocks slip up to 2% after sharp gains. Should you buy the dip or avoid?",
-      "description": "Metal stocks came under pressure after a sharp rally in the previous session, as global metal prices corrected amid concerns over China\u2019s economic data and geopolitical developments. Analysts, however, see selective opportunities in the sector, with Hindustan Copper and Nalco among the stocks highli",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-copper-vedanta-other-metal-stocks-slip-up-to-2-after-sharp-gains-should-you-buy-the-dip-or-avoid/articleshow/133313559.cms",
+      "title": "Global Market: European shares slip as rising oil prices, bond yields weigh on sentiment",
+      "description": "European shares edged lower on Tuesday as rising crude prices and euro zone bond yields heightened inflation concerns. The STOXX 600 fell 0.2%, while energy stocks gained 0.6% as Brent crude rose to $91.41 a barrel. Germany\u2019s 10-year Bund yield hit its highest level since 2011, while investors await",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-slip-as-rising-oil-prices-bond-yields-weigh-on-sentiment/articleshow/133316942.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-08-18",
+      "image": "",
+      "category": "central_bank"
+    },
+    {
+      "title": "US 30-year yields hit highest level since 2007 as war and oil worries fester",
+      "description": "U.S. Treasury yields reached multi-year highs amid inflation worries. Geopolitical tensions and increased oil prices fueled market anxieties. Concerns over growing U.S. debt and fiscal spending also weighed heavily. Investors are now focusing on shorter duration bonds for risk management. This shift",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-30-year-yields-hit-highest-level-since-2007-as-war-and-oil-worries-fester/articleshow/133316317.cms",
       "source": "Economic Times Markets",
       "date": "2026-08-18",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "Rupee falls 7 paise to 95.68 against US dollar in early trade",
-      "description": "In early trading, the rupee slipped by seven paise, settling at 95.68 against the US dollar. Factors such as soaring crude oil prices and heightened demand for dollars pressured the currency. Forex analysts noted that Brent crude's price hovering around USD 91 per barrel has led to a surge in dollar",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-falls-7-paise-to-95-68-against-us-dollar-in-early-trade/articleshow/133313508.cms",
+      "title": "Is market heading towards a big AI crash like the dot-com crisis? Here's what European Central Bank predicts",
+      "description": "The European Central Bank warns that an AI market correction on Wall Street is likely, citing historical tech bubbles like the dot-com era. Even if AI succeeds, overstretched valuations, shifting macro risks, and limited policy buffers could trigger sharp stock adjustments, impacting euro area inves",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/is-market-heading-towards-a-big-ai-crash-like-the-dot-com-crisis-heres-what-european-central-bank-predicts/articleshow/133316314.cms",
       "source": "Economic Times Markets",
       "date": "2026-08-18",
       "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Global Market: Emerging Asian currencies rise as softer dollar, rate-hike bets support sentiment",
+      "description": "Asian currencies strengthened modestly as a weaker US dollar and fading expectations of a September Federal Reserve rate hike supported emerging markets. However, rising oil prices amid Middle East tensions capped gains. Indonesia remained in focus ahead of Bank Indonesia\u2019s policy decision, while As",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-emerging-asian-currencies-rise-as-softer-dollar-rate-hike-bets-support-sentiment/articleshow/133315978.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-08-18",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Shoni Ohtani baseball card bought at Boca store sells for $11M",
+      "description": "The unicorn of baseball cards leapt from a pack purchased at a west Boca Raton collectibles store and into the record books after an $11 million sale.",
+      "url": "https://www.palmbeachpost.com/story/news/local/boca/2026/08/17/shoni-ohtani-dodgers-topps-baseball-card-boca-shop-11-million/91186628007/",
+      "source": "Palm Beach Post",
+      "date": "2026-08-17",
+      "image": "https://s.yimg.com/lo/mysterio/api/4ab1d3c9fa120a1e74a080cab8e9cf42f38be0849233578459192a3ae5266a23/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe-palm-beach-post%2F58f9437f83a9d5175acb42d875d8ef96.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Irish medal winners hoping to ride wave of positivity",
+      "description": "European Aquatics Championship medal-winning duo Ellen Walshe and Mona McSharry are hoping to ride the wave of positivity into October's World Cup series with the 2028 Olympics in Los Angeles also quickly coming into view.",
+      "url": "https://www.rte.ie/sport/swimming/2026/0817/1588176-irish-medal-winners-hoping-to-ride-wave-of-positivity/",
+      "source": "RTE",
+      "date": "2026-08-17",
+      "image": "https://www.rte.ie/images/0024da0f-1600.jpg",
       "category": "currency"
     },
     {
-      "title": "Indian bonds wobble on oil strain, RBI swap pullback",
-      "description": "On Tuesday morning, Indian government bonds faced a downturn as oil prices spiked beyond ninety dollars. Concerns escalated after the central bank prematurely ended a diaspora deposit scheme, leading to uncertainty in the market. This pullback in liquidity support has rendered bonds susceptible to c",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-wobble-on-oil-strain-rbi-swap-pullback/articleshow/133313452.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-08-18",
-      "image": "",
-      "category": "central_bank"
+      "title": "Sky Gold & Diamonds added to MSCI India domestic small cap index",
+      "description": "Sky Gold said it continues to focus on lightweight and value-added jewellery, while expanding its customer base and its presence across organised jewellery retail",
+      "url": "https://www.thehindubusinessline.com/companies/sky-gold-diamonds-added-to-msci-india-domestic-small-cap-index/article71355432.ece",
+      "source": "BusinessLine",
+      "date": "2026-08-17",
+      "image": "https://bl-i.thgim.com/public/incoming/fwu3k4/article70973108.ece/alternates/LANDSCAPE_1200/2025-05-14T030529Z_1525855476_RC2EHEA68LO8_RTRMADP_3_INDIA-STOCKS-MSCI.JPG",
+      "category": "metals"
+    },
+    {
+      "title": "Sky Gold & Diamonds now part of MSCI India domestic small cap index",
+      "description": "The jewellery maker said the inclusion will broaden its visibility among institutional investors, while it also reported positive operating cash flow and continued focus on profitable growth",
+      "url": "https://www.business-standard.com/companies/news/sky-gold-diamonds-added-to-msci-india-domestic-small-cap-index-126081700553_1.html",
+      "source": "Business Standard",
+      "date": "2026-08-17",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-04/07/thumb/fitandfill/1200X628/1775545972-5262.jpeg",
+      "category": "metals"
+    },
+    {
+      "title": "Stock picks of the week: 5 stocks with consistent score improvement and upside potential of up to 23%",
+      "description": "There are currently too many variables that can move the markets in either direction. Oil prices may have settled into a range for now, but there is still no clarity on how the Gulf situation will develop. If uncertainty continues, oil prices may remain eleva\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stock-picks-of-the-week-5-stocks-with-consistent-score-improvement-and-upside-potential-of-up-to-23/articleshow/133290598.cms",
+      "source": "The Times of India",
+      "date": "2026-08-17",
+      "image": "https://img.etimg.com/thumb/msid-133290721,width-1200,height-630,imgsize-107364,overlay-etmarkets/articleshow.jpg",
+      "category": "market"
+    },
+    {
+      "title": "China's recovery sputters as consumption, output lose steam",
+      "description": "BEIJING: China's economy lost momentum at the start of the second half, with industrial output and retail sales slowing as extreme weather disruptions and persistently weak domestic demand renew pressure on policymakers to step up stimulus.The disappointing d\u2026",
+      "url": "https://www.channelnewsasia.com/business/chinas-recovery-sputters-consumption-output-lose-steam-6323436",
+      "source": "CNA",
+      "date": "2026-08-17",
+      "image": "https://dam.mediacorp.sg/image/upload/s--QV4D0jU8--/c_crop,h_449,w_799,x_1,y_1/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-08-17T070411Z_1_LYNXMPEM7G0EV_RTROPTP_3_CHINA-SOLAR.JPG?itok=hkLTJ0DI",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Sky Gold enters MSCI India Domestic Small Cap Index",
+      "description": "Sky Gold & Diamonds has been added to the MSCI India Domestic Small Cap Index, as part of the latest index review announced by MSCI.",
+      "url": "https://www.business-standard.com/markets/capital-market-news/sky-gold-enters-msci-india-domestic-small-cap-index-126081700503_1.html",
+      "source": "Business Standard",
+      "date": "2026-08-17",
+      "image": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "OceanaGold Announces Acquisition of Ausgold",
+      "description": "VANCOUVER, Aug. 17, 2026 /PRNewswire/ -- OceanaGold Corporation (TSX: OGC) (NYSE: OGC) (\"OceanaGold\" or the \"Company\") is pleased to announce it has entered into a definitive scheme implementation deed (the \"SID\") to acquire 100% of the issued shares of Ausgo\u2026",
+      "url": "https://www.prnewswire.com/news-releases/oceanagold-announces-acquisition-of-ausgold-302852694.html",
+      "source": "PRNewswire",
+      "date": "2026-08-17",
+      "image": "https://mmx.prnewswire.com/media/MS1098335/OceanaGold-Corporation-OceanaGold-Announces-Acquisition-of-Ausgo.jpg?id=OA2888614&p=facebook",
+      "category": "metals"
+    },
+    {
+      "title": "4 Bathroom Color Palettes To Seriously Elevate Basic Builder-Grade Fixtures",
+      "description": "Do you have builder-grade fixtures but can't or don't want to pay to upgrade them? Try these color palettes to make them look a lot better.",
+      "url": "https://stylebyemilyhenderson.com/color-palettes-for-builder-grade-fixtures",
+      "source": "Stylebyemilyhenderson.com",
+      "date": "2026-08-17",
+      "image": "https://stylebyemilyhenderson.com/wp-content/uploads/2026/08/LigorriaTrampBathroomLR2022_5.jpg",
+      "category": "market"
     },
     {
       "title": "Gold rate today (August 17, 2026): Check 18k, 20k, 22k, 24k gold jewellery prices from IBJA, Malabar Gold & Diamonds, Joyalukkas, Kalyan Jewellers and Tanishq in Delhi, Mumbai, Hyderabad & more cities",
@@ -177,60 +267,6 @@
       "date": "2026-08-17",
       "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1339909,resizemode-75,msid-133288795/wealth/invest/gold-rate-today-august-17-2026-check-18k-20k-22k-24k-gold-jewellery-prices-from-ibja-malabar-gold-diamonds-joyalukkas-kalyan-jewellers-and-tanishq-in-delhi-mumbai-hyderabad-more-cities.jpg",
       "category": "metals"
-    },
-    {
-      "title": "L1 Group Shares Jump 6.79% on ASX After Fund Manager Posts 97% Profit Growth in First Result Since Merger",
-      "description": "L1 Group Ltd's shares rose 6.79% after reporting a 97% profit growth post-merger with Platinum Asset Management, driven by strong investment performance and a one-off gain.",
-      "url": "https://www.ibtimes.com.au/l1-group-profit-growth-post-merger-1874160",
-      "source": "Ibtimes.com.au",
-      "date": "2026-08-17",
-      "image": "https://d.ibtimes.com.au/en/full/1895732/l1-group-shares-jump-679-asx-after-fund-manager.jpg",
-      "category": "platinum"
-    },
-    {
-      "title": "223%return on SGB premature redemption date today: Gold bond turns Rs 1 lakhinvestment into nearly Rs 3.23 lakh in 5 years",
-      "description": "Gold bond rate: The Reserve Bank of India has established the early redemption price for a certain gold bond series. Investors have the option to redeem these bonds five years post-issuance. The redemption amount is determined by the average gold price over t\u2026",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/gold-bond-rate-today-ibja-223-return-on-premature-redemption-date-august-17-2026-sgb-turns-rs-1-lakh-investment-into-rs-3-23-lakh/articleshow/133287548.cms",
-      "source": "The Times of India",
-      "date": "2026-08-17",
-      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1412160,resizemode-75,msid-133287548/wealth/invest/gold-bond-rate-today-ibja-223-return-on-premature-redemption-date-august-17-2026-sgb-turns-rs-1-lakh-investment-into-rs-3-23-lakh.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "Like Eagles, like Falcons: The dwindling fortunes of Africa\u2019s 10-time champions",
-      "description": "Nigeria\u2019s Super Falcons face a challenging World Cup play-off route after their WAFCON quarter-final exit, mirroring the Super Eagles\u2019 recent struggles. Ca\n\nRead More: https://punchng.com/like-eagles-like-falcons-the-dwindling-fortunes-of-africas-10-time-cham\u2026",
-      "url": "https://punchng.com/like-eagles-like-falcons-the-dwindling-fortunes-of-africas-10-time-champions/",
-      "source": "The Punch",
-      "date": "2026-08-17",
-      "image": "https://punchng.com/wp-content/uploads/2026/08/falcons_1786924173.webp",
-      "category": "market"
-    },
-    {
-      "title": "Dollar weakens as traders pare Fed rate-hike bets: Markets Wrap",
-      "description": "Pressure on the dollar increased after US government data on Friday showed retail sales fell in July by the most in more than a year as consumers pulled back on purchases",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stock-market-today-dow-s-p-live-updates",
-      "source": "Bloomberg",
-      "date": "2026-08-17",
-      "image": "https://bl-i.thgim.com/public/incoming/vznnf9/article71335117.ece/alternates/LANDSCAPE_1200/2026-08-11T150917Z_83101056_RC20HDAPYA5Z_RTRMADP_3_GLOBAL-MARKETS.JPG",
-      "category": "central_bank"
-    },
-    {
-      "title": "Ankit Gems, a De Beers Sightholder, Enters Retail with Eyora Jewels",
-      "description": "Born from a legacy of excellence in diamonds, Eyora Jewels Private Limited led by Mr. Ankit Shah, Mr. Ankit Singh Kimtee and Mr. Samyak Kataria, is a retail venture built to reinforce consumer interes",
-      "url": "https://www.business-standard.com/content/specials/ankit-gems-a-de-beers-sightholder-enters-retail-with-eyora-jewels-126081500157_1.html",
-      "source": "Business Standard",
-      "date": "2026-08-17",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/15/thumb/featurecrop/1200X628/1786763579-9196.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Tamil Nadu CM Vijay marks 100 days, highlights welfare push, farm relief and Rs 1 lakh crore investment commitments",
-      "description": "Tamil Nadu's Chief Minister C Joseph Vijay marked 100 days of governance.  The government launched welfare schemes for women and students.  Farmer support included crop loan waivers and incentives for sugarcane.  Investment commitments reached one lakh crore \u2026",
-      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/tamil-nadu-cm-vijay-marks-100-days-highlights-welfare-push-farm-relief-and-rs-1-lakh-crore-investment-commitments/articleshow/133285884.cms",
-      "source": "The Times of India",
-      "date": "2026-08-17",
-      "image": "https://img.etimg.com/thumb/msid-133285916,width-1200,height-630,imgsize-121542,overlay-economictimes/articleshow.jpg",
-      "category": "market"
     },
     {
       "title": "Gold gains on weaker dollar, reduced Fed rate-hike bets",
@@ -287,121 +323,85 @@
       "category": "metals"
     },
     {
-      "title": "Record orders, yet profits squeezed: Asia-Pacific electronics supply chain caught in cost crunch",
-      "description": "Global Electronics Association survey data show that demand across the global electronics manufacturing industry maintained steady expansion in the first half of 2026, with orders, shipments, and capacity utilization strengthening in most months. Capacity uti\u2026",
-      "url": "https://www.digitimes.com/news/a20260817PD210/cost-electronics-supply-chain-demand-2026.html",
-      "source": "Digitimes",
-      "date": "2026-08-17",
-      "image": "https://img.digitimes.com/newsshow/20260817pd210_files/1_b.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Robotera plans IPO in Hong Kong as humanoid robot funding hits overdrive",
-      "description": "Robotera's IPO plans in Hong Kong highlight the growing investor interest in automation, potentially accelerating global robotics innovation.\nThe post Robotera plans IPO in Hong Kong as humanoid robot funding hits overdrive appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/robotera-ipo-hong-kong-humanoid-robots/",
+      "title": "ArcelorMittal\u2019s Ukraine plant hit by missile amid Russia-Ukraine conflict escalation",
+      "description": "The missile strike on Ukraine's industrial site heightens geopolitical tensions, risking broader conflict and impacting global market stability.\nThe post ArcelorMittal\u2019s Ukraine plant hit by missile amid Russia-Ukraine conflict escalation appeared first on Cr\u2026",
+      "url": "https://cryptobriefing.com/arcelormittals-ukraine-plant-hit-by-missile-amid-russia-ukraine-conflict/",
       "source": "Crypto Briefing",
       "date": "2026-08-17",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/17031012/robotera-s-l7-humanoid-robot-800x420.jpeg",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/17055740/arcelormittal-kryvyi-rih-cfo-serhiy-plichko-is-accused-of-ev-1-800x420.jpeg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Ticker: 2 Former 60 Minutes Correspondents Recipients of Edward R. Murrow Awards",
+      "description": "Paramount Skydance is toying with the idea of an editorial board overseeing CNN.",
+      "url": "https://www.adweek.com/tvnewser/ticker-2-former-60-minutes-correspondents-recipients-of-edward-r-murrow-awards/",
+      "source": "Adweek",
+      "date": "2026-08-17",
+      "image": "https://static-www.adweek.com/wp-content/uploads/2025/12/60-Minutes-CBS-News.jpg?w=600&h=315&crop=1",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Bank of America Says the AI Memory Boom Isn\u2019t Over: Why It Sees Micron\u2019s Earnings Exploding 34% a Year",
+      "description": "Micron's margins just hit levels the memory industry has never sustained, and Bank of America is betting they stay there long enough to turn today's skeptics...",
+      "url": "https://247wallst.com/investing/2026/08/17/bank-of-america-says-the-ai-memory-boom-isnt-over-why-it-sees-microns-earnings-exploding-34-a-year/",
+      "source": "24/7 Wall St.",
+      "date": "2026-08-17",
+      "image": "https://s.yimg.com/lo/mysterio/api/C04E522CC871EA53F045855B49200AF1156F331D0848C70550FCDAEBAB80E15E/subgraphmysterio/resizefill_w1200_h720;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Ffe9c74e32591894a5bc026151a3a281b.png",
       "category": "market"
     },
     {
-      "title": "The eight most important Newcastle United players for this huge challenge ahead",
-      "description": "Newcastle United fans preparing for the 2026/27 Premier League season. Less than two weeks to go now until Liverpool travel to St James\u2019 Park.",
-      "url": "https://www.themag.co.uk/2026/08/the-eight-most-important-newcastle-united-players-for-this-huge-challenge-ahead/",
-      "source": "The Mag",
+      "title": "polars-seq-match added to PyPI",
+      "description": "Fast approximate matching of protein and peptide sequences, as a Polars plugin",
+      "url": "https://pypi.org/project/polars-seq-match/",
+      "source": "Pypi.org",
       "date": "2026-08-17",
-      "image": "https://s.yimg.com/lo/mysterio/api/628faae8668a17a879114e52e4e78c99ecfd450594e36f51f45c78bdd0ef95a6/lightyear_networkapi/resizefill_w768_h432%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_mag_612%2F53234bb8ab40cf078965be9c4e4b223b.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "GLOBAL POWER SOLUTIONS ADVANCES MODULAR HYDROGEN POWER SYSTEM WITH PROPOSED FIRST EQUIPMENT PURCHASE",
-      "description": "Vancouver, British Columbia, Aug. 17, 2026 (GLOBE NEWSWIRE) \u2014 Global Power Solutions Corp. (TSXV: PWER) (FSE: NJA) (\u201cGlobal\u201d or the \u201cCompany\u201d) is pleased to announce that it intends to make its first equipment purchase in connection with the development and t\u2026",
-      "url": "https://financialpost.com/globe-newswire/global-power-solutions-advances-modular-hydrogen-power-system-with-proposed-first-equipment-purchase",
-      "source": "Financial Post",
-      "date": "2026-08-17",
-      "image": null,
+      "image": "https://pypi.org/static/images/twitter.abaf4b19.webp",
       "category": "market"
     },
     {
-      "title": "Indian lenders set record with $8 billion in dollar bond sales",
-      "description": "RBI surprised traders on Friday by closing a special window for attracting foreign-currency deposits a month ahead of schedule, leading to a selloff in shorter-tenor India bonds",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/indian-lenders-set-record-with-8-billion-in-dollar-bond-sales",
-      "source": "Bloomberg",
+      "title": "India eye crucial win against SA after China draw in Women's Hockey WC",
+      "description": "High on confidence after holding Olympic silver medallists and world No. 4 China to a draw, India will look to strengthen their bid for a top-two finish in Pool D when they face South Africa in their second Women's Hockey World Cup match here on Tuesday.\nIndi\u2026",
+      "url": "https://www.business-standard.com/sports/other-sports-news/india-eye-crucial-win-against-sa-after-china-draw-in-women-s-hockey-wc-126081700383_1.html",
+      "source": "Business Standard",
       "date": "2026-08-17",
-      "image": "https://bl-i.thgim.com/public/incoming/nq2mvx/article71302495.ece/alternates/LANDSCAPE_1200/2023-07-17T100043Z_343820862_RC2X42AM1340_RTRMADP_3_MONEY-RATES.JPG",
-      "category": "central_bank"
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/17/thumb/featurecrop/1200X628/1786960492-3043.jpg",
+      "category": "metals"
     },
     {
-      "title": "China's economy slows further in July as retail sales barely grow, investment slump steepens",
-      "description": "The data is reinforcing concerns about the health of the world's second-largest economy, which has grappled with a deepening supply-demand imbalance.",
-      "url": "https://www.cnbc.com/2026/08/17/china-economy-sales-investment-july-.html",
-      "source": "CNBC",
+      "title": "Samsung could soon copy Apple\u2019s iPhone mirroring feature for your Galaxy phone",
+      "description": "The latest One UI 9.5 leaks reveal App Mirroring, a 24MP camera option, new animations, and a redesigned fingerprint setup.",
+      "url": "https://www.androidauthority.com/one-ui-9-5-app-mirroring-finder-camera-leak-3699122/",
+      "source": "Android Authority",
       "date": "2026-08-17",
-      "image": "https://image.cnbcfm.com/api/v1/image/108350120-1786928158379-gettyimages-2286126923-20260718_daily_life.jpeg?v=1786928185&w=1920&h=1080",
-      "category": "supply_demand"
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Samsung-Galaxy-S26-Ultra-showing-One-UI-lock-screen.jpg",
+      "category": "market"
     },
     {
-      "title": "OxHeart - Game Framework for Unity by Games by MooMoo",
-      "description": "Production-ready Unity 6 framework: service locator, audio, async saves, localization, deterministic RNG, events, pooling & Addressables; modular, documented, test-covered.REQUIREMENTS AND LIMITATIONS \u2014 PLEASE READ BEFORE BUYINGUNITY AND PLATFORMS\r\n\u2022 Requires\u2026",
-      "url": "https://assetstore.unity.com/packages/tools/utilities/oxheart-game-framework-for-unity-390150",
-      "source": "Unity.com",
+      "title": "Rupee seen weakening to 97 per dollar by FY27 end amid global risks: BMI",
+      "description": "The Indian rupee is expected to weaken further against the US dollar over the next two fiscal years, pressured by elevated energy prices, global risk aversion and less favourable interest-rate differentials, while government measures to attract foreign capita\u2026",
+      "url": "https://www.business-standard.com/finance/news/rupee-seen-weakening-to-97-per-dollar-by-fy27-end-amid-global-risks-bmi-126081700691_1.html",
+      "source": "Business Standard",
       "date": "2026-08-17",
-      "image": "https://assetstorev1-prd-cdn.unity3d.com/key-image/2226101f-f0ad-499c-8599-e51c3eb4aeda.png?v=1",
-      "category": "supply_demand"
-    },
-    {
-      "title": "'Are you not entertained?' - Hunt enters stardom with iconic quadruple",
-      "description": "Amy Hunt asserts herself as Great Britain's new track sensation after winning an unprecedented four gold medals at the European Athletics Championships.",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/clyqqxgrdqqo",
-      "source": "BBC News",
-      "date": "2026-08-17",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/04d5/live/a5895050-99c6-11f1-b604-2bfb19ba7385.jpg",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/05/thumb/fitandfill/1200X628/1780639032-378.JPG",
       "category": "currency"
     },
     {
-      "title": "ED Clarifies How Current Students Can Access Uncapped Loans",
-      "description": "Financial aid experts say the Education Department is reworking the way it determines whether existing students are eligible for uncapped loans, but a department spokesperson says the change is \u201cnot anything new.\u201d",
-      "url": "https://www.insidehighered.com/news/quick-takes/2026/08/17/ed-clarifies-how-current-students-can-access-uncapped-loans",
-      "source": "Inside Higher Ed",
+      "title": "Donald Trump Has Committed Too Many High Crimes to Count. But Should Democrats Really Impeach Again?",
+      "description": "Would another impeachment of Donald Trump make sense? Would it be constitutionally supportable, and would it be in the best interests of the country?",
+      "url": "https://slate.com/news-and-politics/2026/08/trump-impeachment-2027-corruption-murder-democrats.html",
+      "source": "Slate Magazine",
       "date": "2026-08-17",
-      "image": "https://www.insidehighered.com/sites/default/files/styles/large/public/2025-02/GettyImages-2198722212.jpg?itok=Aicf8rAv",
+      "image": "https://compote.slate.com/images/f1a0d364-3698-4606-ae88-fc4785828028.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
       "category": "market"
     },
     {
-      "title": "How LGBTQ+ Higher Ed Leaders Are Navigating the Political Moment",
-      "description": "How LGBTQ+ Higher Ed Leaders Are Navigating the Political Moment\n\n \n\n\n \nSara Weissman\n\nMon, 08/17/2026 - 03:00 AM\n\nA group for LGBTQ+ higher ed administrators has been hit hard by an increasingly hostile policy landscape. But members are working to support ea\u2026",
-      "url": "https://www.insidehighered.com/news/governance/executive-leadership/2026/08/17/how-lgbtq-leaders-are-navigating-political-moment",
-      "source": "Inside Higher Ed",
+      "title": "Dollar falls to three-month low as Fed rate hike expectations wane",
+      "description": "A weaker dollar may boost commodity prices, complicating inflation dynamics and influencing future Fed policy decisions.\nThe post Dollar falls to three-month low as Fed rate hike expectations wane appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/dollar-falls-three-month-low-fed-rate-hike/",
+      "source": "Crypto Briefing",
       "date": "2026-08-17",
-      "image": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-08/Progress_Pride_Bandaid.jpg?itok=MQMK6YTZ",
-      "category": "market"
-    },
-    {
-      "title": "The Heated Discourse About Civil Discourse",
-      "description": "The Heated Discourse About Civil Discourse\n\n \n\n\n \nRyan Quinn\n\nMon, 08/17/2026 - 03:00 AM\n\nGroups advocating for \u201cdialogue across difference\u201d and finding better ways to discuss and disagree about controversial topics are themselves part of a polarized debate.\n\u2026",
-      "url": "https://www.insidehighered.com/news/students/free-speech/2026/08/17/heated-discourse-about-civil-discourse",
-      "source": "Inside Higher Ed",
-      "date": "2026-08-17",
-      "image": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-08/Bipartisan_civics.jpg?itok=pDLNAKte",
-      "category": "market"
-    },
-    {
-      "title": "US stocks see tepid moves after retail sales data",
-      "description": "Stock futures show a varied start as investors monitor Middle East conflicts, retail earnings and upcoming Fed rate expectations.",
-      "url": "https://www.business-standard.com/markets/capital-market-news/us-stocks-see-tepid-moves-after-retail-sales-data-126081700421_1.html",
-      "source": "Business Standard",
-      "date": "2026-08-17",
-      "image": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Global Markets Mixed Amid Geopolitical Tensions and Upcoming Economic Reports",
-      "description": "Stock futures show a varied start as investors monitor Middle East conflicts, retail earnings and upcoming Fed rate expectations.",
-      "url": "https://www.business-standard.com/markets/capital-market-news/global-markets-mixed-amid-geopolitical-tensions-and-upcoming-economic-reports-126081700421_1.html",
-      "source": "Business Standard",
-      "date": "2026-08-17",
-      "image": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
-      "category": "geopolitics"
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/17053645/federal-reserve-building-in-washington-dc-on-constitution-av-45-800x420.jpeg",
+      "category": "central_bank"
     }
   ],
   "history": [
@@ -476,7 +476,7 @@
       "platinum_usd_oz": 1750.12
     }
   ],
-  "timestamp": "2026-08-18T12:42:54.916414+05:30",
+  "timestamp": "2026-08-18T15:28:02.720489+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
