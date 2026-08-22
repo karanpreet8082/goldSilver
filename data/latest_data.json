@@ -54,7 +54,7 @@
         "hold": 25
       },
       "summary": "Gold is showing positive signals. Strong daily gain of 2.4%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-22T07:08:28.310384",
+      "timestamp": "2026-08-22T09:50:36.420198",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 25
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 3.4%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-22T07:08:28.376894",
+      "timestamp": "2026-08-22T09:50:36.533046",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 25
       },
       "summary": "Platinum is showing positive signals. Strong daily gain of 1.4%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-22T07:08:28.439242",
+      "timestamp": "2026-08-22T09:50:36.605438",
       "source": "rule-based"
     }
   },
@@ -134,6 +134,33 @@
   },
   "news": [
     {
+      "title": "Bitcoin surges 23% in 1 week to trade nearly $78K as liquidity hopes, ETF inflows boost crypto markets",
+      "description": "Bitcoin surged nearly 23% in a week to around $78,000, while Ethereum and major altcoins also rallied. Strong crypto ETF inflows, softer US dollar expectations, Treasury buybacks and reduced Fed tightening hopes boosted sentiment. Analysts flagged improving institutional participation, though profit",
+      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-surges-23-in-1-week-to-trade-nearly-78k-as-liquidity-hopes-etf-inflows-boost-crypto-markets/articleshow/133420463.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-08-22",
+      "image": "",
+      "category": "central_bank"
+    },
+    {
+      "title": "Bank stocks to buy: Goldman Sachs remains bullish on 6 private bank stocks. Do you own any?",
+      "description": "Goldman Sachs expects Indian banks\u2019 loan growth to moderate to 14\u201315% through FY29 and initiated coverage on 14 lenders. It favours six private banks, including ICICI Bank, Kotak Mahindra Bank, HDFC Bank, Axis Bank, Federal Bank and AU Small Finance Bank.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/bank-stocks-to-buy-goldman-sachs-remains-bullish-on-6-private-bank-stocks-do-you-own-any/slideshow/133420450.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-08-22",
+      "image": "",
+      "category": "central_bank"
+    },
+    {
+      "title": "F&amp;O Talk: Nifty to consolidate further, says Sudeep Shah; picks 3 stocks for next week",
+      "description": "SBI Securities\u2019 Sudeep Shah expects Nifty to remain range-bound, with 24,000 as key support and 24,500 as resistance. He warns of underpriced options-market tail risks amid low volatility. Bank Nifty remains compressed, while Nifty IT faces support at 30,000. AU Small Finance Bank, Aditya Birla Capi",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-nifty-to-consolidate-further-says-sudeep-shah-picks-3-stocks-for-next-week/articleshow/133419507.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-08-22",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
       "title": "Gold prices rise for 3rd straight week, hit 3-month high. Can bullion reclaim $5,500 peak?",
       "description": "Gold rose 5% this week to nearly $4,603, marking its third consecutive weekly gain, supported by a weaker US dollar, Treasury bond buybacks and expectations of stable Fed rates. Analysts see long-term potential amid central-bank demand and currency concerns, though the World Gold Council expects nea",
       "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-rise-for-3rd-straight-week-hit-3-month-high-can-bullion-reclaim-5500-peak/articleshow/133419156.cms",
@@ -143,30 +170,57 @@
       "category": "central_bank"
     },
     {
-      "title": "Why Indian retail options traders are having a tough time to defuse what Warren Buffett called lethal time bombs",
-      "description": "Sebi\u2019s latest study shows that 88% of individual F&amp;O traders lost money in FY26, with options accounting for 92% of aggregate losses. Despite reduced trading volumes, retail losses remained substantial, reinforcing Warren Buffett\u2019s longstanding warnings about derivatives. Regulatory measures, in",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-indian-retail-options-traders-are-having-a-tough-time-to-defuse-what-warren-buffett-called-lethal-time-bombs/articleshow/133417813.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-08-22",
-      "image": "",
+      "title": "Tata MF lifts curbs on investment in gold ETFs",
+      "description": "Tata MF restricted large lumpsum investment in its Gold ETF and Gold ETF Fund of Funds in June amid a surge in gold imports, which had put pressure on the rupee and the current account deficit",
+      "url": "https://www.thehindubusinessline.com/markets/tata-mf-lifts-curbs-on-investment-in-gold-etfs/article71372919.ece",
+      "source": "BusinessLine",
+      "date": "2026-08-21",
+      "image": "https://bl-i.thgim.com/public/incoming/tp0yjz/article70862281.ece/alternates/LANDSCAPE_1200/Gold-ETF-inflowGJ4FM8EJD.4.jpg.jpg",
+      "category": "currency"
+    },
+    {
+      "title": "Carlsberg India bags eight awards at World Beer Awards 2026",
+      "description": "Carlsberg India wins eight awards at the 2026 World Beer Awards, showcasing excellence in beer quality and packaging design.",
+      "url": "https://www.thehindubusinessline.com/companies/carlsberg-india-bags-eight-awards-at-world-beer-awards-2026/article71372729.ece",
+      "source": "BusinessLine",
+      "date": "2026-08-21",
+      "image": "https://bl-i.thgim.com/public/markets/stock-markets/umzcr3/article71372728.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-20%20at%203.22.46%20PM.jpeg",
       "category": "geopolitics"
     },
     {
-      "title": "ETMarkets NRI Talk| Rs 1 crore, 5-7 years: How NRIs should allocate across Indian equities, bonds, gold and alternatives, says Rohit Sarin",
-      "description": "NRIs investing in India should assess their global portfolio, existing India exposure, liquidity, risk appetite, taxes and repatriation needs before investing. For a Rs 1 crore portfolio, an illustrative allocation is 55\u201365% equities, 15\u201320% fixed income, 5\u201310% gold and 5\u201310% alternatives, complemen",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/etmarkets-nri-talk-rs-1-crore-5-7-years-how-nris-should-allocate-across-indian-equities-bonds-gold-and-alternatives-says-rohit-sarin/articleshow/133417845.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-08-22",
-      "image": "",
-      "category": "metals"
+      "title": "Maiden Final Dividend Declared for FY26 and On-Market Share Buy-Back Approved",
+      "description": "PERTH, Australia, Aug. 21, 2026 (GLOBE NEWSWIRE) \u2014 Alkane Resources Limited (ASX: ALK, TSX: ALK, OTCQX: ALKRY) (\u2018Alkane\u2019 or \u2018the Company\u2019) is pleased to announce the declaration of a 2.0 cents per share fully franked final dividend for FY26 (\u2018FY26 final divid\u2026",
+      "url": "https://financialpost.com/globe-newswire/maiden-final-dividend-declared-for-fy26-and-on-market-share-buy-back-approved",
+      "source": "Financial Post",
+      "date": "2026-08-21",
+      "image": null,
+      "category": "market"
     },
     {
-      "title": "FPI return to India may be tactical, not structural yet: HSBC MF\u2019s Venugopal Manghat",
-      "description": "Foreign investors are cautiously returning to Indian equities, but a durable FPI reallocation remains unconfirmed. HSBC Mutual Fund\u2019s Venugopal Manghat highlights improving earnings, stable domestic demand and manufacturing growth, while stressing valuation discipline. Sustained foreign inflows will",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fpi-return-to-india-may-be-tactical-not-structural-yet-hsbc-mfs-venugopal-manghat/articleshow/133417510.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-08-22",
-      "image": "",
+      "title": "Record FY26 Net Profit After Tax of A$228.7 Million (up 590%)",
+      "description": "Fully Franked 2.0cps Final Dividend Declared PERTH, Australia, Aug. 21, 2026 (GLOBE NEWSWIRE) \u2014 Alkane Resources Limited (ASX: ALK, TSX: ALK, OTCQX: ALKRY) (\u2018Alkane\u2019 or \u2018the Company\u2019) is pleased to release its results for the year ended 30 June 2026, with the\u2026",
+      "url": "https://financialpost.com/globe-newswire/record-fy26-net-profit-after-tax-of-a228-7-million-up-590",
+      "source": "Financial Post",
+      "date": "2026-08-21",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "Billionaires Jeff Bezos, Sam Altman and Peter Thiel are trying to cheat death",
+      "description": "Tech billionaires and leaders are investing heavily in longevity research and technologies.  They aim to reverse aging and extend healthy human lifespans significantly.  Historical attempts at rejuvenation have yielded limited success, but new science shows p\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/billionaires-jeff-bezos-sam-altman-peter-thiel-longevity-reverse-ageing/articleshow/133396594.cms",
+      "source": "The Times of India",
+      "date": "2026-08-21",
+      "image": "https://img.etimg.com/thumb/msid-133397276,width-1200,height-630,imgsize-304206,overlay-economictimes/articleshow.jpg",
+      "category": "market"
+    },
+    {
+      "title": "MCX shares jump 8% in 3 days as gold, silver futures rise. What lies ahead for investors?",
+      "description": "MCX shares rose in three sessions to Rs 3,211, tracking a third straight session of gains in gold and silver prices amid a weaker US dollar and easing concerns over long-term yields. The stock has gained 15% in a month, 45% so far this year and 101% over the \u2026",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/mcx-shares-jump-8-in-3-days-as-gold-silver-futures-rise-what-lies-ahead-for-investors/articleshow/133396946.cms",
+      "source": "The Times of India",
+      "date": "2026-08-21",
+      "image": "https://img.etimg.com/thumb/msid-133397006,width-1200,height-630,imgsize-2059407,overlay-etmarkets/articleshow.jpg",
       "category": "currency"
     },
     {
@@ -188,57 +242,39 @@
       "category": "metals"
     },
     {
-      "title": "How Taraba Poly student who lost both hands to high-tension wire survived",
-      "description": "\u2026Begs Governor Kefas, philanthropists for helpBy Femi Bolaji Jalingo \u2013 On the morning of May 21, 2025, the air in Jalingo was electric with anticipation. Flags fluttered along the restricted Government House corridor as the city prepared to host the prestigio\u2026",
-      "url": "https://www.vanguardngr.com/2026/08/how-taraba-poly-student-who-lost-both-hands-to-high-tension-wire-survived/",
-      "source": "Vanguard",
+      "title": "Gold up 1%, silver up 2% as dollar weakens",
+      "description": "Precious metals rose on Friday, with gold gaining more than 1% and silver up over 2% as the dollar declined. Investors also likely renewed their interest in precious metals as bond yields retreated so...",
+      "url": "https://biztoc.com/x/8e24566538a4285f",
+      "source": "Biztoc.com",
       "date": "2026-08-21",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/08/survivor.png",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Gold, Silver and Mining Shares Rally After Treasury Doubles Long-Dated Bond Buybacks",
-      "description": "Gold, silver and mining shares rose Wednesday after the U.S. Treasury said it would at least double purchases of long-dated government debt, a move that pushed down yields and the dollar. Spot gold traded around $4,484 an ounce as of 10:25 a.m. ET, up 3.46% f\u2026",
-      "url": "https://www.naturalnews.com/2026-08-21-gold-silver-mining-shares-rally-bond-buybacks.html",
-      "source": "Naturalnews.com",
-      "date": "2026-08-21",
-      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/gold-silver-mining-shares-3508-original.jpg",
+      "image": "https://biztoc.com/cdn/8e24566538a4285f_s.webp",
       "category": "currency"
     },
     {
-      "title": "Gold rises \u20b91,205 on MCX, silver gains \u20b91,745 on safe-haven demand",
-      "description": "In the global market, gold was trading near $4,590 per ounce on Comex, while silver was around $69 per ounce",
-      "url": "https://www.business-standard.com/markets/commodities/gold-rises-1-205-on-mcx-silver-gains-1-745-on-safe-haven-demand-126082100374_1.html",
+      "title": "MCX share price up 102% in a year; can the rally sustain? Analysts weigh",
+      "description": "MCX Share Price: Analysts attributed the rise in MCX shares to its leadership position in the commodity segment. Notably, MCX has maintained over 98 per cent market share by value in commodity derivatives.",
+      "url": "https://www.business-standard.com/markets/news/mcx-share-price-up-102-in-a-year-can-the-rally-sustain-analysts-weigh-126082100656_1.html",
       "source": "Business Standard",
       "date": "2026-08-21",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-04/07/thumb/fitandfill/1200X628/1775547425-5107.jpeg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "US debt tops $40 trillion: Chris Wood flags the 5% trigger that could rattle stock market",
-      "description": "US public debt has crossed $40 trillion as its fiscal position worsens and Treasury yields move closer to levels that could threaten equities. Jefferies strategist Christopher Wood flagged a rise above 5% in the 10-year US Treasury yield as a key risk trigger\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/us-debt-tops-40-trillion-chris-wood-flags-the-5-trigger-that-could-rattle-stock-market/articleshow/133393819.cms",
-      "source": "The Times of India",
-      "date": "2026-08-21",
-      "image": "https://img.etimg.com/thumb/msid-133393841,width-1200,height-630,imgsize-2537123,overlay-etmarkets/articleshow.jpg",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2017-04/23/thumb/fitandfill/1200X628/1492936354-0989.jpg",
       "category": "market"
     },
     {
-      "title": "Saudi Arabia\u2019s Beauty Market Booms With Young, Trend-savvy\u00a0Consumers",
-      "description": "Driven by a digitally savvy, youthful population, Saudi Arabia's $8.1 billion beauty market is flourishing, attracting global players like Ulta Beauty and fostering the rise of innovative homegrown brands.",
-      "url": "http://wwd.com/beauty-industry-news/beauty-features/saudi-arabia-beauty-market-booms-young-savvy-consumers-1239081751/",
-      "source": "WWD",
+      "title": "Gold climbs to near three-month peak after US Treasury move",
+      "description": "Gold prices soar to a near three-month high, driven by a weaker dollar and US Treasury bond buyback announcements.",
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-climbs-to-near-three-month-peak-after-us-treasury-move/article71372830.ece",
+      "source": "BusinessLine",
       "date": "2026-08-21",
-      "image": "https://wwd.com/wp-content/uploads/2026/08/GettyImages-2180517332.jpg?crop=0px%2C90px%2C3067px%2C1715px&resize=1000%2C563",
-      "category": "market"
+      "image": "https://bl-i.thgim.com/public/incoming/2nxgp0/article71372150.ece/alternates/LANDSCAPE_1200/PO19_Gold_stock.jpg",
+      "category": "currency"
     },
     {
-      "title": "Augmont Enterprise IPO opens: Analysts assign 'subscribe' tag; GMP at 38%",
-      "description": "The company's \u20b9825 crore IPO is a mix of fresh issue and offer for sale. The fresh issue component is made up of 0.79 crore equity shares, and the OFS is up to 620 crore shares",
-      "url": "https://www.business-standard.com/markets/ipo/augmont-enterprise-ipo-opens-analysts-assign-subscribe-tag-gmp-at-38-126082100194_1.html",
-      "source": "Business Standard",
+      "title": "Nifty flatlines near 24,232 at midday; crude surge caps gains, Power Grid shines",
+      "description": "Nifty trades flat at 24,232 amid rising crude prices, with Power Grid leading gains and Bank Nifty showing strength.",
+      "url": "https://www.thehindubusinessline.com/markets/nifty-flatlines-near-24232-at-midday-crude-surge-caps-gains-power-grid-shines/article71372689.ece",
+      "source": "BusinessLine",
       "date": "2026-08-21",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-07/05/thumb/featurecrop/1200X628/1783265566-6949.jpg",
+      "image": "https://bl-i.thgim.com/public/incoming/wofzrj/article71372732.ece/alternates/LANDSCAPE_1200/PO06_Chart_2.jpg",
       "category": "market"
     },
     {
@@ -251,6 +287,15 @@
       "category": "metals"
     },
     {
+      "title": "Gold, Silver and Mining Shares Rally After Treasury Doubles Long-Dated Bond Buybacks",
+      "description": "Gold, silver and mining shares rose Wednesday after the U.S. Treasury said it would at least double purchases of long-dated government debt, a move that pushed down yields and the dollar. Spot gold traded around $4,484 an ounce as of 10:25 a.m. ET, up 3.46% f\u2026",
+      "url": "https://www.naturalnews.com/2026-08-21-gold-silver-mining-shares-rally-bond-buybacks.html",
+      "source": "Naturalnews.com",
+      "date": "2026-08-21",
+      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/gold-silver-mining-shares-3508-original.jpg",
+      "category": "currency"
+    },
+    {
       "title": "Hindustan Zinc shares jump 7% in two sessions. What\u2019s triggering the rally?",
       "description": "Hindustan Zinc shares rose 4% as silver prices climbed for a third straight session, taking the stock\u2019s two-day gain to 7%. The company, one of the world\u2019s leading silver producers, continues to benefit from strong fundamentals and a favourable outlook for th\u2026",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-zinc-shares-jump-7-in-two-sessions-whats-triggering-the-rally/articleshow/133393717.cms",
@@ -260,148 +305,103 @@
       "category": "metals"
     },
     {
-      "title": "Selling your old phone, furniture or jewellery? Know when you have to pay tax and what counts as \u2018personal effects\u2019",
-      "description": "Profits from selling an asset is generally subject to income tax, but there are certain exceptions which are categorised as \u2018personal effects\u2019 by the income tax department. Here's when you have to pay tax and when the sale of an item is exempt from tax.",
-      "url": "https://www.livemint.com/money/personal-finance/selling-your-old-phone-furniture-or-jewellery-know-when-you-have-to-pay-tax-and-what-counts-as-personal-effects-11787283579089.html",
-      "source": "Livemint",
+      "title": "Report: Liverpool are in the race to sign \u00a315m-rated youngster",
+      "description": "Liverpool Join Chelsea and Arsenal in Race for Boca Juniors Talent Tomas ArandaLiverpool\u2019s recruitment operation continues to cast a wide net across the global market, and the latest name to surface...",
+      "url": "https://anfieldindex.com/98368/report-liverpool-are-in-the-race-to-sign-15m-rated-youngster.html",
+      "source": "Anfieldindex.com",
       "date": "2026-08-21",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/21/1600x900/logo/money_1787284777774_1787284777952_065097e1-3118-4e1b-a1db-f5b1b7dc9779.jpg",
+      "image": "https://s.yimg.com/lo/mysterio/api/b5561f72328bbd7e74bfb39352378fb84a282af2a0fa468292947887d2679f77/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fanfield_index_166%2F5d4edf526a1401793343806e3809813a.jpg",
       "category": "market"
     },
     {
-      "title": "Gold prices rise Rs 6,400/10g in 3 days; silver jumps Rs 13,000/kg despite Middle East tensions. Big rally brewing?",
-      "description": "Gold and silver prices rose for a third straight session on the MCX on Friday, supported by a weaker U.S. dollar and expectations of controlled longer-term Treasury yields. MCX silver surged Rs 13,000 over the past three sessions, while gold gained nearly Rs \u2026",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-rise-rs-6400/10g-in-3-days-silver-jumps-rs-13000/kg-despite-middle-east-tensions-big-rally-brewing/articleshow/133393150.cms",
-      "source": "The Times of India",
-      "date": "2026-08-21",
-      "image": "https://img.etimg.com/thumb/msid-133393226,width-1200,height-630,imgsize-2563140,overlay-etmarkets/articleshow.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Gold heads for third weekly gain on softer dollar, lower US yields",
-      "description": "Gold prices rise for a third week on a weaker dollar and lower US yields, up 3.6% this week.",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-heads-for-third-weekly-gain-on-softer-dollar-lower-us-yields/article71372098.ece",
+      "title": "Carlsberg India posts strong volume growth in H1, IPO process underway: Global CEO",
+      "description": "Earlier this year, in July, Carlsberg India, the Indian arm of the Danish brewing major Carlsberg Group, filed confidential papers with the capital markets regulator SEBI for a proposed IPO",
+      "url": "https://www.thehindubusinessline.com/companies/carlsberg-india-posts-strong-volume-growth-in-h1-ipo-process-underway-global-ceo/article71372631.ece",
       "source": "BusinessLine",
       "date": "2026-08-21",
-      "image": "https://bl-i.thgim.com/public/incoming/2nxgp0/article71372150.ece/alternates/LANDSCAPE_1200/PO19_Gold_stock.jpg",
-      "category": "currency"
-    },
-    {
-      "title": "Augmont Enterprises IPO opens today: GMP signals 38% listing gains. Should you subscribe?",
-      "description": "The Rs 825 crore Augmont Enterprises IPO comprises a fresh issue of 79 lakh shares worth Rs 620 crore and an offer for sale (OFS) of 26 lakh shares aggregating to Rs 205 crore.",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/augmont-enterprises-ipo-opens-today-gmp-signals-38-listing-gains-should-you-subscribe/articleshow/133391085.cms",
-      "source": "The Times of India",
-      "date": "2026-08-21",
-      "image": "https://img.etimg.com/thumb/msid-133391134,width-1200,height-630,imgsize-2014231,overlay-etmarkets/articleshow.jpg",
+      "image": "https://bl-i.thgim.com/public/incoming/qonnt5/article71175236.ece/alternates/LANDSCAPE_1200/2026-07-02T070917Z_1782262730_RC2WCBA78K4D_RTRMADP_3_CARLSBERG-INDIA-IPO.JPG",
       "category": "market"
     },
     {
-      "title": "2026 BMW iX3 L in China \u2013 new 30L with LFP battery joins 40L and 50L; up to 919 km CLTC, from RM162k",
-      "description": "We\u2019ve waited pretty patiently for this, but the new Neue Klasse BMW iX3 L has finally been launched in China at the ongoing Chengdu Motor Show. The long-wheelbase electric SUV\u2019s belated arrival in the Middle [\u2026]\nThe post 2026 BMW iX3 L in China \u2013 new 30L with\u2026",
-      "url": "https://paultan.org/2026/08/21/2026-bmw-ix3-l-in-china-new-30l-with-lfp-battery-joins-40l-and-50l-up-to-919-km-cltc-from-rm162k/",
-      "source": "Paul Tan's Automotive News",
+      "title": "Apple spyware warning hits iPhones in 110 countries",
+      "description": "Apple confirmed to CyberGuy that mercenary spyware alerts were sent to targeted users in 110 countries, now appearing directly on iPhone Lock Screens.",
+      "url": "https://www.foxnews.com/science/apple-spyware-warning-hits-iphones-110-countries",
+      "source": "Fox News",
       "date": "2026-08-21",
-      "image": "https://paultan.org/image/2026/08/2026-BMW-iX3-L-China-1-e1787286667671-1200x677.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Indonesia exports US$2.2M of tropical commodities to China",
-      "description": "The Indonesia Quarantine Agency (Barantin), in partnership with the Banten Provincial Government, facilitated the export of three leading tropical ...",
-      "url": "https://en.antaranews.com/news/428071/indonesia-exports-us22m-of-tropical-commodities-to-china",
-      "source": "Antaranews.com",
-      "date": "2026-08-21",
-      "image": "https://cdn.antaranews.com/cache/1200x800/2026/08/21/1000472350.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Billy Bat, The Summer Hikaru Died, More Win 3rd American Manga Awards",
-      "description": "cocoon, Mushishi, Madeleine Jose, Jan Mitsuko Cash, Wendy Chan also honored",
-      "url": "https://www.animenewsnetwork.com/interest/2026-08-21/billy-bat-the-summer-hikaru-died-more-win-3rd-american-manga-awards/.240791",
-      "source": "Anime News Network",
-      "date": "2026-08-21",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ8/herald/200474/billy-bat-1.jpg",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/05/3-sms-mms-or-rcs-how-to-pick-the-right-messaging-option.jpg",
       "category": "geopolitics"
     },
     {
-      "title": "An Iowa family moved the entire $12,000 farmhouse four miles on wheels to create their dream home",
-      "description": "An adventurous Iowa family took on the challenge of rescuing an abandoned farmhouse they believed held untold stories. By moving the century-old building four miles to their land, they endeavored to preserve history while crafting their dream home. Faced with\u2026",
-      "url": "https://timesofindia.indiatimes.com/world/us/an-iowa-family-moved-the-entire-12000-farmhouse-four-miles-on-wheels-to-create-their-dream-home/articleshow/133395766.cms",
-      "source": "The Times of India",
+      "title": "NZ guild Spada expresses \u2018deep disappointment\u2019 as politicians rule out streamer levy",
+      "description": "The president of New Zealand screen producers\u2019 guild Spada says she is \u201cdeeply disappointed\u201d by the country\u2019s top politicians ruling out a levy on international streamers, which...",
+      "url": "https://www.c21media.net/news/nz-guild-spada-expresses-deep-disappointment-as-politicians-rule-out-streamer-levy/",
+      "source": "C21media.net",
       "date": "2026-08-21",
-      "image": "https://static.toiimg.com/thumb/msid-133395923,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "image": "https://cdn.c21media.net/wp-content/uploads/2025/12/irene-gardiner.jpg",
       "category": "market"
     },
     {
-      "title": "Indian CEOs should stop \u2018just asking questions\u2019 and start building with AI: Anthropic India MD",
-      "description": "Indian CEOs must build real AI products and solutions, moving beyond simple chatbot experiments.  Companies are accelerating AI adoption and need to identify complex problems for dedicated task forces.  Anthropic India is collaborating with major banks and in\u2026",
-      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/indian-ceos-should-stop-just-asking-questions-and-start-building-with-ai-anthropic-india-md/articleshow/133395521.cms",
-      "source": "The Times of India",
+      "title": "Lanterns Saw the Biggest Premiere for a DC Studios Show on HBO Max, Ahead of The Penguin and Peacemaker",
+      "description": "Lanterns got off to a strong start on HBO Max, with the biggest premiere for a DC Studios show ever on the platform.",
+      "url": "https://www.ign.com/articles/lanterns-saw-the-biggest-premiere-for-a-dc-studios-show-on-hbo-max-ahead-of-the-penguin-and-peacemaker",
+      "source": "IGN",
       "date": "2026-08-21",
-      "image": "https://img.etimg.com/thumb/msid-133395622,width-1200,height-630,imgsize-144782,overlay-economictimes/articleshow.jpg",
+      "image": "https://assets-prd.ignimgs.com/2026/03/04/lanterns-blogroll-1740701126885-1772654361603.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "category": "market"
     },
     {
-      "title": "Borrowing Rises Above Forecasts in July",
-      "description": "New figures from the Office for National Statistics show that total UK debt is at \u00a32.985 trillion. A hair\u2019s breadth of the \u00a33 trillion mark\u2026 Borrowing was higher than OBR forecasts at \u00a31.8 billion in July, up \u00a30.7 billion on the same month last year. Self-ass\u2026",
-      "url": "https://order-order.com/2026/08/21/borrowing-rises-above-forecasts-in-july/",
-      "source": "Order-order.com",
-      "date": "2026-08-21",
-      "image": "https://order-order.com/wp-content/uploads/2026/08/Featured-Images-2026-08-21T080117.263.png",
-      "category": "market"
-    },
-    {
-      "title": "Nikkei market share report: Fujifilm surpasses Nikon!",
-      "description": "Nikkei Inc. has released \u201d Nikkei Industry Map 2027, \u201d which includes a ranking of digital camera shipments (market share) by manufacturer in the global camera market. And the big surprise is that FujiFilm is now on third spot! Nikon is no more the number thr\u2026",
-      "url": "https://www.mirrorlessrumors.com/nikkei-market-share-report-fujifilm-surpasses-nikon/",
-      "source": "Mirrorlessrumors.com",
+      "title": "Fusion Just Got Its First Publicly Listed Company Advancing Fusion Toward Commercial Scale",
+      "description": "Issued on behalf of General Fusion Group Ltd. VANCOUVER, British Columbia, Aug. 21, 2026 (GLOBE NEWSWIRE) \u2014 USA NEWS GROUP News Commentary \u2013 For years, fusion energy has been the punchline of clean power skeptics, always twenty years away and never here. Now,\u2026",
+      "url": "https://financialpost.com/globe-newswire/fusion-just-got-its-first-publicly-listed-company-advancing-fusion-toward-commercial-scale",
+      "source": "Financial Post",
       "date": "2026-08-21",
       "image": null,
-      "category": "market"
-    },
-    {
-      "title": "Glyphs and the Evolving Practice of Multiscript and Variable Type Design",
-      "description": "Slanted Magazine #47\u2014Digital Tools explores the instruments shaping contemporary creative practice. Through interviews, articles, and...\nDer Beitrag Glyphs and the Evolving Practice of Multiscript and Variable Type Design erschien zuerst auf slanted.",
-      "url": "https://www.slanted.de/glyphs-and-the-evolving-practice-of-multiscript-and-variable-type-design/",
-      "source": "Slanted.de",
-      "date": "2026-08-21",
-      "image": "https://www.slanted.de/wp-content/uploads/2026/08/Bildschirmfoto-2026-03-15-um-11.53.34.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Mental Health Is a Warfighting Readiness Problem for the U.S. Navy",
-      "description": "\u201cYou cannot be at mental peace always. You will be worried. So even my family \u2014 they are scared all the time, and they were anxiously praying [for] the vessel [to] come out of this area safely.\u201d While Captain Chirag operates a commercial cargo vessel in the R\u2026",
-      "url": "https://warontherocks.com/mental-health-is-a-warfighting-readiness-problem-for-the-u-s-navy/",
-      "source": "War on the Rocks",
-      "date": "2026-08-21",
-      "image": "https://warontherocks.com/wp-content/uploads/wotr-og-images/wotr-og-46361-ce96cc388bcd.jpg",
       "category": "geopolitics"
     },
     {
-      "title": "Ivy Tech Receives Approval for Workforce Pell Program",
-      "description": "Students at Ivy Tech Community College in Indiana can now use federal Pell Grant dollars on an eight-week clinical medical assistant training program, the Department of Education announced this week.",
-      "url": "https://www.insidehighered.com/news/quick-takes/2026/08/21/ivy-tech-receives-approval-workforce-pell-program",
-      "source": "Inside Higher Ed",
+      "title": "48 Turkish contractors make ENR\u2019s Global Top 250 list",
+      "description": "A total of 48 Turkish contracting companies were included in Engineering News-Record\u2019s (ENR) 2026 Top 250 International Contractors list, the Trade Ministry said on Aug. 21.",
+      "url": "https://www.hurriyetdailynews.com/48-turkish-contractors-make-enrs-global-top-250-list-225887",
+      "source": "Hurriyet Daily News",
       "date": "2026-08-21",
-      "image": "https://www.insidehighered.com/sites/default/files/styles/large/public/2025-02/GettyImages-2089285006.jpg?itok=VL9aJUBV",
+      "image": "https://image.hurimg.com/i/hurriyet/75/200x200/6a881df129222ab2dfca7dae.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Netflix comedy VP Andy Weil leaves for Amazon MGM Studios",
+      "description": "Netflix's VP of comedy, Andy Weil, is leaving the streamer to join Amazon MGM Studios as head of comedy. Weil has spent more than a decade at Netflix, joining as director of original series for comedy ...",
+      "url": "https://www.c21media.net/news/netflix-comedy-vp-andy-weil-leaves-for-amazon-mgm-studios/",
+      "source": "C21media.net",
+      "date": "2026-08-21",
+      "image": "https://cdn.c21media.net/wp-content/uploads/2020/04/bojack-horseman.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Goldman's top economist says the Fed's opaque new communication style will stir up market 'cacophony'",
+      "description": "Goldman's Jan Hatzius warns that uncertainty around the Fed's monetary policy outlook could spark even bigger market swings going forward.",
+      "url": "https://www.businessinsider.com/fed-interest-rates-kevin-warsh-market-volatility-goldman-sachs-2026-8#article",
+      "source": "Business Insider",
+      "date": "2026-08-21",
+      "image": "https://i.insider.com/6a87178c0b0f848e0c30791d?width=1200&format=jpeg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Two Americas: Anti-ICE Fighters vs. Bootlickers",
+      "description": "Elected officials across the country are fighting the federal government\u2019s mass deportation campaign with new laws and funding. But some states are welcoming the shock troops.\nThe post Two Americas: Anti-ICE Fighters vs. Bootlickers appeared first on The Amer\u2026",
+      "url": "https://prospect.org/2026/08/21/ice-trump-states-divide-america-bootlickers-new-york-florida/",
+      "source": "The American Prospect",
+      "date": "2026-08-21",
+      "image": "https://i0.wp.com/prospect.org/wp-content/uploads/2026/08/Wimbish-ICE-states-82126.jpg?fit=2000%2C1500&ssl=1",
       "category": "central_bank"
     },
     {
-      "title": "FG to unveil power sector scorecards, may sanction underperforming DisCos, GenCos",
-      "description": "The Federal Government (FG) is set to introduce performance scorecards for operators across Nigeria\u2019s electricity value chain, with underperforming distribution and generation companies (DisCos and GenCos) to face sanctions while high-performing operators wil\u2026",
-      "url": "https://www.vanguardngr.com/2026/08/fg-to-unveil-power-sector-scorecards-may-sanction-underperforming-discos-gencos/",
-      "source": "Vanguard",
+      "title": "Trump signs a memo to clear the regulatory path to three launches a day",
+      "description": "The United States conducted 178 orbital launches and re-entries last year, but the White House now wants at least a thousand a year by 2030. President Donald Trump signed a memorandum on Thursday directing federal agencies to clear the path to that number, la\u2026",
+      "url": "https://thenextweb.com/news/trump-memo-1000-us-space-launches-2030",
+      "source": "The Next Web",
       "date": "2026-08-21",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2020/06/DisCos.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Morning recap: States get N435bn for security, Atiku\u2019s subsidy push opposed, other top stories",
-      "description": "Catch up on Nigeria\u2019s top stories: states get N435bn for security, opposition to Atiku\u2019s subsidy plan, NFF funds probe, and UK travel warning. Get your Nig\n\nRead More: https://punchng.com/morning-recap-states-get-n435bn-for-security-atikus-subsidy-push-oppose\u2026",
-      "url": "https://punchng.com/morning-recap-states-get-n435bn-for-security-atikus-subsidy-push-opposed-other-top-stories/",
-      "source": "The Punch",
-      "date": "2026-08-21",
-      "image": "https://punchng.com/wp-content/uploads/2026/07/Atiku-Abubakar_1783943463-1200x630.webp",
-      "category": "geopolitics"
+      "image": "https://media.thenextweb.com/2026/05/trump-eu-auto-tariff-turnberry-deal.jpg",
+      "category": "central_bank"
     }
   ],
   "history": [
@@ -476,7 +476,7 @@
       "platinum_usd_oz": 1750.12
     }
   ],
-  "timestamp": "2026-08-22T12:38:28.447984+05:30",
+  "timestamp": "2026-08-22T15:20:36.613803+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
