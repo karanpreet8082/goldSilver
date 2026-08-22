@@ -1,0 +1,485 @@
+{
+  "prices": {
+    "gold": {
+      "price_per_gram_inr": 13296.36,
+      "price_usd_oz": 4341.91,
+      "change_percent": 2.4,
+      "change_value_usd": 101.69,
+      "price_per_10g_inr": 132963.64
+    },
+    "silver": {
+      "price_per_gram_inr": 194.76,
+      "price_usd_oz": 63.6,
+      "change_percent": 3.4,
+      "change_value_usd": 2.09,
+      "price_per_kg_inr": 194759.63
+    },
+    "platinum": {
+      "price_per_gram_inr": 5359.45,
+      "price_usd_oz": 1750.12,
+      "change_percent": 1.38,
+      "change_value_usd": 23.84
+    },
+    "currencies": {
+      "USD_INR": 95.2492,
+      "EUR_INR": 110.0002,
+      "GBP_INR": 128.3336,
+      "JPY_INR": 0.6031,
+      "CHF_INR": 117.737,
+      "AUD_INR": 67.162,
+      "CAD_INR": 68.2496,
+      "SGD_INR": 74.4367
+    },
+    "gold_silver_ratio": 68.27,
+    "timestamp": "2026-08-09T04:42:44.131776",
+    "source": "GoldAPI"
+  },
+  "currencies": {
+    "USD_INR": 95.2492,
+    "EUR_INR": 110.0002,
+    "GBP_INR": 128.3336,
+    "JPY_INR": 0.6031,
+    "CHF_INR": 117.737,
+    "AUD_INR": 67.162,
+    "CAD_INR": 68.2496,
+    "SGD_INR": 74.4367
+  },
+  "analysis": {
+    "gold": {
+      "metal": "gold",
+      "recommendation": "BUY",
+      "confidence": {
+        "buy": 65,
+        "sell": 10,
+        "hold": 25
+      },
+      "summary": "Gold is showing positive signals. Strong daily gain of 2.4%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
+      "timestamp": "2026-08-22T13:10:16.917491",
+      "source": "rule-based"
+    },
+    "silver": {
+      "metal": "silver",
+      "recommendation": "BUY",
+      "confidence": {
+        "buy": 65,
+        "sell": 10,
+        "hold": 25
+      },
+      "summary": "Silver is showing positive signals. Strong daily gain of 3.4%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
+      "timestamp": "2026-08-22T13:10:17.022849",
+      "source": "rule-based"
+    },
+    "platinum": {
+      "metal": "platinum",
+      "recommendation": "BUY",
+      "confidence": {
+        "buy": 65,
+        "sell": 10,
+        "hold": 25
+      },
+      "summary": "Platinum is showing positive signals. Strong daily gain of 1.4%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
+      "timestamp": "2026-08-22T13:10:17.112111",
+      "source": "rule-based"
+    }
+  },
+  "technical": {
+    "gold": {
+      "trend": "bullish",
+      "strength": 75,
+      "signals": [
+        "Price above 4-week moving average (bullish)",
+        "Price above 12-week moving average (bullish)",
+        "Short-term MA below long-term MA (downtrend)",
+        "Strong momentum: +3.9% in 4 weeks"
+      ],
+      "support": 124137.93,
+      "resistance": 140736.5,
+      "current_price": 132963.64,
+      "ma_short": 127825.72,
+      "ma_long": 131135.86,
+      "trend_score": 2.0
+    },
+    "silver": {
+      "trend": "neutral",
+      "strength": 38,
+      "signals": [
+        "Price above 4-week moving average (bullish)",
+        "Price below 12-week moving average (bearish)",
+        "Short-term MA below long-term MA (downtrend)",
+        "Sideways: +1.9% in 4 weeks"
+      ],
+      "support": 176726.94,
+      "resistance": 243170.57,
+      "current_price": 194759.63,
+      "ma_short": 186076.35,
+      "ma_long": 200770.89,
+      "trend_score": -1.0
+    },
+    "platinum": {
+      "trend": "bullish",
+      "strength": 75,
+      "signals": [
+        "Price above 4-week moving average (bullish)",
+        "Price above 12-week moving average (bullish)",
+        "Short-term MA below long-term MA (downtrend)",
+        "Strong momentum: +6.5% in 4 weeks"
+      ],
+      "support": 4961.56,
+      "resistance": 6206.5,
+      "current_price": 5359.45,
+      "ma_short": 5103.58,
+      "ma_long": 5355.75,
+      "trend_score": 2.0
+    }
+  },
+  "news": [
+    {
+      "title": "Zee Entertainment allots 20.94 cr convertible warrants to promoter group entity",
+      "description": "Zee Entertainment Enterprises has issued warrants to Sunbright Mauritius Investments Ltd, following the necessary board sanctions and regulatory approvals for their funding initiative. This move has attracted a subscription of Rs 659.76 crore, allowing Sunbright Mauritius to secure a substantial sta",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/zee-entertainment-allots-20-94-cr-convertible-warrants-to-promoter-group-entity/articleshow/133421533.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-08-22",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Bitcoin surges 23% in 1 week to trade nearly $78K as liquidity hopes, ETF inflows boost crypto markets",
+      "description": "Bitcoin surged nearly 23% in a week to around $78,000, while Ethereum and major altcoins also rallied. Strong crypto ETF inflows, softer US dollar expectations, Treasury buybacks and reduced Fed tightening hopes boosted sentiment. Analysts flagged improving institutional participation, though profit",
+      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-surges-23-in-1-week-to-trade-nearly-78k-as-liquidity-hopes-etf-inflows-boost-crypto-markets/articleshow/133420463.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-08-22",
+      "image": "",
+      "category": "central_bank"
+    },
+    {
+      "title": "Bank stocks to buy: Goldman Sachs remains bullish on 6 private bank stocks. Do you own any?",
+      "description": "Goldman Sachs expects Indian banks\u2019 loan growth to moderate to 14\u201315% through FY29 and initiated coverage on 14 lenders. It favours six private banks, including ICICI Bank, Kotak Mahindra Bank, HDFC Bank, Axis Bank, Federal Bank and AU Small Finance Bank.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/bank-stocks-to-buy-goldman-sachs-remains-bullish-on-6-private-bank-stocks-do-you-own-any/slideshow/133420450.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-08-22",
+      "image": "",
+      "category": "central_bank"
+    },
+    {
+      "title": "Green Water & Power Scales Nationwide EV Charging Deployment and Clean-Energy Workforce Development",
+      "description": "Los Angeles-based company surpasses 15,000 EV chargers nationwide while investing more than $500,000 in employee training and career advancement. LOS ANGELES, Aug. 21, 2026 /PRNewswire/ -- Green Water & Power, a Los Angeles-headquartered clean-energy infrastr\u2026",
+      "url": "https://www.prnewswire.com/news-releases/green-water--power-scales-nationwide-ev-charging-deployment-and-clean-energy-workforce-development-302856919.html",
+      "source": "PRNewswire",
+      "date": "2026-08-21",
+      "image": "https://mmx.prnewswire.com/media/MS1973270/Image-2026-08-20T111823-783.jpg?id=OA2900809&p=facebook",
+      "category": "market"
+    },
+    {
+      "title": "Coatue Management invests nearly 23% of portfolio in 3 AI stocks",
+      "description": "Coatue's strategic focus on AI-related semiconductor stocks highlights the critical role of infrastructure in driving AI advancements.\nThe post Coatue Management invests nearly 23% of portfolio in 3 AI stocks appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/coatue-management-ai-stocks-portfolio/",
+      "source": "Crypto Briefing",
+      "date": "2026-08-21",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/21085613/coatue-management-invests-nearly-23-of-portfolio-in-3-ai-sto-800x420.png",
+      "category": "market"
+    },
+    {
+      "title": "Kalamandir Jewellers Expands Gujarat Presence with 30,000 Sq Ft Vadodara Showroom",
+      "description": "Kalamandir Jewellers has expanded its retail footprint in Gujarat with the launch of a 30,000 sq ft flagship showroom in Vadodara. The new outlet received a strong response during its inauguration, wi",
+      "url": "https://www.business-standard.com/content/specials/kalamandir-jewellers-expands-gujarat-presence-with-30-000-sq-ft-vadodara-showroom-126082100665_1.html",
+      "source": "Business Standard",
+      "date": "2026-08-21",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/21/thumb/featurecrop/1200X628/1787302350-7501.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Global Tungsten Market Size Projected to Reach $9.62 Billion By 2030",
+      "description": "VANCOUVER, BC, Aug. 21, 2026 /PRNewswire/ -- USA News Group News Commentary - Tungsten spent most of the last decade as an industrial afterthought, priced quietly behind the metals that draw headlines. Two years of export controls, defense procurement rules a\u2026",
+      "url": "https://www.prnewswire.com/news-releases/global-tungsten-market-size-projected-to-reach-9-62-billion-by-2030--302857226.html",
+      "source": "PRNewswire",
+      "date": "2026-08-21",
+      "image": "https://mmx.prnewswire.com/media/MS1718298/USA-News-Group-Logo.jpg?id=OA2901374&p=facebook",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Wall Street's existential crisis over perpetual futures \u2014 the 24/7 security on steroids \u2014 just got urgent",
+      "description": "Perpetual futures, or perps, are shaking up exchanges as investors seek continuous access to trading.",
+      "url": "https://www.cnbc.com/2026/08/21/wall-streets-existential-crisis-over-perpetual-futures-the-24/7-security-on-steroids-just-got-urgent.html",
+      "source": "CNBC",
+      "date": "2026-08-21",
+      "image": "https://image.cnbcfm.com/api/v1/image/108341785-17853378942026-07-29t150859z_29779515_rc2pnmaq6tsf_rtrmadp_0_usa-stocks.jpeg?v=1785338016&w=1920&h=1080",
+      "category": "market"
+    },
+    {
+      "title": "A Top Trump Ally Turns to China",
+      "description": "Washington has favored bullets over business in its dealings with slow-growing Ecuador.",
+      "url": "http://foreignpolicy.com/2026/08/21/a-top-trump-ally-turns-to-china/",
+      "source": "Foreign Policy",
+      "date": "2026-08-21",
+      "image": "https://foreignpolicy.com/wp-content/uploads/2026/08/Noboa-Xi-China-Ecuador-GettyImages-2290446951.jpg",
+      "category": "market"
+    },
+    {
+      "title": "In 2014, Texas conservationists built a 54-acre underwater reef from artificial substrate; four years later oysters covered 70% of its surface",
+      "description": "US News: Half Moon Reef, a once-thriving oyster reef in Texas' Matagorda Bay, had been severely degraded after decades of overharvesting and environmental pres.",
+      "url": "https://timesofindia.indiatimes.com/world/us/in-2014-texas-conservationists-built-a-54-acre-underwater-reef-from-artificial-substrate-four-years-later-oysters-covered-70-of-its-surface/articleshow/133401977.cms",
+      "source": "The Times of India",
+      "date": "2026-08-21",
+      "image": "https://static.toiimg.com/thumb/msid-133403310,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Nifty posts second straight gain but ends week lower; crude, bond yields cap rally",
+      "description": "Metal stocks and gains in broader markets offered support, while weak sectoral breadth and geopolitical risks kept investors cautious through Friday",
+      "url": "https://www.thehindubusinessline.com/markets/nifty-posts-second-straight-gain-but-ends-week-lower-crude-bond-yields-cap-rally/article71373428.ece",
+      "source": "BusinessLine",
+      "date": "2026-08-21",
+      "image": "https://bl-i.thgim.com/public/incoming/wofzrj/article71372732.ece/alternates/LANDSCAPE_1200/PO06_Chart_2.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Remember the Names",
+      "description": "\u201c. . . it\u2019s subversion and nothing about it is accidental. it\u2019s a well worn playbook to use the democratic institutions of a high trust state to destroy a civilization.\u201d \u2014El Gato Malo on Substack",
+      "url": "https://www.kunstler.com/p/remember-the-names",
+      "source": "Kunstler.com",
+      "date": "2026-08-21",
+      "image": "https://substackcdn.com/image/fetch/$s_!_i7B!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5a59659d-a985-4f7a-b604-76a13aff43c5_700x472.heic",
+      "category": "market"
+    },
+    {
+      "title": "The real cost of financial ignorance: 'Rich Dad Poor Dad' author Robert Kiyosaki explains 'what is expensive'",
+      "description": "Robert Kiyosaki emphasises the high cost of financial ignorance, advocating for the pursuit of knowledge over merely focusing on the costs of education. After attending expensive educational programmes, he reflects on the value of ongoing learning to make bet\u2026",
+      "url": "https://www.livemint.com/money/personal-finance/the-real-cost-of-financial-ignorance-rich-dad-poor-dad-author-robert-kiyosaki-explains-whats-expensive-11787309923239.html",
+      "source": "Livemint",
+      "date": "2026-08-21",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/21/1600x900/logo/Money_1787312179960_1787312184974_8e136576-6157-4a7b-9033-8da6c0fedb47.png",
+      "category": "market"
+    },
+    {
+      "title": "Middle millionaires worth $1-$3 million fork out the most to the IRS. Dodge the tax torpedo headed for your nest egg now",
+      "description": "Here\u2019s how to make sure you don\u2019t pay more than your fair share.",
+      "url": "https://finance.yahoo.com/economy/policy/articles/middle-millionaires-worth-1-3-110500840.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-08-21",
+      "image": "https://s.yimg.com/lo/mysterio/api/C7BC0CE8715A5744EDD8F4F05DFB3D8DD417613416E678E1888989A64BB0387B/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2Fd8e9897db599b4a6f505670681417eb9.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Bunker Hill and Silver47 Announce Merger to Create a \u2018Made in America\u2019 U.S. Silver & Critical Minerals Champion",
+      "description": "KELLOGG, Idaho and VANCOUVER, British Columbia, Aug. 21, 2026 (GLOBE NEWSWIRE) \u2014 Bunker Hill Mining Corp. (\u201cBunker Hill\u201d) (TSX: BNKR | OTCQB: BHLL), and Silver47 Exploration Corp. (\u201cSilver47\u201d) (TSXV: AGA | OTCQX: AAGAF | Frankfurt: QP2) are pleased to announc\u2026",
+      "url": "https://financialpost.com/globe-newswire/bunker-hill-and-silver47-announce-merger-to-create-a-made-in-america-u-s-silver-critical-minerals-champion",
+      "source": "Financial Post",
+      "date": "2026-08-21",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/08/combined-mineral-resource-summary.jpeg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Gladiator Metals Corp. Begins Trading on OTCQX Best Market",
+      "description": "NEW YORK, Aug. 21, 2026 (GLOBE NEWSWIRE) \u2014 OTC Markets Group Inc. (OTCQX: OTCM), operator of regulated markets for trading 12,000 U.S. and international securities, today announced Gladiator Metals Corp. (TSX-V: GLAD; OTCQX: GDTRF), a mineral exploration comp\u2026",
+      "url": "https://financialpost.com/globe-newswire/gladiator-metals-corp-begins-trading-on-otcqx-best-market",
+      "source": "Financial Post",
+      "date": "2026-08-21",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "Former Google Engineer Convicted of Stealing AI Trade Secrets Gets Major Legal Break as Judge Throws Out Economic Espionage Charges",
+      "description": "On Thursday, former Alphabet Inc.\u2019s (NASDAQ:GOOG) (NASDAQ:GOOGL) Google software engineer Linwei Ding received a major legal reprieve after a federal judge o...",
+      "url": "https://finance.yahoo.com/technology/ai/articles/former-google-engineer-convicted-stealing-105328785.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-08-21",
+      "image": "https://s.yimg.com/lo/mysterio/api/4BFA6C124D18FE1659AC9B10EDCA286DC8876599804F7E8B31FABA3D2430D742/subgraphmysterio/resizefill_w1200_h844;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2Fc835d7aa85d08cf368d074b10ff14fb0.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Sensex today | Stock Market Highlights: Nifty ends marginally higher, Sensex flat as markets post weekly losses",
+      "description": "Sensex Today, Nifty 50 | Stock Market Highlights, 21st August  2026: Indian equities ended largely flat on Friday, with the Nifty 50 edging up 0.08% to 24,252 and the BSE Sensex closing flat at 77,540.83. Both benchmarks recorded weekly losses of 0.5% and 0.6\u2026",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-21st-august-2026/article71368928.ece",
+      "source": "BusinessLine",
+      "date": "2026-08-21",
+      "image": "https://bl-i.thgim.com/public/incoming/oet1zt/article71018310.ece/alternates/LANDSCAPE_1200/stock%20market%20graph.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Kenvue (Neutrogena) breaks silence after Hayden Panettiere's past claims spark backlash following her death",
+      "description": "Kenvue (NYSE : KVUE) broke its silence Thursday following the death of Hayden Panettiere and mounting backlash over their Neutrogena skincare brand's alleged treatment of the actress, acknowledging that it made her \"feel unsupported during a very difficult ti\u2026",
+      "url": "https://freerepublic.com/focus/f-chat/4392619/posts",
+      "source": "Freerepublic.com",
+      "date": "2026-08-21",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "ap-ds-afs added to PyPI",
+      "description": "Audio Player By DVS AFS - Audio processing and playback with Opus native support",
+      "url": "https://pypi.org/project/ap-ds-afs/",
+      "source": "Pypi.org",
+      "date": "2026-08-21",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "Al Shabab signs Thomas Partey on free transfer from Arsenal",
+      "description": "Partey's move to Al-Shabab highlights the Saudi Pro League's growing appeal to seasoned European players, impacting global football dynamics.\nThe post Al Shabab signs Thomas Partey on free transfer from Arsenal appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/al-shabab-signs-thomas-partey-free-transfer/",
+      "source": "Crypto Briefing",
+      "date": "2026-08-21",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/21090726/thomas-partey-reacting-during-an-international-friendly-matc-800x420.jpeg",
+      "category": "currency"
+    },
+    {
+      "title": "India bonds log worst week in FY27 on RBI surprise U-turns",
+      "description": "Indian government bonds encountered significant challenges this week, marking the worst week of the financial year. The Reserve Bank of India's hawkish policy minutes triggered a selloff, compounded by the early closure of a diaspora-deposit hedging facility.\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-log-worst-week-in-fy27-on-rbi-surprise-u-turns/articleshow/133405478.cms",
+      "source": "The Times of India",
+      "date": "2026-08-21",
+      "image": "https://img.etimg.com/thumb/msid-133405506,width-1200,height-630,imgsize-121028,overlay-etmarkets/articleshow.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Elevra Lithium Completes Binding Supply Agreement with Mangrove Lithium",
+      "description": "BRISBANE, Australia, Aug. 21, 2026 (GLOBE NEWSWIRE) \u2014 North American lithium producer Elevra Lithium Limited (\u201cElevra\u201d) (ASX:ELV; NASDAQ:ELVR) is pleased to announce that it has executed a binding Spodumene Concentrate Supply Agreement (the \u201cAgreement\u201d) with \u2026",
+      "url": "https://financialpost.com/globe-newswire/elevra-lithium-completes-binding-supply-agreement-with-mangrove-lithium",
+      "source": "Financial Post",
+      "date": "2026-08-21",
+      "image": null,
+      "category": "supply_demand"
+    },
+    {
+      "title": "Trump's desperate move to stop looming midterm bloodbath as economic downturn tears through American households",
+      "description": "Americans have faced soaring food prices, with inflation compounded by rising fuel costs stemming from the war with Iran.",
+      "url": "https://www.dailymail.com/news/article-16069845/Trumps-desperate-stop-looming-midterm-bloodbath-economic-downturn-tears-American-households.html",
+      "source": "Dailymail.com",
+      "date": "2026-08-21",
+      "image": "https://i.dailymail.com/1s/2026/08/21/13/110764235-0-image-a-6_1787316456612.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "ET World Leaders Forum: Broader media economics key to cricket's success, says JioStar's Uday Shankar",
+      "description": "JioStar Vice Chairman Uday Shankar said cricket\u2019s long-term success depends on broader media economics, beyond stadium attendance, as traditional media faces pressure from changing advertising models. Speaking at the ET World Leaders Forum, he also discussed \u2026",
+      "url": "https://economictimes.indiatimes.com/news/sports/cricket/et-world-leaders-forum-broader-media-economics-key-to-crickets-success-says-jiostars-uday-shankar/articleshow/133405479.cms",
+      "source": "The Times of India",
+      "date": "2026-08-21",
+      "image": "https://img.etimg.com/thumb/msid-133405467,width-1200,height-630,imgsize-75826,overlay-economictimes/articleshow.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Colonizing the Moon",
+      "description": "Plus: Postpartum psychosis, captain deportation, lady lawyers, and more...",
+      "url": "https://reason.com/2026/08/21/colonizing-the-moon/",
+      "source": "Reason",
+      "date": "2026-08-21",
+      "image": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/08/Trump-8-21.jpg",
+      "category": "market"
+    },
+    {
+      "title": "TD Securities\u2019 Molly Brooks warns of asymmetric risks from Fed comments at Jackson Hole",
+      "description": "Market volatility may increase as traders adjust to unexpected dovish signals, impacting long-term Treasury yields and financial strategies.\nThe post TD Securities\u2019 Molly Brooks warns of asymmetric risks from Fed comments at Jackson Hole appeared first on Cry\u2026",
+      "url": "https://cryptobriefing.com/td-securities-brooks-asymmetric-risks-fed-jackson-hole/",
+      "source": "Crypto Briefing",
+      "date": "2026-08-21",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/21090611/td-securities-molly-brooks-warns-of-asymmetric-risks-from-fe-800x420.jpeg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Meet Mamdani's arts commissioner, who wants to keep NYC's culture scene affordable",
+      "description": "Diya Vij at the groundbreaking for Lincoln Center's West Side.\n \n\nDiya Vij was appointed to lead New York City\u2019s Department of Cultural Affairs six months ago. [ more \u203a ]",
+      "url": "https://gothamist.com/news/meet-mamdanis-arts-commissioner-who-wants-to-keep-nycs-culture-scene-affordable",
+      "source": "Gothamist",
+      "date": "2026-08-21",
+      "image": "https://api-prod.gothamist.com/images/358759/fill-1200x650|format-webp|webpquality-85/",
+      "category": "market"
+    },
+    {
+      "title": "LivePerson Reminds Stockholders of Additional Time to Vote FOR SoundHound AI Transaction",
+      "description": "Urges Stockholders to Vote Ahead of Special Meeting on September 2 NEW YORK, Aug. 21, 2026 /PRNewswire/ -- LivePerson (NASDAQ: LPSN) (\"LivePerson\" or \"the Company\"), a leading provider of predictable conversational AI, today announced that the LivePerson Boar\u2026",
+      "url": "https://www.prnewswire.com/news-releases/liveperson-reminds-stockholders-of-additional-time-to-vote-for-soundhound-ai-transaction-302857340.html",
+      "source": "PRNewswire",
+      "date": "2026-08-21",
+      "image": "https://mmx.prnewswire.com/media/MS1959630/liveperson_logo-1.jpg?id=OA2901860&p=facebook",
+      "category": "market"
+    },
+    {
+      "title": "Military sexual trauma survivors can\u2019t sue the government. A new bill could change that.",
+      "description": "Survivors of military sexual trauma have long been barred from suing the government over assaults and the failures that allowed them to happen. A bipartisan bill would give them a path to court.",
+      "url": "http://www.dallasobserver.com/news/military-sexual-trauma-survivors-cant-sue-the-government-40706170/",
+      "source": "Dallas Observer",
+      "date": "2026-08-21",
+      "image": "https://www.dallasobserver.com/wp-content/uploads/sites/3/2026/08/Fort_Hood-Darnall_Hospital_by_michael_heckman-wikimediacommons.jpg",
+      "category": "geopolitics"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-05-15",
+      "week": "2026-W20",
+      "gold_10g": 140736.5,
+      "silver_kg": 243170.57,
+      "platinum_g": 6206.5,
+      "gold_usd_oz": 4568.35,
+      "silver_usd_oz": 78.93,
+      "platinum_usd_oz": 2014.65
+    },
+    {
+      "date": "2026-06-07",
+      "week": "2026-W23",
+      "gold_10g": 132593.54,
+      "silver_kg": 207602.87,
+      "platinum_g": 5449.55,
+      "gold_usd_oz": 4328.87,
+      "silver_usd_oz": 67.78,
+      "platinum_usd_oz": 1779.15
+    },
+    {
+      "date": "2026-06-09",
+      "week": "2026-W24",
+      "gold_10g": 133318.07,
+      "silver_kg": 210317.38,
+      "platinum_g": 5419.88,
+      "gold_usd_oz": 4331.37,
+      "silver_usd_oz": 68.33,
+      "platinum_usd_oz": 1760.87
+    },
+    {
+      "date": "2026-07-05",
+      "week": "2026-W27",
+      "gold_10g": 127936.35,
+      "silver_kg": 191162.72,
+      "platinum_g": 5033.18,
+      "gold_usd_oz": 4175.01,
+      "silver_usd_oz": 62.38,
+      "platinum_usd_oz": 1642.5
+    },
+    {
+      "date": "2026-07-09",
+      "week": "2026-W28",
+      "gold_10g": 126264.96,
+      "silver_kg": 181656.12,
+      "platinum_g": 4961.56,
+      "gold_usd_oz": 4107.77,
+      "silver_usd_oz": 59.1,
+      "platinum_usd_oz": 1614.14
+    },
+    {
+      "date": "2026-08-02",
+      "week": "2026-W31",
+      "gold_10g": 124137.93,
+      "silver_kg": 176726.94,
+      "platinum_g": 5060.13,
+      "gold_usd_oz": 4043.21,
+      "silver_usd_oz": 57.56,
+      "platinum_usd_oz": 1648.1
+    },
+    {
+      "date": "2026-08-09",
+      "week": "2026-W32",
+      "gold_10g": 132963.64,
+      "silver_kg": 194759.63,
+      "platinum_g": 5359.45,
+      "gold_usd_oz": 4341.91,
+      "silver_usd_oz": 63.6,
+      "platinum_usd_oz": 1750.12
+    }
+  ],
+  "timestamp": "2026-08-22T18:40:17.122413+05:30",
+  "run_info": {
+    "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
+    "timezone": "Asia/Kolkata",
+    "source": "GoldAPI"
+  }
+}
