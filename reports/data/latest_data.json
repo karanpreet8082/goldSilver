@@ -54,7 +54,7 @@
         "hold": 25
       },
       "summary": "Gold is showing positive signals. Strong daily gain of 2.4%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-23T04:07:03.512089",
+      "timestamp": "2026-08-23T07:09:36.740792",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 25
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 3.4%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-23T04:07:03.698082",
+      "timestamp": "2026-08-23T07:09:36.793022",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 25
       },
       "summary": "Platinum is showing positive signals. Strong daily gain of 1.4%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-23T04:07:03.815724",
+      "timestamp": "2026-08-23T07:09:36.850450",
       "source": "rule-based"
     }
   },
@@ -134,13 +134,58 @@
   },
   "news": [
     {
-      "title": "How will Sensex, Nifty behave on Monday? 4 factors to drive D-Street action this week",
-      "description": "This week's Dalal Street movements are set to be heavily influenced by the ongoing tensions between Iran and the US, alongside fluctuations in global oil prices. Rising bond yields are causing investors to adopt a cautious stance as they navigate market trends. Key economic data from the US and stat",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/how-will-sensex-nifty-behave-on-monday-4-factors-to-drive-d-street-action-this-week/articleshow/133433930.cms",
+      "title": "Bonus, dividends &amp; stock splits: Paras Defence, NBCC, MCX among 67 stocks turning ex-record date this week. Do you own any?",
+      "description": "Around 67 companies have scheduled dividends and other corporate actions for the week of August 24-28. The list includes NBCC, MCX India, Paras Defence, NALCO, Senco Gold and Power Finance Corporation, among others. Investors can track key record dates for dividends, bonus issues, stock splits, righ",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-dividends-stock-splits-paras-defence-nbcc-mcx-among-67-stocks-turning-ex-record-date-this-week-do-you-own-any/articleshow/133434336.cms",
       "source": "Economic Times Markets",
       "date": "2026-08-23",
       "image": "",
-      "category": "geopolitics"
+      "category": "metals"
+    },
+    {
+      "title": "How bitcoin and gold went from a slump to an MVP week in just a few days",
+      "description": "Bitcoin had dropped from a January high of around $95,000 to below $60,000 at the end of June. Investors shied away from speculative assets earlier in the year and crypto supporters were concerned about the lack of movement on proposed regulation of the industry. On Friday, bitcoin rose above $77,00",
+      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/how-bitcoin-and-gold-went-from-a-slump-to-an-mvp-week-in-just-a-few-days/articleshow/133434294.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-08-23",
+      "image": "",
+      "category": "metals"
+    },
+    {
+      "title": "Gold gets its glitter back as Indian buyers return ahead of wedding and festive season",
+      "description": "India\u2019s gold demand is recovering after June\u2019s price correction, with jewellery purchases, imports and retailer stocking picking up ahead of the festive season. Gold ETFs also continue to attract investors, while old-gold exchanges are helping consumers manag\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/gold-gets-its-glitter-back-as-indian-buyers-return-ahead-of-wedding-and-festive-season/articleshow/133419573.cms",
+      "source": "The Times of India",
+      "date": "2026-08-22",
+      "image": "https://img.etimg.com/thumb/msid-133419590,width-1200,height-630,imgsize-150742,overlay-economictimes/articleshow.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Why the bond market is flexing its muscles, and why everyone needs to care",
+      "description": "The bond market is one of the few forces in the world strong enough to get politicians to snap to attention",
+      "url": "https://abcnews.com/Business/wireStory/bond-market-flexing-muscles-care-135859215",
+      "source": "Abcnews.com",
+      "date": "2026-08-22",
+      "image": "https://i.abcnewsfe.com/a/32d4b1ae-13fb-4370-98b3-af3e0596556b/wirestory_b62bedeb7a8b7d5479e25a560b52176c_16x9.jpg?w=1600",
+      "category": "market"
+    },
+    {
+      "title": "ETMarkets NRI Talk| Rs 1 crore, 5-7 years: How NRIs should allocate across Indian equities, bonds, gold and alternatives, says Rohit Sarin",
+      "description": "NRIs investing in India should assess their global portfolio, existing India exposure, liquidity, risk appetite, taxes and repatriation needs before investing. For a Rs 1 crore portfolio, an illustrative allocation is 55\u201365% equities, 15\u201320% fixed income, 5\u20131\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/etmarkets-nri-talk-rs-1-crore-5-7-years-how-nris-should-allocate-across-indian-equities-bonds-gold-and-alternatives-says-rohit-sarin/articleshow/133417845.cms",
+      "source": "The Times of India",
+      "date": "2026-08-22",
+      "image": "https://img.etimg.com/thumb/msid-133417878,width-1200,height-630,imgsize-7735470,overlay-etmarkets/articleshow.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "Six investors reveal the biggest market risks \u2014 and one strategy they agree on",
+      "description": "Investors see different risks threatening markets, but broadly agree that traders should diversify beyond recent winners.",
+      "url": "https://www.cnbc.com/2026/08/22/investors-market-risks-diversification-stocks-kospi.html",
+      "source": "CNBC",
+      "date": "2026-08-22",
+      "image": "https://image.cnbcfm.com/api/v1/image/108339511-1784838355906-gettyimages-2286702595-AFP_C3233TH.jpeg?v=1784838383&w=1920&h=1080",
+      "category": "market"
     },
     {
       "title": "How AI Is Splitting the Right",
@@ -170,40 +215,13 @@
       "category": "market"
     },
     {
-      "title": "Byron Scott on Lakers: I don't think Dr. Jerry Buss would be very happy with the state of the Lakers right now",
-      "description": "Byron Scott on Lakers: I don't think Dr. Jerry Buss would be very happy with the state of the Lakers right now",
-      "url": "https://www.hoopshype.com/story/sports/nba/2026/08/21/byron-scott-lakers-dont-think-jerry-buss-would-be-very-happy-with-the-state-of-the-lakers-right-now/91415693007/",
-      "source": "Hoops Hype",
+      "title": "Tiruttani Murugan temple's 11-day offering crosses Rs 1 crore in money, 293 grams of gold",
+      "description": "The Tiruttani Subrahmanya Swamy temple received over Rs 1 crore in cash.  Substantial quantities of gold and silver were also donated by devotees.  The recent Aadi festival saw a massive surge in devotional offerings.  Thousands of pilgrims attended the Aadi \u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/tiruttani-murugan-temples-11-day-offering-crosses-rs-1-crore-in-money-293-grams-of-gold/articleshow/133419022.cms",
+      "source": "The Times of India",
       "date": "2026-08-22",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "PPF to digital gold: Monthly investments that build long-term wealth",
-      "description": "Here are seven low-cost, high-impact investment tools designed to help small monthly contributions grow into a substantial long-term corpus",
-      "url": "https://www.business-standard.com/finance/personal-finance/ppf-to-digital-gold-monthly-investments-that-build-long-term-wealth-126081401843_1.html",
-      "source": "Business Standard",
-      "date": "2026-08-22",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/11/thumb/fitandfill/1200X628/1786468060-7263.jpg",
+      "image": "https://img.etimg.com/thumb/msid-133419035,width-1200,height-630,imgsize-142422,overlay-economictimes/articleshow.jpg",
       "category": "metals"
-    },
-    {
-      "title": "Economic Digest: A Snapshot of Nepal\u2019s Business News",
-      "description": "KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. Nepal\u2019s economy presented a mixed picture on August 21, with financial markets showing weakness while g\u2026",
-      "url": "https://english.khabarhub.com/2026/22/564284/",
-      "source": "Khabarhub.com",
-      "date": "2026-08-22",
-      "image": "https://english.khabarhub.com/wp-content/uploads/2024/05/Economic-Digest.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Faircourt Asset Management Inc. Announces August Distribution",
-      "description": "Toronto, Aug. 21, 2026 (GLOBE NEWSWIRE) \u2014 Faircourt Asset Management Inc., as Manager of the Faircourt Fund (CBOE:FGX), is pleased to announce the monthly distribution payable on the Shares of the below listed Fund. Faircourt Funds Trading Symbol Distribution\u2026",
-      "url": "https://financialpost.com/globe-newswire/faircourt-asset-management-inc-announces-august-distribution-3",
-      "source": "Financial Post",
-      "date": "2026-08-22",
-      "image": null,
-      "category": "market"
     },
     {
       "title": "A tonne of discarded printed circuit boards can contain roughly 10 to 26 times more copper than a tonne of natural copper ore \u2014 making electronic waste an unusually concentrated source of valuable metals.",
@@ -215,121 +233,139 @@
       "category": "supply_demand"
     },
     {
-      "title": "ETMarkets Smart Talk | India\u2019s diverse earnings story could bring FIIs back: Bandhan Life\u2019s Avinash Agarwal",
-      "description": "While foreign institutional investors (FIIs) have remained net sellers over the past two years amid India\u2019s premium valuations and an earnings slowdown, Avinash Agarwal, Senior Vice President & Head \u2013 Equity at Bandhan Life, believes the tide could turn as In\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-indias-diverse-earnings-story-could-bring-fiis-back-bandhan-lifes-avinash-agarwal/articleshow/133417060.cms",
+      "title": "Post-Armageddon Comics Reveal Doctor Doom's New Look And J. Jonah Jameson Back To His Old Ways",
+      "description": "Marvel Comics will explore the fallout from Armageddon in Captain America #17, Amazing Spider-Man #1003, and Black Panther/Namor: Doomed #1, and we have a first look at all three comics.",
+      "url": "https://comicbookmovie.com/comics/marvel-comics/post-armageddon-comics-reveal-doctor-dooms-new-look-and-j-jonah-jameson-back-to-his-old-ways-a229490",
+      "source": "CBM (Comic Book Movie)",
+      "date": "2026-08-22",
+      "image": "https://comicbookmovie.com/images/articles/banners/post-armageddon-comics-reveal-doctor-dooms-new-look-and-j-jonah-jameson-back-to-his-old-ways-ab229490.jpg",
+      "category": "market"
+    },
+    {
+      "title": "F&O Talk: Nifty to consolidate further, says Sudeep Shah; picks 3 stocks for next week",
+      "description": "SBI Securities\u2019 Sudeep Shah expects Nifty to remain range-bound, with 24,000 as key support and 24,500 as resistance. He warns of underpriced options-market tail risks amid low volatility. Bank Nifty remains compressed, while Nifty IT faces support at 30,000.\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-nifty-to-consolidate-further-says-sudeep-shah-picks-3-stocks-for-next-week/articleshow/133419507.cms",
       "source": "The Times of India",
       "date": "2026-08-22",
-      "image": "https://img.etimg.com/thumb/msid-133417081,width-1200,height-630,imgsize-339836,overlay-etmarkets/articleshow.jpg",
-      "category": "market"
-    },
-    {
-      "title": "The Red Raider Keeps Coming Back \u2014 And That\u2019s A Good Thing",
-      "description": "Photo Credit:ChatGPT\n \n ChatGPT for American ThinkerBy Andre Billeaudeaux, Bill DieckmanTexas Tech\u2019s curious journey from matador to mounted warrior.",
-      "url": "https://www.americanthinker.com/articles/2026/08/the-red-raider-keeps-coming-back-and-that-s-a-good-thing/",
-      "source": "Americanthinker.com",
-      "date": "2026-08-22",
-      "image": "https://images.americanthinker.com/ns/ns8vlgdwkqwskoevr2zk_1200.jpg",
+      "image": "https://img.etimg.com/thumb/msid-133419555,width-1200,height-630,imgsize-101648,overlay-etmarkets/articleshow.jpg",
       "category": "geopolitics"
     },
     {
-      "title": "James Irwin Charter Middle School Pulls Creationist Content",
-      "description": "James Irwin Charter Middle School, named after creationist astronaut James Irwin, agreed not to teach intelligent design in their science classes.",
-      "url": "https://answersingenesis.org/public-school/religion-in-schools/james-irwin-school-pulls-creationist-content/",
-      "source": "Answersingenesis.org",
+      "title": "UBS Global Wealth Management Boosts S&P 500 Year-End Target to 8,100 on Stronger Profit Outlook",
+      "description": "UBS Global Wealth Management raised its S&P 500 forecast to 8,100 by year-end, citing resilient earnings growth and economic strength while increasing EPS estimates.\nThe post UBS Global Wealth Management Boosts S&P 500 Year-End Target to 8,100 on Stronger Pro\u2026",
+      "url": "https://dailyhodl.com/2026/08/22/ubs-global-wealth-management-boosts-sp-500-year-end-target-to-8100-on-stronger-profit-outlook/",
+      "source": "The Daily Hodl",
       "date": "2026-08-22",
-      "image": "https://assets.answersingenesis.org/img/cms/content/contentnode/og_image/where-are-creationist-christian-colleges.jpg",
+      "image": "https://dailyhodl.com/wp-content/uploads/2025/06/Ten-Stocks-the-Bank.jpg?resize=1456,816",
       "category": "market"
     },
     {
-      "title": "Illegitimate Elections Will Destroy the United States",
-      "description": "Photo Credit:Image via Pixabay, Pixabay License.\r\n\n\n \n PixabayBy J.B. Shurk\u2018Sanctuary city\u2019 secession is tearing the Union apart.",
-      "url": "https://www.americanthinker.com/articles/2026/08/illegitimate-elections-will-destroy-the-united-states/",
-      "source": "Americanthinker.com",
-      "date": "2026-08-22",
-      "image": "https://images.americanthinker.com/imported/2024-03/252927_1200.jpeg",
-      "category": "market"
-    },
-    {
-      "title": "ETMarkets Smart Talk | Bonds aren\u2019t boring: Where Devang Shah sees the best fixed-income opportunities",
-      "description": "At the same time, the RBI remains watchful of risks from geopolitics, crude oil prices and global monetary policy developments.",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/etmarkets-smart-talk-bonds-arent-boring-where-devang-shah-sees-the-best-fixed-income-opportunities/articleshow/133416948.cms",
+      "title": "India's private credit funds increasingly turn to AI for deal sourcing, underwriting: EY",
+      "description": "Indian private credit funds are adopting artificial intelligence for deal sourcing and analysis. Most funds use AI moderately for data analysis and monitoring purposes. A smaller group integrates AI deeply into their investment processes. The private credit m\u2026",
+      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/indias-private-credit-funds-increasingly-turn-to-ai-for-deal-sourcing-underwriting-ey/articleshow/133419461.cms",
       "source": "The Times of India",
       "date": "2026-08-22",
-      "image": "https://img.etimg.com/thumb/msid-133417045,width-1200,height-630,imgsize-202623,overlay-etmarkets/articleshow.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Canada suspends trade talks with US, matches tariffs dollar for dollar",
-      "description": "The suspension of trade talks and reciprocal tariffs could destabilize key industries, strain US-Canada relations, and impact global markets.\nThe post Canada suspends trade talks with US, matches tariffs dollar for dollar appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/canada-suspends-us-trade-talks-tariffs/",
-      "source": "Crypto Briefing",
-      "date": "2026-08-22",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/21235619/interesting-facts-about-canada-flag-800x420.jpeg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "The Pentagon fights the left\u2019s subtle takeover of Stars and Stripes",
-      "description": "By Andrea WidburgWhile most people weren\u2019t looking, a battle has been brewing as the Trump administration tries to rein in what has become a subtly woke publication.",
-      "url": "https://www.americanthinker.com/blog/2026/08/the-pentagon-fights-the-left-s-subtle-takeover-of-stars-and-stripes/",
-      "source": "Americanthinker.com",
-      "date": "2026-08-22",
-      "image": "https://images.americanthinker.com/bx/bxwj6n9bxgr6vqeewb1q_1200.jpg",
+      "image": "https://img.etimg.com/thumb/msid-133419460,width-1200,height-630,imgsize-56586,overlay-economictimes/articleshow.jpg",
       "category": "market"
     },
     {
-      "title": "The Fight Over Spraying Roundup in California\u2019s Forests Has Only Gotten Bigger",
-      "description": "This video was created in partnership with PBS NewsHour.\u00a0 The record amounts of glyphosate being sprayed in California\u2019s forests\u2014revealed in a yearlong Mother Jones investigation in April\u2014has continued to attract national attention and fuel public debate.\u00a0 In\u2026",
-      "url": "https://www.motherjones.com/politics/2026/08/the-fight-over-spraying-roundup-in-californias-forests-has-only-gotten-bigger/",
-      "source": "Mother Jones",
+      "title": "Show HN: I reverse-engineered Bambu's 3MF color format so GLB keeps the colors",
+      "description": "Open-source color customizer for multi-color 3MF files from the Snapmaker U1 / OrcaSlicer / Bambu ecosystem. Recolor zones in a browser, export GLB or 3MF, or convert in Node via the CLI. 100% clie...",
+      "url": "https://github.com/SamiSalah221/3mf-to-glb",
+      "source": "Github.com",
       "date": "2026-08-22",
-      "image": "https://www.motherjones.com/wp-content/uploads/2026/05/20260520-tahoe-glyphosate.jpg?w=1200&h=630&crop=1",
+      "image": "https://opengraph.githubassets.com/c12bf440838716ebc2cb86f7da82d935910bd0d4c99dcb1c479564d4d7083e92/SamiSalah221/3mf-to-glb",
+      "category": "supply_demand"
+    },
+    {
+      "title": "'Off the Charts' El Nino Is Already the Strongest Since Records Began",
+      "description": "A rapidly developing El Nino is already reaching record-setting levels for this time of year and is expected to intensify further over the coming months. \"The El Nino has blossomed. It is off the charts. Usual measures of El Nino have blown past prior record \u2026",
+      "url": "https://news.slashdot.org/story/26/08/21/2216202/off-the-charts-el-nino-is-already-the-strongest-since-records-began",
+      "source": "Slashdot.org",
+      "date": "2026-08-22",
+      "image": "https://a.fsdn.com/sd/topics/earth_64.png",
       "category": "market"
     },
     {
-      "title": "Canadian prime minister suspends trade talks with U.S., setting new 50% tariffs in motion",
-      "description": "A new wave of tariffs will hit Canada early Saturday morning, with steep 50% duties in effect at the stroke of midnight.",
-      "url": "https://www.nbcnews.com/business/economy/trump-canada-tariffs-carney-rcna593510",
-      "source": "NBC News",
-      "date": "2026-08-22",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251027-donald-trump-mark-carney-zz-7d6c7d.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Wall St Week Ahead Nvidia earnings, Jackson Hole to test pillars of stock rally",
-      "description": "Nvidia's upcoming earnings report, alongside the Fed's crucial Jackson Hole symposium, may redefine current market expectations. The recent spike in global bond yields is putting pressure on stocks, raising alarms about borrowing costs for investors. Attentio\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/wall-st-week-ahead-nvidia-earnings-jackson-hole-to-test-pillars-of-stock-rally/articleshow/133416862.cms",
+      "title": "South Korean container ship sets sail on first commercial Arctic voyage to Europe",
+      "description": "A South Korean container ship has begun its first commercial voyage via the Arctic. This journey aims to test the viability of the Northern Sea Route for trade. The voyage is expected to take between forty and forty-five days. Officials hope this route will t\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/south-korean-container-ship-sets-sail-on-first-commercial-arctic-voyage-to-europe/articleshow/133419283.cms",
       "source": "The Times of India",
       "date": "2026-08-22",
-      "image": "https://img.etimg.com/thumb/msid-133416878,width-1200,height-630,imgsize-189688,overlay-etmarkets/articleshow.jpg",
+      "image": "https://img.etimg.com/thumb/msid-133419304,width-1200,height-630,imgsize-358316,overlay-economictimes/articleshow.jpg",
+      "category": "currency"
+    },
+    {
+      "title": "'Black community-only' days and bans for non-German speakers: How swimming pools have become Germany's new cultural battlegrounds",
+      "description": "As temperatures have soared, tensions have also boiled over. In Germany this has resulted in the politics around pools blowing up into a heated national debate.",
+      "url": "https://www.dailymail.com/news/article-16061237/Black-community-bans-non-German-speakers-swimming-pool.html",
+      "source": "Dailymail.com",
+      "date": "2026-08-22",
+      "image": "https://i.dailymail.com/1s/2026/08/19/11/110634011-0-image-m-17_1787135385145.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "U.S. Considers Separate Measles, Mumps and Rubella Shots - EU Policies",
+      "description": "A new federal policy could change how children receive measles, mumps and rubella vaccines, raising questions among parents and health experts.",
+      "url": "https://eu-policies.com/competences/health/u-s-considers-separate-measles-mumps-and-rubella-shots/",
+      "source": "Eu-policies.com",
+      "date": "2026-08-22",
+      "image": "https://eu-policies.com/wp-content/uploads/2026/08/vaccination-67477_1280.jpg",
       "category": "central_bank"
     },
     {
-      "title": "US judge strikes down Trump immigrant visa ban affecting 75 countries",
-      "description": "A federal judge in Manhattan ruled against the State Department's suspension of immigrant visas.",
-      "url": "https://www.aljazeera.com/news/2026/8/22/us-judge-strikes-down-trump-immigrant-visa-ban-affecting-75-countries",
-      "source": "Al Jazeera English",
+      "title": "Big Tech in \u201cFrantic\u201d Push to Contain AI Backlash, Report Says",
+      "description": "Big technology companies are deploying advocacy campaigns and policy arguments to counter a widening public and regulatory backlash against artificial intelligence, according to industry reporting and opinion surveys. The push comes as Americans express risin\u2026",
+      "url": "https://www.naturalnews.com/2026-08-22-big-tech-push-to-contain-ai-backlash.html",
+      "source": "Naturalnews.com",
       "date": "2026-08-22",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a8904db6d20f-1787364571.jpg?resize=1920%2C1440",
+      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/ai-backlash-big-tech-lobbying-3522-original.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Pesticide Exposure Linked to Parkinson\u2019s Disease Risk, Review Finds",
+      "description": "A body of epidemiological research links pesticide exposure to Parkinson\u2019s disease. Research at the University of California San Francisco (UCSF) finds that pesticide exposure increases the risk of developing Parkinson\u2019s disease, regardless of whether disease\u2026",
+      "url": "https://www.naturalnews.com/2026-08-22-review-pesticide-exposure-linked-parkinsons-disease-risk.html",
+      "source": "Naturalnews.com",
+      "date": "2026-08-22",
+      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/parkinsons-disease-pesticide-exposure-environmental-contaminants-3539-original.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Oil Resumption: Rumbles in the pipelines as doubt pervades\u00a0Ogoni peace dialogue",
+      "description": "There is an atmosphere of frustration and distrust over the already established peace process between Ogoni people and the federal government\nThe post Oil Resumption: Rumbles in the pipelines as doubt pervades\u00a0Ogoni peace dialogue appeared first on Vanguard N\u2026",
+      "url": "https://www.vanguardngr.com/2026/08/oil-resumption-rumbles-in-the-pipelines-as-doubt-pervades-ogoni-peace-dialogue/",
+      "source": "Vanguard",
+      "date": "2026-08-22",
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2025/04/Ogoni.jpg",
       "category": "central_bank"
     },
     {
-      "title": "Zee Entertainment allots 20.94 cr convertible warrants to promoter group entity",
-      "description": "Zee Entertainment Enterprises has issued warrants to Sunbright Mauritius Investments Ltd, following the necessary board sanctions and regulatory approvals for their funding initiative. This move has attracted a subscription of Rs 659.76 crore, allowing Sunbright Mauritius to secure a substantial sta",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/zee-entertainment-allots-20-94-cr-convertible-warrants-to-promoter-group-entity/articleshow/133421533.cms",
-      "source": "Economic Times Markets",
+      "title": "Return our IDPs to their homes before ranching, Benue leaders tell FG",
+      "description": "He appealed to Benue residents to remain calm and law-abiding, assuring that the socio-cultural organisations would continue to engage relevant authorities\nThe post Return our IDPs to their homes before ranching, Benue leaders tell FG appeared first on Vangua\u2026",
+      "url": "https://www.vanguardngr.com/2026/08/return-our-idps-to-their-homes-before-ranching-benue-leaders-tell-fg/",
+      "source": "Vanguard",
       "date": "2026-08-22",
-      "image": "",
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-03-at-11.45.12-PM-e1775257941461.jpeg",
+      "category": "market"
+    },
+    {
+      "title": "The 1970s Oil Crisis: Never Forget",
+      "description": "From MasterResource By Robert Bradley Jr. Ed. Note: This week marks the 55th anniversary of President Richard Nixon\u2019s 90-day wage and price order of August 15, 1971. With extensions, maximum\u2026 \nThe post The 1970s Oil Crisis: Never Forget appeared first on Watt\u2026",
+      "url": "https://wattsupwiththat.com/2026/08/21/the-1970s-oil-crisis-never-forget/",
+      "source": "Wattsupwiththat.com",
+      "date": "2026-08-22",
+      "image": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/08/OREGONS_ODD-EVEN_PLAN_REDUCED_THE_LINES_AT_GAS_STATIONS_DURING_THE_FUEL_CRISIS_IN_THE_FALL_AND_WINTER_OF_1973-74._-_NARA_-_555498.webp?fit=1024%2C512&quality=75&ssl=1",
       "category": "geopolitics"
     },
     {
-      "title": "Bitcoin surges 23% in 1 week to trade nearly $78K as liquidity hopes, ETF inflows boost crypto markets",
-      "description": "Bitcoin surged nearly 23% in a week to around $78,000, while Ethereum and major altcoins also rallied. Strong crypto ETF inflows, softer US dollar expectations, Treasury buybacks and reduced Fed tightening hopes boosted sentiment. Analysts flagged improving institutional participation, though profit",
-      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-surges-23-in-1-week-to-trade-nearly-78k-as-liquidity-hopes-etf-inflows-boost-crypto-markets/articleshow/133420463.cms",
-      "source": "Economic Times Markets",
+      "title": "Trump claps back with 'mom' jibe after protestor's brazen stunt at rally",
+      "description": "With the crowd largely behind him and cheering his every move, he was interrupted twice by protesters, who were promptly escorted out to the delight of Trump's MAGA fanbase.",
+      "url": "https://www.dailymail.com/news/article-16071579/Trump-claps-mom-zinger-protestors.html",
+      "source": "Dailymail.com",
       "date": "2026-08-22",
-      "image": "",
-      "category": "central_bank"
+      "image": "https://i.dailymail.com/1s/2026/08/22/05/110787199-0-image-a-16_1787371570439.jpg",
+      "category": "market"
     },
     {
       "title": "The Contrarian\u2019s Playbook: Why the Smartest Investors Buy When Everyone Hates Crypto",
@@ -366,42 +402,6 @@
       "date": "2026-08-21",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/image-1.webp?resize=1200,923",
       "category": "market"
-    },
-    {
-      "title": "Dollar Ends Little Changed as Stocks Rally",
-      "description": "The dollar index (DXY00 ) fell by -0.02% on Friday, holding just above Thursday\u2019s 3.25-month low. Strength in stocks on Friday reduced demand for dollar liqu...",
-      "url": "https://www.barchart.com/story/news/3975953/dollar-ends-little-changed-as-stocks-rally",
-      "source": "Barchart.com",
-      "date": "2026-08-21",
-      "image": "https://s.yimg.com/lo/mysterio/api/3212E6036A8CE907A241463F8F365EAFF49F1F65E2583CF512206BC9C0A8A635/subgraphmysterio/resizefill_w1200_h736;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F28daf3562e3582568bec527cdf7175ed.jpg",
-      "category": "currency"
-    },
-    {
-      "title": "Goldman Sachs sees gold rally accelerating on $90 silver bets",
-      "description": "Increased silver options activity could amplify gold's rally, impacting global markets and investment strategies amid volatile precious metals.\nThe post Goldman Sachs sees gold rally accelerating on $90 silver bets appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/goldman-sachs-gold-rally-silver-90-bets/",
-      "source": "Crypto Briefing",
-      "date": "2026-08-21",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/21153327/goldman-sachs-sees-gold-rally-accelerating-on-90-silver-bets-800x420.jpeg",
-      "category": "metals"
-    },
-    {
-      "title": "Silver prices today, Friday, August 21, 2026: Silver pushes higher on weaker dollar",
-      "description": "Silver (SI=F) September futures opened at $68.20 per ounce on Friday, August 21, 2026, up 0.1% from Thursday's closing price.",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-friday-august-21-2026-silver-pushes-higher-on-weaker-dollar-161325787.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-08-21",
-      "image": "https://s.yimg.com/lo/mysterio/api/0702B06E317DCDF991F86AF88F8B45B320F419D79761EF906092017BBB9D590B/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-05%2F4d950ec0-03eb-414b-bfd3-9fb69d35cb32",
-      "category": "currency"
-    },
-    {
-      "title": "Gold (XAUUSD), Silver, Platinum Forecasts \u2013 Gold Tests Multi-Month Highs - FXEmpire",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYm4wdkZKb2pzemx2MjF3N2RJZnRzLTA1UlB4T3NOa05QbGM3VDh6WEgxSFFSOXkyVVFYbUhfWHVWdkN4NFpySVpUbURHZjcweS1GZGlYLTMzbU5QOHBaRjNPamdlb05FWDdtTTRHNi1kNE9aVFk2Zk9HYjR1eWt1VFZ3eGpJbU9HMll5ZXVYS19mWEJJVGc2ZF90ZWNkRjVYRi1GR1pxMzRGNFJ0MlEzdUcteGxjR09Z?o",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYm4wdkZKb2pzemx2MjF3N2RJZnRzLTA1UlB4T3NOa05QbGM3VDh6WEgxSFFSOXkyVVFYbUhfWHVWdkN4NFpySVpUbURHZjcweS1GZGlYLTMzbU5QOHBaRjNPamdlb05FWDdtTTRHNi1kNE9aVFk2Zk9HYjR1eWt1VFZ3eGpJbU9HMll5ZXVYS19mWEJJVGc2ZF90ZWNkRjVYRi1GR1pxMzRGNFJ0MlEzdUcteGxjR09Z?oc=5",
-      "source": "Google News - Precious Metals",
-      "date": "2026-08-21",
-      "image": "",
-      "category": "currency"
     }
   ],
   "history": [
@@ -476,7 +476,7 @@
       "platinum_usd_oz": 1750.12
     }
   ],
-  "timestamp": "2026-08-23T09:37:03.828841+05:30",
+  "timestamp": "2026-08-23T12:39:36.857472+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
