@@ -54,7 +54,7 @@
         "hold": 25
       },
       "summary": "Gold is showing positive signals. Strong daily gain of 2.4%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-24T10:09:49.350977",
+      "timestamp": "2026-08-24T13:31:53.581137",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 25
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 3.4%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-24T10:09:49.554186",
+      "timestamp": "2026-08-24T13:31:53.677209",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 25
       },
       "summary": "Platinum is showing positive signals. Strong daily gain of 1.4%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-24T10:09:49.633342",
+      "timestamp": "2026-08-24T13:31:53.759274",
       "source": "rule-based"
     }
   },
@@ -134,49 +134,76 @@
   },
   "news": [
     {
-      "title": "India 10-year bond yield clings to 6.85%; traders eye oil moves amid sanctions threat",
-      "description": "Indian government bonds remained steady as traders awaited oil price movements.  US sanctions on Iran could impact global crude prices significantly.  Higher oil prices may fuel inflation and widen India's current account deficit.  Reserve Bank of India policymakers are open to raising interest rate",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-10-year-bond-yield-clings-to-6-85-traders-eye-oil-moves-amid-sanctions-threat/articleshow/133459495.cms",
+      "title": "Sebi introduces IT Resilience Index for market infrastructure institutions: Here's what you need to know",
+      "description": "SEBI has introduced an IT Resilience Index for market infrastructure institutions to strengthen critical systems, cybersecurity and operational continuity. The 100-point framework will assess nine parameters twice yearly, with early-warning mechanisms and real-time monitoring required by February 20",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-introduces-it-resilience-index-for-market-infrastructure-institutions-heres-what-you-need-to-know/articleshow/133466515.cms",
       "source": "Economic Times Markets",
       "date": "2026-08-24",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "Global Market: European shares edge lower as investors await Iran sanctions details",
-      "description": "European shares edged lower on Monday as technology stocks came under pressure, while investors awaited US sanctions on Iran, Nvidia\u2019s results and fresh clues on the Federal Reserve\u2019s rate outlook.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-edge-lower-as-investors-await-iran-sanctions-details/articleshow/133457567.cms",
+      "title": "India lenders' dollar debt sales top $10 billion since RBI window, ICICI Bank beats peer to lead pack",
+      "description": "ICICI Bank is set to raise one billion dollars through the issuance of five-year bonds, marking its fourth bond sale this month. With over three billion dollars already raised via the RBI window, this move contributes to the collective bond issuance of over ten billion dollars by Indian banks. This ",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-lenders-dollar-debt-sales-top-10-billion-since-rbi-window-icici-bank-beats-peer-to-lead-pack/articleshow/133466165.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-08-24",
+      "image": "",
+      "category": "central_bank"
+    },
+    {
+      "title": "Dow Jones| Nasdaq | S&amp;P 500 | US Stock Market Today | Live Updates: US stock index futures slip as high-stakes Iran, inflation tests loom",
+      "description": "",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-futures-slip-as-iran-tensions-nvidia-earnings-and-inflation-data-loom/liveblog/133465988.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-08-24",
+      "image": "",
+      "category": "inflation"
+    },
+    {
+      "title": "Elan group ropes in Marriott International to manage upcoming hotel, branded homes in Gurugram",
+      "description": "In an exciting development, Elan Group has teamed up with Marriott International to enhance Gurugram's skyline with the upcoming JW Marriott Hotel and JW Marriott Residences. Elan Group will take charge of the development, while Marriott Hotels India is set to manage both properties. This strategic ",
+      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/elan-group-ropes-in-marriott-international-to-manage-upcoming-hotel-branded-homes-in-gurugram/articleshow/133465171.cms",
       "source": "Economic Times Markets",
       "date": "2026-08-24",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "Markets brace for more hawkish ECB as energy risks threaten to keep inflation elevated",
-      "description": "Markets are increasingly pricing in a more hawkish European Central Bank as geopolitical tensions, elevated energy costs and depleted gas inventories threaten to keep eurozone inflation high. Investors see a rising probability of further rate hikes through 2027, while resilient economic activity and",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/markets-brace-for-more-hawkish-ecb-as-energy-risks-threaten-to-keep-inflation-elevated/articleshow/133456888.cms",
+      "title": "Quote of the day by Tom Russo: \"Sadly, on Wall Street, rewards for acting with self-interest and to disadvantage public shareholders often prove to be too tempting\"",
+      "description": "Investor Tom Russo warns that self-serving incentives can sometimes outweigh shareholder interests. His observation highlights the importance of strong corporate governance, transparent executive rewards, accountability and oversight, urging investors to assess management quality and incentive struc",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/quote-of-the-day-by-tom-russo-sadly-on-wall-street-rewards-for-acting-with-self-interest-and-to-disadvantage-public-shareholders-often-prove-to-be-too-tempting/articleshow/133463490.cms",
       "source": "Economic Times Markets",
       "date": "2026-08-24",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "Global Market: China\u2019s property crisis deepens as Evergrande founder gets life sentence",
-      "description": "China\u2019s property crisis deepened despite Evergrande founder Hui Ka Yan receiving a life sentence. Falling home prices, unfinished projects, weak sales and developer debt continue to hurt household wealth and consumption. Beijing is shifting support toward technology sectors, but analysts expect the ",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-property-crisis-deepens-as-evergrande-founder-gets-life-sentence/articleshow/133456559.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-08-24",
-      "image": "",
-      "category": "geopolitics"
+      "title": "Got $2M saved? You should (probably) retire immediately. Don't sacrifice it all for nothing",
+      "description": "You might be more ready for retirement than you think.",
+      "url": "https://finance.yahoo.com/markets/articles/got-2m-saved-probably-retire-124500785.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-08-23",
+      "image": "https://s.yimg.com/lo/mysterio/api/67F60405F5CB5789D91293B1D108C858C270F9AC2B9BE19C1F1EF7268ABD2C25/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2Fd63980190d8ce7b4ce41fdd423de72fa.jpg",
+      "category": "market"
     },
     {
-      "title": "Muthoot Finance, Manappuram Finance shares rally up to 11% in 4 days as gold crosses Rs 1.63 lakh",
-      "description": "Gold loan stocks Muthoot Finance, Manappuram Finance and IIFL Finance gained sharply as gold prices climbed on a weaker dollar and liquidity support from the US Treasury. Investors are watching US inflation data and Fed signals at Jackson Hole. Rising gold prices and geopolitical tensions continue s",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/muthoot-finance-manappuram-finance-shares-rally-up-to-11-in-4-days-as-gold-crosses-rs-1-63-lakh/articleshow/133455929.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-08-24",
-      "image": "",
-      "category": "geopolitics"
+      "title": "The Strategic Blind Spots Attracting Shareholder Activists",
+      "description": "2025 was a record year for shareholder activism. Over 255 campaigns were launched globally in the most prolific year to date. Activity in the United States was up 28 percent year over year; Japan reached its own record with 56 new campaigns. Activist investin\u2026",
+      "url": "https://corpgov.law.harvard.edu/2026/08/23/the-strategic-blind-spots-attracting-shareholder-activists/",
+      "source": "Harvard School of Engineering and Applied Sciences",
+      "date": "2026-08-23",
+      "image": "https://corpgov.law.harvard.edu/wp-content/uploads/2021/03/new-shield-facebook.png",
+      "category": "market"
+    },
+    {
+      "title": "beancount-zakat added to PyPI",
+      "description": "Zakat calculation for Beancount ledgers, with a Fava dashboard and a standalone CLI",
+      "url": "https://pypi.org/project/beancount-zakat/",
+      "source": "Pypi.org",
+      "date": "2026-08-23",
+      "image": null,
+      "category": "market"
     },
     {
       "title": "Women investors bet big on gold, triple their ETF investments in a year; where else did they put their money?",
@@ -233,147 +260,129 @@
       "category": "metals"
     },
     {
-      "title": "Equity, debt or gold? What 25 years of data reveals about the best asset allocation for investors",
-      "description": "FundsIndia\u2019s 25-year analysis compares different combinations of equity, debt and gold to see how asset allocation affects returns and portfolio volatility. The 70:15:15 mix delivered a 15% average seven-year return and crossed 10% annualised returns in 92% o\u2026",
-      "url": "https://www.livemint.com/money/personal-finance/equity-debt-or-gold-what-25-years-of-data-reveals-about-the-best-asset-allocation-for-investors-11787419715482.html",
-      "source": "Livemint",
+      "title": "Irish acts showcased on National Public Radio in the US",
+      "description": "Irish acts including CMAT, Dermot Kennedy, and Madra Salach will be showcased on National Public Radio (NPR) in the US from Monday as the music programme World Caf\u00e9 dedicates two weeks to Dublin as part of its award-winning Sense of Place series.",
+      "url": "https://www.rte.ie/entertainment/2026/0823/1588907-irish-acts-showcased-on-national-public-radio-in-the-us/",
+      "source": "RTE",
       "date": "2026-08-23",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/22/1600x900/logo/Gemini_Generated_Image_ogb9nbogb9nbogb9_1787420221029_1787420231572_ea8f74d0-65e0-4e3a-baaa-1fb7ac66f102.png",
-      "category": "metals"
+      "image": "https://www.rte.ie/images/0024e27a-1600.jpg",
+      "category": "geopolitics"
     },
     {
-      "title": "'India needs rapid battery storage expansion as renewable capacity rises'",
-      "description": "The growing renewable capacity has created an immediate need to scale up storage systems, industry stakeholders said, highlighting the huge gap between the demand and current capability to manufacture essential battery cell components.\nSharing their views wit\u2026",
-      "url": "https://www.business-standard.com/industry/news/india-needs-rapid-battery-storage-expansion-as-renewable-capacity-rises-126082300333_1.html",
+      "title": "Sudha Murty visits Barabar Caves, bats for Unesco World Heritage status",
+      "description": "Philanthropist Sudha Murty on Sunday visited the ancient Barabar Caves in Bihar's Jehanabad district and advocated their inclusion in the UNESCO World Heritage list, officials said.\nMurty, a noted author and Rajya Sabha MP, arrived at Jay Prakash Narayan Inte\u2026",
+      "url": "https://www.business-standard.com/india-news/sudha-murty-visits-barabar-caves-bats-for-unesco-world-heritage-status-126082300532_1.html",
       "source": "Business Standard",
       "date": "2026-08-23",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-07/03/thumb/featurecrop/1200X628/1783098302-0642.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "US memorandum is best path out of stalled war, says Iranian President",
-      "description": "Iran's president defended a memorandum of understanding with the United States as the best way out of a stalled war.\nMeanwhile, the new head of the Islamic Republic's top security body warned, in a more forceful tone, of retaliation if neighbouring countries \u2026",
-      "url": "https://www.business-standard.com/world-news/us-memorandum-is-best-path-out-of-stalled-war-says-iranian-president-126082300289_1.html",
-      "source": "Business Standard",
-      "date": "2026-08-23",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-03/12/thumb/fitandfill/1200X628/1773283221-5036.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "$40 trillion debt, $1.8 trillion deficit: Why US fiscal strain is worrying global markets",
-      "description": "US public debt has now surpassed forty trillion dollars, and the fiscal deficit continues to widen. Rising Treasury yields are emerging as a key market risk, potentially pressuring equities. Government spending has surged while receipts have declined, compoun\u2026",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/40-trillion-debt-1-8-trillion-deficit-why-us-fiscal-strain-is-worrying-global-markets/articleshow/133437580.cms",
-      "source": "The Times of India",
-      "date": "2026-08-23",
-      "image": "https://static.toiimg.com/thumb/msid-133437783,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "category": "currency"
-    },
-    {
-      "title": "The US Treasury Department isn't a hedge fund\u2014and it should not behave like one",
-      "description": "The administration\u2019s effort to lower borrowing costs in America is looking awkward. While Treasury secretary Scott Bessent was once a hedge fund manager, he shouldn\u2019t deploy those tactics by trying to time the bond market with taxpayer money.",
-      "url": "https://www.livemint.com/opinion/online-views/us-treasury-department-hedge-fund-scott-bessent-borrowing-costs-treasury-bills-bond-yields-11787475413288.html",
-      "source": "Livemint",
-      "date": "2026-08-23",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/23/1600x900/logo/USA-TREASURY-BONDS-BESSENT-0_1787476688106_1787476697742_9739375a-fe68-485e-980f-250d3f16c7a4.JPG",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Hormuz crisis hides a deeper oil threat that could outlast the war",
-      "description": "Art Berman warns that 8 million barrels shut in near the Strait of Hormuz may never fully recover, even after a ceasefire reopens the waterway.",
-      "url": "https://www.foxnews.com/world/strait-hormuz-may-only-half-story-new-oil-threat-comes-focus",
-      "source": "Fox News",
-      "date": "2026-08-23",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/irgc-navy-strait-hormuz-exercise.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Extreme Heat Waves Fuel Political Tensions in Europe",
-      "description": "No progress made in limiting heat deaths over the past five years.",
-      "url": "https://www.nakedcapitalism.com/2026/08/extreme-heat-waves-fuel-political-tensions-in-europe.html",
-      "source": "Nakedcapitalism.com",
-      "date": "2026-08-23",
-      "image": "https://www.nakedcapitalism.com/wp-content/uploads/2026/08/EuropeHeatDeaths1200px-1024x741.png",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Why Cadillac\u2019s F1 future is under the spotlight despite firm sale denial",
-      "description": "Cadillac has denied speculation that its Formula 1 team could be sold, as the project faces heightened attention following reports of a federal investigation involving owner Mark Walter\u2019s wider business interests. The American team's rejection of any sale nar\u2026",
-      "url": "https://www.gpblog.com/en/analysis/why-cadillacs-f1-future-is-under-the-spotlight-despite-firm-sale-denial",
-      "source": "GPblog.com",
-      "date": "2026-08-23",
-      "image": "https://s.yimg.com/lo/mysterio/api/90ccd41337badc9a30015a52fa0414cdc12668613ec7676f66fad24e3bbb2baa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgpblog_716%2F6bb9fa486c5f9ac29967fe15e5eefe97",
-      "category": "central_bank"
-    },
-    {
-      "title": "CorelDRAW 2026 Review: New Features and Workflow Updates for Designers and Print Professionals Highlighted by Expert Consumers",
-      "description": "NEW YORK, Aug. 23, 2026 /PRNewswire/ -- Expert Consumers has recognized CorelDRAW Graphics Suite 2026 for workflow updates designed to support designers and print professionals. The CorelDRAW 2026 review examines the software's current capabilities that can r\u2026",
-      "url": "https://www.prnewswire.com/news-releases/coreldraw-2026-review-new-features-and-workflow-updates-for-designers-and-print-professionals-highlighted-by-expert-consumers-302857735.html",
-      "source": "PRNewswire",
-      "date": "2026-08-23",
-      "image": null,
-      "category": "geopolitics"
-    },
-    {
-      "title": "Zillow Warns Homebuyers It Now Takes Nearly 15 Years to Save for and Break Even on a Home",
-      "description": "Zillow's analysis shows U.S. homebuyers need nearly 15 years to save for a down payment and break even on homeownership, highlighting significant variations across different cities and housing markets.",
-      "url": "https://www.ibtimes.com.au/zillow-analysis-extended-timeline-homebuyers-1874416",
-      "source": "Ibtimes.com.au",
-      "date": "2026-08-23",
-      "image": "https://d.ibtimes.com.au/en/full/1863144/mortgage.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "The Ongoing Betrayal of Our Afghan Allies",
-      "description": "Five years ago this month, when the U.S. military withdrew from Afghanistan and Kabul fell to the Taliban, Sayed Sadat was out of the country earning his master\u2019s degree at a university in Germany. Having worked with the American government as a lawyer in Afg\u2026",
-      "url": "https://newrepublic.com/article/214558/five-years-withdrawal-afghans-struggle",
-      "source": "The New Republic",
-      "date": "2026-08-23",
-      "image": "https://images.newrepublic.com/d2535155dd0820c6b703a8191af39fbc85d45609.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "What is the 'political firewall' against Germany's far-right AfD?",
-      "description": "Germany's centrist parties reject any cooperation with the Alternative for Germany (AfD), parts of which are classified as right-wing extremist. However, this policy is coming under increasing pressure. A firewall is a wall designed to prevent a fire from spr\u2026",
-      "url": "https://www.dw.com/en/what-is-the-political-firewall-against-germanys-far-right-afd/a-78431554",
-      "source": "DW (English)",
-      "date": "2026-08-23",
-      "image": "https://static.dw.com/image/71487277_6.jpg",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-02/10/thumb/fitandfill/1200X628/1739170579-1245.jpg",
       "category": "market"
     },
     {
-      "title": "Experts raise alarm over Trump\u2019s public consultation on vaccines policy - The Guardian",
-      "description": "Experts raise alarm over Trump\u2019s public consultation on vaccines policyThe Guardian Opinion | Federal vaccine drama is causing great confusion. Your questions, answered.The Washington Post US health department seeks public feedback on vaccine guidelines after\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185111774",
+      "title": "About That Arc of the Moral Universe",
+      "description": "Over the last 12 years, I\u2019ve written about a wide variety of subjects for the publication TomDispatch. But looking back, a number of themes stand out to me for their recurrence: racial justice, war (and US military misadventures) and the insistence of women o\u2026",
+      "url": "https://www.fairobserver.com/politics/about-that-arc-of-the-moral-universe/",
+      "source": "Fair Observer",
+      "date": "2026-08-23",
+      "image": "https://www.fairobserver.com/wp-content/uploads/2026/08/protest-1.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "India\u2019s retail F&O losses mirror a global pattern",
+      "description": "SEBI\u2019s review finds widespread losses across derivatives markets, with frequent trading and experience offering no assurance of better outcomes",
+      "url": "https://www.thehindubusinessline.com/news/indias-retail-fampo-losses-mirror-a-global-pattern/article71380803.ece",
+      "source": "BusinessLine",
+      "date": "2026-08-23",
+      "image": "https://bl-i.thgim.com/public/incoming/ryslsx/article71381207.ece/alternates/LANDSCAPE_1200/Nifty-holds-groGLRFL3V7N.4.jpg.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Scott Bessent targets bond market reform after criticizing predecessor\u2019s approach",
+      "description": "Bessent's bond market reforms may temporarily ease yields, but without fiscal consolidation, underlying debt issues remain unresolved.\nThe post Scott Bessent targets bond market reform after criticizing predecessor\u2019s approach appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/bessent-treasury-bond-buyback-reform/",
+      "source": "Crypto Briefing",
+      "date": "2026-08-23",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/23091502/treasury-secretary-scott-bessent-testifying-3-800x420.jpeg",
+      "category": "market"
+    },
+    {
+      "title": "Abbott dismisses GOP worries, says Texas voters will be 'rushing to vote' for Paxton",
+      "description": "Abbott also spoke with ABC News\u2019 Jonathan Karl about Trump\u2019s job performance.",
+      "url": "https://abcnews.com/Politics/gov-abbott-dismisses-gop-worries-texas-voters-rushing/story?id=135872747",
+      "source": "Abcnews.com",
+      "date": "2026-08-23",
+      "image": "https://i.abcnewsfe.com/a/036bbb6b-3244-4e70-870a-9e9db8f179db/AP26135532807087_1787436080726_hpMain_16x9.jpg?w=1600",
+      "category": "market"
+    },
+    {
+      "title": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI - CNBC",
+      "description": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AICNBC United CEO eyes global scale to rival Asian, Gulf carriersinsideflyer.com United Airlines CEO says he intends to expand presence at JFKUA.NEWS United \u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185115614",
       "source": "Slashdot.org",
       "date": "2026-08-23",
       "image": null,
-      "category": "central_bank"
-    },
-    {
-      "title": "America is creating a new class of crypto banks \u2013 but they aren\u2019t really banks",
-      "description": "Circle now has a federal bank charter. However, the charter provides no ordinary checking accounts, FDIC-insured savings accounts, or mortgages. Circle National Trust is part of a new federal cohort built around custody, fiduciary administration, stablecoin r\u2026",
-      "url": "https://cryptoslate.com/america-is-creating-a-new-class-of-crypto-banks-but-they-arent-really-banks/",
-      "source": "CryptoSlate",
-      "date": "2026-08-23",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/08/floating-crypto-trust-bank.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "Pauline Hanson in damage control as One Nation MP goes rogue with migration plan responsible for the conservative party's popularity surge",
-      "description": "Pauline Hanson has been forced to clarify One Nation's migration figures - after an MP said the plan was similar to Labor's.",
-      "url": "https://www.dailymail.com/news/article-16073335/david-farley-pauline-hanson-migration-policy.html",
-      "source": "Dailymail.com",
-      "date": "2026-08-23",
-      "image": "https://i.dailymail.com/1s/2026/08/23/09/110799233-0-image-m-17_1787474841089.jpg",
       "category": "market"
     },
     {
-      "title": "Trump Brushes Off $40,000,000,000,000 Gov\u2019t Debt Crisis, Claims US Economy Can Grow Its Way Out Of Spiraling Spending Problem",
-      "description": "President Trump on Saturday brushed off concerns about the debt crisis plaguing the United States in favor of a Hail-Mary strategy of economic growth.",
-      "url": "https://dailycaller.com/2026/08/22/donald-trump-brushes-off-40-trillion-dollar-debt-crisis-claims-economic-growth",
-      "source": "The Daily Caller",
-      "date": "2026-08-22",
-      "image": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/08/GettyImages-2291479987.jpg",
+      "title": "2027: PDP\u2019s Oluyede urges Nigerians to make presidential poll about performance, continuity",
+      "description": "PDP\u2019s Wole Oluyede advocates for Nigerians to make the 2027 presidential election about President Tinubu\u2019s performance and continuity, not sentiment.\n\nRead More: https://punchng.com/2027-pdps-oluyede-urges-nigerians-to-make-presidential-poll-about-performance\u2026",
+      "url": "https://punchng.com/2027-pdps-oluyede-urges-nigerians-to-make-presidential-poll-about-performance-continuity/",
+      "source": "The Punch",
+      "date": "2026-08-23",
+      "image": "https://cdn.punchng.com/wp-content/uploads/2026/08/23140422/1000163882-5_1787490262.webp",
+      "category": "market"
+    },
+    {
+      "title": "What if the fascists win in Germany?",
+      "description": "Friedrich Merz's \"firewall\" hasn't stopped the rise of the ultra-MAGA AfD. It's time for a new strategy",
+      "url": "https://www.salon.com/2026/08/23/what-if-the-fascists-win-in-germany/",
+      "source": "Salon",
+      "date": "2026-08-23",
+      "image": "https://www.salon.com/app/uploads/2026/08/afd-candidate-2287727395.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Trump ordered to release billions in climate grants meant for Black communities",
+      "description": "From the water crisis in Jackson, Mississippi, to sewage problems in Alabama, stalled projects could get new life after federal court rulings.",
+      "url": "https://grist.org/energy/trump-ordered-to-release-billions-in-climate-grants-meant-for-black-communities/",
+      "source": "Grist",
+      "date": "2026-08-23",
+      "image": "https://grist.org/wp-content/uploads/2026/08/JacksonWater.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Trump made a multimillion-dollar bond bet \u2014 and Fed Chair Kevin Warsh could shape the outcome. What investors can learn",
+      "description": "Trump\u2019s purchases highlight why the direction of interest rates can make a major difference for bond investors.",
+      "url": "https://finance.yahoo.com/markets/options/articles/trump-made-multimillion-dollar-bond-130000920.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-08-23",
+      "image": "https://s.yimg.com/lo/mysterio/api/E03E616263CB50D5B06FE6695C959787515C4F105E8625709F6037BBB4E4BF80/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2F3a4ebe6e996eae0d53cf25fc0074086f.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Carry trades funded by the dollar hit longest winning streak since 2008",
+      "description": "Sustained dollar-funded carry trade success highlights emerging-market appeal but risks sudden reversals if volatility or Fed policy shifts.\nThe post Carry trades funded by the dollar hit longest winning streak since 2008 appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/dollar-carry-trades-longest-winning-streak/",
+      "source": "Crypto Briefing",
+      "date": "2026-08-23",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/23085929/usa-money-banknotes-currency-industrial-design-motion-dollar-7-800x420.jpeg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Becerra, running for governor of California, faces a health insurance problem",
+      "description": "The nation's uninsured rate hit a historical low when Xavier Becerra was health secretary. Now he wants to be California's next governor as Trump's actions have driven people off health insurance.",
+      "url": "https://www.npr.org/2026/08/23/nx-s1-5941143/california-governor-xavier-becerra-health-insurance",
+      "source": "NPR",
+      "date": "2026-08-23",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5935x3338+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4f%2F84%2F31385d4346b19c80d3d95f9ab088%2Fgettyimages-2291062674.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Buttigieg returns to South Carolina to court the Black voters who stalled his first White House run",
+      "description": "Pete Buttigieg was in South Carolina this weekend as he considers a second presidential campaign",
+      "url": "https://abcnews.com/Politics/wireStory/buttigieg-returns-south-carolina-court-black-voters-stalled-135879956",
+      "source": "Abcnews.com",
+      "date": "2026-08-23",
+      "image": "https://i.abcnewsfe.com/a/c920e496-0999-49e4-beea-cddb4ed5d09e/wirestory_53f9ff5a74cd5e1cdaa677fc95e58a39_16x9.jpg?w=1600",
       "category": "market"
     },
     {
@@ -393,15 +402,6 @@
       "date": "2026-08-22",
       "image": "https://bl-i.thgim.com/public/todays-paper/tp-news/i4ebz9/article71370947.ece/alternates/LANDSCAPE_1200/Gold-reclaims-mGSRGE1EGV.5.jpg.jpg",
       "category": "metals"
-    },
-    {
-      "title": "Why an announcement from the Treasury sparked a rally in gold and bitcoin this week",
-      "description": "Cryptocurrencies and precious metals shot higher, while the U.S. dollar weakened, after the Treasury Department said it planned to double its bond buybacks.",
-      "url": "https://www.marketwatch.com/story/why-an-announcement-from-the-treasury-sparked-a-rally-in-gold-and-bitcoin-this-week-d9d5972b",
-      "source": "MarketWatch",
-      "date": "2026-08-22",
-      "image": "https://s.yimg.com/lo/mysterio/api/9E7EC9DC1D888ED351DCD7372438D05935B1C0B858C42909E5EAEDA4B05ECCBC/subgraphmysterio/resizefill_w1200_h600;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmarketwatch_hosted_869%2F0b962b7b89de67afe7e50d4256ea3a7a.jpg",
-      "category": "currency"
     }
   ],
   "history": [
@@ -476,7 +476,7 @@
       "platinum_usd_oz": 1750.12
     }
   ],
-  "timestamp": "2026-08-24T15:39:49.640587+05:30",
+  "timestamp": "2026-08-24T19:01:53.772133+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
