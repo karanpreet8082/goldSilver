@@ -54,7 +54,7 @@
         "hold": 25
       },
       "summary": "Gold is showing positive signals. Strong daily gain of 2.4%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-28T20:58:01.913546",
+      "timestamp": "2026-08-28T22:33:15.989030",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 25
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 3.4%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-28T20:58:02.005628",
+      "timestamp": "2026-08-28T22:33:16.078149",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 25
       },
       "summary": "Platinum is showing positive signals. Strong daily gain of 1.4%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-28T20:58:02.098047",
+      "timestamp": "2026-08-28T22:33:16.157559",
       "source": "rule-based"
     }
   },
@@ -179,6 +179,15 @@
       "category": "supply_demand"
     },
     {
+      "title": "'Booming' gold mining, gas fracking key in plan to reverse NT's $11b debt",
+      "description": "Northern Territory Treasurer Bill Yan says the government is turning the tide on the Territory's $11 billion debt, supported by progress on major projects including Beetaloo Basin gas and a number of gold and lithium mines.",
+      "url": "https://www.abc.net.au/news/2026-08-28/nt-treasurer-bill-yan-says-mining-and-gas-improving-economy-debt/107084880",
+      "source": "ABC News (AU)",
+      "date": "2026-08-27",
+      "image": "https://live-production.wcms.abc-cdn.net.au/d04a396287bc07faf688c5cad555fffa?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
+      "category": "supply_demand"
+    },
+    {
       "title": "Alamos Gold Declares Quarterly Dividend",
       "description": "All amounts are in United States dollars, unless otherwise stated.\u00a0 TORONTO, Aug. 27, 2026 (GLOBE NEWSWIRE) \u2014 Alamos Gold Inc. (TSX:AGI; NYSE:AGI) (\u201cAlamos\u201d or the \u201cCompany\u201d) today announced that the Company\u2019s Board of Directors has declared a quarterly divid\u2026",
       "url": "https://financialpost.com/globe-newswire/alamos-gold-declares-quarterly-dividend-18",
@@ -242,15 +251,6 @@
       "category": "currency"
     },
     {
-      "title": "Bitcoin vs. Gold: Is the World Finally Ready to Replace Gold with BTC?",
-      "description": "Bitcoin and gold are both on the same macro story at the moment. Both attract investors looking to diversify their debt, inflation, currency, and geopolitical...\nThe post Bitcoin vs. Gold: Is the World Finally Ready to Replace Gold with BTC? appeared first on\u2026",
-      "url": "https://bitcoinfoundation.org/news/bitcoin/bitcoin-vs-gold-is-the-world-finally-ready-to-replace-gold-with-btc/",
-      "source": "Bitcoinfoundation.org",
-      "date": "2026-08-27",
-      "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/08/BTC1-1-1787655319.webp",
-      "category": "geopolitics"
-    },
-    {
       "title": "Gold tops US$4,600 as investors weigh Fed path before Jackson Hole",
       "description": "Investors will be seeking clues to the Fed\u2019s approach to inflation when Kevin Warsh makes his first major speech as chairman of the central bank",
       "url": "https://financialpost.com/news/economy/gold-tops-us4600-investors-weigh-fed-path",
@@ -276,6 +276,24 @@
       "date": "2026-08-27",
       "image": null,
       "category": "metals"
+    },
+    {
+      "title": "Dollar Little Changed as Stocks Rally",
+      "description": "The dollar index (DXY00 ) rose to a 1-week high today and is up +0.01%. The dollar found some support today after weekly US jobless claims unexpectedly decli...",
+      "url": "https://www.barchart.com/story/news/4216452/dollar-little-changed-as-stocks-rally",
+      "source": "Barchart.com",
+      "date": "2026-08-27",
+      "image": "https://s.yimg.com/lo/mysterio/api/b99851ee9e1c3a72d7d086209d9a417cc2696d7fac5a7b05c0a5ef7f126f8d5d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F9e2afe196d03d0bbcb07e335b49a5038.jpg",
+      "category": "currency"
+    },
+    {
+      "title": "Copper\u2019s record run is sending three clear messages about the state of financial markets today",
+      "description": "Copper just hit a fresh record, while one ETF tracking the metal is up nearly 20% in August and on pace for its best month on record.",
+      "url": "https://www.marketwatch.com/story/bond-jitters-ai-demand-and-tariff-threats-inside-the-new-darling-of-the-hard-asset-trade-copper-944fb585",
+      "source": "MarketWatch",
+      "date": "2026-08-27",
+      "image": "https://s.yimg.com/lo/mysterio/api/a76d7c6601609731d67741bf8361c980ab97826fbf7ebe92d8cf2f762a841ab3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmarketwatch_hosted_869%2Fde54255206b9100787d0ab216003a2b0.jpg",
+      "category": "market"
     },
     {
       "title": "Markets slips for second straight day; Jackson Hole, CAS takes centre stage",
@@ -305,103 +323,85 @@
       "category": "inflation"
     },
     {
-      "title": "Gold prices today, Thursday, August 27, 2026: Prices pull back after PCE report, ahead of Warsh speech",
-      "description": "Gold December futures opened at $4,650 per troy ounce on Thursday, August 27, 2026, down just 0.1% compared to Wednesday's closing price. The price of gold m...",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-august-27-2026-prices-pull-back-after-pce-report-ahead-of-warsh-speech-121341759.html",
-      "source": "Yahoo Entertainment",
+      "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Carrier Global Corporation - CARR",
+      "description": "NEW YORK, Aug. 27, 2026 /PRNewswire/ -- Pomerantz LLP is investigating claims on behalf of investors of Carrier Global Corporation (\"Carrier\" or the \"Company\") (NYSE: CARR). Such investors are advised to contact Danielle Peyton at newaction@pomlaw.com or 646-\u2026",
+      "url": "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-carrier-global-corporation---carr-302862339.html",
+      "source": "PRNewswire",
       "date": "2026-08-27",
-      "image": "https://s.yimg.com/lo/mysterio/api/4fd82b30434a934e3d85065632c2281f1ffbf45ecd077168c2e16927ab6e0557/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fthursday.png",
+      "image": "https://mmx.prnewswire.com/media/MS651528/Pomerantz-V3-Logo.jpg?id=OA2916987&p=facebook",
+      "category": "market"
+    },
+    {
+      "title": "Rubrik shares drop on raised outlook as SentinelOne slides on profit guide",
+      "description": "Shares in Rubrik Inc. and SentinelOne Inc. both fell in late trading today despite the two cybersecurity companies posting fiscal second-quarter beats on revenue and earnings. Rubrik dropped about 8%, a reaction that came even as the security and AI operation\u2026",
+      "url": "https://siliconangle.com/2026/08/27/rubrik-shares-drop-on-raised-outlook-as-sentinelone-slides-on-profit-guide/",
+      "source": "SiliconANGLE News",
+      "date": "2026-08-27",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/06/rubrik.png",
+      "category": "market"
+    },
+    {
+      "title": "At CERN\u2019s Large Hadron Collider, physicists examined a dataset representing roughly 650 billion B-meson decays and found that a transformation occurring only once in a million still behaves differently from Standard Model predictions\u2014one of the strongest surviving hints that another particle or force may be influencing matter from behind the scenes.",
+      "description": "LHCb's most comprehensive analysis of the rare B0 to K*0 muon-pair decay preserves a decade-old tension with the Standard Model, but difficult hadronic effects and the sub-five-sigma significance still rule out a discovery claim.\nThe post At CERN\u2019s Large Hadr\u2026",
+      "url": "https://spacedaily.com/t-cern-lhcb-650-billion-b-meson-decays-standard-model-anomaly/",
+      "source": "Space Daily",
+      "date": "2026-08-27",
+      "image": "https://spacedaily.com/wp-content/uploads/2026/08/lhcb-b0-kstar-mumu-angular-observables-2026-1024x576.png",
       "category": "geopolitics"
     },
     {
-      "title": "Astra Exploration Inc. Begins Trading on OTCQX Best Market",
-      "description": "NEW YORK, Aug. 27, 2026 (GLOBE NEWSWIRE) \u2014 OTC Markets Group Inc. (OTCQX: OTCM), operator of regulated markets for trading 12,000 U.S. and international securities, today announced Astra Exploration Inc. (TSX-V: ASTR; OTCQX: ATEPF), a precious metals explorat\u2026",
-      "url": "https://financialpost.com/globe-newswire/astra-exploration-inc-begins-trading-on-otcqx-best-market",
-      "source": "Financial Post",
+      "title": "The Grand Theft Auto 6 Gameplay Just Makes Me Want a PC Version Even More",
+      "description": "After watching the Grand Theft Auto 6 Extended Look on Netflix, I came away awed by how good it looks on the base consoles. But more than anything, it made me want to see it running on a high-end PC even more.",
+      "url": "https://www.ign.com/articles/the-grand-theft-auto-6-gameplay-just-makes-me-want-a-pc-version-even-more",
+      "source": "IGN",
       "date": "2026-08-27",
-      "image": null,
-      "category": "metals"
+      "image": "https://assets-prd.ignimgs.com/2026/08/27/gta-6-jason-police-1787861023226.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "category": "market"
     },
     {
-      "title": "Walmart inks Deal at New Miami-Dade Warehouse",
-      "description": "Walmart has signed an industrial lease in Miami-Dade County, likely spanning more than 130,000 square feet. The retail giant inked a deal at Seagis Property Group\u2019s newly completed warehouse at 10900 Northwest 138th Street in Medley, facing West Okeechobee Ro\u2026",
-      "url": "http://commercialobserver.com/2026/08/walmart-miami-dade-medley-seagis/",
-      "source": "Commercial Observer",
+      "title": "The three words that will decide whether robots can kill people in war",
+      "description": "Imagine this: Two countries are at war. Country X sends a drone into a major industrial city in Country Y, aiming to take out two propane tanks. A routine sequence. But this time, the drone never reaches its targets. Instead, Country X\u2019s drone accidentally st\u2026",
+      "url": "https://www.vox.com/future-perfect/500896/lethal-autonomous-weapons-ai-ukraine-appropriate-human-judgment",
+      "source": "Vox",
       "date": "2026-08-27",
-      "image": "https://commercialobserver.com/wp-content/uploads/sites/3/2026/04/John-Furner-Walmart-Florida-credit-Getty-Images.jpg?quality=80&crop=0px%2C47px%2C2000px%2C1051px&resize=1200%2C630&strip",
+      "image": "https://platform.vox.com/wp-content/uploads/sites/2/2026/08/gettyimages-2290590982.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "category": "geopolitics"
     },
     {
-      "title": "US military bought commercial satellite images of alleged narco airstrips, Chinese naval fleet",
-      "description": "The Space Force can improve how it embraces commercial intel, a new GAO report says.",
-      "url": "https://www.defenseone.com/technology/2026/08/us-military-bought-commercial-satellite-images-alleged-narco-airstrips-chinese-naval-fleet/415684/",
-      "source": "Defense One",
-      "date": "2026-08-27",
-      "image": "https://cdn.defenseone.com/media/img/cd/2026/08/27/3197759/open-graph.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Casio expands its new G-Shock Master of G watches to more markets",
-      "description": "Casio has launched its latest Master of G collection in Europe, featuring the rugged Mudmaster GG-B100XMH-5A, solar-powered Mudman GW-9500MH-5, and aviation-inspired Gravitymaster GR-B300H-5A. Prices range from \u20ac299 to \u20ac419, while UK availability is currently\u2026",
-      "url": "https://www.notebookcheck.net/Casio-expands-its-new-G-Shock-Master-of-G-watches-to-more-markets.1380344.0.html",
-      "source": "Notebookcheck.net",
-      "date": "2026-08-27",
-      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Casio-new-Master-of-land.png",
-      "category": "currency"
-    },
-    {
-      "title": "Trump Close To 'Massive' Deal For Seizing Stake In Venezuela's Vast Oil Fields",
-      "description": "Trump Close To 'Massive' Deal For Seizing Stake In Venezuela's Vast Oil Fields\n \nAmid ongoing global oil supply disruptions due to the Iran war and Hormuz Strait crisis, and also as Ukraine's war on Russian oil refineries and export terminals heats up, the Tr\u2026",
-      "url": "https://biztoc.com/x/87df083fc9175394",
-      "source": "Biztoc.com",
-      "date": "2026-08-27",
-      "image": "https://biztoc.com/cdn/87df083fc9175394_s.webp",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Sam Altman expects AGI system by end of 2026, prediction markets remain deeply skeptical",
-      "description": "The skepticism of prediction markets highlights potential delays and definitional challenges, impacting investment strategies and economic forecasts.\nThe post Sam Altman expects AGI system by end of 2026, prediction markets remain deeply skeptical appeared fi\u2026",
-      "url": "https://cryptobriefing.com/altman-agi-2026-prediction-markets-skeptical/",
+      "title": "Venezuela considers leaving OPEC amid US talks over oil field access",
+      "description": "Venezuela's potential OPEC exit could reshape global oil dynamics, impacting production strategies and geopolitical alliances significantly.\nThe post Venezuela considers leaving OPEC amid US talks over oil field access appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/venezuela-opec-exit-us-oil-talks/",
       "source": "Crypto Briefing",
       "date": "2026-08-27",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/27165213/library-sam-altman-expects-agi-system-by-end-of-2026-prediction--800x450.png",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/27182619/library-venezuela-considers-leaving-opec-amid-us-talks-over-oil--800x450.png",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Want Your Espoused Values to Matter? It\u2019s Time to CARE",
+      "description": "Most organizations have core values, but few bring them to life. Here\u2019s how leaders can turn values from words on a page into habits that guide how people work.",
+      "url": "https://www.psychologytoday.com/us/blog/leadership-and-workplace-relationships-matter/202608/want-your-espoused-values-to-matter-its",
+      "source": "Psychology Today",
+      "date": "2026-08-27",
+      "image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-08/shutterstock_2679425225.jpg?itok=ALuWyUQV",
       "category": "market"
     },
     {
-      "title": "46 Years Later, Stephen King\u2019s Lovecraft-Inspired Horror Story Officially Headed to Television",
-      "description": "Stephen King graduated from horror author to multimedia brand ambassador decades ago, but few could have expected the sort of resurgence we\u2019re seeing today. Stephen King\u2019s books and novellas have been mined to create several high-profile TV shows and movies i\u2026",
-      "url": "http://comicbook.com/tv-shows/news/46-years-later-stephen-kings-lovecraft-inspired-horror-story-officially-headed-to-television/",
-      "source": "ComicBook.com",
+      "title": "Inspiring story on mental health: \"It is okay to feel uncomfortable. That\u2019s how we grow. Unless we stress our minds\" \u2014 How Tom Brady\u2019s approach to pressure shaped his legendary career",
+      "description": "Tom Brady\u2019s approach to pressure helped define his legendary NFL career. Speaking at Fortune\u2019s Global Forum in New York on November 12, 2024, Brady explained that discomfort can drive mental growth and improvement. His philosophy centered on challenging yours\u2026",
+      "url": "https://timesofindia.indiatimes.com/sports/nfl/news/inspiring-story-on-mental-health-it-is-okay-to-feel-uncomfortable-thats-how-we-grow-unless-we-stress-our-minds-how-tom-bradys-approach-to-pressure-shaped-his-legendary-career/articleshow/133567548.cms",
+      "source": "The Times of India",
       "date": "2026-08-27",
-      "image": "https://comicbook.com/wp-content/uploads/sites/4/2025/04/stephen-king-lawnmower-man-lawsuit.jpg?resize=2000,1125",
+      "image": "https://static.toiimg.com/thumb/msid-133567573,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "category": "market"
     },
     {
-      "title": "Stagwell Expands Strategic Partnership with Adobe to Build the Future of Enterprise Marketing Together",
-      "description": "The multi-year collaboration embeds Stagwell's data intelligence, creative transformation and AI capabilities directly into Adobe's enterprise growth engine",
-      "url": "https://apnews.com/press-release/access-newswire/press-release-7fc55752ab51493bc7ef00dfbd8ad30b",
-      "source": "Associated Press",
+      "title": "Pentagon Slapped With Lawsuit Over Military Journalist Firings",
+      "description": "Under Pete Hegseth, the Pentagon has become no friend to the First Amendment.",
+      "url": "https://www.huffpost.com/entry/pentagon-military-journalist-firings-lawsuit_n_6a90af94e4b0fc8477ab09c0",
+      "source": "HuffPost",
       "date": "2026-08-27",
-      "image": "https://dims.apnews.com/dims4/default/9802f25/2147483647/strip/true/crop/1664x1109+2143+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9d%2Fb0%2Fc128decf19377d9d940bb23cc1a3%2Fe27df31b4b1156dbefabe3ea153ef85c",
-      "category": "market"
-    },
-    {
-      "title": "NUPRC seeks completion of headquarters to boost Nigeria\u2019s investment appeal",
-      "description": "The NUPRC seeks speedy completion of its headquarters, \u201cThe Barrel,\u201d to enhance efficiency and strengthen Nigeria\u2019s appeal to oil and gas investors. Learn\n\nRead More: https://punchng.com/nuprc-seeks-completion-of-headquarters-to-boost-nigerias-investment-appe\u2026",
-      "url": "https://punchng.com/nuprc-seeks-completion-of-headquarters-to-boost-nigerias-investment-appeal/",
-      "source": "The Punch",
-      "date": "2026-08-27",
-      "image": "https://cdn.punchng.com/wp-content/uploads/2026/08/27213046/The-Chairman-NUPRC-Board-Senator-Magnus-Abe-speaking-during-the-inspection-of-the-proposed-head-office._1787862646-1200x630.webp",
-      "category": "market"
-    },
-    {
-      "title": "Local Hero Barry The Beekeeper Electrifies The Room With Anti-Flock Speech At Council Meeting",
-      "description": "A local beekeeper electrified a North Carolina county commissioners\u2019 meeting with an anti-Flock surveillance speech.",
-      "url": "https://dailycaller.com/2026/08/27/barry-harris-new-hanover-county-meeting-anti-flock-protest-surveillance-wilmington-north-carolina",
-      "source": "The Daily Caller",
-      "date": "2026-08-27",
-      "image": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/08/Screenshot%202026-08-27%20at%202.45.46%E2%80%AFPM.jpg",
-      "category": "market"
+      "image": "https://img.huffingtonpost.com/asset/6a90b011190000dbb56bb7f6.jpeg?cache=HaYEC5KjnD&ops=1200_630",
+      "category": "geopolitics"
     }
   ],
   "history": [
@@ -476,7 +476,7 @@
       "platinum_usd_oz": 1750.12
     }
   ],
-  "timestamp": "2026-08-29T02:28:02.111326+05:30",
+  "timestamp": "2026-08-29T04:03:16.164982+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
