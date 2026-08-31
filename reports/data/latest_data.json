@@ -54,7 +54,7 @@
         "hold": 25
       },
       "summary": "Gold is showing positive signals. Strong daily gain of 2.4%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-31T09:57:14.680994",
+      "timestamp": "2026-08-31T14:14:15.296527",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 25
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 3.4%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-31T09:57:14.772374",
+      "timestamp": "2026-08-31T14:14:15.405089",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 25
       },
       "summary": "Platinum is showing positive signals. Strong daily gain of 1.4%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-31T09:57:14.864451",
+      "timestamp": "2026-08-31T14:14:15.496307",
       "source": "rule-based"
     }
   },
@@ -134,39 +134,93 @@
   },
   "news": [
     {
-      "title": "Global Market: China, Hong Kong stocks slip as weak economic data and property overhaul weigh",
-      "description": "Chinese and Hong Kong stocks declined as weak economic data highlighted a fragile recovery, while new measures to reform China\u2019s housing presale system triggered a sharp selloff in property shares. Gold stocks also weakened after hawkish Fed signals, while strong first-half earnings from major banks",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-hong-kong-stocks-slip-as-weak-economic-data-and-property-overhaul-weigh/articleshow/133648638.cms",
+      "title": "US Stocks Today: US stocks fall at open as Iran war escalation sends oil prices up",
+      "description": "Wall \u200bStreet's main \u200bindexes opened lower \u200bon Monday after military strikes between the \u200cU.S. \u2060and \u2060Iran drove up \u200boil prices, fanning inflation worries \u200bas the interest-rate outlook turns more \u200bhawkish.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-fall-at-open-as-iran-war-escalation-sends-oil-prices-up/articleshow/133654622.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-08-31",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Chinese AI chipmaker Enflame aims to raise $908 million after setting Shanghai IPO price",
+      "description": "Enflame Technology, a prominent Chinese AI chip manufacturer, is set to raise over $900 million through its IPO in Shanghai. This initiative aligns with China's ambition for technological independence following US export restrictions on chips. The firm intends to confront Nvidia's stronghold in the ",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/chinese-ai-chipmaker-enflame-aims-to-raise-908-million-after-setting-shanghai-ipo-price/articleshow/133654385.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-08-31",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "India 10-year bond yield sees biggest monthly rise in FY27 on rising rate hike bets",
+      "description": "On Monday, Indian government bonds faced a notable drop, reflecting market unease. The benchmark 10-year yield marked its sharpest monthly increase of the fiscal year, fueled by rising oil prices and the Reserve Bank of India's aggressive monetary policy. Additionally, the Federal Reserve's recent i",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-10-year-bond-yield-sees-biggest-monthly-rise-in-fy27-on-rising-rate-hike-bets/articleshow/133653440.cms",
       "source": "Economic Times Markets",
       "date": "2026-08-31",
       "image": "",
       "category": "central_bank"
     },
     {
-      "title": "Global Market: European central bankers leave Jackson Hole uneasy over US policy shifts",
-      "description": "European central bankers left the Jackson Hole symposium concerned that recent US Treasury interventions could strain long-standing norms of global financial cooperation. Unannounced yen intervention, Treasury bond buybacks and uncertainty over Fed dollar swap lines have raised concerns about Washin",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-european-central-bankers-leave-jackson-hole-uneasy-over-us-policy-shifts/articleshow/133648588.cms",
+      "title": "Fly-Hi Maritime Travels to hit IPO waters with Rs 52.6 crore BSE SME issue on Tuesday",
+      "description": "Fly-Hi Maritime Travels is preparing to debut its much-anticipated Rs 52.6-crore SME IPO on September 1. With shares priced at Rs 102 each, the funds raised will be directed towards enhancing operational capabilities, repaying debts, and bolstering marketing efforts. The initiative aims to reinforce",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/fly-hi-maritime-travels-to-hit-ipo-waters-with-rs-52-6-crore-bse-sme-issue-on-tuesday/articleshow/133653396.cms",
       "source": "Economic Times Markets",
       "date": "2026-08-31",
       "image": "",
-      "category": "central_bank"
+      "category": "geopolitics"
     },
     {
-      "title": "Kaynes Tech, Wockhardt, Persistent Systems shares fall up to 5% as broader markets tumble. What lies ahead?",
-      "description": "The stock market saw marked declines on Monday, particularly among smallcap and midcap shares. Persistent Systems and National Aluminium Company experienced prominent losses, contributing to the negative performance of the Nifty Midcap 100 and Smallcap 100 indices. Influenced by the Federal Reserve'",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/kaynes-tech-wockhardt-persistent-systems-shares-fall-up-to-5-as-broader-markets-tumble-what-lies-ahead/articleshow/133648026.cms",
+      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US stocks fall at open as Iran war escalation sends oil prices up",
+      "description": "",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-israel-war-attack-hormuz-deal-brent-crude-oil-fed-warsh-rate-hike-inflation-earnings-forecast-gamestop-energy-crypto-chip-stock-price-news-31-august-2026/liveblog/133652665.cms",
       "source": "Economic Times Markets",
       "date": "2026-08-31",
       "image": "",
-      "category": "central_bank"
+      "category": "geopolitics"
     },
     {
-      "title": "US Stock Market: Barclays turns hawkish on Fed, sees two rate hikes in 2026",
-      "description": "Barclays has turned more hawkish on the US Federal Reserve, now expecting two 25-basis-point rate hikes in 2026. The brokerage sees increases in September and December, reversing its earlier call for unchanged rates. The shift follows hawkish remarks from Fed Chair Kevin Warsh and renewed concerns o",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-barclays-turns-hawkish-on-fed-sees-two-rate-hikes-in-2026/articleshow/133647487.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-08-31",
-      "image": "",
+      "title": "The Problem Isn\u2019t Warsh Vs Bessent, It\u2019s PhD Confusion About Inflation",
+      "description": "Kevin Warsh can hardly complain about what Scott Bessent is doing, other than if he rightly disdains the weak, inflationary dollar that Bessent is pursuing.",
+      "url": "https://www.forbes.com/sites/johntamny/2026/08/30/the-problem-isnt-warsh-vs-bessent-its-phd-confusion-about-inflation/",
+      "source": "Forbes",
+      "date": "2026-08-30",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a9233cd664d640edfe776ea/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Indian equities, debt, gold and US stocks: How should investors allocate money across these asset classes?",
+      "description": "A diversified portfolio can perform very differently depending on how you split your money across Indian equities, debt, gold and US equities. Here\u2019s what 16 financial years of data, from FY2011 to FY2027 year-to-date, reveal about the returns across these as\u2026",
+      "url": "https://www.livemint.com/money/personal-finance/indian-equities-debt-gold-and-us-stocks-how-should-investors-allocate-money-across-these-asset-classes-11787501119537.html",
+      "source": "Livemint",
+      "date": "2026-08-30",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/23/1600x900/logo/debt_equ_1787504714756_1787504724370_3296767a-0925-47aa-b2f6-8fdb438aea39.png",
+      "category": "metals"
+    },
+    {
+      "title": "Out There: A Postmortem",
+      "description": "Replete with moments of joy and disappointment, FibreTigre tells the creation of the science fiction video game Out There.",
+      "url": "https://www.gamedeveloper.com/business/out-there-a-postmortem",
+      "source": "Gamedeveloper.com",
+      "date": "2026-08-30",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt4028d627b750a9ca/650e85816d9ea9d9f9aa117c/out-there-ulyces-30_jpg-700x436.jpg\\?disable=upscale&width=1200&height=630&fit=crop",
+      "category": "market"
+    },
+    {
+      "title": "Why gold should form 10% of investment portfolio",
+      "description": "Most investors think of portfolio in terms of equity and fixed income but buying gold is not a speculative add-on, it is a structural building block of a well-constructed portfolio",
+      "url": "https://www.thehindubusinessline.com/portfolio/personal-finance/why-gold-should-form-10-of-investment-portfolio/article71407515.ece",
+      "source": "BusinessLine",
+      "date": "2026-08-30",
+      "image": "https://bl-i.thgim.com/public/incoming/6z30i5/article71407509.ece/alternates/LANDSCAPE_1200/iStock-1472696526.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "Bullion braces for fresh swings as US jobs data, Iran tensions take centre stage: Analysts",
+      "description": "September promises volatility in the commodity markets, especially after the notable decline in gold prices. Traders are set to keep a close eye on US job reports and emerging geopolitical events as they navigate market direction. Key inflation metrics and US\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/bullion-braces-for-fresh-swings-as-us-jobs-data-iran-tensions-take-centre-stage-analysts/articleshow/133627464.cms",
+      "source": "The Times of India",
+      "date": "2026-08-30",
+      "image": "https://img.etimg.com/thumb/msid-133627482,width-1200,height-630,imgsize-92056,overlay-etmarkets/articleshow.jpg",
       "category": "geopolitics"
     },
     {
@@ -197,49 +251,13 @@
       "category": "currency"
     },
     {
-      "title": "Barefoot Investor warns Australians are losing money on their super",
-      "description": "The Barefoot Investor has revealed what Aussies should look out for to make sure they're getting the most from their super.",
-      "url": "https://www.dailymail.com/news/article-16090549/barefoot-investor-superannuation-fees.html",
-      "source": "Dailymail.com",
-      "date": "2026-08-30",
-      "image": "https://i.dailymail.com/1s/2026/08/30/05/110935173-0-image-m-19_1788062936057.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Top 10 investment alternatives that outperformed crypto since 2020. Check list",
-      "description": "As crypto markets face heightened volatility, with Bitcoin down 30%, traditional assets have delivered strong gains over the past six years. A Taurex study comparing major US and UK stocks, gold and Dubai real estate found Google, BAE Systems and gold among t\u2026",
-      "url": "https://m.economictimes.com/markets/cryptocurrency/crypto-news/top-10-investment-alternatives-that-outperformed-crypto-since-2020-check-list/looking-beyond-crypto/slideshow/133622955.cms",
-      "source": "Economictimes.com",
-      "date": "2026-08-30",
-      "image": "https://img.etimg.com/thumb/msid-133622955,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "Should young investors avoid debt mutual funds? Experts explain why debt can still matter in your 20s and 30s",
-      "description": "Young investors do not necessarily need to avoid debt mutual funds, even if they can take higher equity risk. Experts explain how debt can provide stability, liquidity and diversification based on financial goals and investment horizons.",
-      "url": "https://www.livemint.com/money/personal-finance/should-young-investors-avoid-debt-mutual-funds-experts-explain-why-debt-can-still-matter-in-your-20s-and-30s-11787919498899.html",
-      "source": "Livemint",
-      "date": "2026-08-30",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/28/1600x900/logo/Gemini_Generated_Image_grl9tfgrl9tfgrl9_1787920292872_1787920299731_d0b41ef7-3676-4561-807e-18bf7938a70f.png",
-      "category": "market"
-    },
-    {
-      "title": "From crypto bets to SIPs, young India finds its money habit",
-      "description": "Young investors are embracing Systematic Investment Plans for disciplined wealth creation.  Data shows a significant rise in SIPs among those under thirty years old.  Fintech platforms are observing increased SIP adoption across various asset classes.  Parent\u2026",
-      "url": "https://economictimes.indiatimes.com/industry/banking/finance/from-crypto-bets-to-sips-young-india-finds-its-money-habit/articleshow/133622295.cms",
+      "title": "Not just for chutneys, tamarind is great for keeping your kitchen clean too. 6 ways to get rid of rust and stains using imli",
+      "description": "Tamarind is not just good to eat; it can also help you clean your utensils, basins, and taps \u2013 and various other objects made from metals such as copper, brass, steel, and even silver! A simple yet effective tamarind and salt can keep various objects in your \u2026",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/not-just-for-chutneys-tamarind-is-great-for-keeping-your-kitchen-clean-too-6-ways-to-get-rid-of-rust-and-stains-using-imli/articleshow/133629788.cms",
       "source": "The Times of India",
       "date": "2026-08-30",
-      "image": "https://img.etimg.com/thumb/msid-133622331,width-1200,height-630,imgsize-217068,overlay-economictimes/articleshow.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Bayern Munich lose Grasshopper Z\u00fcrich as partner club",
-      "description": "Unfortunately, things are not getting any better for the Swiss club.",
-      "url": "https://www.bavarianfootballworks.com/bayern-munich-transfer-rumors-news/246224/bayern-munich-lose-grasshopper-zurich-as-partner-club",
-      "source": "Bavarian Football Works",
-      "date": "2026-08-30",
-      "image": "https://s.yimg.com/lo/mysterio/api/792cb31a7855469a3fca4575bdb5b9d9885709080aca6a334242c5cdba8483fa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fe72637f873c7dbd726b6900aac80a5a6.jpg",
-      "category": "market"
+      "image": "https://img.etimg.com/thumb/msid-133629859,width-1200,height-630,imgsize-160603,overlay-etpanache/articleshow.jpg",
+      "category": "metals"
     },
     {
       "title": "Zinc Hits Four-Year High as Physical Supply Tightens",
@@ -251,157 +269,139 @@
       "category": "supply_demand"
     },
     {
-      "title": "Show HN: Bolnee-Chat \u2013 Self Hosted Chatbot Integration in Your Business Website",
-      "description": "Article URL: https://github.com/AniketWathore/bolnee-chat\nComments URL: https://news.ycombinator.com/item?id=49497227\nPoints: 1\n# Comments: 0",
-      "url": "https://github.com/AniketWathore/bolnee-chat",
-      "source": "Github.com",
-      "date": "2026-08-30",
-      "image": "https://opengraph.githubassets.com/7791cdd0b28880499439fa02563ae85538d25f51762cf5f309abe6634aa9665c/AniketWathore/bolnee-chat",
-      "category": "geopolitics"
-    },
-    {
-      "title": "GTRI calls for review of quality control orders to ease trade barriers",
-      "description": "Economic think tank GTRI on Sunday called for review of quality control orders (QCOs) to ensure that these norms protect consumers without becoming import restrictions or licensing barriers.\nMandatory quality certification under these orders raises costs, hur\u2026",
-      "url": "https://www.business-standard.com/industry/news/gtri-calls-for-review-of-quality-control-orders-to-ease-trade-barriers-126083000306_1.html",
-      "source": "Business Standard",
-      "date": "2026-08-30",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-03/03/thumb/fitandfill/1200X628/1741020489-4556.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "India hasn't been able to shield itself fully from 'ravages' of Trump's policies: Ex-envoy Dogra",
-      "description": "India faces challenges from Donald Trump's policies despite its autonomy.  The nation is not reliant on the US for financial or strategic support.  Global powers like Europe are also facing their own internal struggles.  Russia and China are strengthening the\u2026",
-      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-hasnt-been-able-to-shield-itself-fully-from-ravages-of-trumps-policies-ex-envoy-dogra/articleshow/133627039.cms",
+      "title": "From crypto bets to SIPs, young India finds its money habit",
+      "description": "Young investors are embracing Systematic Investment Plans for disciplined wealth creation.  Data shows a significant rise in SIPs among those under thirty years old.  Fintech platforms are observing increased SIP adoption across various asset classes.  Parent\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/from-crypto-bets-to-sips-young-india-finds-its-money-habit/articleshow/133622295.cms",
       "source": "The Times of India",
       "date": "2026-08-30",
-      "image": "https://img.etimg.com/thumb/msid-133627087,width-1200,height-630,imgsize-84948,overlay-economictimes/articleshow.jpg",
-      "category": "currency"
+      "image": "https://img.etimg.com/thumb/msid-133622331,width-1200,height-630,imgsize-217068,overlay-economictimes/articleshow.jpg",
+      "category": "market"
     },
     {
-      "title": "Everyone Should Build Their Own Network Stack",
-      "description": ".admonition {   margin: .75em 0;   padding: .6rem;   overflow: hidden;   font-size: 12px;   page-break-inside: avoid;   border-left: .3rem solid #42b983;   border-radius: .3rem;   box-shadow: 0 0.1re",
-      "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet/",
-      "source": "Lyc8503.net",
+      "title": "Global Times: How Chinese NEVs gain ground in global markets, providing greener, smarter mobility",
+      "description": "BEIJING, Aug. 30, 2026 /PRNewswire/ -- This year, the 47th Bangkok International Motor Show was held at the IMPACT Arena, Exhibition and Convention Center. BYD's booth was packed, with crowds lining up to check out the vehicles on display. Increasingly, Chine\u2026",
+      "url": "https://www.prnewswire.com/news-releases/global-times-how-chinese-nevs-gain-ground-in-global-markets-providing-greener-smarter-mobility-302864402.html",
+      "source": "PRNewswire",
       "date": "2026-08-30",
       "image": null,
       "category": "market"
     },
     {
-      "title": "Uniqlo\u2019s India play: Value over discounts, authentic voices over marketplaces",
-      "description": "The Japanese retailer has localised its marketing through Indian celebrities and influencers, while avoiding third-party marketplaces to control customer experience",
-      "url": "https://www.livemint.com/companies/uniqlo-india-growth-revenue-stores-strategy-11788066250783.html",
-      "source": "Livemint",
+      "title": "Show HN: Open SAR-COP \u2013 AI-generated common operating picture for disasters",
+      "description": "Article URL: https://open-sar-cop.github.io\nComments URL: https://news.ycombinator.com/item?id=49498819\nPoints: 1\n# Comments: 0",
+      "url": "https://open-sar-cop.github.io",
+      "source": "Github.io",
       "date": "2026-08-30",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/30/1600x900/logo/Uniqlo_1788083041594_1788083051368_ccf37009-6115-4a0b-9700-ba9c28d3f199.jpeg",
-      "category": "market"
-    },
-    {
-      "title": "Asus releases 14-inch laptop with Ryzen AI 9 H 465, up to 32GB RAM and 27-hour battery",
-      "description": "Asus has released a new configuration of its Vivobook Pro 14 series in China. The laptop features AMD's Ryzen AI 9 H 465 processor, up to 32GB of RAM, 1TB of storage and a 14-inch 2.8K 120Hz OLED display.",
-      "url": "https://www.notebookcheck.net/Asus-releases-14-inch-laptop-with-Ryzen-AI-9-H-465-up-to-32GB-RAM-and-27-hour-battery.1382954.0.html",
-      "source": "Notebookcheck.net",
-      "date": "2026-08-30",
-      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/asus-vivobook-pro-14.png",
-      "category": "market"
-    },
-    {
-      "title": "frp v0.71.0",
-      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
-      "url": "https://kitploit.com/en/posts/github-fatedier-frp-v0710",
-      "source": "Kitploit.com",
-      "date": "2026-08-30",
-      "image": "https://assets.kitploit.com/production/public/tools/3770/0f836cc321c1fd65416940b5e12ca576cccc68f12d61ff045a09582ccfff74c1.png",
-      "category": "market"
-    },
-    {
-      "title": "Top Business & Market Headlines Today \u2014 BL Morning Report, August 31, 2026",
-      "description": "BL Morning Report August 31, 2026: Get today\u2019s top business news, market headlines about the Stock Market, Sensex & Nifty trends, key market insights, economic highlights, and the latest updates from India and global markets.",
-      "url": "https://www.thehindubusinessline.com/multimedia/audio/bl-morning-report-august-31-2026/article71407299.ece",
-      "source": "BusinessLine",
-      "date": "2026-08-30",
-      "image": "https://bl-i.thgim.com/public/incoming/70doar/article71161292.ece/alternates/LANDSCAPE_1200/Shakthi%201.png",
-      "category": "market"
-    },
-    {
-      "title": "Making the Fed more accountable could fend off Trump\u2019s threats. Here\u2019s how",
-      "description": "The Federal Reserve\u2014one of the world\u2019s most powerful institutions\u2014affects the U.S. economy in a way that no other part of government can.\nInterest rates, inflation, and bank regulation are all shaped by Fed policy and impact the everyday financial life of Ame\u2026",
-      "url": "https://biztoc.com/x/007114e244ce10a6",
-      "source": "Biztoc.com",
-      "date": "2026-08-30",
-      "image": "https://biztoc.com/cdn/007114e244ce10a6_s.webp",
-      "category": "central_bank"
-    },
-    {
-      "title": "Trump Loses His War to Make ZIRP Great Again",
-      "description": "Trump's new Fed Chair signaled to markets that he will do the opposite of what Trump has long wanted and raise interest rates.",
-      "url": "https://www.jezebel.com/trump-loses-his-war-to-make-zirp-great-again",
-      "source": "Jezebel",
-      "date": "2026-08-30",
-      "image": "https://img.pastemagazine.com/wp-content/juploads/2026/08/main-Swearing-in_ceremony_for_Federal_Reserve_Chair_Kevin_Warsh_at_the_White_House_Friday_May_22_2026_-_8.jpg",
+      "image": null,
       "category": "geopolitics"
     },
     {
-      "title": "Medicare's pilot GLP-1 discount program has a catch. Some sick patients don't qualify",
-      "description": "Medicare launched a pilot program that could streamline the process to get GLP-1s, with some seniors paying just $50 a month. But many people with the most serious illnesses won't get that discount.",
-      "url": "https://www.npr.org/2026/08/30/nx-s1-5931392/medicare-glp-1-discount-program-has-catch-some-sick-patients-dont-qualify",
-      "source": "NPR",
+      "title": "GOP in trouble as 'grocery price shock' set to surge already-inflated food costs: report",
+      "description": "Republicans face an uphill battle heading into the midterms as a major \u201cgrocery price shock\u201d appears poised to surge already-inflated food costs, Axios reported\r\n Sunday.\u201cThe next grocery price shock could hit much harder \u2014 and wider. And midterms are 65 days\u2026",
+      "url": "https://www.rawstory.com/grocery-prices-2677795789/",
+      "source": "Raw Story",
       "date": "2026-08-30",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5760x3240+0+300/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F67%2Fbb%2F3d032069404cbbcad71c9a6270d6%2Fglp-1-la-marca-02.jpg",
+      "image": "https://www.rawstory.com/media-library/image.jpg?id=67699424&width=1200&height=600&coordinates=0%2C418%2C0%2C418",
       "category": "market"
     },
     {
-      "title": "The next shadow-banking problem comes from insurance companies, where nobody was looking for a bank run",
-      "description": "Delaware Life Insurance Company's 2025 balance sheet took on a startling new shape when the insurer corrected its annual filing: roughly $17 billion of investments were classified as related-party holdings, about 39% of invested assets, versus roughly $1.4 bi\u2026",
-      "url": "https://cryptoslate.com/the-next-shadow-banking-problem-may-come-from-insurance-companies-where-nobody-was-looking-for-a-bank-run/",
-      "source": "CryptoSlate",
+      "title": "In 2026, scientists recreated 15,000 years of solar wind exposure on Moon soil in 4 hours; the experiment could help with future lunar resource mining",
+      "description": "Interlune has recreated the effects of around 15,000 years of solar-wind exposure on lunar soil in just four hours, using accelerated helium ions inside a vacuum chamber. The experiment created a gas-bearing lunar soil simulant that could help companies test \u2026",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/in-2026-scientists-recreated-15000-years-of-solar-wind-exposure-on-moon-soil-in-4-hours-the-experiment-could-help-with-future-lunar-resource-mining/articleshow/133630308.cms",
+      "source": "The Times of India",
       "date": "2026-08-30",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/08/insurance-shadow-bank.jpg",
-      "category": "geopolitics"
+      "image": "https://img.etimg.com/thumb/msid-133631154,width-1200,height-630,imgsize-160558,overlay-etpanache/articleshow.jpg",
+      "category": "supply_demand"
     },
     {
-      "title": "GDP data, crude oil prices key factors to drive markets this week: Analysts",
-      "description": "Analysts said that macroeconomic data, auto sales, and foreign investor trading activity will influence future market movement",
-      "url": "https://www.thehindubusinessline.com/markets/gdp-data-crude-oil-prices-key-factors-to-drive-markets-this-week-analysts/article71407162.ece",
-      "source": "BusinessLine",
-      "date": "2026-08-30",
-      "image": "https://bl-i.thgim.com/public/incoming/z7ampt/article71407168.ece/alternates/LANDSCAPE_1200/iStock-909822252.jpg",
-      "category": "market"
-    },
-    {
-      "title": "GDP data, crude oil prices likely to drive stock markets in week ahead",
-      "description": "Trading sentiment in the stock market this week will be largely guided by the domestic GDP data announcement, crude oil prices, and the US non-farm payrolls report, analysts said.\nBesides, macroeconomic data announcements, auto sales numbers and trading activ\u2026",
-      "url": "https://www.business-standard.com/markets/news/gdp-data-crude-oil-prices-likely-to-drive-stock-markets-in-week-ahead-126083000182_1.html",
-      "source": "Business Standard",
-      "date": "2026-08-30",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/28/thumb/fitandfill/1200X628/1787894930-8896.jpg",
-      "category": "market"
-    },
-    {
-      "title": "FPIs turn buyers for second month, invest \u20b930,919 cr in August",
-      "description": "FPIs invested \u20b930,919 crore in Indian equities in August, marking their second consecutive month of buying amid improving economic conditions.",
-      "url": "https://www.thehindubusinessline.com/markets/fpis-turn-buyers-for-second-month-invest-30919-cr-in-august/article71407091.ece",
-      "source": "BusinessLine",
-      "date": "2026-08-30",
-      "image": "https://bl-i.thgim.com/public/incoming/lud4dw/article71407131.ece/alternates/LANDSCAPE_1200/FPIs-are-back_-GFGGEEU3J.4.jpg.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Bullion Cues: Upturn projected\u00a0in gold and silver futures",
-      "description": "Bullion prices declined, but traders can capitalize on potential rebounds; buy gold at \u20b91,55,000 and silver at \u20b92,40,000.",
-      "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/bullion-cues-upturn-projected/article71404009.ece",
-      "source": "BusinessLine",
-      "date": "2026-08-29",
-      "image": "https://bl-i.thgim.com/public/incoming/k8ll4q/article71404166.ece/alternates/LANDSCAPE_1200/PO30_Gold_candlechart.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "Robert Kiyosaki says he\u2019s $1.2B in debt \u2014 and isn\u2019t worried. He uses debt to buy this 1 asset and \u2018pay no tax legally\u2019",
-      "description": "How \"Rich Dad, Poor Dad\" author uses debt strategically.",
-      "url": "https://finance.yahoo.com/real-estate/articles/robert-kiyosaki-says-1-2b-113500795.html",
+      "title": "Elon Musk Agrees With Coinbase CEO Brian Armstrong That Some Charities Are 'Net Negative': 'He's Right'",
+      "description": "Elon Musk backed Coinbase Global Inc. CEO Brian Armstrong\u2019s criticism of traditional philanthropy after the crypto executive argued that charitable foundatio...",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/elon-musk-agrees-coinbase-ceo-140111611.html",
       "source": "Yahoo Entertainment",
-      "date": "2026-08-29",
-      "image": "https://s.yimg.com/lo/mysterio/api/206658ea936ab15103299c3cece4b76595429b671a48333d4567c3c41771c707/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2F23c000ee728999df111b884324531c8d.jpg",
+      "date": "2026-08-30",
+      "image": "https://s.yimg.com/lo/mysterio/api/9a367297ceb72c4836f0d8f37472804993cc995a338320d924821f788aa46c29/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F4b4769960b11f5b16032314f3f7d1539.jpg",
       "category": "market"
+    },
+    {
+      "title": "X Takes Down 200,000 Suspected Chinese Accounts in Influence-Operation Crackdown",
+      "description": "China attempted to influence data center debate. Meanwhile, NASA administrator Jared Isaacman says his agency successfully blocked a Chinese hacking attempt.\nThe post X Takes Down 200,000 Suspected Chinese Accounts in Influence-Operation Crackdown first appea\u2026",
+      "url": "https://legalinsurrection.com/2026/08/x-takes-down-200000-suspected-chinese-accounts-in-influence-operation-crackdown/",
+      "source": "Legalinsurrection.com",
+      "date": "2026-08-30",
+      "image": "https://legalinsurrection.com/wp-content/uploads/2026/06/LI-128-AI-Data-Center.png",
+      "category": "market"
+    },
+    {
+      "title": "US start-up seeks miners in race for $20 quadrillion moon resource",
+      "description": "\u201cIt\u2019s the only thing that\u2019s priced high enough to warrant going to space and bringing it back to Earth.\u201d",
+      "url": "https://www.news.com.au/technology/science/space/us-startup-targets-australian-miners-in-race-for-20-quadrillion-moon-resource/news-story/791842ad754d1ce7e3008aabdd3a9323",
+      "source": "News.com.au",
+      "date": "2026-08-30",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/138980932.jpg?quality=75&strip=all&w=1200",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Spider-Man & Odyssey Help Tom Holland Break Box Office Record, But He May Lose It Soon",
+      "description": "No actor had a better summer than Tom Holland, who starred in both The Odyssey and Spider-Man: Brand New Day. The two blockbusters earned widespread critical acclaim and posted record-breaking numbers at the box office; The Odyssey is now the highest-grossing\u2026",
+      "url": "http://comicbook.com/movies/news/spider-man-odyssey-help-tom-holland-break-box-office-record-but-he-may-lose-it-soon/",
+      "source": "ComicBook.com",
+      "date": "2026-08-30",
+      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/05/the-odyssey-telemachus-tom-holland.jpg?resize=2000,1125",
+      "category": "market"
+    },
+    {
+      "title": "UAW Monitor Trying to Overthrow UAW Leadership over Gaza",
+      "description": "United Auto Workers membership is presently engaging in an election to see if they will reelect Shawn Fain. I hope they do. But it\u2019s a divided union. Fain is part of the reform caucus. There are plenty who prefer the old guard. But the old guard got thrown ou\u2026",
+      "url": "https://www.lawyersgunsmoneyblog.com/2026/08/uaw-monitor-trying-to-overthrow-uaw-leadership-over-gaza",
+      "source": "Lawyersgunsmoneyblog.com",
+      "date": "2026-08-30",
+      "image": "https://www.lawyersgunsmoneyblog.com/wp-content/uploads/2024/08/1724118646834_n_msnbc_brk_dnc_shawn_fain_240819_1920x1080-4d9qfk.jpg",
+      "category": "market"
+    },
+    {
+      "title": "aegis-workbench added to PyPI",
+      "description": "Aegis \u2014 enterprise AI governance workbench (EU AI Act + NIST AI RMF)",
+      "url": "https://pypi.org/project/aegis-workbench/",
+      "source": "Pypi.org",
+      "date": "2026-08-30",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "Anthony Albanese's scathing rebuke of One Nation's historic WA by-election win paints Labor as taking the high road... the hypocrisy is breathtaking, writes PETER VAN ONSELEN",
+      "description": "Anthony Albanese has slammed One Nation for 'doing anything to win votes', but is he any better?",
+      "url": "https://www.dailymail.com/news/article-16090925/Anthony-Albaneses-One-Nations-WA.html",
+      "source": "Dailymail.com",
+      "date": "2026-08-30",
+      "image": "https://i.dailymail.com/1s/2026/08/30/12/110936887-0-image-m-43_1788088710104.jpg",
+      "category": "market"
+    },
+    {
+      "title": "The Fed Should Hold Six Regular Meetings a Year",
+      "description": "Federal Reserve (the Fed) Chair Kevin Warsh has reportedly raised an important question: Should the Federal Open Market Committee reduce its regular policy meetings from eight to six each year? Warsh raised the possibility of six annual meetings as a subject \u2026",
+      "url": "https://www.fairobserver.com/economics/the-fed-should-hold-six-regular-meetings-a-year/",
+      "source": "Fair Observer",
+      "date": "2026-08-30",
+      "image": "https://www.fairobserver.com/wp-content/uploads/2026/08/FED.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Top economist says it\u2019s \u2018panic season\u2019 in markets and it\u2019s your fault for taking summer vacation. Blame the \u2018harvest time\u2019 mentality",
+      "description": "Owen Lamont, SVP at $195 billion fund Acadian, says you need to mentally prepare for an \"epic financial disaster\"\u2014just like every August and September.",
+      "url": "https://fortune.com/article/panic-season-epic-financial-disaster-owen-lamont-stocks/",
+      "source": "Fortune",
+      "date": "2026-08-30",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/08/GettyImages-2227285458-e1754083983281.jpg?resize=1200,600",
+      "category": "market"
+    },
+    {
+      "title": "US-Canada trade war escalates with new tariffs on steel, aluminum, copper",
+      "description": "The escalating trade war may lead to higher production costs, inflationary pressures, and increased gold prices as a hedge against economic uncertainty.\nThe post US-Canada trade war escalates with new tariffs on steel, aluminum, copper appeared first on Crypt\u2026",
+      "url": "https://cryptobriefing.com/us-canada-trade-war-escalates-with-new-tariffs-on-steel-aluminum-copper/",
+      "source": "Crypto Briefing",
+      "date": "2026-08-30",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/30091444/library-us-canada-trade-war-escalates-with-new-tariffs-on-steel--1-800x450.png",
+      "category": "geopolitics"
     }
   ],
   "history": [
@@ -476,7 +476,7 @@
       "platinum_usd_oz": 1750.12
     }
   ],
-  "timestamp": "2026-08-31T15:27:14.877616+05:30",
+  "timestamp": "2026-08-31T19:44:15.508986+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
