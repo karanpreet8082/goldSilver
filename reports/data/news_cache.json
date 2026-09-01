@@ -1,9 +1,36 @@
 {
   "news": [
     {
+      "title": "US Treasury bond yields ease from highs after data as Iran war escalation fans inflation concerns",
+      "description": "U.S. Treasury yields retreated from earlier highs on Tuesday after economic data emerged. The manufacturing PMI fell to 54.6 in August, while job openings rose slightly. Oil prices surged due to renewed Middle East conflict, reigniting inflation concerns globally. This led to a significant global bo",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-treasury-bond-yields-ease-from-highs-after-data-as-iran-war-escalation-fans-inflation-concerns/articleshow/133686615.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-09-01",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Market Trading Guide: Acme Solar, BEML among 4 stock recommendations for Wednesday",
+      "description": "Indian markets stayed volatile but held above 24,000 as crude prices and geopolitical tensions weighed on sentiment. Analysts recommended KSB, City Union Bank, Acme Solar and BEML, citing bullish technical patterns, breakouts, improving momentum and key support levels.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-acme-solar-beml-among-4-stock-recommendations-for-wednesday/slideshow/133686279.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-09-01",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "US bond yields reflect 'flat to down' inflation expectations, stronger growth, Bessent says",
+      "description": "During a finance leaders' gathering in Asheville, US Treasury Secretary Scott Bessent emphasized the significance of recent economic indicators. He pointed out that current bond yields indicate a stable or declining expectation of inflation, while also signaling a robust acceleration in the growth o",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-bond-yields-reflect-flat-to-down-inflation-expectations-stronger-growth-bessent-says/articleshow/133684502.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-09-01",
+      "image": "",
+      "category": "inflation"
+    },
+    {
       "title": "US stocks today: Nasdaq crashes over 1% as bond selloff, oil rise fuel inflation anxiety",
       "description": "Wall Street stocks fell as rising oil prices intensified inflation fears and pushed U.S. bond yields higher. The S&amp;P 500 dropped 0.7%, while the Dow Jones fell 0.6% and the Nasdaq slid 1.4%. A sell-off in U.S. government bonds added to pressure on equities.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-nasdaq-crashes-over-1-as-bond-selloff-oil-rise-fuel-inflation-anxiety/articleshow/133683554.cms",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-crashes-over-1-as-bond-selloff-oil-rise-fuel-inflation-anxiety/articleshow/133683554.cms",
       "source": "Economic Times Markets",
       "date": "2026-09-01",
       "image": "",
@@ -19,40 +46,67 @@
       "category": "inflation"
     },
     {
-      "title": "India bonds inch lower, joining global debt selloff",
-      "description": "The Indian bond market saw a downturn, reflecting a broader global selloff in debt markets. Escalating geopolitical conflicts and soaring oil prices raised inflation fears in India, leading to intensified speculation regarding potential interest rate hikes by the Reserve Bank of India. Additionally,",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-inch-lower-joining-global-debt-selloff/articleshow/133680899.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-09-01",
-      "image": "",
+      "title": "The US is now buried in $40T of debt \u2014 but who\u2019s buying the IOUs right now? Here\u2019s the unsettling answer for Americans",
+      "description": "As America\u2019s debt pile grows, the buyers keeping Washington funded are changing.",
+      "url": "https://finance.yahoo.com/economy/policy/articles/us-now-buried-40t-debt-163000404.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-08-31",
+      "image": "https://s.yimg.com/lo/mysterio/api/6b0d9de5c13f213117d47ccde7259e4f30213418458afab4581af10b97df74d3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2Fed2c2f7726233a0909f263fd38099002.jpg",
+      "category": "market"
+    },
+    {
+      "title": "How will the State's savings & investment account work?",
+      "description": "The initial details of a State-backed savings and investment scheme have been announced, writes David Murphy, with the Government hoping it will encourage more people to save their money.",
+      "url": "https://www.rte.ie/news/business/2026/0831/1589857-savings-investment-explainer/",
+      "source": "RTE",
+      "date": "2026-08-31",
+      "image": "https://www.rte.ie/images/0024ee04-1600.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Nvidia invests billions to expand AI empire across chips, data centers, and infrastructure",
+      "description": "Nvidia's aggressive investments could reshape the AI landscape, potentially centralizing power and influencing global tech infrastructure.\nThe post Nvidia invests billions to expand AI empire across chips, data centers, and infrastructure appeared first on Cr\u2026",
+      "url": "https://cryptobriefing.com/nvidia-billions-ai-empire-expansion/",
+      "source": "Crypto Briefing",
+      "date": "2026-08-31",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/31114846/library-nvidia-invests-billions-to-expand-ai-empire-across-chips-800x450.png",
+      "category": "market"
+    },
+    {
+      "title": "Pace of gold loan expansion slows as banks adjust to new regulations",
+      "description": "Bank gold loans grew significantly, though at a slower pace.  Personal loans also saw increased growth, driven by housing and vehicle financing.  New regulations adjusted loan-to-value ratios and repayment tenures for gold loans.  Housing and vehicle loans ex\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/pace-of-gold-loan-expansion-slows-as-banks-adjust-to-new-regulations/articleshow/133665396.cms",
+      "source": "The Times of India",
+      "date": "2026-08-31",
+      "image": "https://img.etimg.com/thumb/msid-133657254,width-1200,height-630,imgsize-590945,overlay-etmarkets/articleshow.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "BIOTECanada Announces 2026 Gold Leaf Award Winners, Recognizing Excellence Across Canada\u2019s Biotechnology Ecosystem",
+      "description": "OTTAWA, Ontario \u2014 BIOTECanada, the national industry association representing Canada\u2019s biotechnology sector, is pleased to announce the winners of the 2026 Gold Leaf Awards, recognizing outstanding leadership, innovation and impact across Canadian biotech. Fo\u2026",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/biotecanada-announces-2026-gold-leaf-award-winners-recognizing-excellence-across-canadas-biotechnology-ecosystem",
+      "source": "Financial Post",
+      "date": "2026-08-31",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/08/bw20260831968907_goldleaf_logo_2026_final.jpeg",
       "category": "geopolitics"
     },
     {
-      "title": "Why Japan's 30-year high bond yields should worry Indian stock market investors",
-      "description": "Japan\u2019s 30-year high bond yields, hawkish US Federal Reserve policies, and rising crude oil prices are straining global liquidity. These factors exert pressure on Indian equities, challenging investor sentiment despite India\u2019s resilient 7.8% GDP growth.",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/why-japans-30-year-high-bond-yields-should-worry-indian-stock-market-investors/articleshow/133680711.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-09-01",
-      "image": "",
-      "category": "central_bank"
+      "title": "Muthoot Finance approves Muthoot Money merger to create larger gold loan business",
+      "description": "In a move to strengthen its market position, Muthoot Finance plans to incorporate Muthoot Money, its wholly-owned subsidiary, into its operations. This merger is designed to foster operational synergies and improve resource allocation. It is expected to strea\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/muthoot-finance-approves-muthoot-money-merger-to-create-larger-gold-loan-business/articleshow/133665305.cms",
+      "source": "The Times of India",
+      "date": "2026-08-31",
+      "image": "https://img.etimg.com/thumb/msid-133655743,width-1200,height-630,imgsize-58372,overlay-etmarkets/articleshow.jpg",
+      "category": "metals"
     },
     {
-      "title": "RBI intervention, dollar flows push Indian rupee to two-month peak",
-      "description": "The Indian rupee surged to a two-month peak against the U.S. dollar, buoyed by decisive central bank interventions and dollars flowing in from foreign banks. Positive domestic growth indicators bolstered confidence in the rupee. However, rising global bond yields and increased crude oil prices acted",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-intervention-dollar-flows-push-indian-rupee-to-two-month-peak/articleshow/133679175.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-09-01",
-      "image": "",
+      "title": "In 2010, Alaska Clean Harbors launched a statewide effort to curb harbor pollution. 15 years later, 11 harbors were engaged in the program, helping protect coastal waters",
+      "description": "Alaska Clean Harbors works with communities to prevent pollution and reduce waste. Four harbors achieved certification, and three are working towards it by November 2025. The program offers free technical assistance and resources to participating harbor staff\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/us/science-in-2010-alaska-clean-harbors-launched-a-statewide-effort-to-curb-harbor-pollution-15-years-later-11-harbors-were-engaged-in-the-program-helping-protect-coastal-waters/articleshow/133654164.cms",
+      "source": "The Times of India",
+      "date": "2026-08-31",
+      "image": "https://img.etimg.com/thumb/msid-133655726,width-1200,height-630,imgsize-227502,overlay-economictimes/articleshow.jpg",
       "category": "geopolitics"
-    },
-    {
-      "title": "Global Market: European shares muted as bond yields surge on inflation concerns",
-      "description": "European shares were largely flat on Tuesday as a sharp rise in government bond yields kept investors cautious amid renewed inflation concerns. The STOXX 600 edged up 0.04%, while energy stocks gained 1.4% as Brent crude traded near $92 a barrel.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-muted-as-bond-yields-surge-on-inflation-concerns/articleshow/133675841.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-09-01",
-      "image": "",
-      "category": "currency"
     },
     {
       "title": "Q1 GDP print shows domestic momentum strong but global risks remain a concern: CEA Nageswaran",
@@ -64,67 +118,13 @@
       "category": "geopolitics"
     },
     {
-      "title": "Start a gram-based SIP in gold and silver FoFs: Axis MF launches industry-first Shagun SIP for investors",
-      "description": "Axis Mutual Fund has launched Shagun SIP, an industry-first gram-based SIP for gold and silver fund of funds (FoFs). The feature lets investors choose a gold or silver quantity instead of a fixed rupee amount. Here\u2019s how it works, its key benefits, and what i\u2026",
-      "url": "https://www.livemint.com/money/personal-finance/start-a-gram-based-sip-in-gold-and-silver-fofs-axis-mf-launches-industry-first-shagun-sip-for-investors-11788176220657.html",
-      "source": "Livemint",
+      "title": "Gold Price Fall Deepens After Warsh Inflation Speech, Renewed Iran Tensions",
+      "description": "The price of gold tumbled further Monday, falling from a 15-week high the metal reached last week.",
+      "url": "https://www.forbes.com/sites/conormurray/2026/08/31/gold-price-fall-deepens-after-warsh-inflation-speech-renewed-iran-tensions/",
+      "source": "Forbes",
       "date": "2026-08-31",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/31/1600x900/logo/axis_fund_1788180609237_1788180616318_a0178d05-0c6f-4d7e-a177-12ced06113a0.png",
-      "category": "currency"
-    },
-    {
-      "title": "Lock In Monthly Income: 5 September Strong Buys With High Yields",
-      "description": "September historically punishes stock investors, and this year the warning signs are louder than usual. Five monthly dividend payers have quietly pulled back...",
-      "url": "https://247wallst.com/investing/2026/08/31/5-high-yielding-safe-monthly-pay-dividend-stocks-are-september-strong-buys/",
-      "source": "24/7 Wall St.",
-      "date": "2026-08-31",
-      "image": "https://s.yimg.com/lo/mysterio/api/c14678b1f4826a5e2b1781b0612529ecfe62d9c28b53aa43ee305723caf2da3b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F8b018b5494c80feb8fb80c224d46f51c.jpg",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a286fd6b6804423f63c5de5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "category": "geopolitics"
-    },
-    {
-      "title": "Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.90 Million Tokens, and Total Crypto and Total Cash Holdings of $15.6 Billion",
-      "description": "Bitmine owns 4.9% of the total ETH coin supply of 120.7 million Bitmine is 98% of the way to the 'Alchemy of 5%' in just 15 months ETH is the best performing macro asset in 3Q26 so far, outperforming the S&P 500 by 5,430bp Bitmine was added to the Russell 100\u2026",
-      "url": "https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-90-million-tokens-and-total-crypto-and-total-cash-holdings-of-15-6-billion-302864579.html",
-      "source": "PRNewswire",
-      "date": "2026-08-31",
-      "image": "https://mmx.prnewswire.com/media/MS1978050/BMNR-Weekly-Update-English-11.jpg?id=OA2919373&p=facebook",
-      "category": "supply_demand"
-    },
-    {
-      "title": "10 Signs of the AI Bubble Bursting and 7 Ways CIOs Should Prepare For It",
-      "description": "The potential for an AI bubble to burst raises critical questions for CIOs on their AI strategy. While some deliver AI business value, many struggle with ROI and governance. 7 recommendations for CIOs include addressing detractors, catching up on AI governanc\u2026",
-      "url": "https://drive.starcio.com/2026/08/ai-bubble-bursting-cios-should-prepare/",
-      "source": "Starcio.com",
-      "date": "2026-08-31",
-      "image": "https://i0.wp.com/drive.starcio.com/wp-content/uploads/2026/08/AI-Bubble.jpg?fit=1600%2C900&ssl=1",
-      "category": "market"
-    },
-    {
-      "title": "For multiple Rutgers coaches, AD Keli Zinn\u2019s 2nd year marks \u2018prove it\u2019 season. Who is on hot seat?",
-      "description": "Multiple Rutgers coaches will be under the microscope during the 2026-27 season, Keli Zinn's second as athletic director.",
-      "url": "https://www.nj.com/rutgers/2026/08/for-multiple-rutgers-coaches-ad-keli-zinns-2nd-year-marks-prove-it-season-who-is-on-hot-seat.html",
-      "source": "nj.com",
-      "date": "2026-08-31",
-      "image": "https://s.yimg.com/lo/mysterio/api/a62c7b5a3d524b932fcb5655080551fc6fe097a1efd663a9b32a093b7a5a27a0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnj_com_articles_950%2Fb737cebbc0bcde749450b7f0cc5264a1.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Here Are Monday\u2019s Top Wall Street Analyst Research Calls: AGCO Corporation, Deere & Co., Edison International, Lumentum Holdings, PG&E, Sempra Energy, STAG Industrial, Ticketplus, and More",
-      "description": "Rate hike fears rattled markets heading into the Labor Day weekend, and Wall Street analysts responded with a flurry of bold calls on utilities, farm equipme...",
-      "url": "https://247wallst.com/investing/2026/08/31/here-are-mondays-top-wall-street-analyst-research-calls-agco-corporation-deere-co-edison-international-lumentum-holdings-pge-sempra-energy-stag-industrial-ticketplus-and-more/",
-      "source": "24/7 Wall St.",
-      "date": "2026-08-31",
-      "image": "https://s.yimg.com/lo/mysterio/api/fa58751f821fa525e722c4d6abf49e0d3f17e269da4c6b3c31d3405191b4a2f3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F4db12ae34e5f05cd9360d5607213d6b9.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "Sensex today | Stock Market Highlights: Benchmark indices trade in the red in late session, Sensex down 307.24 points at 76,957.27",
-      "description": "Sensex, Nifty, Share Prices Highlights: The benchmark indices traded in the red ahead of the close on Monday. At 3.40 pm, the BSE Sensex was at 76,957.27, down 307.24 points or 0.40% lower. The Nifty 50 was at 24,080.40, down 95.25 points or 0.39% lower.",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-31st-august-2026/article71408208.ece",
-      "source": "BusinessLine",
-      "date": "2026-08-31",
-      "image": "https://bl-i.thgim.com/public/incoming/qhaujx/article71399191.ece/alternates/LANDSCAPE_1200/iStock-2260474979.jpg",
-      "category": "market"
     },
     {
       "title": "Nevgold Files NI 43-101 Technical Report For Mineral Resource Estimate on the Limousine Butte Gold-Antimony Project, Nevada",
@@ -136,12 +136,30 @@
       "category": "metals"
     },
     {
+      "title": "Here Are Monday\u2019s Top Wall Street Analyst Research Calls: AGCO Corporation, Deere & Co., Edison International, Lumentum Holdings, PG&E, Sempra Energy, STAG Industrial, Ticketplus, and More",
+      "description": "Rate hike fears rattled markets heading into the Labor Day weekend, and Wall Street analysts responded with a flurry of bold calls on utilities, farm equipme...",
+      "url": "https://247wallst.com/investing/2026/08/31/here-are-mondays-top-wall-street-analyst-research-calls-agco-corporation-deere-co-edison-international-lumentum-holdings-pge-sempra-energy-stag-industrial-ticketplus-and-more/",
+      "source": "24/7 Wall St.",
+      "date": "2026-08-31",
+      "image": "https://s.yimg.com/lo/mysterio/api/fa58751f821fa525e722c4d6abf49e0d3f17e269da4c6b3c31d3405191b4a2f3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F4db12ae34e5f05cd9360d5607213d6b9.jpg",
+      "category": "central_bank"
+    },
+    {
       "title": "Oh, Canada?",
       "description": "\u201cCarney increasingly reminds me of Fauci. He has that exact same air of technocratic infallibility. . . .\u201d \u2014 Hans Mahncke on X",
       "url": "https://www.kunstler.com/p/oh-canada",
       "source": "Kunstler.com",
       "date": "2026-08-31",
       "image": "https://substackcdn.com/image/fetch/$s_!QuV7!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32302ece-cda7-40fb-8b92-56a967afec41_700x472.heic",
+      "category": "market"
+    },
+    {
+      "title": "Sensex today | Stock Market Highlights: Benchmark indices trade in the red in late session, Sensex down 307.24 points at 76,957.27",
+      "description": "Sensex, Nifty, Share Prices Highlights: The benchmark indices traded in the red ahead of the close on Monday. At 3.40 pm, the BSE Sensex was at 76,957.27, down 307.24 points or 0.40% lower. The Nifty 50 was at 24,080.40, down 95.25 points or 0.39% lower.",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-31st-august-2026/article71408208.ece",
+      "source": "BusinessLine",
+      "date": "2026-08-31",
+      "image": "https://bl-i.thgim.com/public/incoming/qhaujx/article71399191.ece/alternates/LANDSCAPE_1200/iStock-2260474979.jpg",
       "category": "market"
     },
     {
@@ -161,25 +179,7 @@
       "date": "2026-08-31",
       "image": null,
       "category": "metals"
-    },
-    {
-      "title": "UAE gold, silver prices fall as gold hits two-week low",
-      "description": "UAE gold and silver prices fall as dollar shifts and US rate expectations push gold to a two-week low, with 24K at Dh533 per gram and silver at Dh7.87 per gram",
-      "url": "https://www.emirates247.com/business/uae-gold-silver-prices-fall-as-gold-hits-two-week-low/5071",
-      "source": "Emirates 24|7",
-      "date": "2026-08-31",
-      "image": "https://api.emirates247.com/emirates247/uploads/images/2026/08/31/7799.webp",
-      "category": "currency"
-    },
-    {
-      "title": "Bessent\u2019s G20 pitch collides with anxieties over US debt and Iran war - Politico",
-      "description": "Bessent\u2019s G20 pitch collides with anxieties over US debt and Iran warPolitico G20 finance meeting live updates: Bessent, Warsh to give remarksCNBC Treasury is blocking reporters from the NYT, WSJ, and Bloomberg from the G20 meetingqz.com US Treasury blocks ce\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185321798",
-      "source": "Slashdot.org",
-      "date": "2026-08-31",
-      "image": null,
-      "category": "geopolitics"
     }
   ],
-  "timestamp": "2026-09-01T14:14:12.973441"
+  "timestamp": "2026-09-01T16:51:08.944626"
 }
