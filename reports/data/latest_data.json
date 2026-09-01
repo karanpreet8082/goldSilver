@@ -1,84 +1,84 @@
 {
   "prices": {
     "gold": {
-      "price_per_gram_inr": 13296.36,
-      "price_usd_oz": 4341.91,
-      "change_percent": 2.4,
-      "change_value_usd": 101.69,
-      "price_per_10g_inr": 132963.64
+      "price_per_gram_inr": 13390.66,
+      "price_usd_oz": 4374.52,
+      "change_percent": -1.65,
+      "change_value_usd": -73.58,
+      "price_per_10g_inr": 133906.57
     },
     "silver": {
-      "price_per_gram_inr": 194.76,
-      "price_usd_oz": 63.6,
-      "change_percent": 3.4,
-      "change_value_usd": 2.09,
-      "price_per_kg_inr": 194759.63
+      "price_per_gram_inr": 198.69,
+      "price_usd_oz": 64.91,
+      "change_percent": -2.43,
+      "change_value_usd": -1.62,
+      "price_per_kg_inr": 198691.71
     },
     "platinum": {
-      "price_per_gram_inr": 5359.45,
-      "price_usd_oz": 1750.12,
-      "change_percent": 1.38,
-      "change_value_usd": 23.84
+      "price_per_gram_inr": 5422.19,
+      "price_usd_oz": 1771.35,
+      "change_percent": -1.45,
+      "change_value_usd": -26.08
     },
     "currencies": {
-      "USD_INR": 95.2492,
-      "EUR_INR": 110.0002,
-      "GBP_INR": 128.3336,
-      "JPY_INR": 0.6031,
-      "CHF_INR": 117.737,
-      "AUD_INR": 67.162,
-      "CAD_INR": 68.2496,
-      "SGD_INR": 74.4367
+      "USD_INR": 95.2096,
+      "EUR_INR": 110.5289,
+      "GBP_INR": 128.9404,
+      "JPY_INR": 0.5958,
+      "CHF_INR": 117.7317,
+      "AUD_INR": 68.2017,
+      "CAD_INR": 68.6789,
+      "SGD_INR": 74.8621
     },
-    "gold_silver_ratio": 68.27,
-    "timestamp": "2026-08-09T04:42:44.131776",
+    "gold_silver_ratio": 67.39,
+    "timestamp": "2026-09-01T08:48:15.456023",
     "source": "GoldAPI"
   },
   "currencies": {
-    "USD_INR": 95.2492,
-    "EUR_INR": 110.0002,
-    "GBP_INR": 128.3336,
-    "JPY_INR": 0.6031,
-    "CHF_INR": 117.737,
-    "AUD_INR": 67.162,
-    "CAD_INR": 68.2496,
-    "SGD_INR": 74.4367
+    "USD_INR": 95.2096,
+    "EUR_INR": 110.5289,
+    "GBP_INR": 128.9404,
+    "JPY_INR": 0.5958,
+    "CHF_INR": 117.7317,
+    "AUD_INR": 68.2017,
+    "CAD_INR": 68.6789,
+    "SGD_INR": 74.8621
   },
   "analysis": {
     "gold": {
       "metal": "gold",
-      "recommendation": "BUY",
+      "recommendation": "HOLD",
       "confidence": {
-        "buy": 65,
-        "sell": 10,
-        "hold": 25
+        "buy": 25,
+        "sell": 25,
+        "hold": 50
       },
-      "summary": "Gold is showing positive signals. Strong daily gain of 2.4%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-31T19:12:44.391737",
+      "summary": "Gold is showing positive signals. Significant daily drop of -1.6%. Technical indicators show bullish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
+      "timestamp": "2026-09-01T08:48:20.819578",
       "source": "rule-based"
     },
     "silver": {
       "metal": "silver",
-      "recommendation": "BUY",
+      "recommendation": "HOLD",
       "confidence": {
-        "buy": 65,
-        "sell": 10,
-        "hold": 25
+        "buy": 25,
+        "sell": 25,
+        "hold": 50
       },
-      "summary": "Silver is showing positive signals. Strong daily gain of 3.4%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-31T19:12:44.473511",
+      "summary": "Silver is showing positive signals. Significant daily drop of -2.4%. Technical indicators show bullish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
+      "timestamp": "2026-09-01T08:48:20.906910",
       "source": "rule-based"
     },
     "platinum": {
       "metal": "platinum",
-      "recommendation": "BUY",
+      "recommendation": "HOLD",
       "confidence": {
-        "buy": 65,
-        "sell": 10,
-        "hold": 25
+        "buy": 25,
+        "sell": 25,
+        "hold": 50
       },
-      "summary": "Platinum is showing positive signals. Strong daily gain of 1.4%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-08-31T19:12:44.558781",
+      "summary": "Platinum is showing positive signals. Significant daily drop of -1.4%. Technical indicators show bullish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
+      "timestamp": "2026-09-01T08:48:20.994962",
       "source": "rule-based"
     }
   },
@@ -90,30 +90,30 @@
         "Price above 4-week moving average (bullish)",
         "Price above 12-week moving average (bullish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Strong momentum: +3.9% in 4 weeks"
+        "Strong momentum: +6.1% in 4 weeks"
       ],
       "support": 124137.93,
       "resistance": 140736.5,
-      "current_price": 132963.64,
-      "ma_short": 127825.72,
-      "ma_long": 131135.86,
+      "current_price": 133906.57,
+      "ma_short": 129318.28,
+      "ma_long": 131482.2,
       "trend_score": 2.0
     },
     "silver": {
       "trend": "neutral",
-      "strength": 38,
+      "strength": 50,
       "signals": [
         "Price above 4-week moving average (bullish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Sideways: +1.9% in 4 weeks"
+        "Strong momentum: +9.4% in 4 weeks"
       ],
       "support": 176726.94,
       "resistance": 243170.57,
-      "current_price": 194759.63,
-      "ma_short": 186076.35,
-      "ma_long": 200770.89,
-      "trend_score": -1.0
+      "current_price": 198691.71,
+      "ma_short": 187958.6,
+      "ma_long": 200510.99,
+      "trend_score": 0.0
     },
     "platinum": {
       "trend": "bullish",
@@ -122,286 +122,286 @@
         "Price above 4-week moving average (bullish)",
         "Price above 12-week moving average (bullish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Strong momentum: +6.5% in 4 weeks"
+        "Strong momentum: +9.3% in 4 weeks"
       ],
       "support": 4961.56,
       "resistance": 6206.5,
-      "current_price": 5359.45,
-      "ma_short": 5103.58,
-      "ma_long": 5355.75,
+      "current_price": 5422.19,
+      "ma_short": 5200.83,
+      "ma_long": 5364.06,
       "trend_score": 2.0
     }
   },
   "news": [
     {
-      "title": "Longer-dated US Treasury yields climb as Iran and US restart military attacks",
-      "description": "Treasury yields increased as U.S. and Iran hostilities escalated. Crude oil prices surged, fueling inflation worries and complicating Fed outlook. Investors now anticipate a potential September interest rate hike by the Federal Reserve. Federal Reserve Chair Kevin Warsh's comments also influenced ma",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/longer-dated-us-treasury-yields-climb-as-iran-and-us-restart-military-attacks/articleshow/133660629.cms",
+      "title": "Global Market: UK 10-year gilt yields hit highest level since 2008 as oil prices stoke inflation fears",
+      "description": "UK government bond yields surged on Tuesday, with the 10-year gilt yield hitting its highest level since 2008 as rising oil prices revived inflation concerns. The 10-year yield climbed to around 5.23%, while the two-year yield rose to 4.59%.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-uk-10-year-gilt-yields-hit-highest-level-since-2008-as-oil-prices-stoke-inflation-fears/articleshow/133673995.cms",
       "source": "Economic Times Markets",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "image": "",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
-      "description": "Indian markets fell as rising US bond yields, hawkish Fed signals, renewed US-Iran tensions and crude above $90 pressured sentiment, while broader indices declined and technical indicators pointed to continued near-term volatility.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/133657719.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-08-31",
-      "image": "",
-      "category": "geopolitics"
-    },
-    {
-      "title": "UBS Says a Major Commodity Upcycle Is Taking Shape",
-      "description": "One day after veteran commodities strategist Jeff Currie told investors to\u00a0\"get long and buckle up\"\u00a0for the next leg of the commodities rally, UBS strategist Sagar Khandelwal issued a similarly bullish call, urging clients to\u00a0\"position for a commodity upcycle\u2026",
-      "url": "https://oilprice.com/Metals/Commodities/UBS-Says-a-Major-Commodity-Upcycle-Is-Taking-Shape.html",
-      "source": "OilPrice.com",
-      "date": "2026-08-30",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-28_plwibvizu2.jpg",
-      "category": "market"
-    },
-    {
-      "title": "55 Bougie Things That Make You Look So Good & Are So Cheap",
-      "description": "Whether it's your jewelry collection, outfit rotation, or skin-care lineup that could use an overhaul, these products deliver investment-worthy results without feeling like a total splurge.",
-      "url": "https://www.elitedaily.com/shopping/bougie-things-that-make-you-look-so-good-are-so-cheap",
-      "source": "Elite Daily",
-      "date": "2026-08-30",
-      "image": "https://imgix.bustle.com/uploads/image/2026/8/28/c35b7eda/13.png?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
-      "category": "market"
-    },
-    {
-      "title": "Mutual funds add gold and silver ETFs to equity portfolio mix",
-      "description": "Move aligns schemes with new norms, may not lead to immediate additions, say MF officials",
-      "url": "https://www.business-standard.com/markets/news/mutual-funds-add-gold-and-silver-etfs-to-equity-portfolio-mix-126083000405_1.html",
-      "source": "Business Standard",
-      "date": "2026-08-30",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/30/thumb/fitandfill/1200X628/1788109266-0466.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "A growth story written by global Indians",
-      "description": "Explore how non-resident Indians are transforming India into a long-term investment powerhouse, fueling growth and innovation.",
-      "url": "https://www.thehindubusinessline.com/specials/current-account/a-growth-story-written-by-global-indians/article71408483.ece",
-      "source": "BusinessLine",
-      "date": "2026-08-30",
-      "image": "https://bl-i.thgim.com/public/incoming/wkyflk/article71408479.ece/alternates/LANDSCAPE_1200/PTI08_25_2026_000007B.jpg",
-      "category": "market"
-    },
-    {
-      "title": "No-Wire Wall Lights, Book of the Month and the Skincare I Keep Coming Back To...",
-      "description": "August has raced by in a blur of work deadlines and brutal heatwaves and constant kids\u2019 activities.",
-      "url": "https://www.amodelrecommends.com/p/no-wire-wall-lights-book-of-the-month",
-      "source": "Amodelrecommends.com",
-      "date": "2026-08-30",
-      "image": "https://substackcdn.com/image/fetch/$s_!vraW!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf6c24bd-5e6a-4dc4-aedd-e1cef4b06d1d_1280x720.png",
-      "category": "market"
-    },
-    {
-      "title": "The Problem Isn\u2019t Warsh Vs Bessent, It\u2019s PhD Confusion About Inflation",
-      "description": "Kevin Warsh can hardly complain about what Scott Bessent is doing, other than if he rightly disdains the weak, inflationary dollar that Bessent is pursuing.",
-      "url": "https://www.forbes.com/sites/johntamny/2026/08/30/the-problem-isnt-warsh-vs-bessent-its-phd-confusion-about-inflation/",
-      "source": "Forbes",
-      "date": "2026-08-30",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a9233cd664d640edfe776ea/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Indian equities, debt, gold and US stocks: How should investors allocate money across these asset classes?",
-      "description": "A diversified portfolio can perform very differently depending on how you split your money across Indian equities, debt, gold and US equities. Here\u2019s what 16 financial years of data, from FY2011 to FY2027 year-to-date, reveal about the returns across these as\u2026",
-      "url": "https://www.livemint.com/money/personal-finance/indian-equities-debt-gold-and-us-stocks-how-should-investors-allocate-money-across-these-asset-classes-11787501119537.html",
-      "source": "Livemint",
-      "date": "2026-08-30",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/23/1600x900/logo/debt_equ_1787504714756_1787504724370_3296767a-0925-47aa-b2f6-8fdb438aea39.png",
-      "category": "metals"
-    },
-    {
-      "title": "\u2018There\u2019s a shroud over this market\u2019: Jim Cramer warns stocks face a tougher road \u2014 here\u2019s how to prepare",
-      "description": "Cramer sees warning signs for Wall Street as high interest rates threaten a key market tailwind. Here\u2019s how to diversify if stocks stumble.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/shroud-over-market-jim-cramer-121500547.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-08-30",
-      "image": "https://s.yimg.com/lo/mysterio/api/95fe264878342cb29e722ae00d7424ce83b3c64c1d3d768f22e32d4485d3d1de/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2F74d32b0a9f79171a6099457ceaf84d6d.png",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Birla vs Adani: Heavy metal face-off",
-      "description": "After cement, the Birla-Adani rivalry shifts to aluminium as Hindalco unfurls a \u20b950,000 crore investment to defend its turf from a massive greenfield challenge",
-      "url": "https://www.thehindubusinessline.com/specials/corporate-file/birla-vs-adani-heavy-metal-face-off/article71397914.ece",
-      "source": "BusinessLine",
-      "date": "2026-08-30",
-      "image": "https://bl-i.thgim.com/public/incoming/r9m9iv/article71408697.ece/alternates/LANDSCAPE_1200/BL3108_Corp_Mahan_Hindalco.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Not just for chutneys, tamarind is great for keeping your kitchen clean too. 6 ways to get rid of rust and stains using imli",
-      "description": "Tamarind is not just good to eat; it can also help you clean your utensils, basins, and taps \u2013 and various other objects made from metals such as copper, brass, steel, and even silver! A simple yet effective tamarind and salt can keep various objects in your \u2026",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/not-just-for-chutneys-tamarind-is-great-for-keeping-your-kitchen-clean-too-6-ways-to-get-rid-of-rust-and-stains-using-imli/articleshow/133629788.cms",
-      "source": "The Times of India",
-      "date": "2026-08-30",
-      "image": "https://img.etimg.com/thumb/msid-133629859,width-1200,height-630,imgsize-160603,overlay-etpanache/articleshow.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "Trump says $465K in savings makes you 'rich.' Financial experts warn it falls short \u2014 how much do you actually need?",
-      "description": "Here\u2019s what to know about an executive order to expand retirement account access for those who don\u2019t have access to workplace retirement savings plans.",
-      "url": "https://finance.yahoo.com/markets/articles/trump-says-465k-savings-makes-110500861.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-08-30",
-      "image": "https://s.yimg.com/lo/mysterio/api/f92aecc4b3aa5a0b35a3d9973185ca00b6c52909baae10fb26cfbab856350c7c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2Fc08f1a7f07a96bd2f381de53759eabb1.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Nifty mega caps are going nowhere. Why Samco CIO Umesh Mehta put 75% of his Flexicap fund beyond largecaps",
-      "description": "Mutual Fund CIO Umesh Mehta says Nifty mega caps may remain subdued as institutional ownership limits fresh buying and earnings momentum shifts towards mid- and small-cap stocks. He explains why Samco Flexicap Fund has allocated 70\u201375% of its portfolio beyond\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-mega-caps-are-going-nowhere-why-samco-cio-umesh-mehta-put-75-of-his-flexicap-fund-beyond-largecaps/articleshow/133626322.cms",
-      "source": "The Times of India",
-      "date": "2026-08-30",
-      "image": "https://img.etimg.com/thumb/msid-133626343,width-1200,height-630,imgsize-23626,overlay-etmarkets/articleshow.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Indian govt bond yields to remain range-bound at 6.6-6.9%, limiting near-term trading windows: Motilal Oswal",
-      "description": "\u201cThe softer inflation outlook suggests a pause until CY2026, but global risks allow for a 25 bps hike in early CY2027,\u201d said Motilal Oswal Private Wealth",
-      "url": "https://www.thehindubusinessline.com/markets/indian-govt-bond-yields-to-remain-range-bound-at-66-69-limiting-near-term-trading-windows-motilal-oswal/article71407137.ece",
-      "source": "BusinessLine",
-      "date": "2026-08-30",
-      "image": "https://bl-i.thgim.com/public/incoming/wcsdyw/article71407154.ece/alternates/LANDSCAPE_1200/Finmin-advises-GKJGD5H26.4.jpg.jpg",
       "category": "inflation"
     },
     {
-      "title": "Zinc Hits Four-Year High as Physical Supply Tightens",
-      "description": "Zinc futures on the London Metal Exchange (LME) touched a four-year high this week, according to exchange data, before a slight pullback on Thursday, Aug. 27. The industrial metal reversed course Thursday, falling 0.8% to $3,861 per ton\u00a0\u2013 halting a seven-day \u2026",
-      "url": "https://www.naturalnews.com/2026-08-30-zinc-hits-four-year-high-supply-tightens.html",
-      "source": "Naturalnews.com",
-      "date": "2026-08-30",
-      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/zinc-prices-london-metal-exchange-supply-constraints-3700-original.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "iTrustCapital vs Caleb and Brown",
-      "description": "iTrustCapital and Caleb & Brown both provide access to cryptocurrency, but they are not direct substitutes. iTrustCapital is primarily a US retirement-investment platform that allows eligible customers to buy and hold cryptocurrency and precious metals inside\u2026",
-      "url": "https://themattwalshblog.com/itrustcapital-vs-caleb-and-brown/",
-      "source": "Themattwalshblog.com",
-      "date": "2026-08-30",
-      "image": "https://themattwalshblog.com/wp-content/uploads/2026/08/iTrustCapital-vs-Caleb-and-Brown.png",
-      "category": "currency"
-    },
-    {
-      "title": "Booming Membership Growth Collides With A Struggling Global Expansion",
-      "description": "On August 28, Miniso Group Holding Limited (NYSE:MNSO) held its interim earnings call, and the numbers told two very different stories under one roof. In China, the company posted its fastest first-half growth in three years, built on a membership base that j\u2026",
-      "url": "https://biztoc.com/x/0442851839a17770",
-      "source": "Biztoc.com",
-      "date": "2026-08-30",
-      "image": "https://biztoc.com/cdn/0442851839a17770_s.webp",
-      "category": "market"
-    },
-    {
-      "title": "Why U.S. intelligence keeps getting blindsided",
-      "description": "Cognitive diversity and operational accountability are identified as components of solution",
-      "url": "https://www.wnd.com/2026/08/why-u-s-intelligence-keeps-getting-blindsided/",
-      "source": "Wnd.com",
-      "date": "2026-08-30",
-      "image": "https://www.wnd.com/wp-content/uploads/2021/07/drones-cameras-surveillance-spying-big-brother-military-defense-jpg-1200x630.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Mohan Bhagwat projects a conciliatory, reassuring RSS to global audience",
-      "description": "RSS chief Mohan Bhagwat is redefining the narrative of Hindutva by promoting inclusivity, asserting that Muslims hold a rightful place in India. His international outreach focuses on themes of service and global unity, aimed at expanding the organization\u2019s in\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/mohan-bhagwat-projects-a-conciliatory-reassuring-rss-to-global-audience/articleshow/133636342.cms",
-      "source": "The Times of India",
-      "date": "2026-08-30",
-      "image": "https://img.etimg.com/thumb/msid-133636403,width-1200,height-630,imgsize-86214,overlay-economictimes/articleshow.jpg",
-      "category": "market"
-    },
-    {
-      "title": "What's in store at this week's Pacific Islands Forum leaders meeting",
-      "description": "Pacific leaders are descending on Palau for what could be a particularly politically charged Pacific Islands Forum leaders meeting.",
-      "url": "https://www.abc.net.au/news/2026-08-31/pacific-islands-forum-leaders-meeting-politically-charged/107095316",
-      "source": "ABC News (AU)",
-      "date": "2026-08-30",
-      "image": "https://live-production.wcms.abc-cdn.net.au/c80c7a56269bd9ff971128c8c749a529?impolicy=wcms_watermark_news&cropH=1575&cropW=2800&xPos=0&yPos=264&width=862&height=485&imformat=generic",
-      "category": "market"
-    },
-    {
-      "title": "13 Years Later, Kevin James' Divisive Comedy Franchise Brings Back OG Star",
-      "description": "Kevin James' divisive comedy franchise is coming back after 13 years, and this time an original star from the franchise is joining the crew.",
-      "url": "https://screenrant.com/kevin-james-grown-ups-3-jake-goldberg-character-return/",
-      "source": "Screen Rant",
-      "date": "2026-08-30",
-      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/08/kevin-james.jpg?w=1600&h=900&fit=crop",
-      "category": "market"
-    },
-    {
-      "title": "\u2018When It\u2019s Your Turn, It\u2019s Your Turn\u2019: George Middlebrook Talks \u2018Beauty In Black,\u2019 Betting On Himself & His 15-Year Journey [Exclusive]",
-      "description": "For George Middlebrook, landing a growing role on one of Netflix\u2019s global hits isn\u2019t an overnight success story. It\u2019s the result of more than 15 years spent preparing for an opportunity he believed would eventually arrive. Middlebrook stars as Officer Trackso\u2026",
-      "url": "https://bossip.com/4624127/george-middlebrook-beauty-in-black-exclusive/",
-      "source": "Bossip",
-      "date": "2026-08-30",
-      "image": "https://bossip.com/wp-content/uploads/sites/28/2026/08/178810919785.jpg?quality=80&strip=all&crop=0px%2C18px%2C682px%2C390px&resize=1680%2C960",
-      "category": "market"
-    },
-    {
-      "title": "Bentley Awards Finalists Signal AI Shift in Infrastructure - MyChesCo",
-      "description": "EXTON, PA \u2014 Bentley Systems, Incorporated (Nasdaq: BSY) selected 36 projects as finalists for its 2026 Year in Infrastructure Awards, with two-thirds reporting some use of artificial intelligence as engineering \u2026",
-      "url": "https://www.mychesco.com/a/news/business/bentley-awards-finalists-signal-ai-shift-in-infrastructure/",
-      "source": "Mychesco.com",
-      "date": "2026-08-30",
-      "image": "https://www.mychesco.com/wp-content/uploads/2023/09/Bentley-Systems.jpg",
+      "title": "Global Market: AI could force central banks to rethink monetary policy",
+      "description": "Artificial intelligence could fundamentally reshape financial markets and force central banks to rethink monetary policy communication and regulation, according to Princeton economist Markus Brunnermeier. He warned that AI-powered trading systems could anticipate policy decisions faster than humans,",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-ai-could-force-central-banks-to-rethink-monetary-policy/articleshow/133673598.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-09-01",
+      "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "Crockett suggests she won\u2019t campaign with Talarico, will focus \u2018down ballot\u2019",
-      "description": "Rep. Jasmine Crockett (D-Texas) said she will focus on \u201ccampaigning down ballot\u201d in Texas, suggesting that she won\u2019t campaign with Democratic Senate nominee James Talarico after he defeated her in the party\u2019s primary. \u201cWe\u2019ve seen the turnout that you can prod\u2026",
-      "url": "https://freerepublic.com/focus/f-chat/4393682/posts",
-      "source": "Freerepublic.com",
-      "date": "2026-08-30",
+      "title": "HDFC Bank\u2019s bonds fall to record low after CEO\u2019s shock exit",
+      "description": "HDFC Bank\u2019s newly issued dollar bonds fell to record lows as CEO Sashidhar Jagdishan\u2019s unexpected exit intensified investor concerns over leadership succession and governance. The bank\u2019s shares have also underperformed the broader market, though analysts say its fundamental creditworthiness remains ",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/hdfc-banks-bonds-fall-to-record-low-after-ceos-shock-exit/articleshow/133673229.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-09-01",
+      "image": "",
+      "category": "currency"
+    },
+    {
+      "title": "US Treasury selloff pushes India 10-year bond yield towards 7%",
+      "description": "Indian government bonds experienced a sharp decline, pushing yields higher. U.S. Treasury yields rose significantly due to escalating geopolitical risks. High oil prices are fueling inflation concerns and tighter monetary policy expectations. India's strong economic growth adds to potential monetary",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/us-treasury-selloff-pushes-india-10-year-bond-yield-towards-7/articleshow/133672835.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-09-01",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Priority Jewels IPO Day 2: Issue book over 15 times so far, GMP signals 23% listing gain. Should you subscribe?",
+      "description": "Priority Jewels IPO has attracted strong demand on Day 2, with the issue subscribed 15.61 times. The IPO is also commanding a 23% grey market premium, signalling potential listing gains. With the issue fully priced at 20.5x FY26 P/E, Anand Rathi has recommend\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/priority-jewels-ipo-day-2-issue-book-over-15-times-so-far-gmp-signals-23-listing-gain-should-you-subscribe/articleshow/133646567.cms",
+      "source": "The Times of India",
+      "date": "2026-08-31",
+      "image": "https://img.etimg.com/thumb/msid-133646709,width-1200,height-630,imgsize-2241903,overlay-etmarkets/articleshow.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Gold price prediction today: Where are gold prices headed? Check outlook for August 31, 2026 week",
+      "description": "Gold price prediction today: The medium-term case for investment in gold remains intact, despite recent fall in prices, says Manav Modi, Senior Analyst, Commodity Research at Motilal Oswal Financial Services Ltd.",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-what-is-the-gold-rate-outlook-for-august-31-2026-week-should-you-buy-or-sell-mcx-gold-us-iran-war-middle-east/articleshow/133645041.cms",
+      "source": "The Times of India",
+      "date": "2026-08-31",
+      "image": "https://static.toiimg.com/thumb/msid-133645143,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "Get It On And Bang A Gong With The New Piaget Polo Minute Repeater",
+      "description": "Let\u2019s put the volume that the new Piaget Polo Minute Repeater produces into perspective. Most traditional repeater watches don\u2019t exceed 60 decibels (dB). They make a sound you can compare to a whispered conversation. Now, normal conversation averages around 6\u2026",
+      "url": "https://www.fratellowatches.com/bang-a-gong-with-the-new-piaget-polo-minute-repeater/",
+      "source": "Fratellowatches.com",
+      "date": "2026-08-31",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/PIAGET-POLO-MINUTE-REPEATER_G0A51038_16_1x1_embargo-until-31st-of-August-2026.jpg",
+      "category": "market"
+    },
+    {
+      "title": "you can sing a different song - Anonymous - Heated Rivalry (TV) [Archive of Our Own]",
+      "description": "Yuna Hollander has always loved hockey, from the first time her father sat her in front of a television screen to watch a game after dinner. It was the one thing she most looked forward to passing on to her own children, and she\u2019s grateful that Shane took to \u2026",
+      "url": "https://archiveofourown.org/works/88549011#main",
+      "source": "Archiveofourown.org",
+      "date": "2026-08-31",
       "image": null,
+      "category": "geopolitics"
+    },
+    {
+      "title": "Gold could hit $5,600, silver $120 by year-end in bull case: Monarch PMS",
+      "description": "Gold seen at $4,300-$4,700, silver at $70-$85 by year-end in base case, bull case pegs gold at $5,600, silver $120 by year-end",
+      "url": "https://www.business-standard.com/finance/personal-finance/gold-could-hit-5-600-silver-120-by-year-end-in-bull-case-monarch-pms-126083100231_1.html",
+      "source": "Business Standard",
+      "date": "2026-08-31",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-07/02/thumb/featurecrop/1200X628/1783011194-7452.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "Sensex, Nifty fall as US-Iran tensions, higher yields weigh on sentiment, HDFC Bank gains",
+      "description": "At 9.51 am, Sensex fell 350.88\u00a0points or 0.45% to 76,913.63, hitting a low of 76,869.59. Nifty 50 depreciated 140.25 points or 0.58% to 24,035.40",
+      "url": "https://www.thehindubusinessline.com/markets/indian-stock-market-today-sensex-nifty-fall-as-us-iran-tensions-higher-yields-weigh-hdfc-bank-lead-gains/article71409653.ece",
+      "source": "BusinessLine",
+      "date": "2026-08-31",
+      "image": "https://bl-i.thgim.com/public/incoming/4plgpo/article71407161.ece/alternates/LANDSCAPE_1200/2026-08-26T053652Z_1833093264_RC256NAUKTC2_RTRMADP_3_GAJA-ALTERNATIVE-ASSET-LISTING.JPG",
+      "category": "geopolitics"
+    },
+    {
+      "title": "WA in midst of gold rush, exploration figures show",
+      "description": "A Kalgoorlie-based drilling company involved in some of Australia's biggest recent gold discoveries is experiencing \"unprecedented demand\" amid an ongoing boom in mineral exploration.",
+      "url": "https://www.abc.net.au/news/2026-08-31/gold-price-drives-mineral-exploration-boom/107039256",
+      "source": "ABC News (AU)",
+      "date": "2026-08-31",
+      "image": "https://live-production.wcms.abc-cdn.net.au/a4e21a312303f83b9274a38043ad48c8?impolicy=wcms_watermark_news&cropH=2422&cropW=4305&xPos=0&yPos=822&width=862&height=485&imformat=generic",
+      "category": "supply_demand"
+    },
+    {
+      "title": "UAE gold, silver prices fall as gold hits two-week low",
+      "description": "UAE gold and silver prices fall as dollar shifts and US rate expectations push gold to a two-week low, with 24K at Dh533 per gram and silver at Dh7.87 per gram",
+      "url": "https://www.emirates247.com/business/uae-gold-silver-prices-fall-as-gold-hits-two-week-low/5071",
+      "source": "Emirates 24|7",
+      "date": "2026-08-31",
+      "image": "https://api.emirates247.com/emirates247/uploads/images/2026/08/31/7799.webp",
+      "category": "currency"
+    },
+    {
+      "title": "Hallmarking silver jewellery may become mandatory from October",
+      "description": "The move aims to protect buyers from under-purity fraud, bringing silver jewellery under a mandatory BIS certification framework similar to gold.",
+      "url": "https://www.livemint.com/industry/silver-jewellery-hallmarking-rules-11788146965564.html",
+      "source": "Livemint",
+      "date": "2026-08-31",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/31/1600x900/logo/TurtleBracelet_2_1723287701780_1788162395987_3b322247-5b34-43fd-ac07-fda852c1ed21.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "Govt likely discussing import duty cut on gold and silver as high tariffs \u2018fail\u2019 to curb imports",
+      "description": "The government is discussing a possible cut in gold and silver import duties after the higher rates failed to reduce imports and instead contributed to a rise in the grey market, Gems & Jewellery Council chairman Rajesh Rokde told ET Online.",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/govt-likely-discussing-import-duty-cut-on-gold-and-silver-as-high-tariffs-fail-to-curb-imports/articleshow/133645802.cms",
+      "source": "The Times of India",
+      "date": "2026-08-31",
+      "image": "https://img.etimg.com/thumb/msid-133645874,width-1200,height-630,imgsize-96864,overlay-economictimes/articleshow.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Augmont Enterprises shares drop 2% after listing at 22% premium. Buy, sell or hold the stock?",
+      "description": "Augmont Enterprises made a strong stock market debut, listing at a 22% premium to its IPO price, but gains fell short of grey market expectations. With valuations considered rich, brokerages have offered mixed views, ranging from Neutral to Subscribe for Long\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/augmont-enterprises-shares-drop-2-after-listing-at-22-premium-buy-sell-or-hold-the-stock/articleshow/133644783.cms",
+      "source": "The Times of India",
+      "date": "2026-08-31",
+      "image": "https://img.etimg.com/thumb/msid-133644823,width-1200,height-630,imgsize-111330,overlay-etmarkets/articleshow.jpg",
       "category": "market"
     },
     {
-      "title": "Trump vows to report NBC anchor Kristen Welker to FCC over 'purposeful inaccuracy' on endorsements",
-      "description": "Trump announced on Truth Social that Kristen Welker will be reported to the FCC after she described his primary endorsement record as mixed results.",
-      "url": "https://www.foxnews.com/media/trump-vows-report-nbc-anchor-kristen-welker-fcc-over-purposeful-inaccuracy-endorsements",
-      "source": "Fox News",
-      "date": "2026-08-30",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/trump-hands-kristen-welker-1.png",
+      "title": "Hindustan Zinc, Vedanta, Nalco and other metal stocks slide up to 5%. Here's why",
+      "description": "Metal stocks tumbled up to 5% on Monday, with the Nifty Metal index falling over 2% amid a decline in metal prices and rising expectations of higher-for-longer US interest rates. Profit booking after the index\u2019s strong August rally also weighed on sentiment, \u2026",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-zinc-vedanta-nalco-and-other-metal-stocks-slide-up-to-5-heres-why/articleshow/133642626.cms",
+      "source": "The Times of India",
+      "date": "2026-08-31",
+      "image": "https://img.etimg.com/thumb/msid-133642664,width-1200,height-630,imgsize-2376108,overlay-etmarkets/articleshow.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Gold prices drop 9,500/10 gram in 4 days; silver down Rs 7,700/kg as US Fed rate hike bets increase. Buy, sell or hold?",
+      "description": "Gold and silver prices extended their losses for a fourth straight session on Monday as comments from US Fed Chair Kevin Warsh fuelled expectations of higher interest rates. Gold has declined \u20b99,500 over four sessions, while silver is down \u20b97,700 in three ses\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-drop-9500/10-gram-in-4-days-silver-down-rs-7700/kg-as-us-fed-rate-hike-bets-increase-buy-sell-or-hold/articleshow/133641818.cms",
+      "source": "The Times of India",
+      "date": "2026-08-31",
+      "image": "https://img.etimg.com/thumb/msid-133641895,width-1200,height-630,imgsize-2278169,overlay-etmarkets/articleshow.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Gold today: Prices drop to near two-week low on Fed chief's hawkish stance",
+      "description": "Gold prices hit a near two-week low amid Fed Chair's hawkish comments on potential interest rate hikes to combat inflation.",
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-today-prices-drop-to-near-two-week-low-on-fed-chiefs-hawkish-stance/article71409610.ece",
+      "source": "BusinessLine",
+      "date": "2026-08-31",
+      "image": "https://bl-i.thgim.com/public/incoming/gdt4fy/article71409625.ece/alternates/LANDSCAPE_1200/PO09_Gold_bars.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Compact HMD Asha 305 Pro leaks with removable battery and four upgrades",
+      "description": "With the compact Asha 305 Pro, HMD Global is set to unveil a very affordable smartphone that combines a 5-inch display with a removable battery and a 3.5 mm headphone jack. The Pro model is expected to receive four upgrades.",
+      "url": "https://www.notebookcheck.net/Compact-HMD-Asha-305-Pro-leaks-with-removable-battery-and-four-upgrades.1383591.0.html",
+      "source": "Notebookcheck.net",
+      "date": "2026-08-31",
+      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/HMD-Asha-305-Pro.jpeg",
       "category": "market"
     },
     {
-      "title": "\u00c8k\u00edm\u00f2g\u00fan Leicester launches in UK, seeks stronger diaspora role in Ondo\u2019s economic growth",
-      "description": "\u00c8k\u00edm\u00f2g\u00fan Leicester launches in the UK to strengthen the Ondo diaspora\u2019s role in the state\u2019s economic growth through investment, expertise, and partnerships\n\nRead More: https://punchng.com/ekimogun-leicester-launches-in-uk-seeks-stronger-diaspora-role-in-ondos\u2026",
-      "url": "https://punchng.com/ekimogun-leicester-launches-in-uk-seeks-stronger-diaspora-role-in-ondos-economic-growth/",
-      "source": "The Punch",
-      "date": "2026-08-30",
-      "image": "https://cdn.punchng.com/wp-content/uploads/2026/08/30200739/eki_1788116859.webp",
+      "title": "Victoria Beckham Posts First Operating Profit on Back of Double-Digit Sales Growth",
+      "description": "Operating profit at the fashion and beauty company reached 7.3 million pounds in fiscal 2025, compared with a 1.6 million pounds loss in the previous year.",
+      "url": "https://wwd.com/business-news/business-features/victoria-beckham-first-operating-profit-double-digit-growth-1239175456/",
+      "source": "WWD",
+      "date": "2026-08-31",
+      "image": "https://s.yimg.com/lo/mysterio/api/61d4bc3048ad05daaf9af1f57a258c6afb038d2e771183985ab17a616053bcac/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwwd_409%2F68fed1575a4fe12f5e4ae6d43af2d69d.jpg",
       "category": "market"
     },
     {
-      "title": "Economists expect August job rebound to let the Fed zero in on inflation",
-      "description": "A job rebound could shift the Fed's focus solely to inflation, potentially leading to tighter monetary policy and impacting bond markets.\nThe post Economists expect August job rebound to let the Fed zero in on inflation appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/economists-job-growth-federal-reserve-inflation/",
+      "title": "Lianlian DigiTech Reports Strong H1 2026 Results",
+      "description": "Lianlian DigiTech Co., Ltd. (HKEX: 2598) (&quot;Lianlian DigiTech&quot; or the &quot;Company&quot;), a leading AI-driven digital payment service provider ...",
+      "url": "https://en.antaranews.com/news/429125/lianlian-digitech-reports-strong-h1-2026-results",
+      "source": "Antaranews.com",
+      "date": "2026-08-31",
+      "image": "https://cdn.antaranews.com/cache/1200x800/2026/08/31/lianlian-t.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Pakistan: 6-7 countries eye Mecca Defense Agreement amid Israel-Iran conflict",
+      "description": "The potential expansion of the Mecca Defense Agreement could reshape regional security dynamics and influence Gulf stability and oil markets.\nThe post Pakistan: 6-7 countries eye Mecca Defense Agreement amid Israel-Iran conflict appeared first on Crypto Brief\u2026",
+      "url": "https://cryptobriefing.com/pakistan-6-7-countries-eye-mecca-defense-agreement-amid-israel-iran-conflict/",
       "source": "Crypto Briefing",
-      "date": "2026-08-30",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/30145005/library-economists-expect-august-job-rebound-to-let-the-fed-zero-800x450.png",
-      "category": "central_bank"
+      "date": "2026-08-31",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/31044741/images-show-u-s-patriot-missiles-deployed-for-muslim-hajj-pi-1-800x420.jpeg",
+      "category": "geopolitics"
     },
     {
-      "title": "Crypto Fear and Greed Index Surges Into Greed: Is Bitcoin\u2019s Rally Just Getting Started?",
-      "description": "Crypto sentiment has flipped remarkably quickly. The Crypto Fear and Greed Index has jumped to 72, firmly inside \u201cGreed,\u201d as Bitcoin trades around $80,000 after...\nThe post Crypto Fear and Greed Index Surges Into Greed: Is Bitcoin\u2019s Rally Just Getting Started\u2026",
-      "url": "https://bitcoinfoundation.org/news/bitcoin/crypto-greed-bitcoin-rally/",
-      "source": "Bitcoinfoundation.org",
-      "date": "2026-08-30",
-      "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/08/greed-1.webp",
+      "title": "Xi, Modi and Putin set to meet for SCO summit: What\u2019s on the agenda?",
+      "description": "The two-day summit aims to promote a vision of a multipolar world and mutual trade ties amid Trump's unilateralism.",
+      "url": "https://www.aljazeera.com/news/2026/8/31/xi-modi-and-putin-set-to-meet-for-sco-summit-whats-on-the-agenda",
+      "source": "Al Jazeera English",
+      "date": "2026-08-31",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26242518749418-1788166752.jpg?resize=1920%2C1440",
       "category": "market"
     },
     {
-      "title": "Trump\u2019s answer to bad press? \u201cFCC TO THE RESCUE!\u201d",
-      "description": "The president again called for federal intervention against news coverage, journalists and commentary he dislikes",
-      "url": "https://www.salon.com/2026/08/30/trumps-answer-to-bad-press-fcc-to-the-rescue/",
-      "source": "Salon",
-      "date": "2026-08-30",
-      "image": "https://www.salon.com/app/uploads/2026/08/GettyImages-2185634376.jpg",
+      "title": "Partners Group faces \u20ac6B debt refinancing challenge as share price slides 24%",
+      "description": "Partners Group's debt refinancing and redemption challenges could strain investor confidence, impacting future fundraising and market stability.\nThe post Partners Group faces \u20ac6B debt refinancing challenge as share price slides 24% appeared first on Crypto Br\u2026",
+      "url": "https://cryptobriefing.com/partners-group-6b-debt-refinancing-challenge/",
+      "source": "Crypto Briefing",
+      "date": "2026-08-31",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/31044655/library-partners-group-faces-6b-debt-refinancing-challenge-as-sh-800x450.png",
+      "category": "market"
+    },
+    {
+      "title": "The House is back in session. Many Republicans hope it won't be for long.",
+      "description": "If lawmakers can pass a shutdown-averting stopgap, many are hoping to beat an early retreat to the campaign trail.",
+      "url": "https://www.yahoo.com/news/politics/articles/house-back-session-many-republicans-084500583.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-08-31",
+      "image": "https://s.yimg.com/lo/mysterio/api/065d6420b45a9121e68a072e8ee5b0f86cbdd2838284d7939534283c5c0f3996/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2Fd3469610-2535-4ef9-b632-94f810854886",
+      "category": "market"
+    },
+    {
+      "title": "US Stock Market: Barclays turns hawkish on Fed, sees two rate hikes in 2026",
+      "description": "Barclays has turned more hawkish on the US Federal Reserve, now expecting two 25-basis-point rate hikes in 2026. The brokerage sees increases in September and December, reversing its earlier call for unchanged rates. The shift follows hawkish remarks from Fed\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-barclays-turns-hawkish-on-fed-sees-two-rate-hikes-in-2026/articleshow/133647487.cms",
+      "source": "The Times of India",
+      "date": "2026-08-31",
+      "image": "https://img.etimg.com/thumb/msid-133647519,width-1200,height-630,imgsize-118790,overlay-etmarkets/articleshow.jpg",
       "category": "central_bank"
+    },
+    {
+      "title": "Nikkei Nearly Erases 1,500-Point Drop as TOPIX Extends Winning Streak",
+      "description": "Tokyo stocks ended mixed on August 31, with the Nikkei 225 closing at 66,311.93, down 93.63 points, or 0.14%, after briefly plunging more than 1,500 points in early trading, while the broader TOPIX rose 9.58 points, or 0.23%, to 4,156.29 for its eighth straig\u2026",
+      "url": "https://newsonjapan.com/article/150570.php",
+      "source": "Newsonjapan.com",
+      "date": "2026-08-31",
+      "image": "https://i2.ytimg.com/vi/L89KHilbMfo/maxresdefault.jpg",
+      "category": "market"
+    },
+    {
+      "title": "As Pell grants expand, students see openings to afford short-term job training",
+      "description": "Colleges around the country are seeking approval for a new federal grant program, Workforce Pell, to aid students enrolled for short-term job training",
+      "url": "https://abcnews.com/Business/wireStory/pell-grants-expand-students-openings-afford-short-term-136080102",
+      "source": "Abcnews.com",
+      "date": "2026-08-31",
+      "image": "https://i.abcnewsfe.com/a/d2ac53dd-b982-477d-b8e4-c5c0a83bc190/wirestory_3733afe438bcfb403203dbe2b5db61ac_16x9.jpg?w=1600",
+      "category": "central_bank"
+    },
+    {
+      "title": "Benchmarks trade with limited losses; European shares open lower",
+      "description": "The key equity barometers traded with limited losses in afternoon trade amid renewed US-Iran tensions that pushed crude oil prices higher and kept investors in a risk-off mood. Brent crude rose above the $90-per-barrel mark, raising concerns over inflation an\u2026",
+      "url": "https://www.business-standard.com/markets/capital-market-news/benchmarks-trade-with-limited-losses-european-shares-open-lower-126083100565_1.html",
+      "source": "Business Standard",
+      "date": "2026-08-31",
+      "image": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "One Nation commits to coal-fired power and lifting nuclear ban in Victoria",
+      "description": "One Nation leader Pauline Hanson and state leader Warren Pickering travelled to the Latrobe Valley to announce the party's Victorian energy policy.",
+      "url": "https://www.abc.net.au/news/2026-08-31/one-nation-victoria-energy-policy-announcement/107097686",
+      "source": "ABC News (AU)",
+      "date": "2026-08-31",
+      "image": "https://live-production.wcms.abc-cdn.net.au/b18b949cb50a70160da5b31fdac7d0ec?impolicy=wcms_watermark_news&cropH=2615&cropW=4649&xPos=176&yPos=0&width=862&height=485&imformat=generic",
+      "category": "geopolitics"
     }
   ],
   "history": [
@@ -474,9 +474,19 @@
       "gold_usd_oz": 4341.91,
       "silver_usd_oz": 63.6,
       "platinum_usd_oz": 1750.12
+    },
+    {
+      "date": "2026-09-01",
+      "week": "2026-W36",
+      "gold_10g": 133906.57,
+      "silver_kg": 198691.71,
+      "platinum_g": 5422.19,
+      "gold_usd_oz": 4374.52,
+      "silver_usd_oz": 64.91,
+      "platinum_usd_oz": 1771.35
     }
   ],
-  "timestamp": "2026-09-01T00:42:44.571288+05:30",
+  "timestamp": "2026-09-01T14:18:21.008243+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
