@@ -1,24 +1,24 @@
 {
   "prices": {
     "gold": {
-      "price_per_gram_inr": 13215.12,
-      "price_usd_oz": 4326.48,
-      "change_percent": -0.06,
-      "change_value_usd": -2.58,
-      "price_per_10g_inr": 132151.18
+      "price_per_gram_inr": 13366.51,
+      "price_usd_oz": 4376.05,
+      "change_percent": 1.09,
+      "change_value_usd": 46.99,
+      "price_per_10g_inr": 133665.12
     },
     "silver": {
-      "price_per_gram_inr": 196.02,
-      "price_usd_oz": 64.17,
-      "change_percent": 0.14,
-      "change_value_usd": 0.09,
-      "price_per_kg_inr": 196020.6
+      "price_per_gram_inr": 199.84,
+      "price_usd_oz": 65.42,
+      "change_percent": 2.09,
+      "change_value_usd": 1.34,
+      "price_per_kg_inr": 199835.63
     },
     "platinum": {
-      "price_per_gram_inr": 5295.6,
-      "price_usd_oz": 1733.72,
-      "change_percent": -0.63,
-      "change_value_usd": -11.02
+      "price_per_gram_inr": 5408.76,
+      "price_usd_oz": 1770.77,
+      "change_percent": 1.49,
+      "change_value_usd": 26.03
     },
     "currencies": {
       "USD_INR": 95.0047,
@@ -30,8 +30,8 @@
       "CAD_INR": 68.393,
       "SGD_INR": 74.6306
     },
-    "gold_silver_ratio": 67.42,
-    "timestamp": "2026-09-02T11:33:35.504576",
+    "gold_silver_ratio": 66.89,
+    "timestamp": "2026-09-02T13:46:04.296496",
     "source": "GoldAPI"
   },
   "currencies": {
@@ -49,12 +49,12 @@
       "metal": "gold",
       "recommendation": "BUY",
       "confidence": {
-        "buy": 56,
-        "sell": 15,
-        "hold": 29
+        "buy": 65,
+        "sell": 10,
+        "hold": 25
       },
-      "summary": "Gold is showing positive signals. Slight decline of -0.1%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-09-02T11:33:41.517682",
+      "summary": "Gold is showing positive signals. Strong daily gain of 1.1%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
+      "timestamp": "2026-09-02T13:46:11.981073",
       "source": "rule-based"
     },
     "silver": {
@@ -65,20 +65,20 @@
         "sell": 10,
         "hold": 25
       },
-      "summary": "Silver is showing positive signals. Positive daily movement of 0.1%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-09-02T11:33:41.604979",
+      "summary": "Silver is showing positive signals. Strong daily gain of 2.1%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
+      "timestamp": "2026-09-02T13:46:12.072591",
       "source": "rule-based"
     },
     "platinum": {
       "metal": "platinum",
       "recommendation": "BUY",
       "confidence": {
-        "buy": 56,
-        "sell": 15,
-        "hold": 29
+        "buy": 65,
+        "sell": 10,
+        "hold": 25
       },
-      "summary": "Platinum is showing positive signals. Slight decline of -0.6%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-09-02T11:33:41.714610",
+      "summary": "Platinum is showing positive signals. Strong daily gain of 1.5%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
+      "timestamp": "2026-09-02T13:46:12.156297",
       "source": "rule-based"
     }
   },
@@ -90,13 +90,13 @@
         "Price above 4-week moving average (bullish)",
         "Price above 12-week moving average (bullish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Strong momentum: +4.7% in 4 weeks"
+        "Strong momentum: +5.9% in 4 weeks"
       ],
       "support": 124137.93,
       "resistance": 140736.5,
-      "current_price": 132151.18,
-      "ma_short": 128879.43,
-      "ma_long": 131262.77,
+      "current_price": 133665.12,
+      "ma_short": 129257.91,
+      "ma_long": 131452.01,
       "trend_score": 2.0
     },
     "silver": {
@@ -106,62 +106,62 @@
         "Price above 4-week moving average (bullish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Strong momentum: +7.9% in 4 weeks"
+        "Strong momentum: +10.0% in 4 weeks"
       ],
       "support": 176726.94,
       "resistance": 243170.57,
-      "current_price": 196020.6,
-      "ma_short": 187290.82,
-      "ma_long": 200177.1,
+      "current_price": 199835.63,
+      "ma_short": 188244.58,
+      "ma_long": 200653.98,
       "trend_score": 0.0
     },
     "platinum": {
-      "trend": "neutral",
-      "strength": 50,
+      "trend": "bullish",
+      "strength": 75,
       "signals": [
         "Price above 4-week moving average (bullish)",
-        "Price below 12-week moving average (bearish)",
+        "Price above 12-week moving average (bullish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Strong momentum: +6.7% in 4 weeks"
+        "Strong momentum: +9.0% in 4 weeks"
       ],
       "support": 4961.56,
       "resistance": 6206.5,
-      "current_price": 5295.6,
-      "ma_short": 5169.18,
-      "ma_long": 5348.23,
-      "trend_score": 0.0
+      "current_price": 5408.76,
+      "ma_short": 5197.48,
+      "ma_long": 5362.38,
+      "trend_score": 2.0
     }
   },
   "news": [
     {
-      "title": "Bitcoin slips under $77K after August rally as macro pressures mount. Here is what expert say",
-      "description": "Bitcoin fell below $77,000 as rising oil prices, bond yields and geopolitical tensions pressured crypto markets after August\u2019s rally. Ethereum and major altcoins also declined, while analysts highlighted key support levels, cautious positioning and volatility risks in September.",
-      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-slips-under-77k-after-august-rally-as-macro-pressures-mount-here-is-what-expert-say/articleshow/133706703.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-09-02",
-      "image": "",
-      "category": "geopolitics"
-    },
-    {
-      "title": "RBI backstop keeps Indian rupee stable, blunting importer dollar demand impact",
-      "description": "The Indian rupee showed little movement on Wednesday, hovering in a narrow range. Support from the Reserve Bank of India helped mitigate the growing dollar demand from importers. The fluctuations in oil prices and Treasury yields also played a role in the currency's stability. Experts predict the ru",
-      "url": "https://economictimes.indiatimes.com/markets/forex/rbi-backstop-keeps-indian-rupee-stable-blunting-importer-dollar-demand-impact/articleshow/133706609.cms",
+      "title": "Indian bonds join global debt selloff, bruised by oil and US Treasury yields",
+      "description": "Indian government bonds faced further declines for the fifth consecutive session as U.S. Treasury yields approached three-year peaks. The surge in oil prices reignited inflation concerns, particularly impacting India due to its status as a major importer. This scenario intensified expectations for m",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-join-global-debt-selloff-bruised-by-oil-and-us-treasury-yields/articleshow/133710114.cms",
       "source": "Economic Times Markets",
       "date": "2026-09-02",
       "image": "",
       "category": "central_bank"
     },
     {
-      "title": "Global Market: European shares hover near one-month low as bond yields, oil prices surge",
-      "description": "European shares hovered near a one-month low on Wednesday as rising government bond yields and escalating US-Iran tensions fuelled concerns over higher energy prices and inflation. The STOXX 600 was broadly flat, while Germany\u2019s 10-year bond yield hit its highest level since April 2011, raising expe",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-european-shares-hover-near-one-month-low-as-bond-yields-oil-prices-surge/articleshow/133705634.cms",
+      "title": "Quote of the day by Bernard Baruch: \"Not even the \u201csafest\u201d investment is without some risk and some element of speculation\"",
+      "description": "Bernard Baruch\u2019s investing wisdom highlights that no asset is completely risk-free. Even conservative investments face inflation, interest-rate and credit risks. Investors should understand these uncertainties, assess risk-reward trade-offs and use diversification while aligning portfolios with fina",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/quote-of-the-day-by-bernard-baruch-not-even-the-safest-investment-is-without-some-risk-and-some-element-of-speculation/articleshow/133708675.cms",
       "source": "Economic Times Markets",
       "date": "2026-09-02",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "Research Grant Program on Precious Metals in Japan - fundsforNGOs",
+      "title": "Live Gold Prices | Gold News And Analysis | Mining News | KITCO - kitco.com",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiOkFVX3lxTE1MSHpVaXo3MDFUeWJjUmJ0NlB6NkktRGxIcDBqMW1vaVlSc3pUbmJ6OTl3cUgzTHUtemc?oc=5\" target=\"_blank\">Live Gold Prices | Gold News And Analysis | Mining News | KITCO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kitco.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1MSHpVaXo3MDFUeWJjUmJ0NlB6NkktRGxIcDBqMW1vaVlSc3pUbmJ6OTl3cUgzTHUtemc?oc=5",
+      "source": "Google News - Precious Metals",
+      "date": "2026-09-02",
+      "image": "",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Research Grant Program on Precious Metals in Japan - fundsforngos.org",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOSm9SQ3JfOW05bTI1TmFOclV0WFNfcU9EcV9naDg1NF93bzI1Rl8xM3NnWF9VY1lOSUJ6SDV1cHcyLVkxMkx6MlY0bnFFR3VQRGtUSzVpUDRMeFZNbE9GSjZZUUxfWXZtWGZDQjZvMXk5UGJId09wNF9xNllRa3IwbHdoeGFpQlUxakVCOTNwM2tST1M3Nk9tREVHc1_SAZwBQVVfeXFMTkpvUkNyXzltOW0yNU5hTnJVdF",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSm9SQ3JfOW05bTI1TmFOclV0WFNfcU9EcV9naDg1NF93bzI1Rl8xM3NnWF9VY1lOSUJ6SDV1cHcyLVkxMkx6MlY0bnFFR3VQRGtUSzVpUDRMeFZNbE9GSjZZUUxfWXZtWGZDQjZvMXk5UGJId09wNF9xNllRa3IwbHdoeGFpQlUxakVCOTNwM2tST1M3Nk9tREVHc1_SAZwBQVVfeXFMTkpvUkNyXzltOW0yNU5hTnJVdFhTX3FPRHFfZ2g4NTRfd28yNUZfMTNzZ1hfVWNZTklCekg1dXB3Mi1ZMTJMejJWNG5xRUd1UERrVEs1aVA0THhWTWxPRko2WVFMX1l2bVhmQ0I2bzF5OVBiSHdPcDRfcTZZUWtyMGx3aHhhaUJVMWpFQjkzcDNrUk9TNzZPbURFR3Nf?oc=5",
       "source": "Google News - Precious Metals",
@@ -170,22 +170,85 @@
       "category": "metals"
     },
     {
-      "title": "Streamex Corp. Appoints Laura Kiernan as Head of Investor Relations",
-      "description": "Award-winning Capital Markets Executive to Lead Investor Strategy and Shareholder Engagement WINTER PARK, Fla., Sept. 01, 2026 (GLOBE NEWSWIRE) \u2014 Streamex Corp. (\u201cStreamex\u201d or the \u201cCompany\u201d) (NASDAQ: STEX), a technology company building the future of the comm\u2026",
-      "url": "https://financialpost.com/globe-newswire/streamex-corp-appoints-laura-kiernan-as-head-of-investor-relations",
-      "source": "Financial Post",
+      "title": "50 Most Anticipated TV Shows of Fall 2026",
+      "description": "From Netflix\u2019s latest \u201cMonster\u201d and \u201cCupertino\u201d on CBS, to Prime Video\u2019s \u201cCarrie\u201d and \u201cEast of Eden\u201d on Netflix\nThe post 50 Most Anticipated TV Shows of Fall 2026 appeared first on TheWrap.",
+      "url": "https://www.thewrap.com/creative-content/tv-shows/new-tv-shows-fall-2026/",
+      "source": "TheWrap",
       "date": "2026-09-01",
-      "image": null,
-      "category": "geopolitics"
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/08/monster-ella-beatty-cupertino-mike-colter-east-of-eden-florence-pugh.jpg",
+      "category": "market"
     },
     {
-      "title": "Remember Elon Musk\u2019s warning that America will \u20181,000%\u2019 go bankrupt? Well, US debt just soared through $40T",
-      "description": "\u201cWe\u2019re actually totally screwed.\u201d",
-      "url": "https://finance.yahoo.com/economy/policy/articles/remember-elon-musk-warning-america-111500338.html",
+      "title": "The new Brickbuilder Partner Network tiers for ISVs and Data Providers are here",
+      "description": "* Brickbuilder Partner Network tiers are live for ISV partners and data providers. A four-tier program (Bronze, Silver, Gold, Platinum) that recognizes partners as they invest more deeply in joint customer success.\r\n* Placement is earned across five pillars (\u2026",
+      "url": "https://www.databricks.com/blog/new-brickbuilder-partner-network-tiers-isvs-and-data-providers-are-here",
+      "source": "Databricks.com",
+      "date": "2026-09-01",
+      "image": "https://www.databricks.com/sites/default/files/blog_images/the-new-brickbuilder-partner-network-tiers-for-blog-img-og.png",
+      "category": "platinum"
+    },
+    {
+      "title": "Bitcoin and ethereum prices today, Tuesday, September 1, 2026: Crypto prices falling as inflation concerns persist",
+      "description": "Bitcoin opened at $78,559.11 on Tuesday, September 1, 2026, up 1.1% from Monday's open. As of 8:19 a.m. ET, bitcoin fell to $77,945.97. Ethereum opened at $2...",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-september-1-2026-crypto-prices-falling-as-inflation-concerns-persist-123554224.html",
       "source": "Yahoo Entertainment",
       "date": "2026-09-01",
-      "image": "https://s.yimg.com/lo/mysterio/api/bcd2093e3e8c24610dedc1f9a89b2b0d2604527ff1e4df8cb38022bb05aa8f39/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2Fd9f8a9f1b0d773f6cb5e95c0238674e9.jpg",
-      "category": "geopolitics"
+      "image": "https://s.yimg.com/lo/mysterio/api/a17e080591b1ec8e35e235ab121c719ae8030cca3aaf6f8e6eaecb157afaa909/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fethereum_%2520_bitcoin_2_2928.jpg",
+      "category": "inflation"
+    },
+    {
+      "title": "India\u2019s current account deficit widens to $4.2 billion in Q1 FY27",
+      "description": "India's current account deficit grew to $4.2 billion in the first quarter of 2026-27. A wider merchandise trade deficit significantly impacted this widening balance of payments. Stronger services receipts and higher transfers partially offset the increased tr\u2026",
+      "url": "https://economictimes.indiatimes.com/news/economy/finance/indias-current-account-deficit-widens-to-4-2-billion-in-q1-fy27/articleshow/133681412.cms",
+      "source": "The Times of India",
+      "date": "2026-09-01",
+      "image": "https://img.etimg.com/thumb/msid-133681554,width-1200,height-630,imgsize-197574,overlay-economictimes/articleshow.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Gold prices dip as US rate hike expectations grow",
+      "description": "A stronger dollar could diminish gold's investment appeal, affecting global markets and investor strategies amid economic shifts.\nThe post Gold prices dip as US rate hike expectations grow appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/gold-prices-dip-as-us-rate-hike-expectations-grow/",
+      "source": "Crypto Briefing",
+      "date": "2026-09-01",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/01081720/library-gold-prices-dip-as-us-rate-hike-expectations-grow-1-800x450.png",
+      "category": "central_bank"
+    },
+    {
+      "title": "Gold prices today, Tuesday, September 1, 2026: Gold moves lower as rate-hike expectations grow",
+      "description": "Gold (GC=F) December futures opened at $4,498.70 per troy ounce on Tuesday, September 1, 2026, up 0.4% from Monday's closing price. The price of gold is down...",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-september-1-2026-gold-moves-lower-as-rate-hike-expectations-grow-120810063.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-09-01",
+      "image": "https://s.yimg.com/lo/mysterio/api/d8535668fc821c8cbb0f94bbee34423f4e7910216511576dd61ad9681ca2a54f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Ftuesday.png",
+      "category": "metals"
+    },
+    {
+      "title": "Seoul\u2019s Paradise City Is an Unexpected Art Destination",
+      "description": "Observer visited this unusual cultural destination during Seoul Art Week, taking a tour of the complex and its impressive art collection.",
+      "url": "https://observer.com/2026/09/paradise-city-seoul-art-travel-chun/",
+      "source": "Observer",
+      "date": "2026-09-01",
+      "image": "https://observer.com/wp-content/uploads/sites/2/2024/09/1535646164006-e1788276158841.jpg?quality=80",
+      "category": "market"
+    },
+    {
+      "title": "Silver Miners ETF Outperforms Gold Fund, but Carries Double Risk",
+      "description": "The Global X-Silver Miners ETF (NYSEMKT:SIL) provides leveraged-like exposure to silver through mining companies, whereas the Goldman Sachs Physical Gold ETF (NYSEMKT:AAAU) offers direct access to the spot price of physical gold.\nThese two funds allow investo\u2026",
+      "url": "https://biztoc.com/x/a0fb8dac33ed6c7e",
+      "source": "Biztoc.com",
+      "date": "2026-09-01",
+      "image": "https://biztoc.com/cdn/a0fb8dac33ed6c7e_s.webp",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Aya Gold & Silver to Acquire Copper-Silver Portfolio",
+      "description": "Adding 139 km\u00b2 Land Package Near Zgounder MONTREAL, Sept. 01, 2026 (GLOBE NEWSWIRE) \u2014 Aya Gold & Silver Inc.\u00a0(TSX: AYA; NASDAQ: AYA) (\u201cAya\u201d or the \u201cCompany\u201d) is pleased to announce that it has entered into an agreement to acquire a 139 square kilometers (\u201ckm\u00b2\u2026",
+      "url": "https://financialpost.com/globe-newswire/aya-gold-silver-to-acquire-copper-silver-portfolio",
+      "source": "Financial Post",
+      "date": "2026-09-01",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/09/figure-1.png",
+      "category": "metals"
     },
     {
       "title": "A 'small' $5M: Bobbi Althoff asked Mark Cuban to buy her a house. His answer shows why homeownership is out of reach",
@@ -204,51 +267,6 @@
       "date": "2026-09-01",
       "image": "https://bl-i.thgim.com/public/incoming/oet1zt/article71018310.ece/alternates/LANDSCAPE_1200/stock%20market%20graph.jpg",
       "category": "geopolitics"
-    },
-    {
-      "title": "Rich young Americans have already ditched stocks for alternative assets. Should you?",
-      "description": "Millennials and Gen Z don't invest the same way their parents did.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/rich-young-americans-already-ditched-090500306.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-09-01",
-      "image": "https://s.yimg.com/lo/mysterio/api/77502a710ec16432ca12f785bae21d587ebe6628c902cdaeac888f83ed411033/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2F47d8a9b6960fdccce5e08abc7eb1d618.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Cathie Wood\u2019s Ark Invest Loads Up on Block and Circle in $40.8 Million Buying Spree",
-      "description": "Ark Invest bought more shares of Block Inc. and Circle Internet Group during its latest round of trading as Cathie Wood\u2019s investment firm continues to...\nThe post Cathie Wood\u2019s Ark Invest Loads Up on Block and Circle in $40.8 Million Buying Spree appeared fir\u2026",
-      "url": "https://bitcoinfoundation.org/news/trading/cathie-woods-ark-invest-loads-up-on-block-and-circle-in-40-8-million-buying-spree/",
-      "source": "Bitcoinfoundation.org",
-      "date": "2026-09-01",
-      "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/Cathie-Woods-Ark-Invest-Loads-Up-on-Block-and-Circle-in-40.8-Million-Buying-Spree-2.webp",
-      "category": "market"
-    },
-    {
-      "title": "Why your first Rs 25 lakh investment is a major wealth-creation milestone",
-      "description": "Reaching the Rs 25 lakh milestone signifies a transformative moment in wealth creation for young investors. It indicates that accumulated capital is now playing a crucial role in enhancing portfolio growth, alongside new savings. With market downturns having \u2026",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/why-your-first-rs-25-lakh-investment-is-a-major-wealth-creation-milestone/articleshow/133671309.cms",
-      "source": "The Times of India",
-      "date": "2026-09-01",
-      "image": "https://img.etimg.com/thumb/msid-133671650,width-1200,height-630,imgsize-389077,overlay-etmarkets/articleshow.jpg",
-      "category": "market"
-    },
-    {
-      "title": "'It was crazy': Family left homeless after losing tenancy",
-      "description": "When Aisling Dekker's HAP tenancy fell through, she found herself entering homeless accommodation with her two children.",
-      "url": "https://www.rte.ie/news/ireland/2026/0901/1589901-hap-depaul-dublin/",
-      "source": "RTE",
-      "date": "2026-09-01",
-      "image": "https://www.rte.ie/images/0024ee8d-1600.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Aya Gold & Silver to Acquire Copper-Silver Portfolio",
-      "description": "Adding 139 km\u00b2 Land Package Near Zgounder MONTREAL, Sept. 01, 2026 (GLOBE NEWSWIRE) \u2014 Aya Gold & Silver Inc.\u00a0(TSX: AYA; NASDAQ: AYA) (\u201cAya\u201d or the \u201cCompany\u201d) is pleased to announce that it has entered into an agreement to acquire a 139 square kilometers (\u201ckm\u00b2\u2026",
-      "url": "https://financialpost.com/globe-newswire/aya-gold-silver-to-acquire-copper-silver-portfolio",
-      "source": "Financial Post",
-      "date": "2026-09-01",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/09/figure-1.png",
-      "category": "metals"
     },
     {
       "title": "Sunshine Silver Mining & Refining Appoints Mike Patterson as Vice President of Investor Relations and Corporate Development",
@@ -287,121 +305,103 @@
       "category": "metals"
     },
     {
-      "title": "What does it mean when a woman wears chain on her leg?",
-      "description": "What Does a Leg Chain Really Signify? Decoding the Symbolism The meaning behind a woman wearing a leg chain is complex and multifaceted, varying from a simple fashion statement and expression of personal style to a symbol of rebellion, sensuality, or even cul\u2026",
-      "url": "https://www.lifesciencesworld.com/what-does-it-mean-when-a-woman-wears-chain-on-her-leg/",
-      "source": "Lifesciencesworld.com",
+      "title": "Schools in Edmonton and across Canada cancel international field trips",
+      "description": "Edmonton Public Schools has cancelled all international excursions for the upcoming school year, which is part of a trend that's seen thousands of students across Canada have school trip plans cancelled or tweaked.",
+      "url": "https://www.cbc.ca/news/canada/edmonton/school-trips-9.7327709",
+      "source": "CBC News",
       "date": "2026-09-01",
-      "image": null,
+      "image": "https://i.cbc.ca/ais/9be3738c-2ac8-4c52-916b-c2472e3fe885,1788267090064/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C206%2C4452%2C2504%29%3BResize%3D620",
       "category": "market"
     },
     {
-      "title": "Integrated Strategic Partners Announces Four New Senior Consultants",
-      "description": "Four appointments deepen ISP\u2019s bench as the fastest growing government relations firm in the country EDMONTON, Alberta, Sept. 01, 2026 (GLOBE NEWSWIRE) \u2014 Integrated Strategic Partners (ISP) today announced the appointment of four new Senior Consultants and on\u2026",
-      "url": "https://financialpost.com/globe-newswire/integrated-strategic-partners-announces-four-new-senior-consultants",
-      "source": "Financial Post",
+      "title": "Why Going Global Isn\u2019t Always the Right Call",
+      "description": "Global, Domestic, or Hybrid: What's Right for Your Supply Chain?\nGlobal sourcing has offered advantages in cost, scale, and supplier capabilities. But rising uncertainty, transportation disruption, inventory pressure, and changing customer expectations are fo\u2026",
+      "url": "https://biztoc.com/x/fda345ae3f8e08e2",
+      "source": "Biztoc.com",
       "date": "2026-09-01",
-      "image": null,
+      "image": "https://biztoc.com/cdn/fda345ae3f8e08e2_s.webp",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Big Brother confirms start date for 2026 series \u2013 and it\u2019s just days away",
+      "description": "AJ Odudu and Will Best are back to host, while Kate Lawler and GK Barry will front the Sunday-to-Thursday companion show straight after.\nThe post Big Brother confirms start date for 2026 series \u2013 and it\u2019s just days away appeared first on PinkNews | Latest les\u2026",
+      "url": "https://www.thepinknews.com/2026/09/01/big-brother-2026-start-date/",
+      "source": "Thepinknews.com",
+      "date": "2026-09-01",
+      "image": "https://www.thepinknews.com/wp-content/uploads/2026/09/big-brother-2026-start-date.jpg",
       "category": "market"
     },
     {
-      "title": "China and the U.S. Offer Competing Showcases of Global Power - The New York Times",
-      "description": "China and the U.S. Offer Competing Showcases of Global PowerThe New York Times...",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185345242",
-      "source": "Slashdot.org",
+      "title": "Air India\u2019s adds new city to Easy Connect operations: Ahmedabad is up and running",
+      "description": "Air India is the pioneer attempting to make the Government of India's \"Hub and Spoke\" strategy work. The first flight departed from Ahmedabad today. Here is how the upcoming expansion of the project will work.",
+      "url": "https://livefromalounge.com/air-indias-ahmedabad-easy-connect-operations/",
+      "source": "Livefromalounge.com",
       "date": "2026-09-01",
-      "image": null,
+      "image": "https://livefromalounge.com/wp-content/uploads/2026/07/Air-India-Hub-And-Spoke.jpg",
       "category": "market"
     },
     {
-      "title": "Global bond yields soar to multi-decade highs as Middle East turmoil reignites inflation fears - cnbc.com",
-      "description": "Global bond yields soar to multi-decade highs as Middle East turmoil reignites inflation fearscnbc.com Global Bond Sell-Off Puts Investors on EdgeThe New York Times Morning Bid: The dog days are overReuters Stock Market Today: Bond Yields Heat Up, Stock Futur\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185345238",
-      "source": "Slashdot.org",
+      "title": "Rising sea threat comes closer home as UN flags millions in Kolkata, Mumbai at risk",
+      "description": "A United Nations report highlights millions in Kolkata and Mumbai face immediate risk of losing homes.  Rising sea levels threaten coastal infrastructure and water systems, impacting human rights.  South Asian cities face significant human displacement, unlik\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/rising-sea-threat-comes-closer-home-as-un-flags-millions-in-kolkata-mumbai-at-risk/articleshow/133682928.cms",
+      "source": "The Times of India",
       "date": "2026-09-01",
-      "image": null,
-      "category": "inflation"
+      "image": "https://img.etimg.com/thumb/msid-133683211,width-1200,height-630,imgsize-307314,overlay-economictimes/articleshow.jpg",
+      "category": "market"
     },
     {
-      "title": "Global bond yields rise to highest level in two decades as oil prices and inflation fears rattle markets",
-      "description": "Rising global bond yields could shift investment from stocks to bonds, impacting capital flows and potentially destabilizing financial markets.\nThe post Global bond yields rise to highest level in two decades as oil prices and inflation fears rattle markets a\u2026",
-      "url": "https://cryptobriefing.com/global-bond-yields-two-decade-high/",
+      "title": "In 1996, Endeavour released a coffee-table-size package that inflated into a 46-foot antenna; the tennis-court-size structure worked for several hours in space",
+      "description": "In 1996, NASA's Endeavour shuttle achieved a significant milestone by launching an inflatable antenna experiment that expanded to the dimensions of a tennis court. This innovative apparatus was part of a mission that also included critical instruments to repa\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/us/in-1996-endeavour-released-a-coffee-table-size-package-that-inflated-into-a-46-foot-antenna-the-tennis-court-size-structure-worked-for-several-hours-in-space/articleshow/133672217.cms",
+      "source": "The Times of India",
+      "date": "2026-09-01",
+      "image": "https://img.etimg.com/thumb/msid-133672488,width-1200,height-630,imgsize-208478,overlay-economictimes/articleshow.jpg",
+      "category": "market"
+    },
+    {
+      "title": "3D Cloud 3D Visual CPQ Workflows Now Available to New Customers",
+      "description": "Major enhancement to the 3D Cloud platform adds enterprise 3D Visual Configure, Price and Quote workflows across the 3D Cloud application portfolio. ST. PETERSBURG, Fla., Sept. 1, 2026 /PRNewswire/ -- 3D Cloud today announced that 3D Visual Configure, Price a\u2026",
+      "url": "https://www.prnewswire.com/news-releases/3d-cloud-3d-visual-cpq-workflows-now-available-to-new-customers-302866300.html",
+      "source": "PRNewswire",
+      "date": "2026-09-01",
+      "image": "https://i.ytimg.com/vi/T9Eajl7kpwk/hqdefault.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Dow, S&P 500 and Nasdaq open lower as September kicks off with oil spike and yield jitters",
+      "description": "Market volatility may increase as rising oil prices and high yields fuel economic uncertainty, impacting investor confidence and decision-making.\nThe post Dow, S&P 500 and Nasdaq open lower as September kicks off with oil spike and yield jitters appeared firs\u2026",
+      "url": "https://cryptobriefing.com/dow-sp500-nasdaq-open-lower-september/",
       "source": "Crypto Briefing",
       "date": "2026-09-01",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/01073130/library-global-bond-yields-rise-to-highest-level-in-two-decades--800x450.png",
-      "category": "inflation"
-    },
-    {
-      "title": "Orion Digital to Participate in H.C. Wainwright\u2019s 28th Annual Global Investment Conference",
-      "description": "VANCOUVER, British Columbia \u2014 Orion Digital Corp. (NASDAQ: ORIO; TSX: ORIO) (\u201cOrion Digital\u201d or the \u201cCompany\u201d) today announced that Greg Feller, President & Co-founder, will be participating in the H.C. Wainwright 28th Annual Global Investment Conference on S\u2026",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/orion-digital-to-participate-in-h-c-wainwrights-28th-annual-global-investment-conference",
-      "source": "Financial Post",
-      "date": "2026-09-01",
-      "image": null,
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/01093952/library-dow-s-p-500-and-nasdaq-open-lower-as-september-kicks-off-800x450.png",
       "category": "market"
     },
     {
-      "title": "Here\u2019s Why We\u2019ve Been Seeing So Much Food-Borne Illness",
-      "description": "This story was originally published by\u00a0Vox\u00a0and\u00a0is reproduced here as part of the\u00a0Climate Desk\u00a0collaboration. Summer is supposed to be the best time for fresh produce. Corn on the cob at the cookout. Berries plucked right from the vine. Salads on the cafe pati\u2026",
-      "url": "https://www.motherjones.com/politics/2026/09/why-so-much-food-borne-illness-this-year-cyclospora-salmonella-listeria-e-coli-outbreaks-safe-eat/",
-      "source": "Mother Jones",
+      "title": "Stocks slip as 10-year treasury yield hits highest level since January 2025: AlphaCheck",
+      "description": "Stocks slipped in early trading on Tuesday as long dated bond yields rose and speculation of a rate hike this year grew.",
+      "url": "https://finance.yahoo.com/markets/article/stocks-slip-as-10-year-treasury-yield-hits-highest-level-since-january-2025-alphacheck-134150677.html",
+      "source": "Yahoo Entertainment",
       "date": "2026-09-01",
-      "image": "https://www.motherjones.com/wp-content/uploads/2026/08/GettyImages-2290352463.jpg?w=1200&h=630&crop=1",
+      "image": "https://s.yimg.com/lo/mysterio/api/7b14a9328d85f57f279f8140aaaf6bd525c4ee5f42191b885d11546367dcb70e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F5aec0958-d959-45f4-a64b-325d520b62e6",
+      "category": "central_bank"
+    },
+    {
+      "title": "Solar Power Leaps Key Cost Barrier As Coal And Gas Sidelined (Shocker!)",
+      "description": "A new report on the cost of solar power indicates that clean power can beat coal and gas for the 74 members of the Climate Vulnerable Forum, with some interesting implications for the growth of the US solar manufacturing sector.\nThe post Solar Power Leaps Key\u2026",
+      "url": "https://cleantechnica.com/2026/09/01/solar-power-cost-distributed-aligned-climate-capital-fund-us/",
+      "source": "CleanTechnica",
+      "date": "2026-09-01",
+      "image": "https://cleantechnica.com/wp-content/uploads/2026/09/distributed-solar-power-aligned.jpg",
       "category": "market"
     },
     {
-      "title": "THE NEW 2027 LEXUS NX: ADVANCING HYBRID & PLUG-IN PERFORMANCE, REFINED DESIGN, AND ELEVATED IN-CABIN EXPERIENCE",
-      "description": "Lexus NX Will Now Be 100% Electrified With a Choice of Hybrid Electric Vehicle (HEV) or Plug-in Hybrid Electric Vehicle (PHEV) Powertrains The NX Lineup is Planned to Include Four Grade Choices in Either Powertrain: Premium, Premium+, F SPORT and Luxury NX PH\u2026",
-      "url": "https://www.prnewswire.com/news-releases/the-new-2027-lexus-nx-advancing-hybrid--plug-in-performance-refined-design-and-elevated-in-cabin-experience-302865665.html",
-      "source": "PRNewswire",
+      "title": "US Treasury Secretary Bessent claims 1.6M daily barrel oil increase since Trump took office",
+      "description": "Discrepancies in US oil production claims could impact market expectations and OPEC+ strategies, highlighting the need for data scrutiny.\nThe post US Treasury Secretary Bessent claims 1.6M daily barrel oil increase since Trump took office appeared first on Cr\u2026",
+      "url": "https://cryptobriefing.com/bessent-oil-production-increase-trump/",
+      "source": "Crypto Briefing",
       "date": "2026-09-01",
-      "image": "https://mmx.prnewswire.com/media/MS1979008/LEXUS-2027_Lexus_NX350h_AWD_HERO.jpg?id=OA2921880&p=facebook",
-      "category": "market"
-    },
-    {
-      "title": "Brain Aneurysm Foundation Marks Brain Aneurysm Awareness Month with National Research, Education and Community Initiatives",
-      "description": "20th Annual Research Grant Symposium in Louisville anchors month of activities as Foundation awards record $650,000 to advance brain aneurysm research HANOVER, Mass., Sept. 1, 2026 /PRNewswire/ -- The Brain Aneurysm Foundation (BAF), the leading advocacy orga\u2026",
-      "url": "https://www.prnewswire.com/news-releases/brain-aneurysm-foundation-marks-brain-aneurysm-awareness-month-with-national-research-education-and-community-initiatives-302865719.html",
-      "source": "PRNewswire",
-      "date": "2026-09-01",
-      "image": "https://mmx.prnewswire.com/media/MS1978783/Brain-Aneurysm-Foundation-website_pressRelease26.jpg?id=OA2921398&p=facebook",
-      "category": "geopolitics"
-    },
-    {
-      "title": "30-year on worst stretch since '06...",
-      "description": "The yield on the 30-year bond hit 5.34% in mid-August, its most elevated since 2007 and just 10 basis points away from the highest level in 22 years.",
-      "url": "https://www.moneycontrol.com/news/business/us-30-year-bond-enters-september-on-its-worst-stretch-since-2006-14019385.html",
-      "source": "Moneycontrol",
-      "date": "2026-09-01",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260901015804_treasury.jpg",
-      "category": "market"
-    },
-    {
-      "title": "El Ni\u00f1o Could Bring a Wet, Wild Winter. How Can You \u2014 and Your Home \u2014 Be Ready?",
-      "description": "A powerful El Ni\u00f1o could bring flooding, high tides, and fierce storms. Here\u2019s how Bay Area residents can prepare.",
-      "url": "https://www.kqed.org/news/12097546/el-nino-could-bring-a-wet-wild-winter-how-can-you-and-your-home-be-ready",
-      "source": "KQED",
-      "date": "2026-09-01",
-      "image": "https://cdn.kqed.org/wp-content/uploads/sites/10/2026/08/022_KQED_StormSanFrancisco_01102023_qed.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Erik Visits an American Grave, Part 2,221",
-      "description": "This is the grave of John Collier. Born in 1884 in Atlanta, Collier grew up wealthy but lost both parents by the time he was 16, his mother from pneumonia and his father probably by suicide. Still, the family money remained and Collier got out of the South, g\u2026",
-      "url": "https://www.lawyersgunsmoneyblog.com/2026/09/erik-visits-an-american-grave-part-2220",
-      "source": "Lawyersgunsmoneyblog.com",
-      "date": "2026-09-01",
-      "image": "https://www.lawyersgunsmoneyblog.com/wp-content/uploads/2026/08/IMG_8056-scaled.jpeg",
-      "category": "market"
-    },
-    {
-      "title": "U.S. \u2018must balance other interests\u2019 in Nigeria, officials say as Christian persecution continues",
-      "description": "\u201cThere are solutions out there but the Nigerians have to solve this at the end of the day,\u201d said Tibor Nagy, a former assistant secretary of the Bureau of African Affairs at the State Department.",
-      "url": "https://www.ewtnnews.com/world/africa/u-s-must-balance-other-interests-in-nigeria-experts-say-as-christian-persecution-continues",
-      "source": "Ewtnnews.com",
-      "date": "2026-09-01",
-      "image": "https://res.cloudinary.com/ewtn/image/upload/c_fill,g_auto,w_1200,h_630/v1788217580/ewtn-news/en/NigeriaAttacks083126_vhdjuq.jpg",
-      "category": "market"
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/01093859/library-us-treasury-secretary-bessent-claims-1-6m-daily-barrel-o-800x450.png",
+      "category": "supply_demand"
     }
   ],
   "history": [
@@ -478,15 +478,15 @@
     {
       "date": "2026-09-02",
       "week": "2026-W36",
-      "gold_10g": 132151.18,
-      "silver_kg": 196020.6,
-      "platinum_g": 5295.6,
-      "gold_usd_oz": 4326.48,
-      "silver_usd_oz": 64.17,
-      "platinum_usd_oz": 1733.72
+      "gold_10g": 133665.12,
+      "silver_kg": 199835.63,
+      "platinum_g": 5408.76,
+      "gold_usd_oz": 4376.05,
+      "silver_usd_oz": 65.42,
+      "platinum_usd_oz": 1770.77
     }
   ],
-  "timestamp": "2026-09-02T17:03:41.723152+05:30",
+  "timestamp": "2026-09-02T19:16:12.169236+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
