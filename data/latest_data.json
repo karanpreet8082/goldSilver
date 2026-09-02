@@ -1,84 +1,84 @@
 {
   "prices": {
     "gold": {
-      "price_per_gram_inr": 13339.2,
-      "price_usd_oz": 4357.71,
-      "change_percent": -2.03,
-      "change_value_usd": -90.39,
-      "price_per_10g_inr": 133392.01
+      "price_per_gram_inr": 13207.44,
+      "price_usd_oz": 4323.97,
+      "change_percent": -0.12,
+      "change_value_usd": -5.09,
+      "price_per_10g_inr": 132074.36
     },
     "silver": {
-      "price_per_gram_inr": 198.95,
-      "price_usd_oz": 64.99,
-      "change_percent": -2.31,
-      "change_value_usd": -1.53,
-      "price_per_kg_inr": 198947.31
+      "price_per_gram_inr": 195.55,
+      "price_usd_oz": 64.02,
+      "change_percent": -0.1,
+      "change_value_usd": -0.07,
+      "price_per_kg_inr": 195553.26
     },
     "platinum": {
-      "price_per_gram_inr": 5408.74,
-      "price_usd_oz": 1766.95,
-      "change_percent": -1.7,
-      "change_value_usd": -30.47
+      "price_per_gram_inr": 5304.88,
+      "price_usd_oz": 1736.76,
+      "change_percent": -0.46,
+      "change_value_usd": -7.98
     },
     "currencies": {
-      "USD_INR": 95.2096,
-      "EUR_INR": 110.5289,
-      "GBP_INR": 128.9404,
-      "JPY_INR": 0.5958,
-      "CHF_INR": 117.7317,
-      "AUD_INR": 68.2017,
-      "CAD_INR": 68.6789,
-      "SGD_INR": 74.8621
+      "USD_INR": 95.0047,
+      "EUR_INR": 110.1504,
+      "GBP_INR": 128.4889,
+      "JPY_INR": 0.5934,
+      "CHF_INR": 117.1018,
+      "AUD_INR": 67.8993,
+      "CAD_INR": 68.393,
+      "SGD_INR": 74.6306
     },
-    "gold_silver_ratio": 67.05,
-    "timestamp": "2026-09-01T16:51:03.193147",
+    "gold_silver_ratio": 67.54,
+    "timestamp": "2026-09-02T08:01:33.799517",
     "source": "GoldAPI"
   },
   "currencies": {
-    "USD_INR": 95.2096,
-    "EUR_INR": 110.5289,
-    "GBP_INR": 128.9404,
-    "JPY_INR": 0.5958,
-    "CHF_INR": 117.7317,
-    "AUD_INR": 68.2017,
-    "CAD_INR": 68.6789,
-    "SGD_INR": 74.8621
+    "USD_INR": 95.0047,
+    "EUR_INR": 110.1504,
+    "GBP_INR": 128.4889,
+    "JPY_INR": 0.5934,
+    "CHF_INR": 117.1018,
+    "AUD_INR": 67.8993,
+    "CAD_INR": 68.393,
+    "SGD_INR": 74.6306
   },
   "analysis": {
     "gold": {
       "metal": "gold",
-      "recommendation": "HOLD",
+      "recommendation": "BUY",
       "confidence": {
-        "buy": 25,
-        "sell": 25,
-        "hold": 50
+        "buy": 56,
+        "sell": 15,
+        "hold": 29
       },
-      "summary": "Gold is showing positive signals. Significant daily drop of -2.0%. Technical indicators show bullish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-09-01T16:51:09.149889",
+      "summary": "Gold is showing positive signals. Slight decline of -0.1%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
+      "timestamp": "2026-09-02T08:01:40.387719",
       "source": "rule-based"
     },
     "silver": {
       "metal": "silver",
-      "recommendation": "HOLD",
+      "recommendation": "BUY",
       "confidence": {
-        "buy": 25,
-        "sell": 25,
-        "hold": 50
+        "buy": 56,
+        "sell": 15,
+        "hold": 29
       },
-      "summary": "Silver is showing positive signals. Significant daily drop of -2.3%. Technical indicators show bullish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-09-01T16:51:09.230929",
+      "summary": "Silver is showing positive signals. Slight decline of -0.1%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
+      "timestamp": "2026-09-02T08:01:40.471205",
       "source": "rule-based"
     },
     "platinum": {
       "metal": "platinum",
-      "recommendation": "HOLD",
+      "recommendation": "BUY",
       "confidence": {
-        "buy": 25,
-        "sell": 25,
-        "hold": 50
+        "buy": 56,
+        "sell": 15,
+        "hold": 29
       },
-      "summary": "Platinum is showing positive signals. Significant daily drop of -1.7%. Technical indicators show bullish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-09-01T16:51:09.322825",
+      "summary": "Platinum is showing positive signals. Slight decline of -0.5%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
+      "timestamp": "2026-09-02T08:01:40.542753",
       "source": "rule-based"
     }
   },
@@ -90,13 +90,13 @@
         "Price above 4-week moving average (bullish)",
         "Price above 12-week moving average (bullish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Strong momentum: +5.6% in 4 weeks"
+        "Strong momentum: +4.6% in 4 weeks"
       ],
       "support": 124137.93,
       "resistance": 140736.5,
-      "current_price": 133392.01,
-      "ma_short": 129189.64,
-      "ma_long": 131417.88,
+      "current_price": 132074.36,
+      "ma_short": 128860.22,
+      "ma_long": 131253.17,
       "trend_score": 2.0
     },
     "silver": {
@@ -106,302 +106,302 @@
         "Price above 4-week moving average (bullish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Strong momentum: +9.5% in 4 weeks"
+        "Strong momentum: +7.7% in 4 weeks"
       ],
       "support": 176726.94,
       "resistance": 243170.57,
-      "current_price": 198947.31,
-      "ma_short": 188022.5,
-      "ma_long": 200542.94,
+      "current_price": 195553.26,
+      "ma_short": 187173.99,
+      "ma_long": 200118.69,
       "trend_score": 0.0
     },
     "platinum": {
-      "trend": "bullish",
-      "strength": 75,
+      "trend": "neutral",
+      "strength": 50,
       "signals": [
         "Price above 4-week moving average (bullish)",
-        "Price above 12-week moving average (bullish)",
+        "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Strong momentum: +9.0% in 4 weeks"
+        "Strong momentum: +6.9% in 4 weeks"
       ],
       "support": 4961.56,
       "resistance": 6206.5,
-      "current_price": 5408.74,
-      "ma_short": 5197.47,
-      "ma_long": 5362.37,
-      "trend_score": 2.0
+      "current_price": 5304.88,
+      "ma_short": 5171.51,
+      "ma_long": 5349.39,
+      "trend_score": 0.0
     }
   },
   "news": [
     {
-      "title": "US Treasury bond yields ease from highs after data as Iran war escalation fans inflation concerns",
-      "description": "U.S. Treasury yields retreated from earlier highs on Tuesday after economic data emerged. The manufacturing PMI fell to 54.6 in August, while job openings rose slightly. Oil prices surged due to renewed Middle East conflict, reigniting inflation concerns globally. This led to a significant global bo",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-treasury-bond-yields-ease-from-highs-after-data-as-iran-war-escalation-fans-inflation-concerns/articleshow/133686615.cms",
+      "title": "Explained: How multi-decade high global bond yields spell caution for Indian stock market investors",
+      "description": "Global bond yields are surging as oil-driven inflation, rising debt, heavy AI borrowing and hawkish central-bank expectations unsettle markets. With US, Japanese and Indian yields climbing, the bond selloff is spilling into equities and emerging markets. For India, higher oil prices could add to imp",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/explained-how-multi-decade-high-global-bond-yields-spell-caution-for-indian-stock-market-investors/articleshow/133702453.cms",
       "source": "Economic Times Markets",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
+      "image": "",
+      "category": "central_bank"
+    },
+    {
+      "title": "US Stock Market: Higher long-term Treasury yields face structural headwinds",
+      "description": "Long-term US Treasury yields are likely to remain elevated as persistent inflation concerns, rising government and corporate debt issuance, and a shifting investor base put upward pressure on borrowing costs. The changing Treasury market dynamics could limit policymakers\u2019 ability to bring down long-",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stock-market-higher-long-term-treasury-yields-face-structural-headwinds/articleshow/133702242.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-09-02",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "Market Trading Guide: Acme Solar, BEML among 4 stock recommendations for Wednesday",
-      "description": "Indian markets stayed volatile but held above 24,000 as crude prices and geopolitical tensions weighed on sentiment. Analysts recommended KSB, City Union Bank, Acme Solar and BEML, citing bullish technical patterns, breakouts, improving momentum and key support levels.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-acme-solar-beml-among-4-stock-recommendations-for-wednesday/slideshow/133686279.cms",
+      "title": "Bigger market crash ahead? Analysts weigh how Sensex, Nifty may react if US 10-year bond yield touches 5%",
+      "description": "Global bond yields are hitting multi-year highs, with the US 10-year yield nearing 5% amid rising oil prices, inflation fears and concerns over government debt. Indian 10-year yields also crossed 7%, raising concerns about the impact of higher borrowing costs and shifting investor preference on equi",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/bigger-market-crash-ahead-analysts-weigh-how-sensex-nifty-may-react-if-us-10-year-bond-yield-touches-5/articleshow/133702065.cms",
       "source": "Economic Times Markets",
-      "date": "2026-09-01",
-      "image": "",
-      "category": "geopolitics"
-    },
-    {
-      "title": "US bond yields reflect 'flat to down' inflation expectations, stronger growth, Bessent says",
-      "description": "During a finance leaders' gathering in Asheville, US Treasury Secretary Scott Bessent emphasized the significance of recent economic indicators. He pointed out that current bond yields indicate a stable or declining expectation of inflation, while also signaling a robust acceleration in the growth o",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-bond-yields-reflect-flat-to-down-inflation-expectations-stronger-growth-bessent-says/articleshow/133684502.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "image": "",
       "category": "inflation"
     },
     {
-      "title": "US stocks today: Nasdaq crashes over 1% as bond selloff, oil rise fuel inflation anxiety",
-      "description": "Wall Street stocks fell as rising oil prices intensified inflation fears and pushed U.S. bond yields higher. The S&amp;P 500 dropped 0.7%, while the Dow Jones fell 0.6% and the Nasdaq slid 1.4%. A sell-off in U.S. government bonds added to pressure on equities.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-crashes-over-1-as-bond-selloff-oil-rise-fuel-inflation-anxiety/articleshow/133683554.cms",
-      "source": "Economic Times Markets",
+      "title": "Why your first Rs 25 lakh investment is a major wealth-creation milestone",
+      "description": "Reaching the Rs 25 lakh milestone signifies a transformative moment in wealth creation for young investors. It indicates that accumulated capital is now playing a crucial role in enhancing portfolio growth, alongside new savings. With market downturns having \u2026",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/why-your-first-rs-25-lakh-investment-is-a-major-wealth-creation-milestone/articleshow/133671309.cms",
+      "source": "The Times of India",
       "date": "2026-09-01",
-      "image": "",
-      "category": "inflation"
-    },
-    {
-      "title": "Dow Jones| Nasdaq | S&amp;P 500 | US Stock Market Today |Live Updates: Nasdaq falls over 1% as bond sell-off, rising oil fuel inflation fears",
-      "description": "",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-nvidia-intel-amd-robinhood-hut-8-exxon-mobil-devon-energy-stock-price-news-1st-september-2026/liveblog/133681169.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-09-01",
-      "image": "",
-      "category": "inflation"
-    },
-    {
-      "title": "The US is now buried in $40T of debt \u2014 but who\u2019s buying the IOUs right now? Here\u2019s the unsettling answer for Americans",
-      "description": "As America\u2019s debt pile grows, the buyers keeping Washington funded are changing.",
-      "url": "https://finance.yahoo.com/economy/policy/articles/us-now-buried-40t-debt-163000404.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-08-31",
-      "image": "https://s.yimg.com/lo/mysterio/api/6b0d9de5c13f213117d47ccde7259e4f30213418458afab4581af10b97df74d3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2Fed2c2f7726233a0909f263fd38099002.jpg",
+      "image": "https://img.etimg.com/thumb/msid-133671650,width-1200,height-630,imgsize-389077,overlay-etmarkets/articleshow.jpg",
       "category": "market"
     },
     {
-      "title": "How will the State's savings & investment account work?",
-      "description": "The initial details of a State-backed savings and investment scheme have been announced, writes David Murphy, with the Government hoping it will encourage more people to save their money.",
-      "url": "https://www.rte.ie/news/business/2026/0831/1589857-savings-investment-explainer/",
+      "title": "'It was crazy': Family left homeless after losing tenancy",
+      "description": "When Aisling Dekker's HAP tenancy fell through, she found herself entering homeless accommodation with her two children.",
+      "url": "https://www.rte.ie/news/ireland/2026/0901/1589901-hap-depaul-dublin/",
       "source": "RTE",
-      "date": "2026-08-31",
-      "image": "https://www.rte.ie/images/0024ee04-1600.jpg",
+      "date": "2026-09-01",
+      "image": "https://www.rte.ie/images/0024ee8d-1600.jpg",
       "category": "market"
     },
     {
-      "title": "Nvidia invests billions to expand AI empire across chips, data centers, and infrastructure",
-      "description": "Nvidia's aggressive investments could reshape the AI landscape, potentially centralizing power and influencing global tech infrastructure.\nThe post Nvidia invests billions to expand AI empire across chips, data centers, and infrastructure appeared first on Cr\u2026",
-      "url": "https://cryptobriefing.com/nvidia-billions-ai-empire-expansion/",
-      "source": "Crypto Briefing",
-      "date": "2026-08-31",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/31114846/library-nvidia-invests-billions-to-expand-ai-empire-across-chips-800x450.png",
+      "title": "Deepa Jewellers IPO: Growth & valuations lift long-term appeal, say experts",
+      "description": "Deepa Jewellers IPO also commands a healthy grey market premium (GMP), increasing its appeal for investors. That said, certain risks like weak margins and customer concentration linger.",
+      "url": "https://www.business-standard.com/markets/ipo/deepa-jewellers-ipo-gmp-at-31-growth-valuations-lift-long-term-appeal-say-experts-126090100358_1.html",
+      "source": "Business Standard",
+      "date": "2026-09-01",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-03/12/thumb/featurecrop/1200X628/1615493455-9518.jpg",
       "category": "market"
     },
     {
-      "title": "Pace of gold loan expansion slows as banks adjust to new regulations",
-      "description": "Bank gold loans grew significantly, though at a slower pace.  Personal loans also saw increased growth, driven by housing and vehicle financing.  New regulations adjusted loan-to-value ratios and repayment tenures for gold loans.  Housing and vehicle loans ex\u2026",
-      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/pace-of-gold-loan-expansion-slows-as-banks-adjust-to-new-regulations/articleshow/133665396.cms",
+      "title": "NFL keen for Australia game to become annual fixture in 'strategic' market",
+      "description": "MELBOURNE, Sept 1 : The National Football League (NFL) is looking to bring a game to Australia every season as part of its international strategy and sees the nation as a strategic growth market for American football, a senior executive told Reuters on Tuesda\u2026",
+      "url": "https://www.channelnewsasia.com/sport/nfl-keen-australia-game-become-annual-fixture-in-strategic-market-6354086",
+      "source": "CNA",
+      "date": "2026-09-01",
+      "image": "https://dam.mediacorp.sg/image/upload/s--_NX2ZDMD--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-01T055144Z_1_LYNXMPEM802FD_RTROPTP_3_FOOTBALL-NFL.JPG?itok=2TJieSm0",
+      "category": "market"
+    },
+    {
+      "title": "Unless necessary, do not buy gold, reiterates PM Modi on Instagram",
+      "description": "Prime Minister Narendra Modi has again urged Indians to avoid buying gold unless necessary, saying greater focus on local products and self-reliance can help India become a developed nation. India\u2019s gold imports hit a record $71.98 billion in FY26, up 24% fro\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/unless-necessary-do-not-buy-gold-reiterates-pm-modi-on-instagram/articleshow/133667732.cms",
       "source": "The Times of India",
-      "date": "2026-08-31",
-      "image": "https://img.etimg.com/thumb/msid-133657254,width-1200,height-630,imgsize-590945,overlay-etmarkets/articleshow.jpg",
+      "date": "2026-09-01",
+      "image": "https://img.etimg.com/thumb/msid-133667790,width-1200,height-630,imgsize-104482,overlay-economictimes/articleshow.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Why Pat McAfee On Monday Night Countdown Will Outshine Every Network\u2019s 2026 Football Moves",
+      "description": "\"With a potential $60 million-$65 million annual extension reportedly waiting in the wings, ESPN is clearly wanting to make a significant investment in his future. Whether you love McAfee, tolerate him or cannot stand him, there is little denying his ability \u2026",
+      "url": "https://barrettmedia.com/2026/09/01/pat-mcafee-monday-night-countdown-network-2026/",
+      "source": "Barrettmedia.com",
+      "date": "2026-09-01",
+      "image": "https://s.yimg.com/lo/mysterio/api/7cf2895682476aff1aa513036fbedada70888048d412260ca320291205b7a595/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarrett_media_699%2F9d384bd4e5cb9f6ff38f46c685bf00e6.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Priority Jewels IPO Day 3: GMP hints at 23% listing gain, issue subscribed 21 times. Should you subscribe?",
+      "description": "Priority Jewels IPO entered its final day of bidding with the issue subscribed 21.23 times on Day 2, led by strong retail and NII demand. The IPO is also commanding a 23% GMP, indicating expectations of a potentially healthy listing gain, while Anand Rathi ha\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/priority-jewels-ipo-day-3-gmp-hints-at-23-listing-gain-issue-subscribed-21-times-should-you-subscribe/articleshow/133667361.cms",
+      "source": "The Times of India",
+      "date": "2026-09-01",
+      "image": "https://img.etimg.com/thumb/msid-133667383,width-1200,height-630,imgsize-2270680,overlay-etmarkets/articleshow.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Resolute Mining Shares Rise 5 Percent as Analysts Call Gold Miner Undervalued After Profit Surge",
+      "description": "Resolute Mining's half-year profits more than doubled due to surging gold prices, despite production challenges. Analysts suggest the stock may still be undervalued, highlighting potential investment opportunities.",
+      "url": "https://www.ibtimes.com.au/resolute-mining-profits-soar-gold-prices-1874818",
+      "source": "Ibtimes.com.au",
+      "date": "2026-09-01",
+      "image": "https://d.ibtimes.com.au/en/full/1895955/resolute-mining-shares-rise-5-percent-analysts-call-gold.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "125 gold bars found at Bengal village woman\u2019s home, 7 kg gold in wax found in Mumbai: DRI seizes 42+ kg foreign-origin gold worth Rs 65 crore in a day",
+      "description": "DRI seized over 42kg of gold and 10kg of silver in nationwide operations. Twenty-five people, including five foreign nationals, were arrested during the crackdown. Smuggling networks allegedly used various methods, including body concealment and specially cre\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/125-gold-bars-found-at-bengal-village-womans-home-7-kg-gold-in-wax-found-in-mumbai-dri-seizes-42-kg-foreign-origin-gold-worth-rs-65-crore-in-a-day/articleshow/133671332.cms",
+      "source": "The Times of India",
+      "date": "2026-09-01",
+      "image": "https://img.etimg.com/thumb/msid-133671888,width-1200,height-630,imgsize-2625727,overlay-economictimes/articleshow.jpg",
       "category": "metals"
     },
     {
-      "title": "BIOTECanada Announces 2026 Gold Leaf Award Winners, Recognizing Excellence Across Canada\u2019s Biotechnology Ecosystem",
-      "description": "OTTAWA, Ontario \u2014 BIOTECanada, the national industry association representing Canada\u2019s biotechnology sector, is pleased to announce the winners of the 2026 Gold Leaf Awards, recognizing outstanding leadership, innovation and impact across Canadian biotech. Fo\u2026",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/biotecanada-announces-2026-gold-leaf-award-winners-recognizing-excellence-across-canadas-biotechnology-ecosystem",
-      "source": "Financial Post",
-      "date": "2026-08-31",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/08/bw20260831968907_goldleaf_logo_2026_final.jpeg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Muthoot Finance approves Muthoot Money merger to create larger gold loan business",
-      "description": "In a move to strengthen its market position, Muthoot Finance plans to incorporate Muthoot Money, its wholly-owned subsidiary, into its operations. This merger is designed to foster operational synergies and improve resource allocation. It is expected to strea\u2026",
-      "url": "https://economictimes.indiatimes.com/industry/banking/finance/muthoot-finance-approves-muthoot-money-merger-to-create-larger-gold-loan-business/articleshow/133665305.cms",
-      "source": "The Times of India",
-      "date": "2026-08-31",
-      "image": "https://img.etimg.com/thumb/msid-133655743,width-1200,height-630,imgsize-58372,overlay-etmarkets/articleshow.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "In 2010, Alaska Clean Harbors launched a statewide effort to curb harbor pollution. 15 years later, 11 harbors were engaged in the program, helping protect coastal waters",
-      "description": "Alaska Clean Harbors works with communities to prevent pollution and reduce waste. Four harbors achieved certification, and three are working towards it by November 2025. The program offers free technical assistance and resources to participating harbor staff\u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/us/science-in-2010-alaska-clean-harbors-launched-a-statewide-effort-to-curb-harbor-pollution-15-years-later-11-harbors-were-engaged-in-the-program-helping-protect-coastal-waters/articleshow/133654164.cms",
-      "source": "The Times of India",
-      "date": "2026-08-31",
-      "image": "https://img.etimg.com/thumb/msid-133655726,width-1200,height-630,imgsize-227502,overlay-economictimes/articleshow.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Q1 GDP print shows domestic momentum strong but global risks remain a concern: CEA Nageswaran",
-      "description": "India's domestic economic momentum remains strong in the near term, but uncertainties over global interest rates, energy supplies and food prices could weigh on growth going forward, India's Chief Economic Advisor, V Anantha Nageswaran said on Monday. He said\u2026",
-      "url": "https://economictimes.indiatimes.com/news/economy/indicators/q1-gdp-print-shows-domestic-momentum-strong-but-global-risks-remain-a-concern-cea-nageswaran/articleshow/133654926.cms",
-      "source": "The Times of India",
-      "date": "2026-08-31",
-      "image": "https://img.etimg.com/thumb/msid-133654925,width-1200,height-630,imgsize-112464,overlay-economictimes/articleshow.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Gold Price Fall Deepens After Warsh Inflation Speech, Renewed Iran Tensions",
-      "description": "The price of gold tumbled further Monday, falling from a 15-week high the metal reached last week.",
-      "url": "https://www.forbes.com/sites/conormurray/2026/08/31/gold-price-fall-deepens-after-warsh-inflation-speech-renewed-iran-tensions/",
-      "source": "Forbes",
-      "date": "2026-08-31",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a286fd6b6804423f63c5de5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Nevgold Files NI 43-101 Technical Report For Mineral Resource Estimate on the Limousine Butte Gold-Antimony Project, Nevada",
-      "description": "Vancouver, British Columbia, Aug. 31, 2026 (GLOBE NEWSWIRE) \u2014 NevGold Corp. (\u201cNevGold\u201d or the \u201cCompany\u201d) (TSXV:NAU) (OTCQX:NAUFF) (Frankfurt:5E50) is pleased to announce that it has filed a Technical Report on SEDAR+ supporting its maiden Mineral Resource Est\u2026",
-      "url": "https://financialpost.com/globe-newswire/nevgold-files-ni-43-101-technical-report-for-mineral-resource-estimate-on-the-limousine-butte-gold-antimony-project-nevada",
-      "source": "Financial Post",
-      "date": "2026-08-31",
+      "title": "What does it mean when a woman wears chain on her leg?",
+      "description": "What Does a Leg Chain Really Signify? Decoding the Symbolism The meaning behind a woman wearing a leg chain is complex and multifaceted, varying from a simple fashion statement and expression of personal style to a symbol of rebellion, sensuality, or even cul\u2026",
+      "url": "https://www.lifesciencesworld.com/what-does-it-mean-when-a-woman-wears-chain-on-her-leg/",
+      "source": "Lifesciencesworld.com",
+      "date": "2026-09-01",
       "image": null,
-      "category": "metals"
+      "category": "market"
     },
     {
-      "title": "Here Are Monday\u2019s Top Wall Street Analyst Research Calls: AGCO Corporation, Deere & Co., Edison International, Lumentum Holdings, PG&E, Sempra Energy, STAG Industrial, Ticketplus, and More",
-      "description": "Rate hike fears rattled markets heading into the Labor Day weekend, and Wall Street analysts responded with a flurry of bold calls on utilities, farm equipme...",
-      "url": "https://247wallst.com/investing/2026/08/31/here-are-mondays-top-wall-street-analyst-research-calls-agco-corporation-deere-co-edison-international-lumentum-holdings-pge-sempra-energy-stag-industrial-ticketplus-and-more/",
-      "source": "24/7 Wall St.",
-      "date": "2026-08-31",
-      "image": "https://s.yimg.com/lo/mysterio/api/fa58751f821fa525e722c4d6abf49e0d3f17e269da4c6b3c31d3405191b4a2f3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F4db12ae34e5f05cd9360d5607213d6b9.jpg",
+      "title": "ACG Metals Achieves First Copper Concentrate Production at Gediktepe",
+      "description": "LONDON, Sept. 1, 2026 /PRNewswire/ -- ACG is pleased to announce the production of first copper concentrate from its Gediktepe operation in T\u00fcrkiye on 31 August 2026. Please see the link to the latest video on the website: https://acgmetals.com/first-copper-c\u2026",
+      "url": "https://www.prnewswire.com/news-releases/acg-metals-achieves-first-copper-concentrate-production-at-gediktepe-302865373.html",
+      "source": "PRNewswire",
+      "date": "2026-09-01",
+      "image": null,
+      "category": "supply_demand"
+    },
+    {
+      "title": "Battle of metals: Gold or silver? What should investors choose as Warsh stokes rate hike fears?",
+      "description": "Gold and silver have rallied sharply, but renewed US rate hike fears following Fed Chief Kevin Warsh\u2019s Jackson Hole remarks have clouded the near-term outlook. While experts remain bullish on both metals, gold is preferred for stability and safe-haven demand,\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/battle-of-metals-gold-or-silver-what-should-investors-choose-as-warsh-stokes-rate-hike-fears/articleshow/133669988.cms",
+      "source": "The Times of India",
+      "date": "2026-09-01",
+      "image": "https://img.etimg.com/thumb/msid-133670188,width-1200,height-630,imgsize-2151650,overlay-etmarkets/articleshow.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Economic Digest: A Snapshot of Nepal\u2019s Business News",
+      "description": "KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. The developments highlight the broad economic and social consequences of the Bhote Koshi disaster while\u2026",
+      "url": "https://english.khabarhub.com/2026/01/565914/",
+      "source": "Khabarhub.com",
+      "date": "2026-09-01",
+      "image": "https://english.khabarhub.com/wp-content/uploads/2024/05/Economic-Digest.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Gold steadies as traders await US jobs data, monitor Mideast tensions",
+      "description": "Gold prices held steady as traders navigated heightened tensions in the Middle East and awaited pivotal labor data from the US. This economic data is expected to shape the market's forecast regarding Federal Reserve policy moves. With a 65% likelihood of a ra\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-steadies-as-traders-await-us-jobs-data-monitor-mideast-tensions/articleshow/133665925.cms",
+      "source": "The Times of India",
+      "date": "2026-09-01",
+      "image": "https://img.etimg.com/thumb/msid-133665963,width-1200,height-630,imgsize-296137,overlay-etmarkets/articleshow.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Sun Pharma signs US deal to offer 'most favoured nation' pricing on drugs",
+      "description": "Sun Pharmaceutical Industries on Tuesday announced it has entered into an agreement with the US government to prioritise access to affordable medicines for American patients.\nAs part of the agreement, signed during a ceremony at the White House, Mumbai-based \u2026",
+      "url": "https://www.business-standard.com/companies/news/sun-pharma-signs-us-deal-to-offer-most-favoured-nation-pricing-on-drugs-126090100257_1.html",
+      "source": "Business Standard",
+      "date": "2026-09-01",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-10/31/thumb/fitandfill/1200X628/1761903240-8152.JPG",
+      "category": "market"
+    },
+    {
+      "title": "German manufacturing activity improves further in August",
+      "description": "Germany's manufacturing sector activity advanced further in August, with the manufacturing Purchasing Managers' Index (PMI) at 54.3, up from 52.2 in July and hitting a 51-month high, S&P Global re...",
+      "url": "https://biztoc.com/x/00a859fc17e5a38c",
+      "source": "Biztoc.com",
+      "date": "2026-09-01",
+      "image": "https://biztoc.com/cdn/00a859fc17e5a38c_s.webp",
+      "category": "market"
+    },
+    {
+      "title": "Symposium on Visual Investigations: Best Practice in Collaboration and Community-led Approaches \u2013 Finding Illegal Settlements in Brazil \u2013 A New Toolkit in the Case of REVIDE \u2013 WITNESS\u2019 Project for Indigenous Communities in the North and Northeast of the Country",
+      "description": "[Natalie Hornos is a Program Manager at WITNESS with over 17 years of experience coordinating social impact, educommunicative, and investigative audiovisual projects across Brazil and Latin America. A specialist in community cinema, she holds a postgraduate d\u2026",
+      "url": "http://opiniojuris.org/2026/09/01/symposium-on-visual-investigations-best-practice-in-collaboration-and-community-led-approaches-finding-illegal-settlements-in-brazil/",
+      "source": "Opiniojuris.org",
+      "date": "2026-09-01",
+      "image": "https://i2.wp.com/opiniojuris.org/wp-content/uploads/blue-green-orange-abstract-technology-digital.jpg?fit=1200%2C800",
+      "category": "market"
+    },
+    {
+      "title": "Xiaomi\u2019s magnetic Bluetooth speaker is a phone stand, party light, and speaker all in one",
+      "description": "At $22, this tiny 95-gram gadget does a lot more than just play music",
+      "url": "https://www.intomobile.com/2026/09/01/xiaomis-magnetic-bluetooth-speaker-is-a-phone-stand-party-light-and-speaker-all-in-one/",
+      "source": "Intomobile.com",
+      "date": "2026-09-01",
+      "image": "https://www.intomobile.com/wp-content/uploads/2026/09/multisite_img_6a968612bd180.png",
+      "category": "market"
+    },
+    {
+      "title": "Hexaware Becomes Official Partner of Dublin Guardians Playing in the Inaugural European T20 Premier League Season",
+      "description": "Hexaware Becomes Official Partner of Dublin Guardians Playing in the Inaugural European T20 Premier League Season",
+      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/hexaware-becomes-official-partner-of-dublin-guardians-playing-in-the-inaugural-european-t20-premier-league-season/article71414229.ece",
+      "source": "BusinessLine",
+      "date": "2026-09-01",
+      "image": "https://bl-i.thgim.com/public/incoming/bfssv2/article71414228.ece/alternates/LANDSCAPE_1200/Hexaware-Logo.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "CODY RHODES ENLISTS MILLIONS OF GAMERS TO SEARCH FOR JOHN CENA IN CLASH OF CLANS AND WWE CROSSOVER",
+      "description": "Clash of Clans and WWE reunite for their second collaboration with six WWE Superstars reimagined as Clash of Clans characters, and a worldwide hunt for Cena's in-game village. Rhodes and Cena are long-time players of Clash of Clans \u2014 now Rhodes has enlisted W\u2026",
+      "url": "https://www.prnewswire.com/news-releases/cody-rhodes-enlists-millions-of-gamers-to-search-for-john-cena-in-clash-of-clans-and-wwe-crossover-302865315.html",
+      "source": "PRNewswire",
+      "date": "2026-09-01",
+      "image": "https://i.ytimg.com/vi/nwtpm9XUJVg/hqdefault.jpg",
+      "category": "market"
+    },
+    {
+      "title": "How eco-localism differs from tariff terrorism",
+      "description": "As soaring consumer prices, supply chain disruptions, and reductions in government-provided funding and services threaten communities, localists can help bolster local markets and inspire mutual aid efforts, helping mobilize folks to take more responsibility \u2026",
+      "url": "https://www.resilience.org/stories/2026-09-01/how-eco-localism-differs-from-tariff-terrorism/",
+      "source": "Resilience",
+      "date": "2026-09-01",
+      "image": "https://www.resilience.org/wp-content/uploads/2025/04/eco-localism-tariffs_feature.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "An Open Letter on the Music Rights Market",
+      "description": "Music rights are now an international asset class, priced by institutional capital. The question is no longer whether music is an asset. It is who holds the data to price [\u2026]\nThe post is from Music Ally.",
+      "url": "https://musically.com/2026/09/01/an-open-letter-on-the-music-rights-market/",
+      "source": "Music Ally",
+      "date": "2026-09-01",
+      "image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/roland-kluger-header.jpg?fit=1280%2C720&ssl=1",
+      "category": "market"
+    },
+    {
+      "title": "What the $18B Meta lawsuit could mean for TDSB families",
+      "description": "Meta just reached a settlement in the U.S. worth over $18 billion, in response to claims that its platforms are harmful to children. How might this landmark case affect the TDSB and other Ontario school boards lawsuits against the tech giant?",
+      "url": "https://www.cbc.ca/news/canada/toronto/meta-lawsuit-tdsb-parents-9.7326846",
+      "source": "CBC News",
+      "date": "2026-09-01",
+      "image": "https://i.cbc.ca/ais/1.4118963,1494985695000/full/max/0/default.jpg?im=Crop%2Crect%3D%28526%2C347%2C4906%2C2759%29%3BResize%3D620",
+      "category": "market"
+    },
+    {
+      "title": "Ensuring Code Compliance in Public Sector Software Projects",
+      "description": "The public sector handles sensitive citizen data, which is why software projects built with secure coding are imperative to deliver high trust levels. Code compliance with data protection laws, financial governance standards, and various regulations and polic\u2026",
+      "url": "https://blog.jetbrains.com/qodana/2026/09/ensuring-code-compliance/",
+      "source": "Jetbrains.com",
+      "date": "2026-09-01",
+      "image": "https://blog.jetbrains.com/wp-content/uploads/2026/09/QD-Twitter_Facebook_LinkedIn-1200x675-1.png",
+      "category": "geopolitics"
+    },
+    {
+      "title": "US Treasury selloff pushes India 10-year bond yield towards 7%",
+      "description": "Indian government bonds experienced a sharp decline, pushing yields higher. U.S. Treasury yields rose significantly due to escalating geopolitical risks. High oil prices are fueling inflation concerns and tighter monetary policy expectations. India's strong e\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/us-treasury-selloff-pushes-india-10-year-bond-yield-towards-7/articleshow/133672835.cms",
+      "source": "The Times of India",
+      "date": "2026-09-01",
+      "image": "https://img.etimg.com/thumb/msid-133672882,width-1200,height-630,imgsize-22206,overlay-etmarkets/articleshow.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Japanese borrowing costs hit 30-year high as Bessent says Tokyo may intervene to boost yen",
+      "description": "The yen weakened to 160 per dollar on Tuesday as bond yields came under pressure, as traders eyed the potential for Japan to hike interest rates.",
+      "url": "https://www.cnbc.com/2026/09/01/japan-bonds-yen-intervention-bessent.html",
+      "source": "CNBC",
+      "date": "2026-09-01",
+      "image": "https://image.cnbcfm.com/api/v1/image/108351731-1787161820270-gettyimages-2276286002-AFP_B36C6KH.jpeg?v=1787161848&w=1920&h=1080",
       "category": "central_bank"
     },
     {
-      "title": "Oh, Canada?",
-      "description": "\u201cCarney increasingly reminds me of Fauci. He has that exact same air of technocratic infallibility. . . .\u201d \u2014 Hans Mahncke on X",
-      "url": "https://www.kunstler.com/p/oh-canada",
-      "source": "Kunstler.com",
-      "date": "2026-08-31",
-      "image": "https://substackcdn.com/image/fetch/$s_!QuV7!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32302ece-cda7-40fb-8b92-56a967afec41_700x472.heic",
-      "category": "market"
-    },
-    {
-      "title": "Sensex today | Stock Market Highlights: Benchmark indices trade in the red in late session, Sensex down 307.24 points at 76,957.27",
-      "description": "Sensex, Nifty, Share Prices Highlights: The benchmark indices traded in the red ahead of the close on Monday. At 3.40 pm, the BSE Sensex was at 76,957.27, down 307.24 points or 0.40% lower. The Nifty 50 was at 24,080.40, down 95.25 points or 0.39% lower.",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-31st-august-2026/article71408208.ece",
-      "source": "BusinessLine",
-      "date": "2026-08-31",
-      "image": "https://bl-i.thgim.com/public/incoming/qhaujx/article71399191.ece/alternates/LANDSCAPE_1200/iStock-2260474979.jpg",
-      "category": "market"
-    },
-    {
-      "title": "\u2018I love the inflation!\u2019: Trump shrugs off rising prices \u2014 here\u2019s what you can do before inflation eats into your savings",
-      "description": "He claimed the U.S. has been quietly removing millions of barrels of oil from the market.",
-      "url": "https://finance.yahoo.com/economy/articles/love-inflation-trump-shrugs-off-103500495.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-08-31",
-      "image": "https://s.yimg.com/lo/mysterio/api/25fe1d064d8b827e2531e450c8bc80e796b3d229d3665740bbd0f67be999e989/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2F2a198d3c4cf9529b4bdd64c8c60cfd10.jpg",
-      "category": "inflation"
-    },
-    {
-      "title": "Blossom Gold Commences Drilling Program on the Kamma Claims, West of the Rosebud Open-Pit, Heap Leach Project",
-      "description": "TORONTO, Aug. 31, 2026 (GLOBE NEWSWIRE) \u2014 Blossom Gold Inc. (\u201cBlossom\u201d or the \u201cCompany\u201d) (TSX: BGAU) is pleased to announce that it has commenced reverse circulation (\u201cRC\u201d) drilling on the Company\u2019s Kamma Claims, located west of the Rosebud Project (\u201cRosebud\u201d\u2026",
-      "url": "https://financialpost.com/globe-newswire/blossom-gold-commences-drilling-program-on-the-kamma-claims-west-of-the-rosebud-open-pit-heap-leach-project",
-      "source": "Financial Post",
-      "date": "2026-08-31",
-      "image": null,
-      "category": "metals"
-    },
-    {
-      "title": "Two unidentified men die in separate incidents on Hubballi railway stretch",
-      "description": "Two unidentified men die in separate Hubballi railway incidents; police release identifying details and request public help via 0836-2364751, 9480802126.",
-      "url": "https://timesofindia.indiatimes.com/city/hubballi/two-unidentified-men-die-in-separate-incidents-on-hubballi-railway-stretch/articleshow/133658666.cms",
-      "source": "The Times of India",
-      "date": "2026-08-31",
-      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Iceland just friend-zoned the EU",
-      "description": "Icelandic voters chose market access without submission, showing that the bloc is not the only path between dependence and isolation Read Full Article at RT.com",
-      "url": "https://www.rt.com/news/644920-iceland-friendzoned-the-eu/",
-      "source": "RT",
-      "date": "2026-08-31",
-      "image": "https://mf.b37mrtl.ru/files/2026.08/article/6a959ac385f54056ba454f97.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Samudaya-50 disruption triggers political row; CPM, Bellad trade charges",
-      "description": "Left leaders and writers blame BJP-RSS activists for disturbing Dharwad event featuring Prakash Raj; BJP MLA accuses police of acting selectively against Hindu activists",
-      "url": "https://timesofindia.indiatimes.com/city/hubballi/samudaya-50-disruption-triggers-political-row-cpm-bellad-trade-charges/articleshow/133658663.cms",
-      "source": "The Times of India",
-      "date": "2026-08-31",
-      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "Foreign currency found in Nagavi Yellamma Temple hundi",
-      "description": "Collections touch Rs 16 lakh; Notes and coins from Korea, Canada, UAE, Singapore and the US recovered during counting of offerings made between Feb 22 and Aug 27",
-      "url": "https://timesofindia.indiatimes.com/city/hubballi/foreign-currency-found-in-nagavi-yellamma-temple-hundi/articleshow/133658661.cms",
-      "source": "The Times of India",
-      "date": "2026-08-31",
-      "image": "https://static.toiimg.com/thumb/msid-133658659,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "category": "currency"
-    },
-    {
-      "title": "Flyover stretches, road corridors set for makeover under PPP model",
-      "description": "Delhi govt signs PPP MoUs to revamp neglected flyover and road spaces, including Deepali\u2013Mangolpuri stretch and Mathura Road green belts with landscaping and murals.",
-      "url": "https://timesofindia.indiatimes.com/city/delhi/flyover-stretches-road-corridors-set-for-makeover-under-ppp-model/articleshow/133658658.cms",
-      "source": "The Times of India",
-      "date": "2026-08-31",
-      "image": "https://static.toiimg.com/thumb/msid-133658642,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Suvendu to hold dengue review meet today",
-      "description": "Bengal CM Suvendu Adhikari to review dengue and vector-borne diseases with health and civic officials as monsoon nears; August saw ~1,000 cases and 7 deaths.",
-      "url": "https://timesofindia.indiatimes.com/city/kolkata/suvendu-to-hold-dengue-review-meet-today/articleshow/133658654.cms",
-      "source": "The Times of India",
-      "date": "2026-08-31",
-      "image": "https://static.toiimg.com/thumb/msid-133658652,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Top Business & Market Headlines Today \u2014 BL Morning Report, September 01, 2026",
-      "description": "From the Centre summoning Meta over the temporary restriction of Prime Minister Narendra Modi\u2019s Facebook post and Maruti Suzuki expanding its Gujarat manufacturing capacity, to Sarvam AI unveiling plans for a trillion-parameter AI model and the government hig\u2026",
-      "url": "https://www.thehindubusinessline.com/multimedia/audio/top-business-market-headlines-today-bl-morning-report-september-1-2026/article71411566.ece",
-      "source": "BusinessLine",
-      "date": "2026-08-31",
-      "image": "https://bl-i.thgim.com/public/incoming/dzlj8l/article71134367.ece/alternates/LANDSCAPE_1200/Copy%20of%20BL%20Morning%20report%201920%20x%201080%20px.png",
-      "category": "market"
-    },
-    {
-      "title": "AI could could cause global economic downturn, Andrew Bailey warns G20",
-      "description": "The governor of the bank of England warned of AI's \u201cvolatility\u201d caused by energy shocks from the US-Iran war.",
-      "url": "https://www.bbc.co.uk/news/articles/c99dym3prl1o",
-      "source": "BBC News",
-      "date": "2026-08-31",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0b34/live/537541c0-a556-11f1-aed2-8d6da8d75094.jpg",
+      "title": "Military spending fuels Rheinmetall's rise",
+      "description": "Germany wants to build \u2018the strongest conventional army in Europe'. And the country's defence giant Rheinmetall is expanding into new sectors, from shipbuilding to space, to supply what it needs.\n\n-\n2026/09\n\n/ \n2026/09 germany",
+      "url": "https://mondediplo.com/2026/09/07rheinmetall",
+      "source": "Mondediplo.com",
+      "date": "2026-09-01",
+      "image": "https://mondediplo.com/IMG/logo/gettyimages-2246086541.jpg",
       "category": "geopolitics"
-    },
-    {
-      "title": "Trump says data centers are a 'golden goose' and communities will end up 'poor' without them",
-      "description": "President Donald Trump said that communities that oppose data centers \"want to end up being backwards and poor.\"",
-      "url": "https://www.businessinsider.com/trump-data-centers-golden-goose-communities-poor-2026-8#article",
-      "source": "Business Insider",
-      "date": "2026-08-31",
-      "image": "https://i.insider.com/6a95ab2b45e6f385a516aeba?width=1200&format=jpeg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Gas topped $4 daily in August for the first time. New U.S. strikes on Iran are sending oil prices even higher again",
-      "description": "Brent crude jumped more than 3% after U.S. forces struck Iranian rocket launchers near the Strait of Hormuz, a key route for global oil shipments.",
-      "url": "https://fortune.com/2026/08/31/gas-prices-oil-us-iran-strikes-strait-hormuz/",
-      "source": "Fortune",
-      "date": "2026-08-31",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/AP26239535605846-e1788185903782.jpg?resize=1200,600",
-      "category": "market"
     }
   ],
   "history": [
@@ -476,17 +476,17 @@
       "platinum_usd_oz": 1750.12
     },
     {
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "week": "2026-W36",
-      "gold_10g": 133392.01,
-      "silver_kg": 198947.31,
-      "platinum_g": 5408.74,
-      "gold_usd_oz": 4357.71,
-      "silver_usd_oz": 64.99,
-      "platinum_usd_oz": 1766.95
+      "gold_10g": 132074.36,
+      "silver_kg": 195553.26,
+      "platinum_g": 5304.88,
+      "gold_usd_oz": 4323.97,
+      "silver_usd_oz": 64.02,
+      "platinum_usd_oz": 1736.76
     }
   ],
-  "timestamp": "2026-09-01T22:21:09.329671+05:30",
+  "timestamp": "2026-09-02T13:31:40.549133+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
