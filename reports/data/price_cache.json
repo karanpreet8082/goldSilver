@@ -1,24 +1,24 @@
 {
   "prices": {
     "gold": {
-      "price_per_gram_inr": 13529.34,
-      "price_usd_oz": 4434.31,
-      "change_percent": 1.05,
-      "change_value_usd": 46,
-      "price_per_10g_inr": 135293.39
+      "price_per_gram_inr": 13638.49,
+      "price_usd_oz": 4470.09,
+      "change_percent": 1.86,
+      "change_value_usd": 81.77,
+      "price_per_10g_inr": 136384.91
     },
     "silver": {
-      "price_per_gram_inr": 200.87,
-      "price_usd_oz": 65.84,
-      "change_percent": 0.77,
-      "change_value_usd": 0.51,
-      "price_per_kg_inr": 200869.49
+      "price_per_gram_inr": 202.09,
+      "price_usd_oz": 66.23,
+      "change_percent": 1.38,
+      "change_value_usd": 0.9,
+      "price_per_kg_inr": 202085.34
     },
     "platinum": {
-      "price_per_gram_inr": 5396.41,
-      "price_usd_oz": 1768.7,
-      "change_percent": 0.32,
-      "change_value_usd": 5.62
+      "price_per_gram_inr": 5484.14,
+      "price_usd_oz": 1797.45,
+      "change_percent": 1.95,
+      "change_value_usd": 34.37
     },
     "currencies": {
       "USD_INR": 94.8986,
@@ -30,9 +30,9 @@
       "CAD_INR": 68.4447,
       "SGD_INR": 74.6234
     },
-    "gold_silver_ratio": 67.35,
-    "timestamp": "2026-09-03T11:29:39.293164",
+    "gold_silver_ratio": 67.49,
+    "timestamp": "2026-09-03T13:45:04.737953",
     "source": "GoldAPI"
   },
-  "timestamp": "2026-09-03T11:29:39.294060"
+  "timestamp": "2026-09-03T13:45:04.739043"
 }
