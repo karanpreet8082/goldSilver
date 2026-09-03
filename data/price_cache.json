@@ -1,38 +1,38 @@
 {
   "prices": {
     "gold": {
-      "price_per_gram_inr": 13334.06,
-      "price_usd_oz": 4365.43,
-      "change_percent": 0.84,
-      "change_value_usd": 36.36,
-      "price_per_10g_inr": 133340.59
+      "price_per_gram_inr": 13527.72,
+      "price_usd_oz": 4433.78,
+      "change_percent": 1.04,
+      "change_value_usd": 45.47,
+      "price_per_10g_inr": 135277.22
     },
     "silver": {
-      "price_per_gram_inr": 198.19,
-      "price_usd_oz": 64.89,
-      "change_percent": 1.24,
-      "change_value_usd": 0.8,
-      "price_per_kg_inr": 198189.27
+      "price_per_gram_inr": 201.46,
+      "price_usd_oz": 66.03,
+      "change_percent": 1.07,
+      "change_value_usd": 0.7,
+      "price_per_kg_inr": 201459.87
     },
     "platinum": {
-      "price_per_gram_inr": 5365.8,
-      "price_usd_oz": 1756.7,
-      "change_percent": 0.69,
-      "change_value_usd": 11.96
+      "price_per_gram_inr": 5437.96,
+      "price_usd_oz": 1782.32,
+      "change_percent": 1.09,
+      "change_value_usd": 19.23
     },
     "currencies": {
-      "USD_INR": 95.0047,
-      "EUR_INR": 110.1504,
-      "GBP_INR": 128.4889,
-      "JPY_INR": 0.5934,
-      "CHF_INR": 117.1018,
-      "AUD_INR": 67.8993,
-      "CAD_INR": 68.393,
-      "SGD_INR": 74.6306
+      "USD_INR": 94.8986,
+      "EUR_INR": 109.9254,
+      "GBP_INR": 127.9647,
+      "JPY_INR": 0.5965,
+      "CHF_INR": 116.669,
+      "AUD_INR": 67.9449,
+      "CAD_INR": 68.4447,
+      "SGD_INR": 74.6234
     },
-    "gold_silver_ratio": 67.28,
-    "timestamp": "2026-09-02T16:48:04.421658",
+    "gold_silver_ratio": 67.15,
+    "timestamp": "2026-09-03T08:11:26.754188",
     "source": "GoldAPI"
   },
-  "timestamp": "2026-09-02T16:48:04.422605"
+  "timestamp": "2026-09-03T08:11:26.755166"
 }
