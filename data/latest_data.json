@@ -31,7 +31,7 @@
       "SGD_INR": 74.6113
     },
     "gold_silver_ratio": 66.92,
-    "timestamp": "2026-09-05T07:46:28.349324",
+    "timestamp": "2026-09-05T10:48:06.984086",
     "source": "GoldAPI"
   },
   "currencies": {
@@ -54,7 +54,7 @@
         "hold": 29
       },
       "summary": "Gold is showing positive signals. Slight decline of -1.0%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-09-05T07:46:33.208559",
+      "timestamp": "2026-09-05T10:48:12.845511",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 50
       },
       "summary": "Silver is showing positive signals. Significant daily drop of -1.1%. Technical indicators show bullish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-09-05T07:46:33.298387",
+      "timestamp": "2026-09-05T10:48:12.932831",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 29
       },
       "summary": "Platinum is showing positive signals. Slight decline of -0.0%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-09-05T07:46:33.372728",
+      "timestamp": "2026-09-05T10:48:13.192583",
       "source": "rule-based"
     }
   },
@@ -134,12 +134,93 @@
   },
   "news": [
     {
-      "title": "Nifty\u2019s 21-day calm before the storm? History warns of a sharp move ahead",
-      "description": "Nifty 50\u2019s August 2026 stability historically signals significant volatility ahead. With future direction unclear, analysts advise shifting investment strategies toward earnings-led, stock-specific selections rather than broad index-level performance as the market faces potential near-term turbulenc",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/niftys-21-day-calm-before-the-storm-history-warns-of-a-sharp-move-ahead/articleshow/133789812.cms",
+      "title": "ITC\u2019s tobacco business is going cheap but Kotak Institutional Equities thinks market has it wrong",
+      "description": "Kotak Securities estimates ITC\u2019s tobacco business is valued at just 11X forward earnings, suggesting potential undervaluation. The brokerage sees stronger growth in non-tobacco businesses and believes splitting ITC\u2019s tobacco and non-tobacco operations could unlock significant shareholder value.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/itcs-tobacco-business-is-going-cheap-but-kotak-institutional-equities-thinks-market-has-it-wrong/articleshow/133796628.cms",
       "source": "Economic Times Markets",
       "date": "2026-09-05",
       "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Former Tata Technologies CEO McGoldrick sells shares worth Rs 165 crore",
+      "description": "Patrick McGoldrick, former Tata Technologies CEO, sold shares worth Rs 165 crore. He offloaded 21 lakh shares, reducing his stake to 0.62 percent. Mutual funds and asset management firms acquired these shares at Rs 785 each. Tata Technologies reported an 8 percent net profit rise for the March quart",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/former-tata-technologies-ceo-mcgoldrick-sells-shares-worth-rs-165-crore/articleshow/133794536.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-09-05",
+      "image": "",
+      "category": "metals"
+    },
+    {
+      "title": "Bitcoin trades at $79,000, next week\u2019s US inflation data to test rate-cut hopes and crypto valuations",
+      "description": "Bitcoin hovered near $79,000 as investors awaited US inflation data for clues on Federal Reserve policy. Softer inflation could revive rate-cut hopes, while hotter data may reinforce higher-for-longer expectations. Ethereum and major altcoins also declined, while institutional crypto demand strength",
+      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-trades-at-79000-next-weeks-us-inflation-data-to-test-rate-cut-hopes-and-crypto-valuations/articleshow/133794377.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-09-05",
+      "image": "",
+      "category": "central_bank"
+    },
+    {
+      "title": "Sensex today | Stock Highlights: Sensex rises 362 pts, Nifty ends at 23,897.7 as elevated crude keeps sentiment subdued",
+      "description": "Sensex, Nifty, Share Prices Highlights: Indian shares rose on Friday after declining \u200bfor four straight sessions but logged weekly losses as high \u200ccrude prices and bond yields earlier in the \u200bweek outweighed robust domestic growth and tax-collection \u2060data.",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-4th-september-2026/article71425360.ece",
+      "source": "BusinessLine",
+      "date": "2026-09-04",
+      "image": "https://bl-i.thgim.com/public/incoming/b98nyc/article71410509.ece/alternates/LANDSCAPE_1200/iStock-1487894859.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Got \u20b910 lakh for your 5-year-old daughter? Experts explain how to invest it wisely to secure her future",
+      "description": "Planning  \u20b910 lakh investment for a 5-year-old daughter? Experts recommend a diversified mix of equity mutual funds, Sukanya Samriddhi Yojana, and term insurance to build long-term wealth for her education and future.",
+      "url": "https://www.livemint.com/money/personal-finance/got-10-lakh-for-your-5-year-old-daughter-experts-explain-how-to-invest-it-wisely-to-secure-her-future-11788515154224.html",
+      "source": "Livemint",
+      "date": "2026-09-04",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/04/1600x900/logo/girl_child_investment_1788515964447_22f90870-61bc-48c2-bdec-7382ce02dd96_1788515970048_0af1f5a2-af4d-43ba-9a0b-e847a03fea8e_96be19e0-3bf9-49db-a557-1fdb15b25740_02b7c180-9a2d-46fb-88e4-8625778f52c4.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Starwood Property Trust\u2019s (STWD) Penny Profit Hides A Bigger Number",
+      "description": "On August 6, Starwood Property Trust (NYSE:STWD) reported results for the quarter ended June 30, and the headline number looks almost like a rounding error....",
+      "url": "https://finance.yahoo.com/real-estate/articles/starwood-property-trust-stwd-penny-095000544.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-09-04",
+      "image": "https://s.yimg.com/lo/mysterio/api/4b8ef481b6066d42b7dd3508f0d167f1cff125bdf1b70955a083bb742d66cfe9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Feef5668d6e69fea63a06d8e655745b38.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Crimson Desert Patch 2.01.00 Finally Delivers the Clean Image Players Demanded After Months of Complaints",
+      "description": "Pearl Abyss knows no rest. Following last week's release of Crimson Desert Enhanced, which addressed the original game's subpar story and characters by making the entire experience more cohesive and making Kliff a charismatic main character, the Korean develo\u2026",
+      "url": "https://wccftech.com/crimson-desert-patch-2-01-00-clean-image-players-demanded/",
+      "source": "Wccftech",
+      "date": "2026-09-04",
+      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Crimson-Desert-Patch-2.01.00-1920x1080.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Metals One MD: 'Cash talks' \u2014 \u00a34m facility funds gold push without diluting shares",
+      "description": "Metals One PLC (AIM, FRA, OTCQB) managing director Daniel Maling spoke with Proactive\u2019s Stephen Gunnion about the company\u2019s new \u00a34 million senior loan fac...",
+      "url": "https://finance.yahoo.com/video/metals-one-md-cash-talks-090337414.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-09-04",
+      "image": "https://s.yimg.com/lo/mysterio/api/f77e61d487aa7ecfeb4a5066e16f9a744609f9acfff56bb0a49a91e8d165076f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fproactive_video_751%2Fb5b27a60744b0b0a1b01563c2c439a2c.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "After Adani, Tata feels the heat: Indian firms under fire in Kenya?",
+      "description": "Kenya\u2019s dispute with Tata Chemicals has revived concerns about Indian businesses in the country after Adani\u2019s exit. But Kenya continues to attract Indian investment, suggesting the Tata confrontation is less about anti-India sentiment and more about Nairobi\u2019s\u2026",
+      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/after-adani-tata-feels-the-heat-indian-firms-under-fire-in-kenya/articleshow/133757332.cms",
+      "source": "The Times of India",
+      "date": "2026-09-04",
+      "image": "https://img.etimg.com/thumb/msid-133757454,width-1200,height-630,imgsize-80964,overlay-economictimes/articleshow.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Jefferies\u2019 Chris Wood sees a structural bear market in US bonds. What it means for stocks and gold",
+      "description": "Jefferies warned that persistent pressure on US Treasury yields could create a challenging environment for equity markets, particularly for bond-sensitive assets such as REITs. While higher yields have weighed on Singapore REITs, the brokerage sees selective \u2026",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/jefferies-chris-wood-sees-a-structural-bear-market-in-us-bonds-what-it-means-for-stocks-and-gold/articleshow/133756104.cms",
+      "source": "The Times of India",
+      "date": "2026-09-04",
+      "image": "https://img.etimg.com/thumb/msid-133756189,width-1200,height-630,imgsize-72280,overlay-etmarkets/articleshow.jpg",
       "category": "geopolitics"
     },
     {
@@ -152,58 +233,13 @@
       "category": "market"
     },
     {
-      "title": "Gold: Crude, inflation key threats; analyst sees $4400 as tactical buy zone",
-      "description": "Mirae Asset ShareKhan's Praveen Singh said that gold's key support levels are at $4,450, $4,358, and $4,300-4,330, while resistance is seen at $4,533, $4,575, and $4,650.",
-      "url": "https://www.business-standard.com/markets/commodities/gold-crude-inflation-key-threats-analyst-sees-4400-as-tactical-buy-zone-126090400385_1.html",
-      "source": "Business Standard",
+      "title": "Gold and Silver Prices Jump Amid Uncertainty",
+      "description": "Gold and silver prices rise in Pakistan as global uncertainty and inflation fears drive investors toward safe-haven assets.",
+      "url": "https://addon.pk/business/gold-and-silver-prices-jump-amid-uncertainty/",
+      "source": "Addon.pk",
       "date": "2026-09-04",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/31/thumb/fitandfill/1200X628/1788168485-4915.jpg",
-      "category": "inflation"
-    },
-    {
-      "title": "You Don\u2019t Level Up by Getting More Time. You Level Up by Becoming Someone the Old Life Can\u2019t Hold.",
-      "description": "I ran a workshop in Bali on living out your purpose, and the same thing kept coming up. People could talk about impact all day. They could talk about who they wanted to become. Then you asked them what they were actually doing this week, and the room got quie\u2026",
-      "url": "https://addicted2success.com/success-advice/you-dont-level-up-by-getting-more-time-you-level-up-by-becoming-someone-the-old-life-cant-hold/",
-      "source": "Addicted2success.com",
-      "date": "2026-09-04",
-      "image": "https://addicted2success.com/wp-content/uploads/2026/09/Entrepreneur-strong-man-carrying-a-duffle-bag-and-paper-work-1000x600.jpeg",
-      "category": "market"
-    },
-    {
-      "title": "Gold prices fall Rs 2,100/10 gram after 2 days; silver down Rs 1,500/kg ahead of US payrolls data. Important levels for today",
-      "description": "Following a brief rally, gold and silver prices opened lower on Friday, sparking caution among investors. The market is now focused on the US payrolls report, which may provide insights into Federal Reserve interest rate decisions. Geopolitical concerns in th\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/gold-prices-fall-rs-2100/10-gram-after-2-days-silver-down-rs-1500/kg-ahead-of-us-payrolls-data-important-levels-for-today/articleshow/133752723.cms",
-      "source": "The Times of India",
-      "date": "2026-09-04",
-      "image": "https://img.etimg.com/thumb/msid-133752782,width-1200,height-630,imgsize-88148,overlay-etmarkets/articleshow.jpg",
+      "image": "https://addon.pk/wp-content/uploads/2026/09/Gold-and-Silver-Prices-Jump-Amid-Uncertainty.webp",
       "category": "geopolitics"
-    },
-    {
-      "title": "Indices drift higher amid global cues",
-      "description": "In addition to developments surrounding the US-Iran conflict and movements in crude oil and gold prices, market participants will closely track the upcoming quarterly earnings announcements of recently listed companies over the next few weeks. Investors are l\u2026",
-      "url": "https://www.business-standard.com/markets/capital-market-news/indices-drift-higher-amid-global-cues-126090400183_1.html",
-      "source": "Business Standard",
-      "date": "2026-09-04",
-      "image": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "The Hamiltonian Mirage",
-      "description": "\u201cI believe that banking institutions are more dangerous to our liberties than standing armies.\u201d\u2014 Thomas Jefferson When the Trump administration\u2014and Treasury Secretary Scott Bessent in particular\u2014began invoking Alexander Hamilton as the blueprint for a new Ame\u2026",
-      "url": "https://www.lewrockwell.com/2026/09/no_author/the-hamiltonian-mirage/",
-      "source": "Lewrockwell.com",
-      "date": "2026-09-04",
-      "image": "https://lrc-cdn.s3.amazonaws.com/assets/2021/02/LRC-share.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Trump, Venezuelan Oil, and National Security",
-      "description": "Photo Credit:\n \n RawPixel.comBy William R. HawkinsThe core attributes of any energy source are reliability, cost, and security. Gaining control of Venezuela\u2019s vast oil reserves advances each of those attributes for the benefit of America and Americans.",
-      "url": "https://www.americanthinker.com/articles/2026/09/trump-venezuelan-oil-and-national-security/",
-      "source": "Americanthinker.com",
-      "date": "2026-09-04",
-      "image": "https://images.americanthinker.com/xx/xx7gfesjvocfezjwb0bv_1200.jpg",
-      "category": "market"
     },
     {
       "title": "Silver outlook: Dovish Fed eases pressure; Mirae Asset sees support at $65",
@@ -222,6 +258,15 @@
       "date": "2026-09-04",
       "image": "https://bl-i.thgim.com/public/incoming/jc38ly/article71427351.ece/alternates/LANDSCAPE_1200/iStock-1472696526.jpg",
       "category": "central_bank"
+    },
+    {
+      "title": "Gold prices fall Rs 2,100/10 gram after 2 days; silver down Rs 1,500/kg ahead of US payrolls data. Important levels for today",
+      "description": "Following a brief rally, gold and silver prices opened lower on Friday, sparking caution among investors. The market is now focused on the US payrolls report, which may provide insights into Federal Reserve interest rate decisions. Geopolitical concerns in th\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/gold-prices-fall-rs-2100/10-gram-after-2-days-silver-down-rs-1500/kg-ahead-of-us-payrolls-data-important-levels-for-today/articleshow/133752723.cms",
+      "source": "The Times of India",
+      "date": "2026-09-04",
+      "image": "https://img.etimg.com/thumb/msid-133752782,width-1200,height-630,imgsize-88148,overlay-etmarkets/articleshow.jpg",
+      "category": "geopolitics"
     },
     {
       "title": "Gold steady before US payrolls data, heads for small weekly gain",
@@ -251,156 +296,111 @@
       "category": "supply_demand"
     },
     {
-      "title": "broken eiffel tower crashes into nevada desert for burning man 2026",
-      "description": "a 29-tonne fractured replica of the eiffel tower by philippe maindron has risen from the dust of nevada\u2019s black rock desert for burning man 2026.\nThe post broken eiffel tower crashes into nevada desert for burning man 2026 appeared first on designboom | archi\u2026",
-      "url": "https://www.designboom.com/art/broken-eiffel-tower-nevada-desert-burning-man-2026-philippe-maindron/",
-      "source": "Designboom",
+      "title": "Brookfield Announces Intention to Redeem its Class A Preference Shares, Series 51 and 52",
+      "description": "All amounts in Canadian dollars unless otherwise stated. BROOKFIELD, NEWS, Sept. 04, 2026 (GLOBE NEWSWIRE) \u2014 Brookfield Corporation (\u201cBrookfield\u201d) (NYSE: BN, TSX: BN) today announced that it intends to redeem all of its Cumulative Redeemable Class A Preferenc\u2026",
+      "url": "https://financialpost.com/globe-newswire/brookfield-announces-intention-to-redeem-its-class-a-preference-shares-series-51-and-52",
+      "source": "Financial Post",
       "date": "2026-09-04",
-      "image": "https://www.designboom.com/twitterimages/uploads/2026/09/broken-eiffel-tower-nevada-desert-burning-man-2026-philippe-maindron-designboom-1200.jpg",
+      "image": null,
+      "category": "currency"
+    },
+    {
+      "title": "This star has the strangest sky in the galaxy",
+      "description": "The newfound star S301 orbits the Milky Way\u2019s supermassive black hole so closely that its view of the heavens gets twisted",
+      "url": "https://www.scientificamerican.com/article/this-star-has-the-strangest-sky-in-the-galaxy/",
+      "source": "Scientific American",
+      "date": "2026-09-04",
+      "image": "https://static.scientificamerican.com/dam/asset/daf48975-67d4-4636-b400-e02bacc3b10f/lede-black-hole.png?m=1788478862.516&w=1200",
+      "category": "central_bank"
+    },
+    {
+      "title": "Labor Day gas has never been this expensive. Trump is scrambling for answers | CNN Business",
+      "description": "Americans will likely face the highest Labor Day gas prices on record this holiday weekend. It\u2019s another blow to a \u201cdrill, baby, drill\u201d president who campaigned on affordable energy.",
+      "url": "https://www.cnn.com/2026/09/04/business/oil-gas-trump-iran-diesel",
+      "source": "CNN",
+      "date": "2026-09-04",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-ap26243582203665.jpg?c=16x9&q=w_800,c_fill",
       "category": "market"
     },
     {
-      "title": "YouTube & Balaji Telefilms partner for launch of shows; span 200 episodes",
-      "description": "Ekta Kapoor will lead the creative vision and own the intellectual property, while YouTube will provide global distribution and monetisation through ads and brand deals",
-      "url": "https://www.business-standard.com/industry/news/youtube-balaji-telefilms-partnership-original-shows-ekta-kapoor-126090400507_1.html",
-      "source": "Business Standard",
+      "title": "Sneaker brand Comet raises \u20b9100 crore in Series B round led by Verlinvest",
+      "description": "The company will use the new capital to accelerate retail expansion, enhance technology and product development, and invest in R&D",
+      "url": "https://www.thehindubusinessline.com/companies/sneaker-brand-comet-raises-100-crore-in-series-b-round-led-by-verlinvest/article71427838.ece",
+      "source": "BusinessLine",
       "date": "2026-09-04",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-06/15/thumb/fitandfill/1200X628/1749988617-4994.jpg",
+      "image": "https://bl-i.thgim.com/public/incoming/nbidt9/article71427910.ece/alternates/LANDSCAPE_1200/1685442171769.jfif",
       "category": "market"
     },
     {
-      "title": "The price of diesel hits a record high",
-      "description": "The price of diesel has reached an all-time high, a result of the war in Iran and Ukraine's attacks on Russian refineries. That will matter across the supply chain.",
-      "url": "https://www.npr.org/2026/09/04/nx-s1-5948016/diesel-price-record-high",
-      "source": "NPR",
+      "title": "AI\u2019s productivity boom will likely create a \u2018winner-takes-all\u2019 economy, top EY economist warns",
+      "description": "Everything you need to know before you reach the office this morning.",
+      "url": "https://fortune.com/2026/09/04/f500-digest-ai-productivity-boom-daco-jobs-report/",
+      "source": "Fortune",
       "date": "2026-09-04",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8667x4875+0+446/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F15%2Ff2%2Fc7d5ee2e4943b68648921d743ae5%2Fgettyimages-2290344340.jpg",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2293173499-e1788515676689.jpg?resize=1200,600",
       "category": "geopolitics"
     },
     {
-      "title": "Dadachanji Group launches Kaisha Pharma with 45-mn euros initial investment",
-      "description": "Kaisha Pharma will manufacture ampoules, vials, prefilled syringes and cartridges, while targeting Indian and global pharmaceutical and biotechnology companies",
-      "url": "https://www.business-standard.com/industry/news/dadachanji-group-kaisha-pharma-glass-packaging-investment-126090400497_1.html",
-      "source": "Business Standard",
+      "title": "Amid Higher-for-Longer Mortgage Rates, Multifamily Pros Find a Silver Lining",
+      "description": "Nearly four years after mortgage rates surpassed 6 percent for the first time since the height of the 2008 financial crisis, borrowing conditions for homeowners and prospective buyers have remained stubbornly elevated with no signs of abating anytime soon. Th\u2026",
+      "url": "http://commercialobserver.com/2026/09/higher-mortgage-rates-2026-multifamily/",
+      "source": "Commercial Observer",
       "date": "2026-09-04",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-03/24/thumb/fitandfill/1200X628/1774373357-1222.jpg",
-      "category": "currency"
-    },
-    {
-      "title": "HarperCollins to publish Sonia Gandhi's memoir in India",
-      "description": "HarperCollins India will publish Sonia Gandhi's memoir \"Belonging\" on November 10, after Penguin Random House dropped plans to do so.",
-      "url": "https://www.thehindubusinessline.com/news/harpercollins-to-publish-sonia-gandhis-memoir-in-india/article71427482.ece",
-      "source": "BusinessLine",
-      "date": "2026-09-04",
-      "image": "https://bl-i.thgim.com/public/incoming/gkozo8/article71427503.ece/alternates/LANDSCAPE_1200/collage%20-%202026-09-03T155639.279.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Youku's 'The Early Spring' Reaches No. 2 on Netflix's Global Non-English TV List",
-      "description": "BEIJING, Sept. 4, 2026 /PRNewswire/ -- The Early Spring, a workplace romance produced by Youku, Alibaba's online video platform, has reached the highest-ever ranking for a Chinese mainland drama on Netflix's Global Non-English TV list, at No. 2 for the week o\u2026",
-      "url": "https://www.prnewswire.co.uk/news-releases/youkus-the-early-spring-reaches-no-2-on-netflixs-global-non-english-tv-list-302869892.html",
-      "source": "PR Newswire UK",
-      "date": "2026-09-04",
-      "image": "https://mmx.prnewswire.com/media/MS1981736/20260903234012EDT_image_1.jpg?id=OA2930308&p=facebook",
-      "category": "market"
-    },
-    {
-      "title": "Sikkim identifies 40 high-hazard glacial lakes, 16 at highest risk",
-      "description": "The eastern Himalayan state of Sikkim has identified 40 high-hazard glacial lakes, with 16 of them classified as being at the highest risk of catastrophic outbursts that could threaten downstream settlements.\nThe data is significant as it comes against the ba\u2026",
-      "url": "https://www.business-standard.com/india-news/sikkim-identifies-40-high-hazard-glacial-lakes-16-at-highest-risk-126090400457_1.html",
-      "source": "Business Standard",
-      "date": "2026-09-04",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-03/29/thumb/fitandfill/1200X628/1680112882-722.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Nifty holds above 23,900 as smallcap index hits record high",
-      "description": "On the BSE, 2,356 stocks were advancing against 1,316 declining, with 146 stocks hitting 52-week highs and 65 touching 52-week lows",
-      "url": "https://www.thehindubusinessline.com/markets/nifty-holds-above-23900-as-smallcap-index-hits-record-high/article71427466.ece",
-      "source": "BusinessLine",
-      "date": "2026-09-04",
-      "image": "https://bl-i.thgim.com/public/incoming/b98nyc/article71410509.ece/alternates/LANDSCAPE_1200/iStock-1487894859.jpg",
-      "category": "market"
-    },
-    {
-      "title": "\u2018I don\u2019t think there\u2019s a floor\u2019: Workers\u2019 share of America\u2019s income is at a record low before the AI boom even begins",
-      "description": "EY-Parthenon chief economist Gregory Daco says that the economy\u2019s surprising productivity gains so far predate AI.",
-      "url": "https://finance.yahoo.com/economy/articles/don-t-think-floor-workers-073000433.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-09-04",
-      "image": "https://s.yimg.com/lo/mysterio/api/8d9624b756d59c51f1f7ccab54c6b13b977b86832d547b2aa058f93efa2cd695/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffortune_175%2F5f6d18dc206d3438f5c7641731324853.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Bitcoin holds above $80,800 as bulls target $85k ahead of NFP",
-      "description": "Key takeaways Bitcoin, Ethereum and XRP extended their weekly gains on Friday ahead of the U.S. Nonfarm Payrolls report. BTC remains above its 50-day, 100-day and 200-day exponential moving averages. Bitcoin faces resistance at $85,000, while the first major \u2026",
-      "url": "https://coinjournal.net/news/bitcoin-holds-above-80800-as-bulls-target-85k-ahead-of-nfp/",
-      "source": "Coinjournal.net",
-      "date": "2026-09-04",
-      "image": "https://coinjournal.net/wp-content/uploads/2026/09/ChatGPT-Image-Sep-4-2026-08_14_17-AM.png",
-      "category": "market"
-    },
-    {
-      "title": "Trump\u2019s Latest Move Threatens Any College That Seeks to Promote Equality",
-      "description": "Trump\u2019s Latest Move Threatens Any College That Seeks to Promote Equality\n\n \n\n\n \nSusan H. Greenberg\n\nFri, 09/04/2026 - 03:00 AM\n\nThe administration\u2019s plan to revoke tax-exempt status from schools that offer Black or other minority students targeted support wil\u2026",
-      "url": "https://www.insidehighered.com/opinion/views/2026/09/04/latest-trump-move-threatens-colleges-seeking-promote-equality",
-      "source": "Inside Higher Ed",
-      "date": "2026-09-04",
-      "image": "https://www.insidehighered.com/sites/default/files/styles/large/public/2025-04/GettyImages-1425528067.jpg?itok=LPhzeZiO",
-      "category": "market"
-    },
-    {
-      "title": "The House Republican Trying to Redefine Graduate Student Loan Caps",
-      "description": "The House Republican Trying to Redefine Graduate Student Loan Caps \n\n \n\n\n \njessica.blake@\u2026\n\nFri, 09/04/2026 - 03:00 AM\n\nInside Higher Ed called up Rep. Michael Lawler to talk about his push to expand the list of programs whose students get access to higher lo\u2026",
-      "url": "https://www.insidehighered.com/news/government/student-aid-policy/2026/09/04/why-ny-republican-taking-grad-student-loan-caps",
-      "source": "Inside Higher Ed",
-      "date": "2026-09-04",
-      "image": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-09/Mike_Lawler_medical_meeting_01_edit.jpg?itok=SUG_juTY",
-      "category": "market"
-    },
-    {
-      "title": "Trump Administration Threatens Colleges\u2019 Tax-Exempt Status",
-      "description": "Trump Administration Threatens Colleges\u2019 Tax-Exempt Status\n\n \n\n\n \nEmma Whitford\n\nFri, 09/04/2026 - 03:00 AM\n\nUnder the proposed rule, any college that adopts or maintains admissions policies, scholarships, loans or other programs for students of color could l\u2026",
-      "url": "https://www.insidehighered.com/news/government/2026/09/04/trump-administration-threatens-colleges-tax-exempt-status",
-      "source": "Inside Higher Ed",
-      "date": "2026-09-04",
-      "image": "https://www.insidehighered.com/sites/default/files/styles/large/public/2025-09/Harvard_trump.jpg?itok=cb4RRpUR",
-      "category": "market"
-    },
-    {
-      "title": "Trump administration proposes stripping tax-exempt status from schools using race-based programs",
-      "description": "The Trump administration proposed new regulations to strip the tax-exempt status of private schools if \u200bthey offer targeted programs supporting specific racial groups.",
-      "url": "https://www.foxnews.com/politics/trump-administration-proposes-stripping-tax-exempt-status-schools-using-race-based-programs",
-      "source": "Fox News",
-      "date": "2026-09-04",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/05/scott-bessent-white-house-briefing-fox-news-002.jpeg",
-      "category": "market"
-    },
-    {
-      "title": "Gold, silver, oil rally: What\u2019s driving precious metals and crude prices - CNBC TV18",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQclVMeEt3aGo0OTNiV0RqWk9rdndDNE8yNFN4YTIwbl94U0N2d05jR0s2NzM4TWRmbkZjYXlZWGRzNGUzWXJuMUw1bkxUcVc4U2p3TjJHVTQtTW5xT0swc0NrcGE2X1dNQUNDZTIxNnV4ODhMYXZJYkQ3Uks4ZFBfd2I1elhhTm9uSWxOYWJheTBtSGhaT3lzeTNrcVMxeGFsT3pzcHA0d09VWmU0bXJYalV5a1QxcGVzX0",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQclVMeEt3aGo0OTNiV0RqWk9rdndDNE8yNFN4YTIwbl94U0N2d05jR0s2NzM4TWRmbkZjYXlZWGRzNGUzWXJuMUw1bkxUcVc4U2p3TjJHVTQtTW5xT0swc0NrcGE2X1dNQUNDZTIxNnV4ODhMYXZJYkQ3Uks4ZFBfd2I1elhhTm9uSWxOYWJheTBtSGhaT3lzeTNrcVMxeGFsT3pzcHA0d09VWmU0bXJYalV5a1QxcGVzX095YXZic9IBxAFBVV95cUxOX3hSWkQtcmZiMWdOcE1PbEhBWGhfZzNObjI1dkVYZXp6TUJjUDlDWXNXcW5IRF9GaDJERjJlbjR3bVJUSlN6a05QbFgxSElYYW5meF9hNVdfWkoxSkh2OUhxWmFfRHdyY0VFck90SDF2M3NNd05ZUldkQVFjQXVNcGliaUhOT3hpNk9iOUJFNldsSUZ4YmVSV1RZWWV3SFoyWFVwemNFb3ZSOThpc0hkejhnNDlCYkF1TDNGcUtPb2FFVk5f?oc=5",
-      "source": "Google News - Precious Metals",
-      "date": "2026-09-04",
-      "image": "",
+      "image": "https://commercialobserver.com/wp-content/uploads/sites/3/2026/09/toy-houses-GettyImages-1322052199.jpg?quality=80&w=1200&h=630&crop=1",
       "category": "metals"
     },
     {
-      "title": "NEW PACIFIC REPORTS FINANCIAL RESULTS FOR THE THREE MONTHS AND YEAR ENDED JUNE 30, 2026",
-      "description": "VANCOUVER, BC, Sept. 3, 2026 /PRNewswire/ -- New Pacific Metals Corp. (\"New Pacific\" or the \"Company\") reports its financial results for the three months and year ended June 30, 2026. All figures are expressed in US dollars unless otherwise stated. FISCAL 202\u2026",
-      "url": "https://www.prnewswire.com/news-releases/new-pacific-reports-financial-results-for-the-three-months-and-year-ended-june-30-2026-302869448.html",
-      "source": "PRNewswire",
-      "date": "2026-09-03",
-      "image": "https://mmx.prnewswire.com/media/MS1256439/New-Pacific-Metals-Corp-NEW-PACIFIC-REPORTS-FINANCIAL-RESULTS-F.jpg?id=OA2929442&p=facebook",
-      "category": "currency"
+      "title": "Price of diesel hits all-time high as wars in Iran, Ukraine constrict global supply",
+      "description": "For U.S. consumers, the rising cost of diesel is likely to result in higher retail prices for everything from produce and toys to lumber and apparel.",
+      "url": "https://www.nbcnews.com/business/energy/diesel-hits-all-time-high-iran-ukraine-trump-rcna595998",
+      "source": "NBC News",
+      "date": "2026-09-04",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260903-truck-gas-station-ch-1644-79c704.jpg",
+      "category": "geopolitics"
     },
     {
-      "title": "Dollar Retreats and Gold Surges on Dovish Fed Waller",
-      "description": "The dollar index (DXY00 ) fell to a 1.5-week low on Thursday and finished down by -0.67%. The dollar tumbled on Thursday on dovish comments from Fed Governor...",
-      "url": "https://www.barchart.com/story/news/4431758/dollar-retreats-and-gold-surges-on-dovish-fed-waller",
-      "source": "Barchart.com",
-      "date": "2026-09-03",
-      "image": "https://s.yimg.com/lo/mysterio/api/c2b892186273764ac7df43cfd8198ededd59135666e7c0b703e3af834abc893b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F07f414d757ccacea52e753d0b99b6994.jpg",
+      "title": "Swedish Registry Study of Three Million Women Ties HPV to Slightly Higher Odds of Heart Disease",
+      "description": "A study of nearly 500,000 HPV-positive Swedish women found a 7 percent higher heart disease risk. Researchers say not to be unduly concerned.",
+      "url": "https://www.medicaldaily.com/hpv-infection-heart-disease-risk-women-swedish-registry-study-478217",
+      "source": "Medical Daily",
+      "date": "2026-09-04",
+      "image": "https://d.medicaldaily.com/en/full/485488/hpn-vaccination-women.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Gold heads for small weekly gain as US jobs data approaches",
+      "description": "Gold's modest gain amid uncertain US jobs data highlights market sensitivity to economic indicators and potential Fed policy shifts.\nThe post Gold heads for small weekly gain as US jobs data approaches appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/gold-weekly-gain-us-jobs-data/",
+      "source": "Crypto Briefing",
+      "date": "2026-09-04",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/04064415/library-gold-heads-for-small-weekly-gain-as-us-jobs-data-approac-800x450.png",
+      "category": "central_bank"
+    },
+    {
+      "title": "To Reduce the Risk of \u201cForeign\u201d Interference, Mexico Moves to Bar Dual Nationals from Senior Government Roles",
+      "description": "\u201cTo be a candidate for governor, why would you hold another country\u2019s nationality? In other words, you are Mexican, period.\u201d Mexico\u2019s federal government has sent a constitutional reform initiative to Congress that seeks to bar people with dual nationality fro\u2026",
+      "url": "https://www.nakedcapitalism.com/2026/09/to-protect-mexico-from-foreign-interference-claudia-sheinbaum-proposes-banning-dual-nationals-from-senior-government-roles.html",
+      "source": "Nakedcapitalism.com",
+      "date": "2026-09-04",
+      "image": null,
+      "category": "central_bank"
+    },
+    {
+      "title": "Sensex, Nifty snap 4-day losses; metal shares shine",
+      "description": "The Nifty settled near the 23,900 level, while the Sensex also closed above 76,500 mark. However, market sentiment remained cautious ahead of the US nonfarm payrolls report, due later today. Investors are awaiting the data for fresh cues on the Federal Reserv\u2026",
+      "url": "https://www.business-standard.com/markets/capital-market-news/sensex-nifty-snap-4-day-losses-metal-shares-shine-126090400870_1.html",
+      "source": "Business Standard",
+      "date": "2026-09-04",
+      "image": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Morgan Stanley expects Fed to hold rates steady through 2026",
+      "description": "Morgan Stanley's forecast may stabilize market expectations, reducing volatility and influencing long-term investment strategies.\nThe post Morgan Stanley expects Fed to hold rates steady through 2026 appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/morgan-stanley-expects-fed-to-hold-rates-steady-through-2026/",
+      "source": "Crypto Briefing",
+      "date": "2026-09-04",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/04063150/library-morgan-stanley-expects-fed-to-hold-rates-steady-through--1-800x450.png",
       "category": "central_bank"
     }
   ],
@@ -486,7 +486,7 @@
       "platinum_usd_oz": 1823.28
     }
   ],
-  "timestamp": "2026-09-05T13:16:33.381559+05:30",
+  "timestamp": "2026-09-05T16:18:13.200503+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
