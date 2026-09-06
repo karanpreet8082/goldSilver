@@ -31,7 +31,7 @@
       "SGD_INR": 74.6125
     },
     "gold_silver_ratio": 66.92,
-    "timestamp": "2026-09-06T08:00:44.124697",
+    "timestamp": "2026-09-06T11:10:16.054868",
     "source": "GoldAPI"
   },
   "currencies": {
@@ -54,7 +54,7 @@
         "hold": 29
       },
       "summary": "Gold is showing positive signals. Slight decline of -1.0%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-09-06T08:00:49.057853",
+      "timestamp": "2026-09-06T11:10:20.685261",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 50
       },
       "summary": "Silver is showing positive signals. Significant daily drop of -1.1%. Technical indicators show bullish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-09-06T08:00:49.257585",
+      "timestamp": "2026-09-06T11:10:20.774908",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 29
       },
       "summary": "Platinum is showing positive signals. Slight decline of -0.0%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-09-06T08:00:49.359397",
+      "timestamp": "2026-09-06T11:10:20.862801",
       "source": "rule-based"
     }
   },
@@ -134,22 +134,76 @@
   },
   "news": [
     {
-      "title": "Largecaps look better as smallcaps price in strong growth: Franklin Templeton\u2019s Arihant Jain",
-      "description": "Largecap stocks offer a better risk-reward balance than mid- and small-caps as higher growth expectations are already priced into smaller companies, according to Arihant Jain of Franklin Templeton India. In this chat, he explains their multi-factor quantitative approach, long-short positioning, and ",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/largecaps-look-better-as-smallcaps-price-in-strong-growth-franklin-templetons-arihant-jain/articleshow/133827224.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-09-06",
-      "image": "",
+      "title": "Weekend reading: are bonds discounting a robot revolution?",
+      "description": "Who will pay our debts? Plus all the week's best money and investing reads\u2026\nThe post Weekend reading: are bonds discounting a robot revolution? appeared first on Monevator.",
+      "url": "https://monevator.com/weekend-reading-are-bonds-discounting-a-robot-revolution/",
+      "source": "Monevator.com",
+      "date": "2026-09-05",
+      "image": "https://monevator.com/wp-content/uploads/2021/03/Weekend-Reading-Social.png",
+      "category": "market"
+    },
+    {
+      "title": "Why the kerogen in oil shale will never fill up your tank",
+      "description": "Source: Oil Shale vs. Shale Oil: What\u2019s the difference? USGS Preface. The basic reason oil shale was never developed was because it was not cooked enough.\u00a0 Turning it into oil requires so much \u201ccooking energy\u201d that the energy return is \u2026 Continue reading \u2192",
+      "url": "https://energyskeptic.com/2026/shale/",
+      "source": "Energyskeptic.com",
+      "date": "2026-09-05",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "Avinash Mishra calls his bond with Karan Wahi and Rithvik Dhanjani \u2018unconditional\u2019: \u2018Truly grateful to have them in my life\u2019",
+      "description": "Avinash Mishra took to Instagram to express heartfelt gratitude towards his fellow Khatron Ke Khiladi contestants, Karan Wahi and Rithwik Dhanjani. He shared delightful snapshots, highlighting the profound bond they share. Khatron Ke Khiladi, a thrilling real\u2026",
+      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/avinash-mishra-calls-his-bond-with-karan-wahi-and-rithvik-dhanjani-unconditional-truly-grateful-to-have-them-in-my-life/articleshow/133798252.cms",
+      "source": "The Times of India",
+      "date": "2026-09-05",
+      "image": "https://static.toiimg.com/thumb/msid-133798273,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "category": "geopolitics"
     },
     {
-      "title": "Crude oil rally nears $100: Will geopolitical risks push prices higher?",
-      "description": "Crude oil prices are nearing $100 per barrel, driven by escalating geopolitical tensions between the US and Iran. While physical supply remains intact, fears of disruptions in the Strait of Hormuz have added a risk premium. Hareesh V of Geojit Investments analyses whether these risks will push price",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/crude-oil-rally-nears-100-will-geopolitical-risks-push-prices-higher/articleshow/133826020.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-09-06",
-      "image": "",
+      "title": "Pennsylvania Senior Loses $683,000 in Gold Bars After Scammers Pose as Bank Officials",
+      "description": "Two New York men tricked a 78-year-old South Whitehall Township woman into buying and delivering $683,000 worth of gold bullion by falsely claiming her identity had been compromised.\nThe post Pennsylvania Senior Loses $683,000 in Gold Bars After Scammers Pose\u2026",
+      "url": "https://dailyhodl.com/2026/09/05/pennsylvania-senior-loses-683000-in-gold-bars-after-scammers-pose-as-bank-officials/",
+      "source": "The Daily Hodl",
+      "date": "2026-09-05",
+      "image": "https://dailyhodl.com/wp-content/uploads/2025/11/blackrock-dollar-bank.jpg?resize=1365,800",
+      "category": "metals"
+    },
+    {
+      "title": "\u2018Come to take your money\u2019: Stephen A. Smith says taxes would eat 2/3 of his income in California \u2014 so he fled to Florida",
+      "description": "\u201cI can\u2019t stand high taxes.\u201d",
+      "url": "https://finance.yahoo.com/economy/policy/articles/come-money-stephen-smith-says-104500432.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-09-05",
+      "image": "https://s.yimg.com/lo/mysterio/api/2123e19bf85d75091f229d4e66be15d6c448c55bdfbda9d0287a72ab721b098d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2Fae6889c31a5ca23c722d7ddd06f4446f.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Central Banks Stockpile Gold Reserves for Fourth Straight Month as China and Poland Drive Demand",
+      "description": "Global central banks bought 23 tonnes of gold in July for the fourth consecutive month. China and Poland led purchases while the Bank of Korea resumed buying after 13 years.\nThe post Central Banks Stockpile Gold Reserves for Fourth Straight Month as China and\u2026",
+      "url": "https://dailyhodl.com/2026/09/05/central-banks-stockpile-gold-reserves-for-fourth-straight-month-as-china-and-poland-drive-demand/",
+      "source": "The Daily Hodl",
+      "date": "2026-09-05",
+      "image": "https://dailyhodl.com/wp-content/uploads/2025/02/cash-capital-money.jpg?resize=1365,800",
+      "category": "central_bank"
+    },
+    {
+      "title": "Every Christmas Warren Buffett gave $10K to his daughter-in-law, but she spent it all. 5 ways to use your own windfall",
+      "description": "Buffett doled out the spoils in $100 dollar bills.",
+      "url": "https://finance.yahoo.com/markets/articles/every-christmas-warren-buffett-gave-100500498.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-09-05",
+      "image": "https://s.yimg.com/lo/mysterio/api/d2e278044f3599d5d021c4ca8d304ebcd06223b69fa2cb37a32b69dab7291e7d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2F565ad52bf2a1361661d4b97cb7853a5b.jpg",
       "category": "geopolitics"
+    },
+    {
+      "title": "Emerging markets set for capital inflows as US dollar weakens, gold rises",
+      "description": "Weaker dollar and rising gold prices may boost emerging markets, potentially reshaping global investment flows and economic power dynamics.\nThe post Emerging markets set for capital inflows as US dollar weakens, gold rises appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/emerging-markets-set-for-capital-inflows-as-us-dollar-weakens-gold-rises/",
+      "source": "Crypto Briefing",
+      "date": "2026-09-05",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/05050239/library-emerging-markets-set-for-capital-inflows-as-us-dollar-we-1-800x450.png",
+      "category": "currency"
     },
     {
       "title": "Stocks struggle, but these multi-asset funds score big: What\u2019s driving returns?",
@@ -159,69 +213,6 @@
       "date": "2026-09-05",
       "image": "https://img.etimg.com/thumb/msid-133792563,width-1200,height-900,overlay-etwealthmutualfunds/slideshow.jpg",
       "category": "market"
-    },
-    {
-      "title": "McEwen Inc.: The Gold Bar Miss Is Fixable, The Copper Is Free",
-      "description": "McEwen currently mines and has a 46.3% interest in a copper project which the market is currently willing to pay nothing for. Read why MUX stock is a buy.",
-      "url": "https://seekingalpha.com/article/4943292-mcewen-inc-the-gold-bar-miss-is-fixable-the-copper-is-free",
-      "source": "Seeking Alpha",
-      "date": "2026-09-05",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1146703437/image_1146703437.jpg?io=getty-c-w1536",
-      "category": "metals"
-    },
-    {
-      "title": "SGB 2021-22 Series VI: RBI fixes \u20b915,334 redemption price, \u20b91 lakh investment gains over 227% in 5 years",
-      "description": "SGB 2021-22 Series VI investors can opt for premature redemption on 7 September 2026 at  \u20b915,334 per unit. The gold bond was issued at  \u20b94,682 for online investors, translating into a 227% price gain, excluding interest.",
-      "url": "https://www.livemint.com/money/personal-finance/sgb-2021-22-series-vi-rbi-fixes-15-334-redemption-price-1-lakh-investment-gains-over-227-in-5-years-11788587456573.html",
-      "source": "Livemint",
-      "date": "2026-09-05",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/05/1600x900/logo/Gemini_Generated_Image_yjacmhyjacmhyjac_178858_1788587934559_9f1c0694-9bef-446c-9c62-c00612245346_1788587934811_eb8b9a97-ea58-4385-a481-f03c282b6280_a400b10c-0c59-41a8-b3f7-c2e355833cb8_73e9997f-49b8-4352-940a-cb825a00e21e.png",
-      "category": "central_bank"
-    },
-    {
-      "title": "New Found Gold: The Story Is Improving, But It Is Still Speculative",
-      "description": "New Found Gold (NFGC) shifts to developer: Hammerdown posts C$15.7M Q2 revenue despite high AISC. Read here for a detailed analysis.",
-      "url": "https://seekingalpha.com/article/4943277-new-found-gold-story-improving-still-speculative",
-      "source": "Seeking Alpha",
-      "date": "2026-09-05",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2227981898/image_2227981898.jpg?io=getty-c-w1536",
-      "category": "metals"
-    },
-    {
-      "title": "Festive stock picks: 10 stocks to buy ahead of the festive season. Do you own any?",
-      "description": "Every year, the festive season shines up with Ganesh Chaturthi, with the crescendo building up through Navratri and Durga Puja, and the finale landing on Dhanteras and Diwali before the wedding season takes over. This is accompanied with higher footfalls, ord\u2026",
-      "url": "https://m.economictimes.com/markets/stocks/news/festive-stock-picks-10-stocks-to-buy-ahead-of-the-festive-season-do-you-own-any/festive-season-picks/slideshow/133788821.cms",
-      "source": "Economictimes.com",
-      "date": "2026-09-05",
-      "image": "https://img.etimg.com/thumb/msid-133788821,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Gold reserves are on the move, but central banks are choosing different vaults",
-      "description": "The world\u2019s gold is changing vaults. The Netherlands is shifting bullion to London, France has moved holdings out of New York, while India now keeps 77% of RBI gold at home. The moves reveal how central banks are rethinking where their ultimate crisis asset s\u2026",
-      "url": "https://economictimes.indiatimes.com/news/economy/policy/gold-reserves-are-on-the-move-but-central-banks-are-choosing-different-vaults/articleshow/133788083.cms",
-      "source": "The Times of India",
-      "date": "2026-09-05",
-      "image": "https://img.etimg.com/thumb/msid-133788232,width-1200,height-630,imgsize-127070,overlay-economictimes/articleshow.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "228% return on SGB premature redemption date today: Gold bond turns Rs 1 lakh investment into nearly Rs 3.28 lakh",
-      "description": "The Reserve Bank of India has announced the premature redemption terms for the SGB 2021-22 Series VI gold bond. Investors can redeem this series starting September 7, 2026, with the redemption value calculated from the average gold prices over the last three \u2026",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/228-return-on-sgb-premature-redemption-date-today-gold-bond-turns-rs-1-lakh-investment-into-nearly-rs-3-28-lakh/articleshow/133786729.cms",
-      "source": "The Times of India",
-      "date": "2026-09-05",
-      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1245895,resizemode-75,msid-133786729/wealth/invest/228-return-on-sgb-premature-redemption-date-today-gold-bond-turns-rs-1-lakh-investment-into-nearly-rs-3-28-lakh.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "Is Russia proving better at protecting friends than fighting enemies in West Africa?",
-      "description": "Russian forces were brought in to help defeat jihadists but they also defend the military leadership in Niger.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z75keq58o",
-      "source": "BBC News",
-      "date": "2026-09-05",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/43bb/live/ac78c4b0-a789-11f1-8a99-ef82e0557ae4.jpg",
-      "category": "geopolitics"
     },
     {
       "title": "Gold slides after robust US payrolls boosts rate hike bets",
@@ -251,130 +242,130 @@
       "category": "market"
     },
     {
-      "title": "Penetron Boosts Sales & Technical Support in Midwest and Central USA",
-      "description": "ORLANDO, Fla., Sept. 5, 2026 /PRNewswire/ -- On August 24, 2026, Penetron announced the appointment of Sean Allison as Specifications Developer for the Midwest and Central USA. This appointment strengthens the Penetron Engineering Support team's ability to su\u2026",
-      "url": "https://www.prnewswire.com/news-releases/penetron-boosts-sales--technical-support-in-midwest-and-central-usa-302870292.html",
-      "source": "PRNewswire",
+      "title": "The RugOne Xsnap 7 Pro is the weirdest smartphone I\u2019ve seen in a while\u2014and I love it",
+      "description": "If you\u2019ve seen one smartphone, you\u2019ve seen them all\u2014boring slabs whose design, apart from the occasional flip phone or foldable, hasn\u2019t seen a meaningful upgrade since touchscreens were invented. That changes today, with the RugOne Xsnap 7 Pro, unveiled at..\n\u2026",
+      "url": "https://thegadgetflow.com/blog/rugone-xsnap-7-pro/",
+      "source": "Gadget Flow",
       "date": "2026-09-05",
-      "image": "https://mmx.prnewswire.com/media/MS1982197/Penetron-Sean-Allison.jpg?id=OA2931419&p=facebook",
+      "image": "https://thegadgetflow.com/wp-content/uploads/2026/09/RugOne-01-1.jpg",
       "category": "market"
     },
     {
-      "title": "Why Atlassian Stock Skyrocketed 92% Higher in August and Why There's Likely More to Come",
-      "description": "Shares of Atlassian (NASDAQ:TEAM) skyrocketed in August, gaining 92.2%, according to data supplied by S&P Global Market Intelligence. That's orders of magnitude higher than the 2.6% gains of the S&P 500.\nThe enterprise software specialist helped dispel the po\u2026",
-      "url": "https://biztoc.com/x/d46709369377c133",
-      "source": "Biztoc.com",
+      "title": "NATO bolsters defense against Russian subs without US support amid tensions",
+      "description": "NATO's independent defense efforts may signal a shift towards greater European military autonomy, potentially altering global power dynamics.\nThe post NATO bolsters defense against Russian subs without US support amid tensions appeared first on Crypto Briefin\u2026",
+      "url": "https://cryptobriefing.com/nato-bolsters-defense-against-russian-subs-without-us-support-amid-tensions/",
+      "source": "Crypto Briefing",
       "date": "2026-09-05",
-      "image": "https://biztoc.com/cdn/d46709369377c133_s.webp",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/05070739/nato-bolsters-defense-against-russian-subs-without-us-suppor-1-800x420.jpeg",
       "category": "geopolitics"
     },
     {
-      "title": "Tuya Smart Unveils Doova at IFA 2026, an AI Home Companion Robot Designed to Support Independently Living Seniors",
-      "description": "BERLIN, Sept. 5, 2026 /PRNewswire/ -- Tuya Smart (NYSE: TUYA; HKEX: 2391), a global AI cloud platform service provider, today unveiled Doova, its new AI home companion robot, at IFA 2026. Designed for seniors living alone, Doova moves beyond the traditional r\u2026",
-      "url": "https://www.prnewswire.com/news-releases/tuya-smart-unveils-doova-at-ifa-2026-an-ai-home-companion-robot-designed-to-support-independently-living-seniors-302870623.html",
-      "source": "PRNewswire",
+      "title": "Fan poll shows early favourite to replace Cathy Engelbert as WNBA commissioner",
+      "description": "All eyes are on Adam Silver to try and find a replacement for WNBA commissioner Cathy Engelbert. Cathy Engelbert is stepping down as WNBA commissioner, but she\u2019s not walking away just yet.",
+      "url": "https://www.hitc.com/fan-poll-shows-early-favourite-to-replace-cathy-engelbert-as-wnba-commissioner/",
+      "source": "HITC - Football, Gaming, Movies, TV, Music",
       "date": "2026-09-05",
-      "image": "https://mmx.prnewswire.com/media/MS1982474/20260905030655EDT_image_1.jpg?id=OA2932187&p=facebook",
+      "image": "https://s.yimg.com/lo/mysterio/api/0a6b6255b473985b3a217fb99b86b150d79eafb055862c400b176d967f078e18/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhitc_articles_832%2Fb648f63dde6323b86962e419f5429eb6.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "Spying, jealousy and police raids: The truth behind Andrew Tate's 'harem' of women. As 'one of his chicks' takes the stand, how a pregnant woman has become the famed misogynist's only hope of avoiding extradition",
+      "description": "As his desperate battle to avoid extradition to the UK reached a Miami courtroom last week, Andrew Tate wheeled out what he must have hoped would be his trump card.",
+      "url": "https://www.dailymail.com/news/article-16106035/andrew-tate-harem-misogynist-extradition.html",
+      "source": "Dailymail.com",
+      "date": "2026-09-05",
+      "image": "https://i.dailymail.com/1s/2026/09/04/16/111057793-0-image-m-16_1788536876430.jpg",
       "category": "market"
     },
     {
-      "title": "LiberNovo to Showcase Dynamic Ergonomic Seating at IFA 2026 and Support Special Olympics New York",
-      "description": "Maxis Series Brings More Space, Support and Choice to Big & Tall Users BERLIN, Sept. 5, 2026 /PRNewswire/ -- LiberNovo is exhibiting at IFA 2026 from September 4 to 8 at Messe Berlin, presenting its dynamic ergonomic seating range at Hall 7, Stand 7.2a-105. T\u2026",
-      "url": "https://www.prnewswire.com/news-releases/libernovo-to-showcase-dynamic-ergonomic-seating-at-ifa-2026-and-support-special-olympics-new-york-302870622.html",
-      "source": "PRNewswire",
-      "date": "2026-09-05",
-      "image": "https://mmx.prnewswire.com/media/MS1982480/20260904122035EDT_image_1.jpg?id=OA2931384&p=facebook",
-      "category": "market"
-    },
-    {
-      "title": "Can Decentralized Energy Prevent the Next Crisis?",
-      "description": "William Gibson:\u201cThe future is already here \u2013 it's just not evenly distributed,.\u201d as decentralized power in Ukraine, Puerto Rico and Cuba shows",
-      "url": "https://www.nakedcapitalism.com/2026/09/can-decentralized-energy-prevent-the-next-crisis.html",
-      "source": "Nakedcapitalism.com",
-      "date": "2026-09-05",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "About Digital Cyril | AI Search & Growth Marketing Consultant Hyderabad",
-      "description": "Founder of Happening Hyderabad (85K+ CXO network). Growth Marketing Consultant & AI Search Strategist. Helping tech founders & CXOs scale brand authority.",
-      "url": "https://digitalcyril.in/ai-visibility-playbook-digital-cyril/",
-      "source": "Digitalcyril.in",
-      "date": "2026-09-05",
-      "image": "https://digitalcyril.in/wp-content/uploads/2026/09/ai-search-visibility-playbook-digital-cyril.png",
-      "category": "market"
-    },
-    {
-      "title": "Tata Sons succession race narrows to Narendran, Agrawal",
-      "description": "While Narendran has emerged as the frontrunner among internal candidates, Agrawal is also in the reckoning with his investment-banking and capital-allocation experience",
-      "url": "https://www.thehindubusinessline.com/companies/tata-sons-succession-race-narrows-to-narendran-agrawal/article71431252.ece",
-      "source": "BusinessLine",
-      "date": "2026-09-05",
-      "image": "https://bl-i.thgim.com/public/incoming/ag9d3n/article71399192.ece/alternates/LANDSCAPE_1200/Tata-Sons-listG2UFEK9TK.4.jpg.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Over 120,000 People Visited BMW Welt To See All The Art Cars",
-      "description": "BMW pulled off something that had never been done before, and more than 120,000 people showed up to see it. All 20 BMW Art Cars were reunited under one roof at BMW Welt in Munich...\nFirst published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/09/05/120000-people-visited-bmw-welt-see-all-art-cars/",
-      "source": "BMWBLOG",
-      "date": "2026-09-05",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/07/BMW-Art-Cars-8.jpg",
-      "category": "market"
-    },
-    {
-      "title": "It\u2019s A Mess, It\u2019s Ridiculous\u2019 \u2014 Ex-Louisiana Tech QB Goes Scorched Earth as LSU HC Lane Kiffin Stands His Ground in NFL Returnees Controversy",
-      "description": "LSU head coach Lane Kiffin has found himself in the eye of a storm in a controversy that has since overshadowed the anticipation surrounding their Week 1 opener against the Clemson Tigers. With LSU standing firm on its policy on NFL returnees, former Louisian\u2026",
-      "url": "https://www.profootballnetwork.com/cfb/its-a-mess-its-ridiculous-ex-louisiana-tech-qb-goes-scorched-earth-as-lsu-hc-lane-kiffin-stands-his-ground-in-nfl-returnees-controversy/?utm_medium=rss&amp;utm_source=nordot",
-      "source": "Pro Football Network",
-      "date": "2026-09-05",
-      "image": "https://s.yimg.com/lo/mysterio/api/a73d807ef5caaabc39499902c5f268c57cac381c5e800cb5e9ef8b30cfe223b5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpro_football_network_512%2Fda928e595f18bb3dfdf6598cb5581819.jpg",
-      "category": "market"
-    },
-    {
-      "title": "India's cyclical recovery faces risks; oil supply shock, AI capex may hit corporate margins from Q2FY27: Report",
-      "description": "India\u2019s economic recovery faces growing risks from the oil supply shock, fading domestic stimulus and slowing AI investment, Nuvama Institutional Equities said. The brokerage expects pressure on corporate margins to emerge from Q2FY27, with small- and mid-cap\u2026",
-      "url": "https://economictimes.indiatimes.com/news/economy/indicators/indias-cyclical-recovery-faces-risks-oil-supply-shock-ai-capex-may-hit-corporate-margins-from-q2fy27-report/articleshow/133792520.cms",
+      "title": "\u2018Always in chaos, standing on one toe\u2019: Matthew Hayden\u2019s blunt verdict on Pakistan cricket amid latest turmoil",
+      "description": "Matthew Hayden, the former Australian cricket opener, shared his insights on the persistent instability within Pakistan cricket. He emphasised how this ongoing chaos hampers players' ability to perform consistently. Despite Pakistan's wealth of natural talent\u2026",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/always-in-chaos-standing-on-one-toe-matthew-haydens-blunt-verdict-on-pakistan-cricket-amid-latest-turmoil/articleshow/133798105.cms",
       "source": "The Times of India",
       "date": "2026-09-05",
-      "image": "https://img.etimg.com/thumb/msid-133792570,width-1200,height-630,imgsize-150398,overlay-economictimes/articleshow.jpg",
+      "image": "https://static.toiimg.com/thumb/msid-133798355,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "category": "market"
+    },
+    {
+      "title": "MKO Abiola documentary to hit Nigerian cinemas in October",
+      "description": "\u201cThis is an investigative documentary about a man, an election, and the global conspiracy that robbed Africa\u2019s largest democracy of her elected leader,\u201d he said.\nThe post MKO Abiola documentary to hit Nigerian cinemas in October appeared first on Vanguard New\u2026",
+      "url": "https://www.vanguardngr.com/2026/09/mko-abiola-documentary-to-hit-nigerian-cinemas-in-october/",
+      "source": "Vanguard",
+      "date": "2026-09-05",
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2025/06/image-248.png",
+      "category": "market"
+    },
+    {
+      "title": "Scientists Detect Strange New Structures Deep Inside the Earth",
+      "description": "They're buried thousands of miles below the surface.\nThe post Scientists Detect Strange New Structures Deep Inside the Earth appeared first on Futurism.",
+      "url": "https://futurism.com/science-energy/strange-new-structures-deep-inside-earth-precursors",
+      "source": "Futurism",
+      "date": "2026-09-05",
+      "image": "https://futurism.com/wp-content/uploads/2026/09/strange-new-structures-deep-inside-earth-precursors.jpg?quality=85&w=1200",
+      "category": "market"
+    },
+    {
+      "title": "Trump Is Importing 'Temu Beef' To Lower Grocery Prices \u2014 Here\u2019s What To Know If You Eat Ground Beef",
+      "description": "Economists and food safety experts break down what American carnivores need to know.",
+      "url": "https://www.huffpost.com/entry/trump-is-importing-temu-beef-to-lower-grocery-prices-heres-what-to-know-if-you-eat-ground-beef-g_l_6a998406e4b0bd4d29d2ef22",
+      "source": "HuffPost",
+      "date": "2026-09-05",
+      "image": "https://img.huffingtonpost.com/asset/6a90532e19000031a06bb766.jpeg?cache=Qj5ioh1R39&ops=500_281%2Cscalefit_1200_630",
       "category": "supply_demand"
     },
     {
-      "title": "7 Public Figures Who Have Openly Criticized Elon Musk, In Their Own Words Over The Years In Public Spats",
-      "description": "Elon Musk faces criticism from celebrities and business figures over his leadership of X, Tesla, and SpaceX, with public disputes highlighting concerns about his influence and conduct.",
-      "url": "https://www.ibtimes.com.au/elon-musk-criticism-public-figures-1875056",
-      "source": "Ibtimes.com.au",
+      "title": "A North Richmond Farm Expands Food Access as CalFresh Cuts Deepen Hunger in East Bay",
+      "description": "As new federal rules push hundreds of thousands of Californians off food assistance, an East Bay nonprofit is growing produce from 10 acres wedged between a landfill, a concrete recycler and the Chevron refinery.",
+      "url": "https://www.kqed.org/news/12097279/a-north-richmond-farm-expands-food-access-as-calfresh-cuts-deepen-hunger-in-east-bay",
+      "source": "KQED",
       "date": "2026-09-05",
-      "image": "https://d.ibtimes.com.au/en/full/1825821/elon-musk-his-mother-supermodel-maye-musk-2022-met-gala-metropolitan-museum-art-may-2.jpg",
-      "category": "market"
+      "image": "https://cdn.kqed.org/wp-content/uploads/sites/10/2026/08/260811-UrbanTilth-JY-15-KQED.jpg",
+      "category": "central_bank"
     },
     {
-      "title": "What would an AfD government in Saxony-Anhalt really mean?",
-      "description": "Detention centers for deportation, mandatory work for asylum-seekers, vigilante groups \u2014 the AfD wants to drastically overhaul Saxony-Anhalt. What does the party have planned? The Alternative for Germany (AfD) could bring in massive changes should it form a g\u2026",
-      "url": "https://www.dw.com/en/what-would-an-afd-government-in-saxony-anhalt-really-mean/a-78869947",
-      "source": "DW (English)",
+      "title": "Trump slaps up to 100% tariffs on imported drones and critical components in latest move against China's proliferation of U.S. drone market, citing national security \u2014 products from allied nation face 10-15% rates",
+      "description": "The Trump administration has imposed tariffs of up to 100% on imported drones and key components, as Washington intensifies its push to reduce reliance on Chinese drone technology and rebuild a domestic supply chain.",
+      "url": "https://www.tomshardware.com/tech-industry/drones/trump-slaps-up-to-100-percent-tariffs-on-imported-drones-and-critical-components-in-latest-move-against-chinas-proliferation-of-u-s-drone-market-citing-national-security-products-from-allied-nation-face-10-15-percent-rates",
+      "source": "Tom's Hardware UK",
       "date": "2026-09-05",
-      "image": "https://static.dw.com/image/78585050_6.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Is Russia's alleged hybrid war on EU a genuine threat?",
-      "description": "Is Russia's alleged hybrid campaign against Europe a genuine threat, and, if so, what has Europe's response been?",
-      "url": "https://www.rte.ie/news/2026/0905/1590402-russia-eu-hybrid-attacks/",
-      "source": "RTE",
-      "date": "2026-09-05",
-      "image": "https://www.rte.ie/images/0024f53c-1600.jpg",
+      "image": "https://cdn.mos.cms.futurecdn.net/VaAC9e5oeKohRSaFxAFD58-1920-80.jpg",
       "category": "geopolitics"
     },
     {
-      "title": "Trump Family\u2019s Crypto Bank Gains OCC Approval with Sheikh al Nahyan as Largest Shareholder",
-      "description": "The Office of the Comptroller of the Currency (OCC) has granted preliminary approval to World Liberty Financial (WLF) for a national trust bank charter, according to people familiar with the matter. The new institution will issue the stablecoin USD1, consolid\u2026",
-      "url": "https://www.naturalnews.com/2026-09-05-trump-family-crypto-bank-gains-occ-approval.html",
-      "source": "Naturalnews.com",
+      "title": "A Data Center Moved Into This Town, And The Neighbors Moved Out",
+      "description": "One neighborhood\u2019s experience shows why public opinion is so strongly against data centers.",
+      "url": "https://www.huffpost.com/entry/data-center-mason-countywest-virginia_n_6a99d6eee4b0e51a2d921dcf",
+      "source": "HuffPost",
       "date": "2026-09-05",
-      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/world-liberty-financial-occ-approval-stablecoin-usd1-3849-original_853985315.jpg",
-      "category": "currency"
+      "image": "https://img.huffingtonpost.com/asset/6a9ad7fb1700004010d447d3.png?cache=KHifmusX2p&ops=1200_630",
+      "category": "market"
+    },
+    {
+      "title": "How to Answer Yet Another Dumb Question About Hasan Piker",
+      "description": "I confess that the vast majority of what I know about political influencer Hasan Piker came from this April interview he did with TNR contributor Aaron Regunberg. I\u2019m constitutionally unsuited for that Twitch life, which isn\u2019t a knock on livestreaming. And I \u2026",
+      "url": "https://newrepublic.com/post/215105/el-sayed-hasan-piker-media",
+      "source": "The New Republic",
+      "date": "2026-09-05",
+      "image": "https://images.newrepublic.com/7e369b8c50076c1b8f91e0c347f72acda5d116e9.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "category": "market"
+    },
+    {
+      "title": "We Took Something Crucial Away From Teenagers. That Was a Huge Mistake.",
+      "description": "In school days dominated by screens, this could help teenagers focus, connect, and learn.",
+      "url": "https://slate.com/technology/2026/09/recess-high-school-teenagers-learning.html",
+      "source": "Slate Magazine",
+      "date": "2026-09-05",
+      "image": "https://compote.slate.com/images/e3cc3b84-8e3d-4a69-9e14-b6a0fb2b807d.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+      "category": "market"
+    },
+    {
+      "title": "Still sending checks in the mail? It's time to stop.",
+      "description": "Check fraud is rising even as the number of checks in circulation is declining. If you're still sending them in the mail, it may be time to stop.",
+      "url": "https://www.usatoday.com/story/money/personal-finance/2026/09/05/is-it-safe-to-mail-checks/91591254007/",
+      "source": "USA Today",
+      "date": "2026-09-05",
+      "image": "https://s.yimg.com/lo/mysterio/api/fbca2a3aaf545bd6344719d0c66a3060de0cf9b57e9eec8cf622254ab211827d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_money_325%2F43ca8db497a662e41b44359729f6b1ac.jpg",
+      "category": "market"
     },
     {
       "title": "Shop LC Labor Day Deals of the Day: 50% off + free shipping",
@@ -401,6 +392,15 @@
       "source": "Livemint",
       "date": "2026-09-04",
       "image": "https://www.livemint.com/lm-img/img/2026/09/04/1600x900/logo/silver_eyf_1784369288449_1784369306512_c4a2eada-728f-41c9-a9cc-6eeee0fb057c_1788537979124_741275a2-e2a1-4c38-95b1-b037590c656b_88e856f1-acf0-4df0-a5db-493828f1487a_360d2eea-f7b0-4ce3-ad3c-1897010616c1.png",
+      "category": "metals"
+    },
+    {
+      "title": "Gold, silver, oil rally: What\u2019s driving precious metals and crude prices - CNBC TV18",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQclVMeEt3aGo0OTNiV0RqWk9rdndDNE8yNFN4YTIwbl94U0N2d05jR0s2NzM4TWRmbkZjYXlZWGRzNGUzWXJuMUw1bkxUcVc4U2p3TjJHVTQtTW5xT0swc0NrcGE2X1dNQUNDZTIxNnV4ODhMYXZJYkQ3Uks4ZFBfd2I1elhhTm9uSWxOYWJheTBtSGhaT3lzeTNrcVMxeGFsT3pzcHA0d09VWmU0bXJYalV5a1QxcGVzX0",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQclVMeEt3aGo0OTNiV0RqWk9rdndDNE8yNFN4YTIwbl94U0N2d05jR0s2NzM4TWRmbkZjYXlZWGRzNGUzWXJuMUw1bkxUcVc4U2p3TjJHVTQtTW5xT0swc0NrcGE2X1dNQUNDZTIxNnV4ODhMYXZJYkQ3Uks4ZFBfd2I1elhhTm9uSWxOYWJheTBtSGhaT3lzeTNrcVMxeGFsT3pzcHA0d09VWmU0bXJYalV5a1QxcGVzX095YXZic9IBxAFBVV95cUxOX3hSWkQtcmZiMWdOcE1PbEhBWGhfZzNObjI1dkVYZXp6TUJjUDlDWXNXcW5IRF9GaDJERjJlbjR3bVJUSlN6a05QbFgxSElYYW5meF9hNVdfWkoxSkh2OUhxWmFfRHdyY0VFck90SDF2M3NNd05ZUldkQVFjQXVNcGliaUhOT3hpNk9iOUJFNldsSUZ4YmVSV1RZWWV3SFoyWFVwemNFb3ZSOThpc0hkejhnNDlCYkF1TDNGcUtPb2FFVk5f?oc=5",
+      "source": "Google News - Precious Metals",
+      "date": "2026-09-04",
+      "image": "",
       "category": "metals"
     }
   ],
@@ -486,7 +486,7 @@
       "platinum_usd_oz": 1823.28
     }
   ],
-  "timestamp": "2026-09-06T13:30:49.372326+05:30",
+  "timestamp": "2026-09-06T16:40:20.875854+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
