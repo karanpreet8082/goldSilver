@@ -1,24 +1,24 @@
 {
   "prices": {
     "gold": {
-      "price_per_gram_inr": 13403.77,
-      "price_usd_oz": 4410.19,
-      "change_percent": -0.45,
-      "change_value_usd": -19.99,
-      "price_per_10g_inr": 134037.68
+      "price_per_gram_inr": 13406.17,
+      "price_usd_oz": 4410.98,
+      "change_percent": -0.43,
+      "change_value_usd": -19.2,
+      "price_per_10g_inr": 134061.69
     },
     "silver": {
-      "price_per_gram_inr": 201.5,
-      "price_usd_oz": 66.3,
-      "change_percent": 0.15,
-      "change_value_usd": 0.1,
-      "price_per_kg_inr": 201503.53
+      "price_per_gram_inr": 201.36,
+      "price_usd_oz": 66.25,
+      "change_percent": 0.07,
+      "change_value_usd": 0.05,
+      "price_per_kg_inr": 201357.64
     },
     "platinum": {
-      "price_per_gram_inr": 5568.73,
-      "price_usd_oz": 1832.26,
-      "change_percent": 0.49,
-      "change_value_usd": 8.98
+      "price_per_gram_inr": 5567.79,
+      "price_usd_oz": 1831.95,
+      "change_percent": 0.48,
+      "change_value_usd": 8.67
     },
     "currencies": {
       "USD_INR": 94.5319,
@@ -30,8 +30,8 @@
       "CAD_INR": 68.3478,
       "SGD_INR": 74.6108
     },
-    "gold_silver_ratio": 66.52,
-    "timestamp": "2026-09-07T15:08:14.220676",
+    "gold_silver_ratio": 66.58,
+    "timestamp": "2026-09-07T17:52:17.487464",
     "source": "GoldAPI"
   },
   "currencies": {
@@ -53,8 +53,8 @@
         "sell": 15,
         "hold": 29
       },
-      "summary": "Gold is showing positive signals. Slight decline of -0.5%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-09-07T15:08:19.246241",
+      "summary": "Gold is showing positive signals. Slight decline of -0.4%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
+      "timestamp": "2026-09-07T17:52:21.978309",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 25
       },
       "summary": "Silver is showing positive signals. Positive daily movement of 0.1%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-09-07T15:08:19.360887",
+      "timestamp": "2026-09-07T17:52:22.060827",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 25
       },
       "summary": "Platinum is showing positive signals. Positive daily movement of 0.5%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-09-07T15:08:19.456132",
+      "timestamp": "2026-09-07T17:52:22.135025",
       "source": "rule-based"
     }
   },
@@ -94,9 +94,9 @@
       ],
       "support": 124137.93,
       "resistance": 140736.5,
-      "current_price": 134037.68,
-      "ma_short": 131438.85,
-      "ma_long": 131844.98,
+      "current_price": 134061.69,
+      "ma_short": 131444.86,
+      "ma_long": 131847.65,
       "trend_score": 2.0
     },
     "silver": {
@@ -106,13 +106,13 @@
         "Price above 4-week moving average (bullish)",
         "Price above 12-week moving average (bullish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Strong momentum: +14.0% in 4 weeks"
+        "Strong momentum: +13.9% in 4 weeks"
       ],
       "support": 176726.94,
       "resistance": 243170.57,
-      "current_price": 201503.53,
-      "ma_short": 193539.28,
-      "ma_long": 200896.31,
+      "current_price": 201357.64,
+      "ma_short": 193502.81,
+      "ma_long": 200880.1,
       "trend_score": 2.0
     },
     "platinum": {
@@ -122,25 +122,52 @@
         "Price above 4-week moving average (bullish)",
         "Price above 12-week moving average (bullish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Strong momentum: +10.1% in 4 weeks"
+        "Strong momentum: +10.0% in 4 weeks"
       ],
       "support": 4961.56,
       "resistance": 6206.5,
-      "current_price": 5568.73,
-      "ma_short": 5382.14,
-      "ma_long": 5399.91,
+      "current_price": 5567.79,
+      "ma_short": 5381.9,
+      "ma_long": 5399.81,
       "trend_score": 2.0
     }
   },
   "news": [
     {
-      "title": "Indian bonds end flat as traders gauge RBI liquidity approach",
-      "description": "In a cautious trading session, Indian government bonds experienced little movement as the Reserve Bank of India implemented temporary liquidity management strategies. By withdrawing substantial amounts through variable rate reverse repos, the central bank aimed to counterbalance the influx from size",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-end-flat-as-traders-gauge-rbi-liquidity-approach/articleshow/133881252.cms",
+      "title": "European shares subdued as surging crude sharpens focus on ECB rate path",
+      "description": "European shares closed largely flat as higher oil prices and renewed US-Iran tensions raised inflation concerns, offsetting stronger euro zone economic data. Energy stocks gained, while Novartis fell after its cholesterol drug failed a key study. Investors also raised bets on further ECB rate hikes,",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/european-shares-subdued-as-surging-crude-sharpens-focus-on-ecb-rate-path/articleshow/133889738.cms",
       "source": "Economic Times Markets",
       "date": "2026-09-07",
       "image": "",
-      "category": "central_bank"
+      "category": "geopolitics"
+    },
+    {
+      "title": "Copper prices scale fresh record high as focus turns to tight supplies outside US",
+      "description": "Copper prices hit a record high as concerns over shortages outside the US boosted buying, while a weaker dollar supported metals. LME copper touched $14,533 a metric ton, surpassing its January peak. Falling Shanghai stocks and strong US inventories highlighted the growing divergence in global coppe",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/copper-price-touches-record-high-focus-on-tight-supplies-outside-us/articleshow/133889161.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-09-07",
+      "image": "",
+      "category": "currency"
+    },
+    {
+      "title": "Brent crude oil price nears $100 as attacks on tankers threaten to worsen supply shock",
+      "description": "Oil prices climbed to a six-week high as US-Iran attacks on commercial vessels disrupted Strait of Hormuz shipping. Falling tanker traffic has heightened fears of a supply shock, with Goldman Sachs warning crude could reach $120 if attacks intensify.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/brent-crude-oil-price-nears-100-as-attacks-on-tankers-threaten-to-worsen-supply-shock/articleshow/133888666.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-09-07",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Gold and silver rise",
+      "description": "Short-term trend in gold and silver have turned positive post the breakout of key resistance level; the trend would remain positive until the support level is breached",
+      "url": "https://www.thehindubusinessline.com/portfolio/personal-finance/gold-and-silver-rise/article71436206.ece",
+      "source": "BusinessLine",
+      "date": "2026-09-06",
+      "image": "https://bl-i.thgim.com/public/incoming/7vjmg1/article71431440.ece/alternates/LANDSCAPE_1200/iStock-506120376.jpg",
+      "category": "metals"
     },
     {
       "title": "A Couple Diversified Into Gold. Their Adult Children Thought They'd Been Scammed.",
@@ -206,15 +233,6 @@
       "category": "geopolitics"
     },
     {
-      "title": "\u2018Father Joe\u2019 Review: Kiefer Sutherland Comes Out With All Guns Blazing In This Deliriously Violent Throwback Beat-\u2019Em-Up \u2013 Venice Film Festival",
-      "description": "Did you ever feel that King of New York could have done with a bit more Wing Chun? Did you ever think that John Woo\u2019s films weren\u2019t quite Catholic enough? That the siege of Troy might have been handled a bit more successfully if the Greeks had a bazooka? If y\u2026",
-      "url": "http://deadline.com/2026/09/father-joe-review-kiefer-sutherland-al-pacino-luc-besson-venice-1237069403/",
-      "source": "Deadline",
-      "date": "2026-09-06",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/116074-FATHER_JOE_-_Actor_Kiefer_Sutherland.jpg?w=1024",
-      "category": "market"
-    },
-    {
       "title": "\u2018Possible Love\u2019 Review: Two Married Couples Begin to Covet Each Others\u2019 Lives in the Latest Stunner from \u2018Burning\u2019 Director Lee Chang-dong",
       "description": "Class conflict achieves vivid new dimension in this sprawling Netflix drama about the relationship between a rich documentary filmmaker and her blue collar subjects.",
       "url": "https://www.indiewire.com/criticism/movies/possible-love-movie-review-1235215136/",
@@ -242,147 +260,138 @@
       "category": "geopolitics"
     },
     {
-      "title": "Embattled FIFA President Gianni Infantino to stand for re-election",
-      "description": "FIFA says its chief has not changed his stance on re-election as Infantino faces widespread criticism.",
-      "url": "https://www.aljazeera.com/sports/2026/9/6/embattled-fifa-president-gianni-infantino-to-stand-for-re-election",
-      "source": "Al Jazeera English",
+      "title": "Pharma sector must attract more investment in clinical trials, R&D: Piyush Goyal",
+      "description": "Piyush Goyal emphasized the importance of enhancing India's pharmaceutical industry to draw in more investments. He urged for the creation of robust supply chains to avoid reliance on a single country. The minister also championed the idea of bolstering resea\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/pharma-sector-must-attract-more-investment-in-clinical-trials-rd-piyush-goyal/articleshow/133847053.cms",
+      "source": "The Times of India",
       "date": "2026-09-06",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26248473026839-1788702725.jpg?resize=1200%2C630",
-      "category": "market"
-    },
-    {
-      "title": "Automotive giant\u2019s stock surges amid plan to cut 50,000 jobs",
-      "description": "The market cheered the company\u2019s largest restructuring ever, but the recovery is not over.",
-      "url": "https://www.thestreet.com/investing/stocks/volkswagen-stock-surges-amid-plan-to-cut-50000-jobs",
-      "source": "TheStreet",
-      "date": "2026-09-06",
-      "image": "https://s.yimg.com/lo/mysterio/api/4dbce28ec374c1f4867e3372f1cb2b71fffd04d96c0ebff738b15177bd0131d8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F4512ce6cf2a8911f041289ce14ead475.jpg",
-      "category": "market"
-    },
-    {
-      "title": "auto-unsub added to PyPI",
-      "description": "Scan Gmail for unsubscribe options and bulk unsubscribe from senders.",
-      "url": "https://pypi.org/project/auto-unsub/",
-      "source": "Pypi.org",
-      "date": "2026-09-06",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "'Spider-Man: Brand New Day' Crosses $900 Million, Nears All-Time Domestic Box Office Record This Labor Day",
-      "description": "Spider-Man: Brand New Day has crossed $900 million domestically, nearing the all-time box office record set by Star Wars: The Force Awakens, with significant repeat viewership driving its success.",
-      "url": "https://www.ibtimes.com.au/spider-man-brand-new-day-box-office-record-1875122",
-      "source": "Ibtimes.com.au",
-      "date": "2026-09-06",
-      "image": "https://d.ibtimes.com.au/en/full/1892620/spider-man-brand-new-day-official-trailer-drops-will-it-succeed.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Assocham urges govt for bilateral talks to resolve visa, permanent magnets issue during BRICS",
-      "description": "As the stage gets set for the BRICS Summit on September 12-13, industry body Assocham has written to Rudendra Tandon, Secretary, Ministry of External Affairs, proposing a structured inter-ministerial engagement with the Ambassador of the People\u2019s Republic of \u2026",
-      "url": "https://www.thehindubusinessline.com/economy/assocham-urges-govt-for-bilateral-talks-to-resolve-visa-permanent-magnets-issue-during-brics/article71435208.ece",
-      "source": "BusinessLine",
-      "date": "2026-09-06",
-      "image": "https://bl-i.thgim.com/public/incoming/c77wig/article71435939.ece/alternates/LANDSCAPE_1200/2col_with_pictuGV5GG66HO.2.jpg.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Stablecoins Won't Scale Without Banks",
-      "description": "With a growing number of institutions exploring stablecoins, the bottleneck is regulated infrastructure they can trust.",
-      "url": "https://decrypt.co/377280/stablecoins-wont-scale-without-banks",
-      "source": "Decrypt",
-      "date": "2026-09-06",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/stablecoins-decrypt-style-01-scaled-gID_7.jpg",
-      "category": "market"
-    },
-    {
-      "title": "US envoys meet Putin: What\u2019s behind latest diplomacy on Russia-Ukraine war?",
-      "description": "Steve Witkoff and Jared Kushner met Putin and headed to Kyiv as part of Trump's new efforts to broker agreement.",
-      "url": "https://www.aljazeera.com/news/2026/9/6/putin-meets-us-envoys-whats-behind-latest-diplomacy-on-russia-ukraine-war",
-      "source": "Al Jazeera English",
-      "date": "2026-09-06",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-05T194829Z_2009750295_RC26DNA93FYO_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-USA-1788685089.jpg?resize=1920%2C1440",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Oil-Rich Oman Bets Big on Renewable Energy",
-      "description": "Oman, a major oil and gas producer, plans to expand its renewable energy capacity as part of its energy diversification and green transition goals. The government recently introduced new national policies to expand Oman\u2019s green energy and cleantech industries\u2026",
-      "url": "https://oilprice.com/Energy/Energy-General/Oil-Rich-Oman-Bets-Big-on-Renewable-Energy.html",
-      "source": "OilPrice.com",
-      "date": "2026-09-06",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-03_vy8pbklth6.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Customs appoints Dim DCG, five ACGs, generates N4.3tn",
-      "description": "By Emma Ujah, Abuja Bureau Chief ABUJA \u2014 The Nigeria Customs Service Board, NCSB, has approved the appointment of Constantine Dim as Deputy Comptroller-General of Customs, DCG, alongside five Assistant Comptroller-Generals, ACGs. The appointments were approve\u2026",
-      "url": "https://www.vanguardngr.com/2026/09/customs-appoints-dim-dcg-five-acgs-generates-n4-3tn/",
-      "source": "Vanguard",
-      "date": "2026-09-06",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2025/10/Nigeria-Customs-Service.webp",
-      "category": "market"
-    },
-    {
-      "title": "2027: INEC warns of \u20a610m fine, 12-month jail term for abusive campaign rhetoric",
-      "description": ".Urges Media to call out erring politicians By Omeiza Ajayi ABUJA: Ahead of the 2027 general election, the Independent National Electoral Commission INEC has warned that politicians and political parties who employ abusive, intemperate or inflammatory languag\u2026",
-      "url": "https://www.vanguardngr.com/2026/09/2027-inec-warns-of-\u20a610m-fine-12-month-jail-term-for-abusive-campaign-rhetoric/",
-      "source": "Vanguard",
-      "date": "2026-09-06",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/02/Inec-hd.webp",
-      "category": "geopolitics"
-    },
-    {
-      "title": "EU tech chief says AI guardrails are coming to the US anyway",
-      "description": "Henna Virkkunen told Axios at the G20 innovation ministerial that the US and the EU keep arriving at similar AI protections, Europe by regulating in advance and America through courts and state law. She made the argument at the summit where Washington launche\u2026",
-      "url": "https://thenextweb.com/news/virkkunen-us-guardrails-inevitable",
-      "source": "The Next Web",
-      "date": "2026-09-06",
-      "image": "https://media.thenextweb.com/2026/09/virkkunen-us-guardrails-inevitable.jpg",
-      "category": "currency"
-    },
-    {
-      "title": "He Worked the Paper Mill for 40 Years. The Federal Insurance on His Pension Turns on One Word He Never Read.",
-      "description": "",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2fc4ad5a-cc0d-457f-93c6-708eff1a61a8",
-      "source": "Yahoo Entertainment",
-      "date": "2026-09-06",
-      "image": null,
-      "category": "central_bank"
-    },
-    {
-      "title": "Today\u2019s leftists are possessed by the spirit of France\u2019s 18th-century guillotine-loving revolutionaries",
-      "description": "The new Jacobins have arrived.",
-      "url": "https://nypost.com/2026/09/06/opinion/our-leftists-are-possessed-by-guillotine-loving-revolutionaries/",
-      "source": "New York Post",
-      "date": "2026-09-06",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/newspress-collage-dwt5z2czj-1788388548404.jpg?quality=75&strip=all&1788374187&w=1200",
-      "category": "market"
-    },
-    {
-      "title": "5+5 policy cuts drug imports by 70%, boosts local production \u2014 NAFDAC",
-      "description": "By Chioma Obinna The National Agency for Food and Drug Administration and Control, NAFDAC, on Sunday disclosed that its 5+5 policy and Ceiling List initiative have triggered a major shift in Nigeria\u2019s pharmaceutical industry, cutting imports of affected medic\u2026",
-      "url": "https://www.vanguardngr.com/2026/09/55-policy-cuts-drug-imports-by-70-boosts-local-production-nafdac/",
-      "source": "Vanguard",
-      "date": "2026-09-06",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2025/06/NAFDAC.jpeg",
+      "image": "https://img.etimg.com/thumb/msid-133847142,width-1200,height-630,imgsize-144230,overlay-economictimes/articleshow.jpg",
       "category": "supply_demand"
     },
     {
-      "title": "Sunday Morning Talk Show Thread 6 September 2026",
-      "description": "The Talk ShowsSep 7th, 2026Guests to be interviewed today on major television talk shows:FACE THE NATION (CBS): Margaret Brennan anchors: Energy Secretary Chris Wright; Rep. Lisa McClain (R-Mich.); Rep. Jason Crow (D-Colo.); Ray Washburne, co-founded the M Cr\u2026",
-      "url": "https://freerepublic.com/focus/f-news/4394424/posts",
-      "source": "Freerepublic.com",
+      "title": "Ahead of the curve in managing inflation",
+      "description": "Headline inflation is rising, driven by food and fuel, while wholesale prices approach ten percent. Core inflation remains stable, and the RBI manages liquidity to counter dollar inflows. The central bank projects inflation for 2026-27 at five percent, within\u2026",
+      "url": "https://economictimes.indiatimes.com/opinion/et-editorial/ahead-of-the-curve-in-managing-inflation/articleshow/133846830.cms",
+      "source": "The Times of India",
       "date": "2026-09-06",
-      "image": null,
+      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-91196,resizemode-75,msid-133846830/opinion/et-editorial/ahead-of-the-curve-in-managing-inflation.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Photos: UN urges global aid after China, Nepal floods kill over 1,300",
+      "description": "UN launches $50m appeal to aid over 84,000 flood survivors in Nepal amid cholera threat and sanitation challenges.",
+      "url": "https://www.aljazeera.com/gallery/2026/9/6/photos-nepal-flood-survivors-face-overwhelming-devastation",
+      "source": "Al Jazeera English",
+      "date": "2026-09-06",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26247155636236-1788709340.jpg?resize=1200%2C630",
       "category": "market"
     },
     {
-      "title": "AI data centers are transforming rural land markets \u2014 and fueling a backlash",
-      "description": "The data center buildout is driving up the price of rural land as some farmers and property owners buy in and others push back against development.",
-      "url": "https://www.cnbc.com/2026/09/06/ai-data-centers-are-transforming-rural-land-markets-fueling-backlash.html",
-      "source": "CNBC",
+      "title": "Streaming six-yard sales through YouTube Live",
+      "description": "Discover how Madras Sarees blends technology and tradition by selling affordable sarees online through innovative live streaming.",
+      "url": "https://www.thehindubusinessline.com/catalyst/streaming-six-yard-sales-through-youtube-live/article71436360.ece",
+      "source": "BusinessLine",
       "date": "2026-09-06",
-      "image": "https://image.cnbcfm.com/api/v1/image/108354712-1787768514226-gettyimages-2292182187-dji_20260826130903_0048_d_q8u6ngun.jpeg?v=1787768547&w=1920&h=1080",
+      "image": "https://bl-i.thgim.com/public/incoming/kkt9ma/article71436359.ece/alternates/LANDSCAPE_1200/BL0709_Brand_Founder%20Ramya%20devanathan.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Americans face record gasoline prices",
+      "description": "NEW YORK: With the war in the Middle East still raising energy costs, Americans face record-high gasoline prices for Labor Day weekend, just as political campai...",
+      "url": "https://kuwaittimes.com/article/49290/business/americans-face-record-gasoline-prices/",
+      "source": "Kuwaittimes.com",
+      "date": "2026-09-06",
+      "image": "https://kuwaittimes.com/kuwaittimes/uploads/images/2026/09/06/439623.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Spider-Man Runs 6-Week String",
+      "description": "Spider-Man: Brand New Day held onto the top spot in movie theaters over the weekend, becoming just the second film this decade to top the box office for six straight weeks. Since the end of July, the Sony superhero movie has ruled over cinemas with rare domin\u2026",
+      "url": "https://www.newser.com/story/395988/spider-man-runs-6-week-string.html",
+      "source": "Newser",
+      "date": "2026-09-06",
+      "image": "https://cdn.newser.com/image/1710025-12-20260906125506.jpeg",
+      "category": "market"
+    },
+    {
+      "title": "Far-right victory in German state expected to send shockwaves throughout the world",
+      "description": "Germany\u2019s far-right AfD party won a state election in the eastern state of Saxony-Anhalt on Sunday. Some experts say the victory sends a message to right-wing populists throughout the world that the political tides are in their favour.",
+      "url": "https://www.cbc.ca/news/world/far-right-afd-germany-world-reaction-9.7334688",
+      "source": "CBC News",
+      "date": "2026-09-06",
+      "image": "https://i.cbc.ca/ais/50ad45cc-a705-4086-b6eb-7ea57ec66d41,1788777338529/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C287%2C5500%2C3093%29%3BResize%3D620",
+      "category": "market"
+    },
+    {
+      "title": "PwC mapped where $31.6T in AI investment will land",
+      "description": "Trillions of dollars in AI infrastructure spending are locked into the pipeline for the next quarter-century, but the destination is far from settled.\nPwC's Global Data Center Outlook, released September 2, 2026, projects $31.6 trillion in cumulative data cen\u2026",
+      "url": "https://biztoc.com/x/5603d4e0e6dd5803",
+      "source": "Biztoc.com",
+      "date": "2026-09-06",
+      "image": "https://biztoc.com/cdn/5603d4e0e6dd5803_s.webp",
+      "category": "currency"
+    },
+    {
+      "title": "Kevin O\u2019Leary says if you earn $68,000 a year and follow this rule, you\u2019ll retire a millionaire",
+      "description": "The Shark Tank star\u2019s advice is simple\u2014but does the math actually hold up?",
+      "url": "https://fortune.com/article/what-is-kevin-oleary-rule-for-turning-68000-salary-into-millionaire-retirement/",
+      "source": "Fortune",
+      "date": "2026-09-06",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2266676931-e1774972061429.jpg?resize=1200,600",
+      "category": "market"
+    },
+    {
+      "title": "Should You Move Your Money? What 1,006 Investors Are Doing Now",
+      "description": "A survey of 1,006 investors shows many are worried, but most are holding steady. Here's when moving money may make sense.",
+      "url": "https://moneylion.com/trending/money/should-you-move-your-money-what-investors-are-doing-now",
+      "source": "Moneylion.com",
+      "date": "2026-09-06",
+      "image": "https://s.yimg.com/lo/mysterio/api/70fec71b026e2c18a0ca5f1598318a17a922f993da70cb0a95391a55f1245d58/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneylion_953%2F896887f0ccfed24cbe6cfa8c336a792b.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Colombia Moves to Reverse Fracking Ban, Eyes $4 Billion in New Oil Investment",
+      "description": "A regime change in Colombia\u2019s federal government is poised to usher in an oil and gas renaissance in the South American nation. After a four-year ban on oil and gas exploration under the previous leftist president Gustavo Petro, a new right-wing administratio\u2026",
+      "url": "https://oilprice.com/Energy/Energy-General/Colombia-Moves-to-Reverse-Fracking-Ban-Eyes-4-Billion-in-New-Oil-Investment.html",
+      "source": "OilPrice.com",
+      "date": "2026-09-06",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-04_r3eq8nafbk.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Temporary Compounding Rules Aim to Keep Starter IV Nutrition Flowing to Premature Newborns as Two Suppliers Close",
+      "description": "FDA issued guidance to prevent a shortage of the starter IV nutrition that premature newborns receive after two outsourcing facilities shut down.",
+      "url": "https://www.medicaldaily.com/fda-neonatal-starter-parenteral-nutrition-supply-gap-guidance-478277",
+      "source": "Medical Daily",
+      "date": "2026-09-06",
+      "image": "https://d.medicaldaily.com/en/full/485549/iv-nutrition-flowing-premature-newborns.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Sanders pushes 'death penalty' for crucial US industry that could give advantage to foreign adversaries",
+      "description": "Progressives on Capitol Hill are pushing a proposal to ban artificial superintelligence, but critics warn the move could hand global tech dominance over to China and Russia.",
+      "url": "https://www.foxnews.com/politics/sanders-pushes-death-penalty-crucial-us-industry-critics-advantage-foreign-adversaries",
+      "source": "Fox News",
+      "date": "2026-09-06",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/bernie-sanders-standing-podium.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "German exit polls suggest far-right party has big lead in regional election",
+      "description": "Exit polls show Germany's AfD taking a commanding lead in a regional election, but it remains unclear whether the far-right party can form the country's first state government since World War II.",
+      "url": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right-exit",
+      "source": "NPR",
+      "date": "2026-09-06",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6671x3752+0+347/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fad%2F8b%2F4944bf8c48818ed67eaa4a898590%2Fap26249584589925.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Germany's far-right achieves an electoral breakthrough in key state election",
+      "description": "Germany's populist, far-right Alternative for Germany party has declared victory in the state of Saxony-Anhalt after more than doubling its share of the vote in the first of several regional elections this fall.",
+      "url": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right",
+      "source": "NPR",
+      "date": "2026-09-06",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6671x3752+0+347/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fad%2F8b%2F4944bf8c48818ed67eaa4a898590%2Fap26249584589925.jpg",
       "category": "market"
     },
     {
@@ -393,15 +402,6 @@
       "date": "2026-09-05",
       "image": "https://bl-i.thgim.com/public/incoming/7vjmg1/article71431440.ece/alternates/LANDSCAPE_1200/iStock-506120376.jpg",
       "category": "metals"
-    },
-    {
-      "title": "Gold paused not peaked, record run could be ahead: Goldman Sachs",
-      "description": "Recent fluctuations in gold prices have emerged, primarily due to the ambiguous stance of the Federal Reserve and escalating conflicts in Iran. Central banks are responding by ramping up gold purchases, reinforcing the fundamental bullish market sentiment. Th\u2026",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/gold-price-rally-forecast-goldman-sachs-tony-kim-central-bank-buying-4000-floor/articleshow/133805812.cms",
-      "source": "The Times of India",
-      "date": "2026-09-05",
-      "image": "https://img.etimg.com/thumb/msid-133805913,width-1200,height-630,imgsize-145352,overlay-economictimes/articleshow.jpg",
-      "category": "geopolitics"
     }
   ],
   "history": [
@@ -488,15 +488,15 @@
     {
       "date": "2026-09-07",
       "week": "2026-W37",
-      "gold_10g": 134037.68,
-      "silver_kg": 201503.53,
-      "platinum_g": 5568.73,
-      "gold_usd_oz": 4410.19,
-      "silver_usd_oz": 66.3,
-      "platinum_usd_oz": 1832.26
+      "gold_10g": 134061.69,
+      "silver_kg": 201357.64,
+      "platinum_g": 5567.79,
+      "gold_usd_oz": 4410.98,
+      "silver_usd_oz": 66.25,
+      "platinum_usd_oz": 1831.95
     }
   ],
-  "timestamp": "2026-09-07T20:38:19.468977+05:30",
+  "timestamp": "2026-09-07T23:22:22.147593+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
