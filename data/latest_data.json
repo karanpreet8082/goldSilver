@@ -1,24 +1,24 @@
 {
   "prices": {
     "gold": {
-      "price_per_gram_inr": 13362.88,
-      "price_usd_oz": 4396.74,
-      "change_percent": -0.75,
-      "change_value_usd": -33.44,
-      "price_per_10g_inr": 133628.75
+      "price_per_gram_inr": 13403.77,
+      "price_usd_oz": 4410.19,
+      "change_percent": -0.45,
+      "change_value_usd": -19.99,
+      "price_per_10g_inr": 134037.68
     },
     "silver": {
-      "price_per_gram_inr": 199.52,
-      "price_usd_oz": 65.65,
-      "change_percent": -0.84,
-      "change_value_usd": -0.56,
-      "price_per_kg_inr": 199518.88
+      "price_per_gram_inr": 201.5,
+      "price_usd_oz": 66.3,
+      "change_percent": 0.15,
+      "change_value_usd": 0.1,
+      "price_per_kg_inr": 201503.53
     },
     "platinum": {
-      "price_per_gram_inr": 5533.29,
-      "price_usd_oz": 1820.6,
-      "change_percent": -0.15,
-      "change_value_usd": -2.68
+      "price_per_gram_inr": 5568.73,
+      "price_usd_oz": 1832.26,
+      "change_percent": 0.49,
+      "change_value_usd": 8.98
     },
     "currencies": {
       "USD_INR": 94.5319,
@@ -30,8 +30,8 @@
       "CAD_INR": 68.3478,
       "SGD_INR": 74.6108
     },
-    "gold_silver_ratio": 66.98,
-    "timestamp": "2026-09-07T12:51:32.665932",
+    "gold_silver_ratio": 66.52,
+    "timestamp": "2026-09-07T15:08:14.220676",
     "source": "GoldAPI"
   },
   "currencies": {
@@ -53,32 +53,32 @@
         "sell": 15,
         "hold": 29
       },
-      "summary": "Gold is showing positive signals. Slight decline of -0.8%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-09-07T12:51:37.794135",
+      "summary": "Gold is showing positive signals. Slight decline of -0.5%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
+      "timestamp": "2026-09-07T15:08:19.246241",
       "source": "rule-based"
     },
     "silver": {
       "metal": "silver",
       "recommendation": "BUY",
       "confidence": {
-        "buy": 56,
-        "sell": 15,
-        "hold": 29
+        "buy": 65,
+        "sell": 10,
+        "hold": 25
       },
-      "summary": "Silver is showing positive signals. Slight decline of -0.8%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-09-07T12:51:38.001075",
+      "summary": "Silver is showing positive signals. Positive daily movement of 0.1%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
+      "timestamp": "2026-09-07T15:08:19.360887",
       "source": "rule-based"
     },
     "platinum": {
       "metal": "platinum",
       "recommendation": "BUY",
       "confidence": {
-        "buy": 56,
-        "sell": 15,
-        "hold": 29
+        "buy": 65,
+        "sell": 10,
+        "hold": 25
       },
-      "summary": "Platinum is showing positive signals. Slight decline of -0.1%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-09-07T12:51:38.100792",
+      "summary": "Platinum is showing positive signals. Positive daily movement of 0.5%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
+      "timestamp": "2026-09-07T15:08:19.456132",
       "source": "rule-based"
     }
   },
@@ -90,30 +90,30 @@
         "Price above 4-week moving average (bullish)",
         "Price above 12-week moving average (bullish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Strong momentum: +7.6% in 4 weeks"
+        "Strong momentum: +8.0% in 4 weeks"
       ],
       "support": 124137.93,
       "resistance": 140736.5,
-      "current_price": 133628.75,
-      "ma_short": 131336.62,
-      "ma_long": 131799.55,
+      "current_price": 134037.68,
+      "ma_short": 131438.85,
+      "ma_long": 131844.98,
       "trend_score": 2.0
     },
     "silver": {
-      "trend": "neutral",
-      "strength": 50,
+      "trend": "bullish",
+      "strength": 75,
       "signals": [
         "Price above 4-week moving average (bullish)",
-        "Price below 12-week moving average (bearish)",
+        "Price above 12-week moving average (bullish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Strong momentum: +12.9% in 4 weeks"
+        "Strong momentum: +14.0% in 4 weeks"
       ],
       "support": 176726.94,
       "resistance": 243170.57,
-      "current_price": 199518.88,
-      "ma_short": 193043.12,
-      "ma_long": 200675.79,
-      "trend_score": 0.0
+      "current_price": 201503.53,
+      "ma_short": 193539.28,
+      "ma_long": 200896.31,
+      "trend_score": 2.0
     },
     "platinum": {
       "trend": "bullish",
@@ -122,13 +122,13 @@
         "Price above 4-week moving average (bullish)",
         "Price above 12-week moving average (bullish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Strong momentum: +9.4% in 4 weeks"
+        "Strong momentum: +10.1% in 4 weeks"
       ],
       "support": 4961.56,
       "resistance": 6206.5,
-      "current_price": 5533.29,
-      "ma_short": 5373.28,
-      "ma_long": 5395.98,
+      "current_price": 5568.73,
+      "ma_short": 5382.14,
+      "ma_long": 5399.91,
       "trend_score": 2.0
     }
   },
@@ -143,13 +143,58 @@
       "category": "central_bank"
     },
     {
-      "title": "Market wrap:  L&amp;T, Bharti Airtel, Infosys, Tech Mahindra top gainers and losers on Nifty and Sensex on Monday",
-      "description": "Indian markets ended lower on Monday, with Sensex and Nifty falling 0.5% each as elevated crude oil prices and geopolitical uncertainty weighed on sentiment. IT and media stocks faced heavy selling, while pharma and healthcare outperformed. Infosys, SBI Life and HDFC Life were among the top losers.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-lt-bharti-airtel-infosys-tech-mahindra-top-gainers-and-losers-on-nifty-and-sensex-on-monday/articleshow/133878571.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-09-07",
-      "image": "",
+      "title": "A Couple Diversified Into Gold. Their Adult Children Thought They'd Been Scammed.",
+      "description": "A couple, both 60, moved $120,000 from a traditional IRA invested in stocks and mutual funds into a self-directed IRA holding physical gold and silver after...",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/couple-diversified-gold-adult-children-150010034.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-09-06",
+      "image": "https://s.yimg.com/lo/mysterio/api/78b092ea9b5aca8ccd7f20cd3d4aa25a541f0771b9889c192f55947d03803416/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F6220857ffa3b67501ddf08d30ff17e66.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "50 Fabrics Every Man Should Be Able to Identify",
+      "description": "To a true connoisseur, the fabric is the soul of the garment. In classic menswear we don\u2019t just look at color. We look at the weave, the weight, and the way the light hits the\u2026",
+      "url": "https://www.gentlemansgazette.com/50-essential-fabrics/",
+      "source": "Gentlemansgazette.com",
+      "date": "2026-09-06",
+      "image": "https://www.gentlemansgazette.com/wp-content/uploads/2026/09/50-menswear-fabrics-banner-1030x579.png",
+      "category": "market"
+    },
+    {
+      "title": "India's \u20b9100 household savings puzzle: \u20b933 goes to banks, while \u20b939 flows to pension funds and markets",
+      "description": "India\u2019s household savings are shifting beyond bank deposits. Their share fell to 33% in FY25, while pension funds, mutual funds, shares and debentures together reached 39%. Yet 68% of household wealth remains in physical assets, highlighting the long runway f\u2026",
+      "url": "https://www.livemint.com/money/personal-finance/indias-100-household-savings-puzzle-33-goes-to-banks-while-39-flows-to-pension-funds-and-markets-11788696086703.html",
+      "source": "Livemint",
+      "date": "2026-09-06",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/bank_deposits_1788702798222_185ef95e-72ac-4f55-a99d-46ef8145f322_1788702801821_249f866f-cc7d-4217-801b-4eb1b98b5001_57282fb7-2158-4607-be0d-88ef339585c4_25abc17d-4f64-424e-96be-14f4c5434705.png",
+      "category": "market"
+    },
+    {
+      "title": "Flood of IPOs: 16 public issues to hit Dalal Street next week, 9 listings scheduled",
+      "description": "Including the September issues, the total fundraising through IPOs in the current calendar year has reached nearly Rs 87,900 crore.",
+      "url": "https://www.moneycontrol.com/news/business/ipo/flood-of-ipos-16-public-issues-to-hit-dalal-street-next-week-9-listings-scheduled-14023663.html",
+      "source": "Moneycontrol",
+      "date": "2026-09-06",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260717055407_Millworks-Technologies-IPO-Allotment.png",
+      "category": "market"
+    },
+    {
+      "title": "JPMorgan, BlackRock funds turn to emerging-market debt amid bond pressure",
+      "description": "The shift towards emerging-market debt may alter global investment strategies, impacting demand for alternative assets like gold.\nThe post JPMorgan, BlackRock funds turn to emerging-market debt amid bond pressure appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/jpmorgan-blackrock-funds-turn-to-emerging-market-debt-amid-bond-pressure/",
+      "source": "Crypto Briefing",
+      "date": "2026-09-06",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/06093733/library-jpmorgan-blackrock-funds-turn-to-emerging-market-debt-am-1-800x450.png",
       "category": "geopolitics"
+    },
+    {
+      "title": "I'm a fashion writer and this is what I'd buy during Macy's Labor Day weekend sale",
+      "description": "SHOPPING: The Macy's Labor Day weekend sale is brimming with designer deals from top brands, including Coach, Karl Lagerfeld, Michael Kors, Nike, Levi's, Calvin Klein, and more.",
+      "url": "https://www.dailymail.com/buyline/fashion/article-16100287/macys-labor-day-fashion-sale.html",
+      "source": "Dailymail.com",
+      "date": "2026-09-06",
+      "image": "https://i.dailymail.com/1s/2026/09/03/13/111028223-0-image-m-40_1788437706706.jpg",
+      "category": "market"
     },
     {
       "title": "Iran warns of \u2018more painful\u2019 response to U.S. attacks as economic pressure mounts",
@@ -170,13 +215,13 @@
       "category": "market"
     },
     {
-      "title": "\u2018Father Joe\u2019 Review: Keifer Sutherland Comes Out With All Guns Blazing In This Deliriously Violent Throwback Beat-\u2019Em-Up \u2013 Venice Film Festival",
-      "description": "Did you ever feel that King of New York could have done with a bit more Wing Chun? Did you ever think that John Woo\u2019s films weren\u2019t quite Catholic enough? That the siege of Troy might have been handled a bit more successfully if the Greeks had a bazooka? If y\u2026",
-      "url": "http://deadline.com/2026/09/father-joe-review-keifer-sutherland-al-pacino-luc-besson-venice-1237069403/",
-      "source": "Deadline",
+      "title": "\u2018Possible Love\u2019 Review: Two Married Couples Begin to Covet Each Others\u2019 Lives in the Latest Stunner from \u2018Burning\u2019 Director Lee Chang-dong",
+      "description": "Class conflict achieves vivid new dimension in this sprawling Netflix drama about the relationship between a rich documentary filmmaker and her blue collar subjects.",
+      "url": "https://www.indiewire.com/criticism/movies/possible-love-movie-review-1235215136/",
+      "source": "IndieWire",
       "date": "2026-09-06",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/116074-FATHER_JOE_-_Actor_Kiefer_Sutherland.jpg?w=1024",
-      "category": "market"
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/POSSIBLE-love.jpg?w=650",
+      "category": "geopolitics"
     },
     {
       "title": "Ultra-rich Americans are dropping stocks and stockpiling historic piles of cash. Where their wealth\u2019s going instead",
@@ -188,42 +233,6 @@
       "category": "market"
     },
     {
-      "title": "Do male ferrets need to be neutered?",
-      "description": "Do Male Ferrets Need to Be Neutered?: Ensuring a Healthy and Happy Hob Yes, male ferrets, known as hobs, absolutely need to be neutered. Neutering prevents serious health problems like adrenal disease and significantly reduces aggressive and undesirable matin\u2026",
-      "url": "https://www.lifesciencesworld.com/do-male-ferrets-need-to-be-neutered/",
-      "source": "Lifesciencesworld.com",
-      "date": "2026-09-06",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "Donald Trump\u2019s golf empire: From gold-plated statues to \u2018Mona Lisa\u2019 courses",
-      "description": "Including Doonbeg, the US president\u2019s courses have hosted six events on tour but The Open at Turnberry remains elusive",
-      "url": "https://www.irishtimes.com/sport/golf/2026/09/06/donald-trumps-golf-empire-from-gold-plated-statues-to-mona-lisa-courses/",
-      "source": "The Irish Times",
-      "date": "2026-09-06",
-      "image": "https://www.irishtimes.com/resizer/v2/W6CWNJYIZZBG5BJO6IOCL3AZNA.jpg?smart=true&auth=ee9cdcad70727ed15b3a7de1f3d1712af626961a7991a820dc63ed44e5cfbfd6&width=1200&height=630",
-      "category": "metals"
-    },
-    {
-      "title": "Intercountry hurler scores big in New York construction sector",
-      "description": "Wild Geese: Jer McCarthy, a Cork man in the Big Apple, recalls building his business amid \u2018days when I don\u2019t remember eating or sleeping\u2019",
-      "url": "https://www.irishtimes.com/business/work/2026/09/06/intercountry-hurler-scores-big-in-new-york-construction-sector/",
-      "source": "The Irish Times",
-      "date": "2026-09-06",
-      "image": "https://www.irishtimes.com/resizer/v2/OT7PNJ6MWFCB7CH4AEVQC2DPIQ.jpeg?smart=true&auth=aef3f65c75e587e8576de52a4c59d5e0052c523607957f563a6d62f5d39e408f&width=1200&height=630",
-      "category": "market"
-    },
-    {
-      "title": "In 1979, Rahul Mehta\u2019s parents sold their gold and silver to fund his first semester in America; decades later, he helped establish eight schools across six IITs",
-      "description": "Rahul Mehta, after selling four companies, now invests in India's intellectual capital.  His foundation supports academic programs at IITs, focusing on key future fields.  Mehta's parents sold their gold to fund his initial US education.  He believes time, ta\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/in-1979-rahul-mehtas-parents-sold-their-gold-and-silver-to-fund-his-first-semester-in-america-decades-later-he-helped-establish-eight-schools-across-six-iits/articleshow/133824709.cms",
-      "source": "The Times of India",
-      "date": "2026-09-06",
-      "image": "https://img.etimg.com/thumb/msid-133824822,width-1200,height-630,imgsize-106590,overlay-economictimes/articleshow.jpg",
-      "category": "metals"
-    },
-    {
       "title": "IFA 2026\u2019s Best Just Declared War on Tech Trade-Offs",
       "description": "IFA 2026\u2019s Best Just Declared War on Tech Trade-OffsEvery gadget seems to come with a built-in apology. Buy the powerful one and the battery dies fast. Buy the pretty one, and it underperforms....",
       "url": "https://www.yankodesign.com/2026/09/06/ifa-2026s-best-just-declared-war-on-tech-trade-offs/",
@@ -233,75 +242,129 @@
       "category": "geopolitics"
     },
     {
-      "title": "Susan Sarandon Says Roles Are Still Being \u2018Taken Away\u2019 from Her Amid Support of Palestine",
-      "description": "\u201dThere are still very strongly held positions within my industry that are held by Zionists and who have not relaxed their feelings towards me,\u201d she said at the Venice Film Festival.",
-      "url": "https://www.indiewire.com/news/festivals/susan-sarandon-blacklisted-palestine-venice-2026-1235215160/",
-      "source": "IndieWire",
+      "title": "Embattled FIFA President Gianni Infantino to stand for re-election",
+      "description": "FIFA says its chief has not changed his stance on re-election as Infantino faces widespread criticism.",
+      "url": "https://www.aljazeera.com/sports/2026/9/6/embattled-fifa-president-gianni-infantino-to-stand-for-re-election",
+      "source": "Al Jazeera English",
       "date": "2026-09-06",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/2293667196-e1788697641772.jpg?w=650",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Analysis-Iran's Hormuz leverage wanes as US economic squeeze bites",
-      "description": "By Samia Nakhoul ISTANBUL, Sept 6 (Reuters) - Six months after a conflict that rattled markets and pushed the Gulf to the brink of a wider war, the tide may...",
-      "url": "https://www.yahoo.com/news/articles/analysis-irans-hormuz-leverage-wanes-124818005.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-09-06",
-      "image": "https://s.yimg.com/lo/mysterio/api/99b2edb8be3076191765c86fd427df9a3aeb8149c991834eb0078d283b51acf3/lightyear_networkapi/resizefill_w800_h533%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F0ee3544e7b52155986e84e3afb7e86e3.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Sugar is outperforming the stock market this year. Here's what's driving it, and where it can go from here",
-      "description": "The sweetener's prices surged this week, reflecting a sharp deterioration in the global supply outlook.",
-      "url": "https://www.cnbc.com/2026/09/06/sugar-is-outperforming-the-stock-market-this-year-whats-driving-it.html",
-      "source": "CNBC",
-      "date": "2026-09-06",
-      "image": "https://image.cnbcfm.com/api/v1/image/107348242-1702653806473-gettyimages-1250817960-Sugar_Price_Rise.jpeg?v=1703592166&w=1920&h=1080",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Air France Opens New Lounge at Frankfurt Airport",
-      "description": "Air France has expanded its lounge network with the opening of a new lounge\u2026",
-      "url": "https://thebulkheadseat.com/air-france-opens-new-lounge-at-frankfurt-airport/",
-      "source": "Thebulkheadseat.com",
-      "date": "2026-09-06",
-      "image": "https://thebulkheadseat.com/wp-content/uploads/2026/09/2-Air-France-lounge-FRA-\u00a9-Wings-Architects-1024x576.png",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26248473026839-1788702725.jpg?resize=1200%2C630",
       "category": "market"
     },
     {
-      "title": "McDonald's India X Account Hijacked With Viral Unpaid Intern Salary Claims, Posts Later Deleted Sparking Memes",
-      "description": "McDonald's India's X account was allegedly hacked, posting claims of an unpaid intern. The incident sparked viral memes and debates, with no official response from the company yet.",
-      "url": "https://www.ibtimes.com.au/mcdonalds-india-social-media-hack-unpaid-intern-claims-1875102",
+      "title": "Automotive giant\u2019s stock surges amid plan to cut 50,000 jobs",
+      "description": "The market cheered the company\u2019s largest restructuring ever, but the recovery is not over.",
+      "url": "https://www.thestreet.com/investing/stocks/volkswagen-stock-surges-amid-plan-to-cut-50000-jobs",
+      "source": "TheStreet",
+      "date": "2026-09-06",
+      "image": "https://s.yimg.com/lo/mysterio/api/4dbce28ec374c1f4867e3372f1cb2b71fffd04d96c0ebff738b15177bd0131d8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F4512ce6cf2a8911f041289ce14ead475.jpg",
+      "category": "market"
+    },
+    {
+      "title": "auto-unsub added to PyPI",
+      "description": "Scan Gmail for unsubscribe options and bulk unsubscribe from senders.",
+      "url": "https://pypi.org/project/auto-unsub/",
+      "source": "Pypi.org",
+      "date": "2026-09-06",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "'Spider-Man: Brand New Day' Crosses $900 Million, Nears All-Time Domestic Box Office Record This Labor Day",
+      "description": "Spider-Man: Brand New Day has crossed $900 million domestically, nearing the all-time box office record set by Star Wars: The Force Awakens, with significant repeat viewership driving its success.",
+      "url": "https://www.ibtimes.com.au/spider-man-brand-new-day-box-office-record-1875122",
       "source": "Ibtimes.com.au",
       "date": "2026-09-06",
-      "image": "https://d.ibtimes.com.au/en/full/213765/mcdonalds.jpg",
+      "image": "https://d.ibtimes.com.au/en/full/1892620/spider-man-brand-new-day-official-trailer-drops-will-it-succeed.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Assocham urges govt for bilateral talks to resolve visa, permanent magnets issue during BRICS",
+      "description": "As the stage gets set for the BRICS Summit on September 12-13, industry body Assocham has written to Rudendra Tandon, Secretary, Ministry of External Affairs, proposing a structured inter-ministerial engagement with the Ambassador of the People\u2019s Republic of \u2026",
+      "url": "https://www.thehindubusinessline.com/economy/assocham-urges-govt-for-bilateral-talks-to-resolve-visa-permanent-magnets-issue-during-brics/article71435208.ece",
+      "source": "BusinessLine",
+      "date": "2026-09-06",
+      "image": "https://bl-i.thgim.com/public/incoming/c77wig/article71435939.ece/alternates/LANDSCAPE_1200/2col_with_pictuGV5GG66HO.2.jpg.jpg",
       "category": "market"
     },
     {
-      "title": "Growing need to recognise innovation potential of Tier-2, Tier-3 cities: Union minister Jitendra Singh",
-      "description": "Union minister Jitendra Singh highlighted the necessity to broaden India's startup ecosystem to include Tier-2 and Tier-3 cities, acknowledging the untapped potential for innovation outside major urban centers. He pointed out the need for stronger connections\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/growing-need-to-recognise-innovation-potential-of-tier-2-tier-3-cities-union-minister-jitendra-singh/articleshow/133837630.cms",
-      "source": "The Times of India",
+      "title": "Stablecoins Won't Scale Without Banks",
+      "description": "With a growing number of institutions exploring stablecoins, the bottleneck is regulated infrastructure they can trust.",
+      "url": "https://decrypt.co/377280/stablecoins-wont-scale-without-banks",
+      "source": "Decrypt",
       "date": "2026-09-06",
-      "image": "https://img.etimg.com/thumb/msid-133837668,width-1200,height-630,imgsize-83956,overlay-economictimes/articleshow.jpg",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/stablecoins-decrypt-style-01-scaled-gID_7.jpg",
       "category": "market"
     },
     {
-      "title": "The French mother who said 'non' to migrants: Woman living on the frontline of Europe's asylum crisis releases footage of young men in life jackets rushing past her property to catch dinghies going to Britain",
-      "description": "H\u00e9lo\u00efse Longuet said her 19th-century family farmhouse on the English Channel coast near Neufch\u00e2tel-Hardelot, south of Boulogne-sur-Mer, is surrounded by young men.",
-      "url": "https://www.dailymail.com/news/article-16087211/The-French-mother-said-non-migrants-Woman-living-frontline-Europes-asylum-crisis-releases-footage-young-men-life-jackets-rushing-past-property-catch-dinghies-going-Britain.html",
-      "source": "Dailymail.com",
+      "title": "US envoys meet Putin: What\u2019s behind latest diplomacy on Russia-Ukraine war?",
+      "description": "Steve Witkoff and Jared Kushner met Putin and headed to Kyiv as part of Trump's new efforts to broker agreement.",
+      "url": "https://www.aljazeera.com/news/2026/9/6/putin-meets-us-envoys-whats-behind-latest-diplomacy-on-russia-ukraine-war",
+      "source": "Al Jazeera English",
       "date": "2026-09-06",
-      "image": "https://i.dailymail.com/1s/2026/09/06/10/110916671-0-image-m-8_1788685221818.jpg",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-05T194829Z_2009750295_RC26DNA93FYO_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-USA-1788685089.jpg?resize=1920%2C1440",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Oil-Rich Oman Bets Big on Renewable Energy",
+      "description": "Oman, a major oil and gas producer, plans to expand its renewable energy capacity as part of its energy diversification and green transition goals. The government recently introduced new national policies to expand Oman\u2019s green energy and cleantech industries\u2026",
+      "url": "https://oilprice.com/Energy/Energy-General/Oil-Rich-Oman-Bets-Big-on-Renewable-Energy.html",
+      "source": "OilPrice.com",
+      "date": "2026-09-06",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-03_vy8pbklth6.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Customs appoints Dim DCG, five ACGs, generates N4.3tn",
+      "description": "By Emma Ujah, Abuja Bureau Chief ABUJA \u2014 The Nigeria Customs Service Board, NCSB, has approved the appointment of Constantine Dim as Deputy Comptroller-General of Customs, DCG, alongside five Assistant Comptroller-Generals, ACGs. The appointments were approve\u2026",
+      "url": "https://www.vanguardngr.com/2026/09/customs-appoints-dim-dcg-five-acgs-generates-n4-3tn/",
+      "source": "Vanguard",
+      "date": "2026-09-06",
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2025/10/Nigeria-Customs-Service.webp",
+      "category": "market"
+    },
+    {
+      "title": "2027: INEC warns of \u20a610m fine, 12-month jail term for abusive campaign rhetoric",
+      "description": ".Urges Media to call out erring politicians By Omeiza Ajayi ABUJA: Ahead of the 2027 general election, the Independent National Electoral Commission INEC has warned that politicians and political parties who employ abusive, intemperate or inflammatory languag\u2026",
+      "url": "https://www.vanguardngr.com/2026/09/2027-inec-warns-of-\u20a610m-fine-12-month-jail-term-for-abusive-campaign-rhetoric/",
+      "source": "Vanguard",
+      "date": "2026-09-06",
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/02/Inec-hd.webp",
+      "category": "geopolitics"
+    },
+    {
+      "title": "EU tech chief says AI guardrails are coming to the US anyway",
+      "description": "Henna Virkkunen told Axios at the G20 innovation ministerial that the US and the EU keep arriving at similar AI protections, Europe by regulating in advance and America through courts and state law. She made the argument at the summit where Washington launche\u2026",
+      "url": "https://thenextweb.com/news/virkkunen-us-guardrails-inevitable",
+      "source": "The Next Web",
+      "date": "2026-09-06",
+      "image": "https://media.thenextweb.com/2026/09/virkkunen-us-guardrails-inevitable.jpg",
       "category": "currency"
     },
     {
-      "title": "The Agent Production Gap: When 171% ROI Isn\u2019t Enough to Ship",
-      "description": "AI agents that successfully reach production scale deliver a 171% global return on investment, a figure that climbs to 192% in the United States, according to IDC and Microsoft research. These returns highlight a clear path to efficiency and profitability. Ye\u2026",
-      "url": "https://forkast.news/the-agent-production-gap-when-171-roi-isnt-enough-to-ship/",
-      "source": "Forkast.news",
+      "title": "He Worked the Paper Mill for 40 Years. The Federal Insurance on His Pension Turns on One Word He Never Read.",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2fc4ad5a-cc0d-457f-93c6-708eff1a61a8",
+      "source": "Yahoo Entertainment",
       "date": "2026-09-06",
-      "image": "https://forkast.news/wp-content/uploads/2026/09/agent-production-gap-171-roi-never-ships-1024x572.jpg",
+      "image": null,
+      "category": "central_bank"
+    },
+    {
+      "title": "Today\u2019s leftists are possessed by the spirit of France\u2019s 18th-century guillotine-loving revolutionaries",
+      "description": "The new Jacobins have arrived.",
+      "url": "https://nypost.com/2026/09/06/opinion/our-leftists-are-possessed-by-guillotine-loving-revolutionaries/",
+      "source": "New York Post",
+      "date": "2026-09-06",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/newspress-collage-dwt5z2czj-1788388548404.jpg?quality=75&strip=all&1788374187&w=1200",
+      "category": "market"
+    },
+    {
+      "title": "5+5 policy cuts drug imports by 70%, boosts local production \u2014 NAFDAC",
+      "description": "By Chioma Obinna The National Agency for Food and Drug Administration and Control, NAFDAC, on Sunday disclosed that its 5+5 policy and Ceiling List initiative have triggered a major shift in Nigeria\u2019s pharmaceutical industry, cutting imports of affected medic\u2026",
+      "url": "https://www.vanguardngr.com/2026/09/55-policy-cuts-drug-imports-by-70-boosts-local-production-nafdac/",
+      "source": "Vanguard",
+      "date": "2026-09-06",
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2025/06/NAFDAC.jpeg",
       "category": "supply_demand"
     },
     {
@@ -323,51 +386,6 @@
       "category": "market"
     },
     {
-      "title": "Wind Power Has Benefitted North Dakota. So Why Have Residents Soured on It?",
-      "description": "This story was originally published by\u00a0Canary Media\u00a0and\u00a0is reproduced here as part of the\u00a0Climate Desk\u00a0collaboration. George Wolff offered a\u00a0cautious greeting through the window of my rented F-150. He was fresh from tending livestock, which explained the drie\u2026",
-      "url": "https://www.motherjones.com/politics/2026/09/wind-power-energy-north-dakota-opposition-trump-politics-coal-mining/",
-      "source": "Mother Jones",
-      "date": "2026-09-06",
-      "image": "https://www.motherjones.com/wp-content/uploads/2026/09/20260903-ndwind.jpg?w=1200&h=630&crop=1",
-      "category": "market"
-    },
-    {
-      "title": "Dementia stole my grandmother from us. I am fighting to give families more time",
-      "description": "After losing her grandmother to vascular dementia in Queens, New York, one advocate now leads the push for earlier Alzheimer's diagnosis nationwide.",
-      "url": "https://www.foxnews.com/opinion/dementia-stole-grandmother-fighting-give-families-more-time",
-      "source": "Fox News",
-      "date": "2026-09-06",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/caregiver-holding-hands-patient.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Trump's DHS Is Preparing To Engage In Voter Suppression and Intimidation",
-      "description": "On September 1, Department of Homeland Security Secretary Markwayne Mullin told reporters that Immigration and Customs Enforcement agents could be deployed to polling sites across the country. He remarked, \u201cThe only reason why we would be at polling places is\u2026",
-      "url": "https://www.commondreams.org/opinion/dhs-voter-suppression",
-      "source": "Common Dreams",
-      "date": "2026-09-06",
-      "image": "https://www.commondreams.org/media-library/image.jpg?id=62232964&width=1200&height=600&coordinates=0%2C384%2C0%2C385",
-      "category": "market"
-    },
-    {
-      "title": "Trump cuts agencies built to protect autistic kids",
-      "description": "Meanwhile, his second administration put autism in the spotlight, pushing unfounded links to childhood vaccines and Tylenol.",
-      "url": "https://richmond.com/news/nation-world/education/article_f2d5fdbf-2de2-5c50-83e8-430c82104c89.html",
-      "source": "Richmond.com",
-      "date": "2026-09-06",
-      "image": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/f/2d/f2d5fdbf-2de2-5c50-83e8-430c82104c89/6a97551b1d858.preview.jpg?crop=1763%2C926%2C0%2C150&resize=1200%2C630&order=crop%2Cresize",
-      "category": "market"
-    },
-    {
-      "title": "Parents of San Diego mosque gunman say a mental health facility failed to heed FBI warning",
-      "description": "Just days before two teenagers carried out a mass shooting at a San Diego mosque, federal law enforcement officials warned the parents of one of the shooters...",
-      "url": "https://www.cnn.com/2026/09/06/us/san-diego-mosque-shooting",
-      "source": "CNN",
-      "date": "2026-09-06",
-      "image": "https://s.yimg.com/lo/mysterio/api/f287247bd813e1c70dc5320da28825a75a41d4a3f053d6125227448df3e69567/lightyear_networkapi/resizefill_w960_h540%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F89d163d68011f6d89a19f4ddb5e94d8d.jpg",
-      "category": "geopolitics"
-    },
-    {
       "title": "Bullion Cues: Support holds",
       "description": "Explore bullish strategies for gold and silver futures as key support levels hold amid recent price fluctuations.",
       "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/bullion-cues-support-holds/article71431424.ece",
@@ -383,24 +401,6 @@
       "source": "The Times of India",
       "date": "2026-09-05",
       "image": "https://img.etimg.com/thumb/msid-133805913,width-1200,height-630,imgsize-145352,overlay-economictimes/articleshow.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "KunstlerCast 451 \u2014 Alan Berman's Psychohistory Prediction Engine, Mapping the Matrix",
-      "description": "Alan Berman is the creator of the Psychohistory Prediction Engine: an open-source map connecting the people, money, and machinery that run things in our world.",
-      "url": "https://www.kunstler.com/p/kunstlercast-451-alan-bermans-psychohistory",
-      "source": "Kunstler.com",
-      "date": "2026-09-05",
-      "image": "https://substackcdn.com/image/fetch/$s_!3Jik!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F214180535%2F0ed82130-fa88-465b-811d-d99cc03fe1b4%2Ftranscoded-1788537906.png",
-      "category": "market"
-    },
-    {
-      "title": "Trump boasts Iran blockade is \u2018unbelievable\u2019 as oil tops $90 and US reserves near danger. Inflation-proof your nest egg",
-      "description": "US oil reserves hit their lowest point since 1982 as experts warn of 'dangerous' supply shortfalls.",
-      "url": "https://finance.yahoo.com/energy/articles/trump-boasts-iran-blockade-unbelievable-111500672.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-09-05",
-      "image": "https://s.yimg.com/lo/mysterio/api/6b7807ba890e904fa65102abba239a7687988e197e840f7c7d70362a3ab6724b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2F5e1f588721d9d1f28ab6c633bfad46eb.jpg",
       "category": "geopolitics"
     }
   ],
@@ -488,15 +488,15 @@
     {
       "date": "2026-09-07",
       "week": "2026-W37",
-      "gold_10g": 133628.75,
-      "silver_kg": 199518.88,
-      "platinum_g": 5533.29,
-      "gold_usd_oz": 4396.74,
-      "silver_usd_oz": 65.65,
-      "platinum_usd_oz": 1820.6
+      "gold_10g": 134037.68,
+      "silver_kg": 201503.53,
+      "platinum_g": 5568.73,
+      "gold_usd_oz": 4410.19,
+      "silver_usd_oz": 66.3,
+      "platinum_usd_oz": 1832.26
     }
   ],
-  "timestamp": "2026-09-07T18:21:38.113862+05:30",
+  "timestamp": "2026-09-07T20:38:19.468977+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
