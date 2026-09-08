@@ -1,24 +1,24 @@
 {
   "prices": {
     "gold": {
-      "price_per_gram_inr": 13372.59,
-      "price_usd_oz": 4399.16,
-      "change_percent": -0.16,
-      "change_value_usd": -7.18,
-      "price_per_10g_inr": 133725.93
+      "price_per_gram_inr": 13352.35,
+      "price_usd_oz": 4392.51,
+      "change_percent": -0.31,
+      "change_value_usd": -13.84,
+      "price_per_10g_inr": 133523.48
     },
     "silver": {
-      "price_per_gram_inr": 200.81,
-      "price_usd_oz": 66.06,
-      "change_percent": -0.17,
-      "change_value_usd": -0.11,
-      "price_per_kg_inr": 200809.36
+      "price_per_gram_inr": 201.42,
+      "price_usd_oz": 66.26,
+      "change_percent": 0.13,
+      "change_value_usd": 0.09,
+      "price_per_kg_inr": 201417.32
     },
     "platinum": {
-      "price_per_gram_inr": 5576.35,
-      "price_usd_oz": 1834.44,
-      "change_percent": 0.2,
-      "change_value_usd": 3.6
+      "price_per_gram_inr": 5597.64,
+      "price_usd_oz": 1841.45,
+      "change_percent": 0.58,
+      "change_value_usd": 10.61
     },
     "currencies": {
       "USD_INR": 94.5485,
@@ -30,8 +30,8 @@
       "CAD_INR": 68.4588,
       "SGD_INR": 74.6947
     },
-    "gold_silver_ratio": 66.59,
-    "timestamp": "2026-09-08T13:45:20.702876",
+    "gold_silver_ratio": 66.29,
+    "timestamp": "2026-09-08T16:48:06.372135",
     "source": "GoldAPI"
   },
   "currencies": {
@@ -53,20 +53,20 @@
         "sell": 15,
         "hold": 29
       },
-      "summary": "Gold is showing positive signals. Slight decline of -0.2%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-09-08T13:45:27.248301",
+      "summary": "Gold is showing positive signals. Slight decline of -0.3%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
+      "timestamp": "2026-09-08T16:48:11.097118",
       "source": "rule-based"
     },
     "silver": {
       "metal": "silver",
       "recommendation": "BUY",
       "confidence": {
-        "buy": 56,
-        "sell": 15,
-        "hold": 29
+        "buy": 65,
+        "sell": 10,
+        "hold": 25
       },
-      "summary": "Silver is showing positive signals. Slight decline of -0.2%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-09-08T13:45:27.370587",
+      "summary": "Silver is showing positive signals. Positive daily movement of 0.1%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
+      "timestamp": "2026-09-08T16:48:11.187777",
       "source": "rule-based"
     },
     "platinum": {
@@ -77,8 +77,8 @@
         "sell": 10,
         "hold": 25
       },
-      "summary": "Platinum is showing positive signals. Positive daily movement of 0.2%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-09-08T13:45:27.460465",
+      "summary": "Platinum is showing positive signals. Positive daily movement of 0.6%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
+      "timestamp": "2026-09-08T16:48:11.273371",
       "source": "rule-based"
     }
   },
@@ -90,30 +90,30 @@
         "Price above 4-week moving average (bullish)",
         "Price above 12-week moving average (bullish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Strong momentum: +7.7% in 4 weeks"
+        "Strong momentum: +7.6% in 4 weeks"
       ],
       "support": 124137.93,
       "resistance": 140736.5,
-      "current_price": 133725.93,
-      "ma_short": 131360.92,
-      "ma_long": 131810.34,
+      "current_price": 133523.48,
+      "ma_short": 131310.3,
+      "ma_long": 131787.85,
       "trend_score": 2.0
     },
     "silver": {
-      "trend": "neutral",
-      "strength": 50,
+      "trend": "bullish",
+      "strength": 75,
       "signals": [
         "Price above 4-week moving average (bullish)",
-        "Price below 12-week moving average (bearish)",
+        "Price above 12-week moving average (bullish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Strong momentum: +13.6% in 4 weeks"
+        "Strong momentum: +14.0% in 4 weeks"
       ],
       "support": 176726.94,
       "resistance": 243170.57,
-      "current_price": 200809.36,
-      "ma_short": 193365.74,
-      "ma_long": 200819.18,
-      "trend_score": 0.0
+      "current_price": 201417.32,
+      "ma_short": 193517.73,
+      "ma_long": 200886.73,
+      "trend_score": 2.0
     },
     "platinum": {
       "trend": "bullish",
@@ -122,43 +122,79 @@
         "Price above 4-week moving average (bullish)",
         "Price above 12-week moving average (bullish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Strong momentum: +10.2% in 4 weeks"
+        "Strong momentum: +10.6% in 4 weeks"
       ],
       "support": 4961.56,
       "resistance": 6206.5,
-      "current_price": 5576.35,
-      "ma_short": 5384.05,
-      "ma_long": 5400.76,
+      "current_price": 5597.64,
+      "ma_short": 5389.37,
+      "ma_long": 5403.13,
       "trend_score": 2.0
     }
   },
   "news": [
     {
-      "title": "India bonds inch up as traders assess RBI liquidity steps",
-      "description": "Indian government bonds climbed on Tuesday as investor sentiment shifted, responding favorably to the Reserve Bank of India's recent temporary liquidity draining measures. These actions helped calm worries about stricter monetary policies. Furthermore, the stronger-than-anticipated inflows from the ",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-inch-up-as-traders-assess-rbi-liquidity-steps/articleshow/133927329.cms",
+      "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
+      "description": "Indian equities extended their decline on Tuesday, with Sensex falling 555 points and Nifty ending below 23,650. Analysts cited elevated crude prices, Fed rate hike concerns and IPO fund absorption, while technical signals suggested 23,600 as key Nifty support.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/133932341.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-09-08",
+      "image": "",
+      "category": "central_bank"
+    },
+    {
+      "title": "U.S. consumers grow more uneasy about jobs and finances as inflation outlook holds steady",
+      "description": "US consumers grew more pessimistic about jobs and personal finances in August. Inflation expectations remained largely unchanged, showing little relief for households. Consumers raised unemployment rate expectations to the highest level since April 2020. Their confidence in finding new jobs after a ",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/consumers-more-worried-about-personal-finances-and-jobs-new-york-fed-report-shows/articleshow/133931535.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-09-08",
+      "image": "",
+      "category": "central_bank"
+    },
+    {
+      "title": "Why US stocks are falling today: Dow Jones crashes 600 points on Trump threat to intensify US-Canada trade war amid oil price rise",
+      "description": "Dow Jones dropped significantly as US President Donald Trump threatened Bombardier's market access. This escalation followed Canada's refusal to certify American Gulfstream jets, sparking counter tariffs. Brent crude futures rose above ninety-seven dollars a barrel after Houthi attacks on Saudi oil ",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/why-us-stocks-are-falling-today-dow-jones-crashes-600-points-on-trump-threat-to-intensify-us-canada-trade-war-amid-oil-price-rise/articleshow/133930253.cms",
       "source": "Economic Times Markets",
       "date": "2026-09-08",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "Thailand's Kasikornbank launches $800 million US dollar bond sale, term sheet shows",
-      "description": "Kasikornbank in Thailand has initiated an impressive $800 million sale of U.S. dollar Tier 2 subordinated bonds. These bonds are designed to absorb potential losses, ensuring the bank's stability in challenging times. Launching at 173 basis points over U.S. Treasuries, the offering exceeded initial ",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/thailands-kasikornbank-launches-800-million-us-dollar-bond-sale-term-sheet-shows/articleshow/133927264.cms",
+      "title": "Bombardier shares fall 6% after Trump threatens to block US market access",
+      "description": "After facing some losses, Bombardier shares showed signs of recovery following President Trump's threats regarding market access. This situation unfolded as Canada implemented counter tariffs on goods from the United States. Bombardier plays a crucial role in the U.S. economy, employing thousands of",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/bombardier-shares-fall-6-after-trump-threatens-to-block-us-market-access/articleshow/133929935.cms",
       "source": "Economic Times Markets",
       "date": "2026-09-08",
       "image": "",
-      "category": "currency"
+      "category": "geopolitics"
     },
     {
-      "title": "Dow Jones| Nasdaq | S&amp;P 500 | US Stock Market Today |Live Updates: US stock futures slip as oil nears $100, inflation data in focus",
-      "description": "",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-nvidia-intel-coinbase-stock-price-news-8th-september-2026/liveblog/133925001.cms",
+      "title": "Five pressure points to watch as Treasury yields creep toward 5%",
+      "description": "The US 10-year Treasury yield is nearing 5%, raising concerns over corporate borrowing, stock valuations, government debt, real rates and dealmaking. Strong economic growth and AI investment are cushioning the impact, but further yield increases could test market resilience.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/five-pressure-points-to-watch-as-treasury-yields-creep-toward-5/slideshow/133929693.cms",
       "source": "Economic Times Markets",
       "date": "2026-09-08",
       "image": "",
-      "category": "inflation"
+      "category": "geopolitics"
+    },
+    {
+      "title": "Gold SWOT: Large asset managers are rebuilding their gold positions following price pullback - KITCO",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbVJ3U2VoRFRRTVlZOTJuc1hZTzhMRFFJcnJyRTg3RjA5Q1ZEbWoxVkUtVmNaMEV6dmZuNk00YXVoak8wN0dHTDg3Y3cxaGt0SlJDd0p0cXFaV21lQmhsYUhOUVMzMmRDS3pnRmtmeTdlc3E4cnlCN3NjUUo3RlNwTWNWbW1wYWszY2FmdlQwVTc2SnNkbHloWS01VHVoZVphYmZRYURSbHdzaGdVbnVXZ3ZndlE5aTds?o",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbVJ3U2VoRFRRTVlZOTJuc1hZTzhMRFFJcnJyRTg3RjA5Q1ZEbWoxVkUtVmNaMEV6dmZuNk00YXVoak8wN0dHTDg3Y3cxaGt0SlJDd0p0cXFaV21lQmhsYUhOUVMzMmRDS3pnRmtmeTdlc3E4cnlCN3NjUUo3RlNwTWNWbW1wYWszY2FmdlQwVTc2SnNkbHloWS01VHVoZVphYmZRYURSbHdzaGdVbnVXZ3ZndlE5aTds?oc=5",
+      "source": "Google News - Precious Metals",
+      "date": "2026-09-08",
+      "image": "",
+      "category": "metals"
+    },
+    {
+      "title": "Limitless Metals Expands Gold IRA Education and Precious Metals Services in Los Angeles, California - GlobeNewswire",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxOeHRWcjdPaTcwOWx0RkxrOE82YmpNWFpzU3ZfZWhUMEVjX2prQkJGUU5WUEJidS1kNjdSZElOZjI4UVM2bDZZU2lUeVJFb1UtUDRKUXFSUkhqdFVEdmJpel8xdmVLZkhWMV9SaXdpZDc3Mi11RnV4Y1ZHZUVCeURMc0l5OWtWVWRjUXYtbnZZejNZUXdiWWI0LVcwbE55czFhXzdVTVhsbmdvYmNDcFVlbUticEhjZ1JxMF",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOeHRWcjdPaTcwOWx0RkxrOE82YmpNWFpzU3ZfZWhUMEVjX2prQkJGUU5WUEJidS1kNjdSZElOZjI4UVM2bDZZU2lUeVJFb1UtUDRKUXFSUkhqdFVEdmJpel8xdmVLZkhWMV9SaXdpZDc3Mi11RnV4Y1ZHZUVCeURMc0l5OWtWVWRjUXYtbnZZejNZUXdiWWI0LVcwbE55czFhXzdVTVhsbmdvYmNDcFVlbUticEhjZ1JxMFBEWjh2TnRCMlhQV2dOaE5XTXVhTXRiSnhpUkVQNlNvcEowR1VQclE2dDFhbmlDb2g3NXotZVg5TkdYQUxQd2ZuOF9vUFk?oc=5",
+      "source": "Google News - Precious Metals",
+      "date": "2026-09-08",
+      "image": "",
+      "category": "metals"
     },
     {
       "title": "BRICS Summit 2026: Trump must be watching amid pushbacks from member states on US tariffs, conflicts and energy trade - WION",
@@ -168,6 +204,51 @@
       "date": "2026-09-08",
       "image": "",
       "category": "geopolitics"
+    },
+    {
+      "title": "Bitget Wallet Launches Assetback Rewards In Bitcoin And Tokenized Assets",
+      "description": "Read the latest update on Bitget Wallet Launches Assetback Rewards In Bitcoin And Tokenized Assets.",
+      "url": "http://www.newsbtc.com/news/bitget-wallet-launches-assetback-rewards-in-bitcoin-and-tokenized-assets/",
+      "source": "newsBTC",
+      "date": "2026-09-07",
+      "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/newsbtc_04_sec-proposes-reg-nms-rule-changes-that-could-affec_5dcdb2.png?fit=1200%2C675",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Rich Dad Poor Dad Author Highlights Decade-Old Bitcoin Bet as $1.2 Billion Debt Claim Draws Scrutiny",
+      "description": "Robert Kiyosaki, author of 'Rich Dad Poor Dad,' discusses his $1.2 billion debt strategy and early Bitcoin investment, highlighting the importance of financial education and strategic borrowing.",
+      "url": "https://www.ibtimes.com.au/robert-kiyosaki-debt-strategy-bitcoin-investment-1875154",
+      "source": "Ibtimes.com.au",
+      "date": "2026-09-07",
+      "image": "https://d.ibtimes.com.au/en/full/1896082/robert-kiyosaki.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Binance\u2019s CZ Says Bitcoin Could Surpass Gold as the Top Reserve Asset Due To This Reason",
+      "description": "CZ believes Bitcoin is laying the groundwork to surpass gold as the world\u2019s most preferred asset, highlighting conditions that are set to enable the milestone.",
+      "url": "https://zycrypto.com/binances-cz-says-bitcoin-could-surpass-gold-as-the-top-reserve-asset-due-to-this-reason/",
+      "source": "ZyCrypto",
+      "date": "2026-09-07",
+      "image": "https://zycrypto.com/wp-content/uploads/2024/03/Fred-Thiel-Foresees-More-Sovereign-Nations-Prioritizing-Bitcoin-Over-Gold-as-Reserve-Asset-1.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "Innovation Engine Drives SharkNinja\u2019s (SN) Sustainable Advantage",
+      "description": "Spheria Asset Management, an investment management company, released its Q2 2026 investor letter for \u201cSpheria Global Opportunities Fund\u201d. The letter can be d...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/innovation-engine-drives-sharkninja-sn-150041521.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-09-07",
+      "image": "https://s.yimg.com/lo/mysterio/api/5c8f2c77c4a9850503422ab9590e15e0e0355b262d6aeb4b9196010b1588d059/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F336e1dfdbb86bccf2d5f0f1ba4d625b4.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Cathie Wood buys $3.5 million of surging tech stock",
+      "description": "Here are Cathie Wood\u2019s latest moves.",
+      "url": "https://www.thestreet.com/investing/stocks/cathie-wood-buys-3-5-million-of-surging-tech-stock",
+      "source": "TheStreet",
+      "date": "2026-09-07",
+      "image": "https://s.yimg.com/lo/mysterio/api/a80e485a6c02b6e5f587d2e089b6766c7096479d6f6d6ab342cc724062613d20/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F2805c9856d0cf3d9c92bd6c2a2cf784a.jpg",
+      "category": "market"
     },
     {
       "title": "Income Tax Dept seized gold, diamonds and silver in a tax search operation from lady\u2019s house and bank locker; she wins case in ITAT Mumbai",
@@ -197,13 +278,22 @@
       "category": "central_bank"
     },
     {
-      "title": "Nifty slips below 23,800 as crude shock and fed fears hit sentiment",
-      "description": "The key equity indices ended with modest losses on Monday, driven by escalating US-Iran tensions and firm crude oil prices. Strong US jobs data also revived expectations of a September Federal Reserve rate hike, while rising US bond yields added pressure on e\u2026",
-      "url": "https://www.business-standard.com/markets/capital-market-news/nifty-slips-below-23-800-as-crude-shock-and-fed-fears-hit-sentiment-126090700901_1.html",
-      "source": "Business Standard",
+      "title": "Crude surge, Fed rate fears drag Nifty lower",
+      "description": "Crude oil surge and Fed rate hike fears push Nifty and Sensex lower, extending losses amid market volatility.",
+      "url": "https://www.thehindubusinessline.com/markets/crude-surge-fed-rate-fears-drag-nifty-lower/article71438795.ece",
+      "source": "BusinessLine",
       "date": "2026-09-07",
-      "image": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
-      "category": "geopolitics"
+      "image": "https://bl-i.thgim.com/public/incoming/m3caa9/article71416611.ece/alternates/LANDSCAPE_1200/SEBI-curbs-coolGT1GEOL28.4.jpg.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Good Faith v. Bad Faith",
+      "description": "\u201cIn conditions of mass democracy, the soft and the infantilising will be preferred over the hard and the necessary again and again.\u201d \u2014Eugyppius on X",
+      "url": "https://www.kunstler.com/p/good-faith-v-bad-faith",
+      "source": "Kunstler.com",
+      "date": "2026-09-07",
+      "image": "https://substackcdn.com/image/fetch/$s_!uoa0!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdaecf1b7-8df9-461a-b999-fb389e20def2_713x429.heic",
+      "category": "market"
     },
     {
       "title": "Sensex today | Stock Market Highlights: Sensex, Nifty decline 0.50%; Infosys, Tech Mahindra lead losses",
@@ -222,42 +312,6 @@
       "date": "2026-09-07",
       "image": "https://s.yimg.com/lo/mysterio/api/b6b553304fb5efbf990a89caca3226325b53230c50b5ed7e2778b8ecde47c159/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2Ff9a67c057a6c62509c41d414f4317801.jpg",
       "category": "geopolitics"
-    },
-    {
-      "title": "The Iran conflict is creating a new problem for Canadian investors",
-      "description": "Martin Pelletier: While equities remain focused on AI growth, bond investors are confronting higher yields and less global capital. Read on",
-      "url": "https://financialpost.com/investing/iran-conflict-creating-new-problem-for-canadian-investors",
-      "source": "Financial Post",
-      "date": "2026-09-07",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/09/0905-mg-iran-markets.png",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Coinbase Brings BTC, ETH and SOL Derivatives to Canada as Eric Richmond Pushes \u2018Everything Exchange\u2019 Vision",
-      "description": "Coinbase has launched 23 regulated perpetual and dated futures contracts for eligible Canadian clients, including contracts tied to Bitcoin, Ether, and Solan...",
-      "url": "https://www.ccn.com/news/crypto/coinbase-bitcoin-ethereum-solana-futures-canada/",
-      "source": "Crypto Coins News",
-      "date": "2026-09-07",
-      "image": "https://s.yimg.com/lo/mysterio/api/56b4a683eb41a4b5a4fbbcfd517017bc3ccb70ddec1f1df7a68aad76964b4ae6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fccn_928%2F5e9e93deaed0f0a0b90eb186c5071ef0",
-      "category": "market"
-    },
-    {
-      "title": "Crude surge, Fed rate fears drag Nifty lower",
-      "description": "Crude oil surge and Fed rate hike fears push Nifty and Sensex lower, extending losses amid market volatility.",
-      "url": "https://www.thehindubusinessline.com/markets/crude-surge-fed-rate-fears-drag-nifty-lower/article71438795.ece",
-      "source": "BusinessLine",
-      "date": "2026-09-07",
-      "image": "https://bl-i.thgim.com/public/incoming/m3caa9/article71416611.ece/alternates/LANDSCAPE_1200/SEBI-curbs-coolGT1GEOL28.4.jpg.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "Good Faith v. Bad Faith",
-      "description": "\u201cIn conditions of mass democracy, the soft and the infantilising will be preferred over the hard and the necessary again and again.\u201d \u2014Eugyppius on X",
-      "url": "https://www.kunstler.com/p/good-faith-v-bad-faith",
-      "source": "Kunstler.com",
-      "date": "2026-09-07",
-      "image": "https://substackcdn.com/image/fetch/$s_!uoa0!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdaecf1b7-8df9-461a-b999-fb389e20def2_713x429.heic",
-      "category": "market"
     },
     {
       "title": "PM Modi's call to cut gold purchases & 15% tax change India's import numbers",
@@ -287,120 +341,66 @@
       "category": "supply_demand"
     },
     {
-      "title": "Discouraged US Homebuyers Get Two Pieces of Good News",
-      "description": "With mortgage rates on a steady climb amid global economic uncertainty following the start of the war in Iran, it is hard for millions of aspiring homebuyers squeezed to the sidelines of the market by years of rising housing costs to see a way out of the ongo\u2026",
-      "url": "https://biztoc.com/x/227eb878a74cc841",
-      "source": "Biztoc.com",
-      "date": "2026-09-07",
-      "image": "https://biztoc.com/cdn/227eb878a74cc841_s.webp",
-      "category": "geopolitics"
-    },
-    {
-      "title": "VCT Pacific Stage 2 2026 Week 8 opens with Nongshim RedForce facing Global Esports",
-      "description": "The outcome of this matchup could significantly influence team standings and seeding, impacting their chances in international competitions.\nThe post VCT Pacific Stage 2 2026 Week 8 opens with Nongshim RedForce facing Global Esports appeared first on Crypto B\u2026",
-      "url": "https://cryptobriefing.com/vct-pacific-stage-2-ns-vs-ge-week-8/",
+      "title": "HDFC Bank and ICICI Bank buy India\u2019s first tokenized bond from REC",
+      "description": "India's tokenized bond market entry, leveraging CBDC for atomic settlement, could set a precedent for global financial infrastructure evolution.\nThe post HDFC Bank and ICICI Bank buy India\u2019s first tokenized bond from REC appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/india-first-tokenized-bond-hdfc-icici-rec/",
       "source": "Crypto Briefing",
       "date": "2026-09-07",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/07094458/the-valorant-masters-santiago-stage-during-nongshim-redforce-800x420.jpeg",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/07124706/library-hdfc-bank-and-icici-bank-buy-india-s-first-tokenized-bon-800x450.png",
       "category": "market"
     },
     {
-      "title": "UAE vows energy exports won\u2019t be held hostage by Iran war",
-      "description": "The UAE's strategic infrastructure expansion mitigates regional conflict risks, ensuring energy market stability and asserting geopolitical leverage.\nThe post UAE vows energy exports won\u2019t be held hostage by Iran war appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/uae-energy-exports-iran-war-hormuz/",
-      "source": "Crypto Briefing",
+      "title": "Edu leaves Nottingham Forest after turbulent spell",
+      "description": "Global head of football Edu leaves Nottingham Forest after just over a year at the City Ground.",
+      "url": "https://www.bbc.com/sport/football/articles/cj06m1e3e75o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "source": "BBC News",
       "date": "2026-09-07",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/07094442/library-uae-vows-energy-exports-won-t-be-held-hostage-by-iran-wa-800x450.png",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Tata Boeing Aerospace delivers 400 'made in India' Apache fuselages",
-      "description": "Tata Boeing Aerospace Limited (TBAL) has successfully rolled out the 400th fuselage for the AH-64E Apache attack helicopter, from its state-of-the-art facility in Hyderabad, according to an official statement issued on Monday.\nTBAL is a joint venture between \u2026",
-      "url": "https://www.business-standard.com/external-affairs-defence-security/news/tata-boeing-aerospace-delivers-400-made-in-india-apache-fuselages-126090700976_1.html",
-      "source": "Business Standard",
-      "date": "2026-09-07",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/07/thumb/fitandfill/1200X628/1788788574-5277.jpg",
+      "image": "https://s.yimg.com/lo/mysterio/api/fa96b32c50814cae375dff61404af775ed70a8538971d8a7426e5a19590e43ef/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fe3ee591386a2137ad0e08f0d4f7191ce.jpg",
       "category": "market"
     },
     {
-      "title": "Gasoline prices, over $4 per gallon, hit record high for Labor Day",
-      "description": "With elevated prices for crude oil, a major component of gasoline, the price at the pump is higher than it's ever been for the holiday weekend.",
-      "url": "https://www.cnbc.com/2026/09/07/gas-prices-labor-day-record-high-road-trip.html",
-      "source": "CNBC",
-      "date": "2026-09-07",
-      "image": "https://image.cnbcfm.com/api/v1/image/108358933-1788526509850-gettyimages-2170230028-20240901_tiffany_2856g.jpeg?v=1788526591&w=1920&h=1080",
-      "category": "market"
-    },
-    {
-      "title": "Chaotic Eclipse Released A PoC For NVIDIA GreenSection Memory Corruption Zero-Day",
-      "description": "Chaotic Eclipse released GreenSection, a PoC exploit for an Nvidia GreenSection Memory Corruption Zero-Day Security researcher\u00a0Chaotic Eclipse, also known as INFINITE NIGHTMARE, MSNightmare and Nightmare-Eclipse, released a new zero-day exploit targeting Nvid\u2026",
-      "url": "https://securityaffairs.com/198589/hacking/chaotic-eclipse-released-a-poc-for-nvidia-greensection-memory-corruption-zero-day.html",
-      "source": "Securityaffairs.com",
-      "date": "2026-09-07",
-      "image": "https://securityaffairs.com/wp-content/uploads/2019/12/NVIDIA-CVE-2019-5702.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Do You Believe West Pharmaceutical Services (WST) Represents a Tremendous Opportunity?",
-      "description": "Generation Investment Management, an investment management firm, released its \u201cGlobal Equity Strategy\u201d second quarter 2026 investor letter. The letter can be...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/believe-west-pharmaceutical-services-wst-134251739.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-09-07",
-      "image": "https://s.yimg.com/lo/mysterio/api/cb11478dc4d7e038ef560a154a3953bcfd93f3bb63167e8831f0bdf264cc0d93/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F3da65c788695754bfdb5c982fc3e065c.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Five-year fuel contract with Mauritius: IndianOil turns 25-year presence into strategic foothold",
-      "description": "India has signed a five-year fuel supply agreement with Mauritius under which IndianOil will meet the island\u2019s entire import requirement of fuels, marking the first such long-term deal with a country outside South Asia and signalling India\u2019s emergence as a tr\u2026",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/five-year-fuel-contract-with-mauritius-indianoil-turns-25-year-presence-into-strategic-foothold/articleshow/133880391.cms",
+      "title": "Taiwan's Wistron raises $1.5 billion in global share sale to fund raw material purchases",
+      "description": "Nvidia supplier Wistron is raising $1.47 billion through a global share sale as surging AI spending drives demand for servers and components. The Taiwanese company will use the proceeds to buy raw materials in foreign currencies. Wistron is also expanding pro\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/taiwans-wistron-raises-1-5-billion-in-global-share-sale-to-fund-raw-material-purchases/articleshow/133889813.cms",
       "source": "The Times of India",
       "date": "2026-09-07",
-      "image": "https://img.etimg.com/thumb/msid-133884065,width-1200,height-630,imgsize-1503309,overlay-economictimes/articleshow.jpg",
+      "image": "https://img.etimg.com/thumb/msid-133889813,width-1200,height-630,imgsize-230188,overlay-etmarkets/articleshow.jpg",
       "category": "supply_demand"
     },
     {
-      "title": "Notes on the camp of the fascist saints",
-      "description": "I remember a car advertisement from way back in the day in which the Mexican actor Ricardo Montalb\u00e1n asked the TV audience to consider the sheer luxuriousness of \u201crich Corinthian leather.\u201d Is this thing on YouTube? (Ten seconds later). Of course it is: There \u2026",
-      "url": "https://www.lawyersgunsmoneyblog.com/2026/09/notes-on-the-camp-of-the-fascist-saints",
-      "source": "Lawyersgunsmoneyblog.com",
-      "date": "2026-09-07",
-      "image": "https://www.lawyersgunsmoneyblog.com/wp-content/uploads/2026/09/800cdcac18eab40af7af9ea8cd72791a5e-260826-NYM-Trump-41-Final.rsquare.w700.webp",
-      "category": "market"
-    },
-    {
-      "title": "Congress is looking to repeal a Social Security rule that impacts retirees who are still earning \u2014 is it the right move?",
-      "description": "Millions of retirees could see a benefit boost if a new law passes Congress, but the impact on the trust fund could be more significant.",
-      "url": "https://finance.yahoo.com/economy/policy/articles/congress-looking-repeal-social-security-133000521.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-09-07",
-      "image": "https://s.yimg.com/lo/mysterio/api/10edf2cfceebedef2ff37d4528906971a7419aecd10fc2ae2dc11940bd8ca76e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2Fc6a87839475445bb8d2f638fe5893780.jpg",
-      "category": "market"
-    },
-    {
-      "title": "One attack, many Americas: Why 9/11 and its many griefs land differently 25 years later",
-      "description": "Twenty-five years after the 9/11 attacks, their impact continues to resonate differently.  Personal histories and political actions shape individual understandings of the event.  Government policies and foreign interventions created new societal divisions and\u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/one-attack-many-americas-why-9/11-and-its-many-griefs-land-differently-25-years-later/articleshow/133883403.cms",
+      "title": "European shares subdued as surging crude sharpens focus on ECB rate path",
+      "description": "European shares closed largely flat as higher oil prices and renewed US-Iran tensions raised inflation concerns, offsetting stronger euro zone economic data. Energy stocks gained, while Novartis fell after its cholesterol drug failed a key study. Investors al\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/european-shares-subdued-as-surging-crude-sharpens-focus-on-ecb-rate-path/articleshow/133889738.cms",
       "source": "The Times of India",
       "date": "2026-09-07",
-      "image": "https://img.etimg.com/thumb/msid-133883401,width-1200,height-630,imgsize-207746,overlay-economictimes/articleshow.jpg",
+      "image": "https://img.etimg.com/thumb/msid-133889783,width-1200,height-630,imgsize-118018,overlay-etmarkets/articleshow.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "The Real Satellite Race Isn\u2019t About Rockets \u2014 It\u2019s About Who Controls the Spectrum in Your Phone",
+      "description": "The satellite race everyone is watching plays out on launchpads, but the contest that determines who profits runs through a far less visible battlefield: the...",
+      "url": "https://247wallst.com/investing/2026/09/07/the-real-satellite-race-isnt-about-rockets-its-about-who-controls-the-spectrum-in-your-phone/",
+      "source": "24/7 Wall St.",
+      "date": "2026-09-07",
+      "image": "https://s.yimg.com/lo/mysterio/api/11c523adee3d9f31b40c65c4e0b4173cf81c44ce0f7651900f2bf72cfe1f80df/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F0b0d1213ef664d758aaa9b4a542ae81a.jpg",
       "category": "market"
     },
     {
-      "title": "Trump Crypto News: BTC $81,000 Rejection Puts September Fed Meeting in Focus",
-      "description": "In Trump crypto news, US employers added 162,000 jobs in August, far above the roughly 65,000 economists had expected, while the unemployment rate held stead...",
-      "url": "https://cryptonews.com/news/trump-crypto-news-august-jobs-report-bitcoin/",
-      "source": "Cryptonews",
+      "title": "Cipriani tops off Miami\u2019s tallest tower south of Manhattan with $53M penthouses and a black book to match",
+      "description": "Cipriani Residences Miami is putting the finishing touch on its Brickell skyscraper with a pair of penthouses so lavish they come with their own zip code in the sky, The Post has learned.",
+      "url": "https://nypost.com/2026/09/07/real-estate/cipriani-tops-off-tallest-tower-south-of-manhattan-with-53m-penthouses-and-a-global-perks-book/",
+      "source": "New York Post",
       "date": "2026-09-07",
-      "image": "https://s.yimg.com/lo/mysterio/api/4b9967ba5a894d3b84d7c89089fce82510ccd55a106286594265bed94bb8f533/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptonews_us_711%2F2af3852e2d3780b318ae40d31f8257cf",
-      "category": "central_bank"
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/140016236.jpg?quality=75&strip=all&w=1200",
+      "category": "market"
     },
     {
-      "title": "Toronto accessibility influencer on her role in TIFF opener 'Being Heumann'",
-      "description": "Canadian disability rights activist Taylor Lindsay-Noel hopes her small role in the upcoming film \"Being Heumann\" will help amplify the message behind her work \u2014 that accessibility remains a daily challenge for many people with disabilities.",
-      "url": "https://www.cbc.ca/news/canada/toronto/tiff-accessibility-being-heumann-access-by-tay-9.7334726",
-      "source": "CBC News",
+      "title": "Germany\u2019s democracy rests on one party\u2019s choice",
+      "description": "By supporting the German establishment firewall against the AfD, the BSW is doing the opposite of what it promised Read Full Article at RT.com",
+      "url": "https://www.rt.com/news/645220-germany-democracy-afd-bsw/",
+      "source": "RT",
       "date": "2026-09-07",
-      "image": "https://i.cbc.ca/ais/9d706f52-e3d0-4677-a85b-20cac95d2cc9,1788786550020/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C403%2C2688%2C1512%29%3BResize%3D620",
+      "image": "https://mf.b37mrtl.ru/files/2026.09/article/6a9ee79885f5402b621d7714.jpg",
       "category": "market"
     }
   ],
@@ -488,15 +488,15 @@
     {
       "date": "2026-09-08",
       "week": "2026-W37",
-      "gold_10g": 133725.93,
-      "silver_kg": 200809.36,
-      "platinum_g": 5576.35,
-      "gold_usd_oz": 4399.16,
-      "silver_usd_oz": 66.06,
-      "platinum_usd_oz": 1834.44
+      "gold_10g": 133523.48,
+      "silver_kg": 201417.32,
+      "platinum_g": 5597.64,
+      "gold_usd_oz": 4392.51,
+      "silver_usd_oz": 66.26,
+      "platinum_usd_oz": 1841.45
     }
   ],
-  "timestamp": "2026-09-08T19:15:27.472999+05:30",
+  "timestamp": "2026-09-08T22:18:11.288394+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
