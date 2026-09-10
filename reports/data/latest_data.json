@@ -54,7 +54,7 @@
         "hold": 25
       },
       "summary": "Gold is showing positive signals. Strong daily gain of 1.1%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-09-10T11:37:09.253945",
+      "timestamp": "2026-09-10T13:44:30.156203",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 25
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 1.3%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-09-10T11:37:09.339480",
+      "timestamp": "2026-09-10T13:44:30.274375",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 25
       },
       "summary": "Platinum is showing positive signals. Strong daily gain of 2.0%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-09-10T11:37:09.413696",
+      "timestamp": "2026-09-10T13:44:30.384221",
       "source": "rule-based"
     }
   },
@@ -134,49 +134,31 @@
   },
   "news": [
     {
-      "title": "Bitcoin consolidates near $78,000 as investors await key US inflation, Fed cues",
-      "description": "Bitcoin traded near the $78,000 mark on Thursday as investors awaited key US inflation data and the Federal Reserve\u2019s September 16 rate decision. The cryptocurrency remained range-bound amid macroeconomic uncertainty, while Ethereum and major altcoins also declined. Analysts said upcoming economic d",
-      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-consolidates-near-78000-as-investors-await-key-us-inflation-fed-cues/articleshow/134005595.cms",
+      "title": "US stocks today: US stocks open lower after hotter-than-expected producer inflation data",
+      "description": "US stocks opened lower on Thursday after August producer prices strengthened expectations of a possible Federal Reserve rate hike this month. The Dow, S&amp;P 500 and Nasdaq fell at the open, while escalating Middle East tensions pushed oil prices above $100 a barrel, adding to inflation and market ",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-openslower-after-hotter-than-expected-producer-inflation-data/articleshow/134012655.cms",
       "source": "Economic Times Markets",
       "date": "2026-09-10",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "Rupee slumps 38 paise to close at 95.46 against US dollar",
-      "description": "The Indian rupee slipped by 38 paise, settling at 95.46 against the US dollar on Thursday, influenced by Brent crude oil prices rising above USD 102 per barrel. Forex traders highlighted conflicting factors affecting the currency, such as portfolio outflows alongside costly crude prices. While the d",
-      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-slumps-38-paise-to-close-at-95-46-against-us-dollar/articleshow/134005537.cms",
+      "title": "Sebi launches Demat 2.0 pilot for tokenised corporate bonds",
+      "description": "Sebi has launched Demat 2.0, a pilot for tokenised corporate bonds using distributed ledger technology and wholesale e-rupee settlement. REC, L&amp;T and IIFL have raised Rs 1,025 crore, while future phases will enable trading and retail investor access in India.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-launches-demat-2-0-pilot-for-tokenised-corporate-bonds/articleshow/134011029.cms",
       "source": "Economic Times Markets",
       "date": "2026-09-10",
       "image": "",
-      "category": "geopolitics"
+      "category": "currency"
     },
     {
-      "title": "Copper price's record rally highlights global mining-smelting mismatch, IPCPA says",
-      "description": "Copper prices are soaring to unprecedented levels, driven by a significant global supply imbalance. While mining operations struggle to meet demand, smelting capabilities are rapidly increasing. This disparity creates substantial structural challenges in the copper market. Moreover, anticipated US t",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/copper-prices-record-rally-highlights-global-mining-smelting-mismatch-ipcpa-says/articleshow/134003955.cms",
+      "title": "Dow Jones| Nasdaq | S&amp;P 500 | US Stock Market Today |Live Updates: S&amp;P 500, Dow futures attempt recovery ahead of inflation report",
+      "description": "",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-apple-oracle-tsmc-stock-price-news-10th-september-2026/liveblog/134009466.cms",
       "source": "Economic Times Markets",
       "date": "2026-09-10",
       "image": "",
-      "category": "geopolitics"
-    },
-    {
-      "title": "CAS wild swing: Sensex soars 1,000 points on expiry day but ends only 138 points higher",
-      "description": "In a surprising turnaround, India's stock market indices, Sensex and Nifty, erased intraday losses to close positively on Thursday. Ending a three-day decline, the benchmarks saw Power Grid and Axis Bank surge by nearly two percent, contributing to the upward momentum. Additionally, significant name",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/cas-swing-sensex-closes-138-pts-higher-nifty-above-23450-as-market-reverses-losses-despite-soaring-oil-prices-whats-ahead/articleshow/134003708.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-09-10",
-      "image": "",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Global Market: European shares edge higher ahead of ECB rate decision",
-      "description": "European shares edged higher after their sharpest one-day decline in two months, as investors awaited an expected ECB rate hike and Christine Lagarde\u2019s comments on inflation. Rising oil prices above $100 a barrel remained a key concern for markets.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-edge-higher-ahead-of-ecb-rate-decision/articleshow/134001720.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-09-10",
-      "image": "",
-      "category": "central_bank"
+      "category": "inflation"
     },
     {
       "title": "Commodity Support and Resistance Levels for Precious Metals, Energy, and Agricultural Futures on 2026-09-10 - KuCoin",
@@ -206,73 +188,82 @@
       "category": "metals"
     },
     {
-      "title": "Pan Global Intersects 15 Meters of 3.9 g/t Gold From Surface, C\u00e1rmenes Project, Spain",
-      "description": "Providencia drillhole PVD15 intersects 15 meters grading 3.90 g/t gold, 0.04% copper, 0.11% nickel and 0.12% cobalt, commencing from surface Includes 8 meters of 6.79 g/t gold and grades up to 18.55 g/t gold over 1 meter with 2.13 g/t combined platinum and pa\u2026",
-      "url": "https://financialpost.com/globe-newswire/pan-global-intersects-15-meters-of-3-9-g-t-gold-from-surface-carmenes-project-spain",
-      "source": "Financial Post",
+      "title": "The inheritance-fuelled cocaine mums of Melbourne's elite schools drove me back to Sydney. What goes on behind closed doors shocked even me: AMANDA GOFF",
+      "description": "I thought Melbourne's old-money set would be a world away from Bondi's flashy excess. Instead, I found inheritance-fuelled cocaine use and an married AFL player doing lines over breakfast.",
+      "url": "https://www.dailymail.com/lifestyle/article-16116105/melbourne-cocaine-mums-private-school-elite-inheritance-amanda-goff.html",
+      "source": "Dailymail.com",
       "date": "2026-09-09",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/09/figure-1-drillhole-pvd15-cross-section-and-selected-results-.png",
-      "category": "platinum"
-    },
-    {
-      "title": "why are bond yields rising and how it affects you",
-      "description": "Understand why global bond yields are rising, how this affects borrowing costs, investments, and the impact on Singapore's economy and financial markets. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/business/companies-markets/st-explains-why-are-bond-yields-rising-and-how-does-it-affect-me",
-      "source": "The Straits Times",
-      "date": "2026-09-09",
-      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/52bb4e09041b5b51aa16c5b4da8878425efaff62982eca8c7ba722a51eb97876",
+      "image": "https://i.dailymail.com/1s/2026/09/09/11/111136261-0-image-m-14_1788949627368.jpg",
       "category": "market"
     },
     {
-      "title": "NEOS Gold High Income ETF (IAUI): An Income-Focused Approach to Gold Exposure",
-      "description": "The NEOS Gold High Income ETF (IAUI) pairs gold exposure with a data-driven covered call strategy, seeking high monthly income while preserving upside pot...",
-      "url": "http://www.etf.com/sections/etf-industry-perspective/neos-gold-high-income-etf-iaui-income-focused-approach-gold?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-      "source": "Etf.com",
-      "date": "2026-09-09",
-      "image": "https://s.yimg.com/lo/mysterio/api/11d3ad0f7f3db4627bd478ffcf1b0f957db5876a968fd96a6cb731d57ce8d782/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Findexuniverse.com%2Fdc3c854838baf8f40b1fffb1adc45d61.png",
-      "category": "metals"
-    },
-    {
-      "title": "Skip the Mine, Pocket the Gold: 5 Royalty Streamers Are Crushing Producers in 2026",
-      "description": "Gold near record highs rewards mine operators handsomely, but a quieter group of companies collects checks without touching a shovel, and their cash margins...",
-      "url": "https://247wallst.com/investing/2026/09/09/skip-the-mine-pocket-the-gold-5-royalty-streamers-are-crushing-producers-in-2026/",
+      "title": "Signet Jewelers Surges 14% as Raised Profit Outlook Overrides Flat Sales Guidance, Tapestry Holds Steady",
+      "description": "Signet Jewelers just posted its sixth straight earnings beat and sent its stock soaring, but the company held its full-year sales guidance flat, leaving inve...",
+      "url": "https://247wallst.com/investing/2026/09/09/signet-jewelers-surges-14-as-raised-profit-outlook-overrides-flat-sales-guidance-tapestry-holds-steady/",
       "source": "24/7 Wall St.",
       "date": "2026-09-09",
-      "image": "https://s.yimg.com/lo/mysterio/api/76a45c09fd4e5c6c3131516f7c9c333aa6e8713611841cc98a4f61f8d149e95f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F47cf575b9c03aa03caef6f90a9a80038.jpg",
+      "image": "https://s.yimg.com/lo/mysterio/api/bcdccc11370b2dce95a6a7d356f4be929d0bd0d9956b4a9625eab813308fe93c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F4f9d81517967cb538e6ac98216d6f8d3.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Broker\u2019s call: Cholamandalam Inv (Buy)",
+      "description": "Motilal Oswal recommends buying Cholamandalam Investment with a target price of \u20b92,160, citing strong growth prospects and diversification.",
+      "url": "https://www.thehindubusinessline.com/markets/brokers-call-cholamandalam-inv-buy/article71447514.ece",
+      "source": "BusinessLine",
+      "date": "2026-09-09",
+      "image": "https://bl-i.thgim.com/public/news/1h3iso/article71447584.ece/alternates/LANDSCAPE_1200/Cholamandalam%20Investment%20and%20Finance%20Company.jpg",
+      "category": "market"
+    },
+    {
+      "title": "The Cheapest Way to Own a Copper Mine Is to Let Someone Else Build It",
+      "description": "VANCOUVER, BC, Sept. 9, 2026 /PRNewswire/ -- Canada News Group News Commentary - Copper is the metal the energy transition cannot proceed without, and the market reflects it. Fortune Business Insights values the global copper market at approximately US$279.29\u2026",
+      "url": "https://www.prnewswire.com/news-releases/the-cheapest-way-to-own-a-copper-mine-is-to-let-someone-else-build-it-302872897.html",
+      "source": "PRNewswire",
+      "date": "2026-09-09",
+      "image": "https://mmx.prnewswire.com/media/MS1979649/Screenshot-2026-09-01-at-8-48-11-AM.jpg?id=OA2937066&p=facebook",
+      "category": "market"
+    },
+    {
+      "title": "Roaches, flooding, unpaid loans: dozens of Chinatown residents, businesses face uncertainty as landlord\u2019s empire crumbled",
+      "description": "This article was produced by the BGA\u2019s Illinois Answers Project and Chinatown Spotlight. Read the Chicago Reader\u2019s previous reporting about the Heung Seng Corporation here. Janice Zhen gestured in exasperation to a large hole above her toilet with exposed pip\u2026",
+      "url": "https://chicagoreader.com/news/chinatown-residents-businesses-uncertainty-jiazhao-frank-chen-empire-crumbled/",
+      "source": "Chicago Reader",
+      "date": "2026-09-09",
+      "image": "https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/09/JaniceZhen_Bucket_AshLanexJuly242026-scaled.jpg?fit=2560%2C1707&ssl=1",
       "category": "geopolitics"
     },
     {
-      "title": "Sensex today | Stock Market Highlights: Sensex crashes 813 pts, Nifty closes at 23,431 as crude crosses $100",
-      "description": "Sensex, Nifty, Share Prices Highlights: Indian shares fell for a \u200bthird consecutive session on Wednesday to their lowest levels in three months \u200cas Brent crude futures rose above $100 a \u200bbarrel for the first time since late July, \u2060fanning concerns about its i\u2026",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-9th-september-2026/article71445394.ece",
+      "title": "Private final consumption expenditure growth holds up at 7.1% in Q1 FY27",
+      "description": "India's private final consumption expenditure grew 7.1% in Q1 FY27, reflecting steady economic activity despite a declining GDP share.",
+      "url": "https://www.thehindubusinessline.com/data-stories/data-focus/private-final-consumption-expenditure-growth-holds-up-at-71-in-q1-fy27/article71446854.ece",
       "source": "BusinessLine",
       "date": "2026-09-09",
-      "image": "https://bl-i.thgim.com/public/incoming/jacsh3/article71445396.ece/alternates/LANDSCAPE_1200/stock%20market%204.jpg",
+      "image": "https://bl-i.thgim.com/public/incoming/tuqjzd/article71447235.ece/alternates/LANDSCAPE_1200/iStock-1346853640.jpg",
       "category": "market"
     },
     {
-      "title": "Gold price today, Wednesday, September 9, 2026: Gold prices drop following U.S. strikes on five Iranian oil tankers",
-      "description": "Gold futures opened at $4,399 per troy ounce on Wednesday, September 9, 2026, down 0.9% from Tuesday's closing price. Gold moved back higher in early trading...",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-september-9-2026-gold-prices-drop-following-us-strikes-on-five-iranian-oil-tankers-104123795.html",
-      "source": "Yahoo Entertainment",
+      "title": "Here Are Tuesday\u2019s Top Wall Street Analyst Research Calls: Abercrombie & Fitch, Affirm Holdings, Eagle Materials, Klarna Group, Martin Marietta Materials, Oklo, Qualcomm, Robinhood Markets, Ulta Beauty, and More",
+      "description": "Stocks took a beating Tuesday as surging oil prices and looming inflation data rattled every corner of the market, and now Wall Street analysts are reshuffli...",
+      "url": "https://247wallst.com/investing/2026/09/09/here-are-tuesdays-top-wall-street-analyst-research-calls-abercrombie-fitch-affirm-holdings-eagle-materials-klarna-group-martin-marietta-materials-oklo-qualcomm-robinhood-markets-ul/",
+      "source": "24/7 Wall St.",
       "date": "2026-09-09",
-      "image": "https://s.yimg.com/lo/mysterio/api/413d8298c43675dcd560dd2335effdd034823c01ce3f4bbe3a1b9573d20f8a99/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fwednesday.png",
-      "category": "metals"
+      "image": "https://s.yimg.com/lo/mysterio/api/00c5649b0c9024f485b8a161ef799ebaeaf513bcfda8e96e447ee6bce7750ce8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F0347fce6d81fa4ee16c290ba9c9ca05b.jpg",
+      "category": "inflation"
     },
     {
-      "title": "Tech and mining stocks dominate the TSX top-performer list amid 'commodity super cycle'",
-      "description": "This year's ranking of the Toronto Stock Exchange's top-performing companies shows investors were capitalizing on the commodities super cycle, Canada's efforts to build infrastructure and the furious build-out of AI data centres across the world.",
-      "url": "https://www.nationalobserver.com/2026/09/09/news/tech-mining-stocks-dominate-tsx-top-performer-list-amid-commodity-super-cycle",
-      "source": "National Observer",
+      "title": "PhonePe's Sameer Nigam unveils vision for next decade of financial inclusion at GFF 2026",
+      "description": "The CEO highlights that PhonePe has worked alongside NPCI to systematically break down the 'walls'- smartphone, bank account, and border barriers that have historically kept people out of the digital economy",
+      "url": "https://www.thehindubusinessline.com/money-and-banking/phonepes-sameer-nigam-unveils-vision-for-next-decade-of-financial-inclusion-at-gff-2026/article71446691.ece",
+      "source": "BusinessLine",
       "date": "2026-09-09",
-      "image": "https://www.nationalobserver.com/sites/default/files/styles/social_share/public/img/2026/09/09/553101830bbfe77c4bbe201057a9992f9999d77aba169a92cd3903f84e396e6a.jpg.jpeg?itok=bOl6CqpM",
-      "category": "supply_demand"
+      "image": "https://bl-i.thgim.com/public/incoming/bohior/article71368628.ece/alternates/LANDSCAPE_1200/BIZ-PHONEPE_GNVG30FFCFBM.3.jpg.jpg",
+      "category": "market"
     },
     {
-      "title": "JinkoSolar Announces Proposed Change of Company Name to Jinko Holdings Limited and Provides Strategic Investment Update",
-      "description": "SHANGRAO, China, Sept. 9, 2026 /PRNewswire/ -- JinkoSolar Holding Co., Ltd. (\"JinkoSolar\" or the \"Company\") (NYSE: JKS), today announced that its board of directors (the \"Board\") has approved a proposal to change the Company's English name to \"Jinko Holdings \u2026",
-      "url": "https://www.prnewswire.com/news-releases/jinkosolar-announces-proposed-change-of-company-name-to-jinko-holdings-limited-and-provides-strategic-investment-update-302873616.html",
-      "source": "PRNewswire",
+      "title": "Hudbay Recognized as a Top Performer by the Toronto Stock Exchange with Inclusion in the TSX30",
+      "description": "TORONTO, Sept. 09, 2026 (GLOBE NEWSWIRE) \u2014 Hudbay Minerals Inc. (\u201cHudbay\u201d or the \u201cCompany\u201d) (TSX, NYSE: HBM) is proud to be recognized as a 2026 TSX30\u2122 winner by the Toronto Stock Exchange (TSX). The annual ranking recognizes the top 30 performing stocks over\u2026",
+      "url": "https://financialpost.com/globe-newswire/hudbay-recognized-as-a-top-performer-by-the-toronto-stock-exchange-with-inclusion-in-the-tsx30",
+      "source": "Financial Post",
       "date": "2026-09-09",
       "image": null,
       "category": "market"
@@ -332,76 +323,85 @@
       "category": "metals"
     },
     {
-      "title": "Freedom of navigation and respect for international law should remain pivotal priorities: Rajnath Singh",
-      "description": "Defence Minister Rajnath Singh emphasised secure sea lanes and maritime trade for South Asia. He met Sri Lankan President Dissanayake, reaffirming joint regional security efforts. Indian and Sri Lankan ports can drive shared economic growth and prosperity. Bo\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/freedom-of-navigation-and-respect-for-international-law-should-remain-pivotal-priorities-rajnath-singh/articleshow/133966814.cms",
+      "title": "Why the PB&J still runs the American lunchbox at 125: Allergies and school bans could not kill it",
+      "description": "The peanut butter and jelly sandwich celebrates 125 years of enduring simplicity and affordability. Industrial innovations and wartime needs cemented its status as an American staple food.  Peanut allergies prompted creative ingredient substitutions, expandin\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/why-the-pbj-still-runs-the-american-lunchbox-at-125-allergies-and-school-bans-could-not-kill-it/articleshow/133971579.cms",
       "source": "The Times of India",
       "date": "2026-09-09",
-      "image": "https://img.etimg.com/thumb/msid-133966975,width-1200,height-630,imgsize-124490,overlay-economictimes/articleshow.jpg",
+      "image": "https://img.etimg.com/thumb/msid-133971605,width-1200,height-630,imgsize-191834,overlay-economictimes/articleshow.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Smelters face severe stress amid soaring copper prices: Industry body",
+      "description": "IPCPA said treatment and refining charges have plunged to unprecedented negative levels as constrained mine output and expanding smelting capacity tighten concentrate supply.",
+      "url": "https://www.business-standard.com/industry/news/smelters-face-severe-stress-amid-soaring-copper-prices-industry-body-126090901426_1.html",
+      "source": "Business Standard",
+      "date": "2026-09-09",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-04/29/thumb/fitandfill/1200X628/1777454679-8037.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Lumentum President Sells 1,500 Shares",
+      "description": "Wupen Yuen, President, Global Bus. Units at Lumentum Holdings Inc. (NASDAQ:LITE), sold 1,500 shares of common stock between Aug. 28, 2026, and Sept. 1, 2026. SEC Form 4 filing\nTransaction summary\nTransaction value based on SEC Form 4 weighted average sale pri\u2026",
+      "url": "https://biztoc.com/x/c5c1aa1e24a46004",
+      "source": "Biztoc.com",
+      "date": "2026-09-09",
+      "image": "https://biztoc.com/cdn/c5c1aa1e24a46004_s.webp",
       "category": "market"
     },
     {
-      "title": "U.K. Broadcaster Channel 4\u2019s Plans to Cut 28% of Workforce Prompts Parliamentary Scrutiny: \u2018Today\u2019s News Will Be Deeply Worrying\u2019",
-      "description": "Channel 4\u2019s plans to cut over a quarter of its workforce are set to be scrutinized by a parliamentary committee. The British public service broadcaster confirmed Wednesday it planned to slash around 340 roles, equivalent to 28% of its headcount, within the ne\u2026",
-      "url": "https://variety.com/2026/tv/global/channel-4-workforce-cuts-28-scrutiny-1236855605/",
-      "source": "Variety",
+      "title": "NIA searches two Patna flats over Ranchi RSS office attack",
+      "description": "NIA searched two Patna flats in Chitragupta Nagar over the Ranchi RSS office petrol bomb attack; Rs20 lakh cash found, income tax informed.",
+      "url": "https://timesofindia.indiatimes.com/city/patna/nia-searches-two-patna-flats-over-ranchi-rss-office-attack/articleshow/133971604.cms",
+      "source": "The Times of India",
       "date": "2026-09-09",
-      "image": "https://variety.com/wp-content/uploads/2024/01/Channel4-1.jpg?w=1000&h=563&crop=1",
+      "image": "https://static.toiimg.com/thumb/msid-133971650,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "category": "market"
     },
     {
-      "title": "IAB UK's Creator Marketing Summit (15 Sept) signals boardroom shift\u2014here's what brand budget allocation looks like now",
-      "description": "IAB UK's Creator Marketing Growth Summit lands in London on 15 Sept 2026. Free for members and creators. Here's why the creator economy is now board-level priority.",
-      "url": "https://www.corpfluence.com/blog/iab-uk-creator-summit-brand-budget-boardroom-priority",
-      "source": "Corpfluence.com",
+      "title": "Jayakumar takes charge as NCL CMD",
+      "description": "N Franklin Jayakumar appointed CMD of Northern Coalfields Limited, Coal India subsidiary in Singrauli; veteran mining professional with 34+ years\u2019 experience.",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/jayakumar-takes-charge-as-ncl-cmd/articleshow/133971641.cms",
+      "source": "The Times of India",
       "date": "2026-09-09",
-      "image": "https://www.corpfluence.com/blog/images/img_2026-08-13_iab_uks_creator_marketing_summit_15_sept_signals_boardroom_s_text.png",
+      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Axis Bank plans 32-storey HQ, may split 3,000 staff across Mumbai",
+      "description": "Facing space constraints for its nearly 3,000 employees, Axis Bank plans to relocate offices in Mumbai while awaiting a five-year construction of a new headquarters. This situation highlights the ongoing struggle for firms in densely populated cities to find \u2026",
+      "url": "https://www.livemint.com/industry/banking/axis-bank-plans-32-storey-hq-may-split-3-000-staff-across-mumbai-11788958853619.html",
+      "source": "Livemint",
+      "date": "2026-09-09",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/INDIA-DEBT-AXIS-BANK-0_1787563090228_1787563122746_efdbf5a8-2b7c-48c9-9ca7-f0695cd07daf_1788960627311_fc80146e-afe2-44cc-9c5b-a940bb4caa14_f4ef59bb-0c1b-47fe-992c-bf1eb0beb066_afadf50b-2ceb-4147-895f-9402cb2be7a2.JPG",
       "category": "market"
     },
     {
-      "title": "Abaxx Exchange LNG Futures Reach New Monthly Volume Highs in August 2026",
-      "description": "GOM and NPA LNG futures each reached their highest monthly trading volumes to date, with aggregate LNG volume increasing 24% over July. Trading conditions improved even as headline volume fell. Outright trades rose to 15% of all activity, bid-ask spreads narr\u2026",
-      "url": "https://financialpost.com/globe-newswire/abaxx-exchange-lng-futures-reach-new-monthly-volume-highs-in-august-2026",
-      "source": "Financial Post",
+      "title": "Virtually trying on clothes using AI can help cut fast-fashion waste, study reveals",
+      "description": "Virtually trying on clothes could persuade more people to experiment with renting clothes.",
+      "url": "https://theconversation.com/virtually-trying-on-clothes-using-ai-can-help-cut-fast-fashion-waste-study-reveals-275367",
+      "source": "The Conversation Africa",
       "date": "2026-09-09",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/09/abaxx-exchange-lng-trading-activity-through-august-2026.png",
+      "image": "https://images.theconversation.com/files/758736/original/file-20260909-70-2u3b8z.jpg?ixlib=rb-4.1.1&rect=0%2C83%2C1000%2C500&q=45&auto=format&w=1356&h=668&fit=crop",
       "category": "market"
     },
     {
-      "title": "County Group to invest \u20b92,500 crore to develop luxury homes in Gurugram",
-      "description": "The 24-acre residential project will have 844 apartments and is scheduled to be completed by 2032",
-      "url": "https://www.thehindubusinessline.com/news/real-estate/county-group-to-invest-2500-crore-to-develop-luxury-homes-in-gurugram/article71446675.ece",
-      "source": "BusinessLine",
+      "title": "Family of brain dead Cuttack teacher donates liver, corneas at capital hosp",
+      "description": "Brain-dead teacher in Bhubaneswar donates liver and corneas at SUM Ultimate Medicare after family consent, marking hospital\u2019s fifth multiple cadaveric retrieval.",
+      "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/family-of-brain-dead-cuttack-teacher-donates-liver-corneas-at-capital-hosp/articleshow/133971630.cms",
+      "source": "The Times of India",
       "date": "2026-09-09",
-      "image": "https://bl-i.thgim.com/public/incoming/2nnejc/article71438212.ece/alternates/LANDSCAPE_1200/PO25_Home_sales_pic.jpg",
-      "category": "market"
+      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "category": "geopolitics"
     },
     {
-      "title": "Telesat named to the TSX30, ranking among the top performing stocks on the Toronto Stock Exchange",
-      "description": "Telesat\u2019s entry onto the list underscores the company\u2019s robust TSX performance over a three-year period in the lead-up to the launch of Telesat Lightspeed OTTAWA, Ontario, Sept. 09, 2026 (GLOBE NEWSWIRE) \u2014 Telesat Corporation (Nasdaq and TSX: TSAT), one of th\u2026",
-      "url": "https://financialpost.com/globe-newswire/telesat-named-to-the-tsx30-ranking-among-the-top-performing-stocks-on-the-toronto-stock-exchange",
-      "source": "Financial Post",
+      "title": "Citadel Securities bond chief urges Fed to address long-term yield curve issues",
+      "description": "The bond chief's concerns may prompt the Fed to reconsider its rate strategy, influencing market expectations and financial conditions.\nThe post Citadel Securities bond chief urges Fed to address long-term yield curve issues appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/citadel-securities-bond-chief-urges-fed-to-address-long-term-yield-curve-issues/",
+      "source": "Crypto Briefing",
       "date": "2026-09-09",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "Hammond Power Solutions Included in 2026 TSX30 Ranking",
-      "description": "GUELPH, Ontario, Sept. 09, 2026 (GLOBE NEWSWIRE) \u2014 Hammond Power Solutions Inc. (\u201cHPS\u201d) (TSX: HPS.A) a leading manufacturer of dry-type transformers and power quality solutions, announced their inclusion in the 2026 TSX30 ranking, highlighting the top-perform\u2026",
-      "url": "https://financialpost.com/globe-newswire/hammond-power-solutions-included-in-2026-tsx30-ranking",
-      "source": "Financial Post",
-      "date": "2026-09-09",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "Supreme Court chief justice praises outgoing Smithsonian leader who was under pressure from Trump admin",
-      "description": "John Roberts praised Lonnie Bunch's Smithsonian leadership as the secretary retired amid mounting Trump administration pressure over museum exhibits.",
-      "url": "https://www.foxnews.com/politics/supreme-court-chief-justice-praises-outgoing-smithsonian-leader-pressure-trump-admin",
-      "source": "Fox News",
-      "date": "2026-09-09",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/lonnie-bunch-attends-an-event.jpg",
-      "category": "market"
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/04/03120632/btc-saylor-ship-800x418.png",
+      "category": "central_bank"
     }
   ],
   "history": [
@@ -496,7 +496,7 @@
       "platinum_usd_oz": 1857.35
     }
   ],
-  "timestamp": "2026-09-10T17:07:09.424166+05:30",
+  "timestamp": "2026-09-10T19:14:30.397419+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
