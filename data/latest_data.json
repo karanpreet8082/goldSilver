@@ -54,7 +54,7 @@
         "hold": 25
       },
       "summary": "Gold is showing positive signals. Strong daily gain of 1.1%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-09-17T14:23:08.270196",
+      "timestamp": "2026-09-17T17:12:53.964436",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 25
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 1.3%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-09-17T14:23:08.366654",
+      "timestamp": "2026-09-17T17:12:54.066134",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 25
       },
       "summary": "Platinum is showing positive signals. Strong daily gain of 2.0%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-09-17T14:23:08.578068",
+      "timestamp": "2026-09-17T17:12:54.163334",
       "source": "rule-based"
     }
   },
@@ -134,13 +134,22 @@
   },
   "news": [
     {
-      "title": "US stocks today: S&amp;P, Nasdaq soar 1% at open as easing oil prices boost Fed hike relief",
-      "description": "US stocks opened higher on Thursday as falling oil prices improved investor sentiment following the Federal Reserve's first rate hike under Chair Kevin Warsh. The Dow rose 0.82%, the S&amp;P 500 gained 1.05% and the Nasdaq climbed 1.54% at the open, extending gains across major indexes.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-open-higher-as-easing-oil-prices-boost-fed-hike-relief/articleshow/134313818.cms",
+      "title": "Fed builds credibility, but hawkish turn leaves investors edgy",
+      "description": "In a significant move, the Federal Reserve has raised interest rates for the first time since 2023, marking a shift towards a hawkish stance on inflation management. This unanimous choice has led investors to brace for more potential rate increases, generating ripple effects across asset markets. Fo",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-builds-credibility-but-hawkish-turn-leaves-investors-edgy/articleshow/134314932.cms",
       "source": "Economic Times Markets",
       "date": "2026-09-17",
       "image": "",
       "category": "geopolitics"
+    },
+    {
+      "title": "US stocks today: US stocks rise as oil prices ease pressure after Fed rate hike",
+      "description": "US stocks advanced on Thursday following a decline in oil prices. The Federal Reserve's recent interest rate hike also influenced market movements. Technology stocks regained some of their earlier losses during the trading session. Investors are now assessing the Federal Reserve's future rate increa",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-open-higher-as-easing-oil-prices-boost-fed-hike-relief/articleshow/134313818.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-09-17",
+      "image": "",
+      "category": "central_bank"
     },
     {
       "title": "Bank of England sounds inflation alarm as it holds interest rates",
@@ -152,24 +161,6 @@
       "category": "geopolitics"
     },
     {
-      "title": "Softer oil buoys India bonds after Fed hike",
-      "description": "Indian government bonds made a recovery on Thursday, moving past initial setbacks as falling oil prices lessened worries about a potential rate hike from the Reserve Bank of India. The key 6.94% 2036 bond yield ended the day slightly below Wednesday's mark. Overnight indexed swap rates also showed s",
-      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/softer-oil-buoys-india-bonds-after-fed-hike/articleshow/134312039.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-09-17",
-      "image": "",
-      "category": "central_bank"
-    },
-    {
-      "title": "Dow Jones| Nasdaq | S&amp;P 500 | US Stock Market Today |Live Updates: S&amp;P, Nasdaq soar 1% at open as easing oil prices boost Fed hike relief",
-      "description": "",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-stock-us-market-live-updates-nasdaq-sp-500-iran-israel-war-hormuz-deal-brent-crude-oil-inflation-fed-rate-hike-earnings-forecast-nvidia-amazon-coreweave-nebius-iren-fluence-energy-stock-price-news-17th-september-2026/liveblog/134311884.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-09-17",
-      "image": "",
-      "category": "central_bank"
-    },
-    {
       "title": "Trade gold and silver with precision - stonex.com",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hcC0yMU50cy1JZTM4bUJONWRzU3QtR2FEWmNIc09SRmNpdUsyem5zQzV0WDd6VzNUWV9yZFNrazAzRGd3aUVWWEJ3T0RIdnJIY3J0NDMxUGo3ZkRyRGc?oc=5\" target=\"_blank\">Trade gold and silver with precision</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">stonex.com</font>",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hcC0yMU50cy1JZTM4bUJONWRzU3QtR2FEWmNIc09SRmNpdUsyem5zQzV0WDd6VzNUWV9yZFNrazAzRGd3aUVWWEJ3T0RIdnJIY3J0NDMxUGo3ZkRyRGc?oc=5",
@@ -179,7 +170,7 @@
       "category": "metals"
     },
     {
-      "title": "Egypt\u2019s FRA bans consumer financing for gold, silver and other precious metals - Economy - Business - Ahram Online",
+      "title": "Egypt\u2019s FRA bans consumer financing for gold, silver and other precious metals - Economy - Business - english.ahram.org.eg",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNb21ubWRVTTl2MXdBcTNwUTFGVnFDZHU5eXNKdHhxckRDSDkyMEUyeHFhLXg5Z09Lc3paTlViSElSd1lCbnU3dXBlNDBrSkE4SnUxZWZqWTJfczhITDZiU0o3eUktU21xdm1PSHlXdVhJVGV6VVBQVU5yTHhGTzFCOThFcDZ4VTRkZENBRWJuOXdlZkpHdy02YTAxYTc2a3BIaFFTTVVCSUlmRjYxSFJsQkVmTVJIdllEUW",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNb21ubWRVTTl2MXdBcTNwUTFGVnFDZHU5eXNKdHhxckRDSDkyMEUyeHFhLXg5Z09Lc3paTlViSElSd1lCbnU3dXBlNDBrSkE4SnUxZWZqWTJfczhITDZiU0o3eUktU21xdm1PSHlXdVhJVGV6VVBQVU5yTHhGTzFCOThFcDZ4VTRkZENBRWJuOXdlZkpHdy02YTAxYTc2a3BIaFFTTVVCSUlmRjYxSFJsQkVmTVJIdllEUWE3V2VOVmMwX05NQUc4bG1jM25pdw?oc=5",
       "source": "Google News - Precious Metals",
@@ -188,76 +179,76 @@
       "category": "metals"
     },
     {
-      "title": "Lewis kids pump another \u00a3120m into Tottenham",
-      "description": "The Lewis family has now invested \u00a3320m into the club in the past year alone.",
-      "url": "https://cartilagefreecaptain.sbnation.com/tottenham-hotspur-news/73833/lewis-kids-pump-another-120m-into-tottenham",
-      "source": "SB Nation",
+      "title": "Ri-Bhoi clinch top spot at Meghalaya State Senior Athletics Championship",
+      "description": "Ri-Bhoi District Sports Association clinched the top spot at the Meghalaya State Senior Athletics Championship 2026, which concluded at the Sports Authority of India centre on the NEHU Shillong campus on Wednesday. The three-day championship, held after a gap\u2026",
+      "url": "https://www.syllad.com/ri-bhoi-clinch-top-spot-at-meghalaya-state-senior-athletics-championship/",
+      "source": "Syllad.com",
       "date": "2026-09-16",
-      "image": "https://s.yimg.com/lo/mysterio/api/fa06010a4f4804e564d472a6f9e00a6c768448821ec2302e4c41c2421432bc08/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fb2ee010da2f19faf9e13e0530fc7ae29.jpg",
+      "image": "https://www.syllad.com/wp-content/uploads/2026/09/Champions-Ri-Bhoi-with-dignitaries-and-officials.jpg",
       "category": "market"
     },
     {
-      "title": "We\u2019ve Eaten at Every Restaurant in Disney\u2019s Grand Floridian Resort. These Are the BEST.",
-      "description": "We're ranking all the restaurants at Disney's Grand Floridian Resort so you know what's worth your time and money!",
-      "url": "https://www.disneyfoodblog.com/2026/09/16/weve-eaten-at-every-restaurant-in-disneys-grand-floridian-resort-these-are-the-best/",
-      "source": "disneyfoodblog.com",
+      "title": "Apollo warns of rising credit risk for hyperscalers amid AI investment concerns",
+      "description": "Rising credit risk for hyperscalers may lead to increased financing costs and a potential shift towards safer investments amid AI uncertainties.\nThe post Apollo warns of rising credit risk for hyperscalers amid AI investment concerns appeared first on Crypto \u2026",
+      "url": "https://cryptobriefing.com/apollo-warns-of-rising-credit-risk-for-hyperscalers-amid-ai-investment-concerns/",
+      "source": "Crypto Briefing",
       "date": "2026-09-16",
-      "image": "https://www.disneyfoodblog.com/wp-content/uploads/2026/06/wdw-2026-grand-floridian-resort-enchanted-rose-lounge-full-spread-700x525.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Blockchain finance platform Theo launches tokenized silver backed by $40 million in active leases",
-      "description": "The onchain finance platform said thSLVR allows investors to retain exposure to silver while earning income from lending the metal to institutional borrowers.",
-      "url": "https://www.coindesk.com/business/2026/09/16/blockchain-finance-platform-theo-launches-tokenized-silver-backed-by-usd40-million-in-active-leases",
-      "source": "CoinDesk",
-      "date": "2026-09-16",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/15706f69026b7a5f24f2bb5cb0d339cf11da391c-5760x3840.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "category": "metals"
-    },
-    {
-      "title": "Minerals 260 to raise $178m for Bullabulling Gold Project in WA",
-      "description": "The funds will support construction and exploration activities at the site, which is located 65km west of Kalgoorlie.",
-      "url": "https://www.mining-technology.com/news/minerals-260-to-raise-178m-bullabulling-project/",
-      "source": "Mining Technology",
-      "date": "2026-09-16",
-      "image": "https://s.yimg.com/lo/mysterio/api/2e2c67bdd790bce478f0a5dd1706d9afcf64dfe309be4fd0ab48c2d0a8c8a5f3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmining_technology_700%2F65f9bd47e6f8b420ce2ad584e742c156.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "Fighting for housing after The Battle of Lincoln Park",
-      "description": "During the 2010s, there was a renewed awareness of predatory and speculative housing practices such as redlining, contract buying, blockbusting, and segregationist violence\u2014which had fueled disinvestment across broad swaths of the south and west sides. Daniel\u2026",
-      "url": "https://chicagoreader.com/books/book-review/battle-lincoln-park-daniel-kay-hertz-new-edition/",
-      "source": "Chicago Reader",
-      "date": "2026-09-16",
-      "image": "https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/09/BattleofLincoln-copy.jpg?fit=1575%2C2250&ssl=1",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/16124331/library-apollo-warns-of-rising-credit-risk-for-hyperscalers-amid-1-800x450.png",
       "category": "geopolitics"
     },
     {
-      "title": "Power One Receives Drill Permit to Deep Test Pecors Magnetic Anomaly",
-      "description": "Permit provides for drilling from two approved drill locations as Power One advances planned approximately 1,500-metre deep test of the Zd1 geophysical target VANCOUVER, British Columbia, Sept. 16, 2026 (GLOBE NEWSWIRE) \u2014 Power One Resources Corp. (TSXV: PWRO\u2026",
-      "url": "https://financialpost.com/globe-newswire/power-one-receives-drill-permit-to-deep-test-pecors-magnetic-anomaly",
-      "source": "Financial Post",
+      "title": "\u201cAfter the six-star resort in Mykonos, more projects are on the way,\u201d says Egyptian businessman Naguib Sawiris about the \u20ac100 million investment",
+      "description": "The Egyptian businessman speaks about the new hotel he hopes will redefine hospitality on the Island of the Winds \u2013 Explaining why he chose Greece for an investment worth tens of millions of euros and outlining his vision as well as the difficulties he encoun\u2026",
+      "url": "https://en.protothema.gr/2026/09/16/after-the-six-star-resort-in-mykonos-more-projects-are-on-the-way-says-egyptian-businessman-naguib-sawiris-about-the-e100-million-investment/",
+      "source": "Protothema.gr",
       "date": "2026-09-16",
-      "image": null,
+      "image": "https://en.protothema.gr/wp-content/uploads/2026/09/naguib-sawiris_maketa-1.jpg-1.jpg",
+      "category": "currency"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang positions himself as AI\u2019s top venture capitalist",
+      "description": "Nvidia's dual role as AI investor and supplier could reshape tech financing, fostering dependency but also accelerating AI infrastructure growth.\nThe post Nvidia CEO Jensen Huang positions himself as AI\u2019s top venture capitalist appeared first on Crypto Briefi\u2026",
+      "url": "https://cryptobriefing.com/nvidia-huang-ai-venture-capital/",
+      "source": "Crypto Briefing",
+      "date": "2026-09-16",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/16121513/library-nvidia-ceo-jensen-huang-positions-himself-as-ai-s-top-ve-800x450.png",
       "category": "market"
     },
     {
-      "title": "Red October Sell-Off Could Be Coming: 5 Warren Buffett Dividend Stocks Are Safe Havens",
-      "description": "A stock market correction of up to 20% may arrive sooner than most investors expect, but five Berkshire Hathaway holdings are already positioned to weather t...",
-      "url": "https://247wallst.com/energy/2026/09/16/red-october-sell-off-could-be-coming-5-warren-buffett-dividend-stocks-are-safe-havens/",
-      "source": "24/7 Wall St.",
+      "title": "World shares rise as markets await Fed rate decision",
+      "description": "Global stocks rise as bond yields dip ahead of the Fed's interest rate decision, easing inflation concerns and boosting market optimism.",
+      "url": "https://www.thehindubusinessline.com/markets/world-shares-rise-as-markets-await-fed-rate-decision/article71473660.ece",
+      "source": "BusinessLine",
       "date": "2026-09-16",
-      "image": "https://s.yimg.com/lo/mysterio/api/5ce825306addf5f1a8c983e0e40650e09726b07fe9fa6e6b2736308bb3e03fe8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F530f0d49214d2e5a61895f62d3e38660.png",
+      "image": "https://bl-i.thgim.com/public/incoming/fxdwv3/article71473723.ece/alternates/LANDSCAPE_1200/2023-01-25T171028Z_996693915_RC2SXY9IGFPQ_RTRMADP_3_USA-MARKETS-RECESSION.JPG",
+      "category": "central_bank"
+    },
+    {
+      "title": "Steward Partners Marks Seventh Consecutive Year on Barron's Top 100 RIA Firms List",
+      "description": "Firm's #10 ranking comes amid record growth and a deepening bench of national accolades STAMFORD, Conn., Sept. 16, 2026 /PRNewswire/ -- Steward Partners, a full-service, employee-owned, independent financial services firm, has been named to Barron's 2026 Top \u2026",
+      "url": "https://www.prnewswire.com/news-releases/steward-partners-marks-seventh-consecutive-year-on-barrons-top-100-ria-firms-list-302880866.html",
+      "source": "PRNewswire",
+      "date": "2026-09-16",
+      "image": "https://mmx.prnewswire.com/media/MS1773226/Steward-Partners-Logo.jpg?id=OA2953185&p=facebook",
       "category": "geopolitics"
     },
     {
-      "title": "'What you have there is essentially a $70,000 piece of lab equipment in a handheld consumer product': Jake Dyson shares the design secrets of the brand's new mouthwash-squirting toothbrush \u2014 and the company explains why some early models had problems",
-      "description": "The CameraJet hasn't had the smoothest start \u2014 I spoke to the brand's Chief Engineer about why it was such a complex gadget to get right.",
-      "url": "https://www.techradar.com/health-fitness/oral-health/what-you-have-there-is-essentially-a-usd70-000-piece-of-lab-equipment-in-a-handheld-consumer-product-jake-dyson-shares-the-design-secrets-of-the-brands-new-mouthwash-squirting-toothbrush-and-the-company-explains-why-some-early-models-had-problems",
-      "source": "TechRadar",
+      "title": "American Express Sees Strong Spending, Raises Revenue Outlook at Conference",
+      "description": "American Express (NYSE:AXP) Chief Financial Officer Christophe Le Caillec said the company\u2019s operating trends remained strong through the first half of 2026,...",
+      "url": "https://www.marketbeat.com/instant-alerts/event-american-express-sees-strong-spending-raises-revenue-outlook-at-conference-2026-09-16/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+      "source": "MarketBeat",
       "date": "2026-09-16",
-      "image": "https://cdn.mos.cms.futurecdn.net/ZKzV7vZiES6HFuRLg5sttC-1920-80.jpg",
+      "image": "https://s.yimg.com/lo/mysterio/api/34797f9b87f9e0e1c0c8a8f453b66dbe954787a9da22ed88ba2a90b6426945c4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmarketbeat_955%2Fbeba8fa6cbfcbdaf9cb189cc42a23af1.jpg",
       "category": "market"
+    },
+    {
+      "title": "The Monoculture Is Dead. It\u2019s Time for the Rise of Niche",
+      "description": "Gold House co-founder Bing Chen explains why brands should consider not trying to be everything, everywhere, all at once.",
+      "url": "https://www.adweek.com/brand-marketing/monoculture-dead-niche-communities-bing-chen-gold-house/",
+      "source": "Adweek",
+      "date": "2026-09-16",
+      "image": "https://static-www.adweek.com/wp-content/uploads/2026/09/Bing-Chen-Brandweek.jpg?w=600&h=315&crop=1",
+      "category": "metals"
     },
     {
       "title": "Theo launches tokenized silver backed by $40M in active leases",
@@ -332,76 +323,85 @@
       "category": "central_bank"
     },
     {
-      "title": "SmartCentres Declares Distribution for September 2026",
-      "description": "TORONTO \u2014 SmartCentres Real Estate Investment Trust (\u201cSmartCentres\u201d) (TSX: SRU.UN) announced today that the trustees of SmartCentres have declared a distribution for the month of September 2026 of $0.15417 per unit, representing $1.85 per unit on an annualize\u2026",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/smartcentres-declares-distribution-for-september-2026",
-      "source": "Financial Post",
+      "title": "Satellite data shows major ice losses for Greenland and Antarctica",
+      "description": "Sept 16 : New research based on satellite data going back to the 1970s has documented major polar ice losses in Greenland and Antarctica \u2014 home to Earth's two great ice sheets \u2014 that have contributed to rising global sea levels.Between 1979 and 2023, accordin\u2026",
+      "url": "https://www.channelnewsasia.com/business/satellite-data-shows-major-ice-losses-greenland-and-antarctica-6389896",
+      "source": "CNA",
       "date": "2026-09-16",
-      "image": null,
+      "image": "https://dam.mediacorp.sg/image/upload/s--e4GjQg_G--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-16T171154Z_1_LYNXMPEM8F1RU_RTROPTP_3_CLIMATE-ICE.JPG?itok=t6LlLyBi",
       "category": "market"
     },
     {
-      "title": "Family-run businesses to give way to professional management by 2035: KPMG",
-      "description": "Family businesses will see a significant drop in direct family management by 2035.  More companies are now turning to professional managers for operations.  This shift involves clearer roles for all executives and defined decision-making powers.  Attracting e\u2026",
-      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/family-run-businesses-to-give-way-to-professional-management-by-2035-kpmg/articleshow/134290219.cms",
-      "source": "The Times of India",
+      "title": "DP World Tour 2027 schedule: Hong Kong, Singapore events return",
+      "description": "The DP World Tour\u2019s newfound collaboration with the Asian Tour will see events in Hong Kong and Singapore return to the schedule for 2027.",
+      "url": "https://www.golfchannel.com/dp-world-tour-2027-schedule-hong-kong-singapore-portugal-events-return",
+      "source": "Golf Channel",
       "date": "2026-09-16",
-      "image": "https://img.etimg.com/thumb/msid-134290332,width-1200,height-630,imgsize-135879,overlay-economictimes/articleshow.jpg",
+      "image": "https://s.yimg.com/lo/mysterio/api/08ca8a6c0d908234f4aabb04b5fe43a84a11e87260a84a303819849eb04faa62/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgolf_channel_versant_464%2Fbb5e6c0ccd1cab2d11541fca23adc330.jpg",
       "category": "market"
     },
     {
-      "title": "India considers cutting vegetable oil import taxes as prices climb",
-      "description": "India is considering lowering import taxes on vegetable oils. This move aims to curb rising food inflation ahead of festival season. Lower prices could boost domestic consumption and support global markets. The government seeks to shield consumers while prote\u2026",
-      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-considers-cutting-vegetable-oil-import-taxes-as-prices-climb/articleshow/134290222.cms",
-      "source": "The Times of India",
+      "title": "The EU is militarizing the Arctic. Here\u2019s how it plans to do it",
+      "description": "The EU Arctic strategy once put peace and cooperation first. Now resource competition is driving its turn toward hard power Read Full Article at RT.com",
+      "url": "https://www.rt.com/news/645866-eu-is-militarizing-arctic/",
+      "source": "RT",
       "date": "2026-09-16",
-      "image": "https://img.etimg.com/thumb/msid-134290331,width-1200,height-630,imgsize-54388,overlay-economictimes/articleshow.jpg",
-      "category": "inflation"
+      "image": "https://mf.b37mrtl.ru/files/2026.09/article/6aaaccd52030271ac611c1c0.jpg",
+      "category": "geopolitics"
     },
     {
-      "title": "Petrol dealers seek exemption from new charges on UPI transactions",
-      "description": "Fuel retailers say thin, regulated margins leave little room to absorb the  \u20b95 charge on UPI transactions above  \u20b92,000.",
-      "url": "https://www.livemint.com/industry/advertising/petrol-dealers-seek-exemption-from-new-charges-on-upi-transactions-11789564422202.html",
-      "source": "Livemint",
+      "title": "The Pentagon must prepare for battles around the moon: Joint Chiefs chair",
+      "description": "Days after orbital weapons were revealed, Gen. Dan Caine ups the scope of the military\u2019s desired reach.",
+      "url": "https://www.defenseone.com/threats/2026/09/pentagon-battles-moon-joint-chiefs-chairman/416021/",
+      "source": "Defense One",
       "date": "2026-09-16",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/16/1600x900/logo/2-0-1242954145-Petrol-pump-5-0_1679616097740_1789568075947_FOmv_98664a71-6941-4ce6-8eb2-fa1b2ba60922_LqzE.jpg",
+      "image": "https://cdn.defenseone.com/media/img/cd/2026/09/16/caine_GettyImages_2275249249/open-graph.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "China Throws Its Weight Around In America\u2019s Backyard Over Taiwan",
+      "description": "China reportedly threatened Panama with \u201cserious consequences\u201d after a majority of the country\u2019s lawmakers moved to improve relations with Taiwan.",
+      "url": "https://dailycaller.com/2026/09/16/china-threatens-panama-serious-consequences-taiwan",
+      "source": "The Daily Caller",
+      "date": "2026-09-16",
+      "image": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/09/GettyImages-2292504900%20(1).jpg",
       "category": "market"
     },
     {
-      "title": "Bank of America CFO Claims All Is Well as Stock Slides 7% in a Month",
-      "description": "Bank of America's finance chief went on air to calm investors while the stock quietly slid into its worst month in over a year. The reassurance he offered an...",
-      "url": "https://247wallst.com/investing/2026/09/16/bank-of-america-cfo-claims-all-is-well-as-stock-slides-7-in-a-month/",
-      "source": "24/7 Wall St.",
+      "title": "These \u2018Crunchy\u2019 Seabirds Are Crunchier Than Ever Before\u2014for a Very Grim Reason",
+      "description": "Bird parents think plastic waste is food, and they feed it to their young.",
+      "url": "https://gizmodo.com/these-crunchy-seabirds-are-crunchier-than-ever-before-for-a-very-grim-reason-2000812540",
+      "source": "Gizmodo.com",
       "date": "2026-09-16",
-      "image": "https://s.yimg.com/lo/mysterio/api/20de826092268a6a83e9e72744da5e4bd4687d18cb6dc326879bb94260268d81/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fccadc809b448fb7be47e2c884ce3a38a.jpg",
+      "image": "https://gizmodo.com/app/uploads/2026/09/plastic-pieces-in-bird-1200x675.jpg",
       "category": "market"
     },
     {
-      "title": "Granicus Expands Government Experience Cloud with AI-Powered Analytics and Intelligence",
-      "description": "New GXI Professional extends Government Experience Cloud (GXC) with end-to-end experience analytics and recommendations; Granicus to showcase the innovation at the Government Experience Virtual Summit on September 17 WASHINGTON, Sept. 16, 2026 /PRNewswire/ --\u2026",
-      "url": "https://www.prnewswire.com/news-releases/granicus-expands-government-experience-cloud-with-ai-powered-analytics-and-intelligence-302880755.html",
-      "source": "PRNewswire",
+      "title": "Von der Leyen fleshes out Carney\u2019s vision to paint Europe as leader of world\u2019s middle powers",
+      "description": "European Commission president says she wants to \u201cbuild global coalitions for our resilience and democracies.\u201d",
+      "url": "https://www.politico.eu/article/ursula-von-der-leyen-mark-carney-europe-world-middle-powers/",
+      "source": "POLITICO.eu",
       "date": "2026-09-16",
-      "image": "https://mmx.prnewswire.com/media/MS1071880/Granicus-Vertical-OnWhite-Logo.jpg?id=OA2952925&p=facebook",
-      "category": "market"
+      "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/09/16/GettyImages-2294992860.jpg",
+      "category": "currency"
     },
     {
-      "title": "Chancellor announces Bank of England appointments",
-      "description": "His Majesty the King and the Chancellor have appointed three new non-executive directors to the Bank of England\u2019s Court of Directors.",
-      "url": "https://www.gov.uk/government/news/chancellor-announces-bank-of-england-appointments--2",
-      "source": "Www.gov.uk",
+      "title": "Nearwater Management Takes 38K SF at SL Green\u2019s 245 Park Avenue",
+      "description": "Nearwater Management did not have to look far for a new office. The asset management firm is moving within SL Green Realty\u2019s portfolio from One Vanderbilt to 37,563 square feet on the entire 28th floor at 245 Park Avenue on an eight-year lease, according to t\u2026",
+      "url": "http://commercialobserver.com/2026/09/nearwater-lease-sl-green-245-park-avenue/",
+      "source": "Commercial Observer",
       "date": "2026-09-16",
-      "image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-      "category": "market"
+      "image": "https://commercialobserver.com/wp-content/uploads/sites/3/2026/09/Bruce-Mosler-Alexander-Chudnoff-245-Park-Ave-credit-Jim-S-CO.jpg?quality=80&crop=0px%2C139px%2C2000px%2C1050px&resize=1200%2C630&strip",
+      "category": "central_bank"
     },
     {
-      "title": "Wordle Today: Hints and Answer for September 16, 2026 as Puzzle 1915 Turns Delicately Light and Thin",
-      "description": "The Wordle answer for puzzle #1,915 on September 16 was WISPY, a delicate adjective describing thin, light forms such as smoke, hair and clouds.",
-      "url": "https://www.ibtimes.com.au/wordle-1915-answer-september-16-wispy-1875648",
-      "source": "Ibtimes.com.au",
+      "title": "Wall Street bets on a rate hike, but the Fed decision could be a close call",
+      "description": "Wall Street is largely expecting the Federal Reserve to raise interest rates Wednesday afternoon for the first time in more than three years.",
+      "url": "https://finance.yahoo.com/economy/policy/article/wall-street-bets-on-a-rate-hike-but-the-fed-decision-could-be-a-close-call-171212149.html",
+      "source": "Yahoo Entertainment",
       "date": "2026-09-16",
-      "image": "https://d.ibtimes.com.au/en/full/1892208/wordle-puzzle.jpg",
-      "category": "market"
+      "image": "https://s.yimg.com/lo/mysterio/api/dd15325dbe80061024139562fef2e66633bcaffa2768980a387a95366117b3fc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F31f62b1d-ad7b-4ddb-9f80-500d79242169_4e52d96284df3411872d942041f19eb5b3587350d641ca1182532e8290f9a497.jpg",
+      "category": "central_bank"
     }
   ],
   "history": [
@@ -496,7 +496,7 @@
       "platinum_usd_oz": 1857.35
     }
   ],
-  "timestamp": "2026-09-17T19:53:08.590788+05:30",
+  "timestamp": "2026-09-17T22:42:54.175783+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
