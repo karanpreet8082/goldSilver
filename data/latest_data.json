@@ -54,7 +54,7 @@
         "hold": 25
       },
       "summary": "Gold is showing positive signals. Strong daily gain of 1.1%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-09-21T18:17:28.174156",
+      "timestamp": "2026-09-22T08:41:30.710809",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 25
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 1.3%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-09-21T18:17:28.294838",
+      "timestamp": "2026-09-22T08:41:30.801946",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 25
       },
       "summary": "Platinum is showing positive signals. Strong daily gain of 2.0%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-09-21T18:17:28.369889",
+      "timestamp": "2026-09-22T08:41:30.882650",
       "source": "rule-based"
     }
   },
@@ -134,40 +134,265 @@
   },
   "news": [
     {
-      "title": "AMD briefly tops $1 trillion market cap as AI push fuels record rally, shares up 9%",
-      "description": "Advanced Micro Devices briefly crossed one trillion dollars in market capitalization.  This milestone placed AMD among elite chipmakers reaching this valuation.  The company's shares saw a significant increase following this achievement.  AMD is now considered Nvidia's closest competitor in graphics",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/amd-briefly-tops-1-trillion-market-cap-as-ai-push-fuels-record-rally-shares-up-9/articleshow/134393413.cms",
+      "title": "Global Market: ECB launches blockchain payment service, to invest in digital securities",
+      "description": "The European Central Bank launched Pontes, a new service connecting its payment infrastructure with blockchain markets for euro settlements. The ECB also plans to invest a portion of its EUR 23 billion own funds in digital securities, while developing a retail digital euro targeted for a 2029 releas",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-ecb-launches-blockchain-payment-service-to-invest-in-digital-securities/articleshow/134406462.cms",
       "source": "Economic Times Markets",
-      "date": "2026-09-21",
-      "image": "",
-      "category": "currency"
-    },
-    {
-      "title": "Rupee gains for third day as crude eases, but volatility persists",
-      "description": "The rupee strengthened for a third straight session to 95.8150 against the dollar as Brent crude eased to $101.5 a barrel. However, dollar outflows, importer demand and geopolitical tensions limited gains, with analysts expecting continued volatility amid Middle East conflict and tariffs.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-gains-for-third-day-as-crude-eases-but-volatility-persists/articleshow/134393258.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-09-21",
-      "image": "",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Chicago Fed President Goolsbee rejects calls for Fed rate cuts to ease US debt burden",
-      "description": "Chicago Fed President Austan Goolsbee rejected calls for interest-rate cuts to ease the US government\u2019s debt burden, warning that such a move could fuel inflation and raise borrowing costs. He said the debate reinforces the importance of Federal Reserve independence.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/chicago-fed-president-goolsbee-rejects-calls-for-fed-rate-cuts-to-ease-us-debt-burden/articleshow/134391617.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-09-21",
-      "image": "",
-      "category": "geopolitics"
-    },
-    {
-      "title": "RBI issues norms on capital requirements for market risk under Basel III for banks",
-      "description": "As of April 1, 2027, banks are prohibited from reclassifying instruments to achieve lower capital requirements under the new market risk guidelines that align with the updated Basel III framework. This transition will see banks adopting a simplified standardized approach for determining risk-weighte",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-issues-norms-on-capital-requirements-for-market-risk-under-basel-iii-for-banks/articleshow/134391520.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "image": "",
       "category": "central_bank"
+    },
+    {
+      "title": "Global Market: Diesel prices surge to record highs as wars squeeze global fuel supplies",
+      "description": "Global diesel markets are facing mounting supply pressures as refinery outages, export curbs and shipping disruptions reduce availability across Europe, the US and Asia. With inventories below seasonal norms and refineries already running at high utilisation rates, further disruptions could leave fu",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-diesel-prices-surge-to-record-highs-as-wars-squeeze-global-fuel-supplies/articleshow/134406432.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-09-22",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Stocks to buy: JM Financial names 9 NBFC stocks as top picks amid rate hike cycle",
+      "description": "Amid rising interest rates and fluctuating bond yields, JM Financial has pinpointed nine NBFCs as top stock picks. These picks showcase a diverse performance spectrum, with some stocks dipping while others have enjoyed robust gains over various timeframes. Investors are encouraged to delve into net ",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-jm-financial-names-9-nbfc-stocks-as-top-picks-amid-rate-hike-cycle/slideshow/134406163.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-09-22",
+      "image": "",
+      "category": "central_bank"
+    },
+    {
+      "title": "Washington\u2019s Foreign Equity Bets Need Better Governance",
+      "description": "What do a rare earth mine in Brazil and a graphite mine in Mozambique have in common? Both have received significant United States government funding. The rub? Neither was subject, when the financing was committed, to the corporate governance standards that A\u2026",
+      "url": "https://warontherocks.com/cogs-of-war/washingtons-foreign-equity-bets-need-better-governance/",
+      "source": "War on the Rocks",
+      "date": "2026-09-21",
+      "image": "https://warontherocks.com/wp-content/uploads/wotr-og-images/wotr-og-47015-b131f9089d31.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Himanshu Dhillon quit wrestling in just a few weeks, family took a \u20b93 lakh rifle on resale assurance that it can be resold; 20-year-old now Asian Games silver medallist",
+      "description": "Himanshu Dhillon has impressively clinched a silver medal in the men's 10m air rifle event, while his fellow teammate Rudrankksh Patil added to the glory by taking home a bronze for India. Dhillon's athletic journey is noteworthy, as he transitioned from wres\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/himanshu-dhillon-quit-wrestling-in-just-a-few-weeks-family-took-a-3-lakh-rifle-on-resale-assurance-that-it-can-be-resold-20-year-old-now-asian-games-silver-medallist/articleshow/134382562.cms",
+      "source": "The Times of India",
+      "date": "2026-09-21",
+      "image": "https://img.etimg.com/thumb/msid-134382833,width-1200,height-630,imgsize-153418,overlay-economictimes/articleshow.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "Campus Tours Have Never Been Bigger",
+      "description": "Campus Tours Have Never Been Bigger\n\n \n\n\n \nJohanna Alonso\n\nMon, 09/21/2026 - 03:00 AM\n\nAs it becomes increasingly evident that getting a student to visit campus is one of the best ways to convince them to enroll, colleges are overhauling their tours.\n \n Bylin\u2026",
+      "url": "https://www.insidehighered.com/news/admissions/traditional-age/2026/09/21/colleges-invest-heavily-creating-perfect-campus-tour",
+      "source": "Inside Higher Ed",
+      "date": "2026-09-21",
+      "image": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-09/Campus_visit_pinboard.jpg?itok=JeADmErz",
+      "category": "market"
+    },
+    {
+      "title": "The rise of asset-backed borrowing in India's credit ecosystem",
+      "description": "Asset-backed borrowing is gaining traction in India's credit market, particularly through gold-backed lending, which provides essential liquidity without needing to sell investments immediately. The rise of digital platforms is making these services more acce\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/the-rise-of-asset-backed-borrowing-in-indias-credit-ecosystem/articleshow/134380943.cms",
+      "source": "The Times of India",
+      "date": "2026-09-21",
+      "image": "https://img.etimg.com/thumb/msid-134381002,width-1200,height-630,imgsize-259244,overlay-economictimes/articleshow.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "First Aid Kits: Bleeding Control & Tourniquets",
+      "description": "Should you put a tourniquet in your first aid kit? Maybe, but you should know some things before you\ndo:\n<ul>\n<li>\nTraining is more important than any piece of gear. Most bleeds can be stopped with direct\npressure and/or proper wound packing \u2014 and both can be\u2026",
+      "url": "https://jacobian.org/2026/sep/21/fak-bleeding-control/",
+      "source": "Jacobian.org",
+      "date": "2026-09-21",
+      "image": "https://jacobian.org/cards/fak-bleeding-control.png",
+      "category": "supply_demand"
+    },
+    {
+      "title": "\u20b910 lakh investment in gold: Know how physical gold, ETFs & SGBs differ on returns, risk and tax",
+      "description": "Gold can be bought in several forms, but the investment experience can be very different.If you have \u20b910 lakh to invest in gold, should you buy jewellery, physical bars and coins, Gold ETFs, gold mutual funds or SGBs?The right choice depends on what you want \u2026",
+      "url": "https://m.economictimes.com/wealth/earn/10-lakh-investment-in-gold-know-how-physical-gold-etfs-sgbs-differ-on-returns-risk-and-tax/10-lakh-in-gold-where-should-you-invest-it/slideshow/134380062.cms",
+      "source": "Economictimes.com",
+      "date": "2026-09-21",
+      "image": "https://img.etimg.com/thumb/msid-134380062,width-1200,height-900,overlay-etwealth/slideshow.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "Tiger Global-backed Moneyview sets IPO price band for Rs 1,092-crore offer. Check key dates, other details",
+      "description": "Moneyview has set its IPO price band at Rs 32-34 per share, with the Rs 1,091.61 crore issue opening on September 24. The IPO comprises a fresh issue of Rs 750 crore and an OFS of up to 10.04 crore shares.",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/tiger-global-backed-moneyview-sets-ipo-price-band-for-rs-1092-crore-offer-check-key-dates-other-details/articleshow/134379230.cms",
+      "source": "The Times of India",
+      "date": "2026-09-21",
+      "image": "https://img.etimg.com/thumb/msid-134379244,width-1200,height-630,imgsize-1932331,overlay-etmarkets/articleshow.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Economic Digest: A Snapshot of Nepal\u2019s Business News",
+      "description": "KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. The latest economic\u00a0indicators present a\u00a0mixed but broadly\u00a0active picture of\u00a0Nepal\u2019s economy, combining\u2026",
+      "url": "https://english.khabarhub.com/2026/21/568565/",
+      "source": "Khabarhub.com",
+      "date": "2026-09-21",
+      "image": "https://english.khabarhub.com/wp-content/uploads/2024/05/Economic-Digest.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Crude above $100 may push India inflation to 6%, RBI could hike rates 50 bps: Kotak",
+      "description": "The elevated crude oil prices pose a direct threat to India's macroeconomic stability, with retail inflation projected to inch toward the 5.8 to 6.0 per cent mark by next quarter if prices stay elevated, according to Anindya Banerjee, Head - Commodity and Cur\u2026",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/crude-above-100-may-push-india-inflation-to-6-rbi-could-hike-rates-50-bps-kotak/articleshow/134382333.cms",
+      "source": "The Times of India",
+      "date": "2026-09-21",
+      "image": "https://img.etimg.com/thumb/msid-134382662,width-1200,height-630,imgsize-112640,overlay-economictimes/articleshow.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Gold prices fall Rs 1,331/10 gram, silver dips Rs 1,600/kg as Mideast tensions outweigh oil fall: Key levels to track",
+      "description": "Gold and silver prices snapped a two-day rally on Monday, dropping on the MCX amid escalating US-Iran geopolitical tensions and central bank rate hikes. Gold dropped Rs 1,331 per 10 grams while silver fell Rs 1,600 per kg. Experts share key trading levels and\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-fall-rs-1331/10-gram-silver-dips-rs-1600/kg-as-mideast-tensions-outweigh-oil-fall-key-levels-to-track/articleshow/134379699.cms",
+      "source": "The Times of India",
+      "date": "2026-09-21",
+      "image": "https://img.etimg.com/thumb/msid-134379785,width-1200,height-630,imgsize-2443225,overlay-etmarkets/articleshow.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Gold and silver price today, Sept 21: Check retail rates of 24K, 22K gold and 999 silver in Mumbai, Delhi, other cities",
+      "description": "Gold prices in India fell nearly 0.5% today during early trading hours amid US-Iran conflict uncertainties. Check retail rates of both gold and silver in top metro cities of India today.",
+      "url": "https://www.livemint.com/money/gold-and-silver-price-today-sept-21-check-retail-rates-of-24k-22k-gold-and-999-silver-in-mumbai-delhi-other-cities-11789958591941.html",
+      "source": "Livemint",
+      "date": "2026-09-21",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/2-0-122908285-GOLD-4C--0_1681900796908_1789960011389_KdBC_32a54c74-29c3-4e46-97b0-02f5034ef20d_0xW5.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Gold eases on inflation woes, rate hike fears",
+      "description": "Gold prices dropped during the early hours of Asian trading on Monday, driven by escalating tensions in the Middle East and persistent inflation worries sparking interest rate hike predictions. As global central banks react by increasing rates to control infl\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-eases-on-inflation-woes-rate-hike-fears/articleshow/134377983.cms",
+      "source": "The Times of India",
+      "date": "2026-09-21",
+      "image": "https://img.etimg.com/thumb/msid-134378007,width-1200,height-630,imgsize-105852,overlay-etmarkets/articleshow.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "40 Trillion Reasons for Economic Collapse \u2013 Part 2, by Single Farmer",
+      "description": "(Continued from Part 1. This concludes the article.) How did we get here? We are more than 40 trillion dollars in debt. Our streets are not lined with gold and other precious metals, but our nation is decaying around us. We are being invaded. Our military ins\u2026",
+      "url": "https://survivalblog.com/2026/09/22/40-trillion-reasons-for-economic-collapse-part-2-by-single-farmer/",
+      "source": "Survivalblog.com",
+      "date": "2026-09-21",
+      "image": "https://survivalblog.com/wp-content/uploads/2026/09/Debt-Clock-Re-Trimmed-2026.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "NSW Opens Consultation on Australia's First Mandatory Solar Panel Recycling Scheme to Force Manufacturer Accountability",
+      "description": "The NSW Government has released draft legislation requiring solar panel manufacturers and importers to fund end-of-life collection and recycling, as consultation runs until November 2026.",
+      "url": "https://www.ibtimes.com.au/nsw-mandatory-solar-panel-recycling-scheme-1875719",
+      "source": "Ibtimes.com.au",
+      "date": "2026-09-21",
+      "image": "https://d.ibtimes.com.au/en/full/1896311/solar-panel.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "In Theaters 14 Years Ago, The Most Underrated Superhero Movie of 2012 Arrived (And Fixed a Major \u201990s Mistake)",
+      "description": "The modern era of cinema is the golden age for superhero movies. There is just no real argument against it, as films like The Incredibles, The Dark Knight, and the entire Marvel Cinematic Universe helped set the stage for this to become the popular genre it i\u2026",
+      "url": "http://comicbook.com/movies/feature/in-theaters-14-years-ago-the-most-underrated-superhero-movie-of-2012-arrived-and-fixed-a-major-90s-mistake/",
+      "source": "ComicBook.com",
+      "date": "2026-09-21",
+      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/09/Lena-Headey-Dredd.jpg?resize=2000,1125",
+      "category": "metals"
+    },
+    {
+      "title": "How a national farm leader is dealing with record diesel prices",
+      "description": "John Boyd Jr., president of the National Black Farmers Association, says soaring diesel costs are deepening a farm crisis as farmers face sharply higher fuel costs in the middle of harvest season.",
+      "url": "https://www.npr.org/2026/09/21/nx-s1-5973073/diesel-prices-american-farmers-fuel-costs",
+      "source": "NPR",
+      "date": "2026-09-21",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x4608+0+856/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F9c%2F0f26200a44d2917f3556b11bb5de%2Fgettyimages-1793161237.jpg",
+      "category": "market"
+    },
+    {
+      "title": "LabVantage Named a Visionary Leader in Life Sciences and Industrial LIMS by Frost & Sullivan",
+      "description": "\u2014 Dual recognition in 2026 Frost Radar\u2122 reports marks a fourth consecutive year of Frost Radar leadership \u2014 \u2014 Frost & Sullivan cited LabVantage CORTEX\u2122 (for life sciences) and LIMS deployments spanning food and beverage, oil and gas, forensics, and government\u2026",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/labvantage-named-a-visionary-leader-in-life-sciences-and-industrial-lims-by-frost-sullivan",
+      "source": "Financial Post",
+      "date": "2026-09-21",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/09/bw20260921487430_lv_frost_radar_-_life_sciences_lims.jpeg",
+      "category": "market"
+    },
+    {
+      "title": "The Wombles join Chronicle Media to make good use of YouTube channels",
+      "description": "Classic UK kids' brand The Wombles has partnered with US-based Chronicle Media on the launch of two YouTube channels. Chronicle Media is managing the two channels, which launched on Friday. The Wombles...",
+      "url": "https://www.c21media.net/news/the-wombles-join-chronicle-media-to-make-good-use-of-youtube-channels/",
+      "source": "C21media.net",
+      "date": "2026-09-21",
+      "image": "https://cdn.c21media.net/wp-content/uploads/2026/09/the-wombles.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Sandoz and mAbxience agree on emicizumab biosimilar partnership",
+      "description": "mAbxience will lead the development and production of the biosimilar candidate at its manufacturing facilities in Argentina and Spain.",
+      "url": "https://www.pharmaceutical-technology.com/news/sandoz-mabxience-emicizumab-biosimilar/",
+      "source": "Pharmaceutical Technology",
+      "date": "2026-09-21",
+      "image": "https://s.yimg.com/lo/mysterio/api/bc69b6ddaf72b6798688be513c56792e6d63a6600ebeb42f03b659d508a03993/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpharmaceutical_technology_376%2Ff28f05184276a184ce5fedc09382eac1.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Anthropic and Accenture pledge $2bn for embedded AI safety evaluation",
+      "description": "Anthropic and Accenture partnered to embed teams within Anthropic, evaluating and assessing advanced AI model safety.",
+      "url": "https://www.verdict.co.uk/anthropic-accenture-2bn-ai-safety/",
+      "source": "Verdict",
+      "date": "2026-09-21",
+      "image": "https://www.techmonitor.ai/wp-content/uploads/sites/29/2026/09/AI-safety.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Interest rate hold becoming less credible as oil prices surge | News24",
+      "description": "Morgan Stanley has changed its call on South African interest rates and now expects the central bank to raise borrowing costs this week, saying renewed oil price pressure increases the risk that inflation will take longer to return to its 3% target.",
+      "url": "https://www.news24.com/business/economy/rate-hike-expected-as-insurance-20260921-0355",
+      "source": "News24",
+      "date": "2026-09-21",
+      "image": "https://news24cobalt.24.co.za/resources/02a2-1fe04b7e179e-840ce8985975-1000/format/inline/dsc07531.jpeg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Canada faces questions over treatment of Iranian conscripts as U.K, Australia take different approach",
+      "description": "Hundreds of Iranian permanent residency applicants received letters in August, informing them they may be inadmissible to Canada due to mandatory military service they served in Iran as young men.",
+      "url": "https://www.cbc.ca/news/canada/canada-faces-questions-over-treatment-of-iranian-conscripts-as-u-k-australia-take-different-approach-9.7346224",
+      "source": "CBC News",
+      "date": "2026-09-21",
+      "image": "https://i.cbc.ca/ais/aa59bef0-4608-4b71-98c1-5cebaedc951b,1789590670304/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C268%2C1200%2C675%29%3BResize%3D620",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Swiss Neutrality Council: Cumulative Erosion of Neutrality",
+      "description": "Christoph Pfluger, BENE and Neutrality Council; Introduction Peter Koenig, BENE and NC \nThe brief summary, below, of Cumulative Erosion of Neutrality was first published as a Press Release in the Swiss media, on or around 11 September 2026.\n*\nIntroduction \n\u2026\n\u2026",
+      "url": "https://www.globalresearch.ca/swiss-neutrality-council-cumulative-erosion-neutrality/5941214",
+      "source": "Globalresearch.ca",
+      "date": "2026-09-21",
+      "image": "https://www.globalresearch.ca/wp-content/uploads/2018/02/Think-Switzerland-Country-Zermatt-Matterhorn-486574518-extravagantni-copy-1.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Has the farm bill hit a dead end?",
+      "description": "What was once a bipartisan slam dunk has now become a hyper-politicized game of chicken, with hunger, nutrition, and conservation programs on the line.",
+      "url": "https://grist.org/food-and-agriculture/has-the-farm-bill-hit-a-dead-end/",
+      "source": "Grist",
+      "date": "2026-09-21",
+      "image": "https://grist.org/wp-content/uploads/2026/09/GettyImages-2295640757.jpg",
+      "category": "market"
+    },
+    {
+      "title": "SIRIM records 48% surge in demand for testing and certification as order book doubles",
+      "description": "SIRIM recorded a 48% increase in demand for its testing, certification, calibration, and training services over the past year. This represents a clear shift from the previous year\u2019s 7% growth rate, as companies face stricter compliance requirements to access \u2026",
+      "url": "https://soyacincau.com/2026/09/21/sirim-records-48-surge-in-demand-for-testing-and-certification-as-order-book-doubles/",
+      "source": "SoyaCincau.com",
+      "date": "2026-09-21",
+      "image": "https://soyacincau.com/wp-content/uploads/2026/09/20260921-SIRIM-01.png",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Tokyo Market Closed as Yen Intervention Watch Dominates Silver Week",
+      "description": "Tokyo\u2019s stock market was closed on September 21 for Respect for the Aged Day, leaving the Nikkei 225 without a cash close after finishing the previous session at 65,019, while currency and futures markets focused on the yen, the Bank of Japan\u2019s latest rate hi\u2026",
+      "url": "https://newsonjapan.com/article/150825.php",
+      "source": "Newsonjapan.com",
+      "date": "2026-09-21",
+      "image": "https://i2.ytimg.com/vi/dAAeN27Vj1Q/maxresdefault.jpg",
+      "category": "currency"
     },
     {
       "title": "Commodity Support and Resistance Levels for Precious Metals, Energy, and Agricultural Futures on 2026-09-21 - KuCoin",
@@ -177,231 +402,6 @@
       "date": "2026-09-21",
       "image": "",
       "category": "metals"
-    },
-    {
-      "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" Sept. 20, 2026",
-      "description": "On this \"Face the Nation with Margaret Brennan\" broadcast, Reps. Ro Khanna and Maria Elvira Salazar join Margaret Brennan.",
-      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-09-20-2026/",
-      "source": "CBS News",
-      "date": "2026-09-20",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/20/c9473a57-eaea-4523-9462-fa9dd90e6432/thumbnail/1200x630/3e6a69b1fcd37cb3ca6999148a4da155/1789926674836.png",
-      "category": "market"
-    },
-    {
-      "title": "Manufacturing: No skills, no scale",
-      "description": "Many companies, especially in the engineering sector, have their own skill-development programmes. But these are too small to make a national impact",
-      "url": "https://www.business-standard.com/opinion/columns/manufacturing-no-skills-no-scale-126092000839_1.html",
-      "source": "Business Standard",
-      "date": "2026-09-20",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-05/12/thumb/fitandfill/1200X628/1778579903-0516.jpeg",
-      "category": "market"
-    },
-    {
-      "title": "Analyst: Meta Needs Just 115 Million Users to Ignite a $28 Billion AI Gold Rush \u2014 But It\u2019s Not Likely to Happen",
-      "description": "Oppenheimer's top internet analyst ran the numbers on Meta's AI subscription push and walked away skeptical, raising a pointed question about whether Muse ca...",
-      "url": "https://247wallst.com/investing/2026/09/20/analyst-meta-needs-just-115-million-users-to-ignite-a-28-billion-ai-gold-rush-but-its-not-likely-to-happen/",
-      "source": "24/7 Wall St.",
-      "date": "2026-09-20",
-      "image": "https://s.yimg.com/lo/mysterio/api/31809e5577846c2251c30666a34dba74dbe1d5feb3f99e11fa867dd973f9f402/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fbf4d3d494adf959c4e606c480a61008a.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "Global Times: How Mohe, China's northernmost and coldest city, turns ice and snow into invaluable assets",
-      "description": "BEIJING, Sept. 20, 2026 /PRNewswire/ -- At 53 degrees north latitude, Mohe sits at the \"crown of the golden rooster\" on China's map \u2014 the highest-latitude place in the country. At -53 C, the city in Northeast China's Heilongjiang once saw the lowest temperatu\u2026",
-      "url": "https://www.prnewswire.com/news-releases/global-times-how-mohe-chinas-northernmost-and-coldest-city-turns-ice-and-snow-into-invaluable-assets-302884037.html",
-      "source": "PRNewswire",
-      "date": "2026-09-20",
-      "image": null,
-      "category": "metals"
-    },
-    {
-      "title": "Multi-Asset Trading Venue Monochrome Exchange Launches IEO of Its Native Token, $MCR",
-      "description": "Monochrome Exchange, a multi-asset trading platform, has announced the Initial Exchange Offering (IEO) of its native utility token, MCR. The platform aims to consolidate crypto, equities, bonds, and real-world assets into a single venue where trades settle on\u2026",
-      "url": "https://zycrypto.com/multi-asset-trading-venue-monochrome-exchange-launches-ieo-of-its-native-token-mcr/",
-      "source": "ZyCrypto",
-      "date": "2026-09-20",
-      "image": "https://zycrypto.com/wp-content/uploads/2026/09/image-24.jpeg",
-      "category": "market"
-    },
-    {
-      "title": "How TTD plans to unlock value from land and strengthen its financial systems",
-      "description": "The Institute of Chartered Accountants of India is working with Tirumala Tirupati Devasthanams on several key projects. These initiatives include monetizing land assets through real estate investment trusts and valuing gold holdings. An updated accounting man\u2026",
-      "url": "https://timesofindia.indiatimes.com/real-estate/news/how-ttd-plans-to-unlock-value-from-land-and-strengthen-its-financial-systems/articleshow/134369884.cms",
-      "source": "The Times of India",
-      "date": "2026-09-20",
-      "image": "https://static.toiimg.com/thumb/msid-134370133,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "Don\u2019t even think about retiring if this is you in 2026 \u2014 5 red flags to watch (especially with Trump in the White House)",
-      "description": "Don\u2019t retire with these red flags flying",
-      "url": "https://finance.yahoo.com/markets/articles/don-t-even-think-retiring-141500099.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-09-20",
-      "image": "https://s.yimg.com/lo/mysterio/api/9530187165d23b038317dd3fe57173c396a3cb8f72263b66161f772b9d08e763/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2F4f8d7372566743664baf548f1e2edd46.jpg",
-      "category": "market"
-    },
-    {
-      "title": "IFAD President to Asharq Al-Awsat: Sanctions Are the Biggest Challenge for Remittance Channels",
-      "description": "Money sent by migrants to their families is no longer simply a means of covering living expenses. In many low- and middle-income countries, these flows have become a financial safety net for households during crises, a source of savings and investment, and a \u2026",
-      "url": "https://english.aawsat.com/business/5320485-ifad-president-asharq-al-awsat-sanctions-are-biggest-challenge-remittance-channels",
-      "source": "Aawsat.com",
-      "date": "2026-09-20",
-      "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-09/1785216_0.jpeg.webp?VersionId=xwU6S.Z8FrxBqmEuMHMLpMXv17M3yBFw",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Gold, silver rates to remain volatile this week: Here\u2019s what to watch out for",
-      "description": "Investors to focus on fresh batch of economic data, including mid-month manufacturing and services PMI readings from major economies, among others",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-silver-rates-to-remain-volatile-this-week-heres-what-to-watch-out-for/article71488241.ece",
-      "source": "BusinessLine",
-      "date": "2026-09-20",
-      "image": "https://bl-i.thgim.com/public/incoming/o9lk1w/article71488323.ece/alternates/LANDSCAPE_1200/PO20_Gold_silver.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "Multi-Asset Trading Venue Monochrome Exchange Announces IEO of Its Native Token, MCR",
-      "description": "Sydney, New South Wales, Australia, 20th September 2026, Chainwire\nThe post Multi-Asset Trading Venue Monochrome Exchange Announces IEO of Its Native Token, MCR appeared first on The Daily Hodl.",
-      "url": "https://dailyhodl.com/2026/09/20/multi-asset-trading-venue-monochrome-exchange-announces-ieo-of-its-native-token-mcr/",
-      "source": "The Daily Hodl",
-      "date": "2026-09-20",
-      "image": "https://dailyhodl.com/wp-content/uploads/2026/09/IEO_banner_SPLIT_3DMARK_2400x1440_17899026021LI3QMuCcY.jpg?resize=1920,1152",
-      "category": "market"
-    },
-    {
-      "title": "Gold likely to stay range-bound next week as dollar, West Asia tensions guide market: Analysts",
-      "description": "After a week dominated by monetary policy and geopolitical developments, investors will turn their focus to a fresh batch of economic data, including mid-month manufacturing and services Purchasing Managers' Index (PMI readings) from major economies.",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-likely-to-stay-range-bound-next-week-as-dollar-west-asia-tensions-guide-market-analysts/articleshow/134367215.cms",
-      "source": "The Times of India",
-      "date": "2026-09-20",
-      "image": "https://img.etimg.com/thumb/msid-134367272,width-1200,height-630,imgsize-107614,overlay-etmarkets/articleshow.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Coastal Kitchen Color Schemes: Fresh Ideas for 2026",
-      "description": "Picking the wrong colors for your kitchen can make coastal kitchen color schemes feel cold, dated, busy, or completely disconnected from the rest of your home. Coastal decorating ideas should create a relaxed atmosphere, yet the wrong colors can leave...\nThe \u2026",
-      "url": "https://ablissfulnest.com/?p=161072",
-      "source": "Ablissfulnest.com",
-      "date": "2026-09-20",
-      "image": "https://ablissfulnest.com/wp-content/uploads/2026/08/coastal-kitchen-color-scheme-featured-image.jpeg",
-      "category": "market"
-    },
-    {
-      "title": "Trump said American seniors would pay \u2018no tax\u2019 on Social Security benefits, but not everyone got in. Are you covered?",
-      "description": "And these deductions come with risks for retirees.",
-      "url": "https://finance.yahoo.com/economy/policy/articles/trump-said-american-seniors-pay-102500055.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-09-20",
-      "image": "https://s.yimg.com/lo/mysterio/api/57d4551352b969b583f5a0f87afa283449b4be9f2f31a7b7ea94e035bd077222/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2Fe9434f7ac1c3d48aa8107185d5412fc2.jpg",
-      "category": "market"
-    },
-    {
-      "title": "What does a lion stamp on gold mean?",
-      "description": "What Does a Lion Stamp on Gold Mean? Unraveling the Symbolism The presence of a lion stamp on gold signifies various things, often including the gold\u2019s purity, the maker or assayer responsible for verifying its quality, and sometimes the origin of the gold or\u2026",
-      "url": "https://www.lifesciencesworld.com/what-does-a-lion-stamp-on-gold-mean/",
-      "source": "Lifesciencesworld.com",
-      "date": "2026-09-20",
-      "image": null,
-      "category": "metals"
-    },
-    {
-      "title": "Netflix Pulls the Curtain on \u2018Emily in Paris\u2019 After 6 Years",
-      "description": "After seven years, six seasons, and a whole lot of Parisian romance, Emily in Paris has officially finished filming. Lily Collins confirmed the news in an emotional post on Instagram, marking the end of production on Season 6, the show\u2019s final chapter. For fa\u2026",
-      "url": "https://insidethemagic.net/2026/09/netflix-pulls-the-curtain-on-emily-in-paris-after-6-years-ad1/",
-      "source": "Inside the Magic",
-      "date": "2026-09-20",
-      "image": "https://insidethemagic.net/wp-content/uploads/2025/08/Season-5-Emily-in-Paris.jpeg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Nepal's Gen Z is taking on the world's polluters over climate disasters",
-      "description": "Nepal is seeking climate compensation from major emitters after devastating floods and glacial disasters, putting climate justice at the center of its global diplomacy",
-      "url": "https://www.business-standard.com/world-news/nepal-s-gen-z-is-taking-on-the-world-s-polluters-over-climate-disasters-126092000898_1.html",
-      "source": "Business Standard",
-      "date": "2026-09-20",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/20/thumb/fitandfill/1200X628/1789927420-0784.jpg",
-      "category": "market"
-    },
-    {
-      "title": "What to Expect From US Stock Markets In the Fourth Week of September",
-      "description": "Yields at 5%, a Houthi strike on Riyadh, flash growth data and the Trump-Xi summit will steer US stock markets.",
-      "url": "https://beincrypto.com/us-stock-markets-week-ahead-september/",
-      "source": "BeInCrypto",
-      "date": "2026-09-20",
-      "image": "https://s.yimg.com/lo/mysterio/api/98a2bb3b4c65cc860c5fccd190d3325cf26b93a3762bc4a9ff4a89f31981e92e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F92249be1d067cd1bb705fb689f601034.jpg",
-      "category": "market"
-    },
-    {
-      "title": "U.S. economy hits pivotal milestone: Spending on data centers and other information-processing hardware now exceeds housing investment",
-      "description": "\"We\u2019re seeing a pivotal shift in the US economy: investment is shifting away from residential investment and towards computers.\"",
-      "url": "https://fortune.com/2026/09/20/us-economy-milestone-spending-data-centers-ai-boom-housing-residential-investment/",
-      "source": "Fortune",
-      "date": "2026-09-20",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2113285194-e1789920827317.jpg?resize=1200,600",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Iran warns of action in Strait of Hormuz amid US tensions",
-      "description": "Escalating tensions in the Strait of Hormuz could disrupt global energy supplies, impacting international markets and diplomatic relations.\nThe post Iran warns of action in Strait of Hormuz amid US tensions appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/iran-warns-of-action-in-strait-of-hormuz-amid-us-tensions/",
-      "source": "Crypto Briefing",
-      "date": "2026-09-20",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/20140330/commons-picker-govcommons96b9405073a325c1-21-800x450.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Apollo set to take major stake in Yankees, making team most valuable in baseball",
-      "description": "The Yankees are nearing a deal that would eventually hand a whopping 16% stake in the venerable franchise to private equity giant Apollo Capital Management.",
-      "url": "https://nypost.com/2026/09/20/sports/apollo-set-to-take-major-stake-in-yankees-making-team-most-valuable-in-baseball/",
-      "source": "New York Post",
-      "date": "2026-09-20",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/crop-40905989.jpg?quality=75&strip=all&w=1200",
-      "category": "market"
-    },
-    {
-      "title": "The 4 Best EPCOT Food And Wine Products For Disney World According To Our Testing",
-      "description": "These products made our reporter's Food & Wine Festival day better at EPCOT.",
-      "url": "https://www.disneyfoodblog.com/2026/09/20/the-4-best-epcot-food-and-wine-products-for-disney-world-according-to-our-testing/",
-      "source": "disneyfoodblog.com",
-      "date": "2026-09-20",
-      "image": "https://www.disneyfoodblog.com/wp-content/uploads/2026/08/Front-Planter-2026-EPCOT-Food-and-Wine-Festival-signs-atmos-1-700x525.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Xiaomi's new body composition scale has a rechargeable battery and costs ~$30",
-      "description": "Xiaomi has released its first smart scale with a rechargeable battery. It charges via USB-C and the battery lasts up to 150 days on a single charge. In addition, the price of the scale is the equivalent of $30.",
-      "url": "https://www.notebookcheck.net/Xiaomi-s-new-body-composition-scale-has-a-rechargeable-battery-and-costs-30.1404061.0.html",
-      "source": "Notebookcheck.net",
-      "date": "2026-09-20",
-      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Xiaomi-Body-Composition-Scale-S400-Pro.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Steve Hilton punches hard against Xavier Becerra in California",
-      "description": "Determines to 'stop worrying about being the underdog and start doing'",
-      "url": "https://www.wnd.com/2026/09/steve-hilton-punches-hard-against-xavier-becerra-california/",
-      "source": "Wnd.com",
-      "date": "2026-09-20",
-      "image": "https://www.wnd.com/wp-content/uploads/2026/05/steve-hilton-20260507-jpg-1200x630.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Donald Trump\u2019s business empire expands into artificial intelligence",
-      "description": "Trump's AI ventures highlight potential conflicts of interest, raising concerns about regulatory fairness and national security implications.\nThe post Donald Trump\u2019s business empire expands into artificial intelligence appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/trump-business-empire-expands-artificial-intelligence/",
-      "source": "Crypto Briefing",
-      "date": "2026-09-20",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/20140440/library-donald-trump-s-business-empire-expands-into-artificial-i-800x450.png",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Germany in deadlock after Mecklenburg & Berlin elections: Merz stays until he leaves, while the far-right surges & sparks alarm",
-      "description": "The German Chancellor remains in office not because the ballot box endorsed his policies, but because there is still no agreed alternative within the Christian Democrats & eight state premiers have publicly backed him\nThe post Germany in deadlock after Meckle\u2026",
-      "url": "https://en.protothema.gr/2026/09/20/germany-in-deadlock-after-mecklenburg-berlin-elections-merz-stays-until-he-leaves-while-the-far-right-surges-sparks-alarm/",
-      "source": "Protothema.gr",
-      "date": "2026-09-20",
-      "image": "https://en.protothema.gr/wp-content/uploads/2026/09/xrwma-afd-merz.webp",
-      "category": "market"
     }
   ],
   "history": [
@@ -496,7 +496,7 @@
       "platinum_usd_oz": 1857.35
     }
   ],
-  "timestamp": "2026-09-21T23:47:28.380069+05:30",
+  "timestamp": "2026-09-22T14:11:30.889931+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
