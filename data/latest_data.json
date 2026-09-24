@@ -54,7 +54,7 @@
         "hold": 25
       },
       "summary": "Gold is showing positive signals. Strong daily gain of 1.1%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-09-24T14:17:51.839799",
+      "timestamp": "2026-09-24T17:29:04.162950",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 25
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 1.3%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-09-24T14:17:51.912325",
+      "timestamp": "2026-09-24T17:29:04.256186",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 25
       },
       "summary": "Platinum is showing positive signals. Strong daily gain of 2.0%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-09-24T14:17:51.991081",
+      "timestamp": "2026-09-24T17:29:04.354292",
       "source": "rule-based"
     }
   },
@@ -134,18 +134,27 @@
   },
   "news": [
     {
-      "title": "Sebi board approves FPI play in non-agri commodity derivatives, expands scope of PMS",
-      "description": "Sebi has approved new regulations allowing foreign portfolio investors to participate in non-agricultural commodity derivatives. This regulatory change aims to increase institutional participation and streamline existing portfolio manager regulations. The newly approved framework will clarify delive",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-eases-foreign-investor-access-to-commodity-derivatives-expands-scope-of-portfolio-managers/articleshow/134464170.cms",
+      "title": "Ahead of Market: 10 things that will decide stock market action on Friday",
+      "description": "Indian equities suffered a sharp selloff, with Sensex plunging 1,248 points and Nifty falling 1.6% as US Treasury yields hit 19-year highs, crude stayed above $100 and geopolitical concerns intensified. Financial stocks led losses, while market breadth remained heavily negative.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/134466210.cms",
       "source": "Economic Times Markets",
       "date": "2026-09-24",
       "image": "",
-      "category": "market"
+      "category": "geopolitics"
     },
     {
-      "title": "Rupee falls 22 paise as crude, dollar demand rise",
-      "description": "The rupee weakened 22 paise to 95.96 per dollar as strong importer demand, rising crude prices and global bond yields pressured the currency. Traders said RBI intervened through state-owned banks, while US-Iran tensions raised inflation and rate-hike concerns.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-falls-22-paise-as-crude-dollar-demand-rise/articleshow/134462424.cms",
+      "title": "Sebi expands bullion vaulting framework to ETFs, derivatives; vault manager net worth raised",
+      "description": "Sebi expanded its vault managers framework beyond Electronic Gold Receipts to cover bullion underlying specified ETFs and derivatives, while raising vault managers\u2019 net-worth requirement to Rs 75 crore and strengthening security, segregation, compliance and governance requirements.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-expands-bullion-vaulting-framework-to-etfs-derivatives-vault-manager-net-worth-raised/articleshow/134466018.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-09-24",
+      "image": "",
+      "category": "metals"
+    },
+    {
+      "title": "Market Trading Guide: Allied Blenders among 3 stock recommendations for Friday",
+      "description": "Indian equities ended higher as investors focused on domestic growth momentum despite crude volatility and geopolitical risks. For Friday, analysts recommended Texmaco Rail, South Indian Bank and Allied Blenders.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-allied-blenders-among-3-stock-recommendations-for-friday/slideshow/134465077.cms",
       "source": "Economic Times Markets",
       "date": "2026-09-24",
       "image": "",
@@ -161,6 +170,78 @@
       "category": "central_bank"
     },
     {
+      "title": "The Iran War Might Be Somaliland\u2019s Chance for Recognition",
+      "description": "The unrecognized republic is pitching itself as a strategic ally for Washington.",
+      "url": "http://foreignpolicy.com/2026/09/23/somaliland-israel-state-recognition-somalia-iran-war-irro-united-states-trump/",
+      "source": "Foreign Policy",
+      "date": "2026-09-23",
+      "image": "https://foreignpolicy.com/wp-content/uploads/2026/09/SOMALILAND-ISRAEL-TRUMP-GettyImages-2262420586.png",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Anheuser-Busch InBev Maps Organic Growth Engine at Capital Markets Day",
+      "description": "At its Capital Markets Day, Anheuser-Busch InBev SA/NV (NYSE:BUD) emphasized its corporate culture, long-term growth strategy and U.S. sales capabilities, wi...",
+      "url": "https://www.marketbeat.com/instant-alerts/event-anheuser-busch-inbev-maps-organic-growth-engine-at-capital-markets-day-2026-09-23/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+      "source": "MarketBeat",
+      "date": "2026-09-23",
+      "image": "https://s.yimg.com/lo/mysterio/api/c6032171d7f9f0da7fa77d29f60393bd0e80f54cdc6307b37bedc3901a89c283/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmarketbeat_955%2Fd8d17ddd3224866a361c76f79b6fa45e.gif",
+      "category": "market"
+    },
+    {
+      "title": "Taylor Swift\u2019s \u201cPatient Zero\u201d Could Mean Something Very Obvious. Or It Could Play With a Loaded History of the Term.",
+      "description": "We are impatient.",
+      "url": "https://slate.com/technology/2026/09/taylor-swift-patient-zero-travis-kelce-new-songs.html",
+      "source": "Slate Magazine",
+      "date": "2026-09-23",
+      "image": "https://compote.slate.com/images/9d1e128e-f92d-4cbc-a5fa-f2aa4914d7ba.jpeg?crop=1560%2C1040%2Cx0%2Cy25&width=1560",
+      "category": "market"
+    },
+    {
+      "title": "Rupee may not just stabilise, but appreciate from current levels: RBI Dy Guv Poonam Gupta",
+      "description": "RBI Deputy Governor Poonam Gupta mentioned the rupee could stabilize or appreciate after its recent depreciation. She highlighted India's potential to reduce the current account deficit through services exports and remittances. Gupta noted that capital accoun\u2026",
+      "url": "https://economictimes.indiatimes.com/news/economy/finance/rupee-may-not-just-stabilise-but-appreciate-from-current-levels-rbi-dy-guv-poonam-gupta/articleshow/134442756.cms",
+      "source": "The Times of India",
+      "date": "2026-09-23",
+      "image": "https://img.etimg.com/thumb/msid-134442788,width-1200,height-630,imgsize-175944,overlay-economictimes/articleshow.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "The Gold-Silver Ratio: What It Signals and What It Doesn\u2019t",
+      "description": "Divide the gold price by the silver price and you get the gold-silver ratio. One calculation, no assumptions, published everywhere. Its simplicity is why it gets used so heavily and why it gets over-read. The ratio is routinely presented as a valuation signal\u2026",
+      "url": "https://addicted2success.com/wealth/gold-silver-ratio-investment-signals/",
+      "source": "Addicted2success.com",
+      "date": "2026-09-23",
+      "image": "https://addicted2success.com/wp-content/uploads/2026/09/Man-sitting-at-his-desk-trading-gold-and-silver-in-the-stock-market-1000x600.jpeg",
+      "category": "metals"
+    },
+    {
+      "title": "Fair case for rupee to appreciate from current levels: RBI's Poonam Gupta",
+      "description": "RBI Deputy Governor Poonam Gupta sees a case for rupee appreciation as the current account deficit shrinks and capital flows improve, potentially later this financial year.",
+      "url": "https://www.business-standard.com/economy/news/fair-case-for-rupee-to-appreciate-from-current-levels-rbi-s-poonam-gupta-126092301493_1.html",
+      "source": "Business Standard",
+      "date": "2026-09-23",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/23/thumb/fitandfill/1200X628/1790181092-4067.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "10 Gambling Disasters That Wiped Out Millions",
+      "description": "Some lost their own fortunes. Others gambled with money that belonged to investors, employers, or one of the biggest names in professional sports. All ten wa...",
+      "url": "https://247wallst.com/investing/2026/09/23/10-gambling-disasters-that-wiped-out-millions/",
+      "source": "24/7 Wall St.",
+      "date": "2026-09-23",
+      "image": "https://s.yimg.com/lo/mysterio/api/62b7f39bca79a6e3ce10e4808c5e88e65764435620e11f543cacc7ced19fcdaa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Ff8ad6651f352666bd4eda48ca613683a.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Markets in Motion: What the yield curve and Fed outlook are signaling for stocks",
+      "description": "The bond market is sending investors another signal as higher short-term interest rates reshape the U. S.",
+      "url": "https://investorshub.advfn.com/market-news/article/36810/fed-rates-energy-materials-market-rotation",
+      "source": "Advfn.com",
+      "date": "2026-09-23",
+      "image": "https://s.yimg.com/lo/mysterio/api/12ca9a99cdf0579d3a3e8013943d95ebe98d4382ca471395b4213cb34e6c2435/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finvestorshub_458%2Fb7720b58d6c39a2004bb2a570a7ed1cf.png",
+      "category": "central_bank"
+    },
+    {
       "title": "I\u2019m 39 with $200K in savings, but they say the magic number for retirement is $1.46 million. Am I going to make it?",
       "description": "Feeling behind can be a frightening prospect.",
       "url": "https://finance.yahoo.com/markets/articles/m-39-200k-savings-magic-140500704.html",
@@ -168,69 +249,6 @@
       "date": "2026-09-23",
       "image": "https://s.yimg.com/lo/mysterio/api/b833a811ffc30def715a1a4095831b1ed380e479c4fbbfc4464c98333d392ae7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2F3bfceca7a9e5696658804b08ff00e5f6.jpg",
       "category": "market"
-    },
-    {
-      "title": "TrackStudio: An integrated toolkit for markerless tracking",
-      "description": "Markerless motion tracking has advanced rapidly in the past 10 years and currently offers powerful opportunities for behavioural, clinical, and biomechanical research. While several specialised toolkits provide high performance for specific tasks, using exist\u2026",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358647",
-      "source": "Plos.org",
-      "date": "2026-09-23",
-      "image": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0358647.g005&size=inline",
-      "category": "market"
-    },
-    {
-      "title": "Gold will likely be under pressure in Q4 on hawkish US Fed policy",
-      "description": "Analysts see a firm dollar and elevated US real rates could constrain near-term upside for the precious metal",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-will-likely-be-under-pressure-in-q4-on-hawkish-us-fed-policy/article71500143.ece",
-      "source": "BusinessLine",
-      "date": "2026-09-23",
-      "image": "https://bl-i.thgim.com/public/incoming/9iprz9/article71471358.ece/alternates/LANDSCAPE_1200/iStock-184997181%201.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "The tiny magnet maker that attracted US$1.6 billion from Lutnick",
-      "description": "Can USA Rare Earth Inc. actually produce the critical minerals and magnets the government needs to break China\u2019s chokehold on global supplies?",
-      "url": "https://financialpost.com/commodities/mining/tiny-magnet-maker-attracted-16-billion-lutnick",
-      "source": "Financial Post",
-      "date": "2026-09-23",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/09/0924-bc-lutnick-.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Here\u2019s Why The Fund Trimmed Ross Stores (ROST) in Q2",
-      "description": "Madison Investments, an investment advisor, released its second-quarter 2026 investor letter for the \u201cMadison Mid Cap Fund\u201d. You can download a copy of the l...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-fund-trimmed-ross-stores-125105870.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-09-23",
-      "image": "https://s.yimg.com/lo/mysterio/api/83abeaa4bf7d2579e5dc867be901787fa26ed40ef3bbed19d1986b6d67ad5687/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Feb44f33c28ebcbf5bde92fee5b3643da.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Morning Minute: Bitcoin Hits $86,000 as Oil Slides and ETFs Bid",
-      "description": "Crypto majors continue their climb while alt leaders hit new ATHs. What\u2019s driving the recent run up?",
-      "url": "https://decrypt.co/379033/morning-minute-bitcoin-hits-86000-as-oil-slides-and-etfs-bid",
-      "source": "Decrypt",
-      "date": "2026-09-23",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/Bitcoin_bull-gID_7.png",
-      "category": "market"
-    },
-    {
-      "title": "India's richest in 2026: Adani tops the list, 27 new billionaires emerge",
-      "description": "India's billionaire club gets bigger: 391 now cross the $1-billion mark",
-      "url": "https://www.business-standard.com/finance/personal-finance/india-s-richest-in-2026-adani-tops-the-list-27-new-billionaires-emerge-126092300983_1.html",
-      "source": "Business Standard",
-      "date": "2026-09-23",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-05/18/thumb/featurecrop/1200X628/1779085263-4185.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Hindi-speaking regions emerging as MF's new 'growth engine': Vishal Kapoor",
-      "description": "Hindi and regional-language content, digital access and rising financial awareness can help mutual funds deepen their reach beyond major cities",
-      "url": "https://www.business-standard.com/markets/interviews/hindi-speaking-regions-emerging-as-mf-s-new-growth-engine-vishal-kapoor-126092300935_1.html",
-      "source": "Business Standard",
-      "date": "2026-09-23",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/23/thumb/fitandfill/1200X628/1790162738-9556.jpg",
-      "category": "geopolitics"
     },
     {
       "title": "Silver Stocks Are Turning High Margins Into Dividends for Shareholders. 1 Precious Metals Stock to Buy Right Now",
@@ -287,121 +305,103 @@
       "category": "metals"
     },
     {
-      "title": "Blue Moon Acquires the Turner Copper-Gold VMS Deposit to Further Advance its Western U.S. Critical Mineral Hub and Spoke Model",
-      "description": "TORONTO, Sept. 23, 2026 /PRNewswire/ -- Blue Moon Metals Inc. (\"Blue Moon\" or the \"Company\") (TSXV: MOON) (NASDAQ: BMM) is pleased to announce that it has signed a definitive agreement with Gold Coast Mining Inc. (\"Gold Coast\") to acquire 100% of the Turner C\u2026",
-      "url": "https://www.prnewswire.com/news-releases/blue-moon-acquires-the-turner-copper-gold-vms-deposit-to-further-advance-its-western-us-critical-mineral-hub-and-spoke-model-302886873.html",
-      "source": "PRNewswire",
+      "title": "Numeral Raises $100M Series C as Vertical AI Agent Play Hits Tax Compliance",
+      "description": "The $100M Bet on Tax Compliance Agents Tax compliance is rarely the stuff of headlines, but it is exactly the kind of high-stakes, high-complexity problem that AI is currently being drafted to solve. Numeral, led by CEO Sam Ross and co-founder Matt DuVall, ju\u2026",
+      "url": "https://forkast.news/numeral-raises-100m-series-c-as-vertical-ai-agent-play-hits-tax-compliance/",
+      "source": "Forkast.news",
       "date": "2026-09-23",
-      "image": "https://mmx.prnewswire.com/media/MS1994499/Blue-Moon-Metals-Blue-Moon-Acquires-the-Turner-Copper-Gold-VMS-D.jpg?id=OA2965489&p=facebook",
-      "category": "supply_demand"
-    },
-    {
-      "title": "AnorTech Welcomes Historic Greenland Security Agreement",
-      "description": "VANCOUVER, British Columbia, Sept. 23, 2026 (GLOBE NEWSWIRE) \u2014 AnorTech Inc. (\u201cAnorTech\u201d or the \u201cCompany\u201d) (TSX-V: ANOR; OTCQB: ANORF) welcomes the signing of the Greenland Security Agreement by Greenland, the Kingdom of Denmark and the United States at the U\u2026",
-      "url": "https://financialpost.com/globe-newswire/anortech-welcomes-historic-greenland-security-agreement",
-      "source": "Financial Post",
-      "date": "2026-09-23",
-      "image": null,
+      "image": "https://forkast.news/wp-content/uploads/2026/09/numeral-100m-series-c-1024x687.jpg",
       "category": "market"
     },
     {
-      "title": "Global Safety Net v3 launched to monitor the global extent and condition of natural land annually",
-      "description": "The online data platform developed by One Earth and the Nature Data Lab offers for the first time a detailed view of the world's remaining natural land, supporting government, corporate, and philanthropic efforts to build a nature-positive future. NEW YORK, S\u2026",
-      "url": "https://www.prnewswire.com/news-releases/global-safety-net-v3-launched-to-monitor-the-global-extent-and-condition-of-natural-land-annually-302887426.html",
-      "source": "PRNewswire",
+      "title": "Bitcoin price today: Why did BTC USD reverse from $87,000 and drop to $84,000? Here's what crypto traders are watching now",
+      "description": "Bitcoin price fell below $84,000 after a morning rally pushed BTC above $87,000. The reversal came as stronger US business activity lifted Treasury yields, while traders also turned their attention to Bitcoin\u2019s roughly $14 billion options expiry on Friday.",
+      "url": "https://economictimes.indiatimes.com/news/international/us/bitcoin-price-today-why-did-btc-usd-reverse-from-87000-and-drop-to-84000-heres-what-crypto-traders-are-watching-now/articleshow/134442019.cms",
+      "source": "The Times of India",
       "date": "2026-09-23",
-      "image": "https://mmx.prnewswire.com/media/MS1727617/One-Earth-Logo-Black-Logo-Logo.jpg?id=OA2964237&p=facebook",
-      "category": "market"
-    },
-    {
-      "title": "Gil Antolin Joins PRIMA to Expand Its Global Hospitality Network",
-      "description": "Antolin will help expand PRIMA's global network of hospitality providers, travel professionals, creators and distribution partners. MIAMI, Sept. 23, 2026 /PRNewswire/ -- PRIMA VIP INC today announced that Gil Antolin, founder of Luxury World Traveler, has joi\u2026",
-      "url": "https://www.prnewswire.com/news-releases/gil-antolin-joins-prima-to-expand-its-global-hospitality-network-302887821.html",
-      "source": "PRNewswire",
-      "date": "2026-09-23",
-      "image": "https://mmx.prnewswire.com/media/MS1994217/Gil_Headshot_Final.jpg?id=OA2964611&p=facebook",
-      "category": "market"
-    },
-    {
-      "title": "What borrowers can do if a lender forcibly repossesses a financed vehicle",
-      "description": "Check the notices and possession records; report a secret or forcible seizure promptly; and seek urgent relief before an auction",
-      "url": "https://www.business-standard.com/finance/personal-finance/what-borrowers-can-do-if-a-lender-forcibly-repossesses-a-financed-vehicle-126092301295_1.html",
-      "source": "Business Standard",
-      "date": "2026-09-23",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/19/thumb/fitandfill/1200X628/1787159325-4864.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Tesla\u2019s \u2018hardcore lawyers\u2019 went a little too hardcore",
-      "description": "Tesla\u2019s racism trial in California opened Monday with a bad day for the company\u2019s lawyers. The first witness testified that a senior Tesla in-house attorney had called him last week and let him believe he was working for the state, according to Law360 (paywal\u2026",
-      "url": "http://electrek.co/2026/09/23/tesla-hardcore-lawyers-misled-witness-racism-trial/",
-      "source": "Electrek",
-      "date": "2026-09-23",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2017/07/tesla-fremont-electrek-june-2017-021.jpg?quality=82&strip=all&resize=1200,628",
-      "category": "market"
-    },
-    {
-      "title": "Trump to welcome Xi Jinping for first US visit in over a decade amid fragile trade truce",
-      "description": "Xi Jinping will visit Washington September 23-25 for his first US trip in over a decade, with trade truce extension and tech tensions topping the\nThe post Trump to welcome Xi Jinping for first US visit in over a decade amid fragile trade truce appeared first \u2026",
-      "url": "https://cryptobriefing.com/trump-xi-jinping-summit-trade-truce/",
-      "source": "Crypto Briefing",
-      "date": "2026-09-23",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/23101505/library-trump-to-welcome-xi-jinping-for-first-us-visit-in-over-a-800x450.png",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Industrial Hose Market worth $15.68 billion by 2032 - Exclusive Report by MarketsandMarkets\u2122",
-      "description": "DELRAY BEACH, Fla., Sept. 23, 2026 /PRNewswire/ -- According to MarketsandMarkets\u2122, the Industrial Hose Market is projected to be valued at USD 12.60 billion in 2026 and USD 15.68 billion by 2032, at a CAGR of 3.7%. Browse 170 market data Tables and 80 Figure\u2026",
-      "url": "https://www.prnewswire.com/news-releases/industrial-hose-market-worth-15-68-billion-by-2032---exclusive-report-by-marketsandmarkets-302887368.html",
-      "source": "PRNewswire",
-      "date": "2026-09-23",
-      "image": "https://mmx.prnewswire.com/media/MS1173081/MarketsandMarkets-Logo.jpg?id=OA2966091&p=facebook",
+      "image": "https://img.etimg.com/thumb/msid-134443333,width-1200,height-630,imgsize-111234,overlay-economictimes/articleshow.jpg",
       "category": "currency"
     },
     {
-      "title": "Iran\u2019s Supreme National Security Council sets four-to-five-day ultimatum for US compliance on Strait of Hormuz",
-      "description": "Iran's ultimatum over the Strait of Hormuz could destabilize global energy markets, prompting urgent diplomatic efforts to avert economic fallout.\nThe post Iran\u2019s Supreme National Security Council sets four-to-five-day ultimatum for US compliance on Strait of\u2026",
-      "url": "https://cryptobriefing.com/iran-ultimatum-us-strait-of-hormuz/",
-      "source": "Crypto Briefing",
-      "date": "2026-09-23",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2020/12/02092245/link-bull-1024x538.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Colorado state budget deficit grows to $1.6B as Medicaid costs soar",
-      "description": "The unrelenting rise in healthcare costs has left state lawmakers facing a $1.6 billion deficit in the 2027-28 budget year ... The best-case scenario forecast that Colorado budget writers received in June turned out to be too good to be true. Three months lat\u2026",
-      "url": "https://freerepublic.com/focus/f-news/4396581/posts",
-      "source": "Freerepublic.com",
-      "date": "2026-09-23",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "There's a reason Trump is the only one talking about 1% interest rates",
-      "description": "President Donald Trump is calling for the Federal Reserve to slash interest rates to 1%, a move that analysts fear could destabilize global markets. With mortgage rates and the prices of essential goods surging, the administration is under fire for rising inf\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/theres-a-reason-trump-is-the-only-one-talking-about-1-interest-rates/articleshow/134440493.cms",
+      "title": "Melania Trump rings New York Stock Exchange opening bell to launch new women's initiative Imperia",
+      "description": "On Wednesday, Melania Trump celebrated the launch of her initiative, Imperia, at the New York Stock Exchange, championing women's leadership and economic empowerment. She emphasized the significant impact women make on the global economy during her remarks. F\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/melania-trump-rings-new-york-stock-exchange-opening-bell-to-launch-new-womens-initiative-imperia/articleshow/134443367.cms",
       "source": "The Times of India",
       "date": "2026-09-23",
-      "image": "https://img.etimg.com/thumb/msid-134440517,width-1200,height-630,imgsize-62196,overlay-etmarkets/articleshow.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "Fed's Barr says further rate hikes will likely be needed",
-      "description": "Sept 23 () - Federal Reserve Governor Michael Barr said on Wednesday the US central bank took an important step last week to \"recalibrate\" short-term borrowi...",
-      "url": "https://finance.yahoo.com/economy/policy/articles/feds-barr-says-further-rate-140746063.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-09-23",
-      "image": "https://s.yimg.com/lo/mysterio/api/c165e684d4b387be8cb4fe975eccb22903a7b46b5d8beaf9210f0b3f40a4ae7a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Ff2b46e81e65871db1ff1759ac729d73f.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "Barr, A Long-Term View on the Costs of Shelter",
-      "description": "Thank you for the opportunity to speak to you.  1     My interest in access to affordable housing spans several decades. During my career, I have worked on hou",
-      "url": "https://www.federalreserve.gov/newsevents/speech/barr20260923a.htm",
-      "source": "Federalreserve.gov",
-      "date": "2026-09-23",
-      "image": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg",
+      "image": "https://img.etimg.com/thumb/msid-134443365,width-1200,height-630,imgsize-8672828,overlay-etmarkets/articleshow.jpg",
       "category": "market"
+    },
+    {
+      "title": "Shipping Magnate Worth $13.5 Billion Rides AI Boom With Nvidia",
+      "description": "Maria Angelicoussis, the magnate behind Greece\u2019s biggest shipping fortune, has scored big gains outside her maritime empire with a bet on technology giant Nvidia Corp. after her family office shifted away from private markets.",
+      "url": "https://gcaptain.com/shipping-magnate-worth-13-5-billion-rides-ai-boom-with-nvidia/",
+      "source": "gcaptain.com",
+      "date": "2026-09-23",
+      "image": "https://gcaptain.com/wp-content/uploads/2026/09/2026-09-10T132136Z_1847599582_RC2QRLAIJ7F4_RTRMADP_3_D-MATRIX-NVIDIA.jpg",
+      "category": "market"
+    },
+    {
+      "title": "McDonald's Unveils $8.5B Plan To Accelerate Restaurant Improvements",
+      "description": "With the McDonald's > NEXT strategy, the fast food titan plans to provide $8.5B in partnering support through 2036, including about $5B through 2030.",
+      "url": "https://www.bisnow.com/news/national/retail/mcdonalds-unveils-8b-plan-to-accelerate-restaurant-improvements",
+      "source": "Bisnow",
+      "date": "2026-09-23",
+      "image": "https://s.yimg.com/lo/mysterio/api/5a9a37571584db9b6374763bcee6b3d129bb346449873aa39a8d452b9de05aae/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbisnow_994%2F9276c72c9cfa7f7ea8537b135d5642b7.jpg",
+      "category": "market"
+    },
+    {
+      "title": "How brokerage Compass sold its 83,000 real estate agents to use more AI",
+      "description": "The brokerage has leaned on executives and trained staff to laud a new AI tool intended to make real estate transactions more efficient.",
+      "url": "https://fortune.com/2026/09/23/compass-ai-assistant-real-estate-agents/",
+      "source": "Fortune",
+      "date": "2026-09-23",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/CIO-Compass-International-Holdings-Chief-Technology-Officer-Shay-Artzi-and-President-of-Growth-Rory-Golod.png?resize=1200,600",
+      "category": "market"
+    },
+    {
+      "title": "International Emmys Nominations Have UK, India, Argentina Vying In Both Marquee Drama & Comedy Series Races",
+      "description": "We have the nominees for the 2026 International Emmy Awards. Three countries \u2014 the UK, Argentina and India \u2014 landed noms in both the marquee Drama Series and Comedy Series races. Vying for the Drama prize are the UK\u2019s A Thousand Blows, France\u2019s Car\u00eame, Argent\u2026",
+      "url": "http://deadline.com/2026/09/2026-international-emmys-nominations-list-1237111469/",
+      "source": "Deadline",
+      "date": "2026-09-23",
+      "image": "https://deadline.com/wp-content/uploads/2022/03/International-Emmy-Awards.jpg?w=1000",
+      "category": "geopolitics"
+    },
+    {
+      "title": "RX France cancels Mip London after two editions, unveils London Book Fair events",
+      "description": "Event organiser RX France confirmed on Wednesday that Mip London will not return for a third edition and will be replaced by a series of conferences held in parallel with the London Book Fair. Launched...",
+      "url": "https://www.c21media.net/news/rx-france-cancels-mip-london-after-two-editions-unveils-london-book-fair-events/",
+      "source": "C21media.net",
+      "date": "2026-09-23",
+      "image": "https://cdn.c21media.net/wp-content/uploads/2026/09/mip-london-620.jpg",
+      "category": "market"
+    },
+    {
+      "title": "A new measure of financial conditions shows the US economy heading for a rough patch",
+      "description": "Jim Paulsen unveiled a gauge to measure the relative tightness of financial conditions. He says the indicators point to a period of economic weakness.",
+      "url": "https://www.businessinsider.com/us-economy-outlook-financial-conditions-interest-rate-hike-recession-2026-9#article",
+      "source": "Business Insider",
+      "date": "2026-09-23",
+      "image": "https://i.insider.com/6ab3d983eb72254112679906?width=1200&format=jpeg",
+      "category": "market"
+    },
+    {
+      "title": "Markets Raise Bets On October Fed Rate Hike",
+      "description": "Markets are increasingly pricing in another Federal Reserve rate hike in October after Fed Governor Michael Barr backed further policy tightening and fresh data showed stronger inflation pressures.\n\nBarr said policymakers likely need additional adjustments \u2026",
+      "url": "https://biztoc.com/x/badf1a820d328eed",
+      "source": "Biztoc.com",
+      "date": "2026-09-23",
+      "image": "https://biztoc.com/cdn/badf1a820d328eed_s.webp",
+      "category": "central_bank"
+    },
+    {
+      "title": "US-China AI talks: A two-power bargain that could leave the world with no say",
+      "description": "Donald Trump has rejected international regulations on artificial intelligence while preparing for a critical summit with Xi Jinping. Discussions are expected to focus on AI safety and protecting intellectual property rights amidst rising geopolitical tension\u2026",
+      "url": "https://economictimes.indiatimes.com/opinion/et-commentary/us-china-ai-talks-a-two-power-bargain-that-could-leave-the-world-with-no-say/articleshow/134443262.cms",
+      "source": "The Times of India",
+      "date": "2026-09-23",
+      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-44538,resizemode-75,msid-134443262/opinion/et-commentary/us-china-ai-talks-a-two-power-bargain-that-could-leave-the-world-with-no-say.jpg",
+      "category": "geopolitics"
     }
   ],
   "history": [
@@ -496,7 +496,7 @@
       "platinum_usd_oz": 1857.35
     }
   ],
-  "timestamp": "2026-09-24T19:47:52.004084+05:30",
+  "timestamp": "2026-09-24T22:59:04.366723+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
