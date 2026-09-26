@@ -54,7 +54,7 @@
         "hold": 25
       },
       "summary": "Gold is showing positive signals. Strong daily gain of 1.1%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-09-26T11:37:26.404643",
+      "timestamp": "2026-09-26T13:48:16.699929",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 25
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 1.3%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-09-26T11:37:26.507270",
+      "timestamp": "2026-09-26T13:48:16.771969",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 25
       },
       "summary": "Platinum is showing positive signals. Strong daily gain of 2.0%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-09-26T11:37:26.589526",
+      "timestamp": "2026-09-26T13:48:16.858018",
       "source": "rule-based"
     }
   },
@@ -134,6 +134,15 @@
   },
   "news": [
     {
+      "title": "Same playbook, different numbers: Why FPI selling may not be the story it looks like",
+      "description": "Indian equities extended their losing streak as elevated crude, US Treasury yields, geopolitical risks and FPI selling weighed on sentiment. However, foreign investors continued backing IPOs, selectively buying debt and mid-small caps, suggesting portfolio selectivity rather than a broad withdrawal ",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/same-playbook-different-numbers-why-fpi-selling-may-not-be-the-story-it-looks-like/articleshow/134503513.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-09-26",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
       "title": "Bitcoin rebounds strongly this week, trades near $84,000 after climbing above $86,000. Here is what experts say",
       "description": "Bitcoin rebounded to around $84,000 after briefly crossing $86,000, while Ethereum traded near $2,688. Bitcoin gained 3.6% weekly, supported by positive ETF flows and reduced uncertainty after the US Federal Reserve\u2019s September policy decision, though markets remain in consolidation overall.",
       "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-rebounds-strongly-this-week-trades-near-84000-after-climbing-above-86000-here-is-what-experts-say/articleshow/134500992.cms",
@@ -158,6 +167,15 @@
       "source": "Economic Times Markets",
       "date": "2026-09-26",
       "image": "",
+      "category": "metals"
+    },
+    {
+      "title": "Valkyries' soaring success comes with a cost, as fans brace for playoff price shock",
+      "description": "The Golden State Valkyries, who host a WNBA playoff game at Chase Center for the first time Sunday, are substantially raising ticket prices for the postseason - knowing fans remain committed.",
+      "url": "https://www.sfchronicle.com/sports/article/valkyries-ticket-price-playoffs-22444660.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+      "source": "San Francisco Chronicle",
+      "date": "2026-09-25",
+      "image": "https://s.yimg.com/lo/mysterio/api/14993a4baa044e28c5f85c867e2458c97eabdd5b74301fd649c62f1eddfa45e7/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsan_francisco_chronicle_hearst_178%2F1ed670235419cc18846b5b29aae74bc5.jpg",
       "category": "metals"
     },
     {
@@ -215,13 +233,22 @@
       "category": "market"
     },
     {
-      "title": "Breaking out: 97-year-old South Indian Bank wants to outgrow name, go national to cut regional concentration risk",
-      "description": "The lender, based in Thrissur, Kerala, plans to expand in Maharashtra, Gujarat and the national capital.",
-      "url": "https://www.livemint.com/industry/banking/south-indian-bank-outgrow-name-go-national-egional-concentration-11790315243890.html",
-      "source": "Livemint",
+      "title": "The Deluge",
+      "description": "\"The country looks pathetic because too many of its men became pathetic first and then demanded the rest of us treat the collapse as a moral achievement.\u201d \u2014LHGrey on Substack",
+      "url": "https://www.kunstler.com/p/the-deluge",
+      "source": "Kunstler.com",
       "date": "2026-09-25",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/Jose_Kattoor_1790315524103_nNgt_1790315544468_9TS4_047a08ee-8b1c-4977-8185-8270adcb3c48_uIQw.jpg",
-      "category": "market"
+      "image": "https://substackcdn.com/image/fetch/$s_!G_Ry!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe782fa1a-4729-46b8-85e5-98d267d2700c_720x540.heic",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Gold price prediction: Gold rate down for weekly loss, silver price is up. Here's what to expect",
+      "description": "Gold rate prediction: Gold prices rose on Friday but was on track for a weekly loss, as rising US Treasury yields and growing expectations of Federal Reserve rate hikes weighed on the metal.",
+      "url": "https://economictimes.indiatimes.com/news/international/us/gold-price-prediction-gold-rate-down-for-weekly-loss-silver-price-is-up-heres-what-to-expect/articleshow/134485234.cms",
+      "source": "The Times of India",
+      "date": "2026-09-25",
+      "image": "https://img.etimg.com/thumb/msid-134485317,width-1200,height-630,imgsize-164702,overlay-economictimes/articleshow.jpg",
+      "category": "central_bank"
     },
     {
       "title": "Gold heads for weekly loss as stronger dollar, Fed rate outlook weighs",
@@ -251,157 +278,130 @@
       "category": "geopolitics"
     },
     {
-      "title": "After Xi-Trump summit, US-China rivalry remains frozen. Is this to Beijing's advantage?",
-      "description": "The US president showcased White House construction projects and hosted a lavish dinner with tech CEOs, but the summit made little progress on key issues such as trade tensions and AI regulation.",
-      "url": "https://www.dw.com/en/after-xi-trump-summit-us-china-rivalry-remains-frozen-is-this-to-beijings-advantage/a-79427127",
-      "source": "DW (English)",
+      "title": "Envision Energy Earns Two Spots on Recharge's 2026 Wind Power 40 Under 40, Recognising Leadership and Growth",
+      "description": "Envision Energy, a global leader in green technology, has earned two spots in Recharge&#39;s 2026 Wind Power 40 Under 40 Global List, with Huang Hu and ...",
+      "url": "https://en.antaranews.com/news/432868/envision-energy-earns-two-spots-on-recharges-2026-wind-power-40-under-40-recognising-leadership-and-growth",
+      "source": "Antaranews.com",
       "date": "2026-09-25",
-      "image": "https://static.dw.com/image/79428219_6.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Hannah Waddingham gives Tom Cruise the Ted Lasso treatment as she tends to his new red hairdo during the Digger premiere in London",
-      "description": "Hannah gained stardom playing Rebecca Welton in the Apple TV+ series, the no-nonsense owner of\u00a0AFC Richmond who develops an unexpected soft spot for Ted Lasso.",
-      "url": "https://www.dailymail.com/tvshowbiz/article-16159917/Hannah-Waddingham-Tom-Cruise-Ted-Lasso.html",
-      "source": "Dailymail.com",
-      "date": "2026-09-25",
-      "image": "https://i.dailymail.com/1s/2026/09/25/12/111467251-0-image-m-21_1790336059455.jpg",
+      "image": "https://cdn.antaranews.com/cache/1200x800/2026/09/25/Envision-Energy-Earns-Two-Spots-on-Recharge-s-2026-Wind-Power-40-Under-40-Recognising-Leadership-and-Growth.png",
       "category": "market"
     },
     {
-      "title": "Ethanol can help raise farmers' income and reduce fuel imports: Gadkari",
-      "description": "Launches Madhya Pradesh bus service with CM Yadav; cites maize price rise to \u20b92,600/quintal and \u20b957,000-crore PM e-Bus Sewa plan",
-      "url": "https://www.thehindubusinessline.com/economy/agri-business/ethanol-can-help-raise-farmers-income-and-reduce-fuel-imports-gadkari/article71508426.ece",
-      "source": "BusinessLine",
+      "title": "Small habit that changed their finances: Taylor Swift, whose networth is said to be over $2 billion by Forbes, follows a simple money lesson her stockbroker father taught her",
+      "description": "Taylor Swift is not just a pop icon but also the wealthiest female musician, with a net worth of over $2 billion. In some of the old interviews, the I Know You Were Trouble and Lover hitmaker attributed her careful spending habits and tendency to invest in on\u2026",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/small-habit-that-changed-their-finances-taylor-swift-whose-networth-is-said-to-be-over-2-billion-by-forbes-follows-a-simple-money-lesson-her-stockbroker-father-taught-her/articleshow/134487015.cms",
+      "source": "The Times of India",
       "date": "2026-09-25",
-      "image": "https://bl-i.thgim.com/public/incoming/op2sjf/article71457139.ece/alternates/LANDSCAPE_1200/PTI09_11_2026_000068B.jpg",
+      "image": "https://img.etimg.com/thumb/msid-134487047,width-1200,height-630,imgsize-132854,overlay-etpanache/articleshow.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Gen Z Can\u2019t Stop Listening to Britney Spears\u2019 \u2018I\u2019m a Slave 4 U\u2019",
+      "description": "Spotify says the majority of recent streams for the Neptunes-produced track were from listeners identifying as Gen Z.",
+      "url": "http://www.rollingstone.com/music/music-news/britney-spears-slave-4-u-vmas-25th-anniversary-gen-z-1235631530/",
+      "source": "Rolling Stone",
+      "date": "2026-09-25",
+      "image": "https://www.rollingstone.com/wp-content/uploads/2026/09/GettyImages-76370118-e1790289939320.jpg?w=1600&h=900&crop=1",
+      "category": "market"
+    },
+    {
+      "title": "US, UK, China drive India's engineering goods exports in August",
+      "description": "Engineering exports increased 24.86% on-year in August to $12.32 billion of which shipments to the US rose 31% to $2.2 billion, and to China were $424.65 million, up 75%.",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/us-uk-china-drive-indias-engineering-goods-exports-in-august/articleshow/134486966.cms",
+      "source": "The Times of India",
+      "date": "2026-09-25",
+      "image": "https://img.etimg.com/thumb/msid-134487026,width-1200,height-630,imgsize-89886,overlay-economictimes/articleshow.jpg",
       "category": "supply_demand"
     },
     {
-      "title": "Iranian President Pezeshkian brought a diplomatic tone to UNGA in New York. What did his speech signal?",
-      "description": "Iran's president used his trip to New York this week for the UN General Assembly to signal openness to talks over the nuclear dispute.  However, the chances of a major breakthrough on the war remain low.",
-      "url": "https://www.dw.com/en/iranian-president-pezeshkian-brought-a-diplomatic-tone-to-new-york-for-unga-what-did-his-remarks-signal/a-79428890",
-      "source": "DW (English)",
+      "title": "High input costs, policy support will likely keep steel prices higher than 2025",
+      "description": "Global steel prices linger above 2025 levels due to costs and policy support, but demand weakness, especially in China, caps uptake.",
+      "url": "https://www.thehindubusinessline.com/markets/commodities/high-input-costs-policy-support-will-likely-keep-steel-prices-higher-than-2025/article71508850.ece",
+      "source": "BusinessLine",
       "date": "2026-09-25",
-      "image": "https://static.dw.com/image/79400089_6.jpg",
-      "category": "geopolitics"
+      "image": "https://bl-i.thgim.com/public/incoming/floowb/article71492419.ece/alternates/LANDSCAPE_1200/IMG_IMG_IMG_PO30_Steel_r_2_1_DIA0HLQE.jpg",
+      "category": "supply_demand"
     },
     {
-      "title": "Envision Energy Secures T\u00dcV S\u00dcD Certificate for Wind Farm Control System, Strengthening Long-Term Resilience for Future Energy Systems",
-      "description": "HAMBURG, Germany, Sept. 25, 2026 /PRNewswire/ -- During WindEnergy Hamburg 2026, Envision Energy's wind farm control system has received IEC 62443-3-3 Security Level 2 (SL2) certificate from T\u00dcV S\u00dcD, covering key elements of the wind farm control system, incl\u2026",
-      "url": "https://www.prnewswire.com/news-releases/envision-energy-secures-tuv-sud-certificate-for-wind-farm-control-system-strengthening-long-term-resilience-for-future-energy-systems-302890231.html",
-      "source": "PRNewswire",
+      "title": "R360 rebel series given ultimatum on overdue accounts",
+      "description": "The company behind R360, the controversial all-star rugby start-up, has been ordered to publish overdue accounts or face being dissolved.",
+      "url": "https://www.bbc.com/sport/rugby-union/articles/c6wyzqy8gq1ko?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "source": "BBC News",
       "date": "2026-09-25",
-      "image": "https://mmx.prnewswire.com/media/MS1996012/20260924103009EDT_image_1.jpg?id=OA2969878&p=facebook",
+      "image": "https://s.yimg.com/lo/mysterio/api/6f490203fbcfa60fd5560bb679a89192e7c2658986c305dbc9dea8c702403be6/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1d69aec1af02949b24063ee8a5c0d6c7.png",
       "category": "market"
     },
     {
-      "title": "What's Really At Stake in the AI Safety Debate",
-      "description": "What's Really At Stake in the AI Safety Debatehollywoodreporter.com",
-      "url": "http://www.hollywoodreporter.com/business/digital/ai-safety-what-are-the-risks-altman-amodei-1236709582/",
-      "source": "Hollywood Reporter",
+      "title": "Dow Edges Up 0.19% as Bond Yields Ease and Hopes Rise for a Phased Hormuz Reopening Deal, Snapping Losing Skid",
+      "description": "The Dow Jones Industrial Average gained 99 points on Friday as easing Treasury yield pressure and hopes for a phased Strait of Hormuz deal supported US stocks.",
+      "url": "https://www.ibtimes.com.au/dow-rises-hormuz-deal-hopes-lift-stocks-1875854",
+      "source": "Ibtimes.com.au",
       "date": "2026-09-25",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/anthropicai.jpg?w=1440&h=810&crop=1",
+      "image": "https://d.ibtimes.com.au/en/full/1893186/ftse-100-surges-08-today-oil-eases-markets.jpg",
       "category": "market"
     },
     {
-      "title": "Indonesia signs UN Convention against Cybercrime",
-      "description": "Indonesia has signed the United Nations Convention against Cybercrime, joining 90 other parties in endorsing the United Nations&rsquo; first global framework ...",
-      "url": "https://en.antaranews.com/news/432817/indonesia-signs-un-convention-against-cybercrime",
-      "source": "Antaranews.com",
-      "date": "2026-09-25",
-      "image": "https://cdn.antaranews.com/cache/1200x800/2026/09/25/1000020229.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Hotels, AI, and Building for Long-Term Economic Value",
-      "description": "Every hotel company is telling owners and franchisees that AI will improve their business. Ballotti is showing them the numbers.",
-      "url": "https://skift.com/2026/09/25/hotels-ai-and-building-for-long-term-economic-value/",
-      "source": "Skift",
-      "date": "2026-09-25",
-      "image": "https://skift.com/wp-content/uploads/2026/09/Ballotti-Wyndham.jpg?resize=1024,683",
-      "category": "market"
-    },
-    {
-      "title": "Erik Visits an American Grave, Part 2,238",
-      "description": "This is the grave of William Jenner. This is an exciting grave post. This goes out to our commenter Murc, who won the Grave Auction in the LGM fundraiser in May. He donated the resources to get me out to rural Indiana to see this. I also managed to see many o\u2026",
-      "url": "https://www.lawyersgunsmoneyblog.com/2026/09/erik-visits-an-american-grave-part-2237",
-      "source": "Lawyersgunsmoneyblog.com",
-      "date": "2026-09-25",
-      "image": "https://www.lawyersgunsmoneyblog.com/wp-content/uploads/2026/09/IMG_0828-1-scaled.jpeg",
-      "category": "market"
-    },
-    {
-      "title": "Tech Bros and the Trump Administration Are Building an AI Empire\u2014In the Philippines",
-      "description": "In a move that upended the international conversation about AI, earlier this month, a researcher at the AI company Anthropic named Jacob Coxon resigned and took to X to sound the alarm about what he saw as a dangerous trajectory. \u201cThe people building AI earne\u2026",
-      "url": "https://www.motherjones.com/politics/2026/09/tech-bros-and-the-trump-administration-are-building-an-ai-empire-in-the-philippines-pax-silica/",
-      "source": "Mother Jones",
-      "date": "2026-09-25",
-      "image": "https://www.motherjones.com/wp-content/uploads/2026/09/20260924_pax-silica_2000.jpg?w=1200&h=630&crop=1",
-      "category": "market"
-    },
-    {
-      "title": "The SOC Doesn't Need to Start Over with Every Alert",
-      "description": "Security leaders keep debating whether AI will produce an entirely new class of cyberattack. The nearer change is quieter and already visible: AI has made a failed attack cheap to retry.\n\nThe routine version looks like this. An attacker lands on a low-privile\u2026",
-      "url": "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html",
-      "source": "Internet",
-      "date": "2026-09-25",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0sz5D5hiSWYuUfbRDYDloMNzbx5dpvVQjC5ZVoYzIgvWL_Tkyx8AjNHjZ27RAwaPbCIQXNWB6o_FYzxjimFYHY2pHfp6m6b97tARxhdhqSHBkp2lYpfekwVLvUIm63ruwsHR7RlQkR-2jfOPELG2hjZrrYr9JYr4ndSfVaYIajhTpmB6Ud0DIXz1D_uI/s1700-nu-rw-lo-l85-e365/soc-1.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Failures of Canada's Single-Payer Health Care Highlight the Flaws of 'Medicare for All'",
-      "description": "Under Canada's single-payer system, patients\u2019 needs take a backseat to government bureaucrats\u2019 priorities.",
-      "url": "https://reason.com/2026/09/25/failures-of-canadas-single-payer-health-care-highlight-the-flaws-of-medicare-for-all/",
-      "source": "Reason",
-      "date": "2026-09-25",
-      "image": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/09/protest-signs-abdul-el-sayed-medicare-for-all-scaled.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Newsom Vetoes Bill to Lock California's Abortion Shield into Law, Citing Limits on Future Governors' Extradition Power",
-      "description": "Newsom vetoed AB 2164, which would have barred future governors from extraditing abortion and gender care providers. His reasons and reactions.",
-      "url": "https://www.medicaldaily.com/newsom-veto-ab-2164-abortion-shield-extradition-479105",
+      "title": "White House Reportedly Backs Away From Giving Political Appointees Veto Power Over NIH Grants After Collins Pushback",
+      "description": "The White House is reportedly retreating from a plan to let political appointees veto NIH grants, but a revised order could still return.",
+      "url": "https://www.medicaldaily.com/white-house-backs-off-nih-grant-order-collins-479115",
       "source": "Medical Daily",
       "date": "2026-09-25",
-      "image": "https://d.medicaldaily.com/en/full/486434/tony-karumba-afp-via-getty-images.jpg",
+      "image": "https://d.medicaldaily.com/en/full/486444/brendan-smialowski-afp-via-getty-images.jpg",
       "category": "market"
     },
     {
-      "title": "'Castro's playbook': Ex-AG warns dozens of congressional bills are pushing socialist ideas",
-      "description": "Conservative free-market group flags 32 Capitol Hill bills proposing socialist policies \"straight from Castro's playbook,\" as concerns mount over how radical mainstream Democrats are becoming.",
-      "url": "https://www.foxnews.com/politics/castros-playbook-ex-ag-warns-dozens-congressional-bills-pushing-socialist-ideas",
+      "title": "Colorado\u2019s adults are the nation\u2019s leanest. But they are getting less lean",
+      "description": "The new report comes as the Trump administration cuts access to nutrition assistance.",
+      "url": "https://www.cpr.org/2026/09/25/colorado-obesity-rate-lower-but-rising/",
+      "source": "Colorado Public Radio",
+      "date": "2026-09-25",
+      "image": "https://www.cpr.org/cdn-cgi/image/width=1200,height=630,fit=crop,gravity=auto,quality=75,format=auto/https://wp-cpr.s3.amazonaws.com/uploads/2024/07/240727-YOGA-ON-THE-RED-ROCKS-EXERCISE-SPORTS-HEALTH-MORRISON-KEVINJBEATY-71.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Trump revives Supreme Court immigration showdown after Hochul pardon torpedoed first case",
+      "description": "The Trump administration asks the Supreme Court to decide whether criminal aliens in ICE detention are entitled to bond hearings during removal.",
+      "url": "https://www.foxnews.com/politics/trump-revives-supreme-court-immigration-showdown-hochul-pardon-torpedoed-first-case",
       "source": "Fox News",
       "date": "2026-09-25",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/congress-socialism.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Links 9/25/2026",
-      "description": "Our shiny daily links, including Xi-Trump talks, forest management myth, neoliberal grid crisis, AI battles drive up healthcare costs, and Trump TV.",
-      "url": "https://www.nakedcapitalism.com/2026/09/links-9-25-2026.html",
-      "source": "Nakedcapitalism.com",
-      "date": "2026-09-25",
-      "image": "https://www.nakedcapitalism.com/wp-content/uploads/2026/09/FFoZ1k7WQAYcGCW-819x1024.jpeg",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/hochul-trump-split.jpg",
       "category": "market"
     },
     {
-      "title": "Gold (XAUUSD), Silver, Platinum Forecasts \u2013 Gold Pulls Back As 30-Year Yield Tests Multi-Decade Highs - FXEmpire",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQU1U3a0Y3R0h1S0hBbTVxcVhGNkZwOG5RMU9HVHpKNjI4ZmRPbmpFUE5GM2FXZ005YlZYeUZpNzR4RkxwYkc3eDNaNVI5NnVIcGNOUFJDcmRFS1ZBMVdycU1tejdrTUZfbnE5cm1nMUxMQXA1dTBBSndIMUVVcTV3eG01NW5EdGwxa3NERlczbVVYVGlSN1ZJMkNTU3Bmb2lxdEZ1SzhuMlctN19saWhSRHFsNGZqc2o4cE",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQU1U3a0Y3R0h1S0hBbTVxcVhGNkZwOG5RMU9HVHpKNjI4ZmRPbmpFUE5GM2FXZ005YlZYeUZpNzR4RkxwYkc3eDNaNVI5NnVIcGNOUFJDcmRFS1ZBMVdycU1tejdrTUZfbnE5cm1nMUxMQXA1dTBBSndIMUVVcTV3eG01NW5EdGwxa3NERlczbVVYVGlSN1ZJMkNTU3Bmb2lxdEZ1SzhuMlctN19saWhSRHFsNGZqc2o4cERrVGJiZUVRN1M0S19ldHJ3UjlHUzdOamk0c3lOczZ1NzFXVURV?oc=5",
-      "source": "Google News - Precious Metals",
+      "title": "Will Snipers Shoot American Tourists in Washington?",
+      "description": "It is hard to imagine how President Donald Trump\u2019s insane assertions might go beyond the point of being merely demented to something far worse, i.e. catastrophic. Last week provided one such experience when Trump reportedly rushed back from Camp David \u2026\nThe p\u2026",
+      "url": "https://www.globalresearch.ca/will-snipers-shoot-american-tourists-washington/5941758",
+      "source": "Globalresearch.ca",
       "date": "2026-09-25",
-      "image": "",
-      "category": "currency"
+      "image": "https://www.globalresearch.ca/wp-content/uploads/2026/09/Trump-raging.jpg",
+      "category": "market"
     },
     {
-      "title": "How geopolitics and trade wars are reshaping the global economy - Modern Ghana",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Xb3VLN3I1d2xyTF9SSllZOGdJMjVjUHlQR3d2Y1lNTzJzZ24tY2VDR1gxVEJPbVJ0UmJUUnVTRkQtbGU0WklHN3h6M1RLeTRDblRvTm1ySUZ1bF9YNlHSAVxBVV95cUxNa1dJMWZFQm5jQS1CdU5WRjNmTXhuODdtYWJNSXFRNlpFSDlsMWhmX0xUQ3ppRVJpcW1tVVM2eUg2LXBRZWhqY2o3UjdsMEd2LXg2SXFBXzhiZG",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Xb3VLN3I1d2xyTF9SSllZOGdJMjVjUHlQR3d2Y1lNTzJzZ24tY2VDR1gxVEJPbVJ0UmJUUnVTRkQtbGU0WklHN3h6M1RLeTRDblRvTm1ySUZ1bF9YNlHSAVxBVV95cUxNa1dJMWZFQm5jQS1CdU5WRjNmTXhuODdtYWJNSXFRNlpFSDlsMWhmX0xUQ3ppRVJpcW1tVVM2eUg2LXBRZWhqY2o3UjdsMEd2LXg2SXFBXzhiZGJJdQ?oc=5",
-      "source": "Google News - Global Economy",
+      "title": "Descendants of Nazi-Persecuted Jewish Collector Demand Cancellation of Sotheby\u2019s Pissarro Painting Sale, Artist Imelda Cajipe Endaya is First Woman to Receive Top Philippine Honor, and More: Morning Links for September 25,\u00a02026",
+      "description": "Descendants of Nazi-persecuted Jewish collector demand cancellation of Sotheby\u2019s Pissarro painting sale and more art news.",
+      "url": "https://www.artnews.com/art-news/news/morning-links-september-25-2026-1234799392/",
+      "source": "ARTnews",
       "date": "2026-09-25",
-      "image": "",
+      "image": null,
+      "category": "supply_demand"
+    },
+    {
+      "title": "Navigating uncertainty and adapting to change - Bank of Canada",
+      "description": "Governor Tiff Macklem discusses how Canadian businesses and households have adapted to structural forces. He then explores how a re-escalation in trade tensions and high energy prices are shifting risks and considers the implications for monetary policy.",
+      "url": "https://www.bankofcanada.ca/2026/09/navigating-uncertainty-and-adapting-to-change/",
+      "source": "Bank of Canada",
+      "date": "2026-09-25",
+      "image": "https://www.bankofcanada.ca/wp-content/uploads/2022/01/default-og-image.jpg",
       "category": "geopolitics"
+    },
+    {
+      "title": "The Muslim Brotherhood\u2019s Campaign to Islamize Canada - Guess what? It\u2019s working.",
+      "description": "The Muslim Brotherhood\u2019s Islamist architecture in Canada is manifested in an interlocking network of student organizations, advocacy groups, and charitable entities, which create permission structures for the normalization of anti-Western sentiment, extremism\u2026",
+      "url": "https://freerepublic.com/focus/f-chat/4396849/posts",
+      "source": "Freerepublic.com",
+      "date": "2026-09-25",
+      "image": null,
+      "category": "market"
     }
   ],
   "history": [
@@ -496,7 +496,7 @@
       "platinum_usd_oz": 1857.35
     }
   ],
-  "timestamp": "2026-09-26T17:07:26.601453+05:30",
+  "timestamp": "2026-09-26T19:18:16.871107+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
