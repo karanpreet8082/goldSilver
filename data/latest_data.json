@@ -1,0 +1,505 @@
+{
+  "prices": {
+    "gold": {
+      "price_per_gram_inr": 13426.18,
+      "price_usd_oz": 4403.59,
+      "change_percent": 1.1,
+      "change_value_usd": 48.06,
+      "price_per_10g_inr": 134261.82
+    },
+    "silver": {
+      "price_per_gram_inr": 203.13,
+      "price_usd_oz": 66.62,
+      "change_percent": 1.32,
+      "change_value_usd": 0.87,
+      "price_per_kg_inr": 203128.02
+    },
+    "platinum": {
+      "price_per_gram_inr": 5662.91,
+      "price_usd_oz": 1857.35,
+      "change_percent": 2.02,
+      "change_value_usd": 36.86
+    },
+    "currencies": {
+      "USD_INR": 94.832,
+      "EUR_INR": 110.2313,
+      "GBP_INR": 128.4116,
+      "JPY_INR": 0.6164,
+      "CHF_INR": 117.1344,
+      "AUD_INR": 68.4559,
+      "CAD_INR": 68.7836,
+      "SGD_INR": 74.9719
+    },
+    "gold_silver_ratio": 66.1,
+    "timestamp": "2026-09-09T08:16:58.991949",
+    "source": "GoldAPI"
+  },
+  "currencies": {
+    "USD_INR": 94.832,
+    "EUR_INR": 110.2313,
+    "GBP_INR": 128.4116,
+    "JPY_INR": 0.6164,
+    "CHF_INR": 117.1344,
+    "AUD_INR": 68.4559,
+    "CAD_INR": 68.7836,
+    "SGD_INR": 74.9719
+  },
+  "analysis": {
+    "gold": {
+      "metal": "gold",
+      "recommendation": "BUY",
+      "confidence": {
+        "buy": 65,
+        "sell": 10,
+        "hold": 25
+      },
+      "summary": "Gold is showing positive signals. Strong daily gain of 1.1%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
+      "timestamp": "2026-09-26T16:39:15.763811",
+      "source": "rule-based"
+    },
+    "silver": {
+      "metal": "silver",
+      "recommendation": "BUY",
+      "confidence": {
+        "buy": 65,
+        "sell": 10,
+        "hold": 25
+      },
+      "summary": "Silver is showing positive signals. Strong daily gain of 1.3%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
+      "timestamp": "2026-09-26T16:39:15.870446",
+      "source": "rule-based"
+    },
+    "platinum": {
+      "metal": "platinum",
+      "recommendation": "BUY",
+      "confidence": {
+        "buy": 65,
+        "sell": 10,
+        "hold": 25
+      },
+      "summary": "Platinum is showing positive signals. Strong daily gain of 2.0%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
+      "timestamp": "2026-09-26T16:39:15.976565",
+      "source": "rule-based"
+    }
+  },
+  "technical": {
+    "gold": {
+      "trend": "bullish",
+      "strength": 75,
+      "signals": [
+        "Price above 4-week moving average (bullish)",
+        "Price above 12-week moving average (bullish)",
+        "Short-term MA below long-term MA (downtrend)",
+        "Strong momentum: +8.2% in 4 weeks"
+      ],
+      "support": 124137.93,
+      "resistance": 140736.5,
+      "current_price": 134261.82,
+      "ma_short": 131494.89,
+      "ma_long": 131869.89,
+      "trend_score": 2.0
+    },
+    "silver": {
+      "trend": "bullish",
+      "strength": 75,
+      "signals": [
+        "Price above 4-week moving average (bullish)",
+        "Price above 12-week moving average (bullish)",
+        "Short-term MA below long-term MA (downtrend)",
+        "Strong momentum: +14.9% in 4 weeks"
+      ],
+      "support": 176726.94,
+      "resistance": 243170.57,
+      "current_price": 203128.02,
+      "ma_short": 193945.4,
+      "ma_long": 201076.81,
+      "trend_score": 2.0
+    },
+    "platinum": {
+      "trend": "bullish",
+      "strength": 75,
+      "signals": [
+        "Price above 4-week moving average (bullish)",
+        "Price above 12-week moving average (bullish)",
+        "Short-term MA below long-term MA (downtrend)",
+        "Strong momentum: +11.9% in 4 weeks"
+      ],
+      "support": 4961.56,
+      "resistance": 6206.5,
+      "current_price": 5662.91,
+      "ma_short": 5405.68,
+      "ma_long": 5410.38,
+      "trend_score": 2.0
+    }
+  },
+  "news": [
+    {
+      "title": "Same playbook, different numbers: Why FPI selling may not be the story it looks like",
+      "description": "Indian equities extended their losing streak as elevated crude, US Treasury yields, geopolitical risks and FPI selling weighed on sentiment. However, foreign investors continued backing IPOs, selectively buying debt and mid-small caps, suggesting portfolio selectivity rather than a broad withdrawal ",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/same-playbook-different-numbers-why-fpi-selling-may-not-be-the-story-it-looks-like/articleshow/134503513.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-09-26",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Bitcoin rebounds strongly this week, trades near $84,000 after climbing above $86,000. Here is what experts say",
+      "description": "Bitcoin rebounded to around $84,000 after briefly crossing $86,000, while Ethereum traded near $2,688. Bitcoin gained 3.6% weekly, supported by positive ETF flows and reduced uncertainty after the US Federal Reserve\u2019s September policy decision, though markets remain in consolidation overall.",
+      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-rebounds-strongly-this-week-trades-near-84000-after-climbing-above-86000-here-is-what-experts-say/articleshow/134500992.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-09-26",
+      "image": "",
+      "category": "central_bank"
+    },
+    {
+      "title": "Vishal Nirmiti IPO to open on Sep 30; price band fixed at Rs 208-220",
+      "description": "Vishal Nirmiti Ltd is gearing up for its initial public offering, setting a price range of Rs 208 to 220. The IPO is scheduled to commence on September 30 and conclude by October 5, featuring both a fresh issue and an offer for sale. The proceeds will be allocated toward enhancing working capital an",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/vishal-nirmiti-ipo-to-open-on-sep-30-price-band-fixed-at-rs-208-220/articleshow/134500328.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-09-26",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Baanganga Gold &amp; Diamond files DRHP for Rs 720 crore IPO, fresh issue pegged at Rs 540 crore",
+      "description": "Baanganga Gold &amp; Diamond has filed its DRHP for an IPO comprising a fresh issue of up to \u20b9540 crore and OFS of up to \u20b9180 crore. The jewellery manufacturer plans to use fresh proceeds mainly for working capital requirements.",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/baanganga-gold-diamond-files-drhp-for-rs-720-crore-ipo-fresh-issue-pegged-at-rs-540-crore/articleshow/134499882.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-09-26",
+      "image": "",
+      "category": "metals"
+    },
+    {
+      "title": "PRIM vs mutual funds vs PMS: Experts explain how they differ on portfolio structure, costs, taxation and suitability",
+      "description": "SEBI\u2019s new PMS framework introduces PRIM, allowing investors to access professionally managed portfolios of mutual funds, ETFs and SIFs. Here's how PRIM compares with conventional PMS and mutual funds on investment, management, taxation and flexibility.&nbsp;",
+      "url": "https://www.livemint.com/money/personal-finance/prim-vs-mutual-funds-vs-pms-experts-explain-how-they-differ-on-portfolio-structure-costs-taxation-and-suitability-11790345467767.html",
+      "source": "Livemint",
+      "date": "2026-09-25",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/prim_fun_1790350782584_3IKT_1790350790802_mGlq_553be823-d04e-4e2f-98dc-bc749251c157_MRyO.png",
+      "category": "market"
+    },
+    {
+      "title": "Today\u2019s News in a Nutshell",
+      "description": "KATHMANDU: Khabarhub brings you a glimpse of major developments of the day in Nepal, including politics, business/economy, sports, entertainment, and more. PM Balen asks at UNGA: \u2018The Bhotekoshi flood was a warning to the world\u2014did you hear it?\u2019 Prime Ministe\u2026",
+      "url": "https://english.khabarhub.com/2026/25/569167/",
+      "source": "Khabarhub.com",
+      "date": "2026-09-25",
+      "image": "https://english.khabarhub.com/wp-content/uploads/2024/05/News-Nutshell.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "From The Office to AI: Data centres replace David Brent as Slough\u2019s top draw",
+      "description": "Berkshire town west of London is Europe\u2019s \u2018data centre alley\u2019 but some locals are opposed to intensity of development",
+      "url": "https://www.irishtimes.com/world/uk/2026/09/25/from-the-office-to-ai-data-centres-replace-david-brent-as-sloughs-top-draw/",
+      "source": "The Irish Times",
+      "date": "2026-09-25",
+      "image": "https://www.irishtimes.com/resizer/v2/XCNBZNGM7NGHNF6XOQPN7MD6T4.jpeg?smart=true&auth=f05141a2c30100c8b71df6b342a38089bf42800bd7cc03fd699981d993668412&width=1200&height=630",
+      "category": "currency"
+    },
+    {
+      "title": "Revisiting Taylor Swift and Sophie Turner\u2019s Friendship Timeline Amid Those \u201cPatient Zero\u201d Inspo Rumors",
+      "description": "Taylor Swift and Sophie Turner's friendship timeline goes all the way back to 2017\u2014find out how they met and how they got close after Sophie's breakup with Joe Jonas.",
+      "url": "https://www.cosmopolitan.com/entertainment/celebs/a73887369/taylor-swift-sophie-turner-friendship/",
+      "source": "Cosmopolitan.com",
+      "date": "2026-09-25",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/sophie-turner-and-taylor-swift-are-seen-in-noho-on-november-news-photo-1702322623.jpg?crop=0.878xw:0.293xh;0.0272xw,0.0636xh&resize=1200:*",
+      "category": "market"
+    },
+    {
+      "title": "Jennifer Lawrence quietly sold her $8.2 million Beverly Hills home for $11 million, 11 years after buying it",
+      "description": "Jennifer Lawrence has quietly sold her Beverly Hills home for $11 million, more than a decade after buying it for $8.2 million.",
+      "url": "https://timesofindia.indiatimes.com/real-estate/news/jennifer-lawrence-quietly-sold-her-8-2-million-beverly-hills-home-for-11-million-11-years-after-buying-it/articleshow/134487383.cms",
+      "source": "The Times of India",
+      "date": "2026-09-25",
+      "image": "https://static.toiimg.com/thumb/msid-134487530,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Elephant Rumblings: Takeaways from 2026",
+      "description": "MLB News Roundup",
+      "url": "https://www.athleticsnation.com/athletics-news/110002/athletics-news-takeaways-from-2026",
+      "source": "Athletics Nation",
+      "date": "2026-09-25",
+      "image": "https://s.yimg.com/lo/mysterio/api/dbea904f14d5f4027e9df2a364f90bdefa3832066253051dc32514de0347439b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fe59c0ef5dc5c071ed402d60e368c582e.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Effectiveness of community-based delivery of mass dog vaccination to prevent rabies: A cluster randomized controlled trial",
+      "description": "Author summary Dog-mediated human rabies is a lethal infectious disease and kills approximately 60,000 people annually, primarily in Africa and Asia. Mass dog vaccination is a proven approach to prevent human rabies by targeting the reservoir host, the domest\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014704",
+      "source": "Plos.org",
+      "date": "2026-09-25",
+      "image": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0014704.strk&size=inline",
+      "category": "market"
+    },
+    {
+      "title": "Valkyries' soaring success comes with a cost, as fans brace for playoff price shock",
+      "description": "The Golden State Valkyries, who host a WNBA playoff game at Chase Center for the first time Sunday, are substantially raising ticket prices for the postseason - knowing fans remain committed.",
+      "url": "https://www.sfchronicle.com/sports/article/valkyries-ticket-price-playoffs-22444660.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+      "source": "San Francisco Chronicle",
+      "date": "2026-09-25",
+      "image": "https://s.yimg.com/lo/mysterio/api/14993a4baa044e28c5f85c867e2458c97eabdd5b74301fd649c62f1eddfa45e7/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsan_francisco_chronicle_hearst_178%2F1ed670235419cc18846b5b29aae74bc5.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "The Deluge",
+      "description": "\"The country looks pathetic because too many of its men became pathetic first and then demanded the rest of us treat the collapse as a moral achievement.\u201d \u2014LHGrey on Substack",
+      "url": "https://www.kunstler.com/p/the-deluge",
+      "source": "Kunstler.com",
+      "date": "2026-09-25",
+      "image": "https://substackcdn.com/image/fetch/$s_!G_Ry!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe782fa1a-4729-46b8-85e5-98d267d2700c_720x540.heic",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Gold price prediction: Gold rate down for weekly loss, silver price is up. Here's what to expect",
+      "description": "Gold rate prediction: Gold prices rose on Friday but was on track for a weekly loss, as rising US Treasury yields and growing expectations of Federal Reserve rate hikes weighed on the metal.",
+      "url": "https://economictimes.indiatimes.com/news/international/us/gold-price-prediction-gold-rate-down-for-weekly-loss-silver-price-is-up-heres-what-to-expect/articleshow/134485234.cms",
+      "source": "The Times of India",
+      "date": "2026-09-25",
+      "image": "https://img.etimg.com/thumb/msid-134485317,width-1200,height-630,imgsize-164702,overlay-economictimes/articleshow.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Sensex today | Stock Market Highlights: Sensex gains 315 pts, Nifty ends at 23,140 as oil prices bite; Rupee closes at 95.80/$",
+      "description": "Sensex, Nifty, Share Prices Highlights: Indian shares posted modest gains \u2060on Friday in a partial rebound after previous session's slide, but still logged their longest weekly losing streak in six years as high oil prices drove \u200cup bond yields and inflationar\u2026",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-25-september-2026/article71503684.ece",
+      "source": "BusinessLine",
+      "date": "2026-09-25",
+      "image": "https://bl-i.thgim.com/public/incoming/xu69w/article71507800.ece/alternates/LANDSCAPE_1200/PO01_Chart2.jpg",
+      "category": "currency"
+    },
+    {
+      "title": "TokenInsight September Report: MEXC Posts Deepest BTC and ETH Futures Depth at $21.03M, Lowest Silver Slippage at 0.002%",
+      "description": "Mutsamudu, Comoros, September 25, 2026 \u2013 MEXC, a pioneer in 0-fee digital asset trading, recorded the deepest combined BTC and ETH futures order book depth within the 0.03% band, and the lowest median slippage for a $300,000 silver futures sell order among al\u2026",
+      "url": "http://www.newsbtc.com/news/tokeninsight-september-report-mexc-posts-deepest-btc-and-eth-futures-depth-at-21-03m-lowest-silver-slippage-at-0-002/",
+      "source": "newsBTC",
+      "date": "2026-09-25",
+      "image": "https://www.newsbtc.com/wp-content/uploads/2026/09/photo_2026-09-24_12-45-40.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "Gold heads for weekly loss as stronger dollar, Fed rate outlook weighs",
+      "description": "Gold eases for the week as a stronger dollar and expected higher rates from the Fed press prices lower for gold and other precious metals.",
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-heads-for-weekly-loss-as-stronger-dollar-fed-rate-outlook-weighs/article71506987.ece",
+      "source": "BusinessLine",
+      "date": "2026-09-25",
+      "image": "https://bl-i.thgim.com/public/incoming/irn4pz/article71507019.ece/alternates/LANDSCAPE_1200/Investments-in-G8CG7PTC9.4.jpg.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Shanghai Gold Exchange pushes more Chinese banks to end retail leverage trading",
+      "description": "At least a dozen Chinese banks intend to wind down retail leveraged precious-metals trading \u2013 a practice in which everyday investors post margin deposits to speculate on gold and silver contracts without owning the physical metal.\nThe retreat comes amid sharp\u2026",
+      "url": "https://biztoc.com/x/5d32fabe66c950e0",
+      "source": "Biztoc.com",
+      "date": "2026-09-25",
+      "image": "https://biztoc.com/cdn/5d32fabe66c950e0_s.webp",
+      "category": "metals"
+    },
+    {
+      "title": "Gold heads for weekly decline as dollar firms, Fed rate outlook weighs",
+      "description": "On Friday, gold prices experienced a drop, marking a downward trend for the week due to a robust dollar and ongoing forecasts of elevated interest rates. Spot gold fell by 0.2%, while US gold futures saw a slight uptick. Officials from the Fed suggested that \u2026",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-heads-for-weekly-decline-as-dollar-firms-fed-rate-outlook-weighs/articleshow/134473110.cms",
+      "source": "The Times of India",
+      "date": "2026-09-25",
+      "image": "https://img.etimg.com/thumb/msid-134473132,width-1200,height-630,imgsize-566455,overlay-etmarkets/articleshow.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "All 32 Robert Pattinson movies, ranked",
+      "description": "From \"Twilight\" and \"Tenet\" to \"Primetime,\" here are the actor's best and worst films, according to critics.",
+      "url": "https://www.businessinsider.com/robert-pattinson-movies-ranked#article",
+      "source": "Business Insider",
+      "date": "2026-09-25",
+      "image": "https://i.insider.com/6ab67764265e3f8e338f703d?width=1200&format=jpeg",
+      "category": "market"
+    },
+    {
+      "title": "Gulf\u00a0of\u00a0Oman\u00a0Ship-to-ship Oil Transfers Reach Limit as Saudi Exports Surge",
+      "description": "Ship-to-ship transfers in the\u00a0Gulf\u00a0of\u00a0Oman\u00a0for Middle Eastern oil from inside the Strait of Hormuz have reached their limits after Saudi Arabia diverted exports from the Red Sea, adding to shipments from other producers, trade sources and analysts said.",
+      "url": "https://gcaptain.com/gulf-of-oman-ship-to-ship-oil-transfers-reach-limit-as-saudi-exports-surge/",
+      "source": "gcaptain.com",
+      "date": "2026-09-25",
+      "image": "https://gcaptain.com/wp-content/uploads/2026/06/2026-06-16T083335Z_191715910_RC2LSLATOOSW_RTRMADP_3_IRAN-CRISIS-OIL-TRANSFERS-1.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "View up to three time zones in Google Calendar on the web",
+      "description": "",
+      "url": "https://workspaceupdates.googleblog.com/2026/09/view-up-to-three-time-zones-in-google-Calendar-on-the-web.html",
+      "source": "Googleblog.com",
+      "date": "2026-09-25",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHinVbT-1IwUCDlVnJ_Hm93QDKYpopRebfgrenH1rCElLpULwkQKPTjLCDPfqXEzWwWrkYrn1fEbR_rneSoSeQrVohYWhhwDA7ed7KFdlSi1X2dEXAf9r2xQNUEXUr7IyqEyd0bXCr8UEkxFXKaSvRj-c2vQNH5iwABFmYhvX8YDJ8slSroqoTiZBaKJ4/w1200-h630-p-k-no-nu/View%20up%20to%20three%20time%20zones%20in%20Google%20Calendar%20on%20the%20web%20-%207262.png",
+      "category": "market"
+    },
+    {
+      "title": "\u2018Our industry sees the risks and is concerned\u2019: European tech leaders join calls for AI slowdown",
+      "description": "Pip White, head of U.K. and Ireland, Northern Europe, and Israel at Anthropic, is among the tech leaders calling for a global cooperation on regulating AI.",
+      "url": "https://fortune.com/2026/09/25/our-industry-sees-the-risks-and-is-concerned-europe-tech-leaders-join-calls-for-ai-slowdown/",
+      "source": "Fortune",
+      "date": "2026-09-25",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2271017428-e1790328677862.jpg?resize=1200,600",
+      "category": "currency"
+    },
+    {
+      "title": "databricks-agentbricks added to PyPI",
+      "description": "Agent Bricks CLI and AgentKit SDK for custom agents on Databricks",
+      "url": "https://pypi.org/project/databricks-agentbricks/",
+      "source": "Pypi.org",
+      "date": "2026-09-25",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "AceVector IPO subscribed 23%",
+      "description": "The offer received bids for 1.72 crore shares as against 7.42 crore shares on offer.",
+      "url": "https://www.business-standard.com/markets/capital-market-news/acevector-ipo-subscribed-23-126092501084_1.html",
+      "source": "Business Standard",
+      "date": "2026-09-25",
+      "image": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+      "category": "market"
+    },
+    {
+      "title": "AI\u2019s nuclear power push runs into cost and\u00a0regulatory hurdles",
+      "description": "Investors have poured US$4.6 billion into United States nuclear startups so far this year, up from US$3.8 billion raised in 2025. Read here",
+      "url": "https://financialpost.com/commodities/energy/ais-nuclear-power-push-hurdles",
+      "source": "Financial Post",
+      "date": "2026-09-25",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/09/0926-mg-nuclear-build.png",
+      "category": "market"
+    },
+    {
+      "title": "Spain\u2019s Begin Again Films Boards Brazilian Basketball Biopic \u2018Paula & Hort\u00eancia \u2013 The Last Chance\u2019 (EXCLUSIVE)",
+      "description": "Spain-based Begin Again Films secured an international sales deal for \u201cPaula & Hort\u00eancia \u2013 The Last Chance.\u2019 The film, directed by Georgia Guerra-Peixe Joca, is a biopic on the life of the two titular legends of Brazilian women\u2019s basketball. The film will sta\u2026",
+      "url": "https://variety.com/2026/film/global/begin-again-films-paula-hortencia-the-last-chance-1236875707/",
+      "source": "Variety",
+      "date": "2026-09-25",
+      "image": "https://variety.com/wp-content/uploads/2026/09/VARIETY-SIZING-43.png?w=1000&h=563&crop=1",
+      "category": "market"
+    },
+    {
+      "title": "'Incorrect and extreme': Colleagues chew out Trump judges over 'abhorrent' ICE policy",
+      "description": "Six federal appeals judges rebuked colleagues appointed by President Donald Trump who backed his administration's push to detain immigrants without bond, calling one colleague's argument \"incorrect and extreme.\"The rebuke came Friday in an opinion backing the\u2026",
+      "url": "https://www.rawstory.com/trump-judges-ice-bond-detention/",
+      "source": "Raw Story",
+      "date": "2026-09-25",
+      "image": "https://www.rawstory.com/media-library/an-immigration-and-customs-enforcement-ice-agent-stands-by-as-an-individual-is-detained-outside-a-home-in-danbury-connecticut.jpg?id=67858083&width=1200&height=600&coordinates=0%2C417%2C0%2C417",
+      "category": "central_bank"
+    },
+    {
+      "title": "The Billionaire Tax Could Be Defeated by 2 Other Tax Measures \u2014 Here\u2019s How",
+      "description": "A billionaire-backed group aims to undermine California\u2019s wealth tax and create multiple ways to defeat it.",
+      "url": "https://calmatters.org/health/2026/09/california-wealth-tax-prop-40-41-42/",
+      "source": "CALmatters",
+      "date": "2026-09-25",
+      "image": "https://truthout.org/app/uploads/2026/09/GettyImages-2261845408-scaled.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Revealed! Trump\u2019s Penn Station Contract Would Have Handcuffed MTA On Lease \u2014 And Let Duffy Say Whatever He Wants",
+      "description": "The deal really was as bad as Janno Lieber said it was.",
+      "url": "https://nyc.streetsblog.org/2026/09/25/revealed-trumps-penn-station-contract-would-have-handcuffed-mta-on-lease-and-let-duffy-say-whatever-he-wants",
+      "source": "Streetsblog.org",
+      "date": "2026-09-25",
+      "image": "https://nyc.streetsblog.org/wp-content/uploads/sites/9/2026/09/janno-in-cuffs.jpg",
+      "category": "central_bank"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-05-15",
+      "week": "2026-W20",
+      "gold_10g": 140736.5,
+      "silver_kg": 243170.57,
+      "platinum_g": 6206.5,
+      "gold_usd_oz": 4568.35,
+      "silver_usd_oz": 78.93,
+      "platinum_usd_oz": 2014.65
+    },
+    {
+      "date": "2026-06-07",
+      "week": "2026-W23",
+      "gold_10g": 132593.54,
+      "silver_kg": 207602.87,
+      "platinum_g": 5449.55,
+      "gold_usd_oz": 4328.87,
+      "silver_usd_oz": 67.78,
+      "platinum_usd_oz": 1779.15
+    },
+    {
+      "date": "2026-06-09",
+      "week": "2026-W24",
+      "gold_10g": 133318.07,
+      "silver_kg": 210317.38,
+      "platinum_g": 5419.88,
+      "gold_usd_oz": 4331.37,
+      "silver_usd_oz": 68.33,
+      "platinum_usd_oz": 1760.87
+    },
+    {
+      "date": "2026-07-05",
+      "week": "2026-W27",
+      "gold_10g": 127936.35,
+      "silver_kg": 191162.72,
+      "platinum_g": 5033.18,
+      "gold_usd_oz": 4175.01,
+      "silver_usd_oz": 62.38,
+      "platinum_usd_oz": 1642.5
+    },
+    {
+      "date": "2026-07-09",
+      "week": "2026-W28",
+      "gold_10g": 126264.96,
+      "silver_kg": 181656.12,
+      "platinum_g": 4961.56,
+      "gold_usd_oz": 4107.77,
+      "silver_usd_oz": 59.1,
+      "platinum_usd_oz": 1614.14
+    },
+    {
+      "date": "2026-08-02",
+      "week": "2026-W31",
+      "gold_10g": 124137.93,
+      "silver_kg": 176726.94,
+      "platinum_g": 5060.13,
+      "gold_usd_oz": 4043.21,
+      "silver_usd_oz": 57.56,
+      "platinum_usd_oz": 1648.1
+    },
+    {
+      "date": "2026-08-09",
+      "week": "2026-W32",
+      "gold_10g": 132963.64,
+      "silver_kg": 194759.63,
+      "platinum_g": 5359.45,
+      "gold_usd_oz": 4341.91,
+      "silver_usd_oz": 63.6,
+      "platinum_usd_oz": 1750.12
+    },
+    {
+      "date": "2026-09-06",
+      "week": "2026-W36",
+      "gold_10g": 134616.17,
+      "silver_kg": 201167.03,
+      "platinum_g": 5540.25,
+      "gold_usd_oz": 4430.18,
+      "silver_usd_oz": 66.2,
+      "platinum_usd_oz": 1823.28
+    },
+    {
+      "date": "2026-09-09",
+      "week": "2026-W37",
+      "gold_10g": 134261.82,
+      "silver_kg": 203128.02,
+      "platinum_g": 5662.91,
+      "gold_usd_oz": 4403.59,
+      "silver_usd_oz": 66.62,
+      "platinum_usd_oz": 1857.35
+    }
+  ],
+  "timestamp": "2026-09-26T22:09:15.989157+05:30",
+  "run_info": {
+    "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
+    "timezone": "Asia/Kolkata",
+    "source": "GoldAPI"
+  }
+}
