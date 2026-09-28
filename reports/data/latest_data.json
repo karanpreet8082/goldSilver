@@ -54,7 +54,7 @@
         "hold": 25
       },
       "summary": "Gold is showing positive signals. Strong daily gain of 1.1%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-09-28T14:17:16.513135",
+      "timestamp": "2026-09-28T17:45:51.154418",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 25
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 1.3%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-09-28T14:17:16.600066",
+      "timestamp": "2026-09-28T17:45:51.247017",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 25
       },
       "summary": "Platinum is showing positive signals. Strong daily gain of 2.0%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-09-28T14:17:16.693611",
+      "timestamp": "2026-09-28T17:45:51.348555",
       "source": "rule-based"
     }
   },
@@ -134,8 +134,35 @@
   },
   "news": [
     {
-      "title": "US stocks: Wall St opens lower as oil spikes after Trump rejects Iran peace proposal",
-      "description": "On Monday, Wall Street faced a downturn right from the start as President Trump rejected an Iranian offer, leading to an uptick in crude oil prices that raised inflation fears. This backdrop influenced Treasury yields to rise, with significant declines noted in the Dow Jones Industrial Average and S",
+      "title": "Paramount rolls out $44 billion bond sale to fund Warner Bros. takeover",
+      "description": "Paramount Skydance Corp. has initiated the sale of over $44 billion in bonds to fund its acquisition of Warner Bros. Discovery Inc. Following legal settlements, the company can proceed with the financing, which includes various debt tranches. The bond issuance is expected to be one of the largest co",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/paramount-rolls-out-44-billion-bond-sale-to-fund-warner-bros-takeover/articleshow/134547217.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-09-28",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
+      "description": "Indian equities plunged on Monday as the Sensex fell 1,124 points and Nifty dropped over 360 points, wiping out nearly Rs 8 lakh crore in market value. Surging oil prices, bond yields, geopolitical tensions and rate-hike concerns drove broad-based selling.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/134546556.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-09-28",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Clean Max Enviro bulk deal: Augment India divests stakes worth Rs 1,096 crore; Goldman Sachs, HSBC India among buyers",
+      "description": "Augment India I Holdings sold 85.03 lakh Clean Max Enviro Energy Solutions shares worth about Rs 1,096 crore through NSE bulk deals. Goldman Sachs, HSBC and ICICI Prudential Life Insurance were among the buyers, while brokerages retain positive views on CleanMax.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/clean-max-enviro-bulk-deal-augment-india-divests-stakes-worth-rs-1096-crore-goldman-sachs-hsbc-india-among-buyers/articleshow/134546538.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-09-28",
+      "image": "",
+      "category": "metals"
+    },
+    {
+      "title": "US stocks: US market drops as Trump\u2019s rejection of Iran peace plan lifts oil prices",
+      "description": "Following President Trump's dismissal of Iran's peace proposal, US market indexes experienced a downward trend, spurred by a notable surge in crude prices. This escalation raised inflation worries, consequently leading to an uptick in Treasury yields and impacting economic outlooks. Meanwhile, Nvidi",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-wall-st-opens-lower-as-oil-spikes-after-trump-rejects-iran-peace-proposal/articleshow/134544649.cms",
       "source": "Economic Times Markets",
       "date": "2026-09-28",
@@ -146,15 +173,6 @@
       "title": "Rupee slips toward 96 vs US dollar as crude, yields and stocks weigh on currency",
       "description": "The rupee weakened 0.2% to 95.9825 against the dollar, pressured by surging crude oil prices, US bond yields and a sharp equity sell-off. RBI intervention likely limited losses, while concerns over inflation and India\u2019s high oil import dependence weighed on sentiment.",
       "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-slips-toward-96-vs-us-dollar-as-crude-yields-and-stocks-weigh-on-currency/articleshow/134544621.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-09-28",
-      "image": "",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Clean Max Enviro Energy raises Rs 2,500 cr via green bonds",
-      "description": "In a significant financial move, Clean Max Enviro Energy successfully raised Rs 2,500 crore by issuing green debt securities. The offering consisted of non-convertible debentures organized into five series, each featuring different maturities and coupon rates. Structured under a green bond framework",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/clean-max-enviro-energy-raises-rs-2500-cr-via-green-bonds/articleshow/134542920.cms",
       "source": "Economic Times Markets",
       "date": "2026-09-28",
       "image": "",
@@ -179,76 +197,76 @@
       "category": "metals"
     },
     {
-      "title": "Trump administration kicks off review for Ambler mining district project",
-      "description": "The Trump administration announced last week that it will open a 30-month environmental review of a proposed open-pit copper and zinc mine, which would be accessed by the controversial 211-mile Ambler Road project.",
-      "url": "https://www.newsminer.com/news/local_news/trump-administration-kicks-off-review-for-ambler-mining-district-project/article_610480ae-61da-405e-8ea7-3fb08b19abc4.html",
-      "source": "Fairbanks Daily News-Miner",
+      "title": "Your gold or silver ETF holds physical bullion: Here's what SEBI's new vault rules mean for investors",
+      "description": "SEBI has approved changes to its vault manager rules, bringing physical bullion underlying gold and silver ETFs under a common framework. The move strengthens requirements around how this bullion is stored, secured, segregated and accounted for.",
+      "url": "https://www.livemint.com/money/personal-finance/your-gold-or-silver-etf-holds-physical-bullion-heres-what-sebis-new-vault-rules-mean-for-investors-11790518596044.html",
+      "source": "Livemint",
       "date": "2026-09-27",
-      "image": "https://bloximages.newyork1.vip.townnews.com/newsminer.com/content/tncms/assets/v3/editorial/0/e2/0e2a7c03-d088-4a17-bf93-af49ca944758/6ab47b75a78ea.preview.jpg?crop=1790%2C940%2C0%2C109&resize=1200%2C630&order=crop%2Cresize",
-      "category": "supply_demand"
+      "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/gold_silver_et_1790527926168_ccMl_1790527933462_nqko_7563bedd-45ec-415d-922e-565ce19250ae_E6VD.png",
+      "category": "metals"
     },
     {
-      "title": "Managing inflation risk",
-      "description": "Commodities futures hedge inflation but carry high downside risk and may be unsuitable for many retirees. A better alternative is rental property: while rents aren\u2019t a perfect hedge, they can rise over time",
-      "url": "https://www.thehindubusinessline.com/portfolio/personal-finance/managing-inflation-risk/article71516264.ece",
-      "source": "BusinessLine",
-      "date": "2026-09-27",
-      "image": "https://bl-i.thgim.com/public/incoming/3akgjt/article71427035.ece/alternates/LANDSCAPE_1200/PO02_Archery_percent.jpg",
-      "category": "inflation"
-    },
-    {
-      "title": "Gold price prediction: Experts predict Gold rate for last three months of 2026, first half of 2027",
-      "description": "Gold price has corrected sharply in September after gaining around 9 per cent in August, with prices down nearly 8 per cent during the month so far.",
-      "url": "https://economictimes.indiatimes.com/news/international/us/gold-price-prediction-experts-predict-gold-rate-for-last-three-months-of-2026-first-half-of-2027/articleshow/134520392.cms",
+      "title": "Private school corruption case: CCB searches four places in Kallakurichi district",
+      "description": "CCB searched four premises in Kallakurichi in a private school approvals scam probe, seizing 30 documents and bank records; key accused Muthukumar absconding.",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/private-school-corruption-case-ccb-searches-four-places-in-kallakurichi-district/articleshow/134523815.cms",
       "source": "The Times of India",
       "date": "2026-09-27",
-      "image": "https://img.etimg.com/thumb/msid-134520534,width-1200,height-630,imgsize-355734,overlay-economictimes/articleshow.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "Asian Games 2026: Harita Bhadra wins bronze in women's 200m",
-      "description": "Harita Bhadra secured the bronze medal in the women's 200m at the Asian Games in 23.20 seconds. Meanwhile, Shanti Pereira of Singapore took gold with a time of 22.78 seconds. China's Chen Yujie earned the silver medal finishing in 22.93 seconds. India's secon\u2026",
-      "url": "https://economictimes.indiatimes.com/news/sports/other-sports/asian-games-2026-harita-bhadra-wins-bronze-in-womens-200m/articleshow/134518639.cms",
-      "source": "The Times of India",
-      "date": "2026-09-27",
-      "image": "https://img.etimg.com/thumb/msid-134518681,width-1200,height-630,imgsize-150786,overlay-economictimes/articleshow.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "How financial advisors keep doomer clients from blowing up their portfolios",
-      "description": "We're in a golden age for apocalyptic thinking, but that doesn't mean you should invest like we're near the end.",
-      "url": "https://www.businessinsider.com/how-financial-advisors-keep-doomers-from-blowing-up-their-portfolios-2026-9#article",
-      "source": "Business Insider",
-      "date": "2026-09-27",
-      "image": "https://i.insider.com/6ab6e076265e3f8e338f7590?width=1200&format=jpeg",
-      "category": "metals"
-    },
-    {
-      "title": "Financial foundation: Why insurance and emergency funds must precede stocks",
-      "description": "Emergency Fund vs Investing: Securing your income and emergency reserves ensures market volatility never threatens your essential financial stability",
-      "url": "https://www.business-standard.com/finance/personal-finance/financial-foundation-why-insurance-and-emergency-funds-must-precede-stocks-126092400654_1.html",
-      "source": "Business Standard",
-      "date": "2026-09-27",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/16/thumb/fitandfill/1200X628/1781601477-0114.jpg",
+      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
       "category": "market"
     },
     {
-      "title": "ETMarkets Smart Talk| How to find India\u2019s next multibaggers? Pritam Deuskar explains his GIANTS framework",
-      "description": "To achieve successful long-term investments, investors should target companies with a competitive edge. Pritam Deuskar introduces the GIANTS framework, emphasizing the importance of evaluating market position and awareness of emerging trends in India. Despite\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-how-to-find-indias-next-multibaggers-pritam-deuskar-explains-his-giants-framework/articleshow/134516232.cms",
+      "title": "DLSA assures legal aid to family of Gumla sexual assault victim",
+      "description": "DLSA Gumla assures free legal aid and support to family of sexual assault victim, provides 50kg grain relief, appoints advocate, initiates compensation process.",
+      "url": "https://timesofindia.indiatimes.com/city/ranchi/dlsa-assures-legal-aid-to-family-of-gumla-sexual-assault-victim/articleshow/134523811.cms",
       "source": "The Times of India",
       "date": "2026-09-27",
-      "image": "https://img.etimg.com/thumb/msid-134516275,width-1200,height-630,imgsize-67560,overlay-etmarkets/articleshow.jpg",
-      "category": "geopolitics"
+      "image": "https://static.toiimg.com/thumb/msid-134523810,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "category": "market"
     },
     {
-      "title": "Will Nifty, Sensex tumble on Monday? 5 factors which will drive D-Street action this week",
-      "description": "Following a 7-week decline in Nifty, Dalal Street faces a holiday-shortened week driven by five key factors: escalating US-Iran conflict, Brent crude trading above $104, US 10-year Treasury yields above 5.1%, continued FII outflows, and rupee volatility withi\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-nifty-sensex-tumble-on-monday-5-factors-which-will-drive-d-street-action-this-week/articleshow/134515821.cms",
+      "title": "Booked out: Karnataka colleges run short of librarians, PE teachers",
+      "description": "Karnataka govt colleges and schools face staff shortage: 201 degree colleges lack librarians and 5,202 PE instructor posts are vacant, hurting learning and sports.",
+      "url": "https://timesofindia.indiatimes.com/city/hubballi/booked-out-karnataka-colleges-run-short-of-librarians-pe-teachers/articleshow/134523800.cms",
       "source": "The Times of India",
       "date": "2026-09-27",
-      "image": "https://img.etimg.com/thumb/msid-134515834,width-1200,height-630,imgsize-122798,overlay-etmarkets/articleshow.jpg",
-      "category": "geopolitics"
+      "image": "https://static.toiimg.com/thumb/msid-134523797,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "category": "market"
+    },
+    {
+      "title": "DVAC books ex-DMK minister Velu, son for illegal sand mining",
+      "description": "DVAC books ex-DMK minister E V Velu and son for alleged illegal sand mining from Malappambadi Lake, citing conspiracy and \u20b98.2 crore loss; FIR filed.",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/dvac-books-ex-dmk-minister-velu-son-for-illegal-sand-mining/articleshow/134523786.cms",
+      "source": "The Times of India",
+      "date": "2026-09-27",
+      "image": "https://static.toiimg.com/thumb/msid-134523782,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Record-high breeding for non-native birds at Pallikaranai marshland",
+      "description": "Record breeding of non-native birds at Chennai\u2019s Pallikaranai marsh sees highs for jacanas, fulvous whistling ducks and pied mynas amid favorable habitat.",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/record-high-breeding-for-non-native-birds-at-pallikaranai-marshland/articleshow/134523772.cms",
+      "source": "The Times of India",
+      "date": "2026-09-27",
+      "image": "https://static.toiimg.com/thumb/msid-134523770,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Subsurface check dams to revive drying Ballari aquifers",
+      "description": "Ballari plans 15 subsurface check dams costing Rs 40-50 crore to recharge aquifers and support drought-hit agriculture; first likely on Vedavathi River.",
+      "url": "https://timesofindia.indiatimes.com/city/hubballi/subsurface-check-dams-to-revive-drying-ballari-aquifers/articleshow/134523768.cms",
+      "source": "The Times of India",
+      "date": "2026-09-27",
+      "image": "https://static.toiimg.com/thumb/msid-134523767,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Crop loss, loan notices leave Kalaburagi farmers in a double bind",
+      "description": "Kalaburagi farmers hit by drought crop losses face bank loan repayment notices and alleged account freezes, raising fears over access to crop insurance payouts.",
+      "url": "https://timesofindia.indiatimes.com/city/hubballi/crop-loss-loan-notices-leave-kalaburagi-farmers-in-a-double-bind/articleshow/134523755.cms",
+      "source": "The Times of India",
+      "date": "2026-09-27",
+      "image": "https://static.toiimg.com/thumb/msid-134523754,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "category": "market"
     },
     {
       "title": "Gold and silver outlook: What's in store for traders this week? Job data, crude and more in focus",
@@ -258,6 +276,15 @@
       "date": "2026-09-27",
       "image": "https://static.toiimg.com/thumb/msid-134521461,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "category": "geopolitics"
+    },
+    {
+      "title": "Trump administration kicks off review for Ambler mining district project",
+      "description": "The Trump administration announced last week that it will open a 30-month environmental review of a proposed open-pit copper and zinc mine, which would be accessed by the controversial 211-mile Ambler Road project.",
+      "url": "https://www.newsminer.com/news/local_news/trump-administration-kicks-off-review-for-ambler-mining-district-project/article_610480ae-61da-405e-8ea7-3fb08b19abc4.html",
+      "source": "Fairbanks Daily News-Miner",
+      "date": "2026-09-27",
+      "image": "https://bloximages.newyork1.vip.townnews.com/newsminer.com/content/tncms/assets/v3/editorial/0/e2/0e2a7c03-d088-4a17-bf93-af49ca944758/6ab47b75a78ea.preview.jpg?crop=1790%2C940%2C0%2C109&resize=1200%2C630&order=crop%2Cresize",
+      "category": "supply_demand"
     },
     {
       "title": "Bullion may stay volatile as US data, W Asia tensions take focus: Analysts",
@@ -278,130 +305,103 @@
       "category": "market"
     },
     {
-      "title": "CBIC eases paperwork to claim concessional duty on imports from UK",
-      "description": "A valid Origin Declaration will suffice to claim concessional duty under the India-UK CETA, while Form-I may be sought only when a shipment is flagged for scrutiny",
-      "url": "https://www.business-standard.com/economy/news/cbic-eases-paperwork-to-claim-concessional-duty-on-imports-from-uk-126092700646_1.html",
-      "source": "Business Standard",
+      "title": "All 4 Actors To Play Robert Langdon",
+      "description": "Dan Brown's Robert Langdon remains one of the most popular characters in contemporary fiction. So far, four actors have taken on the adventurous role.",
+      "url": "https://screenrant.com/robert-langdon-actors-explained/",
+      "source": "Screen Rant",
       "date": "2026-09-27",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-04/20/thumb/fitandfill/1200X628/1745171384-1807.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Deere, ADM and Bunge: 3 Farm Stocks Giving Investors Dividends For America\u2019s Harvest",
-      "description": "The post Deere, ADM and Bunge: 3 Farm Stocks Giving Investors Dividends For America\u2019s Harvest appeared first on 24/7 Wall St..\nAmerican farm income reaches dividend investors through different doors. Archer-Daniels-Midland (NYSE:ADM) and Bunge Global (NYSE:BG\u2026",
-      "url": "https://biztoc.com/x/62094a6f3d3f7f79",
-      "source": "Biztoc.com",
-      "date": "2026-09-27",
-      "image": "https://biztoc.com/cdn/62094a6f3d3f7f79_s.webp",
+      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/09/tom-hanks-as-robert-langdon-in-angels-demons-2009.jpg?w=1600&h=900&fit=crop",
       "category": "market"
     },
     {
-      "title": "Google Rewrites Critical C Dependencies to Rust Using AI and Differential Fuzzing",
-      "description": "Google's security team developed a method to replace legacy C code in the giflib image-processing library with Rust, targeting inherent memory vulnerabilities. They utilised an automated migration process, ensuring compatibility and zero-day vulnerability mit\u2026",
-      "url": "https://www.infoq.com/news/2026/09/c-rust-rewrite/",
-      "source": "InfoQ.com",
+      "title": "Why local is vital for the fabless crowd",
+      "description": "Indian fabless startups leverage local markets, government support, and global links to commercialise chips and build a robust ecosystem.",
+      "url": "https://www.thehindubusinessline.com/specials/emerging-entrepreneurs/why-local-is-vital-for-the-fabless-crowd/article71517188.ece",
+      "source": "BusinessLine",
       "date": "2026-09-27",
-      "image": "https://res.infoq.com/news/2026/09/c-rust-rewrite/en/headerimage/generatedHeaderImage-1790493245314.jpg",
+      "image": "https://bl-i.thgim.com/public/incoming/ebtjy7/article71517190.ece/alternates/LANDSCAPE_1200/BL2809_Spark_Lead_Ponni%20Carlin.jpg",
       "category": "market"
     },
     {
-      "title": "Jakson Green eyes 12.5 GW operational renewable projects in two years",
-      "description": "The company is targeting 30 GW of renewable IPP and EPC capacity by 2030 while expanding into green hydrogen, ammonia, battery storage and other energy-transition businesses",
-      "url": "https://www.business-standard.com/companies/news/jakson-green-eyes-12-5-gw-operational-renewable-projects-in-two-years-126092700638_1.html",
-      "source": "Business Standard",
+      "title": "Why Indian startups flipped for more than two decades",
+      "description": "Explains why Indian startups flipped their holding structures overseas, and why many are now reverse-flipping back to India.",
+      "url": "https://www.thehindubusinessline.com/specials/emerging-entrepreneurs/why-indian-startups-flipped-for-more-than-two-decades/article71517174.ece",
+      "source": "BusinessLine",
       "date": "2026-09-27",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/27/thumb/fitandfill/1200X628/1790518327-4496.jpg",
+      "image": "https://bl-i.thgim.com/public/incoming/24qeiy/article71517186.ece/alternates/LANDSCAPE_1200/PO14_Paper_rocket_startup.jpg",
       "category": "market"
     },
     {
-      "title": "Confirmed: From Web Slinging To A Galaxy Far, Far Away, New \u2018Star Wars\u2019 Trilogy Found Its Director",
-      "description": "The galaxy far, far away has reportedly secured its next major helm. Jon Watts\u2014the director behind Marvel Studios\u2019 blockbuster Spider-Man trilogy and the co-creator of Disney+\u2019s Star Wars: Skeleton Crew\u2014has been tapped to direct the first chapter in a brand-n\u2026",
-      "url": "https://insidethemagic.net/2026/09/spiderman-director-jon-watts-to-helm-first-film-in-new-star-wars-trilogy-for-lucasfilm-and-disney-rl1/",
-      "source": "Inside the Magic",
+      "title": "After 4 Years, the Best Action Movie of the Decade Is Soaring to Success on Netflix",
+      "description": "Courtesy of Paramount Pictures\n\nLegacy sequels have been a mixed bag in the last five years, treading a line between pure fan service and alienating \u201creimaginings.\u201d In the middle of it all, one blockbuster defied the odds to become one of the biggest movies o\u2026",
+      "url": "http://comicbook.com/movies/news/after-4-years-the-best-action-movie-of-the-decade-is-soaring-to-success-on-netflix/",
+      "source": "ComicBook.com",
       "date": "2026-09-27",
-      "image": "https://insidethemagic.net/wp-content/uploads/2026/09/mark-hamill-star-wars-the-last-jedi-luke-skywalker-.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Iran \u2018fully prepared\u2019 for war to resume but diplomacy not over yet, Foreign Minister Abbas Araghchi says",
-      "description": "Iranian Foreign Minister Abbas Araghchi has said his country is prepared for fighting with the United States to resume, but has not yet abandoned diplomacy after President Donald Trump publicly rejected a proposal to reopen the Strait of Hormuz.",
-      "url": "https://www.nbcnews.com/world/iran/iran-fully-prepared-war-resume-foreign-minister-rcna600059",
-      "source": "NBC News",
-      "date": "2026-09-27",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260927-abbas-araghchi-vl-952a-61629c.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Gov. Gavin Newsom Signs Ten New Gun Control Bills Into Law",
-      "description": "California Gov. Gavin Newsom (D) signed ten new gun control bills on Saturday, one of which is designed to block 3D printers from printing firearms.\nThe post Gov. Gavin Newsom Signs Ten New Gun Control Bills Into Law appeared first on Breitbart.",
-      "url": "https://www.breitbart.com/2nd-amendment/2026/09/27/gov-gavin-newsom-signs-ten-new-gun-control-bills-into-law/",
-      "source": "Breitbart News",
-      "date": "2026-09-27",
-      "image": "https://media.breitbart.com/media/2026/09/AP26248754695969-640x335.jpg",
+      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/09/Screenshot-2026-09-26-at-13.27.11.png?resize=2000,1186",
       "category": "market"
     },
     {
-      "title": "Florida Homeowners Are Paying the Price of a Broken Disaster System",
-      "description": "Floridians pay some of the country's highest property insurance premiums, averaging $4,200 to $5,700 a year.",
-      "url": "https://capitalandmain.com/in-florida-the-climate-crisis-comes-due-as-a-higher-insurance-premium",
-      "source": "Capitalandmain.com",
+      "title": "'SNL': KATSEYE Returns to 'Dream Academy' as Judges",
+      "description": "KATSEYE returned to \"Dream Academy\" for an unhinged season 2 on \"Saturday Night Live.\"",
+      "url": "http://www.billboard.com/music/music-news/katseye-dream-academy-snl-sketch-judges-season-two-1236348451/",
+      "source": "Billboard",
       "date": "2026-09-27",
-      "image": "https://truthout.org/app/uploads/2026/09/GettyImages-2178124736.jpg",
+      "image": "https://www.billboard.com/wp-content/uploads/2026/09/katseye-dream-academy-snl-2026-billboard-1800.jpg?w=1024",
       "category": "market"
     },
     {
-      "title": "Did Byron Donalds drop Donald Trump from his campaign? A quiet website change on the GOP candidate's website gets a loud response",
-      "description": "Donald Trump\u2019s backing gave Donalds an early boost in his bid for the Republican nomination. The president endorsed the congressman shortly before Donalds officially launched his campaign for Florida governor.",
-      "url": "https://economictimes.indiatimes.com/news/international/us/did-byron-donalds-drop-donald-trump-from-his-campaign-a-quiet-website-change-on-the-gop-candidates-website-gets-a-loud-response/articleshow/134520326.cms",
+      "title": "The U.S. economy is running hot and stuck on a hamster wheel as GDP growth must outpace borrowing costs\u2014or else get sucked into a debt spiral",
+      "description": "\"With interest rates on new Treasury bonds and notes at around\u00a05%\u00a0and medium-term nominal economic growth expected to be closer to 4%, the U.S. is entering a\u00a0debt\u00a0spiral.\"",
+      "url": "https://fortune.com/2026/09/27/us-economy-gdp-growth-bond-yields-borrowing-costs-debt-spiral/",
+      "source": "Fortune",
+      "date": "2026-09-27",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2192466432-e1790452766212.jpg?resize=1200,600",
+      "category": "central_bank"
+    },
+    {
+      "title": "Xi-Trump summit: China gains diplomatic leverage as US-China trade truce extends, Taiwan tensions persist",
+      "description": "Seema Sirohi provides insight into the recent summit held between Trump and Xi, focusing on their efforts towards achieving a trade truce. The leaders tentatively agreed on lowering tariffs and creating a framework for AI safety, all while navigating other ge\u2026",
+      "url": "https://economictimes.indiatimes.com/opinion/et-commentary/xi-trump-summit-china-gains-diplomatic-leverage-as-us-china-trade-truce-extends-taiwan-tensions-persist/articleshow/134524139.cms",
       "source": "The Times of India",
       "date": "2026-09-27",
-      "image": "https://img.etimg.com/thumb/msid-134521658,width-1200,height-630,imgsize-100194,overlay-economictimes/articleshow.jpg",
-      "category": "market"
+      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-7680034,resizemode-75,msid-134524139/opinion/et-commentary/xi-trump-summit-china-gains-diplomatic-leverage-as-us-china-trade-truce-extends-taiwan-tensions-persist.jpg",
+      "category": "geopolitics"
     },
     {
-      "title": "How Trump Became Mob Boss of the United States",
-      "description": "Donald Trump is the most corrupt president in United States history. He's been preparing to use the government for self-enrichment his entire life.",
-      "url": "http://www.rollingstone.com/politics/political-commentary/trump-mob-boss-united-states-1235631736/",
-      "source": "Rolling Stone",
-      "date": "2026-09-27",
-      "image": "https://www.rollingstone.com/wp-content/uploads/2026/09/trump-mob-boss-tactics.jpg?w=1600&h=900&crop=1",
-      "category": "market"
-    },
-    {
-      "title": "Powerful nor\u2019easter pounds dozens of vulnerable shore homes in North Carolina\u2019s Outer Banks \u2014 with 100 more at risk",
-      "description": "An early-season nor'easter is pounding a stretch of North Carolina\u2019s Outer Banks where dozens of homes are already threatened by the advancing ocean.",
-      "url": "https://www.realtor.com/news/trends/outer-banks-homes-noreaster-erosion-collapse/",
-      "source": "Realtor.com News",
-      "date": "2026-09-27",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/142744909.jpg?quality=75&strip=all&w=1200",
-      "category": "market"
-    },
-    {
-      "title": "Truth about how much alcohol you can REALLY consume safely... and just how much two drinks a day shortens your life by",
-      "description": "Perhaps it's a bottle - or two - of Sauvignon Blanc with dinner most evenings. Or a well-deserved glass of wine in the late afternoon, followed by a gin and tonic while cooking.",
-      "url": "https://www.dailymail.com/health/article-16160207/alcohol-dietary-guidelines-trump-cdc.html",
-      "source": "Dailymail.com",
-      "date": "2026-09-27",
-      "image": "https://i.dailymail.com/1s/2026/09/27/14/111472677-0-image-a-4_1790515141314.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Security Affairs newsletter Round 597 by Pierluigi Paganini \u2013 INTERNATIONAL EDITION",
-      "description": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including international press. OpenAI Agent\u2026",
-      "url": "https://securityaffairs.com/199841/breaking-news/security-affairs-newsletter-round-597-by-pierluigi-paganini-international-edition.html",
-      "source": "Securityaffairs.com",
-      "date": "2026-09-27",
-      "image": "https://securityaffairs.com/wp-content/uploads/2026/09/securityaffairs-newsletter.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Ensure social intervention programmes alleviate poverty, APC chieftain urges Tinubu",
-      "description": "An APC chieftain, Olatunbosun Oyintiloye, has urged President Tinubu to ensure his social intervention programmes effectively alleviate poverty for Nigeria\n\nRead More: https://punchng.com/ensure-social-intervention-programmes-alleviate-poverty-apc-chieftain-u\u2026",
-      "url": "https://punchng.com/ensure-social-intervention-programmes-alleviate-poverty-apc-chieftain-urges-tinubu/",
+      "title": "FCCPC seeks stronger media collaboration on consumer protection",
+      "description": "The Federal Competition and Consumer Protection Commission has called for sustained capacity building for journalists to improve reporting on consumer righ\n\nRead More: https://punchng.com/fccpc-seeks-stronger-media-collaboration-on-consumer-protection/",
+      "url": "https://punchng.com/fccpc-seeks-stronger-media-collaboration-on-consumer-protection/",
       "source": "The Punch",
       "date": "2026-09-27",
-      "image": "https://cdn.punchng.com/2026/08/Tinubu_1787008926.webp",
+      "image": "https://punchng.com/wp-content/uploads/2026/08/Tunji-Bello_1786662411.webp",
+      "category": "central_bank"
+    },
+    {
+      "title": "Refrigerators: The next battle frontier?",
+      "description": "'If a sophisticated adversary wanted to test its ability to disrupt the infrastructure supporting America's military without firing a shot, is this what it might look like?'",
+      "url": "https://www.wnd.com/2026/09/refrigerators-next-battle-frontier/",
+      "source": "Wnd.com",
+      "date": "2026-09-27",
+      "image": "https://www.wnd.com/wp-content/uploads/2026/09/refrigerators-home-appliances-unsplash-1200x630.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Atiku urges Tinubu to raise N70,000 wage, vows hike from day one",
+      "description": "Former Vice President Atiku Abubakar has urged President Tinubu to raise the N70,000 minimum wage, arguing its value has been eroded by rising costs.\n\nRead More: https://punchng.com/atiku-urges-tinubu-to-raise-n70000-wage-vows-hike-from-day-one/",
+      "url": "https://punchng.com/atiku-urges-tinubu-to-raise-n70000-wage-vows-hike-from-day-one/",
+      "source": "The Punch",
+      "date": "2026-09-27",
+      "image": "https://cdn.punchng.com/wp-content/uploads/2026/08/27062906/President-Bola-Tinubu-Atiku-Abubakar_1787808546.webp",
       "category": "market"
+    },
+    {
+      "title": "Poilievre urges tax cuts to make diesel fuel more affordable",
+      "description": "Conservative Leader Pierre Poilievre is pitching a plan to cut federal taxes on diesel fuel and help ensure Canada has affordable supplies of the fuel in the future.",
+      "url": "https://www.cbc.ca/news/politics/pierre-poilievre-conservatives-tax-cut-diesel-9.7360278",
+      "source": "CBC News",
+      "date": "2026-09-27",
+      "image": "https://i.cbc.ca/ais/6e5b39b9-5655-484d-b5c9-621795fe4964,1790528125570/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C185%2C8160%2C4590%29%3BResize%3D620",
+      "category": "central_bank"
     }
   ],
   "history": [
@@ -496,7 +496,7 @@
       "platinum_usd_oz": 1857.35
     }
   ],
-  "timestamp": "2026-09-28T19:47:16.705906+05:30",
+  "timestamp": "2026-09-28T23:15:51.361338+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
