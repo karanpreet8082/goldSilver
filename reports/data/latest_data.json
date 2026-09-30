@@ -54,7 +54,7 @@
         "hold": 25
       },
       "summary": "Gold is showing positive signals. Strong daily gain of 1.1%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-09-30T16:01:28.937196",
+      "timestamp": "2026-09-30T18:04:51.513117",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 25
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 1.3%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-09-30T16:01:29.034804",
+      "timestamp": "2026-09-30T18:04:51.594521",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 25
       },
       "summary": "Platinum is showing positive signals. Strong daily gain of 2.0%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-09-30T16:01:29.119573",
+      "timestamp": "2026-09-30T18:04:51.681124",
       "source": "rule-based"
     }
   },
@@ -134,27 +134,36 @@
   },
   "news": [
     {
+      "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
+      "description": "Indian equities declined for a third straight session, with Sensex losing 49 points and Nifty falling 96 points as rising bond yields weighed on sentiment. Broader markets gained, while analysts highlighted crude prices, inflation and monetary policy uncertainty.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/134598291.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-09-30",
+      "image": "",
+      "category": "central_bank"
+    },
+    {
+      "title": "FII selling worsens; foreign investors pull out Rs 26,000 crore from Indian equities in three days",
+      "description": "Foreign institutional investors sold over Rs 26,000 crore of Indian shares in three sessions, intensifying September\u2019s market correction. High crude prices, elevated US bond yields and a weaker rupee pressured equities, while analysts said selective opportunities are emerging across largecaps.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fii-selling-worsens-foreign-investors-pull-out-rs-26000-crore-from-indian-equities-in-three-days/articleshow/134598196.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-09-30",
+      "image": "",
+      "category": "currency"
+    },
+    {
+      "title": "Market Trading Guide: JM Financial, IDFC First Bank among 5 stock recommendations for Thursday",
+      "description": "Analysts recommend five stocks for Thursday\u2014JM Financial, IDFC First Bank, Clean Science, City Union Bank and BEML\u2014citing technical signals and support levels. Cautious sentiment persists amid higher oil prices, elevated bond yields, inflation concerns and uncertainty over global monetary policy.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-jm-financial-idfc-first-bank-among-5-stock-recommendations-for-thursday/slideshow/134598185.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-09-30",
+      "image": "",
+      "category": "central_bank"
+    },
+    {
       "title": "US dollar retreats after softer-than-expected inflation data",
       "description": "The dollar faced a downturn against key currencies following unexpected inflation results from the US. The US Commerce Department reported the Personal Consumption Expenditures Price Index increased by merely 0.3% last month, contrary to economists' forecasts of 0.4%. This shift affected market pred",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-dollar-retreats-after-softer-than-expected-inflation-data/articleshow/134597817.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-09-30",
-      "image": "",
-      "category": "central_bank"
-    },
-    {
-      "title": "US yields pull back as rate hike bets ease after inflation data",
-      "description": "Traders took stock on Wednesday, moderating their forecasts for Federal Reserve rate hikes after the latest inflation figures. Reports showed inflation's increase for August fell short of economists' predictions. As a result, futures contracts adjusted to reflect a less than even chance of a rate hi",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-yields-pull-back-as-rate-hike-bets-ease-after-inflation-data/articleshow/134597756.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-09-30",
-      "image": "",
-      "category": "central_bank"
-    },
-    {
-      "title": "US stocks: US market rises as cooler inflation data ease October Fed hike bets",
-      "description": "U.S. stocks surged higher as inflation reports came in softer than analysts predicted, easing worries about potential interest rate hikes. The Commerce Department revealed a 3.4% increase in the Personal Consumption Expenditures price index year-over-year. Major players like Apple and Alphabet enjoy",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-wall-st-opens-higher-as-soft-inflation-data-eases-rate-hike-fears/articleshow/134596112.cms",
       "source": "Economic Times Markets",
       "date": "2026-09-30",
       "image": "",
@@ -176,6 +185,24 @@
       "source": "Google News - Precious Metals",
       "date": "2026-09-30",
       "image": "",
+      "category": "metals"
+    },
+    {
+      "title": "JioStar to deepen ChatGPT integration as AI reshapes sports viewing",
+      "description": "JioStar launched a deep product integration with ChatGPT during the IPL that went beyond conventional search. Viewers could ask questions about players and matches in natural language while watching the game and receive contextual information without interrup\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/media/entertainment/jiostar-to-deepen-chatgpt-integration-as-ai-reshapes-sports-viewing/articleshow/134572024.cms",
+      "source": "The Times of India",
+      "date": "2026-09-29",
+      "image": "https://img.etimg.com/thumb/msid-134572071,width-1200,height-630,imgsize-80272,overlay-economictimes/articleshow.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Does 35% gold, silver and InvIT allocation flexibility make equity mutual funds a better buy? Experts explain",
+      "description": "Under the revised SEBI framework, eligible equity mutual funds can allocate their residual portfolio to assets such as gold ETFs, silver ETFs, and Infrastructure Investment Trusts.",
+      "url": "https://www.livemint.com/money/personal-finance/does-35-gold-silver-and-invit-allocation-flexibility-make-equity-mutual-funds-a-better-buy-experts-explain-11790695496450.html",
+      "source": "Livemint",
+      "date": "2026-09-29",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/With-mutual-funds--investors-are-only-taxed-when-t_1689526490313_1790696146478_QImg_b9e2d1ea-16fd-495e-a768-46e8f437115b_wMJM.jpg",
       "category": "metals"
     },
     {
@@ -231,24 +258,6 @@
       "date": "2026-09-29",
       "image": "https://dianeravitch.net/wp-content/uploads/2017/12/diane.jpg?w=200",
       "category": "market"
-    },
-    {
-      "title": "Fast-Track Permitting Is Reshaping the Gold-Antimony Development Race",
-      "description": "Issued on behalf of Rua Gold Inc. VANCOUVER, British Columbia, Sept. 29, 2026 (GLOBE NEWSWIRE) \u2014 US Metal News News Commentary \u2013 For most of the last decade, the hard part of building a new gold mine in a Western jurisdiction was not finding the ounces. It wa\u2026",
-      "url": "https://financialpost.com/globe-newswire/fast-track-permitting-is-reshaping-the-gold-antimony-development-race-2",
-      "source": "Financial Post",
-      "date": "2026-09-29",
-      "image": null,
-      "category": "metals"
-    },
-    {
-      "title": "AT&T and Corning Team Up to Engineer the Connected World with Fiber",
-      "description": "DALLAS and CORNING, N.Y., Sept. 29, 2026 /PRNewswire/ -- The more than $3 billion agreement solidifies AT&T's commitment to bring the best and fastest connection to more Americans as internet use and AI continue to drive demand Key Takeaways: AT&T and Corning\u2026",
-      "url": "https://www.prnewswire.com/news-releases/att-and-corning-team-up-to-engineer-the-connected-world-with-fiber-302892879.html",
-      "source": "PRNewswire",
-      "date": "2026-09-29",
-      "image": "https://mmx.prnewswire.com/media/MS594853/AT-T-Logo-V1.jpg?id=OA2974865&p=facebook",
-      "category": "supply_demand"
     },
     {
       "title": "Fire to Fortune: A Year of Living Volcanically",
@@ -314,94 +323,85 @@
       "category": "metals"
     },
     {
-      "title": "Poor man\u2019s gold may become India's next big story as the silver horse rises",
-      "description": "Silver is gaining ground in India as record gold prices push consumers towards a more affordable precious metal. Prices have surged 160% in two years, boosting interest in jewellery, gifting and investment. Jewellers report rising silver demand, particularly \u2026",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/silver-prices-poor-mans-gold-may-become-indias-next-big-story-as-the-silver-horse-rises/articleshow/134556840.cms",
-      "source": "The Times of India",
+      "title": "iPhone Duo Facing Production Problems, Claims New Report",
+      "description": "Early output of the iPhone Duo is reportedly expected to be limited, thanks to production difficulties, ahead of its October launch.Read More...",
+      "url": "https://www.mactrast.com/2026/09/iphone-duo-facing-production-problems-claims-new-report/",
+      "source": "Mactrast.com",
       "date": "2026-09-29",
-      "image": "https://img.etimg.com/thumb/msid-134558779,width-1200,height-630,imgsize-83986,overlay-economictimes/articleshow.jpg",
-      "category": "geopolitics"
+      "image": "https://www.mactrast.com/wp-content/uploads/2026/09/Apple-iPhone-Duo-display-sizes-260909-scaled.jpg",
+      "category": "supply_demand"
     },
     {
-      "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
-      "description": "Nifty\u2019s indicative price plunged 2% in two seconds during the closing auction session on monthly expiry, before recovering sharply. Analysts cited crude volatility, high US Treasury yields, FII outflows, IPO fundraising and geopolitical tensions as key market\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/134570219.cms",
-      "source": "The Times of India",
+      "title": "CAZ Strategic Opportunities Fund Surpasses $900 Million",
+      "description": "Interval Fund Structure Continues to Broaden Opportunities to Private Markets for a Growing Range of Investors HOUSTON, Sept. 29, 2026 /PRNewswire/ -- CAZ Investments (\"CAZ\"), a Houston-based leading alternative investment firm, today announced the CAZ Strate\u2026",
+      "url": "https://www.prnewswire.com/news-releases/caz-strategic-opportunities-fund-surpasses-900-million-302893275.html",
+      "source": "PRNewswire",
       "date": "2026-09-29",
-      "image": "https://img.etimg.com/thumb/msid-134570250,width-1200,height-630,imgsize-116884,overlay-etmarkets/articleshow.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Meet the 20 scholars and artists who've just won MacArthur Fellowships",
-      "description": "A historian who studies wage gaps between races and a saxophonist whose live performances include a chef are among the latest recipients of the philanthropic group's annual, no-strings-attached $800,000 grants.",
-      "url": "https://www.npr.org/2026/09/29/nx-s1-5980447/macarthur-genius-grants-2026-fellows",
-      "source": "NPR",
-      "date": "2026-09-29",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2400x1350+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F78%2F30%2F6f8b939143d9b9047b8ce0425d8b%2F6-images-4.jpg",
+      "image": "https://mmx.prnewswire.com/media/MS579175/CAZ-Investments-Logo.jpg?id=OA2976975&p=facebook",
       "category": "market"
     },
     {
-      "title": "Digger Review: Tom Cruise\u2019s Boldest, Most Political Movie Ever",
-      "description": "The Dr. Strangelove-esque comedy from director Alejandro G. I\u00f1\u00e1rritu is full of surprises. \nDigger Review: Tom Cruise\u2019s Boldest, Most Political Movie Ever\nLiz Shannon Miller",
-      "url": "https://consequence.net/2026/09/digger-review-movie-tom-cruise/",
-      "source": "Consequence.net",
+      "title": "From Fear Set Free",
+      "description": "Humankind cannot bear very much uncertainty; to our dying day, we are all afraid of the dark. And so we perceive the world selectively, exaggerating the significance of particular things, downplaying others, and ignoring most of what bombards our senses, all \u2026",
+      "url": "https://www.nybooks.com/online/2026/09/29/from-fear-set-free-judith-shklar/",
+      "source": "The New York Review of Books",
       "date": "2026-09-29",
-      "image": "https://consequence.net/wp-content/uploads/2026/09/digger-movie-review-tom-cruise-4.jpg",
+      "image": "https://www.nybooks.com/wp-content/uploads/2026/09/lilla092026_2.jpeg",
       "category": "market"
     },
     {
-      "title": "Apple TV unveils trailer for gripping new drama \u2018Nocturne\u2019",
-      "description": "Apple TV on Tuesday released the trailer and key art for \u201cNocturne,\u201d the gripping and highly anticipated drama based on the internationally\u2026\nThe post Apple TV unveils trailer for gripping new drama \u2018Nocturne\u2019 appeared first on MacDailyNews.",
-      "url": "https://macdailynews.com/2026/09/29/apple-tv-unveils-trailer-for-gripping-new-drama-nocturne/",
-      "source": "Macdailynews.com",
+      "title": "Bed Bath & Beyond relaunches in Canada",
+      "description": "Bed Bath &amp; Beyond Inc. is returning to Canada after Canadian operations were wound up in early 2023. Read more",
+      "url": "https://financialpost.com/news/retail-marketing/bed-bath-beyond-relaunches-canada",
+      "source": "Financial Post",
       "date": "2026-09-29",
-      "image": "https://macdailynews.com/wp-content/uploads/2026/09/260929_nocturne.png",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/09/bedbathbeyond-0929-ph.jpg",
       "category": "market"
     },
     {
-      "title": "The 9 best rewards credit cards to add to your wallet",
-      "description": "Newbies and travel pros alike will benefit from having a rewards credit card in their wallets. Here's what you need to know about our top picks.",
-      "url": "https://thepointsguy.com/credit-cards/best-rewards-credit-cards/",
-      "source": "The Points Guy",
+      "title": "Disney Cuts Hundreds More Jobs in New Round of Layoffs",
+      "description": "Disney Cuts Hundreds More Jobs in New Round of Layoffshollywoodreporter.com",
+      "url": "http://www.hollywoodreporter.com/business/business-news/disney-layoffs-corporate-cuts-1236714541/",
+      "source": "Hollywood Reporter",
       "date": "2026-09-29",
-      "image": "https://runway-media-production.global.ssl.fastly.net/us/originals/2024/04/SOCIAL-IMAGE_PARTNER-OFFER-TERMS-APPLY_Family-walking-through-airport-with-luggage_miniseries_SOCIAL.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Central visual field defect patterns and progression in glaucoma: a multicentre 10-year study",
-      "description": "Background/aims To determine whether baseline central visual field defect (CVFD) distribution and archetypal 10\u20132 patterns are associated with subsequent central visual field (VF) progression in glaucoma.\n\nMethods This retrospective multicentre longitudinal c\u2026",
-      "url": "http://bjo.bmj.com/content/early/2026/09/28/bjo-2026-330374",
-      "source": "The BMJ",
-      "date": "2026-09-29",
-      "image": "http://bjo.bmj.com/sites/default/files/highwire/bjophthalmol/110/10.cover-source.jpg",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/05/GettyImages-2183884600-1.jpg?crop=0px%2C332px%2C3332px%2C1864px&resize=1440%2C810",
       "category": "market"
     },
     {
-      "title": "Journalist Meaghan Beatley on Latin America's Feminist Resistance",
-      "description": "Nicole Froio\n\n\n\nA conversation with the author of Sex and Dissent about what American feminists can learn from the Green Wave movement.\r\n\n\r\n\n\nThe post Journalist Meaghan Beatley on Latin America's Feminist Resistance appeared first on The Nation.",
-      "url": "https://www.thenation.com/article/society/beatley-latin-america-feminist-resistance/",
-      "source": "Thenation.com",
+      "title": "Use Google Gemini to Research Vendor Products, Services, and Features",
+      "description": "",
+      "url": "https://www.theinformation.com/articles/use-google-gemini-research-vendor-products-services-features",
+      "source": "The Information",
       "date": "2026-09-29",
-      "image": "https://www.thenation.com/wp-content/uploads/2026/09/Sex-and-Dissent-Author-Photo.jpeg",
+      "image": null,
       "category": "market"
     },
     {
-      "title": "Trump touts America.gov, but government-sourced AI answers undercut many statements",
-      "description": "The Trump administration has launched a revamped website, America",
-      "url": "https://abcnews.com/Technology/wireStory/trump-touts-americagov-government-sourced-ai-answers-undercut-136856593",
-      "source": "Abcnews.com",
+      "title": "F.N.B. Corporation Schedules Third Quarter 2026 Earnings Report and Conference Call",
+      "description": "PITTSBURGH, Sept. 29, 2026 /PRNewswire/ -- F.N.B. Corporation (NYSE: FNB) announced today that it plans to issue financial results for the third quarter of 2026 after the market close on Monday, October 19, 2026. Chairman, President and Chief Executive Office\u2026",
+      "url": "https://www.prnewswire.com/news-releases/fnb-corporation-schedules-third-quarter-2026-earnings-report-and-conference-call-302893291.html",
+      "source": "PRNewswire",
       "date": "2026-09-29",
-      "image": "https://i.abcnewsfe.com/a/92f5ea1d-1233-4975-85d0-cfe6a50d0085/wirestory_ff86fcb161c1fe89538d6ecb294ea353_16x9.jpg?w=1600",
+      "image": "https://mmx.prnewswire.com/media/MS586547/FNB-Corporation-Logo-v4.jpg?id=OA2977291&p=facebook",
       "category": "market"
     },
     {
-      "title": "Privacy Crypto Wallet Is Bringing Anonymous Payments to Stablecoins. Will Regulators Allow It?",
-      "description": "Is this even legal?",
-      "url": "https://gizmodo.com/privacy-crypto-wallet-is-bringing-anonymous-payments-to-stablecoins-will-regulators-allow-it-2000818400",
-      "source": "Gizmodo.com",
+      "title": "Interrailing in middle age: Five countries in a fortnight and not a single airport in sight",
+      "description": "A second chance to discover Europe by rail.",
+      "url": "https://www.nzherald.co.nz/travel/interrailing-in-middle-age-five-countries-in-a-fortnight-and-not-a-single-airport-in-sight/IDQ7IJECHJFAJCIS4LVOF2OJGM/",
+      "source": "New Zealand Herald",
       "date": "2026-09-29",
-      "image": "https://gizmodo.com/app/uploads/2026/09/Crypto-Wallet-with-Anonymous-Stablecoins-e1790690117470-1200x675.jpg",
-      "category": "market"
+      "image": "https://www.nzherald.co.nz/resizer/v2/ULNXS6O5T5DDRGBOGXWLOMD7OM.jpg?auth=075dc794206cbd7adcfe6ca25eb84df5cb9fbf62f298447aea700c144bde17a2&width=1200&height=675&quality=70&focal=808%2C923&smart=false",
+      "category": "currency"
+    },
+    {
+      "title": "Whatever Happened to Trump's Housing Affordability Executive Order?",
+      "description": "The Trump administration revises wonky federal regulations to reduce home construction costs.",
+      "url": "https://reason.com/2026/09/29/whatever-happened-to-trumps-housing-affordability-executive-order/",
+      "source": "Reason",
+      "date": "2026-09-29",
+      "image": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/09/TrumpHousingEO.jpg",
+      "category": "central_bank"
     }
   ],
   "history": [
@@ -496,7 +496,7 @@
       "platinum_usd_oz": 1857.35
     }
   ],
-  "timestamp": "2026-09-30T21:31:29.132770+05:30",
+  "timestamp": "2026-09-30T23:34:51.691467+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
