@@ -1,24 +1,24 @@
 {
   "prices": {
     "gold": {
-      "price_per_gram_inr": 12857.24,
-      "price_usd_oz": 4164.99,
-      "change_percent": 0.18,
-      "change_value_usd": 7.31,
-      "price_per_10g_inr": 128572.43
+      "price_per_gram_inr": 12864.62,
+      "price_usd_oz": 4167.38,
+      "change_percent": 0.23,
+      "change_value_usd": 9.7,
+      "price_per_10g_inr": 128646.21
     },
     "silver": {
-      "price_per_gram_inr": 188.35,
-      "price_usd_oz": 61.02,
-      "change_percent": 0.97,
-      "change_value_usd": 0.59,
-      "price_per_kg_inr": 188352.12
+      "price_per_gram_inr": 187.29,
+      "price_usd_oz": 60.67,
+      "change_percent": 0.4,
+      "change_value_usd": 0.24,
+      "price_per_kg_inr": 187293.28
     },
     "platinum": {
-      "price_per_gram_inr": 5276.02,
-      "price_usd_oz": 1709.12,
-      "change_percent": -0.42,
-      "change_value_usd": -7.16
+      "price_per_gram_inr": 5282.89,
+      "price_usd_oz": 1711.35,
+      "change_percent": -0.29,
+      "change_value_usd": -4.93
     },
     "currencies": {
       "USD_INR": 96.0159,
@@ -30,8 +30,8 @@
       "CAD_INR": 67.593,
       "SGD_INR": 75.1475
     },
-    "gold_silver_ratio": 68.26,
-    "timestamp": "2026-10-01T13:39:55.509877",
+    "gold_silver_ratio": 68.69,
+    "timestamp": "2026-10-01T16:36:46.951072",
     "source": "GoldAPI"
   },
   "currencies": {
@@ -54,7 +54,7 @@
         "hold": 50
       },
       "summary": "Gold is showing mixed signals. Positive daily movement of 0.2%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-01T13:40:01.148074",
+      "timestamp": "2026-10-01T16:36:53.582434",
       "source": "rule-based"
     },
     "silver": {
@@ -65,8 +65,8 @@
         "sell": 25,
         "hold": 50
       },
-      "summary": "Silver is showing mixed signals. Positive daily movement of 1.0%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-01T13:40:01.270236",
+      "summary": "Silver is showing mixed signals. Positive daily movement of 0.4%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
+      "timestamp": "2026-10-01T16:36:53.662906",
       "source": "rule-based"
     },
     "platinum": {
@@ -77,8 +77,8 @@
         "sell": 56,
         "hold": 29
       },
-      "summary": "Platinum is showing negative signals. Slight decline of -0.4%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-01T13:40:01.361640",
+      "summary": "Platinum is showing negative signals. Slight decline of -0.3%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-10-01T16:36:53.769859",
       "source": "rule-based"
     }
   },
@@ -90,13 +90,13 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA above long-term MA (uptrend)",
-        "Weak momentum: -3.3% in 4 weeks"
+        "Weak momentum: -3.2% in 4 weeks"
       ],
       "support": 124137.93,
       "resistance": 140736.5,
-      "current_price": 128572.43,
-      "ma_short": 132603.52,
-      "ma_long": 131540.14,
+      "current_price": 128646.21,
+      "ma_short": 132621.96,
+      "ma_long": 131547.52,
       "trend_score": -2.0
     },
     "silver": {
@@ -106,14 +106,14 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -3.3% in 4 weeks",
+        "Weak momentum: -3.8% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
       "support": 176726.94,
       "resistance": 243170.57,
-      "current_price": 188352.12,
-      "ma_short": 196851.7,
-      "ma_long": 199804.34,
+      "current_price": 187293.28,
+      "ma_short": 196586.99,
+      "ma_long": 199698.46,
       "trend_score": -3.5
     },
     "platinum": {
@@ -123,42 +123,105 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA above long-term MA (uptrend)",
-        "Sideways: -1.6% in 4 weeks"
+        "Sideways: -1.4% in 4 weeks"
       ],
       "support": 4961.56,
       "resistance": 6206.5,
-      "current_price": 5276.02,
-      "ma_short": 5459.66,
-      "ma_long": 5396.94,
+      "current_price": 5282.89,
+      "ma_short": 5461.38,
+      "ma_long": 5397.63,
       "trend_score": -1.0
     }
   },
   "news": [
     {
-      "title": "Sebi asks stock brokers to display investor warnings on apps and websites",
-      "description": "Sebi orders stock brokers to display investor awareness messages on websites and trading apps under Project Jagrook. From November 1, apps must show Sebi messages and risk disclosures on alternate days, strengthening digital investor education and risk communication.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-asks-stock-brokers-to-display-investor-warnings-on-apps-and-websites/articleshow/134620344.cms",
+      "title": "US stocks: US markets dip as surging Treasury yields overshadow software gains",
+      "description": "Wall Street encountered a downturn as escalating Treasury yields affected investor confidence in high-priced stocks. Despite solid performance from the software sector buoyed by favorable earnings, the shadow of rising interest rates looms large. September saw the S&amp;P 500 and Dow post monthly lo",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-markets-dip-as-surging-treasury-yields-overshadow-software-gains/articleshow/134621937.cms",
       "source": "Economic Times Markets",
       "date": "2026-10-01",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "Global bond rout hoists benchmark Indian yield to mid-2024 high before RBI policy",
-      "description": "A significant selloff in Indian government bonds occurred as global yields rose and inflation pressures heightened. The Indian benchmark 10-year yield reached its highest level since April 2024. Traders expect the Reserve Bank of India to announce a rate hike at its upcoming policy meeting next week",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/global-bond-rout-hoists-benchmark-indian-yield-to-mid-2024-high-before-rbi-policy/articleshow/134619359.cms",
+      "title": "UK pound falls to three-month lows as investors fret over rates, oil",
+      "description": "The pound has hit a three-month low against the dollar, triggered by mounting economic apprehensions. Investors are anxious about the effects of soaring oil prices and persistent inflation on market stability. The FTSE 100 index has notably declined, reflecting burdens in government borrowing. Prime",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/uk-pound-falls-to-three-month-lows-as-investors-fret-over-rates-oil/articleshow/134621868.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-10-01",
+      "image": "",
+      "category": "currency"
+    },
+    {
+      "title": "UK 30-year gilt yields top 6% for the first time since 1998",
+      "description": "British 30-year government bond yields have surged to their highest level since early 1998. This surge follows a significant increase in U.S. Treasury yields despite steadied oil prices. Short-dated gilt yields also rose sharply, reflecting concerns about the UK's fiscal vulnerabilities. Investors a",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/uk-30-year-gilt-yields-top-6-for-the-first-time-since-1998/articleshow/134621852.cms",
       "source": "Economic Times Markets",
       "date": "2026-10-01",
       "image": "",
       "category": "central_bank"
     },
     {
-      "title": "Infosys, Wipro ADRs soar up to 8% as strong Accenture earnings forecast lifts mood",
-      "description": "Infosys and Wipro ADRs rallied in US premarket trading after Accenture forecast stronger-than-expected annual revenue growth. Its upbeat outlook eased concerns over global technology spending, while steady consulting, managed-services and AI demand improved sentiment toward Indian IT exporters.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/infosys-wipro-adrs-soar-up-to-8-as-strong-accenture-earnings-forecast-lifts-mood/articleshow/134617937.cms",
-      "source": "Economic Times Markets",
+      "title": "Glitter Bug Gold Buyers Launches Orange County Estate Jewelry Evaluation Initiative - markets.businessinsider.com",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTHZMcWVlVkFPX1hsd3hXd0JhcmREYkd3bmRIaHVfOTY4TF8ybWptd2xQdy1VdXdRcU1QZlhRZzgxdEFvaWNiNzVXQlI0S0N1QlpfYzNvLTBzNFpjRXEzNXlJeldZWWlVTTFaWmJDamUzODdjQjBpTVd2c0VKTVlXRUVWd1paLXI2bjNuRXFwdTNzdi1CcHNSZXdUcVBZRzZ0WUxaNnZiczliMVhPRjFRVEJFdWNxb2wwek",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTHZMcWVlVkFPX1hsd3hXd0JhcmREYkd3bmRIaHVfOTY4TF8ybWptd2xQdy1VdXdRcU1QZlhRZzgxdEFvaWNiNzVXQlI0S0N1QlpfYzNvLTBzNFpjRXEzNXlJeldZWWlVTTFaWmJDamUzODdjQjBpTVd2c0VKTVlXRUVWd1paLXI2bjNuRXFwdTNzdi1CcHNSZXdUcVBZRzZ0WUxaNnZiczliMVhPRjFRVEJFdWNxb2wwekJ0bkFkVFczelM5a3FDcUlVdWRwR1dXSXAxd2ltanFtUQ?oc=5",
+      "source": "Google News - Precious Metals",
       "date": "2026-10-01",
       "image": "",
+      "category": "metals"
+    },
+    {
+      "title": "How the Art of Hospitality is Changing Esports Players\u2019 Lives",
+      "description": "Hans Jagnow reveals how the Esports World Cup is elevating player hospitality, building community, and treating competitive gamers like rock stars.",
+      "url": "http://www.rollingstone.com/music/music-news/how-the-art-of-hospitality-changing-esports-players-lives-1235633130/",
+      "source": "Rolling Stone",
+      "date": "2026-09-30",
+      "image": "https://www.rollingstone.com/wp-content/uploads/2026/09/EWC26-20260823-Competition-_-Tournament-Grand-Final-Generic-_-Other-Counter-Strike-2-TEAM-SPIRIT-FUT-Esports-150523-2-HQ_LargeImage_m98180-2.jpg?w=1600&h=900&crop=1",
+      "category": "market"
+    },
+    {
+      "title": "Meet Archy, the automated MCDONALD'S employee!",
+      "description": "McDonald\u2019s is going back for seconds after its first AI tool rollout failed.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/mcdonalds-spending-8-5-billion-153000377.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-09-30",
+      "image": "https://s.yimg.com/lo/mysterio/api/10ed8c413321a9c6004f15311a102205dcb7542c2eecefad23dd68f59475a969/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2Fc76a5b33a0ef1f5305e37af5f7d37d33.jpg",
+      "category": "market"
+    },
+    {
+      "title": "World Of Warcraft: Forever Isn\u2019t Even Out Yet, But It\u2019s Already Dealing With A Gold Buying Scandal",
+      "description": "Nothing gold can stay",
+      "url": "https://kotaku.com/world-of-warcraft-forever-gold-buying-rmt-2000738402",
+      "source": "Kotaku",
+      "date": "2026-09-30",
+      "image": "https://kotaku.com/app/uploads/2026/09/wow-forever-5-1.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Balochistan- Billions Below, Questions Above",
+      "description": "On September 24, 2026, Reuters placed Balochistan on a much larger global map: the race for critical mineral resources. \nAt a time when governments and corporations are searching for new sources of copper, gold and other strategic metals, Pakistan\u2019s largest \u2026\u2026",
+      "url": "https://www.globalresearch.ca/balochistan-billions-below-questions-above/5942250",
+      "source": "Globalresearch.ca",
+      "date": "2026-09-30",
+      "image": "https://www.globalresearch.ca/wp-content/uploads/2026/09/balochistan.png",
+      "category": "metals"
+    },
+    {
+      "title": "House prices plummet for sixth consecutive month as experts warn of greater falls",
+      "description": "Australian house prices fell for a sixth straight month in September, and the property market is likely to continue experiencing falls of up to 15 per cent in the coming months off the back of higher interest rates and cuts to property tax breaks, experts say.",
+      "url": "https://www.abc.net.au/news/2026-10-01/australian-house-prices-fall-for-sixth-straight-month/107206782",
+      "source": "ABC News (AU)",
+      "date": "2026-09-30",
+      "image": "https://live-production.wcms.abc-cdn.net.au/592030fdc4d7ae61d31302491fc22796?impolicy=wcms_watermark_news&cropH=2784&cropW=4949&xPos=0&yPos=458&width=862&height=485&imformat=generic",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Ball State buried about 3,600 geothermal wells beneath its Indiana campus; the system now heats and cools 47 buildings and saves roughly $2 million a year",
+      "description": "Ball State University has pivoted towards sustainability by replacing its coal-powered boilers with a cutting-edge geothermal energy solution. This ambitious undertaking involved drilling 3,600 wells, enhancing the heating and cooling of 47 campus buildings. \u2026",
+      "url": "https://timesofindia.indiatimes.com/world/us/ball-state-buried-about-3600-geothermal-wells-beneath-its-indiana-campus-the-system-now-heats-and-cools-47-buildings-and-saves-about-2-million-a-year/articleshow/134592404.cms",
+      "source": "The Times of India",
+      "date": "2026-09-30",
+      "image": "https://static.toiimg.com/thumb/msid-134592551,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "category": "geopolitics"
     },
     {
@@ -180,58 +243,13 @@
       "category": "market"
     },
     {
-      "title": "Cam Schlittler, Austin Riley open MLB playoffs in style; Pete Prisco's NFL Power Rankings are out",
-      "description": "Plus our first 2027 WNBA mock draft after a historic night in the postseason",
-      "url": "https://www.cbssports.com/mlb/news/cam-schlittler-austin-riley-open-mlb-playoffs-in-style-pete-priscos-nfl-power-rankings-are-out/",
-      "source": "CBS Sports",
+      "title": "40 Trillion Reasons for Economic Collapse \u2013 Part 1, by Single Farmer",
+      "description": "We finally did it. We crossed 40 trillion dollars ($40,000,000,000,000) in national public debt on August 18, 2026. Congratulations to all the people who said we could get there if our politicians were just a little more irresponsible, foolish, short-sighted,\u2026",
+      "url": "https://activistpost.com/40-trillion-reasons-for-economic-collapse-part-1-by-single-farmer/",
+      "source": "Activistpost.com",
       "date": "2026-09-30",
-      "image": "https://sportshub.cbsistatic.com/i/r/2026/09/30/c7e1eade-277f-4b16-b98d-2be8dd922c26/thumbnail/1200x675/6cb696d8d2780efea887440f380beb77/gettyimages-2297799788-2.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Pearson\u2019s Workera deal targets a big workplace problem: No time to AI upskill",
-      "description": "Pearson has agreed to acquire Workera to help businesses assess employees\u2019 AI skills and target training where it\u2019s needed most.",
-      "url": "https://www.zdnet.com/innovation/pearson-workera-acquisition-ai-upskilling/",
-      "source": "ZDNet",
-      "date": "2026-09-30",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/MacBook_44cad6.jpg",
-      "category": "market"
-    },
-    {
-      "title": "GIFT City eyes direct listings without IPO to deepen equity market, says IFSCA's Pradeep Ramakrishnan",
-      "description": "IFSCA plans to introduce a direct-listing framework at GIFT City within months, allowing companies to list shares without traditional IPOs. The move aims to deepen GIFT IFSC\u2019s equity market, complementing its growing bond, overseas investment and sustainable \u2026",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/gift-city-eyes-direct-listings-without-ipo-to-deepen-equity-market-says-ifscas-pradeep-ramakrishnan/articleshow/134593611.cms",
-      "source": "The Times of India",
-      "date": "2026-09-30",
-      "image": "https://img.etimg.com/thumb/msid-134593667,width-1200,height-900,imgsize-23418,overlay-etmarkets/articleshow.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Generation Mining Announces Acquisition of Shares of Elton Resources Corp.",
-      "description": "TORONTO \u2014 Generation Mining Limited (TSX: GENM) (OTCQB: GENMF) (the \u201cAcquiror\u201d) announces that it has acquired 39,268,426 common shares (each, a \u201cCommon Share\u201c) of Elton Resources Corp. (\u201cElton\u201c) in connection with the completion of the qualifying transaction\u2026",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/generation-mining-announces-acquisition-of-shares-of-elton-resources-corp",
-      "source": "Financial Post",
-      "date": "2026-09-30",
-      "image": null,
-      "category": "supply_demand"
-    },
-    {
-      "title": "The Chrome Hearts Hustle",
-      "description": "Savvy teenagers have figured out how to make millions reselling Chrome Hearts\u2019 impossible-to-buy wares at insane markups.",
-      "url": "http://www.thecut.com/article/chrome-hearts-resellers.html",
-      "source": "The Cut",
-      "date": "2026-09-30",
-      "image": "https://pyxis.nymag.com/v1/imgs/6ad/f6b/106c20a014a84ed6225087b19ad8ebc76b-chrome-hearts-web-01.1x.rsocial.w1200.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Sensex today | Stock Market Highlights: Stock markets fall for 3rd day; Nifty down 96 points, Sensex slips to 72,480",
-      "description": "Sensex, Nifty, Share Prices Highlights: Market benchmark indices Sensex and Nifty ended lower on Wednesday, extending losses for the third straight day, as firm crude oil prices, elevated global bond yields and foreign fund outflows made investors jittery.",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-30-september-2026/article71523523.ece",
-      "source": "BusinessLine",
-      "date": "2026-09-30",
-      "image": "https://bl-i.thgim.com/public/incoming/r1tqyk/article71527298.ece/alternates/LANDSCAPE_1200/Stock%20market%20live",
-      "category": "market"
+      "image": "https://activistpost.com/wp-content/uploads/2026/09/Debt-Clock-Re-Trimmed-2026-711x350-1.jpg",
+      "category": "currency"
     },
     {
       "title": "Archer Jyothi Surekha Vennam Aims For 2028 Olympics After Asian Games Gold",
@@ -250,6 +268,24 @@
       "date": "2026-09-30",
       "image": "https://biztoc.com/cdn/63e5e852b77734ba_s.webp",
       "category": "metals"
+    },
+    {
+      "title": "Generation Mining Announces Acquisition of Shares of Elton Resources Corp.",
+      "description": "TORONTO \u2014 Generation Mining Limited (TSX: GENM) (OTCQB: GENMF) (the \u201cAcquiror\u201d) announces that it has acquired 39,268,426 common shares (each, a \u201cCommon Share\u201c) of Elton Resources Corp. (\u201cElton\u201c) in connection with the completion of the qualifying transaction\u2026",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/generation-mining-announces-acquisition-of-shares-of-elton-resources-corp",
+      "source": "Financial Post",
+      "date": "2026-09-30",
+      "image": null,
+      "category": "supply_demand"
+    },
+    {
+      "title": "Sensex today | Stock Market Highlights: Stock markets fall for 3rd day; Nifty down 96 points, Sensex slips to 72,480",
+      "description": "Sensex, Nifty, Share Prices Highlights: Market benchmark indices Sensex and Nifty ended lower on Wednesday, extending losses for the third straight day, as firm crude oil prices, elevated global bond yields and foreign fund outflows made investors jittery.",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-30-september-2026/article71523523.ece",
+      "source": "BusinessLine",
+      "date": "2026-09-30",
+      "image": "https://bl-i.thgim.com/public/incoming/r1tqyk/article71527298.ece/alternates/LANDSCAPE_1200/Stock%20market%20live",
+      "category": "market"
     },
     {
       "title": "Italpreziosi Official Sponsor of the Gala Dinner at the LBMA & LPPM Global Precious Metals Conference 2026",
@@ -279,129 +315,93 @@
       "category": "currency"
     },
     {
-      "title": "Gold prices rise Rs 1,100/10 gram; silver up Rs 1,050/kg ahead of inflation data. Key levels to track",
-      "description": "Gold and silver prices rebounded on the MCX on Wednesday, snapping a three-day losing streak as investors awaited US inflation data and the Federal Reserve\u2019s policy cues. Expectations of higher interest rates continued to weigh on bullion demand. Traders are \u2026",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-rise-rs-1100/10-gram-silver-up-rs-1050/kg-ahead-of-inflation-data-key-levels-to-track/articleshow/134581772.cms",
-      "source": "The Times of India",
+      "title": "Extreme volatility divergence exposes \u2018fragile footing\u2019 for S&P",
+      "description": "The gap between index-wide calm and single-stock chaos is nothing new for traders, but lately it has grown extreme. Find out more",
+      "url": "https://financialpost.com/investing/extreme-volatility-divergence-exposes-fragile-footing",
+      "source": "Financial Post",
       "date": "2026-09-30",
-      "image": "https://img.etimg.com/thumb/msid-134581829,width-1200,height-630,imgsize-88148,overlay-etmarkets/articleshow.jpg",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/09/1001-mg-sp-trader.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Introducing The Information Exchange on Solana, Powered by Decrypt and MYR",
+      "description": "Decrypt is the destination, Myriad is the infrastructure and MYR is the token for a connected media ecosystem.",
+      "url": "https://decrypt.co/379655/introducing-the-information-exchange-powered-by-decrypt-and-myr",
+      "source": "Decrypt",
+      "date": "2026-09-30",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2028/09/decrypt-Information-Exchange-article-gID_7.png",
+      "category": "market"
+    },
+    {
+      "title": "NFL slashes ticket prices for London game amid sluggish sales... as fans who paid full price are left fuming",
+      "description": "League bosses took the unusual step of discounting remaining seats for the showdown in an effort to fill the 62,000-seat Tottenham Hotspur Stadium ahead of Sunday's showdown.",
+      "url": "https://www.dailymail.com/sport/nfl/article-16172967/nfl-ticket-prices-slashed-london.html",
+      "source": "Dailymail.com",
+      "date": "2026-09-30",
+      "image": "https://i.dailymail.com/1s/2026/09/30/17/111570643-0-image-a-31_1790785981464.jpg",
+      "category": "market"
+    },
+    {
+      "title": "How HBO\u2019s Casey Bloys Wound Up With the Keys to Paramount-Warner Bros.\u2019 Streaming Empire, and What\u2019s to Come",
+      "description": "In the end, Casey Bloys knew he was holding all the cards. As the industry continued to speculate about whether the HBO boss or Paramount\u2019s Cindy Holland would wind up with control of the two companies\u2019 soon-to-be-merged streaming behemoth, in recent weeks th\u2026",
+      "url": "https://variety.com/2026/tv/news/casey-bloys-paramount-warner-bros-streaming-1236893688/",
+      "source": "Variety",
+      "date": "2026-09-30",
+      "image": "https://variety.com/wp-content/uploads/2023/03/Casey-Bloys.jpg?w=1000&h=563&crop=1",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Sportico Unveils Invest London Speaker Agenda",
+      "description": "Invest London will convene leaders across sports, finance, media and technology to explore where the industry\u2019s next wave of growth will come from.",
+      "url": "https://www.sportico.com/business/finance/2026/sportico-unveils-invest-london-speaker-agenda-1234946245/",
+      "source": "Sportico.com",
+      "date": "2026-09-30",
+      "image": "https://www.sportico.com/wp-content/uploads/2026/09/IL-PROMO-DOTCOM.png?w=1024",
+      "category": "market"
+    },
+    {
+      "title": "Wrong to 'leap to judgment' over Manchester City verdict \u2013 Burnham",
+      "description": "UK Prime Minister Andy Burnham has said it would be wrong to \u201cleap to judgment\u201d about Manchester City, and he is confident his dealings with the club while mayor of Greater Manchester stand up to scrutiny. He said the club, found guilty of charges related to \u2026",
+      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260930-930-770311/",
+      "source": "Dpa-international.com",
+      "date": "2026-09-30",
+      "image": "https://s.yimg.com/lo/mysterio/api/8f0ecfae7128e6651d0f621d918dfa34a9dbdc3938e3556ca3e51a3b00bcf3a0/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F5ab1a146ec2a4edbf8fbfadc197de087.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Pentagon says US troop withdrawal from Iraq is complete",
+      "description": "The withdrawal ends two decades of foreign intervention in Iraq as part of 'global war on terror' and anti-ISIL fight.",
+      "url": "https://www.aljazeera.com/news/2026/9/30/pentagon-says-us-troop-withdrawal-from-iraq-is-complete",
+      "source": "Al Jazeera English",
+      "date": "2026-09-30",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6abd2ef7d1-1790783223.jpg?resize=1920%2C1440",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Trump to begin sending $500 ACA refund checks to 1 million Americans",
+      "description": "The Trump administration on Wednesday began mailing $500 checks to more than 950,000 Americans who bought health insurance through the Affordable Care Act's federal marketplace.\u00a0The administration says the payments are being sent to families who were overchar\u2026",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/trump-to-send-500-aca-refund-checks-to-roughly-1-million-americans-163350463.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-09-30",
+      "image": "https://s.yimg.com/lo/mysterio/api/d9e93da8f4b9b096e33e846f10d49d8f6cbacf01cfe01c5310a635321638f766/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F8bfb85e3-8059-4099-9d7f-9115ccdb4893",
       "category": "central_bank"
     },
     {
-      "title": "Texas Stock Exchange raises US$155 million after first listings",
-      "description": "The parent company of the Texas Stock Exchange raised US$155 million in a third funding round, bolstering its financial firepower. Read here",
-      "url": "https://financialpost.com/investing/texas-stock-exchange-raises-us155-million",
-      "source": "Financial Post",
+      "title": "NHIA, Senate push health taxes to fund healthcare, fight diseases",
+      "description": "The National Health Insurance Authority and the Senate are pushing for stronger health tax reforms to fund healthcare and fight non-communicable diseases.\n\nRead More: https://punchng.com/nhia-senate-push-health-taxes-to-fund-healthcare-fight-diseases/",
+      "url": "https://punchng.com/nhia-senate-push-health-taxes-to-fund-healthcare-fight-diseases/",
+      "source": "The Punch",
       "date": "2026-09-30",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/09/1001-mg-TXSE.png",
+      "image": "https://punchng.com/wp-content/uploads/2026/08/NHIA-LARGE_1786101230.webp",
       "category": "market"
     },
     {
-      "title": "Heliot Emil\u2019s Julius Juul Launches Natural Activewear Line\u00a0444",
-      "description": "Julius Juul's 444 redefines activewear with sustainable, bio-based fabrics like lyocell and hemp, merging performance, style, and eco-conscious design.",
-      "url": "http://wwd.com/sustainability/materials/heliot-emil-julius-juul-launches-444-sustainable-activewear-1239289501/",
-      "source": "WWD",
+      "title": "Trump administration starts sending $500 Obamacare refund checks \u2014 who stands to benefit",
+      "description": "The refunds come after millions of people lost premium subsidies for their health insurance, and right before the midterm elections.",
+      "url": "https://www.cnbc.com/2026/09/30/obamacare-aca-refund-checks.html",
+      "source": "CNBC",
       "date": "2026-09-30",
-      "image": "https://wwd.com/wp-content/uploads/2026/09/img20260928_02204251-2-copyA-1.jpg?crop=0px%2C150px%2C1486px%2C832px&resize=1000%2C563",
-      "category": "market"
-    },
-    {
-      "title": "Over 90% of common household items contain hazardous plastic chemicals",
-      "description": "By Sandee LaMotte, CNN (CNN) \u2014 Nearly 93% of known plastic chemicals used to wrap food and make clothes, toys, and other common household and",
-      "url": "https://krdo.com/news/2026/09/29/over-90-of-common-household-items-contain-hazardous-plastic-chemicals/",
-      "source": "KRDO",
-      "date": "2026-09-30",
-      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
-      "category": "market"
-    },
-    {
-      "title": "The Geopolitics of AI in the Asia-Pacific",
-      "description": "Insights from Jouko Ahvenainen.",
-      "url": "https://thediplomat.com/2026/09/the-geopolitics-of-ai-in-the-asia-pacific/",
-      "source": "The Diplomat",
-      "date": "2026-09-30",
-      "image": "https://thediplomat.com/wp-content/uploads/2026/09/sizes/td-story-s-2/thediplomat_2026-09-30-223959.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Telit Cinterion and Commstar Radio Partner to Bring Multi-Network Connectivity to Municipal and Critical Infrastructure Operations",
-      "description": "Telit Cinterion's NExT\u2122 connectivity solutions provide reliable coverage and secure communications for Commstar Radio's customers across urban, rural and hard-to-reach environments Commstar Radio selected Telit Cinterion to deliver secure, resilient and scala\u2026",
-      "url": "https://www.prnewswire.com/news-releases/telit-cinterion-and-commstar-radio-partner-to-bring-multi-network-connectivity-to-municipal-and-critical-infrastructure-operations-302894429.html",
-      "source": "PRNewswire",
-      "date": "2026-09-30",
-      "image": "https://mmx.prnewswire.com/media/MS772312/Telit-Logo-v1.jpg?id=OA2979616&p=facebook",
-      "category": "market"
-    },
-    {
-      "title": "Parton welcomes fans to her museum with video message",
-      "description": "Dolly Parton has addressed fans from beyond the grave for the opening of the new museum about her life.",
-      "url": "https://www.rte.ie/entertainment/2026/0930/1593517-parton-welcomes-fans-to-her-museum-with-video-message/",
-      "source": "RTE",
-      "date": "2026-09-30",
-      "image": "https://www.rte.ie/images/0024e5a8-1600.jpg",
-      "category": "market"
-    },
-    {
-      "title": "CoLab Reveals Broad Vision for Generative Engineering, With Release of Generative Artifacts to Be Quickly Followed by Generative CAD",
-      "description": "ST. JOHN\u2019S, Newfoundland and Labrador \u2014 Today, CoLab revealed its vision for generative engineering, announcing the release of a new capability called generative artifacts and setting a date for the launch of a generative CAD product in H1 2027. \u201cThere is a l\u2026",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/colab-reveals-broad-vision-for-generative-engineering-with-release-of-generative-artifacts-to-be-quickly-followed-by-generative-cad",
-      "source": "Financial Post",
-      "date": "2026-09-30",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "Lucen Software Announces General Availability of Lucen Flowchart, an AI-Assisted, PowerPoint-Native Flowchart Builder and Editor",
-      "description": "Lucen Flowchart makes complex processes clear in PowerPoint \u2013 teams can edit diagrams directly as steps, responsibilities, and workflows evolve, without rebuilding or re-exporting them. AUSTIN, Texas \u2014 Lucen Software today announced that Lucen Flowchart, the \u2026",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/lucen-software-announces-general-availability-of-lucen-flowchart-an-ai-assisted-powerpoint-native-flowchart-builder-and-editor",
-      "source": "Financial Post",
-      "date": "2026-09-30",
-      "image": null,
-      "category": "geopolitics"
-    },
-    {
-      "title": "PEEHIP director warns Washington quadrupled Medicare drug costs and Alabama is stuck with the tab",
-      "description": "PEEHIP director David Wales says the Inflation Reduction Act made Medicare drug coverage four times more expensive for Alabama's 350,000-member plan.",
-      "url": "https://yellowhammernews.com/peehip-director-warns-washington-quadrupled-medicare-drug-costs-and-alabama-is-stuck-with-the-tab/",
-      "source": "Yellowhammer News",
-      "date": "2026-09-30",
-      "image": "https://yellowhammernews.com/wp-content/uploads/2024/03/RSA-Retirement-System-of-Alabama-Prescription-Drug-Costs.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Florida attorney general asks judge to bar OpenAI from developing new AI models without third-party approval",
-      "description": "Florida asked a court to bar OpenAI from developing new AI models without third-party approval and to keep minors off ChatGPT.",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/florida-attorney-general-asks-judge-to-bar-openai-from-developing-new-ai-models-without-third-party-approval-openai-says-it-already-paused-training-its-most-capable-models-last-week",
-      "source": "Tom's Hardware UK",
-      "date": "2026-09-30",
-      "image": "https://cdn.mos.cms.futurecdn.net/H42sibRfJNFqKNXoKoDFWn-1280-80.png",
-      "category": "market"
-    },
-    {
-      "title": "Wayfinder Family Services Holds First-Ever Kinship Summit During National Kinship Care Month",
-      "description": "SACRAMENTO, Calif., Sept. 30, 2026 /PRNewswire/ -- Wayfinder Family Services, a California nonprofit serving nearly 26,000 individuals annually statewide, held its first virtual Kinship Summit, bringing together kinship caregivers, caseworkers, supervisors, c\u2026",
-      "url": "https://www.prnewswire.com/news-releases/wayfinder-family-services-holds-first-ever-kinship-summit-during-national-kinship-care-month-302893629.html",
-      "source": "PRNewswire",
-      "date": "2026-09-30",
-      "image": "https://mmx.prnewswire.com/media/MS1024193/Wayfinder-Logo.jpg?id=OA2978429&p=facebook",
-      "category": "market"
-    },
-    {
-      "title": "Trump's tariffs are back in court \u2014 again",
-      "description": "Containers are seen at the container terminal of Nanjing Port, in China's eastern Jiangsu province on September 8, 2026. Most Chinese goods shipped to the United States have faced a minimum 12.5% tax. - AFP/Getty Images\r\nHere we go again: President Donald Tru\u2026",
-      "url": "https://finance.yahoo.com/economy/policy/articles/trump-tariffs-back-court-again-090029904.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-09-30",
-      "image": "https://s.yimg.com/lo/mysterio/api/926fd5d7406e975ffdb5c6bbb9822e51884b4184c1ee52ef51c8281dea70ca80/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_business_articles_218%2F21013df43f5b3bb2cd67ce97cf229b6d.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Ken Paxton Caught Privately Trashing Trump in Leaked Audio",
-      "description": "In a leaked audio recording, Texas Attorney General and Republican Senate nominee Ken Paxton privately admitted that President Donald Trump\u2019s disastrous midterm convention in Dallas hurt Republican candidates.At a private fundraiser in Washington last Thursda\u2026",
-      "url": "https://newrepublic.com/post/216014/ken-paxton-caught-privately-trashing-trump-leaked-audio",
-      "source": "The New Republic",
-      "date": "2026-09-30",
-      "image": "https://images.newrepublic.com/142bd0f8bcf5f276a465c899dedd43bdb5f6ed9e.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "image": "https://image.cnbcfm.com/api/v1/image/108370343-1790783062486-gettyimages-2297724134-kbd14743_rhxmkc0e.jpeg?v=1790783100&w=1920&h=1080",
       "category": "market"
     }
   ],
@@ -499,15 +499,15 @@
     {
       "date": "2026-10-01",
       "week": "2026-W40",
-      "gold_10g": 128572.43,
-      "silver_kg": 188352.12,
-      "platinum_g": 5276.02,
-      "gold_usd_oz": 4164.99,
-      "silver_usd_oz": 61.02,
-      "platinum_usd_oz": 1709.12
+      "gold_10g": 128646.21,
+      "silver_kg": 187293.28,
+      "platinum_g": 5282.89,
+      "gold_usd_oz": 4167.38,
+      "silver_usd_oz": 60.67,
+      "platinum_usd_oz": 1711.35
     }
   ],
-  "timestamp": "2026-10-01T19:10:01.371963+05:30",
+  "timestamp": "2026-10-01T22:06:53.778329+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
