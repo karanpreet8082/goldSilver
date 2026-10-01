@@ -1,24 +1,24 @@
 {
   "prices": {
     "gold": {
-      "price_per_gram_inr": 12864.62,
-      "price_usd_oz": 4167.38,
-      "change_percent": 0.23,
-      "change_value_usd": 9.7,
-      "price_per_10g_inr": 128646.21
+      "price_per_gram_inr": 12880.87,
+      "price_usd_oz": 4172.65,
+      "change_percent": 0.36,
+      "change_value_usd": 14.97,
+      "price_per_10g_inr": 128808.74
     },
     "silver": {
-      "price_per_gram_inr": 187.29,
-      "price_usd_oz": 60.67,
-      "change_percent": 0.4,
-      "change_value_usd": 0.24,
-      "price_per_kg_inr": 187293.28
+      "price_per_gram_inr": 187.4,
+      "price_usd_oz": 60.7,
+      "change_percent": 0.46,
+      "change_value_usd": 0.28,
+      "price_per_kg_inr": 187395.16
     },
     "platinum": {
-      "price_per_gram_inr": 5282.89,
-      "price_usd_oz": 1711.35,
-      "change_percent": -0.29,
-      "change_value_usd": -4.93
+      "price_per_gram_inr": 5296.21,
+      "price_usd_oz": 1715.66,
+      "change_percent": -0.04,
+      "change_value_usd": -0.62
     },
     "currencies": {
       "USD_INR": 96.0159,
@@ -30,8 +30,8 @@
       "CAD_INR": 67.593,
       "SGD_INR": 75.1475
     },
-    "gold_silver_ratio": 68.69,
-    "timestamp": "2026-10-01T16:36:46.951072",
+    "gold_silver_ratio": 68.74,
+    "timestamp": "2026-10-01T18:32:21.234041",
     "source": "GoldAPI"
   },
   "currencies": {
@@ -53,8 +53,8 @@
         "sell": 25,
         "hold": 50
       },
-      "summary": "Gold is showing mixed signals. Positive daily movement of 0.2%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-01T16:36:53.582434",
+      "summary": "Gold is showing mixed signals. Positive daily movement of 0.4%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
+      "timestamp": "2026-10-01T18:32:30.708021",
       "source": "rule-based"
     },
     "silver": {
@@ -65,8 +65,8 @@
         "sell": 25,
         "hold": 50
       },
-      "summary": "Silver is showing mixed signals. Positive daily movement of 0.4%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-01T16:36:53.662906",
+      "summary": "Silver is showing mixed signals. Positive daily movement of 0.5%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
+      "timestamp": "2026-10-01T18:32:30.797024",
       "source": "rule-based"
     },
     "platinum": {
@@ -77,8 +77,8 @@
         "sell": 56,
         "hold": 29
       },
-      "summary": "Platinum is showing negative signals. Slight decline of -0.3%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-01T16:36:53.769859",
+      "summary": "Platinum is showing negative signals. Slight decline of -0.0%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-10-01T18:32:30.873924",
       "source": "rule-based"
     }
   },
@@ -90,13 +90,13 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA above long-term MA (uptrend)",
-        "Weak momentum: -3.2% in 4 weeks"
+        "Weak momentum: -3.1% in 4 weeks"
       ],
       "support": 124137.93,
       "resistance": 140736.5,
-      "current_price": 128646.21,
-      "ma_short": 132621.96,
-      "ma_long": 131547.52,
+      "current_price": 128808.74,
+      "ma_short": 132662.59,
+      "ma_long": 131563.77,
       "trend_score": -2.0
     },
     "silver": {
@@ -111,9 +111,9 @@
       ],
       "support": 176726.94,
       "resistance": 243170.57,
-      "current_price": 187293.28,
-      "ma_short": 196586.99,
-      "ma_long": 199698.46,
+      "current_price": 187395.16,
+      "ma_short": 196612.46,
+      "ma_long": 199708.64,
       "trend_score": -3.5
     },
     "platinum": {
@@ -123,17 +123,35 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA above long-term MA (uptrend)",
-        "Sideways: -1.4% in 4 weeks"
+        "Sideways: -1.2% in 4 weeks"
       ],
       "support": 4961.56,
       "resistance": 6206.5,
-      "current_price": 5282.89,
-      "ma_short": 5461.38,
-      "ma_long": 5397.63,
+      "current_price": 5296.21,
+      "ma_short": 5464.7,
+      "ma_long": 5398.96,
       "trend_score": -1.0
     }
   },
   "news": [
+    {
+      "title": "Why are world bond markets selling off again?",
+      "description": "As inflation fears and mounting debt pressure rise, government borrowing costs have soared to unprecedented levels. The US Treasury yield, now the highest since 2002, signifies a shift in global market dynamics. These increasing bond yields adversely affect loans for families and businesses, posing ",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-are-world-bond-markets-selling-off-again/articleshow/134625028.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-10-01",
+      "image": "",
+      "category": "central_bank"
+    },
+    {
+      "title": "Global markets rattled as bond yields surge, offsetting AI-stock optimism",
+      "description": "Global bond market volatility led to declines in stock indexes, with the S&amp;P 500 on track for consistent losses. Oil prices rose, contributing to persistent inflation, while economic reports indicated US resilience despite challenges. The 10-year Treasury yield hovered near a 2002 high, raising ",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-markets-rattled-as-bond-yields-surge-offsetting-ai-stock-optimism/articleshow/134623833.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-10-01",
+      "image": "",
+      "category": "inflation"
+    },
     {
       "title": "US stocks: US markets dip as surging Treasury yields overshadow software gains",
       "description": "Wall Street encountered a downturn as escalating Treasury yields affected investor confidence in high-priced stocks. Despite solid performance from the software sector buoyed by favorable earnings, the shadow of rising interest rates looms large. September saw the S&amp;P 500 and Dow post monthly lo",
@@ -171,6 +189,51 @@
       "category": "metals"
     },
     {
+      "title": "Astrologer Ashok Kharat in Nashik police custody in cheating case",
+      "description": "Astrologer Ashok Kharat remanded to Nashik police custody till Oct 2 in cheating and Black Magic Act case over Rs 2.6 lakh, gold rings fraud.",
+      "url": "https://timesofindia.indiatimes.com/city/nashik/astrologer-ashok-kharat-in-nashik-police-custody-in-cheating-case/articleshow/134600832.cms",
+      "source": "The Times of India",
+      "date": "2026-09-30",
+      "image": "https://static.toiimg.com/thumb/msid-134600831,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "Fire destroys house at Arpora, family escapes unhurt",
+      "description": "Fire destroys Arpora house in Tambudki; family escapes unhurt. Household items, furniture, gold and cash lost; fire likely started from palm fronds.",
+      "url": "https://timesofindia.indiatimes.com/city/goa/fire-destroys-house-at-arpora-family-escapes-unhurt/articleshow/134600733.cms",
+      "source": "The Times of India",
+      "date": "2026-09-30",
+      "image": "https://static.toiimg.com/thumb/msid-134600732,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "First Quantum Provides Update on Cobre Panam\u00e1",
+      "description": "TORONTO, Sept. 30, 2026 (GLOBE NEWSWIRE) \u2014 First Quantum Minerals Ltd. (\u201cFirst Quantum\u201d or the \u201cCompany\u201d) (TSX: FM) notes the submission of the studies, analysis and comprehensive audit report of Cobre Panam\u00e1 and its recommendations by the Ministerial Commiss\u2026",
+      "url": "https://financialpost.com/globe-newswire/first-quantum-provides-update-on-cobre-panama-3",
+      "source": "Financial Post",
+      "date": "2026-09-30",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "Will the Dyson AirstraIt Work for You? We Tested it on 5 Different Hair Types",
+      "description": "This Dyson Airstrait review breaks down how the wet-to-dry straightener works on five hair types, from 4b curls to ultra-fine straight hair.",
+      "url": "https://www.cosmopolitan.com/style-beauty/beauty/a73959331/dyson-airstrait-reviews/",
+      "source": "Cosmopolitan.com",
+      "date": "2026-09-30",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/33f4027c-1808-45f5-88f6-7a8843a24f69.jpg?crop=1xw:1.0xh;center,top&resize=1200:*",
+      "category": "market"
+    },
+    {
+      "title": "Tether Just Minted Nearly Half a Billion in Gold",
+      "description": "On-chain analytics firm Arkham shows that this time, the company minted its XAUt tokens, its flagship gold-backed digital currency.",
+      "url": "https://zycrypto.com/tether-just-minted-nearly-half-a-billion-in-gold/",
+      "source": "ZyCrypto",
+      "date": "2026-09-30",
+      "image": "https://zycrypto.com/wp-content/uploads/2026/04/Tether-Holders-Are-Vanishing-Fast-\u2014-Is-This-the-Crypto-Market-Bottom-Signal.jpg",
+      "category": "currency"
+    },
+    {
       "title": "How the Art of Hospitality is Changing Esports Players\u2019 Lives",
       "description": "Hans Jagnow reveals how the Esports World Cup is elevating player hospitality, building community, and treating competitive gamers like rock stars.",
       "url": "http://www.rollingstone.com/music/music-news/how-the-art-of-hospitality-changing-esports-players-lives-1235633130/",
@@ -196,51 +259,6 @@
       "date": "2026-09-30",
       "image": "https://kotaku.com/app/uploads/2026/09/wow-forever-5-1.jpg",
       "category": "geopolitics"
-    },
-    {
-      "title": "Balochistan- Billions Below, Questions Above",
-      "description": "On September 24, 2026, Reuters placed Balochistan on a much larger global map: the race for critical mineral resources. \nAt a time when governments and corporations are searching for new sources of copper, gold and other strategic metals, Pakistan\u2019s largest \u2026\u2026",
-      "url": "https://www.globalresearch.ca/balochistan-billions-below-questions-above/5942250",
-      "source": "Globalresearch.ca",
-      "date": "2026-09-30",
-      "image": "https://www.globalresearch.ca/wp-content/uploads/2026/09/balochistan.png",
-      "category": "metals"
-    },
-    {
-      "title": "House prices plummet for sixth consecutive month as experts warn of greater falls",
-      "description": "Australian house prices fell for a sixth straight month in September, and the property market is likely to continue experiencing falls of up to 15 per cent in the coming months off the back of higher interest rates and cuts to property tax breaks, experts say.",
-      "url": "https://www.abc.net.au/news/2026-10-01/australian-house-prices-fall-for-sixth-straight-month/107206782",
-      "source": "ABC News (AU)",
-      "date": "2026-09-30",
-      "image": "https://live-production.wcms.abc-cdn.net.au/592030fdc4d7ae61d31302491fc22796?impolicy=wcms_watermark_news&cropH=2784&cropW=4949&xPos=0&yPos=458&width=862&height=485&imformat=generic",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Ball State buried about 3,600 geothermal wells beneath its Indiana campus; the system now heats and cools 47 buildings and saves roughly $2 million a year",
-      "description": "Ball State University has pivoted towards sustainability by replacing its coal-powered boilers with a cutting-edge geothermal energy solution. This ambitious undertaking involved drilling 3,600 wells, enhancing the heating and cooling of 47 campus buildings. \u2026",
-      "url": "https://timesofindia.indiatimes.com/world/us/ball-state-buried-about-3600-geothermal-wells-beneath-its-indiana-campus-the-system-now-heats-and-cools-47-buildings-and-saves-about-2-million-a-year/articleshow/134592404.cms",
-      "source": "The Times of India",
-      "date": "2026-09-30",
-      "image": "https://static.toiimg.com/thumb/msid-134592551,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Where Are India's Asian Games Golds?",
-      "description": "If India's medal tally ultimately falls significantly short of Hangzhou, the conversation should not stop with the athletes or coaches. It should extend to a much more uncomfortable institutional question: After years of increased investment, programmes, infr\u2026",
-      "url": "https://www.rediff.com/sports/column/where-are-indias-golds-the-asian-games-questions-we-arent-asking/20260930.htm",
-      "source": "Rediff.com",
-      "date": "2026-09-30",
-      "image": "https://im.rediff.com/1200-630/sports/2026/sep/28murali-sree.JPG",
-      "category": "metals"
-    },
-    {
-      "title": "Monetization Gateway beta: charge AI agents for consumption with HTTP 402",
-      "description": "Cloudflare\u2019s AI Gateway, Ceramic.ai, Stocktwits, and more are using the Cloudflare Monetization Gateway today to charge agents for access to tokens, APIs, and MCP tools. U.S.-based sellers can now apply for access to the closed beta.",
-      "url": "https://blog.cloudflare.com/monetization-gateway-beta/",
-      "source": "Cloudflare.com",
-      "date": "2026-09-30",
-      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M3QM86RXS1HJ5FFQFDS9H202.01M3QM87FTT14MEN8NZ2FWWRTP.png",
-      "category": "market"
     },
     {
       "title": "40 Trillion Reasons for Economic Collapse \u2013 Part 1, by Single Farmer",
@@ -315,93 +333,75 @@
       "category": "currency"
     },
     {
-      "title": "Extreme volatility divergence exposes \u2018fragile footing\u2019 for S&P",
-      "description": "The gap between index-wide calm and single-stock chaos is nothing new for traders, but lately it has grown extreme. Find out more",
-      "url": "https://financialpost.com/investing/extreme-volatility-divergence-exposes-fragile-footing",
-      "source": "Financial Post",
+      "title": "Tungsten Debuts Tool to Streamline Invoice-to-Pay Automation",
+      "description": "Tungsten Automation has introduced the accounts payable automation engine for its invoice-to-pay platform.\nThe workflow automation company\u2019s new InvoiceAgility+ is designed to use agentic artificial intelligence (AI) to provide end-to-end invoice-to-pay autom\u2026",
+      "url": "https://biztoc.com/x/5e2eebdd40be6a30",
+      "source": "Biztoc.com",
       "date": "2026-09-30",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/09/1001-mg-sp-trader.jpg",
+      "image": "https://biztoc.com/cdn/996/og.png",
       "category": "market"
     },
     {
-      "title": "Introducing The Information Exchange on Solana, Powered by Decrypt and MYR",
-      "description": "Decrypt is the destination, Myriad is the infrastructure and MYR is the token for a connected media ecosystem.",
-      "url": "https://decrypt.co/379655/introducing-the-information-exchange-powered-by-decrypt-and-myr",
-      "source": "Decrypt",
+      "title": "October\u2019s Jordan Retro Line-Up Includes Halloween Heat And More",
+      "description": "Jordan Brand is embracing the darker side of Fall with its October 2026 release calendar. Summer is way behind us, fashion sense shifts to darker...\n\n\u00a9 Sneaker News, 2026. |\nPermalink\n|\nNo comment\n|\nAdd todel.icio.us\n\n\nThe post October's Jordan Retro Line-Up \u2026",
+      "url": "https://sneakernews.com/2026/09/30/air-jordan-release-dates-october-2026/",
+      "source": "Sneaker News",
       "date": "2026-09-30",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2028/09/decrypt-Information-Exchange-article-gID_7.png",
+      "image": "https://sneakernews.com/wp-content/uploads/2026/09/jordan-release-dates-october-2026.jpg",
       "category": "market"
     },
     {
-      "title": "NFL slashes ticket prices for London game amid sluggish sales... as fans who paid full price are left fuming",
-      "description": "League bosses took the unusual step of discounting remaining seats for the showdown in an effort to fill the 62,000-seat Tottenham Hotspur Stadium ahead of Sunday's showdown.",
-      "url": "https://www.dailymail.com/sport/nfl/article-16172967/nfl-ticket-prices-slashed-london.html",
-      "source": "Dailymail.com",
+      "title": "Darjeeling 'Toy Train' chugs into top 50 global destinations in 2027",
+      "description": "The Darjeeling Himalayan Railway (DHR) has been named among Lonely Planet\u2019s 50 Best in Travel 2027 destinations, with Darjeeling recognised as a top destination for a toy-train journey.",
+      "url": "https://economictimes.indiatimes.com/news/india/darjeeling-toy-train-chugs-into-top-50-global-destinations-in-2027/articleshow/134600851.cms",
+      "source": "The Times of India",
       "date": "2026-09-30",
-      "image": "https://i.dailymail.com/1s/2026/09/30/17/111570643-0-image-a-31_1790785981464.jpg",
+      "image": "https://img.etimg.com/thumb/msid-134600900,width-1200,height-900,imgsize-184772,overlay-economictimes/articleshow.jpg",
       "category": "market"
     },
     {
-      "title": "How HBO\u2019s Casey Bloys Wound Up With the Keys to Paramount-Warner Bros.\u2019 Streaming Empire, and What\u2019s to Come",
-      "description": "In the end, Casey Bloys knew he was holding all the cards. As the industry continued to speculate about whether the HBO boss or Paramount\u2019s Cindy Holland would wind up with control of the two companies\u2019 soon-to-be-merged streaming behemoth, in recent weeks th\u2026",
-      "url": "https://variety.com/2026/tv/news/casey-bloys-paramount-warner-bros-streaming-1236893688/",
-      "source": "Variety",
+      "title": "7 Perfect Netflix Sci-Fi Shows Worth Watching Over and Over",
+      "description": "Netflix has some seriously underrated sci-fi gems that are compelling to watch, whether it's the first time or the hundredth time, they always land.",
+      "url": "https://screenrant.com/netflix-sci-fi-shows-worth-rewatching/",
+      "source": "Screen Rant",
       "date": "2026-09-30",
-      "image": "https://variety.com/wp-content/uploads/2023/03/Casey-Bloys.jpg?w=1000&h=563&crop=1",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Sportico Unveils Invest London Speaker Agenda",
-      "description": "Invest London will convene leaders across sports, finance, media and technology to explore where the industry\u2019s next wave of growth will come from.",
-      "url": "https://www.sportico.com/business/finance/2026/sportico-unveils-invest-london-speaker-agenda-1234946245/",
-      "source": "Sportico.com",
-      "date": "2026-09-30",
-      "image": "https://www.sportico.com/wp-content/uploads/2026/09/IL-PROMO-DOTCOM.png?w=1024",
+      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/09/tuppence-middleton-as-riley-blue-in-sense8.jpg?w=1600&h=900&fit=crop",
       "category": "market"
     },
     {
-      "title": "Wrong to 'leap to judgment' over Manchester City verdict \u2013 Burnham",
-      "description": "UK Prime Minister Andy Burnham has said it would be wrong to \u201cleap to judgment\u201d about Manchester City, and he is confident his dealings with the club while mayor of Greater Manchester stand up to scrutiny. He said the club, found guilty of charges related to \u2026",
-      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260930-930-770311/",
-      "source": "Dpa-international.com",
+      "title": "mcp-bruno added to PyPI",
+      "description": "MCP server for running and inspecting Bruno API collections",
+      "url": "https://pypi.org/project/mcp-bruno/",
+      "source": "Pypi.org",
       "date": "2026-09-30",
-      "image": "https://s.yimg.com/lo/mysterio/api/8f0ecfae7128e6651d0f621d918dfa34a9dbdc3938e3556ca3e51a3b00bcf3a0/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F5ab1a146ec2a4edbf8fbfadc197de087.jpg",
+      "image": null,
       "category": "market"
     },
     {
-      "title": "Pentagon says US troop withdrawal from Iraq is complete",
-      "description": "The withdrawal ends two decades of foreign intervention in Iraq as part of 'global war on terror' and anti-ISIL fight.",
-      "url": "https://www.aljazeera.com/news/2026/9/30/pentagon-says-us-troop-withdrawal-from-iraq-is-complete",
-      "source": "Al Jazeera English",
+      "title": "Fortune Media and Great Place To Work Name Roth Staffing Companies to 2026 Best Workplaces in Consulting & Professional Services List, Ranking No. 3 in Small/Medium Category",
+      "description": "ORANGE, Calif., Sept. 30, 2026 /PRNewswire/ -- Great Place To Work\u00ae and Fortune magazine have selected Roth Staffing Companies for the 2026 Fortune Best Workplaces in Consulting & Professional Services\u2122 List. This is Roth Staffing's 10th time being named to t\u2026",
+      "url": "https://www.prnewswire.com/news-releases/fortune-media-and-great-place-to-work-name-roth-staffing-companies-to-2026-best-workplaces-in-consulting--professional-services-list-ranking-no-3-in-smallmedium-category-302894651.html",
+      "source": "PRNewswire",
       "date": "2026-09-30",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6abd2ef7d1-1790783223.jpg?resize=1920%2C1440",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Trump to begin sending $500 ACA refund checks to 1 million Americans",
-      "description": "The Trump administration on Wednesday began mailing $500 checks to more than 950,000 Americans who bought health insurance through the Affordable Care Act's federal marketplace.\u00a0The administration says the payments are being sent to families who were overchar\u2026",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/trump-to-send-500-aca-refund-checks-to-roughly-1-million-americans-163350463.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-09-30",
-      "image": "https://s.yimg.com/lo/mysterio/api/d9e93da8f4b9b096e33e846f10d49d8f6cbacf01cfe01c5310a635321638f766/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F8bfb85e3-8059-4099-9d7f-9115ccdb4893",
-      "category": "central_bank"
-    },
-    {
-      "title": "NHIA, Senate push health taxes to fund healthcare, fight diseases",
-      "description": "The National Health Insurance Authority and the Senate are pushing for stronger health tax reforms to fund healthcare and fight non-communicable diseases.\n\nRead More: https://punchng.com/nhia-senate-push-health-taxes-to-fund-healthcare-fight-diseases/",
-      "url": "https://punchng.com/nhia-senate-push-health-taxes-to-fund-healthcare-fight-diseases/",
-      "source": "The Punch",
-      "date": "2026-09-30",
-      "image": "https://punchng.com/wp-content/uploads/2026/08/NHIA-LARGE_1786101230.webp",
+      "image": "https://mmx.prnewswire.com/media/MS1999840/Roth-Staffing-Los-Angeles-2026.jpg?id=OA2980023&p=facebook",
       "category": "market"
     },
     {
-      "title": "Trump administration starts sending $500 Obamacare refund checks \u2014 who stands to benefit",
-      "description": "The refunds come after millions of people lost premium subsidies for their health insurance, and right before the midterm elections.",
-      "url": "https://www.cnbc.com/2026/09/30/obamacare-aca-refund-checks.html",
-      "source": "CNBC",
+      "title": "Illinois Department Of Revenue Issues Draft Crypto Tax Rules Detail 0.2% Rate",
+      "description": "In a major development confirmed on SEPTEMBER 29, 2026, Confirmed announcement/filing for Illinois Department Of Revenue Issues Draft Crypto Tax Rules Detail 0.2% Rate. This operational move highlights expanding activity across the digital asset ecosystem and\u2026",
+      "url": "https://bitcoinist.com/illinois-department-of-revenue-issues-draft-crypto-tax-rules-detail-0/",
+      "source": "Bitcoinist",
       "date": "2026-09-30",
-      "image": "https://image.cnbcfm.com/api/v1/image/108370343-1790783062486-gettyimages-2297724134-kbd14743_rhxmkc0e.jpeg?v=1790783100&w=1920&h=1080",
+      "image": "https://bitcoinist.com/wp-content/uploads/2026/09/b424d8fa68ea4a5eb52d5f60ad108492.png.jpeg",
+      "category": "market"
+    },
+    {
+      "title": "TORRIDON GROUP AND STRATEGIC AFFAIRS GROUP ANNOUNCE STRATEGIC ALLIANCE",
+      "description": "US-Mexico Advisory Alliance to Offer Premier Binational Full-Service Support for Business Operations in Latin America WASHINGTON and MEXICO CITY, Sept. 30, 2026 /PRNewswire/ -- Torridon Group LLC today announced a strategic alliance with Strategic Affairs Gro\u2026",
+      "url": "https://www.prnewswire.com/news-releases/torridon-group-and-strategic-affairs-group-announce-strategic-alliance-302894873.html",
+      "source": "PRNewswire",
+      "date": "2026-09-30",
+      "image": "https://mmx.prnewswire.com/media/MS2000042/Torridon-Group-logo.jpg?id=OA2980601&p=facebook",
       "category": "market"
     }
   ],
@@ -499,15 +499,15 @@
     {
       "date": "2026-10-01",
       "week": "2026-W40",
-      "gold_10g": 128646.21,
-      "silver_kg": 187293.28,
-      "platinum_g": 5282.89,
-      "gold_usd_oz": 4167.38,
-      "silver_usd_oz": 60.67,
-      "platinum_usd_oz": 1711.35
+      "gold_10g": 128808.74,
+      "silver_kg": 187395.16,
+      "platinum_g": 5296.21,
+      "gold_usd_oz": 4172.65,
+      "silver_usd_oz": 60.7,
+      "platinum_usd_oz": 1715.66
     }
   ],
-  "timestamp": "2026-10-01T22:06:53.778329+05:30",
+  "timestamp": "2026-10-02T00:02:30.886923+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
