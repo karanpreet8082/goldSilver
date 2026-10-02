@@ -1,24 +1,24 @@
 {
   "prices": {
     "gold": {
-      "price_per_gram_inr": 12965.8,
-      "price_usd_oz": 4185.74,
-      "change_percent": 0.19,
-      "change_value_usd": 8.05,
-      "price_per_10g_inr": 129658.02
+      "price_per_gram_inr": 13056.44,
+      "price_usd_oz": 4215,
+      "change_percent": 0.89,
+      "change_value_usd": 37.31,
+      "price_per_10g_inr": 130564.38
     },
     "silver": {
-      "price_per_gram_inr": 189.66,
-      "price_usd_oz": 61.23,
-      "change_percent": 0.38,
-      "change_value_usd": 0.23,
-      "price_per_kg_inr": 189657.54
+      "price_per_gram_inr": 190.81,
+      "price_usd_oz": 61.6,
+      "change_percent": 0.99,
+      "change_value_usd": 0.6,
+      "price_per_kg_inr": 190806.75
     },
     "platinum": {
-      "price_per_gram_inr": 5374.62,
-      "price_usd_oz": 1735.09,
-      "change_percent": 0.36,
-      "change_value_usd": 6.27
+      "price_per_gram_inr": 5390.76,
+      "price_usd_oz": 1740.3,
+      "change_percent": 0.66,
+      "change_value_usd": 11.48
     },
     "currencies": {
       "USD_INR": 96.3466,
@@ -30,8 +30,8 @@
       "CAD_INR": 67.7019,
       "SGD_INR": 75.2473
     },
-    "gold_silver_ratio": 68.36,
-    "timestamp": "2026-10-02T09:56:50.680979",
+    "gold_silver_ratio": 68.43,
+    "timestamp": "2026-10-02T12:57:14.488544",
     "source": "GoldAPI"
   },
   "currencies": {
@@ -53,8 +53,8 @@
         "sell": 25,
         "hold": 50
       },
-      "summary": "Gold is showing mixed signals. Positive daily movement of 0.2%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-02T09:56:56.481365",
+      "summary": "Gold is showing mixed signals. Positive daily movement of 0.9%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
+      "timestamp": "2026-10-02T12:57:20.884577",
       "source": "rule-based"
     },
     "silver": {
@@ -65,8 +65,8 @@
         "sell": 25,
         "hold": 50
       },
-      "summary": "Silver is showing mixed signals. Positive daily movement of 0.4%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-02T09:56:56.567355",
+      "summary": "Silver is showing mixed signals. Positive daily movement of 1.0%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
+      "timestamp": "2026-10-02T12:57:20.998124",
       "source": "rule-based"
     },
     "platinum": {
@@ -77,44 +77,43 @@
         "sell": 25,
         "hold": 50
       },
-      "summary": "Platinum is showing mixed signals. Positive daily movement of 0.4%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-02T09:56:56.630485",
+      "summary": "Platinum is showing mixed signals. Positive daily movement of 0.7%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
+      "timestamp": "2026-10-02T12:57:21.118039",
       "source": "rule-based"
     }
   },
   "technical": {
     "gold": {
-      "trend": "bearish",
-      "strength": 25,
+      "trend": "neutral",
+      "strength": 38,
       "signals": [
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA above long-term MA (uptrend)",
-        "Weak momentum: -2.5% in 4 weeks"
+        "Sideways: -1.8% in 4 weeks"
       ],
       "support": 124137.93,
       "resistance": 140736.5,
-      "current_price": 129658.02,
-      "ma_short": 132874.91,
-      "ma_long": 131648.7,
-      "trend_score": -2.0
+      "current_price": 130564.38,
+      "ma_short": 133101.5,
+      "ma_long": 131739.34,
+      "trend_score": -1.0
     },
     "silver": {
       "trend": "bearish",
-      "strength": 6,
+      "strength": 0,
       "signals": [
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -2.6% in 4 weeks",
-        "Near support \u2014 potential buy zone"
+        "Weak momentum: -2.0% in 4 weeks"
       ],
       "support": 176726.94,
       "resistance": 243170.57,
-      "current_price": 189657.54,
-      "ma_short": 197178.06,
-      "ma_long": 199934.88,
-      "trend_score": -3.5
+      "current_price": 190806.75,
+      "ma_short": 197465.36,
+      "ma_long": 200049.8,
+      "trend_score": -4.0
     },
     "platinum": {
       "trend": "neutral",
@@ -123,17 +122,44 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA above long-term MA (uptrend)",
-        "Sideways: +0.3% in 4 weeks"
+        "Sideways: +0.6% in 4 weeks"
       ],
       "support": 4961.56,
       "resistance": 6206.5,
-      "current_price": 5374.62,
-      "ma_short": 5484.31,
-      "ma_long": 5406.8,
+      "current_price": 5390.76,
+      "ma_short": 5488.34,
+      "ma_long": 5408.42,
       "trend_score": -1.0
     }
   },
   "news": [
+    {
+      "title": "Global equity funds draw $34.76 billion, log second straight week of inflows",
+      "description": "Global equity funds attracted $34.76 billion in the week through September 30, marking a second straight week of inflows as optimism around AI investment and softer US inflation pushed up investor demand for stocks despite rising bond. US, European and Asian equity funds all saw inflows, while emerg",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-equity-funds-draw-inflows-for-second-week-as-ai-optimism-holds/articleshow/134638303.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-10-02",
+      "image": "",
+      "category": "currency"
+    },
+    {
+      "title": "FPIs turn net sellers, pull out Rs 35,860 cr in Sep",
+      "description": "In September, foreign portfolio investors shed a staggering Rs 35,860 crore from Indian equities, driven by global uncertainties and rising US interest rates. This selling trend persisted into October with an outflow of Rs 9,232 crore. This selling follows significant investments of Rs 49,830 crore ",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-turn-net-sellers-pull-out-rs-35860-cr-in-sep/articleshow/134637791.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-10-02",
+      "image": "",
+      "category": "central_bank"
+    },
+    {
+      "title": "French 10-year risk premium soars to highest since late 2011",
+      "description": "Recent trends show that French 10-year government bond yields are climbing higher against German counterparts, illustrating concerns regarding France's fiscal stability and political landscape ahead of the 2027 presidential elections. Despite efforts to reduce spending through a budget bill, the exp",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/french-10-year-risk-premium-soars-to-highest-since-late-2011/articleshow/134637770.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-10-02",
+      "image": "",
+      "category": "geopolitics"
+    },
     {
       "title": "ET Alpha Wealth Summit 2.0: Decoding the new investment landscape and shift in smart money",
       "description": "Transformations in the global economy are reshaping how investors allocate capital and devise strategies. Geopolitical conflicts and tech rivalries are challenging conventional wisdom, leading to heightened interest in markets such as India, Southeast Asia, and the Gulf states. Strategic investments",
@@ -144,103 +170,103 @@
       "category": "geopolitics"
     },
     {
-      "title": "European shares edge higher after bonds-driven selloff, focus on inflation data",
-      "description": "Following a sharp selloff, European stocks made a modest recovery, influenced by recent shifts in the bond market. Investors are keeping a close eye on upcoming euro zone inflation data that could steer monetary policy. Additionally, the US nonfarm payrolls figures are eagerly awaited, with estimate",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/european-shares-edge-higher-after-bonds-driven-selloff-focus-on-inflation-data/articleshow/134635254.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-10-02",
-      "image": "",
-      "category": "central_bank"
+      "title": "Botswana at 60 challenges the story of postcolonial African failure",
+      "description": "Botswana showed that resource wealth need not condemn a country to corruption and underdevelopment.",
+      "url": "https://www.aljazeera.com/opinions/2026/10/1/botswana-at-60-challenges-the-story-of-postcolonial-african-failure",
+      "source": "Al Jazeera English",
+      "date": "2026-10-01",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6abe4ee10fe43-1790856929.jpg?resize=1920%2C1440",
+      "category": "market"
     },
     {
-      "title": "Bitcoin leads crypto market rebound above $85K as short liquidations accelerate",
-      "description": "Crypto markets rose on Friday as total market capitalisation reached $3.042 trillion, with Bitcoin reclaiming $85,000 amid easing Treasury yields and a short squeeze. Bitcoin gained about 2%, while Ethereum held above $2,700. Investors now await US jobs data for clues on Treasury yields, the dollar ",
-      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-leads-crypto-market-rebound-above-85k-as-short-liquidations-accelerate/articleshow/134634234.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-10-02",
-      "image": "",
-      "category": "currency"
+      "title": "AI is Scary Smart",
+      "description": "A week ago on September 24th, a YouTube creator \u201cleo\u201d posted what he described as a \u201ccute little animated music video by Opus 5.5 with some help from suno.\u201d As he did not provide details of what prompts he used, it is hard to tell how original Opus 5.5 was. I\u2026",
+      "url": "https://deeshaa.org/2026/10/01/ai-is-scary-smart/",
+      "source": "Deeshaa.org",
+      "date": "2026-10-01",
+      "image": "https://deeshaa.org/wp-content/uploads/2026/10/thus-spoke-compute.jpg",
+      "category": "market"
     },
     {
-      "title": "ETMarkets Smart Talk: Rupee under pressure, inflation sticky: Will RBI be forced to rethink rates? Ankita Pathak, Ionic Asset",
-      "description": "With the Fed entering a tightening cycle, India faces a tougher monetary policy trade-off as the rupee remains under pressure and inflation shows signs of broadening. Ankita Pathak of Ionic Asset says RBI\u2019s policy flexibility could narrow, while elevated US yields and a stronger dollar may weigh on ",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-rupee-under-pressure-inflation-sticky-will-rbi-be-forced-to-rethink-rates-ankita-pathak-ionic-asset/articleshow/134634188.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-10-02",
-      "image": "",
-      "category": "central_bank"
+      "title": "In 2008, an Oregon lawyer kept his 1894 house from a planned takeover for student towers; the transit agency cancelled its acquisition plan",
+      "description": "In 2005, Randal Acker made a significant investment by purchasing a historic house for his law practice close to Portland State University. TriMet's desire to acquire the property for a redevelopment project ignited a heated public dispute over eminent domain\u2026",
+      "url": "https://timesofindia.indiatimes.com/world/us/in-2008-an-oregon-lawyer-stopped-portland-from-condemning-his-1894-house-for-student-towers-the-transit-agency-cancelled-its-takeover-plan/articleshow/134613810.cms",
+      "source": "The Times of India",
+      "date": "2026-10-01",
+      "image": "https://static.toiimg.com/thumb/msid-134615483,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "category": "market"
     },
     {
-      "title": "Commodity Support and Resistance Levels for Precious Metals, Energy, and Agricultural Futures on 2026-10-02 - KuCoin",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNE8zN3cwRDF4ZXhTbHItLXo1OFdpOFFNQzRwdUcwYk53NkRYdU9LUVFiV09KeFNIWExyVTBpRklHdFJ1cENFTVBsX1lmWk8yQTJXeWVJU21nQjBNVkVzc0xOUEtxSDVRMF9ldzVIc0pWYW8yVnRaeDV3ZHhEMTVpdmVzQkpqemYwSXVzMmFwYXZpR3pqRjJBQ25Oa3FjelRNak9FNGQwZ3dRVmc2cHlhRE1yQkZMdDRqX1",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNE8zN3cwRDF4ZXhTbHItLXo1OFdpOFFNQzRwdUcwYk53NkRYdU9LUVFiV09KeFNIWExyVTBpRklHdFJ1cENFTVBsX1lmWk8yQTJXeWVJU21nQjBNVkVzc0xOUEtxSDVRMF9ldzVIc0pWYW8yVnRaeDV3ZHhEMTVpdmVzQkpqemYwSXVzMmFwYXZpR3pqRjJBQ25Oa3FjelRNak9FNGQwZ3dRVmc2cHlhRE1yQkZMdDRqX1RzOFRFaTExMFRkWWZHOGlFYzdTaTFiMHlJSUR3?oc=5",
-      "source": "Google News - Precious Metals",
-      "date": "2026-10-02",
-      "image": "",
+      "title": "Chase Raises IHG Card Fees And Refreshes Perks\u2014New $350 Card Adds Shortcut To Suites And Hotel Lounges",
+      "description": "Chase is raising the annual fees on its IHG hotel cards, taking Platinum status away from the Premier card, and putting the no-fee card\u2019s fourth-night-free benefit behind a $5,000 spending requirement. It\u2019s also introducing a $350 card that makes confirmed su\u2026",
+      "url": "https://viewfromthewing.com/chase-raises-ihg-card-fees-and-refreshes-perks-new-350-card-adds-shortcut-to-suites-and-hotel-lounges/",
+      "source": "Viewfromthewing.com",
+      "date": "2026-10-01",
+      "image": "https://viewfromthewing.com/wp-content/uploads/2019/12/intercontinental-tahiti-pool-from-breakfast-2.jpg",
+      "category": "platinum"
+    },
+    {
+      "title": "Let a Hundred Websites Bloom",
+      "description": "The Internet and the smartphone have become formidable tools for the Chinese government to maintain tight control over society.",
+      "url": "https://www.nybooks.com/articles/2026/10/22/let-a-hundred-websites-bloom-chinese-internet-exams/",
+      "source": "The New York Review of Books",
+      "date": "2026-10-01",
+      "image": "https://www.nybooks.com/wp-content/uploads/2026/09/french_1-102226-1200.jpg",
+      "category": "market"
+    },
+    {
+      "title": "How Tech Rules",
+      "description": "One of the hallmarks of the modern corporation is the separation of ownership from control. The firm is owned by shareholders but led by managers, who answer to shareholders only indirectly. Actually, it\u2019s weirder than that. The corporation owns itself. Share\u2026",
+      "url": "https://www.nybooks.com/articles/2026/10/22/how-tech-rules-silicon-empires-srnicek/",
+      "source": "The New York Review of Books",
+      "date": "2026-10-01",
+      "image": "https://www.nybooks.com/wp-content/uploads/2026/09/tarnoff_1-102226-1200.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Market wrap: Infosys, HDFC Bank, Bajaj Auto, Maruti Suzuki among top gainers and losers on Nifty and Sensex on Thursday",
+      "description": "Indian equities extended their decline as elevated crude oil prices and multi-year high bond yields intensified concerns over the 2026\u201327 economic outlook. Nifty fell 0.88% and Sensex 0.79%, while broader markets weakened and India VIX climbed sharply.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-infosys-hdfc-bank-bajaj-auto-maruti-suzuki-among-top-gainers-and-losers-on-nifty-and-sensex-on-thursday/articleshow/134617786.cms",
+      "source": "The Times of India",
+      "date": "2026-10-01",
+      "image": "https://img.etimg.com/thumb/msid-134617786,width-1200,height-900,imgsize-255930,overlay-etmarkets/articleshow.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Idaho Strategic Resources Provides Exploration Update Including High-Grade Gold Intercepts at Its Producing Golden Chest Mine",
+      "description": "Jumbo Vein drilling highlighted by drill hole GC 26-433, which returned 16.3 grams per tonne (gpt) gold over 4 meters (m), including 48 gpt gold over 1.3 m, reported in estimated true thickness Paymaster drilling highlighted by drill hole GC 26-395, which ret\u2026",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/idaho-strategic-resources-provides-exploration-update-including-high-grade-gold-intercepts-at-its-producing-golden-chest-mine",
+      "source": "Financial Post",
+      "date": "2026-10-01",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/10/bw20261001256494_drill_traces.jpeg",
       "category": "metals"
     },
     {
-      "title": "Ken Griffin\u2019s $3 billion gift exemplifies Florida\u2019s new mindset: from attracting innovation to creating it",
-      "description": "Our ambition is to become the place where the next generation of great American companies is built.",
-      "url": "https://fortune.com/2026/10/01/ken-griffin-3-billion-gift-carnegie-mellon-miami-florida-mindset/",
-      "source": "Fortune",
+      "title": "Generation Mining Commences Construction at Marathon Copper-Palladium Mine",
+      "description": "TORONTO \u2014 Generation Mining Limited (TSX: GENM) (OTCQB: GENMF) (\u201cGen Mining\u201d or the \u201cCompany\u201d) is pleased to announce that it has commenced construction at its 100%-owned Marathon Copper-Palladium Project (\u201cMarathon\u201d or the \u201cProject\u201d) in Northwestern Ontario.\u2026",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/generation-mining-commences-construction-at-marathon-copper-palladium-mine",
+      "source": "Financial Post",
       "date": "2026-10-01",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2200864565-e1790823619525.jpg?resize=1200,600",
-      "category": "market"
-    },
-    {
-      "title": "Tata Motors PV shares fall over 3% despite 40% Q2 sales growth; Nifty Auto index down over 4%",
-      "description": "Tata Motors Passenger Vehicles shares dipped on Thursday despite a 40% year-on-year rise in Q2 FY27 sales, while the Nifty Auto index declined more than 4%. The company reported strong growth across passenger vehicles and EVs, with quarterly EV sales rising 9\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/tata-motors-pv-shares-fall-over-3-despite-40-q2-sales-growth-nifty-auto-index-down-over-4/articleshow/134613600.cms",
-      "source": "The Times of India",
-      "date": "2026-10-01",
-      "image": "https://img.etimg.com/thumb/msid-134613701,width-1200,height-900,imgsize-2062736,overlay-etmarkets/articleshow.jpg",
-      "category": "market"
-    },
-    {
-      "title": "SF alternative budget targets living costs, second homes",
-      "description": "Sinn F\u00e9in is proposing a permanent ten cent reduction in petrol and diesel as well as extending excise cuts for another six months as part of its \u20ac13.4 billion alternative budget package.",
-      "url": "https://www.rte.ie/news/politics/2026/1001/1593609-sf-alternative-budget-living-costs/",
-      "source": "RTE",
-      "date": "2026-10-01",
-      "image": "https://www.rte.ie/images/0023286e-1600.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Luckin Coffee Celebrates 100 Stores in Singapore",
-      "description": "Luckin Coffee Inc. (&quot;Luckin Coffee&quot;, &quot;Luckin&quot; or the &quot;Company&quot;) (OTC: LKNCY) today announced the opening of its 100th store in ...",
-      "url": "https://en.antaranews.com/news/433707/luckin-coffee-celebrates-100-stores-in-singapore",
-      "source": "Antaranews.com",
-      "date": "2026-10-01",
-      "image": "https://cdn.antaranews.com/cache/1200x800/2026/10/01/luckie.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Broken Hill bags remnant gold ahead of SA mine restart",
-      "description": "Broken Hill Gold has poured an extra 174 gold ounces from its White Dam heap leach project in South Australia, with proceeds to fund the restart of mining at its Vertigo pit.",
-      "url": "https://www.smh.com.au/business/companies/broken-hill-bags-remnant-gold-ahead-of-sa-mine-restart-20261001-p6125a.html",
-      "source": "The Sydney Morning Herald",
-      "date": "2026-10-01",
-      "image": "https://static.ffx.io/images/$zoom_0.7354%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/ea8cb3cfc941c1ea85bb1483e6c61a5da52eed7647f459e5dcd55146b6f8f9a4",
+      "image": null,
       "category": "supply_demand"
     },
     {
-      "title": "IPO investors strike gold with 7 multibagger stocks in 3 months. Did you miss the bus?",
-      "description": "Between July and September 2026, the IPO market saw remarkable activity, with seven newly listed stocks seeing their prices double from initial offerings. Despite the triumphs, others faced steep declines. Overall, these IPOs yielded an average return of 36.4\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-investors-strike-gold-with-7-multibagger-stocks-in-3-months-did-you-miss-the-bus/articleshow/134608026.cms",
-      "source": "The Times of India",
+      "title": "Pandora opens $150 million Vietnam jewelry factory powered by renewable energy",
+      "description": "Pandora has opened the world\u2019s largest fine-jewelry crafting facility in Vietnam, powered entirely by renewable electricity and using 100% recycled gold and silver",
+      "url": "https://abcnews.com/Business/wireStory/pandora-opens-150-million-vietnam-jewelry-factory-powered-136913568",
+      "source": "Abcnews.com",
       "date": "2026-10-01",
-      "image": "https://img.etimg.com/thumb/msid-134608050,width-1200,height-900,imgsize-2145692,overlay-etmarkets/articleshow.jpg",
+      "image": "https://i.abcnewsfe.com/a/008e381c-ee21-4e5f-8540-bba2e4931388/wirestory_1cbda6d0d821f8e17dc630c57d99034a_16x9.jpg?w=1600",
       "category": "metals"
     },
     {
-      "title": "You can trade stocks with Webull on TNG eWallet, but there\u2019s a catch",
-      "description": "TNG Digital and Webull Securities Malaysia have joined forces to enable TNG eWallet users to trade international stocks directly through the app\u2019s GOfinance hub.\u00a0 In case you didn\u2019t know, Webull digital investment platform that arrived in Malaysia on May 2024\u2026",
-      "url": "https://soyacincau.com/2026/10/01/tng-ewallet-trade-stocks-webull-malaysia/",
-      "source": "SoyaCincau.com",
+      "title": "Sensex today | Stock Market Highlights: Sensex falls 571 points, Nifty slips 0.88% as auto stocks drag markets",
+      "description": "Sensex Today, Nifty 50 | Stock Market Highlights:  Indian equities ended lower on Thursday, weighed by losses in auto stocks, while the rupee weakened to a two-month low against the dollar.",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-stock-market-highlights-1-october-2026/article71528461.ece",
+      "source": "BusinessLine",
       "date": "2026-10-01",
-      "image": "https://soyacincau.com/wp-content/uploads/2026/09/Photo-1-Official-launch-of-Webull-on-TNG-eWallet.jpg",
-      "category": "market"
+      "image": "https://bl-i.thgim.com/public/incoming/k1gv6z/article71531995.ece/alternates/LANDSCAPE_1200/IMG_Stock_Exchange_Marke_2_1_OEDR8CI7.jpg",
+      "category": "currency"
     },
     {
       "title": "Gold rate today (October 1, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from Malabar Gold & Diamonds, Joyalukkas, Kalyan Jewellers, Tanishq & IBJA in Delhi, Mumbai, Hyderabad & more cities",
@@ -288,120 +314,93 @@
       "category": "geopolitics"
     },
     {
-      "title": "Gold and silver price today, Oct 1: Check retail rates of 24K, 22K gold and 999 silver in Mumbai, Delhi, other cities",
-      "description": "Gold and silver prices in India witnessed a xx during early trading hours on Thursday. Check retail rates of the precious metals in top metro cities of the country.",
-      "url": "https://www.livemint.com/money/gold-and-silver-price-today-oct-1-check-retail-rates-of-24k-22k-gold-and-999-silver-in-mumbai-delhi-other-cities-11790821117747.html",
-      "source": "Livemint",
+      "title": "State regularises jr teachers appointed in 2023-24",
+      "description": "Odisha regularises Junior Teachers (Schematic) recruited in 2023-24 as elementary cadre assistant teachers, granting regular pay and benefits from Jan 1.",
+      "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/state-regularises-jr-teachers-appointed-in-2023-24/articleshow/134619861.cms",
+      "source": "The Times of India",
       "date": "2026-10-01",
-      "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/gold_and_silver_1790822885101_XEnN_1790822885304_y1E1_1d2a37c7-6bb8-4cd1-86d4-8d38133ce20a_JIgS.png",
-      "category": "metals"
-    },
-    {
-      "title": "Yields, dollar hold key to gold, silver trajectory in H2FY27: Apurva Seth",
-      "description": "Gold and silver have corrected sharply since April, falling 11 per cent and 19 per cent, respectively, in USD terms.",
-      "url": "https://www.business-standard.com/markets/commodities/yields-dollar-hold-key-to-gold-silver-trajectory-in-h2fy27-apurva-seth-126093000772_1.html",
-      "source": "Business Standard",
-      "date": "2026-10-01",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-04/07/thumb/fitandfill/1200X628/1775547674-942.jpeg",
-      "category": "currency"
-    },
-    {
-      "title": "Barcelona Star Lamine Yamal Will \u2018Unite\u2019 With Then Overtake Messi",
-      "description": "Barcelona icons Lamine Yamal and Lionel Messi are set to be united in 2027 before the youngster once again succeeds the Argentine in another ceremonial act.",
-      "url": "https://www.forbes.com/sites/tomsanderson/2026/10/01/barcelona-star-lamine-yamal-will-unite-with-then-overtake-messi/",
-      "source": "Forbes",
-      "date": "2026-10-01",
-      "image": "https://s.yimg.com/lo/mysterio/api/8a4b7a9ad2820080ec2b44785241a3eccdd72f7c75eb6a19527be293747de59a/lightyear_networkapi/resizefill_w958_h638%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F86d5a3cc960c9127b58633cebc30dd54.jpg",
+      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
       "category": "market"
     },
     {
-      "title": "Neighbours in Mumbai fondly recall hero pilot Smit Machchhar, pray for his speedy recovery",
-      "description": "Friends of the family came together to help Machchhar\u2019s parents fly to Saudi Arabia to be with their son, who is receiving treatment for injuries suffered during the fight with his co-pilot",
-      "url": "https://www.thehindubusinessline.com/news/variety/neighbours-in-mumbai-fondly-recall-hero-pilot-smit-machchhar-pray-for-his-speedy-recovery/article71531794.ece",
-      "source": "BusinessLine",
+      "title": "Mortgage rates hit highest point since 2023 as Treasury yields rise",
+      "description": "Mortgage rates are at their highest point in nearly three years as turmoil in the bond market continues.",
+      "url": "https://www.nbcnews.com/business/economy/mortgage-rates-treasury-yields-markets-rcna600894",
+      "source": "NBC News",
       "date": "2026-10-01",
-      "image": "https://bl-i.thgim.com/public/incoming/qh33o1/article71532262.ece/alternates/LANDSCAPE_1200/2026-10-01T031416Z_1628304511_RC22UNAS3SOF_RTRMADP_3_ISRAEL-GULF-FLIGHT-PILOT.JPG",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260923-Scott-Bessent-vsb-1815-70497e.jpg",
       "category": "market"
     },
     {
-      "title": "\u300cS.T.A.L.K.E.R. 2\u300d\uff0c\u5927\u578b\u62e1\u5f35\u30b3\u30f3\u30c6\u30f3\u30c4\u300cCost of Hope\u300d\u306e\u30a2\u30b3\u30ec\u30fc\u30c9\u30c8\u30ec\u30a4\u30e9\u30fc\u3092\u516c\u958b",
-      "description": "S.T.A.L.K.E.R. 2: Heart of Chornobyl S.T.A.L.K.E.R. 2: Heart of Chornobyl S.T.A.L.K.E.R. 2: Heart of\u2026",
-      "url": "https://www.4gamer.net/games/127/G012714/20261001039/",
-      "source": "4gamer.net",
+      "title": "Suvendu promises model status, hospital, college in Rejinagar",
+      "description": "West Bengal CM Suvendu Adhikari promises to make Rejinagar a model constituency with a 200-bed hospital, college, bridge, industries and jobs.",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/suvendu-promises-model-status-hospital-college-in-rejinagar/articleshow/134619854.cms",
+      "source": "The Times of India",
       "date": "2026-10-01",
-      "image": "https://www.4gamer.net/games/127/G012714/20261001039/SS/001.jpg",
+      "image": "https://static.toiimg.com/thumb/msid-134619853,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "category": "market"
     },
     {
-      "title": "3 Key Reasons to Buy This Huge Turnaround Story That's Gaining Traction",
-      "description": "After a brutal 2025, Stellantis (NYSE: STLA) Chief Executive Officer Antonio Filosa quickly unveiled a major $70 billion global turnaround plan referred to as \"FaSTLAne 2030.\" The broad strategy was mostly well received, but Wall Street is giving the automake\u2026",
-      "url": "https://biztoc.com/x/4711b3c0c7acc823",
-      "source": "Biztoc.com",
+      "title": "No porn, no doomscrolling, no processed foods: Meet Israel's spermmaxxers",
+      "description": "Organic food, natural fabrics, exercise, quitting cannabis and ice baths: Social media has pushed wellness trends to the extreme. Now the world of 'maxxing' is coming for Israeli men's sperm",
+      "url": "https://www.haaretz.com/science-and-health/2026-10-01/ty-article-magazine/no-porn-no-doomscrolling-no-processed-foods-meet-israels-spermmaxxers/000001a0-ec46-d5d5-a3bb-ef5ebe9b0000",
+      "source": "Haaretz",
       "date": "2026-10-01",
-      "image": "https://biztoc.com/cdn/4711b3c0c7acc823_s.webp",
+      "image": "https://img.haarets.co.il/bs/000001a0-ec46-d5d5-a3bb-ef5ebe9b0000/90/00/4b7a4dff4b89a68ec2e0de756ce3/spermmaxxing-inside.png?precrop=960,558,x0,y103&width=1200&height=630&cmsprod",
       "category": "market"
     },
     {
-      "title": "Walmart Global Tech ties up with IIM Kozhikode to launch incubation programme",
-      "description": "Deep Leap will engage with 1,500 startups from across the country from which 50 startups will be selected for a 12-month incubation and acceleration cohort.",
-      "url": "https://www.thehindubusinessline.com/info-tech/walmart-global-tech-ties-up-with-iim-kozhikode-to-launch-incubation-programme/article71532260.ece",
-      "source": "BusinessLine",
+      "title": "Odisha study finds high depression risk in eye patients with chronic illnesses",
+      "description": "Odisha study: 1 in 6 eye clinic patients show depression; risk rises with multiple chronic illnesses like hypertension and diabetes, urging routine mental health screening.",
+      "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/odisha-study-finds-high-depression-risk-in-eye-patients-with-chronic-illnesses/articleshow/134619834.cms",
+      "source": "The Times of India",
       "date": "2026-10-01",
-      "image": "https://bl-i.thgim.com/public/incoming/1mksw4/article70588970.ece/alternates/LANDSCAPE_1200/2026-01-15T235642Z_1802043385_RC21DIA37QYQ_RTRMADP_3_WALMART-MANAGEMENT.JPG",
-      "category": "market"
-    },
-    {
-      "title": "Germans' biggest fear is the high cost of living, an annual study finds",
-      "description": "What do Germans fear most in 2026? Wars? Global crises? Wrong. Their biggest concern is the cost of living, which keeps rising.",
-      "url": "https://www.dw.com/en/germans-biggest-fear-is-the-high-cost-of-living-an-annual-study-finds/a-79497762",
-      "source": "DW (English)",
-      "date": "2026-10-01",
-      "image": "https://static.dw.com/image/79397265_6.jpg",
+      "image": "https://static.toiimg.com/thumb/msid-134619833,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "category": "geopolitics"
     },
     {
-      "title": "Arsene Wenger urged to stand against Gianni Infantino in FIFA elections",
-      "description": "How the League will now proceed to hear the ManC case Can ManC be thrown out of the League or is there a way around this fight? By Tony Attwood Since November 2019, Ars\u00e8ne Charles Ernest Wenger has been Fifa\u2019s \u201cChief of Global Football Development\u201d which as t\u2026",
-      "url": "https://untold-arsenal.com/archives/123362",
-      "source": "Untold-arsenal.com",
+      "title": "Iran War Highlights 2 Challenges for Japan in a Taiwan Contingency",
+      "description": "Japan can use the Iran war to reexamine its security framework, with particular attention to preparations for a contingency involving Taiwan.",
+      "url": "https://thediplomat.com/2026/10/iran-war-highlights-2-challenges-for-japan-in-a-taiwan-contingency/",
+      "source": "The Diplomat",
+      "date": "2026-10-01",
+      "image": "https://thediplomat.com/wp-content/uploads/2026/10/sizes/td-story-s-2/thediplomat_2026-10-01-215757.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "CFA Societies Canada announces board for 2026-2027",
+      "description": "TORONTO, Oct. 01, 2026 (GLOBE NEWSWIRE) \u2014 CFA Societies Canada, Canada\u2019s voice for advancing professionalism in investment management and finance, today announced its 2026-2027 Board of Directors. The board combines experienced leadership from across the coun\u2026",
+      "url": "https://financialpost.com/globe-newswire/cfa-societies-canada-announces-board-for-2026-2027",
+      "source": "Financial Post",
       "date": "2026-10-01",
       "image": null,
       "category": "market"
     },
     {
-      "title": "CEAT expands Chennai plant to boost premium tyre production for India, global markets",
-      "description": "CEAT has expanded its manufacturing capabilities at the Chennai plant across various tyre categories and segments. This expansion will enhance the production of advanced products for both domestic and international markets. The facility can now produce seven \u2026",
-      "url": "https://economictimes.indiatimes.com/industry/auto/tyres/ceat-unveils-major-expansion-of-chennai-plant-elevating-premium-tyre-production-for-global-markets/articleshow/134614496.cms",
+      "title": "From suicide bombers to positions of authority \u2013 the changing role of women in jihadi groups",
+      "description": "More women are taking up training and recruiting positions in the Islamic State group and other militant organizations.",
+      "url": "https://theconversation.com/from-suicide-bombers-to-positions-of-authority-the-changing-role-of-women-in-jihadi-groups-292409",
+      "source": "The Conversation Africa",
+      "date": "2026-10-01",
+      "image": "https://images.theconversation.com/files/763176/original/file-20260930-82-bwt636.png?ixlib=rb-4.1.1&rect=0%2C56%2C2696%2C1348&q=45&auto=format&w=1356&h=668&fit=crop",
+      "category": "market"
+    },
+    {
+      "title": "\"Berlin 4\" Lawyer on Pro-Palestine Protest Crackdown & Germany's Unconditional Support for Israel",
+      "description": "Democracy Now!'s Amy Goodman is in Berlin, Germany, this week, where the crackdown on pro-Palestine speech is shaped by the German policy of Staatsr\u00e4son, or \u201creason of state.\u201d The concept refers to Germany's commitment to the existence of the Israeli state in\u2026",
+      "url": "https://www.democracynow.org/2026/10/1/germany_palestine_advocacy_crackdown",
+      "source": "Democracy Now!",
+      "date": "2026-10-01",
+      "image": "https://www.democracynow.org/images/story/56/83756/full_hd/seg-Germany-Palestine.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Trump Affordable Care Act refund: Why nearly 1 million Americans in 30 states are getting $500 checks\u2014and who qualifies",
+      "description": "Trump ACA $500 refund checks: Nearly a million Americans are finding unexpected government checks in their mailboxes this week. Starting September 30, the Treasury Department began issuing $500 payments to roughly 950,000 people across 30 states. President Do\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/us/trump-affordable-care-act-refund-why-nearly-1-million-americans-in-30-states-are-getting-500-checksand-who-qualifies/articleshow/134617675.cms",
       "source": "The Times of India",
       "date": "2026-10-01",
-      "image": "https://img.etimg.com/thumb/msid-134614629,width-1200,height-900,imgsize-117580,overlay-economictimes/articleshow.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "'Stand With the People': Progressive Caucus Leader Calls on All Democrats to Reject AI Billionaire Cash",
-      "description": "The chair of the Congressional Progressive Caucus on Wednesday urged all Democrats to reject campaign cash from billionaires whose wealth stems from the artificial intelligence industry, following news that the president of OpenAI abandoned plans to donate mi\u2026",
-      "url": "https://www.commondreams.org/news/democrats-ai-donations",
-      "source": "Common Dreams",
-      "date": "2026-10-01",
-      "image": "https://www.commondreams.org/media-library/image.jpg?id=68005526&width=1200&height=600&coordinates=0%2C429%2C0%2C429",
-      "category": "market"
-    },
-    {
-      "title": "Trump\u2019s Latest Attempt to Cheat in the Midterms Faces Little Blowback",
-      "description": "These ads violate at least two laws.",
-      "url": "https://slate.com/news-and-politics/2026/10/can-trump-campaign-ads-taxpayer-dollars-2026-cheating.html",
-      "source": "Slate Magazine",
-      "date": "2026-10-01",
-      "image": "https://compote.slate.com/images/7e460b3b-cba8-4a7f-aca9-678fe28af603.jpeg?crop=1403%2C936%2Cx0%2Cy0&width=1560",
-      "category": "market"
-    },
-    {
-      "title": "\u2018I Know I Couldn\u2019t Live Here\u2019: Standing Up to a Data Center in Alabama\u2019s Black Belt",
-      "description": "Faced with little transparency about a mammoth facility, Lowndes County fights back.\nThe post \u2018I Know I Couldn\u2019t Live Here\u2019: Standing Up to a Data Center in Alabama\u2019s Black Belt appeared first on The American Prospect.",
-      "url": "https://prospect.org/2026/10/01/data-center-alabama-lowndes-county-black-belt-cloverleaf-infrastructure-project-red-clay/",
-      "source": "The American Prospect",
-      "date": "2026-10-01",
-      "image": "https://i0.wp.com/prospect.org/wp-content/uploads/2026/10/wiresandpipes.jpg?fit=2400%2C1800&ssl=1",
+      "image": "https://img.etimg.com/thumb/msid-134618028,width-1200,height-900,imgsize-77016,overlay-economictimes/articleshow.jpg",
       "category": "market"
     }
   ],
@@ -499,15 +498,15 @@
     {
       "date": "2026-10-02",
       "week": "2026-W40",
-      "gold_10g": 129658.02,
-      "silver_kg": 189657.54,
-      "platinum_g": 5374.62,
-      "gold_usd_oz": 4185.74,
-      "silver_usd_oz": 61.23,
-      "platinum_usd_oz": 1735.09
+      "gold_10g": 130564.38,
+      "silver_kg": 190806.75,
+      "platinum_g": 5390.76,
+      "gold_usd_oz": 4215,
+      "silver_usd_oz": 61.6,
+      "platinum_usd_oz": 1740.3
     }
   ],
-  "timestamp": "2026-10-02T15:26:56.637971+05:30",
+  "timestamp": "2026-10-02T18:27:21.130633+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
