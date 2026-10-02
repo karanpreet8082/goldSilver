@@ -1,48 +1,48 @@
 {
   "prices": {
     "gold": {
-      "price_per_gram_inr": 12880.87,
-      "price_usd_oz": 4172.65,
-      "change_percent": 0.36,
-      "change_value_usd": 14.97,
-      "price_per_10g_inr": 128808.74
+      "price_per_gram_inr": 12965.8,
+      "price_usd_oz": 4185.74,
+      "change_percent": 0.19,
+      "change_value_usd": 8.05,
+      "price_per_10g_inr": 129658.02
     },
     "silver": {
-      "price_per_gram_inr": 187.4,
-      "price_usd_oz": 60.7,
-      "change_percent": 0.46,
-      "change_value_usd": 0.28,
-      "price_per_kg_inr": 187395.16
+      "price_per_gram_inr": 189.66,
+      "price_usd_oz": 61.23,
+      "change_percent": 0.38,
+      "change_value_usd": 0.23,
+      "price_per_kg_inr": 189657.54
     },
     "platinum": {
-      "price_per_gram_inr": 5296.21,
-      "price_usd_oz": 1715.66,
-      "change_percent": -0.04,
-      "change_value_usd": -0.62
+      "price_per_gram_inr": 5374.62,
+      "price_usd_oz": 1735.09,
+      "change_percent": 0.36,
+      "change_value_usd": 6.27
     },
     "currencies": {
-      "USD_INR": 96.0159,
-      "EUR_INR": 108.8986,
-      "GBP_INR": 127.3589,
-      "JPY_INR": 0.6103,
-      "CHF_INR": 114.9478,
-      "AUD_INR": 66.7844,
-      "CAD_INR": 67.593,
-      "SGD_INR": 75.1475
+      "USD_INR": 96.3466,
+      "EUR_INR": 108.584,
+      "GBP_INR": 127.2406,
+      "JPY_INR": 0.6101,
+      "CHF_INR": 115.7873,
+      "AUD_INR": 66.7683,
+      "CAD_INR": 67.7019,
+      "SGD_INR": 75.2473
     },
-    "gold_silver_ratio": 68.74,
-    "timestamp": "2026-10-01T18:32:21.234041",
+    "gold_silver_ratio": 68.36,
+    "timestamp": "2026-10-02T09:56:50.680979",
     "source": "GoldAPI"
   },
   "currencies": {
-    "USD_INR": 96.0159,
-    "EUR_INR": 108.8986,
-    "GBP_INR": 127.3589,
-    "JPY_INR": 0.6103,
-    "CHF_INR": 114.9478,
-    "AUD_INR": 66.7844,
-    "CAD_INR": 67.593,
-    "SGD_INR": 75.1475
+    "USD_INR": 96.3466,
+    "EUR_INR": 108.584,
+    "GBP_INR": 127.2406,
+    "JPY_INR": 0.6101,
+    "CHF_INR": 115.7873,
+    "AUD_INR": 66.7683,
+    "CAD_INR": 67.7019,
+    "SGD_INR": 75.2473
   },
   "analysis": {
     "gold": {
@@ -53,8 +53,8 @@
         "sell": 25,
         "hold": 50
       },
-      "summary": "Gold is showing mixed signals. Positive daily movement of 0.4%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-01T18:32:30.708021",
+      "summary": "Gold is showing mixed signals. Positive daily movement of 0.2%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
+      "timestamp": "2026-10-02T09:56:56.481365",
       "source": "rule-based"
     },
     "silver": {
@@ -65,20 +65,20 @@
         "sell": 25,
         "hold": 50
       },
-      "summary": "Silver is showing mixed signals. Positive daily movement of 0.5%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-01T18:32:30.797024",
+      "summary": "Silver is showing mixed signals. Positive daily movement of 0.4%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
+      "timestamp": "2026-10-02T09:56:56.567355",
       "source": "rule-based"
     },
     "platinum": {
       "metal": "platinum",
-      "recommendation": "SELL",
+      "recommendation": "HOLD",
       "confidence": {
-        "buy": 15,
-        "sell": 56,
-        "hold": 29
+        "buy": 25,
+        "sell": 25,
+        "hold": 50
       },
-      "summary": "Platinum is showing negative signals. Slight decline of -0.0%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-01T18:32:30.873924",
+      "summary": "Platinum is showing mixed signals. Positive daily movement of 0.4%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
+      "timestamp": "2026-10-02T09:56:56.630485",
       "source": "rule-based"
     }
   },
@@ -90,13 +90,13 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA above long-term MA (uptrend)",
-        "Weak momentum: -3.1% in 4 weeks"
+        "Weak momentum: -2.5% in 4 weeks"
       ],
       "support": 124137.93,
       "resistance": 140736.5,
-      "current_price": 128808.74,
-      "ma_short": 132662.59,
-      "ma_long": 131563.77,
+      "current_price": 129658.02,
+      "ma_short": 132874.91,
+      "ma_long": 131648.7,
       "trend_score": -2.0
     },
     "silver": {
@@ -106,14 +106,14 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -3.8% in 4 weeks",
+        "Weak momentum: -2.6% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
       "support": 176726.94,
       "resistance": 243170.57,
-      "current_price": 187395.16,
-      "ma_short": 196612.46,
-      "ma_long": 199708.64,
+      "current_price": 189657.54,
+      "ma_short": 197178.06,
+      "ma_long": 199934.88,
       "trend_score": -3.5
     },
     "platinum": {
@@ -123,285 +123,285 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA above long-term MA (uptrend)",
-        "Sideways: -1.2% in 4 weeks"
+        "Sideways: +0.3% in 4 weeks"
       ],
       "support": 4961.56,
       "resistance": 6206.5,
-      "current_price": 5296.21,
-      "ma_short": 5464.7,
-      "ma_long": 5398.96,
+      "current_price": 5374.62,
+      "ma_short": 5484.31,
+      "ma_long": 5406.8,
       "trend_score": -1.0
     }
   },
   "news": [
     {
-      "title": "Why are world bond markets selling off again?",
-      "description": "As inflation fears and mounting debt pressure rise, government borrowing costs have soared to unprecedented levels. The US Treasury yield, now the highest since 2002, signifies a shift in global market dynamics. These increasing bond yields adversely affect loans for families and businesses, posing ",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-are-world-bond-markets-selling-off-again/articleshow/134625028.cms",
+      "title": "ET Alpha Wealth Summit 2.0: Decoding the new investment landscape and shift in smart money",
+      "description": "Transformations in the global economy are reshaping how investors allocate capital and devise strategies. Geopolitical conflicts and tech rivalries are challenging conventional wisdom, leading to heightened interest in markets such as India, Southeast Asia, and the Gulf states. Strategic investments",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/the-macro-manifesto-decoding-the-new-world-order-re-routing-of-smart-money/articleshow/134635592.cms",
       "source": "Economic Times Markets",
-      "date": "2026-10-01",
-      "image": "",
-      "category": "central_bank"
-    },
-    {
-      "title": "Global markets rattled as bond yields surge, offsetting AI-stock optimism",
-      "description": "Global bond market volatility led to declines in stock indexes, with the S&amp;P 500 on track for consistent losses. Oil prices rose, contributing to persistent inflation, while economic reports indicated US resilience despite challenges. The 10-year Treasury yield hovered near a 2002 high, raising ",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-markets-rattled-as-bond-yields-surge-offsetting-ai-stock-optimism/articleshow/134623833.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-10-01",
-      "image": "",
-      "category": "inflation"
-    },
-    {
-      "title": "US stocks: US markets dip as surging Treasury yields overshadow software gains",
-      "description": "Wall Street encountered a downturn as escalating Treasury yields affected investor confidence in high-priced stocks. Despite solid performance from the software sector buoyed by favorable earnings, the shadow of rising interest rates looms large. September saw the S&amp;P 500 and Dow post monthly lo",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-markets-dip-as-surging-treasury-yields-overshadow-software-gains/articleshow/134621937.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-10-01",
+      "date": "2026-10-02",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "UK pound falls to three-month lows as investors fret over rates, oil",
-      "description": "The pound has hit a three-month low against the dollar, triggered by mounting economic apprehensions. Investors are anxious about the effects of soaring oil prices and persistent inflation on market stability. The FTSE 100 index has notably declined, reflecting burdens in government borrowing. Prime",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/uk-pound-falls-to-three-month-lows-as-investors-fret-over-rates-oil/articleshow/134621868.cms",
+      "title": "European shares edge higher after bonds-driven selloff, focus on inflation data",
+      "description": "Following a sharp selloff, European stocks made a modest recovery, influenced by recent shifts in the bond market. Investors are keeping a close eye on upcoming euro zone inflation data that could steer monetary policy. Additionally, the US nonfarm payrolls figures are eagerly awaited, with estimate",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/european-shares-edge-higher-after-bonds-driven-selloff-focus-on-inflation-data/articleshow/134635254.cms",
       "source": "Economic Times Markets",
-      "date": "2026-10-01",
-      "image": "",
-      "category": "currency"
-    },
-    {
-      "title": "UK 30-year gilt yields top 6% for the first time since 1998",
-      "description": "British 30-year government bond yields have surged to their highest level since early 1998. This surge follows a significant increase in U.S. Treasury yields despite steadied oil prices. Short-dated gilt yields also rose sharply, reflecting concerns about the UK's fiscal vulnerabilities. Investors a",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/uk-30-year-gilt-yields-top-6-for-the-first-time-since-1998/articleshow/134621852.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-10-01",
+      "date": "2026-10-02",
       "image": "",
       "category": "central_bank"
     },
     {
-      "title": "Glitter Bug Gold Buyers Launches Orange County Estate Jewelry Evaluation Initiative - markets.businessinsider.com",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTHZMcWVlVkFPX1hsd3hXd0JhcmREYkd3bmRIaHVfOTY4TF8ybWptd2xQdy1VdXdRcU1QZlhRZzgxdEFvaWNiNzVXQlI0S0N1QlpfYzNvLTBzNFpjRXEzNXlJeldZWWlVTTFaWmJDamUzODdjQjBpTVd2c0VKTVlXRUVWd1paLXI2bjNuRXFwdTNzdi1CcHNSZXdUcVBZRzZ0WUxaNnZiczliMVhPRjFRVEJFdWNxb2wwek",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTHZMcWVlVkFPX1hsd3hXd0JhcmREYkd3bmRIaHVfOTY4TF8ybWptd2xQdy1VdXdRcU1QZlhRZzgxdEFvaWNiNzVXQlI0S0N1QlpfYzNvLTBzNFpjRXEzNXlJeldZWWlVTTFaWmJDamUzODdjQjBpTVd2c0VKTVlXRUVWd1paLXI2bjNuRXFwdTNzdi1CcHNSZXdUcVBZRzZ0WUxaNnZiczliMVhPRjFRVEJFdWNxb2wwekJ0bkFkVFczelM5a3FDcUlVdWRwR1dXSXAxd2ltanFtUQ?oc=5",
+      "title": "Bitcoin leads crypto market rebound above $85K as short liquidations accelerate",
+      "description": "Crypto markets rose on Friday as total market capitalisation reached $3.042 trillion, with Bitcoin reclaiming $85,000 amid easing Treasury yields and a short squeeze. Bitcoin gained about 2%, while Ethereum held above $2,700. Investors now await US jobs data for clues on Treasury yields, the dollar ",
+      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-leads-crypto-market-rebound-above-85k-as-short-liquidations-accelerate/articleshow/134634234.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-10-02",
+      "image": "",
+      "category": "currency"
+    },
+    {
+      "title": "ETMarkets Smart Talk: Rupee under pressure, inflation sticky: Will RBI be forced to rethink rates? Ankita Pathak, Ionic Asset",
+      "description": "With the Fed entering a tightening cycle, India faces a tougher monetary policy trade-off as the rupee remains under pressure and inflation shows signs of broadening. Ankita Pathak of Ionic Asset says RBI\u2019s policy flexibility could narrow, while elevated US yields and a stronger dollar may weigh on ",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-rupee-under-pressure-inflation-sticky-will-rbi-be-forced-to-rethink-rates-ankita-pathak-ionic-asset/articleshow/134634188.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-10-02",
+      "image": "",
+      "category": "central_bank"
+    },
+    {
+      "title": "Commodity Support and Resistance Levels for Precious Metals, Energy, and Agricultural Futures on 2026-10-02 - KuCoin",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNE8zN3cwRDF4ZXhTbHItLXo1OFdpOFFNQzRwdUcwYk53NkRYdU9LUVFiV09KeFNIWExyVTBpRklHdFJ1cENFTVBsX1lmWk8yQTJXeWVJU21nQjBNVkVzc0xOUEtxSDVRMF9ldzVIc0pWYW8yVnRaeDV3ZHhEMTVpdmVzQkpqemYwSXVzMmFwYXZpR3pqRjJBQ25Oa3FjelRNak9FNGQwZ3dRVmc2cHlhRE1yQkZMdDRqX1",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNE8zN3cwRDF4ZXhTbHItLXo1OFdpOFFNQzRwdUcwYk53NkRYdU9LUVFiV09KeFNIWExyVTBpRklHdFJ1cENFTVBsX1lmWk8yQTJXeWVJU21nQjBNVkVzc0xOUEtxSDVRMF9ldzVIc0pWYW8yVnRaeDV3ZHhEMTVpdmVzQkpqemYwSXVzMmFwYXZpR3pqRjJBQ25Oa3FjelRNak9FNGQwZ3dRVmc2cHlhRE1yQkZMdDRqX1RzOFRFaTExMFRkWWZHOGlFYzdTaTFiMHlJSUR3?oc=5",
       "source": "Google News - Precious Metals",
-      "date": "2026-10-01",
+      "date": "2026-10-02",
       "image": "",
       "category": "metals"
     },
     {
-      "title": "Astrologer Ashok Kharat in Nashik police custody in cheating case",
-      "description": "Astrologer Ashok Kharat remanded to Nashik police custody till Oct 2 in cheating and Black Magic Act case over Rs 2.6 lakh, gold rings fraud.",
-      "url": "https://timesofindia.indiatimes.com/city/nashik/astrologer-ashok-kharat-in-nashik-police-custody-in-cheating-case/articleshow/134600832.cms",
+      "title": "Ken Griffin\u2019s $3 billion gift exemplifies Florida\u2019s new mindset: from attracting innovation to creating it",
+      "description": "Our ambition is to become the place where the next generation of great American companies is built.",
+      "url": "https://fortune.com/2026/10/01/ken-griffin-3-billion-gift-carnegie-mellon-miami-florida-mindset/",
+      "source": "Fortune",
+      "date": "2026-10-01",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2200864565-e1790823619525.jpg?resize=1200,600",
+      "category": "market"
+    },
+    {
+      "title": "Tata Motors PV shares fall over 3% despite 40% Q2 sales growth; Nifty Auto index down over 4%",
+      "description": "Tata Motors Passenger Vehicles shares dipped on Thursday despite a 40% year-on-year rise in Q2 FY27 sales, while the Nifty Auto index declined more than 4%. The company reported strong growth across passenger vehicles and EVs, with quarterly EV sales rising 9\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/tata-motors-pv-shares-fall-over-3-despite-40-q2-sales-growth-nifty-auto-index-down-over-4/articleshow/134613600.cms",
       "source": "The Times of India",
-      "date": "2026-09-30",
-      "image": "https://static.toiimg.com/thumb/msid-134600831,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "Fire destroys house at Arpora, family escapes unhurt",
-      "description": "Fire destroys Arpora house in Tambudki; family escapes unhurt. Household items, furniture, gold and cash lost; fire likely started from palm fronds.",
-      "url": "https://timesofindia.indiatimes.com/city/goa/fire-destroys-house-at-arpora-family-escapes-unhurt/articleshow/134600733.cms",
-      "source": "The Times of India",
-      "date": "2026-09-30",
-      "image": "https://static.toiimg.com/thumb/msid-134600732,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "First Quantum Provides Update on Cobre Panam\u00e1",
-      "description": "TORONTO, Sept. 30, 2026 (GLOBE NEWSWIRE) \u2014 First Quantum Minerals Ltd. (\u201cFirst Quantum\u201d or the \u201cCompany\u201d) (TSX: FM) notes the submission of the studies, analysis and comprehensive audit report of Cobre Panam\u00e1 and its recommendations by the Ministerial Commiss\u2026",
-      "url": "https://financialpost.com/globe-newswire/first-quantum-provides-update-on-cobre-panama-3",
-      "source": "Financial Post",
-      "date": "2026-09-30",
-      "image": null,
+      "date": "2026-10-01",
+      "image": "https://img.etimg.com/thumb/msid-134613701,width-1200,height-900,imgsize-2062736,overlay-etmarkets/articleshow.jpg",
       "category": "market"
     },
     {
-      "title": "Will the Dyson AirstraIt Work for You? We Tested it on 5 Different Hair Types",
-      "description": "This Dyson Airstrait review breaks down how the wet-to-dry straightener works on five hair types, from 4b curls to ultra-fine straight hair.",
-      "url": "https://www.cosmopolitan.com/style-beauty/beauty/a73959331/dyson-airstrait-reviews/",
-      "source": "Cosmopolitan.com",
-      "date": "2026-09-30",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/33f4027c-1808-45f5-88f6-7a8843a24f69.jpg?crop=1xw:1.0xh;center,top&resize=1200:*",
+      "title": "SF alternative budget targets living costs, second homes",
+      "description": "Sinn F\u00e9in is proposing a permanent ten cent reduction in petrol and diesel as well as extending excise cuts for another six months as part of its \u20ac13.4 billion alternative budget package.",
+      "url": "https://www.rte.ie/news/politics/2026/1001/1593609-sf-alternative-budget-living-costs/",
+      "source": "RTE",
+      "date": "2026-10-01",
+      "image": "https://www.rte.ie/images/0023286e-1600.jpg",
       "category": "market"
     },
     {
-      "title": "Tether Just Minted Nearly Half a Billion in Gold",
-      "description": "On-chain analytics firm Arkham shows that this time, the company minted its XAUt tokens, its flagship gold-backed digital currency.",
-      "url": "https://zycrypto.com/tether-just-minted-nearly-half-a-billion-in-gold/",
-      "source": "ZyCrypto",
-      "date": "2026-09-30",
-      "image": "https://zycrypto.com/wp-content/uploads/2026/04/Tether-Holders-Are-Vanishing-Fast-\u2014-Is-This-the-Crypto-Market-Bottom-Signal.jpg",
-      "category": "currency"
-    },
-    {
-      "title": "How the Art of Hospitality is Changing Esports Players\u2019 Lives",
-      "description": "Hans Jagnow reveals how the Esports World Cup is elevating player hospitality, building community, and treating competitive gamers like rock stars.",
-      "url": "http://www.rollingstone.com/music/music-news/how-the-art-of-hospitality-changing-esports-players-lives-1235633130/",
-      "source": "Rolling Stone",
-      "date": "2026-09-30",
-      "image": "https://www.rollingstone.com/wp-content/uploads/2026/09/EWC26-20260823-Competition-_-Tournament-Grand-Final-Generic-_-Other-Counter-Strike-2-TEAM-SPIRIT-FUT-Esports-150523-2-HQ_LargeImage_m98180-2.jpg?w=1600&h=900&crop=1",
+      "title": "Luckin Coffee Celebrates 100 Stores in Singapore",
+      "description": "Luckin Coffee Inc. (&quot;Luckin Coffee&quot;, &quot;Luckin&quot; or the &quot;Company&quot;) (OTC: LKNCY) today announced the opening of its 100th store in ...",
+      "url": "https://en.antaranews.com/news/433707/luckin-coffee-celebrates-100-stores-in-singapore",
+      "source": "Antaranews.com",
+      "date": "2026-10-01",
+      "image": "https://cdn.antaranews.com/cache/1200x800/2026/10/01/luckie.jpg",
       "category": "market"
     },
     {
-      "title": "Meet Archy, the automated MCDONALD'S employee!",
-      "description": "McDonald\u2019s is going back for seconds after its first AI tool rollout failed.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/mcdonalds-spending-8-5-billion-153000377.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-09-30",
-      "image": "https://s.yimg.com/lo/mysterio/api/10ed8c413321a9c6004f15311a102205dcb7542c2eecefad23dd68f59475a969/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2Fc76a5b33a0ef1f5305e37af5f7d37d33.jpg",
-      "category": "market"
-    },
-    {
-      "title": "World Of Warcraft: Forever Isn\u2019t Even Out Yet, But It\u2019s Already Dealing With A Gold Buying Scandal",
-      "description": "Nothing gold can stay",
-      "url": "https://kotaku.com/world-of-warcraft-forever-gold-buying-rmt-2000738402",
-      "source": "Kotaku",
-      "date": "2026-09-30",
-      "image": "https://kotaku.com/app/uploads/2026/09/wow-forever-5-1.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "40 Trillion Reasons for Economic Collapse \u2013 Part 1, by Single Farmer",
-      "description": "We finally did it. We crossed 40 trillion dollars ($40,000,000,000,000) in national public debt on August 18, 2026. Congratulations to all the people who said we could get there if our politicians were just a little more irresponsible, foolish, short-sighted,\u2026",
-      "url": "https://activistpost.com/40-trillion-reasons-for-economic-collapse-part-1-by-single-farmer/",
-      "source": "Activistpost.com",
-      "date": "2026-09-30",
-      "image": "https://activistpost.com/wp-content/uploads/2026/09/Debt-Clock-Re-Trimmed-2026-711x350-1.jpg",
-      "category": "currency"
-    },
-    {
-      "title": "Archer Jyothi Surekha Vennam Aims For 2028 Olympics After Asian Games Gold",
-      "description": "India's top compound archer, Jyothi Surekha Vennam, discusses her recent performance at the Asian Games, including a women's team gold and an early individual exit. She expresses her determination to compete in the 2028 Olympics, where the compound mixed team\u2026",
-      "url": "https://www.rediff.com/sports/report/jyothi-surekha-aims-for-2028-olympics-compound-mixed-team/20260930.htm",
-      "source": "Rediff.com",
-      "date": "2026-09-30",
-      "image": "https://im.rediff.com/1200-630/sports/2025/oct/13medals.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "Silver Has Now Lost Nearly Half Its Value. Here\u2019s What Broke the Metals Trade",
-      "description": "The post Silver Has Now Lost Nearly Half Its Value. Here\u2019s What Broke the Metals Trade appeared first on 24/7 Wall St..\niShares Silver Trust (NYSEARCA:SLV) closed at $54.95 on Monday, down 5.49% from a prior close of $58.14. That leaves the fund 49.97% below \u2026",
-      "url": "https://biztoc.com/x/63e5e852b77734ba",
-      "source": "Biztoc.com",
-      "date": "2026-09-30",
-      "image": "https://biztoc.com/cdn/63e5e852b77734ba_s.webp",
-      "category": "metals"
-    },
-    {
-      "title": "Generation Mining Announces Acquisition of Shares of Elton Resources Corp.",
-      "description": "TORONTO \u2014 Generation Mining Limited (TSX: GENM) (OTCQB: GENMF) (the \u201cAcquiror\u201d) announces that it has acquired 39,268,426 common shares (each, a \u201cCommon Share\u201c) of Elton Resources Corp. (\u201cElton\u201c) in connection with the completion of the qualifying transaction\u2026",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/generation-mining-announces-acquisition-of-shares-of-elton-resources-corp",
-      "source": "Financial Post",
-      "date": "2026-09-30",
-      "image": null,
+      "title": "Broken Hill bags remnant gold ahead of SA mine restart",
+      "description": "Broken Hill Gold has poured an extra 174 gold ounces from its White Dam heap leach project in South Australia, with proceeds to fund the restart of mining at its Vertigo pit.",
+      "url": "https://www.smh.com.au/business/companies/broken-hill-bags-remnant-gold-ahead-of-sa-mine-restart-20261001-p6125a.html",
+      "source": "The Sydney Morning Herald",
+      "date": "2026-10-01",
+      "image": "https://static.ffx.io/images/$zoom_0.7354%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/ea8cb3cfc941c1ea85bb1483e6c61a5da52eed7647f459e5dcd55146b6f8f9a4",
       "category": "supply_demand"
     },
     {
-      "title": "Sensex today | Stock Market Highlights: Stock markets fall for 3rd day; Nifty down 96 points, Sensex slips to 72,480",
-      "description": "Sensex, Nifty, Share Prices Highlights: Market benchmark indices Sensex and Nifty ended lower on Wednesday, extending losses for the third straight day, as firm crude oil prices, elevated global bond yields and foreign fund outflows made investors jittery.",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-30-september-2026/article71523523.ece",
-      "source": "BusinessLine",
-      "date": "2026-09-30",
-      "image": "https://bl-i.thgim.com/public/incoming/r1tqyk/article71527298.ece/alternates/LANDSCAPE_1200/Stock%20market%20live",
+      "title": "IPO investors strike gold with 7 multibagger stocks in 3 months. Did you miss the bus?",
+      "description": "Between July and September 2026, the IPO market saw remarkable activity, with seven newly listed stocks seeing their prices double from initial offerings. Despite the triumphs, others faced steep declines. Overall, these IPOs yielded an average return of 36.4\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-investors-strike-gold-with-7-multibagger-stocks-in-3-months-did-you-miss-the-bus/articleshow/134608026.cms",
+      "source": "The Times of India",
+      "date": "2026-10-01",
+      "image": "https://img.etimg.com/thumb/msid-134608050,width-1200,height-900,imgsize-2145692,overlay-etmarkets/articleshow.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "You can trade stocks with Webull on TNG eWallet, but there\u2019s a catch",
+      "description": "TNG Digital and Webull Securities Malaysia have joined forces to enable TNG eWallet users to trade international stocks directly through the app\u2019s GOfinance hub.\u00a0 In case you didn\u2019t know, Webull digital investment platform that arrived in Malaysia on May 2024\u2026",
+      "url": "https://soyacincau.com/2026/10/01/tng-ewallet-trade-stocks-webull-malaysia/",
+      "source": "SoyaCincau.com",
+      "date": "2026-10-01",
+      "image": "https://soyacincau.com/wp-content/uploads/2026/09/Photo-1-Official-launch-of-Webull-on-TNG-eWallet.jpg",
       "category": "market"
     },
     {
-      "title": "Italpreziosi Official Sponsor of the Gala Dinner at the LBMA & LPPM Global Precious Metals Conference 2026",
-      "description": "AREZZO, Italy, Sept. 30, 2026 (GLOBE NEWSWIRE) \u2014 Italpreziosi S.p.A. will attend the Global Precious Metals Conference 2026, taking place from 4 to 6 October at the Hilton Sorrento Palace in Sorrento, marking the 25th edition of the international event dedica\u2026",
-      "url": "https://financialpost.com/globe-newswire/italpreziosi-official-sponsor-of-the-gala-dinner-at-the-lbma-lppm-global-precious-metals-conference-2026",
-      "source": "Financial Post",
-      "date": "2026-09-30",
-      "image": null,
+      "title": "Gold rate today (October 1, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from Malabar Gold & Diamonds, Joyalukkas, Kalyan Jewellers, Tanishq & IBJA in Delhi, Mumbai, Hyderabad & more cities",
+      "description": "Gold Rate: On October 1, 2026, a shift was observed in the gold market as prices fell at key jewellery outlets in India. In Delhi, Tanishq offered 22k gold jewellery at Rs 13,725 per gram, a decrease from Rs 13,755 previously. Malabar Gold & Diamonds also rep\u2026",
+      "url": "https://economictimes.indiatimes.com/wealth/invest/gold-rate-today-october-1-check-18k-20k-24k-ibja-gold-price-malabar-gold-kalyan-jewelers-joyalukkas-delhi-hyderabad-bengaluru/articleshow/134612180.cms",
+      "source": "The Times of India",
+      "date": "2026-10-01",
+      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1499020,resizemode-75,msid-134612180/wealth/invest/gold-rate-today-october-1-check-18k-20k-24k-ibja-gold-price-malabar-gold-kalyan-jewelers-joyalukkas-delhi-hyderabad-bengaluru.jpg",
       "category": "metals"
     },
     {
-      "title": "Gold and silver crash as 10-year yield tops 5.2%",
-      "description": "Every investor eventually learns that safety has a price. You just don't always see the bill until it shows up.\nFor most of the past two years, the bill for owning gold and silver looked tiny. The metals paid you nothing, but savings accounts and bonds paid s\u2026",
-      "url": "https://biztoc.com/x/a7e3bcd2ac294cd4",
-      "source": "Biztoc.com",
-      "date": "2026-09-30",
-      "image": "https://biztoc.com/cdn/a7e3bcd2ac294cd4_s.webp",
-      "category": "metals"
-    },
-    {
-      "title": "Gold set to register monthly decline as investors brace for US inflation data",
-      "description": "Gold eases as US inflation data loom, fading monthly gains amid rate-hike bets and a stronger dollar, with metals set for declines.",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-set-to-register-monthly-decline-as-investors-brace-for-us-inflation-data/article71526677.ece",
+      "title": "Selling deepens into midday; auto and metals lead declines as FII outflows cross \u20b926,000 crore",
+      "description": "The selloff came despite softer crude oil prices, with WTI crude trading in the $89\u2013$90 per barrel range, down 0.79 per cent on the day, after retreating from an intraday high of $90.69.",
+      "url": "https://www.thehindubusinessline.com/markets/selling-deepens-into-midday-auto-and-metals-lead-declines-as-fii-outflows-cross-26000-crore/article71531868.ece",
       "source": "BusinessLine",
-      "date": "2026-09-30",
-      "image": "https://bl-i.thgim.com/public/incoming/1k0igg/article71512469.ece/alternates/LANDSCAPE_1200/IMG_bl09_gold_promo_2_1_URG3B8VU.jpg",
+      "date": "2026-10-01",
+      "image": "https://bl-i.thgim.com/public/incoming/p3hhei/article71531936.ece/alternates/LANDSCAPE_1200/iStock-1405176819.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Gold inches higher as softer US inflation dims October Fed hike bets",
+      "description": "Gold climbs as softer US inflation dims October rate-hike bets, with metals buoyed by easing rate expectations and upcoming jobs data.",
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-inches-higher-as-softer-us-inflation-dims-october-fed-hike-bets/article71531525.ece",
+      "source": "BusinessLine",
+      "date": "2026-10-01",
+      "image": "https://bl-i.thgim.com/public/incoming/tabyye/article71531806.ece/alternates/LANDSCAPE_1200/iStock-1472696526.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "2026 Nanoq Drilling Programme Completed and Initial Positive Metallurgical Test Work Results",
+      "description": "Reykjav\u00edk, Oct. 01, 2026 (GLOBE NEWSWIRE) \u2014 Amaroq Ltd.(\u201cAmaroq\u201d or the \u201cCompany\u201d) 2026 Nanoq Drilling Programme Completed and Initial Positive Metallurgical Test Work Results 1 October 2026 \u2013 Amaroq Ltd. (LSE and NASDAQ Iceland: AMRQ, OTCQX: AMRQF), an indep\u2026",
+      "url": "https://financialpost.com/globe-newswire/2026-nanoq-drilling-programme-completed-and-initial-positive-metallurgical-test-work-results",
+      "source": "Financial Post",
+      "date": "2026-10-01",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "We Are Now in the Final Looting Stage of America\u2019s Wealth",
+      "description": "The Pillaging Goes Into Hyperdrive I\u2019ve been warning for years that the American Empire and dollar hegemony would not end with a bang, but with a systematic, insider-driven looting of everything real that remains. That moment is now. It\u2019s clear to me that we \u2026",
+      "url": "https://www.naturalnews.com/2026-10-01-now-in-final-looting-stage-of-americas-wealth.html",
+      "source": "Naturalnews.com",
+      "date": "2026-10-01",
+      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/wealth-inequality-dollar-hegemony-insider-trading-4616-original.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Gold and silver price today, Oct 1: Check retail rates of 24K, 22K gold and 999 silver in Mumbai, Delhi, other cities",
+      "description": "Gold and silver prices in India witnessed a xx during early trading hours on Thursday. Check retail rates of the precious metals in top metro cities of the country.",
+      "url": "https://www.livemint.com/money/gold-and-silver-price-today-oct-1-check-retail-rates-of-24k-22k-gold-and-999-silver-in-mumbai-delhi-other-cities-11790821117747.html",
+      "source": "Livemint",
+      "date": "2026-10-01",
+      "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/gold_and_silver_1790822885101_XEnN_1790822885304_y1E1_1d2a37c7-6bb8-4cd1-86d4-8d38133ce20a_JIgS.png",
+      "category": "metals"
+    },
+    {
+      "title": "Yields, dollar hold key to gold, silver trajectory in H2FY27: Apurva Seth",
+      "description": "Gold and silver have corrected sharply since April, falling 11 per cent and 19 per cent, respectively, in USD terms.",
+      "url": "https://www.business-standard.com/markets/commodities/yields-dollar-hold-key-to-gold-silver-trajectory-in-h2fy27-apurva-seth-126093000772_1.html",
+      "source": "Business Standard",
+      "date": "2026-10-01",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-04/07/thumb/fitandfill/1200X628/1775547674-942.jpeg",
       "category": "currency"
     },
     {
-      "title": "Tungsten Debuts Tool to Streamline Invoice-to-Pay Automation",
-      "description": "Tungsten Automation has introduced the accounts payable automation engine for its invoice-to-pay platform.\nThe workflow automation company\u2019s new InvoiceAgility+ is designed to use agentic artificial intelligence (AI) to provide end-to-end invoice-to-pay autom\u2026",
-      "url": "https://biztoc.com/x/5e2eebdd40be6a30",
+      "title": "Barcelona Star Lamine Yamal Will \u2018Unite\u2019 With Then Overtake Messi",
+      "description": "Barcelona icons Lamine Yamal and Lionel Messi are set to be united in 2027 before the youngster once again succeeds the Argentine in another ceremonial act.",
+      "url": "https://www.forbes.com/sites/tomsanderson/2026/10/01/barcelona-star-lamine-yamal-will-unite-with-then-overtake-messi/",
+      "source": "Forbes",
+      "date": "2026-10-01",
+      "image": "https://s.yimg.com/lo/mysterio/api/8a4b7a9ad2820080ec2b44785241a3eccdd72f7c75eb6a19527be293747de59a/lightyear_networkapi/resizefill_w958_h638%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F86d5a3cc960c9127b58633cebc30dd54.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Neighbours in Mumbai fondly recall hero pilot Smit Machchhar, pray for his speedy recovery",
+      "description": "Friends of the family came together to help Machchhar\u2019s parents fly to Saudi Arabia to be with their son, who is receiving treatment for injuries suffered during the fight with his co-pilot",
+      "url": "https://www.thehindubusinessline.com/news/variety/neighbours-in-mumbai-fondly-recall-hero-pilot-smit-machchhar-pray-for-his-speedy-recovery/article71531794.ece",
+      "source": "BusinessLine",
+      "date": "2026-10-01",
+      "image": "https://bl-i.thgim.com/public/incoming/qh33o1/article71532262.ece/alternates/LANDSCAPE_1200/2026-10-01T031416Z_1628304511_RC22UNAS3SOF_RTRMADP_3_ISRAEL-GULF-FLIGHT-PILOT.JPG",
+      "category": "market"
+    },
+    {
+      "title": "\u300cS.T.A.L.K.E.R. 2\u300d\uff0c\u5927\u578b\u62e1\u5f35\u30b3\u30f3\u30c6\u30f3\u30c4\u300cCost of Hope\u300d\u306e\u30a2\u30b3\u30ec\u30fc\u30c9\u30c8\u30ec\u30a4\u30e9\u30fc\u3092\u516c\u958b",
+      "description": "S.T.A.L.K.E.R. 2: Heart of Chornobyl S.T.A.L.K.E.R. 2: Heart of Chornobyl S.T.A.L.K.E.R. 2: Heart of\u2026",
+      "url": "https://www.4gamer.net/games/127/G012714/20261001039/",
+      "source": "4gamer.net",
+      "date": "2026-10-01",
+      "image": "https://www.4gamer.net/games/127/G012714/20261001039/SS/001.jpg",
+      "category": "market"
+    },
+    {
+      "title": "3 Key Reasons to Buy This Huge Turnaround Story That's Gaining Traction",
+      "description": "After a brutal 2025, Stellantis (NYSE: STLA) Chief Executive Officer Antonio Filosa quickly unveiled a major $70 billion global turnaround plan referred to as \"FaSTLAne 2030.\" The broad strategy was mostly well received, but Wall Street is giving the automake\u2026",
+      "url": "https://biztoc.com/x/4711b3c0c7acc823",
       "source": "Biztoc.com",
-      "date": "2026-09-30",
-      "image": "https://biztoc.com/cdn/996/og.png",
+      "date": "2026-10-01",
+      "image": "https://biztoc.com/cdn/4711b3c0c7acc823_s.webp",
       "category": "market"
     },
     {
-      "title": "October\u2019s Jordan Retro Line-Up Includes Halloween Heat And More",
-      "description": "Jordan Brand is embracing the darker side of Fall with its October 2026 release calendar. Summer is way behind us, fashion sense shifts to darker...\n\n\u00a9 Sneaker News, 2026. |\nPermalink\n|\nNo comment\n|\nAdd todel.icio.us\n\n\nThe post October's Jordan Retro Line-Up \u2026",
-      "url": "https://sneakernews.com/2026/09/30/air-jordan-release-dates-october-2026/",
-      "source": "Sneaker News",
-      "date": "2026-09-30",
-      "image": "https://sneakernews.com/wp-content/uploads/2026/09/jordan-release-dates-october-2026.jpg",
+      "title": "Walmart Global Tech ties up with IIM Kozhikode to launch incubation programme",
+      "description": "Deep Leap will engage with 1,500 startups from across the country from which 50 startups will be selected for a 12-month incubation and acceleration cohort.",
+      "url": "https://www.thehindubusinessline.com/info-tech/walmart-global-tech-ties-up-with-iim-kozhikode-to-launch-incubation-programme/article71532260.ece",
+      "source": "BusinessLine",
+      "date": "2026-10-01",
+      "image": "https://bl-i.thgim.com/public/incoming/1mksw4/article70588970.ece/alternates/LANDSCAPE_1200/2026-01-15T235642Z_1802043385_RC21DIA37QYQ_RTRMADP_3_WALMART-MANAGEMENT.JPG",
       "category": "market"
     },
     {
-      "title": "Darjeeling 'Toy Train' chugs into top 50 global destinations in 2027",
-      "description": "The Darjeeling Himalayan Railway (DHR) has been named among Lonely Planet\u2019s 50 Best in Travel 2027 destinations, with Darjeeling recognised as a top destination for a toy-train journey.",
-      "url": "https://economictimes.indiatimes.com/news/india/darjeeling-toy-train-chugs-into-top-50-global-destinations-in-2027/articleshow/134600851.cms",
-      "source": "The Times of India",
-      "date": "2026-09-30",
-      "image": "https://img.etimg.com/thumb/msid-134600900,width-1200,height-900,imgsize-184772,overlay-economictimes/articleshow.jpg",
-      "category": "market"
+      "title": "Germans' biggest fear is the high cost of living, an annual study finds",
+      "description": "What do Germans fear most in 2026? Wars? Global crises? Wrong. Their biggest concern is the cost of living, which keeps rising.",
+      "url": "https://www.dw.com/en/germans-biggest-fear-is-the-high-cost-of-living-an-annual-study-finds/a-79497762",
+      "source": "DW (English)",
+      "date": "2026-10-01",
+      "image": "https://static.dw.com/image/79397265_6.jpg",
+      "category": "geopolitics"
     },
     {
-      "title": "7 Perfect Netflix Sci-Fi Shows Worth Watching Over and Over",
-      "description": "Netflix has some seriously underrated sci-fi gems that are compelling to watch, whether it's the first time or the hundredth time, they always land.",
-      "url": "https://screenrant.com/netflix-sci-fi-shows-worth-rewatching/",
-      "source": "Screen Rant",
-      "date": "2026-09-30",
-      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/09/tuppence-middleton-as-riley-blue-in-sense8.jpg?w=1600&h=900&fit=crop",
-      "category": "market"
-    },
-    {
-      "title": "mcp-bruno added to PyPI",
-      "description": "MCP server for running and inspecting Bruno API collections",
-      "url": "https://pypi.org/project/mcp-bruno/",
-      "source": "Pypi.org",
-      "date": "2026-09-30",
+      "title": "Arsene Wenger urged to stand against Gianni Infantino in FIFA elections",
+      "description": "How the League will now proceed to hear the ManC case Can ManC be thrown out of the League or is there a way around this fight? By Tony Attwood Since November 2019, Ars\u00e8ne Charles Ernest Wenger has been Fifa\u2019s \u201cChief of Global Football Development\u201d which as t\u2026",
+      "url": "https://untold-arsenal.com/archives/123362",
+      "source": "Untold-arsenal.com",
+      "date": "2026-10-01",
       "image": null,
       "category": "market"
     },
     {
-      "title": "Fortune Media and Great Place To Work Name Roth Staffing Companies to 2026 Best Workplaces in Consulting & Professional Services List, Ranking No. 3 in Small/Medium Category",
-      "description": "ORANGE, Calif., Sept. 30, 2026 /PRNewswire/ -- Great Place To Work\u00ae and Fortune magazine have selected Roth Staffing Companies for the 2026 Fortune Best Workplaces in Consulting & Professional Services\u2122 List. This is Roth Staffing's 10th time being named to t\u2026",
-      "url": "https://www.prnewswire.com/news-releases/fortune-media-and-great-place-to-work-name-roth-staffing-companies-to-2026-best-workplaces-in-consulting--professional-services-list-ranking-no-3-in-smallmedium-category-302894651.html",
-      "source": "PRNewswire",
-      "date": "2026-09-30",
-      "image": "https://mmx.prnewswire.com/media/MS1999840/Roth-Staffing-Los-Angeles-2026.jpg?id=OA2980023&p=facebook",
+      "title": "CEAT expands Chennai plant to boost premium tyre production for India, global markets",
+      "description": "CEAT has expanded its manufacturing capabilities at the Chennai plant across various tyre categories and segments. This expansion will enhance the production of advanced products for both domestic and international markets. The facility can now produce seven \u2026",
+      "url": "https://economictimes.indiatimes.com/industry/auto/tyres/ceat-unveils-major-expansion-of-chennai-plant-elevating-premium-tyre-production-for-global-markets/articleshow/134614496.cms",
+      "source": "The Times of India",
+      "date": "2026-10-01",
+      "image": "https://img.etimg.com/thumb/msid-134614629,width-1200,height-900,imgsize-117580,overlay-economictimes/articleshow.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "'Stand With the People': Progressive Caucus Leader Calls on All Democrats to Reject AI Billionaire Cash",
+      "description": "The chair of the Congressional Progressive Caucus on Wednesday urged all Democrats to reject campaign cash from billionaires whose wealth stems from the artificial intelligence industry, following news that the president of OpenAI abandoned plans to donate mi\u2026",
+      "url": "https://www.commondreams.org/news/democrats-ai-donations",
+      "source": "Common Dreams",
+      "date": "2026-10-01",
+      "image": "https://www.commondreams.org/media-library/image.jpg?id=68005526&width=1200&height=600&coordinates=0%2C429%2C0%2C429",
       "category": "market"
     },
     {
-      "title": "Illinois Department Of Revenue Issues Draft Crypto Tax Rules Detail 0.2% Rate",
-      "description": "In a major development confirmed on SEPTEMBER 29, 2026, Confirmed announcement/filing for Illinois Department Of Revenue Issues Draft Crypto Tax Rules Detail 0.2% Rate. This operational move highlights expanding activity across the digital asset ecosystem and\u2026",
-      "url": "https://bitcoinist.com/illinois-department-of-revenue-issues-draft-crypto-tax-rules-detail-0/",
-      "source": "Bitcoinist",
-      "date": "2026-09-30",
-      "image": "https://bitcoinist.com/wp-content/uploads/2026/09/b424d8fa68ea4a5eb52d5f60ad108492.png.jpeg",
+      "title": "Trump\u2019s Latest Attempt to Cheat in the Midterms Faces Little Blowback",
+      "description": "These ads violate at least two laws.",
+      "url": "https://slate.com/news-and-politics/2026/10/can-trump-campaign-ads-taxpayer-dollars-2026-cheating.html",
+      "source": "Slate Magazine",
+      "date": "2026-10-01",
+      "image": "https://compote.slate.com/images/7e460b3b-cba8-4a7f-aca9-678fe28af603.jpeg?crop=1403%2C936%2Cx0%2Cy0&width=1560",
       "category": "market"
     },
     {
-      "title": "TORRIDON GROUP AND STRATEGIC AFFAIRS GROUP ANNOUNCE STRATEGIC ALLIANCE",
-      "description": "US-Mexico Advisory Alliance to Offer Premier Binational Full-Service Support for Business Operations in Latin America WASHINGTON and MEXICO CITY, Sept. 30, 2026 /PRNewswire/ -- Torridon Group LLC today announced a strategic alliance with Strategic Affairs Gro\u2026",
-      "url": "https://www.prnewswire.com/news-releases/torridon-group-and-strategic-affairs-group-announce-strategic-alliance-302894873.html",
-      "source": "PRNewswire",
-      "date": "2026-09-30",
-      "image": "https://mmx.prnewswire.com/media/MS2000042/Torridon-Group-logo.jpg?id=OA2980601&p=facebook",
+      "title": "\u2018I Know I Couldn\u2019t Live Here\u2019: Standing Up to a Data Center in Alabama\u2019s Black Belt",
+      "description": "Faced with little transparency about a mammoth facility, Lowndes County fights back.\nThe post \u2018I Know I Couldn\u2019t Live Here\u2019: Standing Up to a Data Center in Alabama\u2019s Black Belt appeared first on The American Prospect.",
+      "url": "https://prospect.org/2026/10/01/data-center-alabama-lowndes-county-black-belt-cloverleaf-infrastructure-project-red-clay/",
+      "source": "The American Prospect",
+      "date": "2026-10-01",
+      "image": "https://i0.wp.com/prospect.org/wp-content/uploads/2026/10/wiresandpipes.jpg?fit=2400%2C1800&ssl=1",
       "category": "market"
     }
   ],
@@ -497,17 +497,17 @@
       "platinum_usd_oz": 1857.35
     },
     {
-      "date": "2026-10-01",
+      "date": "2026-10-02",
       "week": "2026-W40",
-      "gold_10g": 128808.74,
-      "silver_kg": 187395.16,
-      "platinum_g": 5296.21,
-      "gold_usd_oz": 4172.65,
-      "silver_usd_oz": 60.7,
-      "platinum_usd_oz": 1715.66
+      "gold_10g": 129658.02,
+      "silver_kg": 189657.54,
+      "platinum_g": 5374.62,
+      "gold_usd_oz": 4185.74,
+      "silver_usd_oz": 61.23,
+      "platinum_usd_oz": 1735.09
     }
   ],
-  "timestamp": "2026-10-02T00:02:30.886923+05:30",
+  "timestamp": "2026-10-02T15:26:56.637971+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
