@@ -1,24 +1,24 @@
 {
   "prices": {
     "gold": {
-      "price_per_gram_inr": 12793.87,
-      "price_usd_oz": 4130.23,
-      "change_percent": -1.14,
-      "change_value_usd": -47.46,
-      "price_per_10g_inr": 127938.69
+      "price_per_gram_inr": 12813.12,
+      "price_usd_oz": 4136.45,
+      "change_percent": -0.99,
+      "change_value_usd": -41.24,
+      "price_per_10g_inr": 128131.21
     },
     "silver": {
-      "price_per_gram_inr": 185.22,
-      "price_usd_oz": 59.8,
-      "change_percent": -1.96,
-      "change_value_usd": -1.2,
-      "price_per_kg_inr": 185221.76
+      "price_per_gram_inr": 186.52,
+      "price_usd_oz": 60.21,
+      "change_percent": -1.28,
+      "change_value_usd": -0.78,
+      "price_per_kg_inr": 186516.56
     },
     "platinum": {
-      "price_per_gram_inr": 5226.93,
-      "price_usd_oz": 1687.4,
-      "change_percent": -2.4,
-      "change_value_usd": -41.41
+      "price_per_gram_inr": 5236.82,
+      "price_usd_oz": 1690.6,
+      "change_percent": -2.21,
+      "change_value_usd": -38.22
     },
     "currencies": {
       "USD_INR": 96.3466,
@@ -30,8 +30,8 @@
       "CAD_INR": 67.7019,
       "SGD_INR": 75.2473
     },
-    "gold_silver_ratio": 69.07,
-    "timestamp": "2026-10-02T15:55:23.830877",
+    "gold_silver_ratio": 68.7,
+    "timestamp": "2026-10-02T17:59:24.328647",
     "source": "GoldAPI"
   },
   "currencies": {
@@ -49,12 +49,12 @@
       "metal": "gold",
       "recommendation": "SELL",
       "confidence": {
-        "buy": 10,
-        "sell": 64,
-        "hold": 26
+        "buy": 15,
+        "sell": 56,
+        "hold": 29
       },
-      "summary": "Gold is showing negative signals. Significant daily drop of -1.1%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-02T15:55:30.094894",
+      "summary": "Gold is showing negative signals. Slight decline of -1.0%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-10-02T17:59:30.364889",
       "source": "rule-based"
     },
     "silver": {
@@ -65,8 +65,8 @@
         "sell": 64,
         "hold": 26
       },
-      "summary": "Silver is showing negative signals. Significant daily drop of -2.0%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-02T15:55:30.200517",
+      "summary": "Silver is showing negative signals. Significant daily drop of -1.3%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-10-02T17:59:30.441842",
       "source": "rule-based"
     },
     "platinum": {
@@ -77,8 +77,8 @@
         "sell": 64,
         "hold": 26
       },
-      "summary": "Platinum is showing negative signals. Significant daily drop of -2.4%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-02T15:55:30.294836",
+      "summary": "Platinum is showing negative signals. Significant daily drop of -2.2%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-10-02T17:59:30.510213",
       "source": "rule-based"
     }
   },
@@ -90,13 +90,13 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA above long-term MA (uptrend)",
-        "Weak momentum: -3.8% in 4 weeks"
+        "Weak momentum: -3.6% in 4 weeks"
       ],
       "support": 124137.93,
       "resistance": 140736.5,
-      "current_price": 127938.69,
-      "ma_short": 132445.08,
-      "ma_long": 131476.77,
+      "current_price": 128131.21,
+      "ma_short": 132493.21,
+      "ma_long": 131496.02,
       "trend_score": -2.0
     },
     "silver": {
@@ -106,14 +106,14 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -4.9% in 4 weeks",
+        "Weak momentum: -4.2% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
       "support": 176726.94,
       "resistance": 243170.57,
-      "current_price": 185221.76,
-      "ma_short": 196069.11,
-      "ma_long": 199491.3,
+      "current_price": 186516.56,
+      "ma_short": 196392.81,
+      "ma_long": 199620.78,
       "trend_score": -3.5
     },
     "platinum": {
@@ -123,13 +123,13 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA above long-term MA (uptrend)",
-        "Weak momentum: -2.5% in 4 weeks"
+        "Weak momentum: -2.3% in 4 weeks"
       ],
       "support": 4961.56,
       "resistance": 6206.5,
-      "current_price": 5226.93,
-      "ma_short": 5447.39,
-      "ma_long": 5392.03,
+      "current_price": 5236.82,
+      "ma_short": 5449.86,
+      "ma_long": 5393.02,
       "trend_score": -2.0
     }
   },
@@ -162,6 +162,60 @@
       "category": "central_bank"
     },
     {
+      "title": "Trump to Reward People Who Buy His Crypto for Making Him Rich",
+      "description": "President Donald Trump will be hosting the \u201cmost EXCLUSIVE DINNER IN THE WORLD\u201d to the top purchasers of his cryptocurrency.\u00a0The Washington Sun reported Thursday that the website for Trump\u2019s meme coin, GetTrumpMemes.com, is offering invitations to \u201can evening\u2026",
+      "url": "https://newrepublic.com/post/216118/donald-trump-dinner-top-buyers-crypto",
+      "source": "The New Republic",
+      "date": "2026-10-01",
+      "image": "https://images.newrepublic.com/0edf9345104a8d370163f98f097562c1812a66b3.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "The Best Physical Media Releases Of September 2026",
+      "description": "Uproxx\r\n\n'Project Hail Mary,' R.E.M., Hamilton, Michael Jackson, and more were among the best physical media releases of the month.",
+      "url": "https://uproxx.com/music/best-physical-media-releases-september-2026/",
+      "source": "UPROXX",
+      "date": "2026-10-01",
+      "image": "https://uproxx.com/wp-content/uploads/2026/09/09.29_Physical-Media-Art_Image-Set_710x400.jpg?w=710",
+      "category": "market"
+    },
+    {
+      "title": "Hollywood Dealmakers Eye Creators as Mega-Merger Options Dwindle",
+      "description": "TheGrill 2026: Traditional talent\u2019s move to YouTube is opening new investment opportunities in creators and IP\nThe post Hollywood Dealmakers Eye Creators as Mega-Merger Options Dwindle appeared first on TheWrap.",
+      "url": "https://www.thewrap.com/industry-news/deals-ma/hollywood-dealmakers-creators-mega-mergers-youtube/",
+      "source": "TheWrap",
+      "date": "2026-10-01",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/09/thewrap-thegrill-roger-cheng.jpg",
+      "category": "market"
+    },
+    {
+      "title": "12.1.5 Content Update Notes \u2014 World of Warcraft \u2014 Blizzard News",
+      "description": "Midnight\u2019s 12.1.5 content update brings the Labyrinth of Kindo\u2019jan\u2014a massive nine-chamber Delve-like challenge, a new single-boss raid, Season 2's mid-season refresh, the continuation of the...ByBlizzard Entertainment on 2026/10/01 at 12:00 PM",
+      "url": "https://www.wowhead.com/blue-tracker/news/eu/12-1-5-content-update-notes-world-of-warcraft-blizzard-news-24304162",
+      "source": "Wowhead.com",
+      "date": "2026-10-01",
+      "image": "https://wow.zamimg.com/images/logos/share-icon.png",
+      "category": "geopolitics"
+    },
+    {
+      "title": "The Pentagon\u2019s Chinese Tungsten Ban Starts in 15 Months",
+      "description": "Issued on behalf of Western Star Resources Inc. VANCOUVER, British Columbia, Oct. 01, 2026 (GLOBE NEWSWIRE) \u2014 Energy Metal News News Commentary \u2013 On January 1, 2027, the U.S. Department of War loses the ability to buy tungsten mined, refined or produced in Ch\u2026",
+      "url": "https://financialpost.com/globe-newswire/the-pentagons-chinese-tungsten-ban-starts-in-15-months",
+      "source": "Financial Post",
+      "date": "2026-10-01",
+      "image": null,
+      "category": "geopolitics"
+    },
+    {
+      "title": "20VC x SaaStr: Anthropic\u2019s S-1 Leaks, Instinct Hits $10 Billion in 33 Days, AMD Buys World Labs, and Meta Poaches MongoDB\u2019s CEO",
+      "description": "Benchmark\u2019s Jack Altman joins Harry Stebbings, Rory O\u2019Driscoll and Jason Lemkin: AMD buys World Labs for $8.2B, Meta hires away MongoDB\u2019s CEO, a mock Investment Committee on Jev at $10B, and Oura pulls its IPO two days before pricing This week\u2019s episode had a\u2026",
+      "url": "https://www.saastr.com/20vc-x-saastr-anthropics-s-1-leaks-instinct-hits-10-billion-in-33-days-amd-buys-world-labs-and-meta-poaches-mongodbs-ceo/",
+      "source": "Saastr.com",
+      "date": "2026-10-01",
+      "image": "https://i0.wp.com/www.saastr.com/wp-content/uploads/2026/10/20vc1001sm-scaled.jpg?fit=1000%2C565&quality=70&ssl=1",
+      "category": "market"
+    },
+    {
       "title": "Mutual fund portfolio: How conservative, moderate and aggressive investors can allocate in current scenario",
       "description": "Large- and small-cap mutual funds are seeing different investor interest, raising questions about how you should allocate across equity and other asset classes. A September report outlines how conservative, moderate, and aggressive investors could structure t\u2026",
       "url": "https://www.livemint.com/money/personal-finance/mutual-fund-portfolio-how-conservative-moderate-and-aggressive-investors-can-allocate-in-current-scenario-11790861478242.html",
@@ -180,58 +234,13 @@
       "category": "market"
     },
     {
-      "title": "Sebi revamps Document Number Verification System, adds subject matter as mandatory field",
-      "description": "Sebi has revamped its Document Number Verification System, making a letter\u2019s subject matter mandatory for authentication. The upgraded system aligns with Sebi\u2019s E-Office format and lets recipients verify physical letters, notices and show-cause notices issued\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-revamps-document-number-verification-system-adds-subject-matter-as-mandatory-field/articleshow/134621918.cms",
-      "source": "The Times of India",
+      "title": "Record Gold Miner Cash Flow Puts Near-Surface Discoveries in Focus",
+      "description": "News Provided by US Metal News on behalf of Yukon Metals Corp. VANCOUVER, British Columbia, Oct. 01, 2026 (GLOBE NEWSWIRE) \u2014 US Metal News News Commentary \u2013 Major gold producers, including Agnico Eagle and Newmont, just reported record quarterly free cash flo\u2026",
+      "url": "https://financialpost.com/globe-newswire/record-gold-miner-cash-flow-puts-near-surface-discoveries-in-focus",
+      "source": "Financial Post",
       "date": "2026-10-01",
-      "image": "https://img.etimg.com/thumb/msid-134621935,width-1200,height-900,imgsize-11702,overlay-etmarkets/articleshow.jpg",
-      "category": "market"
-    },
-    {
-      "title": "\u2018Detaining without bond hearing violates federal law\u2019: Supreme Court to review Trump\u2019s immigration policy",
-      "description": "The US Supreme Court on Thursday agreed to review the Trump administration\u2019s policy of denying bond hearings to immigrants detained while facing possible",
-      "url": "https://timesofindia.indiatimes.com/world/us/detaining-without-bond-hearing-violates-federal-law-supreme-court-to-review-trumps-immigration-policy/articleshow/134621784.cms",
-      "source": "The Times of India",
-      "date": "2026-10-01",
-      "image": "https://static.toiimg.com/thumb/msid-134621796,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "State transfers 1,177 acres to BSF for Bangla border fencing",
-      "description": "West Bengal transfers 1,177 acres to BSF for India-Bangladesh border fencing; 93 acres pending as land handover is expedited across districts.",
-      "url": "https://timesofindia.indiatimes.com/city/kolkata/state-transfers-1177-acres-to-bsf-for-bangla-border-fencing/articleshow/134621771.cms",
-      "source": "The Times of India",
-      "date": "2026-10-01",
-      "image": "https://static.toiimg.com/thumb/msid-134621769,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Goods auto overturns following collision near Pallipalayam, traffic hit",
-      "description": "Goods auto overturned after colliding with a truck near Pallipalayam in Namakkal, causing traffic congestion on Pallipalayam\u2013Tiruchengode road for over an hour.",
-      "url": "https://timesofindia.indiatimes.com/city/coimbatore/goods-auto-overturns-following-collision-near-pallipalayam-traffic-hit/articleshow/134621767.cms",
-      "source": "The Times of India",
-      "date": "2026-10-01",
-      "image": "https://static.toiimg.com/thumb/msid-134621766,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "category": "market"
-    },
-    {
-      "title": "500 structures demolished, 100 families await rehab: Mumbai's Garib Nagar residents finally get Kurla flats",
-      "description": "After months of uncertainty, 100 residents from Garib Nagar received keys to their new rehabilitation flats in Kurla. The MMRDA utilized a newly developed computerized system to ensure transparency in the allotment process. Delays in the rehabilitation were p\u2026",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/500-structures-demolished-100-families-await-rehab-garib-nagar-residents-finally-get-kurla-flats/articleshow/134621495.cms",
-      "source": "The Times of India",
-      "date": "2026-10-01",
-      "image": "https://static.toiimg.com/thumb/msid-134621688,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Srirnagam temple land fraud case: DMK functionary arrested",
-      "description": "TRICHY: Hours after his anticipatory bail plea was dismissed by the Madurai bench of the Madras high court, DMK Srirangam area secretary M Ramkumar was",
-      "url": "https://timesofindia.indiatimes.com/city/trichy/srirnagam-temple-land-fraud-case-dmk-functionary-arrested/articleshow/134621645.cms",
-      "source": "The Times of India",
-      "date": "2026-10-01",
-      "image": "https://static.toiimg.com/thumb/msid-134621728,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "category": "market"
+      "image": null,
+      "category": "metals"
     },
     {
       "title": "KunstlerCast 452 \u2014 Sally Fallon Morell: Nourishing Traditions versus Diet Hysteria and Poison Food",
@@ -288,120 +297,111 @@
       "category": "market"
     },
     {
-      "title": "Gold inches higher as softer US inflation dims October Fed hike bets",
-      "description": "Gold climbs as softer US inflation dims October rate-hike bets, with metals buoyed by easing rate expectations and upcoming jobs data.",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-inches-higher-as-softer-us-inflation-dims-october-fed-hike-bets/article71531525.ece",
-      "source": "BusinessLine",
+      "title": "McKool Smith Named 2026 IP \"Litigation Department of the Year\" by Texas Lawyer",
+      "description": "DALLAS, Oct. 1, 2026 /PRNewswire/ -- McKool Smith has been named Intellectual Property \"Litigation Department of the Year\" at the 2026 Texas Legal Awards, presented by Texas Lawyer. The Texas Legal Awards honor the attorneys and law firms making a lasting imp\u2026",
+      "url": "https://www.prnewswire.com/news-releases/mckool-smith-named-2026-ip-litigation-department-of-the-year-by-texas-lawyer-302896389.html",
+      "source": "PRNewswire",
       "date": "2026-10-01",
-      "image": "https://bl-i.thgim.com/public/incoming/tabyye/article71531806.ece/alternates/LANDSCAPE_1200/iStock-1472696526.jpg",
-      "category": "central_bank"
+      "image": null,
+      "category": "geopolitics"
     },
     {
-      "title": "Alternative-Fuel Ship Orders Surge to Two-Year High",
-      "description": "Alternative-fuel ship orders rebounded sharply in the third quarter, with September delivering the strongest monthly total in nearly two years as LNG remained the dominant choice for new vessels. Shipowners...",
-      "url": "https://gcaptain.com/alternative-fuel-ship-orders-surge-to-two-year-high/",
+      "title": "Will the India-US Trade Standoff Ever Come to an End? Outlook Unclear, According to\u00a0Officials",
+      "description": "A cornucopia of factors has stymied progress toward the long-anticipated trade deal between the United States and India this year.",
+      "url": "http://wwd.com/sourcing-journal/trade/india-us-bilateral-trade-agreement-trump-tariffs-modi-g20-1239301637/",
+      "source": "WWD",
+      "date": "2026-10-01",
+      "image": "https://wwd.com/wp-content/uploads/2026/10/narendramodisept.jpg?w=1000&h=563&crop=1",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Downing Street responds to Andy Burnham backlash over Manchester City comments",
+      "description": "Downing Street has hit back at criticism of Andy Burnham after his comments on Manchester City.",
+      "url": "https://www.101greatgoals.com/football/premier-league/downing-street-responds-andy-burnham-backlash-over-manchester-city-comments/",
+      "source": "101 Great Goals",
+      "date": "2026-10-01",
+      "image": "https://www.101greatgoals.com/wp-content/uploads/2026/08/shutterstock_2479514571-2-2-1.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Comment on The Pixel Project: Five Great Reasons to Give to the 12th Annual Fall Read For Pixels Campaign For Domestic Violence Awareness Month 2026 by Jim C.",
+      "description": "An important cause, and I'm happy to support. And thanks to Chuck as I suspect that I would not have seen this campaign otherwise.",
+      "url": "https://terribleminds.com/ramble/2026/10/01/the-pixel-project-five-great-reasons-to-give-to-the-12th-annual-fall-read-for-pixels-campaign-for-domestic-violence-awareness-month-2026/comment-page-1/#comments",
+      "source": "Terribleminds.com",
+      "date": "2026-10-01",
+      "image": null,
+      "category": "geopolitics"
+    },
+    {
+      "title": "Why are world bond markets selling off again?",
+      "description": "As inflation fears and mounting debt pressure rise, government borrowing costs have soared to unprecedented levels. The US Treasury yield, now the highest since 2002, signifies a shift in global market dynamics. These increasing bond yields adversely affect l\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-are-world-bond-markets-selling-off-again/articleshow/134625028.cms",
+      "source": "The Times of India",
+      "date": "2026-10-01",
+      "image": "https://img.etimg.com/thumb/msid-134625078,width-1200,height-900,imgsize-11219,overlay-etmarkets/articleshow.jpg",
+      "category": "inflation"
+    },
+    {
+      "title": "Resilience Doesn\u2019t Equal Security- Lloyd\u2019s List",
+      "description": "Strait of Hormuz transit data for the month of September reveals how the oil and container markets are tactically adjusting to the U.S./Israel war on Iran.",
+      "url": "https://gcaptain.com/resilience-doesnt-equal-security-lloyds-list/",
       "source": "gcaptain.com",
       "date": "2026-10-01",
-      "image": "https://gcaptain.com/wp-content/uploads/2020/05/CMA-CGM-Jacques-Saad\u00e9.jpeg",
-      "category": "market"
-    },
-    {
-      "title": "Skechers CFO jumps to Levi\u2019s",
-      "description": "John Vandemore was at the shoe brand for nearly a decade after stints at Mattel and Disney, and replaces longtime Chief Financial Officer Harmit Singh.",
-      "url": "https://www.retaildive.com/news/skechers-cfo-jumps-levis/831872/",
-      "source": "Retail Dive",
-      "date": "2026-10-01",
-      "image": "https://imgproxy.divecdn.com/jJXnEqQDNPbKPu1R1IMmO5XoBVNcDmgVoAjEC3Ac_EM/g:nowe:0:133/c:1280:723/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mcnB0Xy1fMTMuanBlZw==.webp",
-      "category": "market"
-    },
-    {
-      "title": "Oil Exports Find A Way Past Iranian Attacks, But Refinery Bottleneck Persists",
-      "description": "Exports of crude oil from the Middle East hit their highest level in September since the war with Iran began, reinforcing a trend of increased supplies despite Iranian attacks on shipping in the Strait of Hormuz, according to analysis of shipping and commodit\u2026",
-      "url": "https://www.rferl.org/a/iran-oil-exports-hormuz-refinery-market/33867914.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "date": "2026-10-01",
-      "image": "https://gdb.rferl.org/1a6ff26c-3b56-49ef-927b-addb9077a38d_w1200_h630.jpg",
+      "image": "https://gcaptain.com/wp-content/uploads/2026/08/Hormuz-Heat-Map.jpg",
       "category": "geopolitics"
     },
     {
-      "title": "One year later, Tesla and Musk still don't have a good definition of 'abundance' | TechCrunch",
-      "description": "One year later, Tesla and Musk still don't have a good definition of 'abundance' | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2026/10/01/one-year-later-tesla-and-musk-are-still-dont-have-a-good-definition-of-abundance/",
-      "source": "TechCrunch",
+      "title": "Treasury sanctions A7 Network as transnational criminal organization",
+      "description": "The designation of A7 as a criminal organization highlights the increasing scrutiny on financial networks facilitating sanctions evasion, impacting global compliance.\nThe post Treasury sanctions A7 Network as transnational criminal organization appeared first\u2026",
+      "url": "https://cryptobriefing.com/treasury-sanctions-a7-network-criminal-organization/",
+      "source": "Crypto Briefing",
       "date": "2026-10-01",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/elon-tesla-getty.jpg?resize=1200,799",
-      "category": "market"
-    },
-    {
-      "title": "EU escalates \u2018neo-colonial\u2019 cocaine-linked African sanctions",
-      "description": "The Netherlands\u2019 justice minister has said the EU has halted foreign aid to Sierra Leone amid a dispute over Dutch drug fugitive Bolle Jos Read Full Article at RT.com",
-      "url": "https://www.rt.com/africa/646567-eu-freezes-sierra-leone-funding-drug-lord-extradition-dispute/",
-      "source": "RT",
-      "date": "2026-10-01",
-      "image": "https://mf.b37mrtl.ru/files/2026.10/article/6abe69bf2030272b95639cb3.jpg",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/01135302/library-treasury-sanctions-a7-network-as-transnational-criminal--800x450.png",
       "category": "geopolitics"
     },
     {
-      "title": "Trump\u2019s tariffs are back in court \u2014 again",
-      "description": "Here we go again: President Donald Trump\u2019s sweeping global tariffs are back under the legal microscope.\nOn Wednesday, a three-judge panel at the US Court of International Trade is set to hear arguments in a case that could determine whether the president can \u2026",
-      "url": "https://biztoc.com/x/f643055c3962785b",
-      "source": "Biztoc.com",
+      "title": "Adbusters - Issue 187 2026",
+      "description": "Adbusters is dedicated to examining the relationship between human beings and their physical and mental environment. We want a world in which the economy and ecology resonate in balance, and we encourage our readers to become participants, rather than spectat\u2026",
+      "url": "https://post.rlsbb.cc/adbusters-issue-187-2026/",
+      "source": "Rlsbb.cc",
       "date": "2026-10-01",
-      "image": "https://biztoc.com/cdn/f643055c3962785b_s.webp",
-      "category": "geopolitics"
+      "image": null,
+      "category": "supply_demand"
     },
     {
-      "title": "The flydubai incident could trigger sweeping security checks",
-      "description": "From post-hiring psychological screening of flight crew to earlier airport arrival for enhanced checks, the flydubai incident could trigger an aviation security overhaul.",
-      "url": "https://www.livemint.com/opinion/online-views/the-flydubai-incident-could-trigger-sweeping-security-checks-11790861294986.html",
-      "source": "Livemint",
+      "title": "ICE sets limits on which officers can stop vehicles",
+      "description": "The new guidance comes after several vehicle stops ended in shootings.",
+      "url": "https://abcnews.com/US/ice-sets-limits-officers-stop-vehicles/story?id=136923893",
+      "source": "Abcnews.com",
       "date": "2026-10-01",
-      "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/ISRAEL-SAUDI-UAE-_1790856702116_bxdU_1790856702314_kKlc_54fb3573-b502-44d8-b628-fee96067a628_Tqyp_1790869397950_iPig_8196cd30-9cfe-4e90-a902-0dcf61dbf799_xOjh.jpg",
+      "image": "https://i.abcnewsfe.com/a/82521e89-92ea-4179-8aff-4debbefeb094/ice-agents-rt-jt-260924_1790273835756_hpMain_16x9.jpg?w=1600",
       "category": "market"
     },
     {
-      "title": "Calls increase for Bank of Canada to hike rates in October as global investment bank UBS weighs in",
-      "description": "There are growing calls for the Bank of Canada to hike interest rates at its next meeting later this month after seven straight holds as the risks of inflation spreading rise. \n \u201cOur baseline now includes one 25-basis-point hike in October and another in Janu\u2026",
-      "url": "https://biztoc.com/x/25441919ecd7e2de",
-      "source": "Biztoc.com",
+      "title": "Friendly-faced California tech CEO arrested by feds for allegedly hiding $300M Chinese secret",
+      "description": "Federal agents on Wednesday arrested a California tech CEO who\u2019s accused of smuggling more than $300 million in restricted AI chips into China. Greg Lui, 38, aka \u201cYiu Kong Lui,\u201d of San Gabriel, faces a barrage of federal charges for allegedly selling Beijing \u2026",
+      "url": "https://nypost.com/2026/10/01/us-news/california-tech-ceo-arrested-for-allegedly-smuggling-300-million-in-restricted-ai-chips-into-china/",
+      "source": "New York Post",
       "date": "2026-10-01",
-      "image": "https://biztoc.com/cdn/25441919ecd7e2de_s.webp",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/143325713.jpg?quality=75&strip=all&w=1200",
       "category": "central_bank"
     },
     {
-      "title": "U.S. layoffs drop nearly 40% in 2026 to four-year low, new data shows",
-      "description": "Hiring plans are up 3% so far this year, signaling the labor market remains resilient, experts say.",
-      "url": "https://www.cbsnews.com/news/us-layoffs-drop-four-year-low/",
-      "source": "CBS News",
+      "title": "Christa Pike Hospitalized After Surviving 2 Lethal Injection Doses in Tennessee",
+      "description": "This represents the second failed attempt at an execution via lethal injection in Tennessee this year alone.",
+      "url": "https://truthout.org/articles/christa-pike-hospitalized-after-surviving-2-lethal-injection-doses-in-tennessee/",
+      "source": "Truthout",
       "date": "2026-10-01",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/17/6aeb79f2-ea36-42ba-9f01-f312c2b8bac0/thumbnail/1200x630/cdfc54a199718c5f0c2f359e01896109/gettyimages-2260053388.jpg",
+      "image": "https://truthout.org/app/uploads/2026/09/Screenshot-2026-09-22-at-1.38.27-PM-scaled.png",
       "category": "market"
     },
     {
-      "title": "DOJ Brings Complaint Against Minnesota Judges For \u2018Pandering\u2019 To NYT About Deportations",
-      "description": "The Department of Justice filed a judicial misconduct complaint on Wednesday against several Minnesota-based federal judges for \u201cpander[ing]\u201d to legacy media about ICE operations in the state. \u201cSeven federal judges in the District of Minnesota talked to the N\u2026",
-      "url": "https://thefederalist.com/2026/10/01/doj-brings-complaint-against-minnesota-judges-for-pandering-to-nyt-about-deportations/",
-      "source": "The Federalist",
+      "title": "What role should \u2018diversity,\u2019 \u2018pluralism\u2019 play in higher education?",
+      "description": "Cornell William Brooks and Kevin Roberts spar over whether race-conscious programs are still needed.",
+      "url": "https://news.harvard.edu/gazette/story/2026/10/what-role-should-diversity-pluralism-play-in-higher-education/",
+      "source": "Harvard School of Engineering and Applied Sciences",
       "date": "2026-10-01",
-      "image": "https://thefederalist.com/wp-content/uploads/2026/10/ICE.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "Supreme Court to decide Trump\u2019s mandatory detention policy for immigrants nationwide",
-      "description": "The case will test a key pillar of the Trump administration\u2019s hard-line immigration agenda.",
-      "url": "https://fortune.com/2026/10/01/supreme-court-trump-detention-policy-review/",
-      "source": "Fortune",
-      "date": "2026-10-01",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/AP26248148513185.jpg?resize=1200,600",
-      "category": "market"
-    },
-    {
-      "title": "Chinese Hackers Impersonate US AI Experts in Phishing Campaign",
-      "description": "A new report says Chinese hackers are impersonating American AI professionals to steal emails from other artificial intelligence (AI) experts. That report, issued Thursday (Oct. 1) by cybersecurity firm Proofpoint, said that a hacking group known as \u201cTA419\u201d h\u2026",
-      "url": "https://www.pymnts.com/cybersecurity/2026/chinese-hackers-impersonate-us-ai-experts-in-phishing-campaign/",
-      "source": "pymnts.com",
-      "date": "2026-10-01",
-      "image": "https://www.pymnts.com/wp-content/uploads/2026/10/phishing-AI-cybersecurity.jpeg",
+      "image": "https://news.harvard.edu/wp-content/uploads/2026/09/092226_Diversity_Higher_Education_0370.jpg",
       "category": "market"
     }
   ],
@@ -499,15 +499,15 @@
     {
       "date": "2026-10-02",
       "week": "2026-W40",
-      "gold_10g": 127938.69,
-      "silver_kg": 185221.76,
-      "platinum_g": 5226.93,
-      "gold_usd_oz": 4130.23,
-      "silver_usd_oz": 59.8,
-      "platinum_usd_oz": 1687.4
+      "gold_10g": 128131.21,
+      "silver_kg": 186516.56,
+      "platinum_g": 5236.82,
+      "gold_usd_oz": 4136.45,
+      "silver_usd_oz": 60.21,
+      "platinum_usd_oz": 1690.6
     }
   ],
-  "timestamp": "2026-10-02T21:25:30.305220+05:30",
+  "timestamp": "2026-10-02T23:29:30.523692+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
