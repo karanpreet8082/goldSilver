@@ -1,0 +1,516 @@
+{
+  "prices": {
+    "gold": {
+      "price_per_gram_inr": 12835.12,
+      "price_usd_oz": 4142.33,
+      "change_percent": -0.85,
+      "change_value_usd": -35.36,
+      "price_per_10g_inr": 128351.17
+    },
+    "silver": {
+      "price_per_gram_inr": 187.08,
+      "price_usd_oz": 60.38,
+      "change_percent": -1.01,
+      "change_value_usd": -0.62,
+      "price_per_kg_inr": 187078.15
+    },
+    "platinum": {
+      "price_per_gram_inr": 5272.84,
+      "price_usd_oz": 1701.72,
+      "change_percent": -1.57,
+      "change_value_usd": -27.1
+    },
+    "currencies": {
+      "USD_INR": 96.375,
+      "EUR_INR": 108.4327,
+      "GBP_INR": 127.4802,
+      "JPY_INR": 0.6107,
+      "CHF_INR": 116.2826,
+      "AUD_INR": 66.9876,
+      "CAD_INR": 67.6601,
+      "SGD_INR": 75.3224
+    },
+    "gold_silver_ratio": 68.61,
+    "timestamp": "2026-10-03T16:36:39.727942",
+    "source": "GoldAPI"
+  },
+  "currencies": {
+    "USD_INR": 96.375,
+    "EUR_INR": 108.4327,
+    "GBP_INR": 127.4802,
+    "JPY_INR": 0.6107,
+    "CHF_INR": 116.2826,
+    "AUD_INR": 66.9876,
+    "CAD_INR": 67.6601,
+    "SGD_INR": 75.3224
+  },
+  "analysis": {
+    "gold": {
+      "metal": "gold",
+      "recommendation": "SELL",
+      "confidence": {
+        "buy": 15,
+        "sell": 56,
+        "hold": 29
+      },
+      "summary": "Gold is showing negative signals. Slight decline of -0.8%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-10-03T16:36:45.776052",
+      "source": "rule-based"
+    },
+    "silver": {
+      "metal": "silver",
+      "recommendation": "SELL",
+      "confidence": {
+        "buy": 10,
+        "sell": 64,
+        "hold": 26
+      },
+      "summary": "Silver is showing negative signals. Significant daily drop of -1.0%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-10-03T16:36:45.855485",
+      "source": "rule-based"
+    },
+    "platinum": {
+      "metal": "platinum",
+      "recommendation": "SELL",
+      "confidence": {
+        "buy": 10,
+        "sell": 64,
+        "hold": 26
+      },
+      "summary": "Platinum is showing negative signals. Significant daily drop of -1.6%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-10-03T16:36:45.937877",
+      "source": "rule-based"
+    }
+  },
+  "technical": {
+    "gold": {
+      "trend": "bearish",
+      "strength": 25,
+      "signals": [
+        "Price below 4-week moving average (bearish)",
+        "Price below 12-week moving average (bearish)",
+        "Short-term MA above long-term MA (uptrend)",
+        "Weak momentum: -3.5% in 4 weeks"
+      ],
+      "support": 124137.93,
+      "resistance": 140736.5,
+      "current_price": 128351.17,
+      "ma_short": 132548.2,
+      "ma_long": 131518.02,
+      "trend_score": -2.0
+    },
+    "silver": {
+      "trend": "bearish",
+      "strength": 6,
+      "signals": [
+        "Price below 4-week moving average (bearish)",
+        "Price below 12-week moving average (bearish)",
+        "Short-term MA below long-term MA (downtrend)",
+        "Weak momentum: -3.9% in 4 weeks",
+        "Near support \u2014 potential buy zone"
+      ],
+      "support": 176726.94,
+      "resistance": 243170.57,
+      "current_price": 187078.15,
+      "ma_short": 196533.21,
+      "ma_long": 199676.94,
+      "trend_score": -3.5
+    },
+    "platinum": {
+      "trend": "neutral",
+      "strength": 38,
+      "signals": [
+        "Price below 4-week moving average (bearish)",
+        "Price below 12-week moving average (bearish)",
+        "Short-term MA above long-term MA (uptrend)",
+        "Sideways: -1.6% in 4 weeks"
+      ],
+      "support": 4961.56,
+      "resistance": 6206.5,
+      "current_price": 5272.84,
+      "ma_short": 5458.86,
+      "ma_long": 5396.62,
+      "trend_score": -1.0
+    }
+  },
+  "news": [
+    {
+      "title": "Sebi examining position limits for non-agri contracts to boost liquidity",
+      "description": "Sebi is actively investigating position limits for non-agricultural contracts to improve market liquidity and depth. Chairman Tuhin Kanta Pandey has highlighted the importance of phased physical settlement for agricultural commodities. The organization is focused on addressing structural issues and ",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-examining-position-limits-for-non-agri-contracts-to-boost-liquidity/articleshow/134656225.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-10-03",
+      "image": "",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Bitcoin holds near $84,000, Ethereum moves towards $2,700 as buyers remain active",
+      "description": "In the past 24 hours, Bitcoin and Ethereum were down 1.6% and 1.5% respectively. Among the major altcoins, BNB, Dogecoin, Solana, Hyperliquid, Dogecoin and Cardano corrected upto 3.1% whereas Tron was up 0.3%.",
+      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-holds-near-84000-ethereum-moves-towards-2700-as-buyers-remain-active/articleshow/134654918.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-10-03",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "US job growth slows as unemployment rises before midterm elections",
+      "description": "The US economy added 29,000 jobs in September, with unemployment rising to 4.2 percent, according to Labor Department.",
+      "url": "https://www.aljazeera.com/economy/2026/10/2/us-job-growth-slows-as-unemployment-rises-before-midterm-elections",
+      "source": "Al Jazeera English",
+      "date": "2026-10-02",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6abfccd3e38b8-1790954707.jpg?resize=1920%2C1440",
+      "category": "market"
+    },
+    {
+      "title": "Today\u2019s News in a Nutshell",
+      "description": "KATHMANDU: Khabarhub brings you a glimpse of major developments of the day in Nepal, including politics, business/economy, sports, entertainment, and more. HoR session prorogued after 145 days, 35 bills registered The second session of the House of Representa\u2026",
+      "url": "https://english.khabarhub.com/2026/02/570270/",
+      "source": "Khabarhub.com",
+      "date": "2026-10-02",
+      "image": "https://english.khabarhub.com/wp-content/uploads/2024/05/News-Nutshell.jpg",
+      "category": "market"
+    },
+    {
+      "title": "How to choose your first Genie Agents for maximum impact",
+      "description": "\u2022 The first few Genie Agents you build determine whether adoption scales or stalls, so choosing the right agents to start with is critical \r\n\u2022\u00a0Use a five criteria rubric: impact, demand, data readiness, scope, and governance to rank candidate workflows in min\u2026",
+      "url": "https://www.databricks.com/blog/how-choose-your-first-genie-agents-maximum-impact",
+      "source": "Databricks.com",
+      "date": "2026-10-02",
+      "image": "https://www.databricks.com/sites/default/files/2026-09/Untitled-design-15.png",
+      "category": "supply_demand"
+    },
+    {
+      "title": "How to Build a Modern Classic Wardrobe for Men (Step by Step)",
+      "description": "You've got a closet full of clothes and nothing to wear. A suit from a wedding six years ago. A pile of graphic tees. Two blazers that never quite fit. Some jeans you bought because a guy on Instagram looked good in them. Here's the deal \u2014 you don't need more\u2026",
+      "url": "https://www.realmenrealstyle.com/modern-classic-wardrobe/",
+      "source": "Realmenrealstyle.com",
+      "date": "2026-10-02",
+      "image": "https://www.realmenrealstyle.com/wp-content/uploads/2026/10/modern-classic-menswear-cafe-knit-polo-blazer.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Brownsville\u2019s New Multi-Service Center Nears Opening Day",
+      "description": "by Gabriele Holtermann, Brooklyn Paper\nCommunity-based organizations and Brooklyn Community Board 16 will soon serve residents across Brooklyn from under one roof at a new 60,000-square-foot, state-of-the-art, all-electric community center set to open its doo\u2026",
+      "url": "http://www.brownstoner.com/development/brownsville-multi-service-center-444-thomas-boyland-street-opens-soon/",
+      "source": "Brownstoner.com",
+      "date": "2026-10-02",
+      "image": "https://www.brownstoner.com/wp-content/uploads/2026/10/brownsville-multi-service-center-mayoral-office.png",
+      "category": "market"
+    },
+    {
+      "title": "BULGOLD Engages HE Capital Markets to Provide Investor Engagement Services",
+      "description": "TORONTO, Oct. 02, 2026 (GLOBE NEWSWIRE) \u2014 BULGOLD Inc. (TSXV:ZLTO) (the \u201cCompany\u201d or \u201cBULGOLD\u201c) is pleased to announce that it has engaged HE Capital Markets Ltd (\u201cHECM\u201c) to provide investor engagement services across North America and Europe. In connection w\u2026",
+      "url": "https://financialpost.com/globe-newswire/bulgold-engages-he-capital-markets-to-provide-investor-engagement-services",
+      "source": "Financial Post",
+      "date": "2026-10-02",
+      "image": null,
+      "category": "currency"
+    },
+    {
+      "title": "Top 10 mutual funds by AUM: Which schemes are beating their benchmarks on 1-, 3-, and 5-year CAGR returns?",
+      "description": "The biggest mutual funds by AUM do not necessarily deliver similar performance against their benchmarks. A comparison of their 1-, 3-, and 5-year CAGR shows how different schemes have fared across these periods. Here\u2019s what the numbers reveal for investors.",
+      "url": "https://www.livemint.com/money/personal-finance/top-10-mutual-funds-by-aum-which-schemes-are-beating-their-benchmarks-on-1-3-and-5-year-cagr-returns-11790940595727.html",
+      "source": "Livemint",
+      "date": "2026-10-02",
+      "image": "https://www.livemint.com/lm-img/img/2026/10/02/1600x900/logo/mutut_1790947153689_YmPw_1790947157711_q9hY_d1b25ff2-f336-44cd-834e-04d7ebb3df4e_KkQ0.png",
+      "category": "market"
+    },
+    {
+      "title": "FO Talks: Drone Warfare and Foreign Meddling in Sudan\u2019s Devastating Civil War",
+      "description": "Assistant Editor Casey Hermann speaks with Fernando Carvajal, the executive director at The American Center for South Yemen Studies, about Sudan\u2019s bloody civil war. They examine the struggle between General Abdel Fattah al-Burhan\u2019s Sudanese Armed Forces (SAF)\u2026",
+      "url": "https://www.fairobserver.com/region/middle_east_north_africa/fo-talks-drone-warfare-and-foreign-meddling-in-sudans-devastating-civil-war/",
+      "source": "Fair Observer",
+      "date": "2026-10-02",
+      "image": "https://www.fairobserver.com/wp-content/uploads/2026/10/Drone-Warfare-and-Foreign-Meddling-in-Sudans-Devastating-Civil-War-Fair-Observer.jpeg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Precious metals drop, silver falls below $60 per ounce",
+      "description": "Gold fell 1.05% to $4,134.77 per ounce and silver dropped 1.77% to $59.93 per ounce. Palladium lost 1.30% to sell at $1,151.49 per ounce, while platinum decreased 1.29% to $1,696.24 per ounce.More to ...",
+      "url": "https://biztoc.com/x/cd72365676c231a1",
+      "source": "Biztoc.com",
+      "date": "2026-10-02",
+      "image": "https://biztoc.com/cdn/cd72365676c231a1_s.webp",
+      "category": "platinum"
+    },
+    {
+      "title": "The Ancient Parable",
+      "description": "\"I will throw you in prison. I want Chinese style communism to happen inside of the democratic party right now. I want to do cultural revolution shit.\" \u2014Hasan Piker, DSA Spox",
+      "url": "https://www.kunstler.com/p/the-ancient-parable",
+      "source": "Kunstler.com",
+      "date": "2026-10-02",
+      "image": "https://substackcdn.com/image/fetch/$s_!NoM4!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff915b85e-edce-4f06-9270-1605edc38439_700x361.heic",
+      "category": "market"
+    },
+    {
+      "title": "CME Group Reports Record Average Daily Volume for September and Q3, Driven by Growth Across Asset Classes",
+      "description": "Record September ADV of 31.8 million contracts Record Q3 ADV of 29.4 million contracts Record September and Q3 ADV for interest rate and agricultural products CHICAGO, Oct. 2, 2026 /PRNewswire/ -- CME Group, the world's leading derivatives marketplace, today \u2026",
+      "url": "https://www.prnewswire.com/news-releases/cme-group-reports-record-average-daily-volume-for-september-and-q3-driven-by-growth-across-asset-classes-302897134.html",
+      "source": "PRNewswire",
+      "date": "2026-10-02",
+      "image": null,
+      "category": "central_bank"
+    },
+    {
+      "title": "Live updates: Bitcoin, gold and tech futures edge higher as markets await U.S. jobs report",
+      "description": "Bitcoin trades above $86,000 as gold and tech futures rise, with investors expecting 90,000 new U.S. jobs and unemployment to hold at 4.1%.",
+      "url": "https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report",
+      "source": "CoinDesk",
+      "date": "2026-10-02",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/fce15d9b832d4f087056ff45ef32cee4441b4240-7360x4912.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "category": "metals"
+    },
+    {
+      "title": "Trilogy Metals Reports Third Quarter Fiscal 2026 Financial Results",
+      "description": "NYSE American / TSX Symbol: TMQ VANCOUVER, BC, Oct. 2, 2026 /PRNewswire/ -- Trilogy Metals Inc. (NYSE American: TMQ) (TSX: TMQ) (\"Trilogy Metals\", \"Trilogy\" or the \"Company\") announces its financial results for the third quarter ended August 31, 2026. Details\u2026",
+      "url": "https://www.prnewswire.com/news-releases/trilogy-metals-reports-third-quarter-fiscal-2026-financial-results-302896962.html",
+      "source": "PRNewswire",
+      "date": "2026-10-02",
+      "image": "https://mmx.prnewswire.com/media/MS1132784/Trilogy-Metals-Inc-Trilogy-Metals-Reports-Third-Quarter-Fiscal.jpg?id=OA2983679&p=facebook",
+      "category": "market"
+    },
+    {
+      "title": "Gold steadies before US payrolls data, set for second weekly loss",
+      "description": "Gold steadied on Friday but remained on \u200ctrack for a second straight weekly decline, pressured \u200bby a firmer US dollar and elevated Treasury \u2060yields, as investors awaited key US payrolls data for clues on the Federal Reserve\u2019s policy path.",
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-steadies-before-us-payrolls-data-set-for-second-weekly-loss/article71536094.ece",
+      "source": "BusinessLine",
+      "date": "2026-10-02",
+      "image": "https://bl-i.thgim.com/public/incoming/l5s4ug/article71536106.ece/alternates/LANDSCAPE_1200/iStock-1472696526.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "The invisible shield: How Faraday technology is revolutionizing personal security and emergency preparedness",
+      "description": "Faraday bags are a critical defense against hacking and\u00a0tracking attempts. For any serious prepper, these bags are necessary to protect backup electronics from a catastrophic EMP attack or solar event. They stop all electromagnetic radiation, blocking the EMF\u2026",
+      "url": "https://www.naturalnews.com/2026-10-02-faraday-technology-personal-security-and-emergency-preparedness.html",
+      "source": "Naturalnews.com",
+      "date": "2026-10-02",
+      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/power-outages-emp-events-faraday-cages-4569-original.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Kyocera Unveils High-Performance Inkjet Printhead KJ4A-EX600RC-HX for Label and Packaging Innovation",
+      "description": "Enhanced Support for White Ink, Varnish and Foil Decoration Delivers Faster, More Versatile Printing KYOTO, Japan \u2014 Kyocera Corporation (President and CEO: Shiro Sakushima, hereafter \u201cKyocera\u201d) today announced plans to begin sales in November 2026 of a new ci\u2026",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/kyocera-unveils-high-performance-inkjet-printhead-kj4a-ex600rc-hx-for-label-and-packaging-innovation",
+      "source": "Financial Post",
+      "date": "2026-10-02",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/10/bw20261001393994_kj4aex600rchx.jpeg",
+      "category": "market"
+    },
+    {
+      "title": "Pope Leo comes out against AI-generated art and calls for an alliance with artists",
+      "description": "Pope Leo XIV told artists at the Vatican on Friday that there is an ontological difference between art and what a machine generates from millions of images made by others. European law has required synthetic content to carry machine-readable marks since 2 Aug\u2026",
+      "url": "https://thenextweb.com/news/pope-ai-art-eu-labelling-gap",
+      "source": "The Next Web",
+      "date": "2026-10-02",
+      "image": "https://media.thenextweb.com/2026/09/Pope-Leo.jpg",
+      "category": "currency"
+    },
+    {
+      "title": "Seeking niche in ASEAN semiconductor supply chain",
+      "description": "The Association of Southeast Asian Nations (ASEAN) is developing a roadmap for its semiconductor ecosystem as competition for high-tech investment intensifies ...",
+      "url": "https://en.antaranews.com/news/433969/seeking-niche-in-asean-semiconductor-supply-chain",
+      "source": "Antaranews.com",
+      "date": "2026-10-02",
+      "image": "https://cdn.antaranews.com/cache/1200x800/2011/11/20111109b48.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Students clash with police as French officials struggle to end violent school protests",
+      "description": "Since late September, students have staged protests outside schools over grievances ranging from timetables, class sizes and a shortage of teachers to overheated classrooms during this year's heatwaves.",
+      "url": "https://nypost.com/2026/10/02/world-news/students-police-clash-as-france-struggles-to-end-school-protests/",
+      "source": "New York Post",
+      "date": "2026-10-02",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/143469956.jpg?quality=75&strip=all&w=1200",
+      "category": "market"
+    },
+    {
+      "title": "'The Watcher' Season 2 Is Official: Naomi Watts, Bobby Cannavale Return",
+      "description": "Margo Martindale and Isabel Gravitt will also reprise their roles when the Netflix series from Ryan Murphy and Ian Brennan returns four-plus years after season one.",
+      "url": "http://www.hollywoodreporter.com/tv/tv-news/the-watcher-season-2-naomi-watts-bobby-cannavale-1236721015/",
+      "source": "Hollywood Reporter",
+      "date": "2026-10-02",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2022/10/The-Watcher-Still-2-Netflix-Publicity-H-2022.jpg?w=1296&h=730&crop=1",
+      "category": "market"
+    },
+    {
+      "title": "Let\u2019s Dig In to Digger",
+      "description": "Alejandro G. I\u00f1\u00e1rritu\u2019s \u2018Digger\u2019 is a Russian nesting doll of plot twists and framing devices, one that ends in a very different place than where it began. Let\u2019s unpack how it gets there and whether it works.",
+      "url": "http://www.vulture.com/article/digger-ending-twist-explained-kenny-theory.html",
+      "source": "Vulture",
+      "date": "2026-10-02",
+      "image": "https://pyxis.nymag.com/v1/imgs/7ab/683/8a328a42a674f2751ac05fe283823dd3f3-digger-jesse.1x.rsocial.w1200.png",
+      "category": "market"
+    },
+    {
+      "title": "CUPE 2484 members at Ideal Child Service Group preparing to strike Monday",
+      "description": "TORONTO \u2014 Child care workers at Ideal Child Service Group (ICSG) represented by CUPE Local 2484 are preparing to be on strike as of Monday, October 5 if the employer does not return to the bargaining table to negotiate a fair collective agreement. The workers\u2026",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/cupe-2484-members-at-ideal-child-service-group-preparing-to-strike-monday",
+      "source": "Financial Post",
+      "date": "2026-10-02",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "France debt crisis: Bond investors have rendered a \u2018guilty\u2019 verdict and are pricing in growing odds of a sovereign default, analyst says",
+      "description": "The cost of insurance against a French default is now the highest among the major EU countries and the UK.",
+      "url": "https://fortune.com/2026/10/02/france-debt-crisis-bond-investors-odds-sovereign-default-cds-yield-spread-deficit-presidential-race/",
+      "source": "Fortune",
+      "date": "2026-10-02",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2294554597-e1790945129951.jpg?resize=1200,600",
+      "category": "market"
+    },
+    {
+      "title": "Amex Is Turning Harry Styles Fandom Into a Membership Perk",
+      "description": "American Express is building a fandom strategy across music, and Harry Styles is the latest example.",
+      "url": "https://www.adweek.com/brand-marketing/amex-is-turning-harry-styles-fandom-into-a-membership-perk/",
+      "source": "Adweek",
+      "date": "2026-10-02",
+      "image": "https://static-www.adweek.com/wp-content/uploads/2026/10/Untitled-design-1.png?w=600&h=315&crop=1",
+      "category": "market"
+    },
+    {
+      "title": "Fed's Lisa Cook sees AI inflationary push as a top 2027 risk",
+      "description": "Cook joined a unanimous vote last month at the Fed to raise the policy rate by a quarter of a point to support a \"timelier\" return of inflation to the Fed's 2% goal. Inflation by the Fed's targeted measure was 3.4% in August and has been above the goal for mo\u2026",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/feds-cook-sees-ai-inflationary-push-as-a-top-2027-risk/articleshow/134643510.cms",
+      "source": "The Times of India",
+      "date": "2026-10-02",
+      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2816398,resizemode-75,msid-134643510/tech/artificial-intelligence/feds-cook-sees-ai-inflationary-push-as-a-top-2027-risk.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Your health insurance premiums may take a big jump in 2027 \u2014 here's why",
+      "description": "Many consumers are likely on the hook for an increase of about 10% or more in 2027, experts said.",
+      "url": "https://www.cnbc.com/2026/10/02/health-insurance-premiums-2027-inflation-aca-obamacare.html",
+      "source": "CNBC",
+      "date": "2026-10-02",
+      "image": "https://image.cnbcfm.com/api/v1/image/108371886-1790953530561-gettyimages-2191871211-4045_30_2024_3720_ry.jpeg?v=1790953545&w=1920&h=1080",
+      "category": "market"
+    },
+    {
+      "title": "Charles St-Arnaud: Canada has escaped higher bond yields, but higher borrowing costs are still on the way",
+      "description": "Canada is not an island. It is an open economy with a floating exchange rate. So global financial developments inevitably reach us. Read on",
+      "url": "https://financialpost.com/news/economy/charles-st-arnaud-higher-borrowing-costs-on-the-way",
+      "source": "Financial Post",
+      "date": "2026-10-02",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/10/1003-mg-bank-of-canada.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Vance Fraud Crackdown Raises Health Costs | IUX24",
+      "description": "A federal crackdown on Obamacare health insurance aims to eliminate fraudulent enrollees but risks driving up costs for insurers and consumers. The policy changes weigh on major health stocks as companies face a sicker patient mix.",
+      "url": "https://www.iux24.com/news/vance-fraud-crackdown-threatens-higher-costs-for-us-health-insurers-and-enrollees-20261002/",
+      "source": "Iux24.com",
+      "date": "2026-10-02",
+      "image": "https://cdn.iux24.com/news/public/images/2026/10/02/thumbnail-db6a9c4a321c836041b7e8dc383f8c87-1790954762746.jpg",
+      "category": "central_bank"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-05-15",
+      "week": "2026-W20",
+      "gold_10g": 140736.5,
+      "silver_kg": 243170.57,
+      "platinum_g": 6206.5,
+      "gold_usd_oz": 4568.35,
+      "silver_usd_oz": 78.93,
+      "platinum_usd_oz": 2014.65
+    },
+    {
+      "date": "2026-06-07",
+      "week": "2026-W23",
+      "gold_10g": 132593.54,
+      "silver_kg": 207602.87,
+      "platinum_g": 5449.55,
+      "gold_usd_oz": 4328.87,
+      "silver_usd_oz": 67.78,
+      "platinum_usd_oz": 1779.15
+    },
+    {
+      "date": "2026-06-09",
+      "week": "2026-W24",
+      "gold_10g": 133318.07,
+      "silver_kg": 210317.38,
+      "platinum_g": 5419.88,
+      "gold_usd_oz": 4331.37,
+      "silver_usd_oz": 68.33,
+      "platinum_usd_oz": 1760.87
+    },
+    {
+      "date": "2026-07-05",
+      "week": "2026-W27",
+      "gold_10g": 127936.35,
+      "silver_kg": 191162.72,
+      "platinum_g": 5033.18,
+      "gold_usd_oz": 4175.01,
+      "silver_usd_oz": 62.38,
+      "platinum_usd_oz": 1642.5
+    },
+    {
+      "date": "2026-07-09",
+      "week": "2026-W28",
+      "gold_10g": 126264.96,
+      "silver_kg": 181656.12,
+      "platinum_g": 4961.56,
+      "gold_usd_oz": 4107.77,
+      "silver_usd_oz": 59.1,
+      "platinum_usd_oz": 1614.14
+    },
+    {
+      "date": "2026-08-02",
+      "week": "2026-W31",
+      "gold_10g": 124137.93,
+      "silver_kg": 176726.94,
+      "platinum_g": 5060.13,
+      "gold_usd_oz": 4043.21,
+      "silver_usd_oz": 57.56,
+      "platinum_usd_oz": 1648.1
+    },
+    {
+      "date": "2026-08-09",
+      "week": "2026-W32",
+      "gold_10g": 132963.64,
+      "silver_kg": 194759.63,
+      "platinum_g": 5359.45,
+      "gold_usd_oz": 4341.91,
+      "silver_usd_oz": 63.6,
+      "platinum_usd_oz": 1750.12
+    },
+    {
+      "date": "2026-09-06",
+      "week": "2026-W36",
+      "gold_10g": 134616.17,
+      "silver_kg": 201167.03,
+      "platinum_g": 5540.25,
+      "gold_usd_oz": 4430.18,
+      "silver_usd_oz": 66.2,
+      "platinum_usd_oz": 1823.28
+    },
+    {
+      "date": "2026-09-09",
+      "week": "2026-W37",
+      "gold_10g": 134261.82,
+      "silver_kg": 203128.02,
+      "platinum_g": 5662.91,
+      "gold_usd_oz": 4403.59,
+      "silver_usd_oz": 66.62,
+      "platinum_usd_oz": 1857.35
+    },
+    {
+      "date": "2026-10-03",
+      "week": "2026-W40",
+      "gold_10g": 128351.17,
+      "silver_kg": 187078.15,
+      "platinum_g": 5272.84,
+      "gold_usd_oz": 4142.33,
+      "silver_usd_oz": 60.38,
+      "platinum_usd_oz": 1701.72
+    }
+  ],
+  "timestamp": "2026-10-03T22:06:45.948331+05:30",
+  "run_info": {
+    "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
+    "timezone": "Asia/Kolkata",
+    "source": "GoldAPI"
+  }
+}
