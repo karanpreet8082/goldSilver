@@ -1,48 +1,48 @@
 {
   "prices": {
     "gold": {
-      "price_per_gram_inr": 12813.12,
-      "price_usd_oz": 4136.45,
-      "change_percent": -0.99,
-      "change_value_usd": -41.24,
-      "price_per_10g_inr": 128131.21
+      "price_per_gram_inr": 12835.12,
+      "price_usd_oz": 4142.33,
+      "change_percent": -0.85,
+      "change_value_usd": -35.36,
+      "price_per_10g_inr": 128351.17
     },
     "silver": {
-      "price_per_gram_inr": 186.52,
-      "price_usd_oz": 60.21,
-      "change_percent": -1.28,
-      "change_value_usd": -0.78,
-      "price_per_kg_inr": 186516.56
+      "price_per_gram_inr": 187.08,
+      "price_usd_oz": 60.38,
+      "change_percent": -1.01,
+      "change_value_usd": -0.62,
+      "price_per_kg_inr": 187078.15
     },
     "platinum": {
-      "price_per_gram_inr": 5236.82,
-      "price_usd_oz": 1690.6,
-      "change_percent": -2.21,
-      "change_value_usd": -38.22
+      "price_per_gram_inr": 5272.84,
+      "price_usd_oz": 1701.72,
+      "change_percent": -1.57,
+      "change_value_usd": -27.1
     },
     "currencies": {
-      "USD_INR": 96.3466,
-      "EUR_INR": 108.584,
-      "GBP_INR": 127.2406,
-      "JPY_INR": 0.6101,
-      "CHF_INR": 115.7873,
-      "AUD_INR": 66.7683,
-      "CAD_INR": 67.7019,
-      "SGD_INR": 75.2473
+      "USD_INR": 96.375,
+      "EUR_INR": 108.4327,
+      "GBP_INR": 127.4802,
+      "JPY_INR": 0.6107,
+      "CHF_INR": 116.2826,
+      "AUD_INR": 66.9876,
+      "CAD_INR": 67.6601,
+      "SGD_INR": 75.3224
     },
-    "gold_silver_ratio": 68.7,
-    "timestamp": "2026-10-02T17:59:24.328647",
+    "gold_silver_ratio": 68.61,
+    "timestamp": "2026-10-03T09:18:43.041957",
     "source": "GoldAPI"
   },
   "currencies": {
-    "USD_INR": 96.3466,
-    "EUR_INR": 108.584,
-    "GBP_INR": 127.2406,
-    "JPY_INR": 0.6101,
-    "CHF_INR": 115.7873,
-    "AUD_INR": 66.7683,
-    "CAD_INR": 67.7019,
-    "SGD_INR": 75.2473
+    "USD_INR": 96.375,
+    "EUR_INR": 108.4327,
+    "GBP_INR": 127.4802,
+    "JPY_INR": 0.6107,
+    "CHF_INR": 116.2826,
+    "AUD_INR": 66.9876,
+    "CAD_INR": 67.6601,
+    "SGD_INR": 75.3224
   },
   "analysis": {
     "gold": {
@@ -53,8 +53,8 @@
         "sell": 56,
         "hold": 29
       },
-      "summary": "Gold is showing negative signals. Slight decline of -1.0%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-02T17:59:30.364889",
+      "summary": "Gold is showing negative signals. Slight decline of -0.8%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-10-03T09:18:48.722954",
       "source": "rule-based"
     },
     "silver": {
@@ -65,8 +65,8 @@
         "sell": 64,
         "hold": 26
       },
-      "summary": "Silver is showing negative signals. Significant daily drop of -1.3%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-02T17:59:30.441842",
+      "summary": "Silver is showing negative signals. Significant daily drop of -1.0%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-10-03T09:18:48.797628",
       "source": "rule-based"
     },
     "platinum": {
@@ -77,8 +77,8 @@
         "sell": 64,
         "hold": 26
       },
-      "summary": "Platinum is showing negative signals. Significant daily drop of -2.2%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-02T17:59:30.510213",
+      "summary": "Platinum is showing negative signals. Significant daily drop of -1.6%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-10-03T09:18:48.877687",
       "source": "rule-based"
     }
   },
@@ -90,13 +90,13 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA above long-term MA (uptrend)",
-        "Weak momentum: -3.6% in 4 weeks"
+        "Weak momentum: -3.5% in 4 weeks"
       ],
       "support": 124137.93,
       "resistance": 140736.5,
-      "current_price": 128131.21,
-      "ma_short": 132493.21,
-      "ma_long": 131496.02,
+      "current_price": 128351.17,
+      "ma_short": 132548.2,
+      "ma_long": 131518.02,
       "trend_score": -2.0
     },
     "silver": {
@@ -106,303 +106,303 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -4.2% in 4 weeks",
+        "Weak momentum: -3.9% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
       "support": 176726.94,
       "resistance": 243170.57,
-      "current_price": 186516.56,
-      "ma_short": 196392.81,
-      "ma_long": 199620.78,
+      "current_price": 187078.15,
+      "ma_short": 196533.21,
+      "ma_long": 199676.94,
       "trend_score": -3.5
     },
     "platinum": {
-      "trend": "bearish",
-      "strength": 25,
+      "trend": "neutral",
+      "strength": 38,
       "signals": [
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA above long-term MA (uptrend)",
-        "Weak momentum: -2.3% in 4 weeks"
+        "Sideways: -1.6% in 4 weeks"
       ],
       "support": 4961.56,
       "resistance": 6206.5,
-      "current_price": 5236.82,
-      "ma_short": 5449.86,
-      "ma_long": 5393.02,
-      "trend_score": -2.0
+      "current_price": 5272.84,
+      "ma_short": 5458.86,
+      "ma_long": 5396.62,
+      "trend_score": -1.0
     }
   },
   "news": [
     {
-      "title": "Bets on US Federal Reserve rate hike in October fall as job market cools",
-      "description": "Last month, the US economy added only 29,000 jobs, significantly below the economists\u2019 forecast of 90,000 jobs. The unemployment rate rose to 4.2%, indicating a slight deterioration in the labor market. Traders decreased expectations for another Federal Reserve interest rate hike later this year, wi",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/bets-on-us-federal-reserve-rate-hike-in-october-fall-as-job-market-cools/articleshow/134640792.cms",
+      "title": "Bitcoin holds near $84,000, Ethereum moves towards $2,700 as buyers remain active",
+      "description": "In the past 24 hours, Bitcoin and Ethereum were down 1.6% and 1.5% respectively. Among the major altcoins, BNB, Dogecoin, Solana, Hyperliquid, Dogecoin and Cardano corrected upto 3.1% whereas Tron was up 0.3%.",
+      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-holds-near-84000-ethereum-moves-towards-2700-as-buyers-remain-active/articleshow/134654918.cms",
       "source": "Economic Times Markets",
-      "date": "2026-10-02",
+      "date": "2026-10-03",
       "image": "",
-      "category": "central_bank"
+      "category": "geopolitics"
     },
     {
-      "title": "Global equity funds draw $34.76 billion, log second straight week of inflows",
-      "description": "Global equity funds attracted $34.76 billion in the week through September 30, marking a second straight week of inflows as optimism around AI investment and softer US inflation pushed up investor demand for stocks despite rising bond. US, European and Asian equity funds all saw inflows, while emerg",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-equity-funds-draw-inflows-for-second-week-as-ai-optimism-holds/articleshow/134638303.cms",
+      "title": "Indian stocks face a cyclical correction, not a deeper earnings reset: Mahindra Manulife MF CIO",
+      "description": "Markets are also digesting a range of near-term uncertainties, including energy price volatility, geopolitical tensions and the potential impact of AI-led disruption on future employment patterns.",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/indian-stocks-face-a-cyclical-correction-not-a-deeper-earnings-reset-mahindra-manulife-mf-cio/articleshow/134652752.cms",
       "source": "Economic Times Markets",
-      "date": "2026-10-02",
+      "date": "2026-10-03",
       "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Skouries mine project highlights long-term value for Greece through jobs, technology and sustainability",
+      "description": "From quality employment and skills development to digital technology, environmental responsibility and support for local communities, Skouries demonstrates how a strategic investment can create long-term value for Greece.\nTotal investment\u2026\nSkouries mine proje\u2026",
+      "url": "https://www.naftemporiki.gr/english/2169710/skouries-mine-project-highlights-long-term-value-for-greece-through-jobs-technology-and-sustainability/",
+      "source": "Naftemporiki.gr",
+      "date": "2026-10-02",
+      "image": "https://www.naftemporiki.gr/wp-content/uploads/2026/09/image00002B.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Can Jared Kushner broker Gaza peace while investing in Israel? His billion-dollar ties face scrutiny",
+      "description": "Affinity\u2019s investment is in Phoenix Financial, a major Tel Aviv-based financial firm. CNN traced Phoenix\u2019s investments using Israeli financial disclosure records and found that it has put hundreds of millions of dollars into Elbit Systems, Israel\u2019s largest ar\u2026",
+      "url": "https://timesofindia.indiatimes.com/world/us/can-jared-kushner-broker-gaza-peace-while-investing-in-israel-his-billion-dollar-ties-face-scrutiny/articleshow/134632502.cms",
+      "source": "The Times of India",
+      "date": "2026-10-02",
+      "image": "https://static.toiimg.com/thumb/msid-134632574,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "category": "currency"
     },
     {
-      "title": "FPIs turn net sellers, pull out Rs 35,860 cr in Sep",
-      "description": "In September, foreign portfolio investors shed a staggering Rs 35,860 crore from Indian equities, driven by global uncertainties and rising US interest rates. This selling trend persisted into October with an outflow of Rs 9,232 crore. This selling follows significant investments of Rs 49,830 crore ",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-turn-net-sellers-pull-out-rs-35860-cr-in-sep/articleshow/134637791.cms",
-      "source": "Economic Times Markets",
+      "title": "Global M&A deal rush fades in Q3 on higher borrowing cost",
+      "description": "Global merger and acquisition activity in the third quarter totalled $993 billion, down 41% compared to the prior quarter, marking the first quarter to fall below $1 trillion since the second quarter of 2025.",
+      "url": "https://www.rte.ie/news/business/2026/1002/1593748-global-m-a-deal-rush-fades-in-q3/",
+      "source": "RTE",
       "date": "2026-10-02",
-      "image": "",
-      "category": "central_bank"
-    },
-    {
-      "title": "Trump to Reward People Who Buy His Crypto for Making Him Rich",
-      "description": "President Donald Trump will be hosting the \u201cmost EXCLUSIVE DINNER IN THE WORLD\u201d to the top purchasers of his cryptocurrency.\u00a0The Washington Sun reported Thursday that the website for Trump\u2019s meme coin, GetTrumpMemes.com, is offering invitations to \u201can evening\u2026",
-      "url": "https://newrepublic.com/post/216118/donald-trump-dinner-top-buyers-crypto",
-      "source": "The New Republic",
-      "date": "2026-10-01",
-      "image": "https://images.newrepublic.com/0edf9345104a8d370163f98f097562c1812a66b3.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "The Best Physical Media Releases Of September 2026",
-      "description": "Uproxx\r\n\n'Project Hail Mary,' R.E.M., Hamilton, Michael Jackson, and more were among the best physical media releases of the month.",
-      "url": "https://uproxx.com/music/best-physical-media-releases-september-2026/",
-      "source": "UPROXX",
-      "date": "2026-10-01",
-      "image": "https://uproxx.com/wp-content/uploads/2026/09/09.29_Physical-Media-Art_Image-Set_710x400.jpg?w=710",
+      "image": "https://www.rte.ie/images/0021df9d-1600.jpg",
       "category": "market"
     },
     {
-      "title": "Hollywood Dealmakers Eye Creators as Mega-Merger Options Dwindle",
-      "description": "TheGrill 2026: Traditional talent\u2019s move to YouTube is opening new investment opportunities in creators and IP\nThe post Hollywood Dealmakers Eye Creators as Mega-Merger Options Dwindle appeared first on TheWrap.",
-      "url": "https://www.thewrap.com/industry-news/deals-ma/hollywood-dealmakers-creators-mega-mergers-youtube/",
-      "source": "TheWrap",
-      "date": "2026-10-01",
-      "image": "https://www.thewrap.com/wp-content/uploads/2026/09/thewrap-thegrill-roger-cheng.jpg",
+      "title": "Here are the top 10 ASX 200 shares today",
+      "description": "It was a happy end to the trading week for investors this Friday.\nThe post Here are the top 10 ASX 200 shares today appeared first on The Motley Fool Australia.",
+      "url": "https://www.fool.com.au/2026/10/02/here-are-the-top-10-asx-200-shares-today-02-october-2026/",
+      "source": "Motley Fool Australia",
+      "date": "2026-10-02",
+      "image": "https://www.fool.com.au/wp-content/uploads/2022/06/Pretty-excited-about-the-upside-16_9-1200x675.jpg",
       "category": "market"
     },
     {
-      "title": "12.1.5 Content Update Notes \u2014 World of Warcraft \u2014 Blizzard News",
-      "description": "Midnight\u2019s 12.1.5 content update brings the Labyrinth of Kindo\u2019jan\u2014a massive nine-chamber Delve-like challenge, a new single-boss raid, Season 2's mid-season refresh, the continuation of the...ByBlizzard Entertainment on 2026/10/01 at 12:00 PM",
-      "url": "https://www.wowhead.com/blue-tracker/news/eu/12-1-5-content-update-notes-world-of-warcraft-blizzard-news-24304162",
-      "source": "Wowhead.com",
-      "date": "2026-10-01",
-      "image": "https://wow.zamimg.com/images/logos/share-icon.png",
-      "category": "geopolitics"
-    },
-    {
-      "title": "The Pentagon\u2019s Chinese Tungsten Ban Starts in 15 Months",
-      "description": "Issued on behalf of Western Star Resources Inc. VANCOUVER, British Columbia, Oct. 01, 2026 (GLOBE NEWSWIRE) \u2014 Energy Metal News News Commentary \u2013 On January 1, 2027, the U.S. Department of War loses the ability to buy tungsten mined, refined or produced in Ch\u2026",
-      "url": "https://financialpost.com/globe-newswire/the-pentagons-chinese-tungsten-ban-starts-in-15-months",
-      "source": "Financial Post",
-      "date": "2026-10-01",
-      "image": null,
-      "category": "geopolitics"
-    },
-    {
-      "title": "20VC x SaaStr: Anthropic\u2019s S-1 Leaks, Instinct Hits $10 Billion in 33 Days, AMD Buys World Labs, and Meta Poaches MongoDB\u2019s CEO",
-      "description": "Benchmark\u2019s Jack Altman joins Harry Stebbings, Rory O\u2019Driscoll and Jason Lemkin: AMD buys World Labs for $8.2B, Meta hires away MongoDB\u2019s CEO, a mock Investment Committee on Jev at $10B, and Oura pulls its IPO two days before pricing This week\u2019s episode had a\u2026",
-      "url": "https://www.saastr.com/20vc-x-saastr-anthropics-s-1-leaks-instinct-hits-10-billion-in-33-days-amd-buys-world-labs-and-meta-poaches-mongodbs-ceo/",
-      "source": "Saastr.com",
-      "date": "2026-10-01",
-      "image": "https://i0.wp.com/www.saastr.com/wp-content/uploads/2026/10/20vc1001sm-scaled.jpg?fit=1000%2C565&quality=70&ssl=1",
+      "title": "Global M&A deal rush fades in third quarter as rising borrowing costs bite",
+      "description": "Global mergers and acquisitions activity saw a notable decline in the third quarter, totaling $993 billion. This figure marks a 41% decrease compared to the previous quarter, falling below $1 trillion. Despite this dip, worldwide M&A is up 28% year-to-date, r\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/business/global-ma-deal-rush-fades-in-third-quarter-as-rising-borrowing-costs-bite/articleshow/134633072.cms",
+      "source": "The Times of India",
+      "date": "2026-10-02",
+      "image": "https://img.etimg.com/thumb/msid-134633319,width-1200,height-900,imgsize-99562,overlay-economictimes/articleshow.jpg",
       "category": "market"
     },
     {
-      "title": "Mutual fund portfolio: How conservative, moderate and aggressive investors can allocate in current scenario",
-      "description": "Large- and small-cap mutual funds are seeing different investor interest, raising questions about how you should allocate across equity and other asset classes. A September report outlines how conservative, moderate, and aggressive investors could structure t\u2026",
-      "url": "https://www.livemint.com/money/personal-finance/mutual-fund-portfolio-how-conservative-moderate-and-aggressive-investors-can-allocate-in-current-scenario-11790861478242.html",
-      "source": "Livemint",
-      "date": "2026-10-01",
-      "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/fundd_1790864064008_cPwA_1790864075531_givj_2e1b8d81-a4e8-40c1-bb8d-c2fa3c7d5cb6_whzW.png",
-      "category": "market"
-    },
-    {
-      "title": "Corporatization of Healthcare Undermines Public Health | Countercurrents",
-      "description": "The remarkable advances in evidence-based modern medicine have made life easier, reduced mortality and increased longevity. To ensure that these benefits reach all citizens, it is imperative that the\u2026",
-      "url": "https://countercurrents.org/2026/10/corporatization-of-healthcare-undermines-public-health/",
-      "source": "Countercurrents.org",
-      "date": "2026-10-01",
-      "image": "https://cdn.countercurrents.org/2026/10/coporate-healthcare.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Record Gold Miner Cash Flow Puts Near-Surface Discoveries in Focus",
-      "description": "News Provided by US Metal News on behalf of Yukon Metals Corp. VANCOUVER, British Columbia, Oct. 01, 2026 (GLOBE NEWSWIRE) \u2014 US Metal News News Commentary \u2013 Major gold producers, including Agnico Eagle and Newmont, just reported record quarterly free cash flo\u2026",
-      "url": "https://financialpost.com/globe-newswire/record-gold-miner-cash-flow-puts-near-surface-discoveries-in-focus",
-      "source": "Financial Post",
-      "date": "2026-10-01",
-      "image": null,
+      "title": "India vs Pakistan Asian Games 2026 Final: Live streaming, match time, venue, TV channel and predicted playing XI",
+      "description": "The stage is set for a thrilling clash as India faces Pakistan in the men's cricket gold medal match at the Asian Games on October 3, 2026. Taking place at Korogi Sports Park in Nisshin, Japan, this match promises high stakes following India's semi-final vict\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/india-vs-pakistan-asian-games-2026-final-live-streaming-match-time-venue-tv-channel-and-predicted-playing-xi/articleshow/134631850.cms",
+      "source": "The Times of India",
+      "date": "2026-10-02",
+      "image": "https://img.etimg.com/thumb/msid-134631970,width-1200,height-900,imgsize-72370,overlay-economictimes/articleshow.jpg",
       "category": "metals"
     },
     {
-      "title": "KunstlerCast 452 \u2014 Sally Fallon Morell: Nourishing Traditions versus Diet Hysteria and Poison Food",
-      "description": "Sally Fallon Morell is the author of Nourishing Traditions, the cookbook that is changing the way Americans eat.",
-      "url": "https://www.kunstler.com/p/kunstlercast-452-sally-fallon-morell",
-      "source": "Kunstler.com",
-      "date": "2026-10-01",
-      "image": "https://substackcdn.com/image/fetch/$s_!RbV-!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F218334505%2F8946b545-d18a-41ac-9f6d-e5d24423b186%2Ftranscoded-1790859526.png",
+      "title": "Turkey: Stock market scandal hits half a million investors",
+      "description": "Asset managers are alleged to have artificially inflated the value of their funds. Turkish authorities have made multiple arrests, and a leading AKP lawmakers has resigned.",
+      "url": "https://www.dw.com/en/turkey-stock-market-scandal-hits-half-a-million-investors/a-79494710",
+      "source": "DW (English)",
+      "date": "2026-10-02",
+      "image": "https://static.dw.com/image/79308402_6.jpg",
       "category": "market"
     },
     {
-      "title": "Generation Mining Commences Construction at Marathon Copper-Palladium Mine",
-      "description": "TORONTO \u2014 Generation Mining Limited (TSX: GENM) (OTCQB: GENMF) (\u201cGen Mining\u201d or the \u201cCompany\u201d) is pleased to announce that it has commenced construction at its 100%-owned Marathon Copper-Palladium Project (\u201cMarathon\u201d or the \u201cProject\u201d) in Northwestern Ontario.\u2026",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/generation-mining-commences-construction-at-marathon-copper-palladium-mine",
-      "source": "Financial Post",
-      "date": "2026-10-01",
-      "image": null,
-      "category": "supply_demand"
+      "title": "Turkey's stock market scandal affects nearly half a million investors. Police have made several arrests and an AKP politician has resigned.",
+      "description": "Nearly half a million investors are affected, arrests have been made, and a female politician from the ruling party has resigned. What is behind the stock market manipulation scandal in Turkey? Investors in Turkey want one thing above all else: for their mone\u2026",
+      "url": "https://www.dw.com/en/turkeys-stock-market-scandal-affects-nearly-half-a-million-investors-police-have-made-several-arrests-and-an-akp-politician-has-resigned/a-79494710",
+      "source": "DW (English)",
+      "date": "2026-10-02",
+      "image": "https://static.dw.com/image/79308402_6.jpg",
+      "category": "market"
     },
     {
-      "title": "Pandora opens $150 million Vietnam jewelry factory powered by renewable energy",
-      "description": "Pandora has opened the world\u2019s largest fine-jewelry crafting facility in Vietnam, powered entirely by renewable electricity and using 100% recycled gold and silver",
-      "url": "https://abcnews.com/Business/wireStory/pandora-opens-150-million-vietnam-jewelry-factory-powered-136913568",
+      "title": "Gold steadies before US payrolls data, set for second weekly loss",
+      "description": "Gold steadied on Friday but remained on \u200ctrack for a second straight weekly decline, pressured \u200bby a firmer US dollar and elevated Treasury \u2060yields, as investors awaited key US payrolls data for clues on the Federal Reserve\u2019s policy path.",
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-steadies-before-us-payrolls-data-set-for-second-weekly-loss/article71536094.ece",
+      "source": "BusinessLine",
+      "date": "2026-10-02",
+      "image": "https://bl-i.thgim.com/public/incoming/l5s4ug/article71536106.ece/alternates/LANDSCAPE_1200/iStock-1472696526.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "The invisible shield: How Faraday technology is revolutionizing personal security and emergency preparedness",
+      "description": "Faraday bags are a critical defense against hacking and\u00a0tracking attempts. For any serious prepper, these bags are necessary to protect backup electronics from a catastrophic EMP attack or solar event. They stop all electromagnetic radiation, blocking the EMF\u2026",
+      "url": "https://www.naturalnews.com/2026-10-02-faraday-technology-personal-security-and-emergency-preparedness.html",
+      "source": "Naturalnews.com",
+      "date": "2026-10-02",
+      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/power-outages-emp-events-faraday-cages-4569-original.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Kyocera Unveils High-Performance Inkjet Printhead KJ4A-EX600RC-HX for Label and Packaging Innovation",
+      "description": "Enhanced Support for White Ink, Varnish and Foil Decoration Delivers Faster, More Versatile Printing KYOTO, Japan \u2014 Kyocera Corporation (President and CEO: Shiro Sakushima, hereafter \u201cKyocera\u201d) today announced plans to begin sales in November 2026 of a new ci\u2026",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/kyocera-unveils-high-performance-inkjet-printhead-kj4a-ex600rc-hx-for-label-and-packaging-innovation",
+      "source": "Financial Post",
+      "date": "2026-10-02",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/10/bw20261001393994_kj4aex600rchx.jpeg",
+      "category": "market"
+    },
+    {
+      "title": "Gold slips before US payrolls data, set for second weekly loss",
+      "description": "Gold prices are poised for their second consecutive weekly decline, driven by the strengthening US dollar and escalating Treasury yields. Investors are keenly anticipating vital US payroll figures that could sway the Federal Reserve's future policy decisions.\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-slips-before-us-payrolls-data-set-for-second-weekly-loss/articleshow/134630500.cms",
+      "source": "The Times of India",
+      "date": "2026-10-02",
+      "image": "https://img.etimg.com/thumb/msid-134630508,width-1200,height-900,imgsize-282667,overlay-etmarkets/articleshow.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Lab-grown \u2018mini-bladder\u2019 helps explain why urinary tract infections keep coming back",
+      "description": "New research suggests some UTI-causing bacteria can survive antibiotics deep in bladder tissue, helping explain why infections sometimes return.",
+      "url": "https://theconversation.com/lab-grown-mini-bladder-helps-explain-why-urinary-tract-infections-keep-coming-back-292397",
+      "source": "The Conversation Africa",
+      "date": "2026-10-02",
+      "image": "https://images.theconversation.com/files/762768/original/file-20260929-50-7o7c9i.jpg?ixlib=rb-4.1.1&rect=0%2C1002%2C6003%2C3001&q=45&auto=format&w=1356&h=668&fit=crop",
+      "category": "market"
+    },
+    {
+      "title": "Michael J. Fox to be promoted within Order of Canada at Rideau Hall today",
+      "description": "The actor and Parkinson\u2019s disease advocate Michael J. Fox is set to be honoured at Rideau Hall this morning.",
+      "url": "https://toronto.citynews.ca/2026/10/02/michael-j-fox-to-be-promoted-within-order-of-canada-at-rideau-hall-today/",
+      "source": "Citynews.ca",
+      "date": "2026-10-02",
+      "image": "https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2026/10/63b5400a6a744569d711fb913f05f2f3a3d507717aedc5cf14c5f39ba708a362.jpg",
+      "category": "market"
+    },
+    {
+      "title": "How the American Media Manipulated the Public to Support War in Iraq",
+      "description": "For years, mainstream media have parroted the language of their own governments, and that of lsrael, with little critical coverage of or challenge to the dominant political narrative in the West. Palestinians have been systematically dehumanized, along with t\u2026",
+      "url": "https://lithub.com/how-the-american-media-manipulated-the-public-to-support-war-in-iraq/",
+      "source": "Lithub.com",
+      "date": "2026-10-02",
+      "image": "https://s26162.pcdn.co/wp-content/uploads/2026/09/iraq-war-1.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "How Jimmy Stewart in It\u2019s a Wonderful Life Embodies the Best of America",
+      "description": "George Bailey is more Christmas than Santa Claus. And yes, they are in competition with each other. Whenever one TV station is playing It\u2019s a Wonderful Life, you can bet that our country\u2019s other black-and-white holiday classic, Miracle on 34th",
+      "url": "https://lithub.com/how-jimmy-stewart-in-its-a-wonderful-life-embodies-the-best-of-america/",
+      "source": "Lithub.com",
+      "date": "2026-10-02",
+      "image": "https://s26162.pcdn.co/wp-content/uploads/2026/10/Jimmy_Stewart_as_George_Bailey_in_Its_A_Wonderful_Life.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "proofpack added to PyPI",
+      "description": "ProofPack engine: validated ingest, declarations and statistical evidence packs for AI-enabled medical devices",
+      "url": "https://pypi.org/project/proofpack/",
+      "source": "Pypi.org",
+      "date": "2026-10-02",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "Show HN: Agent-Chrome \u2013 Claude Code browses in Chrome without stealing focus",
+      "description": "Your Chrome, behind the terminal. Claude Code drives a copy of your signed-in Chrome in a window that opens behind your apps and never takes focus. macOS. - rav4nn/agent-chrome",
+      "url": "https://github.com/rav4nn/agent-chrome",
+      "source": "Github.com",
+      "date": "2026-10-02",
+      "image": "https://opengraph.githubassets.com/d67cb16eec6439f4432dac0d15ae16fab71293a93666612886c930674a21170d/rav4nn/agent-chrome",
+      "category": "market"
+    },
+    {
+      "title": "Tajikistan Begins Receiving Iranian Oil, Testing New Supply Route And Extent Of US Sanctions",
+      "description": "Tajikistan has begun receiving oil and petroleum products from Iran in a move to diversify supplies long dominated by Russia. The volume, price, and route of the shipments remain unknown, raising questions about the commercial scale of the trade and potential\u2026",
+      "url": "https://www.rferl.org/a/iran-oil-petroleum-products-tajikistan-sanctions-treasury/33868914.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "date": "2026-10-02",
+      "image": "https://gdb.rferl.org/55f6dde7-e814-4bf7-d3cd-08de3c914337_cx3_cy21_cw79_w1200_h630.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Jakarta prepares for air transport services under Transjakarta",
+      "description": "a {\r\n    text-decoration: none;\r\n    color: #464feb;\r\n}\r\ntr th, tr td {\r\n    border: 1px solid #e6e6e6;\r\n}\r\ntr th {\r\n    background-color: ...",
+      "url": "https://en.antaranews.com/news/433863/jakarta-prepares-for-air-transport-services-under-transjakarta",
+      "source": "Antaranews.com",
+      "date": "2026-10-02",
+      "image": "https://cdn.antaranews.com/cache/1200x800/2026/10/02/IMG_0092.jpeg",
+      "category": "market"
+    },
+    {
+      "title": "Panicked Red-State Republicans Learning Politics on the Fly",
+      "description": "GOP candidates in places like Kansas and Texas are having to really campaign for the first time.\nThe post Panicked Red-State Republicans Learning Politics on the Fly appeared first on The American Prospect.",
+      "url": "https://prospect.org/2026/10/02/midterms-red-state-republicans-trump-kansas-texas/",
+      "source": "The American Prospect",
+      "date": "2026-10-02",
+      "image": "https://i0.wp.com/prospect.org/wp-content/uploads/2026/10/Cooper-Red-states-100226.png?fit=2000%2C1500&ssl=1",
+      "category": "market"
+    },
+    {
+      "title": "Jobs report to show whether hiring stayed resilient in September",
+      "description": "The jobs report will provide a gauge of the economy amid an inflation surge.",
+      "url": "https://abcnews.com/Business/jobs-report-show-hiring-stayed-resilient-september/story?id=136915472",
       "source": "Abcnews.com",
-      "date": "2026-10-01",
-      "image": "https://i.abcnewsfe.com/a/008e381c-ee21-4e5f-8540-bba2e4931388/wirestory_1cbda6d0d821f8e17dc630c57d99034a_16x9.jpg?w=1600",
-      "category": "metals"
-    },
-    {
-      "title": "Sensex today | Stock Market Highlights: Sensex falls 571 points, Nifty slips 0.88% as auto stocks drag markets",
-      "description": "Sensex Today, Nifty 50 | Stock Market Highlights:  Indian equities ended lower on Thursday, weighed by losses in auto stocks, while the rupee weakened to a two-month low against the dollar.",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-stock-market-highlights-1-october-2026/article71528461.ece",
-      "source": "BusinessLine",
-      "date": "2026-10-01",
-      "image": "https://bl-i.thgim.com/public/incoming/k1gv6z/article71531995.ece/alternates/LANDSCAPE_1200/IMG_Stock_Exchange_Marke_2_1_OEDR8CI7.jpg",
-      "category": "currency"
-    },
-    {
-      "title": "Gold rate today (October 1, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from Malabar Gold & Diamonds, Joyalukkas, Kalyan Jewellers, Tanishq & IBJA in Delhi, Mumbai, Hyderabad & more cities",
-      "description": "Gold Rate: On October 1, 2026, a shift was observed in the gold market as prices fell at key jewellery outlets in India. In Delhi, Tanishq offered 22k gold jewellery at Rs 13,725 per gram, a decrease from Rs 13,755 previously. Malabar Gold & Diamonds also rep\u2026",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/gold-rate-today-october-1-check-18k-20k-24k-ibja-gold-price-malabar-gold-kalyan-jewelers-joyalukkas-delhi-hyderabad-bengaluru/articleshow/134612180.cms",
-      "source": "The Times of India",
-      "date": "2026-10-01",
-      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1499020,resizemode-75,msid-134612180/wealth/invest/gold-rate-today-october-1-check-18k-20k-24k-ibja-gold-price-malabar-gold-kalyan-jewelers-joyalukkas-delhi-hyderabad-bengaluru.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "Selling deepens into midday; auto and metals lead declines as FII outflows cross \u20b926,000 crore",
-      "description": "The selloff came despite softer crude oil prices, with WTI crude trading in the $89\u2013$90 per barrel range, down 0.79 per cent on the day, after retreating from an intraday high of $90.69.",
-      "url": "https://www.thehindubusinessline.com/markets/selling-deepens-into-midday-auto-and-metals-lead-declines-as-fii-outflows-cross-26000-crore/article71531868.ece",
-      "source": "BusinessLine",
-      "date": "2026-10-01",
-      "image": "https://bl-i.thgim.com/public/incoming/p3hhei/article71531936.ece/alternates/LANDSCAPE_1200/iStock-1405176819.jpg",
-      "category": "market"
-    },
-    {
-      "title": "McKool Smith Named 2026 IP \"Litigation Department of the Year\" by Texas Lawyer",
-      "description": "DALLAS, Oct. 1, 2026 /PRNewswire/ -- McKool Smith has been named Intellectual Property \"Litigation Department of the Year\" at the 2026 Texas Legal Awards, presented by Texas Lawyer. The Texas Legal Awards honor the attorneys and law firms making a lasting imp\u2026",
-      "url": "https://www.prnewswire.com/news-releases/mckool-smith-named-2026-ip-litigation-department-of-the-year-by-texas-lawyer-302896389.html",
-      "source": "PRNewswire",
-      "date": "2026-10-01",
-      "image": null,
-      "category": "geopolitics"
-    },
-    {
-      "title": "Will the India-US Trade Standoff Ever Come to an End? Outlook Unclear, According to\u00a0Officials",
-      "description": "A cornucopia of factors has stymied progress toward the long-anticipated trade deal between the United States and India this year.",
-      "url": "http://wwd.com/sourcing-journal/trade/india-us-bilateral-trade-agreement-trump-tariffs-modi-g20-1239301637/",
-      "source": "WWD",
-      "date": "2026-10-01",
-      "image": "https://wwd.com/wp-content/uploads/2026/10/narendramodisept.jpg?w=1000&h=563&crop=1",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Downing Street responds to Andy Burnham backlash over Manchester City comments",
-      "description": "Downing Street has hit back at criticism of Andy Burnham after his comments on Manchester City.",
-      "url": "https://www.101greatgoals.com/football/premier-league/downing-street-responds-andy-burnham-backlash-over-manchester-city-comments/",
-      "source": "101 Great Goals",
-      "date": "2026-10-01",
-      "image": "https://www.101greatgoals.com/wp-content/uploads/2026/08/shutterstock_2479514571-2-2-1.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Comment on The Pixel Project: Five Great Reasons to Give to the 12th Annual Fall Read For Pixels Campaign For Domestic Violence Awareness Month 2026 by Jim C.",
-      "description": "An important cause, and I'm happy to support. And thanks to Chuck as I suspect that I would not have seen this campaign otherwise.",
-      "url": "https://terribleminds.com/ramble/2026/10/01/the-pixel-project-five-great-reasons-to-give-to-the-12th-annual-fall-read-for-pixels-campaign-for-domestic-violence-awareness-month-2026/comment-page-1/#comments",
-      "source": "Terribleminds.com",
-      "date": "2026-10-01",
-      "image": null,
-      "category": "geopolitics"
-    },
-    {
-      "title": "Why are world bond markets selling off again?",
-      "description": "As inflation fears and mounting debt pressure rise, government borrowing costs have soared to unprecedented levels. The US Treasury yield, now the highest since 2002, signifies a shift in global market dynamics. These increasing bond yields adversely affect l\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-are-world-bond-markets-selling-off-again/articleshow/134625028.cms",
-      "source": "The Times of India",
-      "date": "2026-10-01",
-      "image": "https://img.etimg.com/thumb/msid-134625078,width-1200,height-900,imgsize-11219,overlay-etmarkets/articleshow.jpg",
+      "date": "2026-10-02",
+      "image": "https://i.abcnewsfe.com/a/8f3590d1-a0e8-4217-afd0-bbf14f92515b/construction-rt-jef-261001_1790875757791_hpMain_16x9.jpg?w=1600",
       "category": "inflation"
     },
     {
-      "title": "Resilience Doesn\u2019t Equal Security- Lloyd\u2019s List",
-      "description": "Strait of Hormuz transit data for the month of September reveals how the oil and container markets are tactically adjusting to the U.S./Israel war on Iran.",
-      "url": "https://gcaptain.com/resilience-doesnt-equal-security-lloyds-list/",
-      "source": "gcaptain.com",
-      "date": "2026-10-01",
-      "image": "https://gcaptain.com/wp-content/uploads/2026/08/Hormuz-Heat-Map.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Treasury sanctions A7 Network as transnational criminal organization",
-      "description": "The designation of A7 as a criminal organization highlights the increasing scrutiny on financial networks facilitating sanctions evasion, impacting global compliance.\nThe post Treasury sanctions A7 Network as transnational criminal organization appeared first\u2026",
-      "url": "https://cryptobriefing.com/treasury-sanctions-a7-network-criminal-organization/",
-      "source": "Crypto Briefing",
-      "date": "2026-10-01",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/01135302/library-treasury-sanctions-a7-network-as-transnational-criminal--800x450.png",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Adbusters - Issue 187 2026",
-      "description": "Adbusters is dedicated to examining the relationship between human beings and their physical and mental environment. We want a world in which the economy and ecology resonate in balance, and we encourage our readers to become participants, rather than spectat\u2026",
-      "url": "https://post.rlsbb.cc/adbusters-issue-187-2026/",
-      "source": "Rlsbb.cc",
-      "date": "2026-10-01",
-      "image": null,
-      "category": "supply_demand"
-    },
-    {
-      "title": "ICE sets limits on which officers can stop vehicles",
-      "description": "The new guidance comes after several vehicle stops ended in shootings.",
-      "url": "https://abcnews.com/US/ice-sets-limits-officers-stop-vehicles/story?id=136923893",
-      "source": "Abcnews.com",
-      "date": "2026-10-01",
-      "image": "https://i.abcnewsfe.com/a/82521e89-92ea-4179-8aff-4debbefeb094/ice-agents-rt-jt-260924_1790273835756_hpMain_16x9.jpg?w=1600",
+      "title": "Patient dies by suicide after \"insurance issue\" delayed medicine",
+      "description": "Hours after experiencing a flare-up related to chronic obstructive pulmonary disease, Kenney Blewett of Kyle, Texas, died by suicide in June.",
+      "url": "https://www.cbsnews.com/news/patient-death-insurance-delay-medicine-lung-disease/",
+      "source": "CBS News",
+      "date": "2026-10-02",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/01/766c4da0-9fee-4e32-925a-5649702604b7/thumbnail/1200x630/86cd9400b34a572186a7c74dae0a5011/blewett-06.jpg",
       "category": "market"
     },
     {
-      "title": "Friendly-faced California tech CEO arrested by feds for allegedly hiding $300M Chinese secret",
-      "description": "Federal agents on Wednesday arrested a California tech CEO who\u2019s accused of smuggling more than $300 million in restricted AI chips into China. Greg Lui, 38, aka \u201cYiu Kong Lui,\u201d of San Gabriel, faces a barrage of federal charges for allegedly selling Beijing \u2026",
-      "url": "https://nypost.com/2026/10/01/us-news/california-tech-ceo-arrested-for-allegedly-smuggling-300-million-in-restricted-ai-chips-into-china/",
-      "source": "New York Post",
-      "date": "2026-10-01",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/143325713.jpg?quality=75&strip=all&w=1200",
+      "title": "Patient Dies by Suicide After \u2018Insurance Issue\u2019 Delayed Medicine for Lung Disease Flare-Ups",
+      "description": "Hours after experiencing a flare-up related to chronic obstructive pulmonary disease, Kenney Blewett of Kyle, Texas, died by suicide in June. A medication his doctor prescribed days earlier to ease his breathing problems hadn\u2019t been filled due to an \u201cinsuranc\u2026",
+      "url": "https://kffhealthnews.org/health-industry/insurance-issue-delayed-copd-prescription-breathing-problems-suicide-texas/",
+      "source": "Kffhealthnews.org",
+      "date": "2026-10-02",
+      "image": "https://kffhealthnews.org/wp-content/uploads/sites/8/2026/09/Blewett_09.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Her Agency Distributes Billions for Housing Projects. Her Husband\u2019s Company Helped Develop Some of Them.",
+      "description": "Andrea Bell, executive director of Oregon Housing and Community Services, filed amended state ethics paperwork after ProPublica asked about her husband\u2019s work at a firm that\u2019s consulted on projects receiving or in line for money from her agency.",
+      "url": "https://www.propublica.org/article/oregon-housing-director-husband-conflict",
+      "source": "ProPublica",
+      "date": "2026-10-02",
+      "image": "https://www.propublica.org/wp-content/uploads/2026/10/SOCIAL-CROP_A-Bell_IMG_8724.jpg?resize=2000,1124",
+      "category": "market"
+    },
+    {
+      "title": "Midterms Have Revived Universal Healthcare Debate. These States Are Ahead of Everyone.",
+      "description": "While Democratic congressional candidates are floating the restoration of federal Affordable Care Act subsidies and Medicaid funding, Oregon officials are crafting a more ambitious plan to implement universal coverage in their state.",
+      "url": "https://kffhealthnews.org/elections/single-payer-universal-healthcare-debate-midterms-oregon-proposal/",
+      "source": "Kffhealthnews.org",
+      "date": "2026-10-02",
+      "image": "https://kffhealthnews.org/wp-content/uploads/sites/8/2026/10/HCAO_07.jpg",
       "category": "central_bank"
     },
     {
-      "title": "Christa Pike Hospitalized After Surviving 2 Lethal Injection Doses in Tennessee",
-      "description": "This represents the second failed attempt at an execution via lethal injection in Tennessee this year alone.",
-      "url": "https://truthout.org/articles/christa-pike-hospitalized-after-surviving-2-lethal-injection-doses-in-tennessee/",
-      "source": "Truthout",
-      "date": "2026-10-01",
-      "image": "https://truthout.org/app/uploads/2026/09/Screenshot-2026-09-22-at-1.38.27-PM-scaled.png",
-      "category": "market"
+      "title": "Global shares rise as bond selloff eases before US jobs",
+      "description": "LONDON, Oct 2 : Global shares rose on Friday as wild volatility in bond and currency markets eased ahead of key US jobs data that could shape expectations for the Federal Reserve's next policy move. In Europe, longer-dated sovereign bond prices rose on the da\u2026",
+      "url": "https://www.channelnewsasia.com/business/global-shares-rise-bond-selloff-eases-us-jobs-6425861",
+      "source": "CNA",
+      "date": "2026-10-02",
+      "image": "https://dam.mediacorp.sg/image/upload/s--QkCSObm6--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-02T085754Z_1_LYNXMPEM910LC_RTROPTP_3_EUROPE-STOCKS.JPG?itok=g-oeHRBx",
+      "category": "central_bank"
     },
     {
-      "title": "What role should \u2018diversity,\u2019 \u2018pluralism\u2019 play in higher education?",
-      "description": "Cornell William Brooks and Kevin Roberts spar over whether race-conscious programs are still needed.",
-      "url": "https://news.harvard.edu/gazette/story/2026/10/what-role-should-diversity-pluralism-play-in-higher-education/",
-      "source": "Harvard School of Engineering and Applied Sciences",
-      "date": "2026-10-01",
-      "image": "https://news.harvard.edu/wp-content/uploads/2026/09/092226_Diversity_Higher_Education_0370.jpg",
-      "category": "market"
+      "title": "A sharp decline in gold, silver, and platinum prices What is happening in the metal market - \u0627\u0644\u0645\u062a\u062f\u0627\u0648\u0644 \u0627\u0644\u0639\u0631\u0628\u064a",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRVNkcWxOT28zd09HQWlhLWxlbHp5emtPd3ZBTEZLbEpKa2ZycTBEbTlFdElsME9SVWI0OGFPNS1CMzZuOVlYWHRYclY3NUcxT3F6YnpfS3Bzb2VjZXc3Uk9JLTE2THJmUnZmUHhuUkpGNVM4NmxaaFpVa3p0Mm41LWxwck9FV1lyaWgtY3FQSE5ISEg4Q3RrYlZwQ0RpcHV1SUYtQUJTaVNmbTNiWkx2VDFkNTc4Q2dXTX",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRVNkcWxOT28zd09HQWlhLWxlbHp5emtPd3ZBTEZLbEpKa2ZycTBEbTlFdElsME9SVWI0OGFPNS1CMzZuOVlYWHRYclY3NUcxT3F6YnpfS3Bzb2VjZXc3Uk9JLTE2THJmUnZmUHhuUkpGNVM4NmxaaFpVa3p0Mm41LWxwck9FV1lyaWgtY3FQSE5ISEg4Q3RrYlZwQ0RpcHV1SUYtQUJTaVNmbTNiWkx2VDFkNTc4Q2dXTXUySTJMSThvbzFpUmlGTjNSTFpqamUwQ2hsWU12V096VHJR?oc=5",
+      "source": "Google News - Precious Metals",
+      "date": "2026-10-02",
+      "image": "",
+      "category": "platinum"
     }
   ],
   "history": [
@@ -497,17 +497,17 @@
       "platinum_usd_oz": 1857.35
     },
     {
-      "date": "2026-10-02",
+      "date": "2026-10-03",
       "week": "2026-W40",
-      "gold_10g": 128131.21,
-      "silver_kg": 186516.56,
-      "platinum_g": 5236.82,
-      "gold_usd_oz": 4136.45,
-      "silver_usd_oz": 60.21,
-      "platinum_usd_oz": 1690.6
+      "gold_10g": 128351.17,
+      "silver_kg": 187078.15,
+      "platinum_g": 5272.84,
+      "gold_usd_oz": 4142.33,
+      "silver_usd_oz": 60.38,
+      "platinum_usd_oz": 1701.72
     }
   ],
-  "timestamp": "2026-10-02T23:29:30.523692+05:30",
+  "timestamp": "2026-10-03T14:48:48.886221+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
