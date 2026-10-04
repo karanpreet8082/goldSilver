@@ -1,48 +1,48 @@
 {
   "prices": {
     "gold": {
-      "price_per_gram_inr": 12835.12,
+      "price_per_gram_inr": 12831.72,
       "price_usd_oz": 4142.33,
       "change_percent": -0.85,
       "change_value_usd": -35.36,
-      "price_per_10g_inr": 128351.17
+      "price_per_10g_inr": 128317.21
     },
     "silver": {
-      "price_per_gram_inr": 187.08,
+      "price_per_gram_inr": 187.03,
       "price_usd_oz": 60.38,
       "change_percent": -1.01,
       "change_value_usd": -0.62,
-      "price_per_kg_inr": 187078.15
+      "price_per_kg_inr": 187028.65
     },
     "platinum": {
-      "price_per_gram_inr": 5272.84,
+      "price_per_gram_inr": 5271.44,
       "price_usd_oz": 1701.72,
       "change_percent": -1.57,
       "change_value_usd": -27.1
     },
     "currencies": {
-      "USD_INR": 96.375,
-      "EUR_INR": 108.4327,
-      "GBP_INR": 127.4802,
-      "JPY_INR": 0.6107,
-      "CHF_INR": 116.2826,
-      "AUD_INR": 66.9876,
-      "CAD_INR": 67.6601,
-      "SGD_INR": 75.3224
+      "USD_INR": 96.3495,
+      "EUR_INR": 108.404,
+      "GBP_INR": 127.379,
+      "JPY_INR": 0.6105,
+      "CHF_INR": 116.2939,
+      "AUD_INR": 66.9233,
+      "CAD_INR": 67.6659,
+      "SGD_INR": 75.3083
     },
     "gold_silver_ratio": 68.61,
-    "timestamp": "2026-10-03T16:36:39.727942",
+    "timestamp": "2026-10-04T09:58:22.315631",
     "source": "GoldAPI"
   },
   "currencies": {
-    "USD_INR": 96.375,
-    "EUR_INR": 108.4327,
-    "GBP_INR": 127.4802,
-    "JPY_INR": 0.6107,
-    "CHF_INR": 116.2826,
-    "AUD_INR": 66.9876,
-    "CAD_INR": 67.6601,
-    "SGD_INR": 75.3224
+    "USD_INR": 96.3495,
+    "EUR_INR": 108.404,
+    "GBP_INR": 127.379,
+    "JPY_INR": 0.6105,
+    "CHF_INR": 116.2939,
+    "AUD_INR": 66.9233,
+    "CAD_INR": 67.6659,
+    "SGD_INR": 75.3083
   },
   "analysis": {
     "gold": {
@@ -54,7 +54,7 @@
         "hold": 29
       },
       "summary": "Gold is showing negative signals. Slight decline of -0.8%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-03T16:36:45.776052",
+      "timestamp": "2026-10-04T09:58:27.196792",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 26
       },
       "summary": "Silver is showing negative signals. Significant daily drop of -1.0%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-03T16:36:45.855485",
+      "timestamp": "2026-10-04T09:58:27.313641",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 26
       },
       "summary": "Platinum is showing negative signals. Significant daily drop of -1.6%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-03T16:36:45.937877",
+      "timestamp": "2026-10-04T09:58:27.398455",
       "source": "rule-based"
     }
   },
@@ -94,9 +94,9 @@
       ],
       "support": 124137.93,
       "resistance": 140736.5,
-      "current_price": 128351.17,
-      "ma_short": 132548.2,
-      "ma_long": 131518.02,
+      "current_price": 128317.21,
+      "ma_short": 132539.71,
+      "ma_long": 131514.62,
       "trend_score": -2.0
     },
     "silver": {
@@ -106,14 +106,14 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -3.9% in 4 weeks",
+        "Weak momentum: -4.0% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
       "support": 176726.94,
       "resistance": 243170.57,
-      "current_price": 187078.15,
-      "ma_short": 196533.21,
-      "ma_long": 199676.94,
+      "current_price": 187028.65,
+      "ma_short": 196520.83,
+      "ma_long": 199671.99,
       "trend_score": -3.5
     },
     "platinum": {
@@ -127,102 +127,273 @@
       ],
       "support": 4961.56,
       "resistance": 6206.5,
-      "current_price": 5272.84,
-      "ma_short": 5458.86,
-      "ma_long": 5396.62,
+      "current_price": 5271.44,
+      "ma_short": 5458.51,
+      "ma_long": 5396.49,
       "trend_score": -1.0
     }
   },
   "news": [
     {
-      "title": "Sebi examining position limits for non-agri contracts to boost liquidity",
-      "description": "Sebi is actively investigating position limits for non-agricultural contracts to improve market liquidity and depth. Chairman Tuhin Kanta Pandey has highlighted the importance of phased physical settlement for agricultural commodities. The organization is focused on addressing structural issues and ",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-examining-position-limits-for-non-agri-contracts-to-boost-liquidity/articleshow/134656225.cms",
+      "title": "RBI may hike repo rate by 25 bps as inflation and oil risks mount: Sunil Sanghai",
+      "description": "The RBI could raise the repo rate by 25 basis points in October and signal further tightening as inflation, elevated crude prices and a narrowing rate gap with the US pressure the rupee. Strong reserves and a manageable current account provide crucial buffers.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-may-hike-repo-rate-by-25-bps-as-inflation-and-oil-risks-mount-sunil-sanghai/articleshow/134672762.cms",
       "source": "Economic Times Markets",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "image": "",
-      "category": "supply_demand"
+      "category": "central_bank"
     },
     {
-      "title": "Bitcoin holds near $84,000, Ethereum moves towards $2,700 as buyers remain active",
-      "description": "In the past 24 hours, Bitcoin and Ethereum were down 1.6% and 1.5% respectively. Among the major altcoins, BNB, Dogecoin, Solana, Hyperliquid, Dogecoin and Cardano corrected upto 3.1% whereas Tron was up 0.3%.",
-      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-holds-near-84000-ethereum-moves-towards-2700-as-buyers-remain-active/articleshow/134654918.cms",
+      "title": "IT Q2 Preview: Muted growth, steady margins likely; deal conversion, AI deflation in focus",
+      "description": "India's leading IT firms are projected to exhibit modest revenue growth and stable margins for the second quarter. Analysts anticipate that discretionary spending will remain constrained due to geopolitical issues affecting client budgets. As such, decision-making cycles are expected to prolong for ",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/it-q2-preview-muted-growth-steady-margins-likely-deal-conversion-ai-deflation-in-focus/articleshow/134672682.cms",
       "source": "Economic Times Markets",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "US job growth slows as unemployment rises before midterm elections",
-      "description": "The US economy added 29,000 jobs in September, with unemployment rising to 4.2 percent, according to Labor Department.",
-      "url": "https://www.aljazeera.com/economy/2026/10/2/us-job-growth-slows-as-unemployment-rises-before-midterm-elections",
-      "source": "Al Jazeera English",
-      "date": "2026-10-02",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6abfccd3e38b8-1790954707.jpg?resize=1920%2C1440",
-      "category": "market"
-    },
-    {
-      "title": "Today\u2019s News in a Nutshell",
-      "description": "KATHMANDU: Khabarhub brings you a glimpse of major developments of the day in Nepal, including politics, business/economy, sports, entertainment, and more. HoR session prorogued after 145 days, 35 bills registered The second session of the House of Representa\u2026",
-      "url": "https://english.khabarhub.com/2026/02/570270/",
-      "source": "Khabarhub.com",
-      "date": "2026-10-02",
-      "image": "https://english.khabarhub.com/wp-content/uploads/2024/05/News-Nutshell.jpg",
-      "category": "market"
-    },
-    {
-      "title": "How to choose your first Genie Agents for maximum impact",
-      "description": "\u2022 The first few Genie Agents you build determine whether adoption scales or stalls, so choosing the right agents to start with is critical \r\n\u2022\u00a0Use a five criteria rubric: impact, demand, data readiness, scope, and governance to rank candidate workflows in min\u2026",
-      "url": "https://www.databricks.com/blog/how-choose-your-first-genie-agents-maximum-impact",
-      "source": "Databricks.com",
-      "date": "2026-10-02",
-      "image": "https://www.databricks.com/sites/default/files/2026-09/Untitled-design-15.png",
-      "category": "supply_demand"
-    },
-    {
-      "title": "How to Build a Modern Classic Wardrobe for Men (Step by Step)",
-      "description": "You've got a closet full of clothes and nothing to wear. A suit from a wedding six years ago. A pile of graphic tees. Two blazers that never quite fit. Some jeans you bought because a guy on Instagram looked good in them. Here's the deal \u2014 you don't need more\u2026",
-      "url": "https://www.realmenrealstyle.com/modern-classic-wardrobe/",
-      "source": "Realmenrealstyle.com",
-      "date": "2026-10-02",
-      "image": "https://www.realmenrealstyle.com/wp-content/uploads/2026/10/modern-classic-menswear-cafe-knit-polo-blazer.jpg",
+      "title": "Bajaj Finance: Why this rare Nifty outperformer is likely to reward investors in a muted market",
+      "description": "Bajaj Finance is down only about 2% in 2026 against a roughly 13% fall in the Nifty, even as FPI outflows reached $26.8 billion year to date. the relative strength rests on a Rs 17,500 crore capital raise (QIP plus promoter warrants), which Jefferies sees lifting FY28e BVPS by 8% with eps broadly fl",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finance-why-this-rare-nifty-outperformer-is-likely-to-reward-investors-in-a-muted-market/articleshow/134671703.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-10-04",
+      "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "Brownsville\u2019s New Multi-Service Center Nears Opening Day",
-      "description": "by Gabriele Holtermann, Brooklyn Paper\nCommunity-based organizations and Brooklyn Community Board 16 will soon serve residents across Brooklyn from under one roof at a new 60,000-square-foot, state-of-the-art, all-electric community center set to open its doo\u2026",
-      "url": "http://www.brownstoner.com/development/brownsville-multi-service-center-444-thomas-boyland-street-opens-soon/",
-      "source": "Brownstoner.com",
-      "date": "2026-10-02",
-      "image": "https://www.brownstoner.com/wp-content/uploads/2026/10/brownsville-multi-service-center-mayoral-office.png",
-      "category": "market"
-    },
-    {
-      "title": "BULGOLD Engages HE Capital Markets to Provide Investor Engagement Services",
-      "description": "TORONTO, Oct. 02, 2026 (GLOBE NEWSWIRE) \u2014 BULGOLD Inc. (TSXV:ZLTO) (the \u201cCompany\u201d or \u201cBULGOLD\u201c) is pleased to announce that it has engaged HE Capital Markets Ltd (\u201cHECM\u201c) to provide investor engagement services across North America and Europe. In connection w\u2026",
-      "url": "https://financialpost.com/globe-newswire/bulgold-engages-he-capital-markets-to-provide-investor-engagement-services",
-      "source": "Financial Post",
-      "date": "2026-10-02",
-      "image": null,
+      "title": "What will bring foreign investors back to Indian stock market? 5 things that should go right",
+      "description": "FPIs sold more than Rs 25,000 crore of Indian equities in September as surging US bond yields, elevated crude prices and a weaker rupee reduced India\u2019s appeal. Cooling yields and oil, currency stability, strong Q2 earnings and attractive valuations could bring foreign investors back.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/what-will-bring-foreign-investors-back-to-indian-stock-market-5-things-that-should-go-right/articleshow/134671265.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-10-04",
+      "image": "",
       "category": "currency"
     },
     {
-      "title": "Top 10 mutual funds by AUM: Which schemes are beating their benchmarks on 1-, 3-, and 5-year CAGR returns?",
-      "description": "The biggest mutual funds by AUM do not necessarily deliver similar performance against their benchmarks. A comparison of their 1-, 3-, and 5-year CAGR shows how different schemes have fared across these periods. Here\u2019s what the numbers reveal for investors.",
-      "url": "https://www.livemint.com/money/personal-finance/top-10-mutual-funds-by-aum-which-schemes-are-beating-their-benchmarks-on-1-3-and-5-year-cagr-returns-11790940595727.html",
-      "source": "Livemint",
-      "date": "2026-10-02",
-      "image": "https://www.livemint.com/lm-img/img/2026/10/02/1600x900/logo/mutut_1790947153689_YmPw_1790947157711_q9hY_d1b25ff2-f336-44cd-834e-04d7ebb3df4e_KkQ0.png",
+      "title": "Rate cut cycle near turning point. What lies ahead for Indian bonds?",
+      "description": "The RBI is expected to signal monetary tightening at its October policy meeting as stronger economic growth, rising oil prices and elevated US Treasury yields fuel inflation concerns. Higher domestic rates could support the rupee but raise borrowing costs for the government and companies while press",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rate-cut-cycle-near-turning-point-what-lies-ahead-for-indian-bonds/articleshow/134671117.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-10-04",
+      "image": "",
+      "category": "central_bank"
+    },
+    {
+      "title": "What the bond market reveals about Congress, the national debt and the middle class\u2014and where America goes from here",
+      "description": "The only real solution is to put fiscal policy on a sustainable trajectory, but on the tax side, it\u2019s important to realize we have limited room.",
+      "url": "https://fortune.com/2026/10/03/bond-market-middle-class-national-debt/",
+      "source": "Fortune",
+      "date": "2026-10-03",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2294365678-e1790972582967.jpg?resize=1200,600",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Insurance to retirement: How to build financial goals that fit your income",
+      "description": "Financial Goals: A step-by-step guide to aligning your budget and investments with your actual take-home pay to build a sustainable financial plan",
+      "url": "https://www.business-standard.com/finance/personal-finance/insurance-to-retirement-how-to-build-financial-goals-that-fit-your-income-126100100724_1.html",
+      "source": "Business Standard",
+      "date": "2026-10-03",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-09/04/thumb/fitandfill/1200X628/1756987162-0477.jpg",
       "category": "market"
     },
     {
-      "title": "FO Talks: Drone Warfare and Foreign Meddling in Sudan\u2019s Devastating Civil War",
-      "description": "Assistant Editor Casey Hermann speaks with Fernando Carvajal, the executive director at The American Center for South Yemen Studies, about Sudan\u2019s bloody civil war. They examine the struggle between General Abdel Fattah al-Burhan\u2019s Sudanese Armed Forces (SAF)\u2026",
-      "url": "https://www.fairobserver.com/region/middle_east_north_africa/fo-talks-drone-warfare-and-foreign-meddling-in-sudans-devastating-civil-war/",
-      "source": "Fair Observer",
-      "date": "2026-10-02",
-      "image": "https://www.fairobserver.com/wp-content/uploads/2026/10/Drone-Warfare-and-Foreign-Meddling-in-Sudans-Devastating-Civil-War-Fair-Observer.jpeg",
+      "title": "'I'm going to kill myself': Grandmother, 81, loses her entire $850,000 retirement nest egg in evil\u00a0'pump and dump' scam after being lured in by fake Kouk hoax",
+      "description": "Linda Codling was preparing for an idyllic coastal retirement after working for 66 years when she received a life-destroying message.",
+      "url": "https://www.dailymail.com/news/article-16174771/linda-codling-super-scam-stephen-koukoulas-impersonation.html",
+      "source": "Dailymail.com",
+      "date": "2026-10-03",
+      "image": "https://i.dailymail.com/1s/2026/10/02/04/111582939-0-image-m-22_1790912469846.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Trump Crypto Dinner Returns: 185 Investors Invited as $TRUMP Faces New Scrutiny",
+      "description": "The Trump crypto dinner takes place on November 22, 2026, with the top 185 $TRUMP holders battling it out for invites in a time-weighted leaderboard....\nThe post Trump Crypto Dinner Returns: 185 Investors Invited as $TRUMP Faces New Scrutiny appeared first on\u2026",
+      "url": "https://bitcoinfoundation.org/news/altcoins/trump-crypto-dinner-returns-185-investors-invited-as-trump-faces-new-scrutiny/",
+      "source": "Bitcoinfoundation.org",
+      "date": "2026-10-03",
+      "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/Trump1.webp",
+      "category": "market"
+    },
+    {
+      "title": "Norton I, Emperor of the United States by Nancy J. Farrier",
+      "description": "What!! An Emperor of the United States. We are a democracy and have a president, not an emperor. Right? You might be surprised to find out...",
+      "url": "https://www.hhhistory.com/2026/10/norton-i-emperor-of-united-states-by.html",
+      "source": "Hhhistory.com",
+      "date": "2026-10-03",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivhIda_fqF56d_5kWnjj_8omsvDpyeBIW1TXVM67mJqlkt1YsKBjwFSfSy6NtAVv_sr9qtjSFIZNqwSiBotCW9F8p_fyurLYL7U1SzS_aGpzVJPjqZ-clAexp35gRHfdp26jio9lUl1foU/w1200-h630-p-k-no-nu/His-Imperial-Majesty-Emperor-Norton-I-portrait-crop.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Quant Mutual Fund says investors should stay agile in portfolio allocation amid market shifts",
+      "description": "The fund house noted that the geopolitical crisis in the Middle East had entered its eighth month and resulted in severe disruptions to global commodity supplies, with Brent crude rising above $100 a barrel.",
+      "url": "https://m.economictimes.com/mf/mf-news/quant-mutual-fund-says-investors-should-stay-agile-in-portfolio-allocation-amid-market-shifts/articleshow/134653556.cms",
+      "source": "Economictimes.com",
+      "date": "2026-10-03",
+      "image": "https://img.etimg.com/thumb/msid-134653605,width-1200,height-900,imgsize-2175520,overlay-etwealthmutualfunds/articleshow.jpg",
       "category": "geopolitics"
+    },
+    {
+      "title": "Asian Games 2026: Pranavi Urs wins gold in women's individual golf tournament; helps secure silver in team event",
+      "description": "Indian golfer Pranavi Urs earned the gold medal in women's individual golf tournament at the 2026 Asian Games. She became the first woman from the country to earn the top spot in the podium. The golfer's performance also contributed to the country's women's t\u2026",
+      "url": "https://economictimes.indiatimes.com/news/sports/other-sports/asian-games-2026-pranavi-urs-wins-gold-in-womens-individual-golf-tournament-helps-secure-silver-in-team-event/articleshow/134651527.cms",
+      "source": "The Times of India",
+      "date": "2026-10-03",
+      "image": "https://img.etimg.com/thumb/msid-134651937,width-1200,height-900,imgsize-63322,overlay-economictimes/articleshow.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "India women's golf team of Pranavi, Aditi, Diksha win historic Asian Games silver",
+      "description": "India's women's golf team achieved remarkable success by winning a silver medal at the 2026 Asian Games. Pranavi Sharath Urs led the team with an outstanding performance, securing individual gold in the stroke play event. The team finished the tournament at 1\u2026",
+      "url": "https://economictimes.indiatimes.com/news/sports/other-sports/india-womens-golf-team-of-pranavi-aditi-diksha-win-historic-asian-games-silver/articleshow/134651862.cms",
+      "source": "The Times of India",
+      "date": "2026-10-03",
+      "image": "https://img.etimg.com/thumb/msid-134651872,width-1200,height-900,imgsize-60376,overlay-economictimes/articleshow.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "From gold consumer to global powerhouse: How India refines, designs, and dominates",
+      "description": "India\u2019s true global influence stems not from pulling ore out of the ground, but from what happens after imported bullion arrives at its ports",
+      "url": "https://www.thehindubusinessline.com/markets/gold/from-gold-consumer-to-global-powerhouse-how-india-refines-designs-and-dominates/article71539575.ece",
+      "source": "BusinessLine",
+      "date": "2026-10-03",
+      "image": "https://bl-i.thgim.com/public/incoming/ho7njn/article71539610.ece/alternates/LANDSCAPE_1200/PTI10_29_2024_000179B.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "2 AI habits that can weaken your critical thinking, according to a BCG exec",
+      "description": "BCG's global lead of people and organization said he thinks there's an \"existential risk\" of deskilling.",
+      "url": "https://www.businessinsider.com/bcg-exec-shares-ai-habits-weaken-critical-thinking-2026-10#article",
+      "source": "Business Insider",
+      "date": "2026-10-03",
+      "image": "https://i.insider.com/6abff089d15f8a572974db4c?width=1200&format=jpeg",
+      "category": "market"
+    },
+    {
+      "title": "Zinc review: One man\u2019s unusual history becomes a left-field meditation on identity and language",
+      "description": "Dublin Theatre Festival 2026: Ben Kidd and Bush Moukarzel direct a multinational, plurilingual cast in their adaptation of David Van Reybrouck\u2019s book",
+      "url": "https://www.irishtimes.com/culture/stage/review/2026/10/03/zinc-review-one-mans-unusual-history-becomes-a-left-field-meditation-on-identity-and-language/",
+      "source": "The Irish Times",
+      "date": "2026-10-03",
+      "image": "https://www.irishtimes.com/resizer/v2/PRENFY4EARCJ3NSLMPDADPB4GU.jpg?smart=true&auth=c4f83d3bf3cf88de24178d480dd73a47d25dbaf2e0a8a87e419e476f09f4968e&width=1200&height=630",
+      "category": "market"
+    },
+    {
+      "title": "CII welcomes RoDTEP extension, seeks five-year policy horizon for exporters",
+      "description": "The extension comes as India\u2019s merchandise exports recorded strong growth during April-August, while the government targets $1 trillion exports this fiscal year",
+      "url": "https://www.thehindubusinessline.com/economy/cii-welcomes-rodtep-extension-seeks-five-year-policy-horizon-for-exporters/article71540082.ece",
+      "source": "BusinessLine",
+      "date": "2026-10-03",
+      "image": "https://bl-i.thgim.com/public/incoming/wjy5n6/article71540249.ece/alternates/LANDSCAPE_1200/IMG_ICTT_2_1_OIDUB27Q.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "What\u2019s driving the global bond sell-off?",
+      "description": "Looking at the most cited factors reveals a mixed picture",
+      "url": "https://biztoc.com/x/3ad72896bce183f1",
+      "source": "Biztoc.com",
+      "date": "2026-10-03",
+      "image": "https://biztoc.com/cdn/996/og.png",
+      "category": "market"
+    },
+    {
+      "title": "UAE 'blackmails' Andy Burnham it will pull BILLIONS from the UK unless Manchester City are cleared - as club chairman is pictured arriving for Downing Street meeting",
+      "description": "Andy Burnham is under pressure to cool relations with the Middle Eastern country after he said he would be 'really concerned' if the club's Abu Dhabi owners decided to sell up.",
+      "url": "https://www.dailymail.com/news/article-16180113/UAE-blackmails-Burnham-pull-BILLIONS-UK-Manchester-City-cleared.html",
+      "source": "Dailymail.com",
+      "date": "2026-10-03",
+      "image": "https://i.dailymail.com/1s/2026/10/03/09/111626717-0-image-m-13_1791014678532.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Kolibri Has Landed: A Sovereign Open-Weight Model",
+      "description": "Kolibri is an English-German Mixture-of-Experts model with 78B total and 3B active parameters, a context of up to 1M tokens and open weights under Apache 2.0, specialized for sovereign, mission-critical work.",
+      "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+      "source": "Aleph-alpha.com",
+      "date": "2026-10-03",
+      "image": "https://aleph-alpha.com/_astro/00-cover.Du35XCGh_zJqw.jpeg",
+      "category": "market"
+    },
+    {
+      "title": "Peak Lithium",
+      "description": "Brine and hard rock mining Preface. The electrification of vehicles and energy storage depend on lithium batteries. What is really dumb is that energy storage systems do not need to be light like transportation batteries. Yet over 99% of energy \u2026 Continue rea\u2026",
+      "url": "https://energyskeptic.com/2026/peak-lithium/",
+      "source": "Energyskeptic.com",
+      "date": "2026-10-03",
+      "image": null,
+      "category": "supply_demand"
+    },
+    {
+      "title": "JPMorgan lays out the investing playbook for 3 midterm-election scenarios",
+      "description": "Gridlock tends to be a benign election outcome for markets, as investors don't have to grapple with the potential for sweeping policy changes.",
+      "url": "https://www.businessinsider.com/midterm-elections-investing-playbook-blue-wave-ai-xom-spcx-jpmorgan-2026-10#article",
+      "source": "Business Insider",
+      "date": "2026-10-03",
+      "image": "https://i.insider.com/6abfc8a2eb7225411267d859?width=1200&format=jpeg",
+      "category": "market"
+    },
+    {
+      "title": "The Supreme Court faces another term jam-packed with controversy",
+      "description": "The Supreme Court term opens on Monday with big test cases on religion, guns and climate change. Plus, the emergency docket keeps popping.",
+      "url": "https://www.npr.org/2026/10/03/nx-s1-5986341/supreme-court-term-religion-guns-environment-immigration",
+      "source": "NPR",
+      "date": "2026-10-03",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+54/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe6%2F08%2Feca9b3374b0d8fb37f66f272cf74%2Fgettyimages-2294936548.jpg",
+      "category": "market"
+    },
+    {
+      "title": "\u2018We need to trust our employees\u2019: This billionaire CEO went from counting cars in the parking lot past 6pm to embracing hybrid work",
+      "description": "Jim Kavanaugh once believed employees needed to be in the office to get the job done. Now, he says leaders need to trust workers \u201clike adults.\u201d",
+      "url": "https://fortune.com/2026/10/03/world-wide-technology-ceo-jim-kavanaugh-return-to-office-mantra-hybrid-works-trust-employees-billionaire-tech-cofounder/",
+      "source": "Fortune",
+      "date": "2026-10-03",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/JimKavanaugh.jpg?resize=1200,600",
+      "category": "market"
+    },
+    {
+      "title": "Russian boxing chief who paid for Trump Jr\u2019s wedding party has extortion convictions and Putin\u2019s backing",
+      "description": "President Donald Trump says his son has repaid the Russian, Democrats have opened an inquiry and the attorney general says he has no plans to investigate, as Kremlev's bid for influence in US sport falters\nThe post Russian boxing chief who paid for Trump Jr\u2019s\u2026",
+      "url": "https://en.protothema.gr/2026/10/03/russian-boxing-chief-who-paid-for-trump-jrs-wedding-party-has-extortion-convictions-and-putins-backing/",
+      "source": "Protothema.gr",
+      "date": "2026-10-03",
+      "image": "https://en.protothema.gr/wp-content/uploads/2026/10/maketa-putin-umar-kremlev-1.jpg-1.jpg",
+      "category": "market"
+    },
+    {
+      "title": "How the system failed us: Former foster youth tell their stories",
+      "description": "Former foster youth with disabilities tell their stories \u2014 of how they got through foster care",
+      "url": "https://www.npr.org/2026/10/03/nx-s1-5939829/foster-care-youth-disabilities-failure-voices",
+      "source": "NPR",
+      "date": "2026-10-03",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5400x3038+0+0/resize/1400/quality/85/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdb%2F57%2F7e552025480485d0276789624ba8%2Ffoster-care-voices-update.png",
+      "category": "market"
+    },
+    {
+      "title": "Germany is preparing for war \u2013 with an enemy it expects to hold back",
+      "description": "Germany is rearming against Russia while expecting Moscow to avoid escalation. What is driving Berlin\u2019s strategy? Read Full Article at RT.com",
+      "url": "https://www.rt.com/news/646655-fourth-reich-in-making-germany/",
+      "source": "RT",
+      "date": "2026-10-03",
+      "image": "https://mf.b37mrtl.ru/files/2026.10/article/6abfd75085f5401fbb016ac9.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Plato Gold Corp. Closes Initial $55,000 Tranche of Critical-Mineral Flow-Through Private Placement",
+      "description": "/ NOT FOR DISTRIBUTION TO UNITED STATES NEWS WIRE SERVICES OR FOR DISSEMINATION IN THE UNITED STATES / Toronto, Oct. 02, 2026 (GLOBE NEWSWIRE) \u2014 Plato Gold Corp. (TSX-V:\u00a0PGC) (OTCQB: NIOVF) (Frankfurt: 4Y7 or WKN: A0M2QX) (\u201cPlato\u201d or the \u201cCompany\u201d) announces \u2026",
+      "url": "https://financialpost.com/globe-newswire/plato-gold-corp-closes-initial-55000-tranche-of-critical-mineral-flow-through-private-placement",
+      "source": "Financial Post",
+      "date": "2026-10-02",
+      "image": null,
+      "category": "metals"
+    },
+    {
+      "title": "Silvercorp Reports 2026 Annual General and Special Meeting Results",
+      "description": "Trading Symbol: TSX/NYSE American: SVM VANCOUVER, BC, Oct. 2, 2026 /PRNewswire/ -- Silvercorp Metals Inc. (\"Silvercorp\" or the \"Company\") (TSX: SVM) (NYSE American: SVM) is pleased to report that all matters submitted to shareholders for approval as set out i\u2026",
+      "url": "https://www.prnewswire.com/news-releases/silvercorp-reports-2026-annual-general-and-special-meeting-results-302897561.html",
+      "source": "PRNewswire",
+      "date": "2026-10-02",
+      "image": "https://mmx.prnewswire.com/media/MS953166/Silvercorp-Metals-Inc-Silvercorp-Reports-2026-Annual-General-an.jpg?id=OA2985527&p=facebook",
+      "category": "metals"
     },
     {
       "title": "Precious metals drop, silver falls below $60 per ounce",
@@ -232,177 +403,6 @@
       "date": "2026-10-02",
       "image": "https://biztoc.com/cdn/cd72365676c231a1_s.webp",
       "category": "platinum"
-    },
-    {
-      "title": "The Ancient Parable",
-      "description": "\"I will throw you in prison. I want Chinese style communism to happen inside of the democratic party right now. I want to do cultural revolution shit.\" \u2014Hasan Piker, DSA Spox",
-      "url": "https://www.kunstler.com/p/the-ancient-parable",
-      "source": "Kunstler.com",
-      "date": "2026-10-02",
-      "image": "https://substackcdn.com/image/fetch/$s_!NoM4!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff915b85e-edce-4f06-9270-1605edc38439_700x361.heic",
-      "category": "market"
-    },
-    {
-      "title": "CME Group Reports Record Average Daily Volume for September and Q3, Driven by Growth Across Asset Classes",
-      "description": "Record September ADV of 31.8 million contracts Record Q3 ADV of 29.4 million contracts Record September and Q3 ADV for interest rate and agricultural products CHICAGO, Oct. 2, 2026 /PRNewswire/ -- CME Group, the world's leading derivatives marketplace, today \u2026",
-      "url": "https://www.prnewswire.com/news-releases/cme-group-reports-record-average-daily-volume-for-september-and-q3-driven-by-growth-across-asset-classes-302897134.html",
-      "source": "PRNewswire",
-      "date": "2026-10-02",
-      "image": null,
-      "category": "central_bank"
-    },
-    {
-      "title": "Live updates: Bitcoin, gold and tech futures edge higher as markets await U.S. jobs report",
-      "description": "Bitcoin trades above $86,000 as gold and tech futures rise, with investors expecting 90,000 new U.S. jobs and unemployment to hold at 4.1%.",
-      "url": "https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report",
-      "source": "CoinDesk",
-      "date": "2026-10-02",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/fce15d9b832d4f087056ff45ef32cee4441b4240-7360x4912.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "category": "metals"
-    },
-    {
-      "title": "Trilogy Metals Reports Third Quarter Fiscal 2026 Financial Results",
-      "description": "NYSE American / TSX Symbol: TMQ VANCOUVER, BC, Oct. 2, 2026 /PRNewswire/ -- Trilogy Metals Inc. (NYSE American: TMQ) (TSX: TMQ) (\"Trilogy Metals\", \"Trilogy\" or the \"Company\") announces its financial results for the third quarter ended August 31, 2026. Details\u2026",
-      "url": "https://www.prnewswire.com/news-releases/trilogy-metals-reports-third-quarter-fiscal-2026-financial-results-302896962.html",
-      "source": "PRNewswire",
-      "date": "2026-10-02",
-      "image": "https://mmx.prnewswire.com/media/MS1132784/Trilogy-Metals-Inc-Trilogy-Metals-Reports-Third-Quarter-Fiscal.jpg?id=OA2983679&p=facebook",
-      "category": "market"
-    },
-    {
-      "title": "Gold steadies before US payrolls data, set for second weekly loss",
-      "description": "Gold steadied on Friday but remained on \u200ctrack for a second straight weekly decline, pressured \u200bby a firmer US dollar and elevated Treasury \u2060yields, as investors awaited key US payrolls data for clues on the Federal Reserve\u2019s policy path.",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-steadies-before-us-payrolls-data-set-for-second-weekly-loss/article71536094.ece",
-      "source": "BusinessLine",
-      "date": "2026-10-02",
-      "image": "https://bl-i.thgim.com/public/incoming/l5s4ug/article71536106.ece/alternates/LANDSCAPE_1200/iStock-1472696526.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "The invisible shield: How Faraday technology is revolutionizing personal security and emergency preparedness",
-      "description": "Faraday bags are a critical defense against hacking and\u00a0tracking attempts. For any serious prepper, these bags are necessary to protect backup electronics from a catastrophic EMP attack or solar event. They stop all electromagnetic radiation, blocking the EMF\u2026",
-      "url": "https://www.naturalnews.com/2026-10-02-faraday-technology-personal-security-and-emergency-preparedness.html",
-      "source": "Naturalnews.com",
-      "date": "2026-10-02",
-      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/power-outages-emp-events-faraday-cages-4569-original.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Kyocera Unveils High-Performance Inkjet Printhead KJ4A-EX600RC-HX for Label and Packaging Innovation",
-      "description": "Enhanced Support for White Ink, Varnish and Foil Decoration Delivers Faster, More Versatile Printing KYOTO, Japan \u2014 Kyocera Corporation (President and CEO: Shiro Sakushima, hereafter \u201cKyocera\u201d) today announced plans to begin sales in November 2026 of a new ci\u2026",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/kyocera-unveils-high-performance-inkjet-printhead-kj4a-ex600rc-hx-for-label-and-packaging-innovation",
-      "source": "Financial Post",
-      "date": "2026-10-02",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/10/bw20261001393994_kj4aex600rchx.jpeg",
-      "category": "market"
-    },
-    {
-      "title": "Pope Leo comes out against AI-generated art and calls for an alliance with artists",
-      "description": "Pope Leo XIV told artists at the Vatican on Friday that there is an ontological difference between art and what a machine generates from millions of images made by others. European law has required synthetic content to carry machine-readable marks since 2 Aug\u2026",
-      "url": "https://thenextweb.com/news/pope-ai-art-eu-labelling-gap",
-      "source": "The Next Web",
-      "date": "2026-10-02",
-      "image": "https://media.thenextweb.com/2026/09/Pope-Leo.jpg",
-      "category": "currency"
-    },
-    {
-      "title": "Seeking niche in ASEAN semiconductor supply chain",
-      "description": "The Association of Southeast Asian Nations (ASEAN) is developing a roadmap for its semiconductor ecosystem as competition for high-tech investment intensifies ...",
-      "url": "https://en.antaranews.com/news/433969/seeking-niche-in-asean-semiconductor-supply-chain",
-      "source": "Antaranews.com",
-      "date": "2026-10-02",
-      "image": "https://cdn.antaranews.com/cache/1200x800/2011/11/20111109b48.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Students clash with police as French officials struggle to end violent school protests",
-      "description": "Since late September, students have staged protests outside schools over grievances ranging from timetables, class sizes and a shortage of teachers to overheated classrooms during this year's heatwaves.",
-      "url": "https://nypost.com/2026/10/02/world-news/students-police-clash-as-france-struggles-to-end-school-protests/",
-      "source": "New York Post",
-      "date": "2026-10-02",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/143469956.jpg?quality=75&strip=all&w=1200",
-      "category": "market"
-    },
-    {
-      "title": "'The Watcher' Season 2 Is Official: Naomi Watts, Bobby Cannavale Return",
-      "description": "Margo Martindale and Isabel Gravitt will also reprise their roles when the Netflix series from Ryan Murphy and Ian Brennan returns four-plus years after season one.",
-      "url": "http://www.hollywoodreporter.com/tv/tv-news/the-watcher-season-2-naomi-watts-bobby-cannavale-1236721015/",
-      "source": "Hollywood Reporter",
-      "date": "2026-10-02",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2022/10/The-Watcher-Still-2-Netflix-Publicity-H-2022.jpg?w=1296&h=730&crop=1",
-      "category": "market"
-    },
-    {
-      "title": "Let\u2019s Dig In to Digger",
-      "description": "Alejandro G. I\u00f1\u00e1rritu\u2019s \u2018Digger\u2019 is a Russian nesting doll of plot twists and framing devices, one that ends in a very different place than where it began. Let\u2019s unpack how it gets there and whether it works.",
-      "url": "http://www.vulture.com/article/digger-ending-twist-explained-kenny-theory.html",
-      "source": "Vulture",
-      "date": "2026-10-02",
-      "image": "https://pyxis.nymag.com/v1/imgs/7ab/683/8a328a42a674f2751ac05fe283823dd3f3-digger-jesse.1x.rsocial.w1200.png",
-      "category": "market"
-    },
-    {
-      "title": "CUPE 2484 members at Ideal Child Service Group preparing to strike Monday",
-      "description": "TORONTO \u2014 Child care workers at Ideal Child Service Group (ICSG) represented by CUPE Local 2484 are preparing to be on strike as of Monday, October 5 if the employer does not return to the bargaining table to negotiate a fair collective agreement. The workers\u2026",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/cupe-2484-members-at-ideal-child-service-group-preparing-to-strike-monday",
-      "source": "Financial Post",
-      "date": "2026-10-02",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "France debt crisis: Bond investors have rendered a \u2018guilty\u2019 verdict and are pricing in growing odds of a sovereign default, analyst says",
-      "description": "The cost of insurance against a French default is now the highest among the major EU countries and the UK.",
-      "url": "https://fortune.com/2026/10/02/france-debt-crisis-bond-investors-odds-sovereign-default-cds-yield-spread-deficit-presidential-race/",
-      "source": "Fortune",
-      "date": "2026-10-02",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2294554597-e1790945129951.jpg?resize=1200,600",
-      "category": "market"
-    },
-    {
-      "title": "Amex Is Turning Harry Styles Fandom Into a Membership Perk",
-      "description": "American Express is building a fandom strategy across music, and Harry Styles is the latest example.",
-      "url": "https://www.adweek.com/brand-marketing/amex-is-turning-harry-styles-fandom-into-a-membership-perk/",
-      "source": "Adweek",
-      "date": "2026-10-02",
-      "image": "https://static-www.adweek.com/wp-content/uploads/2026/10/Untitled-design-1.png?w=600&h=315&crop=1",
-      "category": "market"
-    },
-    {
-      "title": "Fed's Lisa Cook sees AI inflationary push as a top 2027 risk",
-      "description": "Cook joined a unanimous vote last month at the Fed to raise the policy rate by a quarter of a point to support a \"timelier\" return of inflation to the Fed's 2% goal. Inflation by the Fed's targeted measure was 3.4% in August and has been above the goal for mo\u2026",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/feds-cook-sees-ai-inflationary-push-as-a-top-2027-risk/articleshow/134643510.cms",
-      "source": "The Times of India",
-      "date": "2026-10-02",
-      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2816398,resizemode-75,msid-134643510/tech/artificial-intelligence/feds-cook-sees-ai-inflationary-push-as-a-top-2027-risk.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "Your health insurance premiums may take a big jump in 2027 \u2014 here's why",
-      "description": "Many consumers are likely on the hook for an increase of about 10% or more in 2027, experts said.",
-      "url": "https://www.cnbc.com/2026/10/02/health-insurance-premiums-2027-inflation-aca-obamacare.html",
-      "source": "CNBC",
-      "date": "2026-10-02",
-      "image": "https://image.cnbcfm.com/api/v1/image/108371886-1790953530561-gettyimages-2191871211-4045_30_2024_3720_ry.jpeg?v=1790953545&w=1920&h=1080",
-      "category": "market"
-    },
-    {
-      "title": "Charles St-Arnaud: Canada has escaped higher bond yields, but higher borrowing costs are still on the way",
-      "description": "Canada is not an island. It is an open economy with a floating exchange rate. So global financial developments inevitably reach us. Read on",
-      "url": "https://financialpost.com/news/economy/charles-st-arnaud-higher-borrowing-costs-on-the-way",
-      "source": "Financial Post",
-      "date": "2026-10-02",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/10/1003-mg-bank-of-canada.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Vance Fraud Crackdown Raises Health Costs | IUX24",
-      "description": "A federal crackdown on Obamacare health insurance aims to eliminate fraudulent enrollees but risks driving up costs for insurers and consumers. The policy changes weigh on major health stocks as companies face a sicker patient mix.",
-      "url": "https://www.iux24.com/news/vance-fraud-crackdown-threatens-higher-costs-for-us-health-insurers-and-enrollees-20261002/",
-      "source": "Iux24.com",
-      "date": "2026-10-02",
-      "image": "https://cdn.iux24.com/news/public/images/2026/10/02/thumbnail-db6a9c4a321c836041b7e8dc383f8c87-1790954762746.jpg",
-      "category": "central_bank"
     }
   ],
   "history": [
@@ -497,17 +497,17 @@
       "platinum_usd_oz": 1857.35
     },
     {
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "week": "2026-W40",
-      "gold_10g": 128351.17,
-      "silver_kg": 187078.15,
-      "platinum_g": 5272.84,
+      "gold_10g": 128317.21,
+      "silver_kg": 187028.65,
+      "platinum_g": 5271.44,
       "gold_usd_oz": 4142.33,
       "silver_usd_oz": 60.38,
       "platinum_usd_oz": 1701.72
     }
   ],
-  "timestamp": "2026-10-03T22:06:45.948331+05:30",
+  "timestamp": "2026-10-04T15:28:27.411284+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
