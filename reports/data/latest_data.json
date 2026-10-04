@@ -31,7 +31,7 @@
       "SGD_INR": 75.3083
     },
     "gold_silver_ratio": 68.61,
-    "timestamp": "2026-10-04T14:54:49.062204",
+    "timestamp": "2026-10-04T16:56:47.880180",
     "source": "GoldAPI"
   },
   "currencies": {
@@ -54,7 +54,7 @@
         "hold": 29
       },
       "summary": "Gold is showing negative signals. Slight decline of -0.8%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-04T14:54:54.128235",
+      "timestamp": "2026-10-04T16:56:53.681118",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 26
       },
       "summary": "Silver is showing negative signals. Significant daily drop of -1.0%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-04T14:54:54.207678",
+      "timestamp": "2026-10-04T16:56:53.803973",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 26
       },
       "summary": "Platinum is showing negative signals. Significant daily drop of -1.6%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-04T14:54:54.278955",
+      "timestamp": "2026-10-04T16:56:53.879524",
       "source": "rule-based"
     }
   },
@@ -243,6 +243,15 @@
       "category": "market"
     },
     {
+      "title": "Bullion Cues: Support fails",
+      "description": "Gold and silver prices fell last week, with a bearish outlook and key support levels shaping possible declines.",
+      "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/bullion-cues-support-fails/article71540115.ece",
+      "source": "BusinessLine",
+      "date": "2026-10-03",
+      "image": "https://bl-i.thgim.com/public/incoming/3rhfwp/article71540226.ece/alternates/LANDSCAPE_1200/iStock-506120376.jpg",
+      "category": "metals"
+    },
+    {
       "title": "From gold consumer to global powerhouse: How India refines, designs, and dominates",
       "description": "India\u2019s true global influence stems not from pulling ore out of the ground, but from what happens after imported bullion arrives at its ports",
       "url": "https://www.thehindubusinessline.com/markets/gold/from-gold-consumer-to-global-powerhouse-how-india-refines-designs-and-dominates/article71539575.ece",
@@ -252,157 +261,148 @@
       "category": "supply_demand"
     },
     {
-      "title": "Trump\u2019s \u201cDrill, Baby, Drill\u201d Regime Is Now Targeting California\u2019s Coastline",
-      "description": "The US Commerce Secretary is bullying California with an audit that could strip the state of control over its own coast.",
-      "url": "https://truthout.org/articles/trumps-drill-baby-drill-regime-is-now-targeting-californias-coastline/",
-      "source": "Truthout",
+      "title": "Rs 5.8cr tech hub to power Hubballi\u2019s IT push",
+      "description": "Karnataka approves Rs 5.8 crore, 10,000-sq-ft Global Technology Centre at Hubballi IT Park under LEAP; plug-and-play tech hub ready by Jan.",
+      "url": "https://timesofindia.indiatimes.com/city/hubballi/rs-5-8cr-tech-hub-to-power-hubballis-it-push/articleshow/134663415.cms",
+      "source": "The Times of India",
       "date": "2026-10-03",
-      "image": "https://truthout.org/app/uploads/2026/10/GettyImages-2289938871-scaled.jpg",
+      "image": "https://static.toiimg.com/thumb/msid-134663414,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "category": "market"
     },
     {
-      "title": "Wall Street Tries to Live With 5% Yields as Market Cracks Grow - Bloomberg.com",
-      "description": "Wall Street Tries to Live With 5% Yields as Market Cracks GrowBloomberg.com Bond yields are hovering near multi-year highs: What it means for your walletFox Business The Global Bond Rout Reaches Worrying New LevelsThe New York Times High Government Debt Is Ad\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186013748",
+      "title": "RoboParty Unveils RP1, a High-Performance Full-Stack Open-Source Humanoid Robot at IROS",
+      "description": "From RPO and Romomo to PartyOS, RoboParty is building an open humanoid robotics foundation for developers worldwide. PITTSBURGH, Oct. 3, 2026 /PRNewswire/ -- On September 28, 2026, RoboParty publicly unveiled RP1 (ROBOTO 01) at IROS 2026, marking the robot's \u2026",
+      "url": "https://www.prnewswire.com/news-releases/roboparty-unveils-rp1-a-high-performance-full-stack-open-source-humanoid-robot-at-iros-302897662.html",
+      "source": "PRNewswire",
+      "date": "2026-10-03",
+      "image": "https://mmx.prnewswire.com/media/MS2001907/20261003074659EDT_image_1.jpg?id=OA2985703&p=facebook",
+      "category": "market"
+    },
+    {
+      "title": "High Government Debt Is Adding Fuel to the Global Bond-Market Selloff - WSJ",
+      "description": "High Government Debt Is Adding Fuel to the Global Bond-Market SelloffWSJ Bond market bust: A key rate just blew through another decades-old recordCNN Wall Street Tries to Live With 5% Yields as Market Cracks GrowBloomberg.com Bond yields are hovering near mul\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186014486",
       "source": "Slashdot.org",
       "date": "2026-10-03",
       "image": null,
       "category": "market"
     },
     {
-      "title": "AI Agents Are Going Rogue. Novel Legal Battles Are Next",
-      "description": "",
-      "url": "https://www.theinformation.com/articles/ai-agents-going-rogue-novel-legal-battles-next",
-      "source": "The Information",
+      "title": "Ireland deliver improved performance to comfortably beat Japan",
+      "description": "Debut tries scored for Alana McInerney and Sophie Barrett at Virgin Media Park",
+      "url": "https://www.irishtimes.com/sport/rugby/2026/10/03/ireland-deliver-improved-performance-to-comfortably-beat-japan/",
+      "source": "The Irish Times",
+      "date": "2026-10-03",
+      "image": "https://www.irishtimes.com/resizer/v2/URZBIOQUYNPSTCTR5R6HY4CQPU.jpg?smart=true&auth=4932a5b65d3bf23f5e93ddc4dde9db0a219a8320cb6df0437d5140367df93e85&width=1200&height=630",
+      "category": "market"
+    },
+    {
+      "title": "Equity bulls have a new competitor in global bonds",
+      "description": "Bond rout pushes global yields higher, making fixed income a stronger rival to equities and hinting at a TAMA investment shift.",
+      "url": "https://www.thehindubusinessline.com/portfolio/equity-bulls-have-a-new-competitor-in-global-bonds/article71541603.ece",
+      "source": "BusinessLine",
+      "date": "2026-10-03",
+      "image": "https://bl-i.thgim.com/public/incoming/ldryj8/article69656460.ece/alternates/LANDSCAPE_1200/513319682",
+      "category": "market"
+    },
+    {
+      "title": "Market Hero or Hiroo Onoda?",
+      "description": "Recognising the possibility that global markets could be witnessing a regime change is the most important message to take away from the bond tantrums playing out in developed countries today",
+      "url": "https://www.thehindubusinessline.com/portfolio/market-hero-or-hiroo-onoda/article71537636.ece",
+      "source": "BusinessLine",
+      "date": "2026-10-03",
+      "image": "https://bl-i.thgim.com/public/incoming/lzvf4r/article71540298.ece/alternates/LANDSCAPE_1200/PO04_BS_Ostrich_signboard.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Avengers Endgame: Encore Box Office Plummets With MCU's Worst Week 2 Drop",
+      "description": "After debuting at No. 1 at the domestic box office, the re-release Avengers Endgame: Encore collapses with the MCU's biggest sophomore drop ever.",
+      "url": "https://screenrant.com/avengers-endgame-encore-box-office-week-2-domestic-chart-report/",
+      "source": "Screen Rant",
+      "date": "2026-10-03",
+      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/robert-downey-jr-as-iron-man-with-a-tiny-ant-man-on-his-shoulder-in-avengers-endgame.jpg?w=1600&h=900&fit=crop",
+      "category": "market"
+    },
+    {
+      "title": "jevmem added to PyPI",
+      "description": "System-One agent memory (Jev-Mem) for Claude Code and custom agents",
+      "url": "https://pypi.org/project/jevmem/",
+      "source": "Pypi.org",
       "date": "2026-10-03",
       "image": null,
       "category": "market"
     },
     {
-      "title": "Agenus Reports 48% Estimated Three-Year Survival With BOT+BAL in Recurrent Ovarian Cancer at IGCS 2026",
-      "description": "Survival estimate remained at 48% between years two and three, extending evidence of durable benefit Results observed in heavily pretreated, difficult-to-treat population that received a median of four prior lines of therapy; nearly three-quarters of patients\u2026",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/agenus-reports-48-estimated-three-year-survival-with-botbal-in-recurrent-ovarian-cancer-at-igcs-2026",
-      "source": "Financial Post",
+      "title": "Wike slams Amaechi for blaming Tinubu for mother\u2019s death",
+      "description": "FCT Minister Nyesom Wike has slammed Rotimi Amaechi for blaming President Tinubu\u2019s policies for his mother\u2019s death, calling it a ploy for political sympath\n\nRead More: https://punchng.com/wike-slams-amaechi-for-blaming-tinubu-for-mothers-death/",
+      "url": "https://punchng.com/wike-slams-amaechi-for-blaming-tinubu-for-mothers-death/",
+      "source": "The Punch",
       "date": "2026-10-03",
-      "image": null,
+      "image": "https://punchng.com/wp-content/uploads/2026/06/Nyesom-Wike_1782223817-1200x630.webp",
       "category": "market"
     },
     {
-      "title": "Dana Walden, President of The Walt Disney Company, Calls Recent Layoffs \u201cExtremely Painful\u201d",
-      "description": "Dana Walden, President and Chief Creative Officer of The Walt Disney Company, recently discussed the recent Disney layoffs.",
-      "url": "https://www.disneyfoodblog.com/2026/10/03/dana-walden-president-of-the-walt-disney-company-calls-recent-layoffs-extremely-painful/",
-      "source": "disneyfoodblog.com",
+      "title": "FTC Active Listening Orders Draw Liability Line to Agent Vendors",
+      "description": "The Federal Trade Commission\u2019s recent enforcement action against CMG Media Corporation, MindSift LLC, and 1010 Digital Works LLC is frequently mischaracterized as a crackdown on AI-driven surveillance. In reality, the case is a straightforward application of \u2026",
+      "url": "https://forkast.news/ftc-active-listening-orders-draw-liability-line-to-agent-vendors/",
+      "source": "Forkast.news",
       "date": "2026-10-03",
-      "image": "https://www.disneyfoodblog.com/wp-content/uploads/2023/03/dana-walden-walt-disney-company-602x600.png",
-      "category": "market"
-    },
-    {
-      "title": "A Growing Movement Is Working to Evict ICE From Its Buffalo Command Center",
-      "description": "Activists are pressuring Buffalo corporations to kick ICE out of the office building where it is imprisoning children.",
-      "url": "https://truthout.org/articles/a-growing-movement-is-working-to-evict-ice-from-its-buffalo-command-center/",
-      "source": "Truthout",
-      "date": "2026-10-03",
-      "image": "https://truthout.org/app/uploads/2026/10/Screenshot-2026-09-26-at-11.25.40-PM.jpg",
-      "category": "market"
-    },
-    {
-      "title": "DICK'S Sporting Goods, Inc. Class Action Lawsuit Seeks Recovery for Investors; November 3, 2026, Deadline - Contact Kessler Topaz Meltzer & Check, LLP",
-      "description": "Did you buy DKS common stock between September 8, 2025 and August 24, 2026? Affected DKS Investor Summary Who: DICK'S Sporting Goods, Inc. (NYSE: DKS) What: Securities fraud class action lawsuit filed Class Period: September 8, 2025 through August 24, 2026 De\u2026",
-      "url": "https://www.prnewswire.com/news-releases/dicks-sporting-goods-inc-class-action-lawsuit-seeks-recovery-for-investors-november-3-2026-deadline---contact-kessler-topaz-meltzer--check-llp-302897528.html",
-      "source": "PRNewswire",
-      "date": "2026-10-03",
-      "image": "https://mmx.prnewswire.com/media/MS669377/Kessler-Topaz-Meltzer-and-Check-Logo.jpg?id=OA2985245&p=facebook",
-      "category": "market"
-    },
-    {
-      "title": "Pakistan's 'civilian governments' serve at Army's mercy: India at UN",
-      "description": "India has slammed Pakistan at the UN, strongly rejecting its remarks about Jammu and Kashmir, telling the world organisation that the \"so-called\" civilian governments in Islamabad \"serve at the mercy\" of their Army and rarely complete their terms.\nIndia exerc\u2026",
-      "url": "https://www.business-standard.com/external-affairs-defence-security/news/pakistan-s-civilian-governments-serve-at-army-s-mercy-india-at-un-126100300817_1.html",
-      "source": "Business Standard",
-      "date": "2026-10-03",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/22/thumb/fitandfill/1200X628/1782107975-1307.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Voters favor Democrats on key issues but lack faith in either party to solve problems: AP-NORC poll",
-      "description": "An AP-NORC poll finds that voters are deeply dissatisfied with President Donald Trump and his Republican Party heading into the Nov. 3 elections",
-      "url": "https://abcnews.com/Politics/wireStory/voters-favor-democrats-key-issues-lack-faith-party-136969703",
-      "source": "Abcnews.com",
-      "date": "2026-10-03",
-      "image": "https://i.abcnewsfe.com/a/3a6835bf-aeeb-4ca6-a177-585d22f565b0/wirestory_109768f7544c9e0fcc7e716de0dc2157_16x9.jpg?w=1600",
-      "category": "market"
-    },
-    {
-      "title": "Lukoil\u2019s $20 billion deal: the oil \u2018battle\u2019 uniting Trump, Putin and Gulf billionaires",
-      "description": "The sale of Lukoil's international assets, worth around $20 billion, has moved from sanctions policy into the talks between Washington and Moscow, with a Boehly-led consortium backed by Gulf investors and a US state agency challenging Carlyle's earlier agreem\u2026",
-      "url": "https://en.protothema.gr/2026/10/03/lukoils-20-billion-deal-the-oil-battle-uniting-trump-putin-and-gulf-billionaires/",
-      "source": "Protothema.gr",
-      "date": "2026-10-03",
-      "image": "https://en.protothema.gr/wp-content/uploads/2026/10/trump-putin2-mkt.jpg",
+      "image": "https://forkast.news/wp-content/uploads/2026/10/ftc-active-listening-agent-liability-1024x572.jpg",
       "category": "geopolitics"
     },
     {
-      "title": "Federal Judge Blocks Medicaid Cutoff for More Than 800 Washington Immigrants on SSI as 10,000 Others Lose Coverage",
-      "description": "A Seattle federal judge kept Medicaid for more than 800 Washington immigrants on SSI, but about 10,000 refugees, asylees, and others lost Apple Health on Oct. 1.",
-      "url": "https://www.medicaldaily.com/washington-judge-blocks-medicaid-cutoff-immigrants-ssi-479474",
-      "source": "Medical Daily",
+      "title": "Somalia won\u2019t accept Israeli presence \u2018under any circumstances\u2019: President",
+      "description": "In exclusive Al Jazeera interview, President Hassan Sheikh Mohamud says Israel planning a naval base in Berbera.",
+      "url": "https://www.aljazeera.com/news/2026/10/3/somalia-wont-accept-israeli-presence-under-any-circumstances-president",
+      "source": "Al Jazeera English",
       "date": "2026-10-03",
-      "image": "https://d.medicaldaily.com/en/full/486806/immigrants-lose-coverage.jpg",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac1214d-1791041869_b03600-1791042527.jpg?resize=1200%2C630&quality=80",
+      "category": "market"
+    },
+    {
+      "title": "Senate Energy Bill Would Fine Any President Who Blocks A Whole Class Of Energy Projects",
+      "description": "A bipartisan Senate energy bill would bar any administration from blocking permits for an entire class of energy projects, such as solar or wind.",
+      "url": "https://dailycaller.com/2026/10/03/kevin-cramer-senate-permitting-bill-class-energy-projects-fines-capito-lee-heinrich-whitehouse",
+      "source": "The Daily Caller",
+      "date": "2026-10-03",
+      "image": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/10/us-capitol-senate-permitting-getty.jpg",
+      "category": "market"
+    },
+    {
+      "title": "An Overwhelming Percent of Americans Now Want to Pause AI and Tax Billionaires",
+      "description": "\"When you feel like you can't buy a home, or you feel like you can't get ahead, you will all of a sudden be attracted to policies you never thought you would be attracted to.\"\nThe post An Overwhelming Percent of Americans Now Want to Pause AI and Tax Billiona\u2026",
+      "url": "https://futurism.com/future-society/american-voters-overwhelming-support-ai-pause-billionaire-tax",
+      "source": "Futurism",
+      "date": "2026-10-03",
+      "image": "https://futurism.com/wp-content/uploads/2026/10/american-voters-overwhelming-support-ai-pause-billionaire-tax.jpg?quality=85&w=1200",
+      "category": "market"
+    },
+    {
+      "title": "F&O Strategy: Long strangle on Federal Bank",
+      "description": "Meta: Technical F&O-strategy guidance for Federal Bank with a long strangle (305-put, 330-call) amid RBI policy risk and key support/resistance.",
+      "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/fampo-strategy-long-strangle-on-federal-bank/article71536681.ece",
+      "source": "BusinessLine",
+      "date": "2026-10-03",
+      "image": "https://bl-i.thgim.com/public/news/4dpojw/article71537229.ece/alternates/LANDSCAPE_1200/Federal%20Bank%20Ltd.",
       "category": "central_bank"
     },
     {
-      "title": "DHS exposes dilemma behind SCOTUS deportation fight: \u2018We have two choices\u2019",
-      "description": "DHS General Counsel James Percival defends third-country removals on social media as the Supreme Court temporarily stays a lower-court ruling.",
-      "url": "https://www.foxnews.com/politics/dhs-exposes-dilemma-behind-scotus-deportation-fight-two-choices",
+      "title": "Newsom slaps 25% tax on private detention centers in sweeping pushback against key Trump policy",
+      "description": "Gavin Newsom signed a 25% tax on private detention centers in California, targeting every ICE facility in the state and their profits directly.",
+      "url": "https://www.foxnews.com/politics/newsom-slaps-25-percent-tax-private-detention-centers-sweeping-pushback-against-trump-immigration-agenda",
       "source": "Fox News",
       "date": "2026-10-03",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/ice-deportation-flight-dallas.jpg",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/trump-newsom.jpg",
       "category": "market"
     },
     {
-      "title": "\u2018Fissures and Cracks\u2019: America\u2019s Division, From 9/11 to the Rise of White Supremacy",
-      "description": "Janet Reitman's new book, The Inheritance: A Tragedy in Five Acts, traces how the war on terror created our current national reality.",
-      "url": "http://www.rollingstone.com/culture/culture-features/911-white-supremacy-inheritance-janet-reitman-1235635979/",
-      "source": "Rolling Stone",
+      "title": "Digital education will create jobs, opportunities for students \u2013 Presidential aide",
+      "description": "A presidential aide, Sunday Asefon, says the FG is using digital education and skills development to create economic opportunities for young Nigerians.\n\nRead More: https://punchng.com/digital-education-will-create-jobs-opportunities-for-students-presidential-\u2026",
+      "url": "https://punchng.com/digital-education-will-create-jobs-opportunities-for-students-presidential-aide/",
+      "source": "The Punch",
       "date": "2026-10-03",
-      "image": "https://www.rollingstone.com/wp-content/uploads/2026/10/unite-the-right-charlottesville.jpg?w=1600&h=900&crop=1",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Up to 900,000 NYC Medicaid Enrollees Face Coverage Risk When Federal Work Rules Start in January 2027",
-      "description": "NYC health officials say up to 900,000 Medicaid enrollees could be at risk under federal work rules starting in 2027. See dates, exemptions, and help.",
-      "url": "https://www.medicaldaily.com/nyc-medicaid-work-requirements-900000-risk-479470",
-      "source": "Medical Daily",
-      "date": "2026-10-03",
-      "image": "https://d.medicaldaily.com/en/full/486802/medicaid-enrollees.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "US lawmakers introduce the Ban Flock Act to block surveillance camera use",
-      "description": "More moves in the US government to get Flock run out of (every) town, but the legislation has long odds of passing.",
-      "url": "https://www.techradar.com/tech/us-lawmakers-led-by-bernie-sanders-introduce-the-ban-flock-act-to-block-the-government-from-using-the-surveillance-tech-but-citizens-say-it-should-go-beyond-alprs",
-      "source": "TechRadar",
-      "date": "2026-10-03",
-      "image": "https://cdn.mos.cms.futurecdn.net/FxMzh8xnBa3LCTagLY7nsC-1920-80.jpg",
+      "image": "https://cdn.punchng.com/wp-content/uploads/2026/10/03193454/109141_1791052494-1200x630.webp",
       "category": "market"
-    },
-    {
-      "title": "Plato Gold Corp. Closes Initial $55,000 Tranche of Critical-Mineral Flow-Through Private Placement",
-      "description": "/ NOT FOR DISTRIBUTION TO UNITED STATES NEWS WIRE SERVICES OR FOR DISSEMINATION IN THE UNITED STATES / Toronto, Oct. 02, 2026 (GLOBE NEWSWIRE) \u2014 Plato Gold Corp. (TSX-V:\u00a0PGC) (OTCQB: NIOVF) (Frankfurt: 4Y7 or WKN: A0M2QX) (\u201cPlato\u201d or the \u201cCompany\u201d) announces \u2026",
-      "url": "https://financialpost.com/globe-newswire/plato-gold-corp-closes-initial-55000-tranche-of-critical-mineral-flow-through-private-placement",
-      "source": "Financial Post",
-      "date": "2026-10-02",
-      "image": null,
-      "category": "metals"
-    },
-    {
-      "title": "Silvercorp Reports 2026 Annual General and Special Meeting Results",
-      "description": "Trading Symbol: TSX/NYSE American: SVM VANCOUVER, BC, Oct. 2, 2026 /PRNewswire/ -- Silvercorp Metals Inc. (\"Silvercorp\" or the \"Company\") (TSX: SVM) (NYSE American: SVM) is pleased to report that all matters submitted to shareholders for approval as set out i\u2026",
-      "url": "https://www.prnewswire.com/news-releases/silvercorp-reports-2026-annual-general-and-special-meeting-results-302897561.html",
-      "source": "PRNewswire",
-      "date": "2026-10-02",
-      "image": "https://mmx.prnewswire.com/media/MS953166/Silvercorp-Metals-Inc-Silvercorp-Reports-2026-Annual-General-an.jpg?id=OA2985527&p=facebook",
-      "category": "metals"
     }
   ],
   "history": [
@@ -507,7 +507,7 @@
       "platinum_usd_oz": 1701.72
     }
   ],
-  "timestamp": "2026-10-04T20:24:54.291353+05:30",
+  "timestamp": "2026-10-04T22:26:53.888111+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
