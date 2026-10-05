@@ -1,24 +1,24 @@
 {
   "prices": {
     "gold": {
-      "price_per_gram_inr": 12892.1,
-      "price_usd_oz": 4158.15,
-      "change_percent": 0.38,
-      "change_value_usd": 15.82,
-      "price_per_10g_inr": 128921.03
+      "price_per_gram_inr": 12845.84,
+      "price_usd_oz": 4143.23,
+      "change_percent": 0.02,
+      "change_value_usd": 0.9,
+      "price_per_10g_inr": 128458.45
     },
     "silver": {
-      "price_per_gram_inr": 191.2,
-      "price_usd_oz": 61.67,
-      "change_percent": 2.14,
-      "change_value_usd": 1.29,
-      "price_per_kg_inr": 191198.06
+      "price_per_gram_inr": 189.78,
+      "price_usd_oz": 61.21,
+      "change_percent": 1.38,
+      "change_value_usd": 0.83,
+      "price_per_kg_inr": 189781.16
     },
     "platinum": {
-      "price_per_gram_inr": 5346.73,
-      "price_usd_oz": 1724.51,
-      "change_percent": 1.34,
-      "change_value_usd": 22.78
+      "price_per_gram_inr": 5332.14,
+      "price_usd_oz": 1719.8,
+      "change_percent": 1.06,
+      "change_value_usd": 18.08
     },
     "currencies": {
       "USD_INR": 96.4346,
@@ -30,8 +30,8 @@
       "CAD_INR": 67.6877,
       "SGD_INR": 75.3631
     },
-    "gold_silver_ratio": 67.43,
-    "timestamp": "2026-10-05T10:42:18.707043",
+    "gold_silver_ratio": 67.69,
+    "timestamp": "2026-10-05T15:05:21.194771",
     "source": "GoldAPI"
   },
   "currencies": {
@@ -53,8 +53,8 @@
         "sell": 25,
         "hold": 50
       },
-      "summary": "Gold is showing mixed signals. Positive daily movement of 0.4%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-05T10:42:23.807432",
+      "summary": "Gold is showing mixed signals. Positive daily movement of 0.0%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
+      "timestamp": "2026-10-05T15:05:26.493238",
       "source": "rule-based"
     },
     "silver": {
@@ -65,8 +65,8 @@
         "sell": 25,
         "hold": 50
       },
-      "summary": "Silver is showing positive signals. Strong daily gain of 2.1%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-05T10:42:23.896205",
+      "summary": "Silver is showing positive signals. Strong daily gain of 1.4%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
+      "timestamp": "2026-10-05T15:05:26.565972",
       "source": "rule-based"
     },
     "platinum": {
@@ -77,8 +77,8 @@
         "sell": 25,
         "hold": 50
       },
-      "summary": "Platinum is showing positive signals. Strong daily gain of 1.3%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-05T10:42:23.978553",
+      "summary": "Platinum is showing positive signals. Strong daily gain of 1.1%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
+      "timestamp": "2026-10-05T15:05:26.625267",
       "source": "rule-based"
     }
   },
@@ -90,30 +90,31 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA above long-term MA (uptrend)",
-        "Weak momentum: -4.2% in 4 weeks"
+        "Weak momentum: -4.6% in 4 weeks"
       ],
       "support": 124137.93,
       "resistance": 140736.5,
-      "current_price": 128921.03,
-      "ma_short": 131529.06,
-      "ma_long": 131278.84,
+      "current_price": 128458.45,
+      "ma_short": 131413.41,
+      "ma_long": 131236.79,
       "trend_score": -2.0
     },
     "silver": {
       "trend": "bearish",
-      "strength": 0,
+      "strength": 6,
       "signals": [
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -5.0% in 4 weeks"
+        "Weak momentum: -5.7% in 4 weeks",
+        "Near support \u2014 potential buy zone"
       ],
       "support": 176726.94,
       "resistance": 243170.57,
-      "current_price": 191198.06,
-      "ma_short": 195630.44,
-      "ma_long": 198901.64,
-      "trend_score": -4.0
+      "current_price": 189781.16,
+      "ma_short": 195276.21,
+      "ma_long": 198772.83,
+      "trend_score": -3.5
     },
     "platinum": {
       "trend": "bearish",
@@ -122,61 +123,43 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA above long-term MA (uptrend)",
-        "Weak momentum: -3.5% in 4 weeks"
+        "Weak momentum: -3.8% in 4 weeks"
       ],
       "support": 4961.56,
       "resistance": 6206.5,
-      "current_price": 5346.73,
-      "ma_short": 5455.33,
-      "ma_long": 5391.96,
+      "current_price": 5332.14,
+      "ma_short": 5451.68,
+      "ma_long": 5390.64,
       "trend_score": -2.0
     }
   },
   "news": [
     {
-      "title": "India\u2019s BPCL plans $3 billion bond sale to fund Brazil oil bet",
-      "description": "Bharat Petroleum Corp. plans to raise up to $3 billion through international bonds, mainly funding its $2.8 billion contribution to Brazil\u2019s SEAP-I offshore project and refinancing debt. The move supports India\u2019s push to diversify crude supplies amid geopolitical disruptions. BPCL\u2019s Brazil investmen",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/indias-bpcl-plans-3-billion-bond-sale-to-fund-brazil-oil-bet/articleshow/134699704.cms",
+      "title": "Sebi launches awareness campaign to help investors in informed decision making",
+      "description": "Sebi has launched the \u2018Samajh Se Investing Simple\u2019 campaign under Project Jagrook to simplify investing, promote informed decisions and prevent financial fraud. It also introduced MUST to boost financial literacy among students and announced an official WhatsApp channel for investor awareness.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-launches-awareness-campaign-to-help-investors-in-informed-decision-making/articleshow/134708313.cms",
       "source": "Economic Times Markets",
       "date": "2026-10-05",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "Nvidia still 'the one' for AI? BNP Paribas raises target to $345, sees up to 47% upside",
-      "description": "BNP Paribas has retained its Outperform rating on Nvidia and raised its target price to $345 from $285, implying 47% upside. The brokerage sees Nvidia\u2019s full-stack AI platform, including GPUs, networking and software, helping it navigate the shift towards increasingly complex inference workloads and",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nvidia-still-the-one-for-ai-bnp-paribas-raises-target-to-345-sees-up-to-47-upside/articleshow/134698952.cms",
+      "title": "SEBI chairman warns investors against anonymous tips, finfluencers; launches Project Jagrook",
+      "description": "Tuhin Kanta Pandey, Chairman of the Securities and Exchange Board of India, has inaugurated Project Jagrook, which aims to boost investor education and awareness. This initiative addresses the stark difference between market understanding and actual involvement, with only 9.5 percent of the 63 perce",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-chairman-warns-investors-against-anonymous-tips-finfluencers-launches-project-jagrook/articleshow/134707877.cms",
       "source": "Economic Times Markets",
       "date": "2026-10-05",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "Global Market: Eurozone business activity hits 29-month high as price pressure intensifies",
-      "description": "Eurozone business activity expanded at its fastest pace since April 2023 in September, driven by strong service demand and AI investments. However, inflation surged to 3.8% due to rising energy costs, fueling expectations that the European Central Bank will maintain higher interest rates or hike rat",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-eurozone-business-activity-hits-29-month-high-as-price-pressure-intensifies/articleshow/134697600.cms",
+      "title": "Rupee edges higher as traders await RBI policy decision on rates",
+      "description": "The rupee ended marginally stronger at 96.2925 against the dollar, supported by lower Brent crude prices and improved sentiment. The currency traded in a narrow range as investors awaited the RBI\u2019s monetary policy decision, with a 25-basis-point rate hike widely expected.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-edges-higher-as-traders-await-rbi-policy-decision-on-rates/articleshow/134707753.cms",
       "source": "Economic Times Markets",
       "date": "2026-10-05",
       "image": "",
       "category": "central_bank"
-    },
-    {
-      "title": "Global Market | High energy costs threaten eurozone inflation outlook:  ECB's Nagel",
-      "description": "Eurozone inflation stands at 3.8%, with Bundesbank President Joachim Nagel warning of upside risks from energy, food and refining costs. However, wage and price-setting remain contained, while long-term inflation expectations stay aligned with the ECB\u2019s 2% target. Markets increasingly expect further",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-high-energy-costs-threaten-eurozone-inflation-outlook-ecbs-nagel/articleshow/134697342.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-10-05",
-      "image": "",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Global Market: European stocks edge up; Schneider plunges after PTC deal",
-      "description": "European shares edged 0.2% higher, recovering from last week\u2019s losses, while French stocks fell amid growing fiscal concerns. The CAC 40 dropped 0.8%, pressured by Schneider Electric\u2019s sharp decline after its $22.6 billion PTC deal. Investors also tracked softer US jobs data, bond yields, inflation ",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-stocks-edge-up-schneider-plunges-after-ptc-deal/articleshow/134695579.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-10-05",
-      "image": "",
-      "category": "currency"
     },
     {
       "title": "GST Council may withdraw exemption for banks, nominated agencies on gold, silver imports: Report - CNBC TV18",
@@ -186,6 +169,42 @@
       "date": "2026-10-05",
       "image": "",
       "category": "supply_demand"
+    },
+    {
+      "title": "3x Bitcoin and Ether futures funds clear SEC listing hurdle",
+      "description": "The products target triple daily futures-benchmark returns before fees, while registration effectiveness and a first trading date remain unconfirmed.\nThe post 3x Bitcoin and Ether futures funds clear SEC listing hurdle appeared first on CryptoSlate.",
+      "url": "https://cryptoslate.com/3x-bitcoin-and-ether-futures-funds-clear-sec-listing-hurdle/",
+      "source": "CryptoSlate",
+      "date": "2026-10-04",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/10/3x-crypto-start-line.webp",
+      "category": "market"
+    },
+    {
+      "title": "Gold Price prediction: What will be the gold rate? Factors that will drive bullion precious metal",
+      "description": "Gold Price today: Top bullion consumer China imported 1,077 metric tons of gold in the first eight months of 2026, suggesting that this year's annualised imports are on track for the highest in 11 years.",
+      "url": "https://economictimes.indiatimes.com/news/international/us/gold-price-prediction-what-will-be-the-gold-rate-factors-that-will-drive-bullion-precious-metal/articleshow/134676150.cms",
+      "source": "The Times of India",
+      "date": "2026-10-04",
+      "image": "https://img.etimg.com/thumb/msid-134676188,width-1200,height-900,imgsize-53948,overlay-economictimes/articleshow.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "India, Chile struggle to clear critical-mineral hurdle in CEPA talks",
+      "description": "Year-end deadline looms as India seeks preferential access to copper, lithium, while Chile favours supply-chain cooperation and value-added exports",
+      "url": "https://www.thehindubusinessline.com/economy/india-chile-struggle-to-clear-critical-mineral-hurdle-in-cepa-talks/article71543542.ece",
+      "source": "BusinessLine",
+      "date": "2026-10-04",
+      "image": "https://bl-i.thgim.com/public/todays-paper/tp-news/z5xg5m/article68490230.ece/alternates/LANDSCAPE_1200/Coal-India-eyesGOKD5I0S2.4.jpg.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Gold, silver lose lustre in September",
+      "description": "Gold and silver fell in September amid a strong dollar and rate-hike expectations, signaling range-bound, volatile futures ahead.",
+      "url": "https://www.thehindubusinessline.com/portfolio/personal-finance/gold-silver-lose-lustre-in-september/article71543488.ece",
+      "source": "BusinessLine",
+      "date": "2026-10-04",
+      "image": "https://bl-i.thgim.com/public/incoming/hmtaem/article71543494.ece/alternates/LANDSCAPE_1200/PO20_Gold_silver.jpg",
+      "category": "currency"
     },
     {
       "title": "Investors to become more selective after fund controversy",
@@ -224,130 +243,148 @@
       "category": "market"
     },
     {
-      "title": "Bloodshed on the Costa del Sol: How holiday hotspot is turning into underworld battleground with torture chambers and drive-by shootings as Spain sends in reinforcements",
-      "description": "It was meant to be a peaceful evening on Malaga's seafront.",
-      "url": "https://www.dailymail.com/news/article-16154209/Bloodshed-Costa-del-Sol-holiday-hotspot-turning-underworld-battleground-torture-chambers-drive-shootings-Spain-sends-reinforcements.html",
-      "source": "Dailymail.com",
-      "date": "2026-10-04",
-      "image": "https://i.dailymail.com/1s/2026/09/25/16/111392889-0-Pictured_A_chair_covered_in_plastic_inside_a_torture_chamber_whi-a-6_1790351527676.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Former L\u2019Or\u00e9al execs set out to build a $1.2 billion beauty empire. Now all that\u2019s left is Milk Makeup, and its sales just fell 57%",
-      "description": "Waldencast sold Obagi, lost its founders to the buyer, and is leaving Nasdaq. What's left is a makeup brand whose sales fell by more than half.",
-      "url": "https://fortune.com/2026/10/04/former-loreal-execs-milk-makeup-sales-waldencast/",
-      "source": "Fortune",
-      "date": "2026-10-04",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-669494420.jpg?resize=1200,600",
-      "category": "market"
-    },
-    {
-      "title": "Anarchy, Mafia rule no longer UP's identity, says Yogi Adityanath, hails Bhadohi's carpet exports",
-      "description": "Uttar Pradesh Chief Minister Yogi Adityanath addressed the International Carpet Fair celebrating the state's economic progress since 2017. He noted that the region has shifted from anarchy to improved security and infrastructure, benefiting local artisans and\u2026",
-      "url": "https://economictimes.indiatimes.com/news/elections/assembly-elections/anarchy-mafia-rule-no-longer-ups-identity-says-yogi-adityanath-hails-bhadohis-carpet-exports/articleshow/134673279.cms",
-      "source": "The Times of India",
-      "date": "2026-10-04",
-      "image": "https://img.etimg.com/thumb/msid-134673489,width-1200,height-900,imgsize-83992,overlay-economictimes/articleshow.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Sergio Garcia Pushes Court To Terminate LIV Deal Amid Tour Rejection",
-      "description": "Sergio Garcia seeks court approval to void his LIV contract as the DP World Tour warns returning players they face strict conditions and no Rolex Series access.",
-      "url": "https://golferinsight.com/sergio-garcia-pushes-court-to-terminate-liv-deal-amid-tour-rejection/",
-      "source": "Golferinsight.com",
-      "date": "2026-10-04",
-      "image": "https://s.yimg.com/lo/mysterio/api/40acef52d2a57d0c24d4ad703507d5578bf5e1772325b3d069743ff9d8441d22/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgolfer_insight_356%2F954fd4015dbc14f4cb424a4e5741618c.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Where India will be 5 to 10 years from now? EAM Jaishankar answers",
-      "description": "During the Munich Leaders Meeting in New Delhi, S Jaishankar elaborated on India's potential to rise swiftly in the global power arena within the next decade. He pointed out the country's robust growth trajectory and advantageous demographic trends. Additiona\u2026",
-      "url": "https://timesofindia.indiatimes.com/india/where-india-will-be-5-to-10-years-from-now-eam-jaishankar-answers/articleshow/134673259.cms",
-      "source": "The Times of India",
-      "date": "2026-10-04",
-      "image": "https://static.toiimg.com/thumb/msid-134673306,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Bengaluru's office parks take the commute challenge into their own hands",
-      "description": "Shiny business parks surrounded by crumbling roads and persistent traffic snarls are a common sight in the southern city. As GCCs drive office absorption, they are seeking not only high-quality workplaces but also better infrastructure and easier commuting fo\u2026",
-      "url": "https://www.livemint.com/industry/bengaluru-traffic-office-parks-commute-11790914760345.html",
-      "source": "Livemint",
-      "date": "2026-10-04",
-      "image": "https://www.livemint.com/lm-img/img/2026/10/04/1600x900/logo/ITPB_Metro_Skywalk_1791109912374_Zlsx_1791109921947_7ovT_d27dc3d1-d881-4381-b2cb-850ddfe69486_sV7e.jpg",
-      "category": "market"
-    },
-    {
-      "title": "SoftBank's Masayoshi Son flags need for AI safety amid rapid growth",
-      "description": "An exponential surge in AI capabilities makes it imperative for countries to build trust so that they can harness the technology together, Son said",
-      "url": "https://www.business-standard.com/technology/artificial-intelligence/softbank-s-masayoshi-son-flags-need-for-ai-safety-amid-rapid-growth-126100400370_1.html",
+      "title": "Bullion faces choppy week as dollar, US-Iran risks test sentiment: Analysts",
+      "description": "Gold and silver are set for another bout of turbulence in the coming week, as movement in the US dollar and unresolved US-Iran tensions cloud the outlook, analysts said.\nOn the domestic front, investors will watch the Reserve Bank of India's monetary policy d\u2026",
+      "url": "https://www.business-standard.com/markets/commodities/bullion-faces-choppy-week-as-dollar-us-iran-risks-test-sentiment-analysts-126100400484_1.html",
       "source": "Business Standard",
       "date": "2026-10-04",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/04/thumb/featurecrop/1200X628/1791109617-7155.jpg",
-      "category": "market"
-    },
-    {
-      "title": "10 Sunday Reads",
-      "description": "Avert your eyes! My Sunday morning\u00a0look at incompetency, corruption and policy failures: \u2022 I Deliberately Bet Like a Problem Gambler.DraftKings Made Me a VIP. Jake Pearson blew $1,800 in one night chasing losses with bigger bets, a textbook warning sign. The \u2026",
-      "url": "https://ritholtz.com/2026/10/10-sunday-reads-248/",
-      "source": "Ritholtz.com",
-      "date": "2026-10-04",
-      "image": "https://ritholtz.com/wp-content/uploads/2030/07/senatemap.png",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-04/07/thumb/fitandfill/1200X628/1775547549-1203.jpeg",
       "category": "geopolitics"
     },
     {
-      "title": "Federal tax breaks for rural data centers spark mixed reactions",
-      "description": "The tax breaks may not significantly boost rural economies, but they could reduce the likelihood of data center moratoriums in states like Louisiana.\nThe post Federal tax breaks for rural data centers spark mixed reactions appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/federal-tax-breaks-for-rural-data-centers-spark-mixed-reactions/",
-      "source": "Crypto Briefing",
+      "title": "Insecurity: NSCDC warns against misinformation, fake videos",
+      "description": "The Nigeria Security and Civil Defence Corps has warned Nigerians against spreading misinformation and fake videos that could worsen insecurity in the coun\n\nRead More: https://punchng.com/insecurity-nscdc-warns-against-misinformation-fake-videos/",
+      "url": "https://punchng.com/insecurity-nscdc-warns-against-misinformation-fake-videos/",
+      "source": "The Punch",
       "date": "2026-10-04",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/04060642/library-federal-tax-breaks-for-rural-data-centers-spark-mixed-re-1-800x450.png",
+      "image": "https://cdn.punchng.com/wp-content/uploads/2025/09/01180606/unnamed-966x630.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Gangster killed after friend slits his throat during drunken brawl in Odisha",
+      "description": "On Saturday night, Tuna Nayak was allegedly murdered by his friend Bitu Sahu during a drunken brawl. The incident occurred in Nimakhandi while the two were drinking together with two others. An argument erupted after Nayak slapped Sahu, leading Sahu to fatall\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/gangster-killed-after-friend-slits-his-throat-during-drunken-brawl-in-odisha/articleshow/134676990.cms",
+      "source": "The Times of India",
+      "date": "2026-10-04",
+      "image": "https://static.toiimg.com/thumb/msid-134677025,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "category": "market"
+    },
+    {
+      "title": "America\u2019s Arctic war machine roars to life as commander reveals chilling new reality on Russia\u2019s doorstep",
+      "description": "U.S. and Canadian forces deploy HIMARS, F-35s and F-16s across western Alaska as Tundra Merlin tests rapid American Arctic combat readiness.",
+      "url": "https://www.foxnews.com/world/americas-arctic-war-machine-roars-life-commander-reveals-chilling-new-reality-russias-doorstep",
+      "source": "Fox News",
+      "date": "2026-10-04",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/planes-flying.gif",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Deer alarms ring across Buxa after decades as \u2018shy\u2019 tigress finally steps out of her enclosure",
+      "description": "Reintroduced tigress from Valmiki exits enclosure in Buxa Tiger Reserve, monitored by GPS collar; spotted deer alarm calls signal predator\u2019s return.",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/deer-alarms-ring-across-buxa-after-decades-as-shy-tigress-finally-steps-out-of-her-enclosure/articleshow/134677008.cms",
+      "source": "The Times of India",
+      "date": "2026-10-04",
+      "image": "https://static.toiimg.com/thumb/msid-134677006,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "category": "market"
+    },
+    {
+      "title": "The Watches of Formula 1 2026: Discover Every Team\u2019s Timepiece Partner",
+      "description": "Ahead of Sunday's race at Sepang, Haute Time checks every Formula 1 team's watch partner for 2026 against official sources, from TAG Heuer's official timing to the three teams without a watchmaker.\nThe post The Watches of Formula 1 2026: Discover Every Team\u2019s\u2026",
+      "url": "https://www.hautetime.com/the-watches-of-formula-1-2026-discover-every-teams-watch-partner/",
+      "source": "Hautetime.com",
+      "date": "2026-10-04",
+      "image": "https://www.hautetime.com/wp-content/uploads/2026/10/02104304/f1-watches-2026-girard-perregaux-laureato-chronograph-williams-edition.webp",
+      "category": "market"
+    },
+    {
+      "title": "Newlywed from Kollam alleges brutal torture by husband, police register dowry harassment case",
+      "description": "Kollam newlywed alleges brutal torture and dowry harassment by husband in Saudi Arabia; Chavara police book husband and parents under Dowry Prohibition Act.",
+      "url": "https://timesofindia.indiatimes.com/city/thiruvananthapuram/newlywed-from-kollam-alleges-brutal-torture-by-husband-police-register-dowry-harassment-case/articleshow/134677003.cms",
+      "source": "The Times of India",
+      "date": "2026-10-04",
+      "image": "https://static.toiimg.com/thumb/msid-134677002,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "category": "market"
+    },
+    {
+      "title": "The Fall of Saks: How the American Luxury Icon Unraveled",
+      "description": "For much of the past century, Saks Fifth Avenue set the standard for luxury in the United States. Then came the billions in debt, the empty racks, and a bankruptcy that left designers unpaid and shoppers confused.",
+      "url": "http://robbreport.com/lifestyle/news/saks-fifth-avenue-feature-1238644417/",
+      "source": "Robb Report",
+      "date": "2026-10-04",
+      "image": "https://robbreport.com/wp-content/uploads/2026/10/RR_Saks_Feature_2.jpg?w=681&h=383&crop=1",
+      "category": "market"
+    },
+    {
+      "title": "Why is the NZ dollar falling? The interest rate gap and sluggish economy",
+      "description": "OPINION: The NZ dollar\u2019s trade-weighted index fell more than 4% in a month.",
+      "url": "https://www.nzherald.co.nz/rotorua-daily-post/business/why-is-the-nz-dollar-falling-interest-rate-gap-and-sluggish-economy/premium/TJXREL6EGZGHBAMZHH7HJOAEEY/",
+      "source": "New Zealand Herald",
+      "date": "2026-10-04",
+      "image": "https://www.nzherald.co.nz/resizer/v2/VER756YJYVGA7G5NU4GGAQYCUY.jpg?auth=12be74eda72725edfe15b415c14f5466e8983ef7ef56ee1bd9640c51b2cc6879&width=1200&height=675&quality=70&smart=true",
       "category": "central_bank"
     },
     {
-      "title": "Supreme Court kicks off new term with fresh questions over its legitimacy and its future",
-      "description": "The Supreme Court opens its new term with major cases on gun rights, voter citizenship and religious liberty amid record-low public approval ratings.",
-      "url": "https://www.foxnews.com/politics/supreme-court-kicks-off-new-term-fresh-questions-legitimacy-future",
-      "source": "Fox News",
+      "title": "Trump and the Relentless Momentum of Events",
+      "description": "Trump is the great magnetic north of our political metabolism. Harold Macmillan, prime minister of Great Britain from 1957 to 1963, was once asked by a journalist what was the most troubling problem he faced during his prime ministership. \u201cEvents, my dear boy\u2026",
+      "url": "https://freerepublic.com/focus/f-chat/4397890/posts",
+      "source": "Freerepublic.com",
       "date": "2026-10-04",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/05/gettyimages-2059260467.jpg",
+      "image": null,
       "category": "market"
     },
     {
-      "title": "The Millennial Internet Is Dead, and Politicians Killed It.",
-      "description": "Social media use is declining, and what's left has shifted from conversation to passive scrolling.",
-      "url": "https://reason.com/2026/10/04/who-killed-social-media/",
-      "source": "Reason",
+      "title": "Why the Moon Is a Legal Wild West",
+      "description": "Private companies are taking cremated remains and stunt payloads to the moon. Former NASA attorney Steve Mirmina warns that there\u2019s nothing stopping them.",
+      "url": "https://www.cnet.com/science/space/why-the-moon-is-a-legal-wild-west/",
+      "source": "CNET",
       "date": "2026-10-04",
-      "image": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/09/culture.jpg",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-1412310676.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Social Security Check Hits $2K Milestone With Proposed 2027 COLA Bump",
+      "description": "Social Security recipients can prepare for a bigger payday. Next year, approximately 70 million Social Security and Supplemental Security Income beneficiaries will receive boosted monthly payments. The Social Security Administration will reveal the 2027 cost-\u2026",
+      "url": "https://nypost.com/2026/10/04/lifestyle/social-security-cola-2027-how-much-will-your-benefit-increase-be/",
+      "source": "New York Post",
+      "date": "2026-10-04",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-1l31vpgls-1791124208970.jpg?quality=75&strip=all&1791109819&w=1200",
       "category": "market"
     },
     {
-      "title": "Southern Baptist president calls on pastors to 'step up' ahead of midterm elections",
-      "description": "Willy Rice says pastors must \"step up\" on abortion, marriage, gender identity and immigration, arguing these political issues are deeply theological.",
-      "url": "https://www.foxnews.com/politics/southern-baptist-president-calls-pastors-step-ahead-midterm-elections",
-      "source": "Fox News",
+      "title": "Why Was Schmitt Being Groomed For Stardom In The First Place?",
+      "description": "Former special prosecutor Jack Smith was interrogated at a Senate Judiciary Committee Hearing yesterday. If you know what happened, you know this ended as a massive embarrassment for Republicans -- and for one in particular -- but if you don't, here's a brief\u2026",
+      "url": "https://crooksandliars.com/2026/10/why-was-schmitt-being-groomed-stardom",
+      "source": "Crooksandliars.com",
       "date": "2026-10-04",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/Southern-Baptist-Pastors-Midterms.jpg",
+      "image": "https://crooksandliars.com/files/mediaposters/2026/10/59867.jpg",
       "category": "market"
     },
     {
-      "title": "The Long and Extremely Urgent To-Do List if Democrats Take\nthe House",
-      "description": "In the 1972 movie The Candidate,\nBill McKay, played by Robert Redford, shockingly wins a Senate seat. Surrounded\nby ecstatic staff and volunteers, a stunned and panicky McKay pulls aside his\nmanager and asks, \u201cWhat do we do now?\u201d That\nwill be the relevant que\u2026",
-      "url": "https://newrepublic.com/article/216138/to-do-list-democrats-take-house",
-      "source": "The New Republic",
+      "title": "Elon Musk says SpaceXAI will be renamed SpaceXSI after Trump's 'super intelligence' push",
+      "description": "The plan comes days after Trump signed an executive order directing federal agencies to use the term. The order, signed on September 29, 2026, replaces \"artificial intelligence\" with \"Super Intelligence,\" or \"SI,\" on official websites, policy documents and go\u2026",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/elon-musk-says-spacexai-will-be-renamed-spacexsi-after-trumps-super-intelligence-push/articleshow/134676679.cms",
+      "source": "The Times of India",
       "date": "2026-10-04",
-      "image": "https://images.newrepublic.com/764a1c6fefbb628711ce11e9340a808d9f1d6298.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
-      "category": "market"
-    },
-    {
-      "title": "Rural Data Centers Are in for a Big Federal Tax Break",
-      "description": "Under the One Big Beautiful Bill Act,\u00a0 data center projects in rural areas could be eligible for major tax benefits starting next year. Some hyperscalers do not seem eager to take the free cash.",
-      "url": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
-      "source": "Wired",
-      "date": "2026-10-04",
-      "image": "https://media.wired.com/photos/6abfbb7863cea41649272752/191:100/w_1280,c_limit/100226-Power%20Play.jpg",
+      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-3698208,resizemode-75,msid-134676679/tech/artificial-intelligence/elon-musk-says-spacexai-will-be-renamed-spacexsi-after-trumps-super-intelligence-push.jpg",
       "category": "central_bank"
+    },
+    {
+      "title": "RBI MPC: beginning of a short and calibrated hike cycle",
+      "description": "One expects the monetary policy committee to deliver a rate hike in October, but a calibrated 25 basis points, along with a change in the hitherto \u2018neutral\u2019 stance and guidance for a data-dependent policy response in the coming months.",
+      "url": "https://www.livemint.com/opinion/columns/rbi-mpc-monetary-policy-committee-interest-rate-hike-cycle-11791104199543.html",
+      "source": "Livemint",
+      "date": "2026-10-04",
+      "image": "https://www.livemint.com/lm-img/img/2026/10/04/1600x900/logo/2-0-1307053791-rbi5--1--0_1679556450341_1791122910967_GpBx_b315d10d-c435-4e5a-9f0b-392f7ab0e387_7yC5.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Portland Media Outlet Gets Trail Blazers Announcer Canceled Over Tweets From His Teen Years",
+      "description": "\"You just crushed someone\u2019s dream job because of something they said before they could legally drive a car. He was 15. Disgusting behavior by a 'journalist'!\"\nThe post Portland Media Outlet Gets Trail Blazers Announcer Canceled Over Tweets From His Teen Years\u2026",
+      "url": "https://legalinsurrection.com/2026/10/portland-media-outlet-gets-trail-blazers-announcer-canceled-over-tweets-from-his-teen-years/",
+      "source": "Legalinsurrection.com",
+      "date": "2026-10-04",
+      "image": "https://legalinsurrection.com/wp-content/uploads/2026/10/PortlandTrailBlazers-4.png",
+      "category": "market"
     },
     {
       "title": "GST Council may scrap tax exemption on gold, silver, platinum imports by banks - India Today",
@@ -359,33 +396,6 @@
       "category": "supply_demand"
     },
     {
-      "title": "Hope for Hollywood: Ambitious developer unveils his $450million 'old school' plan to save the movie business and stop Gavin Newsom's California from hemorrhaging money",
-      "description": "An ambitious $450 million vertical studio is coming to Hollywood to revive the dying industry and save the Golden State from hemorrhaging money amid the mass exodus.",
-      "url": "https://www.dailymail.com/real-estate/article-16172925/echelon-studios-hollywood-california.html",
-      "source": "Dailymail.com",
-      "date": "2026-10-03",
-      "image": "https://i.dailymail.com/1s/2026/09/30/21/111575141-0-image-m-16_1790800894503.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "These Foods Cost A LOT. Like A LOT A LOT! (15 PICS)",
-      "description": "These Foods Cost A LOT. Like A LOT A LOT!  (15 PICS)",
-      "url": "https://izismile.com/2026/10/04/these_foods_cost_a_lot_like_a_lot_a_lot_15_pics.html",
-      "source": "Izismile.com",
-      "date": "2026-10-03",
-      "image": "https://img.izismile.com/img/img13/20200904/640/these_foods_cost_a_lot_like_a_lot_a_lot_640_06.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Asian Games 2026: No tennis medal, and a 40-year Indian sporting decline laid bare",
-      "description": "India\u2019s failure to win a tennis medal at the Asian Games for the first time in 40 years has exposed the sport\u2019s shrinking presence at the highest level. Sumit Nagal\u2019s quarterfinal exit capped a barren campaign, raising questions over player development, fundi\u2026",
-      "url": "https://economictimes.indiatimes.com/news/sports/tennis/asian-games-2026-no-tennis-medal-and-a-40-year-indian-sporting-decline-laid-bare/articleshow/134664023.cms",
-      "source": "The Times of India",
-      "date": "2026-10-03",
-      "image": "https://img.etimg.com/thumb/msid-134664097,width-1200,height-900,imgsize-70392,overlay-economictimes/articleshow.jpg",
-      "category": "market"
-    },
-    {
       "title": "Bullion Cues: Support fails",
       "description": "Gold and silver prices fell last week, with a bearish outlook and key support levels shaping possible declines.",
       "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/bullion-cues-support-fails/article71540115.ece",
@@ -393,15 +403,6 @@
       "date": "2026-10-03",
       "image": "https://bl-i.thgim.com/public/incoming/3rhfwp/article71540226.ece/alternates/LANDSCAPE_1200/iStock-506120376.jpg",
       "category": "metals"
-    },
-    {
-      "title": "Nasdaq Hits Fresh Ground on Chip and Software Strength as Dow, Small Caps Lag for the Week",
-      "description": "VANCOUVER, BC, Oct. 3, 2026 /PRNewswire/ -- Stock Preachers News Commentary - Big technology names pulled the Nasdaq Composite to a weekly gain while the Dow Jones Industrial Average and Russell 2000 closed the week in the red, underscoring a narrow rally as \u2026",
-      "url": "https://www.prnewswire.com/news-releases/nasdaq-hits-fresh-ground-on-chip-and-software-strength-as-dow-small-caps-lag-for-the-week-302897635.html",
-      "source": "PRNewswire",
-      "date": "2026-10-03",
-      "image": "https://mmx.prnewswire.com/media/MS2001031/Stock-Preachers-Logo.jpg?id=OA2985668&p=facebook",
-      "category": "geopolitics"
     }
   ],
   "history": [
@@ -508,15 +509,15 @@
     {
       "date": "2026-10-05",
       "week": "2026-W41",
-      "gold_10g": 128921.03,
-      "silver_kg": 191198.06,
-      "platinum_g": 5346.73,
-      "gold_usd_oz": 4158.15,
-      "silver_usd_oz": 61.67,
-      "platinum_usd_oz": 1724.51
+      "gold_10g": 128458.45,
+      "silver_kg": 189781.16,
+      "platinum_g": 5332.14,
+      "gold_usd_oz": 4143.23,
+      "silver_usd_oz": 61.21,
+      "platinum_usd_oz": 1719.8
     }
   ],
-  "timestamp": "2026-10-05T16:12:23.991040+05:30",
+  "timestamp": "2026-10-05T20:35:26.637863+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
