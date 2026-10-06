@@ -1,24 +1,24 @@
 {
   "prices": {
     "gold": {
-      "price_per_gram_inr": 12896.61,
-      "price_usd_oz": 4162.31,
-      "change_percent": 0.53,
-      "change_value_usd": 21.93,
-      "price_per_10g_inr": 128966.08
+      "price_per_gram_inr": 12901.66,
+      "price_usd_oz": 4163.94,
+      "change_percent": 0.57,
+      "change_value_usd": 23.56,
+      "price_per_10g_inr": 129016.59
     },
     "silver": {
-      "price_per_gram_inr": 189.81,
-      "price_usd_oz": 61.26,
-      "change_percent": 0.31,
-      "change_value_usd": 0.19,
-      "price_per_kg_inr": 189812.89
+      "price_per_gram_inr": 190.15,
+      "price_usd_oz": 61.37,
+      "change_percent": 0.49,
+      "change_value_usd": 0.3,
+      "price_per_kg_inr": 190147.52
     },
     "platinum": {
-      "price_per_gram_inr": 5271.7,
-      "price_usd_oz": 1701.41,
-      "change_percent": -1.52,
-      "change_value_usd": -26.34
+      "price_per_gram_inr": 5286.06,
+      "price_usd_oz": 1706.05,
+      "change_percent": -1.26,
+      "change_value_usd": -21.7
     },
     "currencies": {
       "USD_INR": 96.372,
@@ -30,8 +30,8 @@
       "CAD_INR": 67.6485,
       "SGD_INR": 75.3024
     },
-    "gold_silver_ratio": 67.94,
-    "timestamp": "2026-10-06T13:29:20.326907",
+    "gold_silver_ratio": 67.85,
+    "timestamp": "2026-10-06T16:06:18.309702",
     "source": "GoldAPI"
   },
   "currencies": {
@@ -53,8 +53,8 @@
         "sell": 25,
         "hold": 50
       },
-      "summary": "Gold is showing mixed signals. Positive daily movement of 0.5%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-06T13:29:26.354328",
+      "summary": "Gold is showing mixed signals. Positive daily movement of 0.6%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
+      "timestamp": "2026-10-06T16:06:24.505390",
       "source": "rule-based"
     },
     "silver": {
@@ -65,8 +65,8 @@
         "sell": 25,
         "hold": 50
       },
-      "summary": "Silver is showing mixed signals. Positive daily movement of 0.3%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-06T13:29:26.434401",
+      "summary": "Silver is showing mixed signals. Positive daily movement of 0.5%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
+      "timestamp": "2026-10-06T16:06:24.596936",
       "source": "rule-based"
     },
     "platinum": {
@@ -77,8 +77,8 @@
         "sell": 64,
         "hold": 26
       },
-      "summary": "Platinum is showing negative signals. Significant daily drop of -1.5%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-06T13:29:26.561830",
+      "summary": "Platinum is showing negative signals. Significant daily drop of -1.3%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-10-06T16:06:24.684379",
       "source": "rule-based"
     }
   },
@@ -94,27 +94,26 @@
       ],
       "support": 124137.93,
       "resistance": 140736.5,
-      "current_price": 128966.08,
-      "ma_short": 131540.32,
-      "ma_long": 131282.93,
+      "current_price": 129016.59,
+      "ma_short": 131552.95,
+      "ma_long": 131287.53,
       "trend_score": -2.0
     },
     "silver": {
       "trend": "bearish",
-      "strength": 6,
+      "strength": 0,
       "signals": [
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -5.6% in 4 weeks",
-        "Near support \u2014 potential buy zone"
+        "Weak momentum: -5.5% in 4 weeks"
       ],
       "support": 176726.94,
       "resistance": 243170.57,
-      "current_price": 189812.89,
-      "ma_short": 195284.15,
-      "ma_long": 198775.71,
-      "trend_score": -3.5
+      "current_price": 190147.52,
+      "ma_short": 195367.8,
+      "ma_long": 198806.13,
+      "trend_score": -4.0
     },
     "platinum": {
       "trend": "bearish",
@@ -123,43 +122,43 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA above long-term MA (uptrend)",
-        "Weak momentum: -4.8% in 4 weeks"
+        "Weak momentum: -4.6% in 4 weeks"
       ],
       "support": 4961.56,
       "resistance": 6206.5,
-      "current_price": 5271.7,
-      "ma_short": 5436.57,
-      "ma_long": 5385.14,
+      "current_price": 5286.06,
+      "ma_short": 5440.16,
+      "ma_long": 5386.45,
       "trend_score": -2.0
     }
   },
   "news": [
     {
-      "title": "Toronto home sales post steepest decline since February on economic uncertainty",
-      "description": "In September, home sales in the Greater Toronto Area saw a notable drop as economic worries loomed large for buyers. Sales fell 5.2% from August, the sharpest decline since February, while the home price index decreased by 0.5% month-over-month. Year-over-year, the sales dipped by 9%, with new listi",
-      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/toronto-home-sales-post-steepest-decline-since-february-on-economic-uncertainty/articleshow/134741481.cms",
+      "title": "Rupee loses 13 paise to close at 96.42 per US dollar",
+      "description": "The rupee weakened 13 paise to close at 96.42 against the dollar, its weakest level in over two months, pressured by persistent foreign investor outflows and oil companies\u2019 dollar demand. RBI intervention limited losses, while markets awaited the central bank\u2019s policy commentary.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-loses-13-paise-to-close-at-96-42-per-us-dollar/articleshow/134744262.cms",
       "source": "Economic Times Markets",
       "date": "2026-10-06",
       "image": "",
-      "category": "inflation"
+      "category": "central_bank"
     },
     {
-      "title": "India's data centre sector attracted USD 173 bn since 2021, capacity seen 2 GW by year-end: CBRE",
-      "description": "India's data centre industry has garnered impressive investments amounting to USD 173 billion since 2021, showcasing a strong upward trajectory. In just the first half of 2026, this sector saw the addition of around 130 MW of new capacity, with expectations of more than 200 MW to launch in the latte",
-      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/indias-data-centre-sector-attracted-usd-173-bn-since-2021-capacity-seen-2-gw-by-year-end-cbre/articleshow/134741362.cms",
+      "title": "US stocks: US software shares scale fresh 2026 highs as AI disruption worries fade",
+      "description": "US software stocks are witnessing robust growth, fueled by optimistic earnings projections and partnerships in AI. Major players like Salesforce and Accenture have showcased impressive earnings, aiding the sector's revival. Analysts suggest that fears of AI disrupting the software landscape are exag",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-software-shares-scale-fresh-2026-highs-as-ai-disruption-worries-fade/articleshow/134743282.cms",
       "source": "Economic Times Markets",
       "date": "2026-10-06",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "India emerges as major investment destination with young, talented workforce: Singapore biz leaders",
-      "description": "The Singapore-India Network for Growth Forum 2026 highlighted investment opportunities in India. Haryana and Chhattisgarh chief ministers presented their states' potential for collaborations. Experts emphasized India's rapidly growing economy and talented workforce attracting Singapore investors. Th",
-      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/india-emerges-as-major-investment-destination-with-young-talented-workforce-singapore-biz-leaders/articleshow/134741277.cms",
+      "title": "Why US stocks are rising today: S&amp;P 500, Nasdaq hit records as easing yields and oil fuel AI rally",
+      "description": "On Tuesday, the S&amp;P 500 and Nasdaq hit all-time highs, buoyed by falling Treasury yields and easing oil prices. Investors are optimistic as they look forward to the upcoming earnings season, particularly for technology stocks. While many of the Magnificent Seven saw upward trends, Apple and Alph",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-sp-500-hits-intraday-record-high-as-ai-rally-continues/articleshow/134742430.cms",
       "source": "Economic Times Markets",
       "date": "2026-10-06",
       "image": "",
-      "category": "market"
+      "category": "geopolitics"
     },
     {
       "title": "ICE Launches Precious Metals Futures Contracts in London - Yahoo Finance UK",
@@ -171,13 +170,58 @@
       "category": "metals"
     },
     {
-      "title": "Gold set for fresh record on strong precious metals sentiment - The Armchair Trader",
+      "title": "Gold set for fresh record on strong precious metals sentiment - thearmchairtrader.com",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ2hiN1FCYXF4b3Vta25BR3h6MmttRlpaYURmWmZ3V3p6dFpmYTZkTFFKb1VuTE1nNVJ3a3pkdDNYZ0F5N2FxT2MxUV9kVFVnNUJSa0MybGdqX2pyODJCRUhnbm50S0JOcERjSnhtbThKeTdxaFNLUlowRlUyUlVKaUdMNmxtN3phQjNySXhYZDVfeDV1czk4MFlLN3RrdHktZzdxenBLcEwtZkZV?oc=5\" target=\"_bl",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ2hiN1FCYXF4b3Vta25BR3h6MmttRlpaYURmWmZ3V3p6dFpmYTZkTFFKb1VuTE1nNVJ3a3pkdDNYZ0F5N2FxT2MxUV9kVFVnNUJSa0MybGdqX2pyODJCRUhnbm50S0JOcERjSnhtbThKeTdxaFNLUlowRlUyUlVKaUdMNmxtN3phQjNySXhYZDVfeDV1czk4MFlLN3RrdHktZzdxenBLcEwtZkZV?oc=5",
       "source": "Google News - Precious Metals",
       "date": "2026-10-06",
       "image": "",
       "category": "central_bank"
+    },
+    {
+      "title": "How Hyperliquid defied crypto\u2019s DAT death spiral\u2014and built the industry\u2019s only flourishing digital asset treasury",
+      "description": "In just 10 months, Hyperliquid Strategies amassed more than 35 million HYPE tokens\u2014one of crypto\u2019s fastest-rising assets.",
+      "url": "https://fortune.com/2026/10/05/hyperliquid-cryptos-dat-death-spiral-industrys-digital-asset-treasury/",
+      "source": "Fortune",
+      "date": "2026-10-05",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/HyperLiquid-nasdaq-listing.jpg?resize=1200,600",
+      "category": "market"
+    },
+    {
+      "title": "The Best TV Performances of 2026 (So Far)",
+      "description": "A ridiculous amount of talent is dominating the small screen this year, including Hoon Lee, Kyle Chandler, Pierce Brosnan, and so many more.",
+      "url": "https://www.esquire.com/entertainment/tv/a74029481/best-tv-performances-2026/",
+      "source": "esquire.com",
+      "date": "2026-10-05",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/24ea6919-b833-486d-81c6-053f42df389d.jpg?crop=1xw:0.75xh;0xw,0.097xh&resize=1200:*",
+      "category": "market"
+    },
+    {
+      "title": "\ufe0f Y! Sports Biz: The $875M house on the block",
+      "description": "Northwestern's modern digs are disrupting college football's historic vibe.",
+      "url": "https://sports.yahoo.com/articles/y-sports-biz-875m-house-150835391.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-10-05",
+      "image": "https://s.yimg.com/lo/mysterio/api/63c998be36352def74956fa6fa68f7ca0646341ba4023e7e25dc366e0975c2ee/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fyahoo_sports_biz_newsletters_910%2F5dea99f88bf224cfef6abc24893e18b4.jpg",
+      "category": "market"
+    },
+    {
+      "title": "London's FTSE 100 Climbs 0.4 Percent to 10,505 as Miners Lead and Softer US Jobs Cool Rate-Hike Bets",
+      "description": "Britain's FTSE 100 rose 0.4% after its worst week since April, supported by mining shares and weaker-than-expected US jobs data that reduced expectations of a Federal Reserve rate rise.",
+      "url": "https://www.ibtimes.com.au/ftse-100-rises-weak-us-jobs-data-fed-1876280",
+      "source": "Ibtimes.com.au",
+      "date": "2026-10-05",
+      "image": "https://d.ibtimes.com.au/en/full/1893563/ftse-100-top-gainers-bp-leads-316-surge-oil.png",
+      "category": "central_bank"
+    },
+    {
+      "title": "Is the buy-and-hold era over? Key portfolio strategy lessons for investors from Quant Mutual Fund's October factsheet",
+      "description": "Mutual fund investors may need to rethink static portfolio strategies as market volatility, higher rates, and shifting global trends reshape sector leadership. The latest outlook highlights dynamic asset allocation, selective sectors, and the importance of tr\u2026",
+      "url": "https://www.livemint.com/money/personal-finance/is-the-buy-and-hold-era-over-key-portfolio-strategy-lessons-for-investors-from-quant-mutual-funds-october-factsheet-11791202080803.html",
+      "source": "Livemint",
+      "date": "2026-10-05",
+      "image": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/logo/mutual_funqua_1791205192778_Yl8p_1791205196231_GdHu_239409c4-4b29-4089-a766-c38e5ea2e738_cdyd.png",
+      "category": "supply_demand"
     },
     {
       "title": "GLOBAL ISLAMIC FINANCE LEADERS GATHER IN LONDON FOR 5TH ANNUAL ALBARAKA SUMMIT",
@@ -207,40 +251,22 @@
       "category": "market"
     },
     {
-      "title": "Why RBI should raise rates by 75 bps by year-end",
-      "description": "Front-loading would help anchor expectations, restore part of the interest-rate cushion over the US and moderate demand before festive spending, credit expansion and imported-cost pressures become mutually reinforcing",
-      "url": "https://www.thehindubusinessline.com/opinion/why-rbi-should-raise-rates-by-75-bps-by-year-end/article71546823.ece",
-      "source": "BusinessLine",
+      "title": "Vedanta dividend countdown: Anil Agarwal-led company to consider first FY27 payout on October 8",
+      "description": "Vedanta will consider its first interim dividend for FY27 at a board meeting on October 8, 2026. The company has set October 14 as the record date. The dividend proposal follows strong Q2 production, including record Zinc India refined metal output.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/vedanta-dividend-countdown-anil-agarwal-led-company-to-consider-first-fy27-payout-on-october-8/articleshow/134711376.cms",
+      "source": "The Times of India",
       "date": "2026-10-05",
-      "image": "https://bl-i.thgim.com/public/incoming/efkqjj/article71546842.ece/alternates/LANDSCAPE_1200/PO01_Trade.jpg",
-      "category": "central_bank"
+      "image": "https://img.etimg.com/thumb/msid-134711385,width-1200,height-900,imgsize-68592,overlay-etmarkets/articleshow.jpg",
+      "category": "supply_demand"
     },
     {
-      "title": "Altus Achieves Leading AI Governance Certification, Setting New Standard for Responsible AI in Commercial Real Estate",
-      "description": "Global ISO/IEC 42001 certification underscores Altus\u2019 commitment to delivering trusted, transparent and secure AI solutions for the CRE industry TORONTO, Oct. 05, 2026 (GLOBE NEWSWIRE) \u2014 Altus Group Limited ( \u201cAltus\u201d or \u201cthe Company\u201d) (TSX: AIF), a leading pr\u2026",
-      "url": "https://financialpost.com/globe-newswire/altus-achieves-leading-ai-governance-certification-setting-new-standard-for-responsible-ai-in-commercial-real-estate",
-      "source": "Financial Post",
+      "title": "India launches anti-dumping probes into five Chinese products after domestic industry complaints",
+      "description": "The Directorate General for Trade Remedies in India is probing complaints from domestic producers about six imported products from China. Accusations of dumping have led to demands for anti-dumping duties. Additionally, the agency is also assessing Insoluble \u2026",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-launches-anti-dumping-probes-into-five-chinese-products-after-domestic-industry-complaints/articleshow/134709092.cms",
+      "source": "The Times of India",
       "date": "2026-10-05",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "Sensex today | Stock Market Highlights: Sensex rises 472 pts to end at 72,382, Nifty settles at 22,555; ITC, Eternal lead gainers",
-      "description": "Sensex Today, Nifty 50 | Stock Market Highlights: Find here all the highlights related to Sensex, Nifty, BSE, NSE, share prices and Indian stock markets for 5 October 2026",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-5th-october-2026/article71544056.ece",
-      "source": "BusinessLine",
-      "date": "2026-10-05",
-      "image": "https://bl-i.thgim.com/public/incoming/iyv945/article71544096.ece/alternates/LANDSCAPE_1200/PO13_BS_stock_market.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Social Video Ads Are Standing Out, But Losing the Brand, New Research From Zappi Finds",
-      "description": "Analysis of more than 3,300 social video ads finds the creative tactics that make ads distinctive often differ from those that persuade consumers and strengthen brand connection BOSTON, Oct. 5, 2026 /PRNewswire/ -- Brands are producing more creative assets th\u2026",
-      "url": "https://www.prnewswire.com/news-releases/social-video-ads-are-standing-out-but-losing-the-brand-new-research-from-zappi-finds-302897474.html",
-      "source": "PRNewswire",
-      "date": "2026-10-05",
-      "image": "https://mmx.prnewswire.com/media/MS1675465/Zappi-Logo.jpg?id=OA2985217&p=facebook",
-      "category": "market"
+      "image": "https://img.etimg.com/thumb/msid-134709227,width-1200,height-900,imgsize-166820,overlay-economictimes/articleshow.jpg",
+      "category": "supply_demand"
     },
     {
       "title": "Pornish Hen",
@@ -250,6 +276,15 @@
       "date": "2026-10-05",
       "image": "https://substackcdn.com/image/fetch/$s_!-ajp!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2b624f9-189e-4b02-ac32-da422f48ea8b_700x467.heic",
       "category": "geopolitics"
+    },
+    {
+      "title": "Why RBI should raise rates by 75 bps by year-end",
+      "description": "Front-loading would help anchor expectations, restore part of the interest-rate cushion over the US and moderate demand before festive spending, credit expansion and imported-cost pressures become mutually reinforcing",
+      "url": "https://www.thehindubusinessline.com/opinion/why-rbi-should-raise-rates-by-75-bps-by-year-end/article71546823.ece",
+      "source": "BusinessLine",
+      "date": "2026-10-05",
+      "image": "https://bl-i.thgim.com/public/incoming/efkqjj/article71546842.ece/alternates/LANDSCAPE_1200/PO01_Trade.jpg",
+      "category": "central_bank"
     },
     {
       "title": "Silver jumps 2.5% as rate hikes expectations ease",
@@ -279,130 +314,94 @@
       "category": "metals"
     },
     {
-      "title": "Gold slips nearly 1% to \u20b91.49 lakh/10g as firm dollar keeps lid on bullion recovery",
-      "description": "On the Multi Commodity Exchange (MCX), the yellow metal for December delivery fell \u20b91,020, or nearly 1%, to \u20b91,49,370 per 10 grams",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-slips-nearly-1-to-149-lakh10g-as-firm-dollar-keeps-lid-on-bullion-recovery/article71546397.ece",
-      "source": "BusinessLine",
+      "title": "Marvel Officially Teases a \u201cChilling\u201d New Fan-Favorite Ahead of \u2018VisionQuest\u2019 [Exclusive]",
+      "description": "Terry Matalas, showrunner of Marvel's VisionQuest, reveals which star from the show is going to blow fans away with their performance.",
+      "url": "https://collider.com/visionquest-new-image-tnia-miller-jocasta/",
+      "source": "Collider.com",
       "date": "2026-10-05",
-      "image": "https://bl-i.thgim.com/public/incoming/wutknm/article71546417.ece/alternates/LANDSCAPE_1200/iStock-133998150.jpg",
-      "category": "currency"
+      "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/09/untitled-design-2026-09-15t113820-869.jpg?w=1600&h=900&fit=crop",
+      "category": "market"
     },
     {
-      "title": "RBI policy confronts a world with long tails",
-      "description": "The RBI is likely to begin raising rates in October, with another hike possible in Q4 2026, as inflation risks broaden. Higher oil prices, weather shocks, weaker currency and geopolitical risks are fuelling imported pressures.",
-      "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-mpc-policy-confronts-a-world-with-long-tails/articleshow/134689874.cms",
-      "source": "The Times of India",
+      "title": "How can I watch Liverpool v City on TV around the world?",
+      "description": "Find out how you can watch City\u2019s Premier League trip to Liverpool, wherever you are in the world. Match Preview Liverpool v City: Kick-off time, team news and TV information We\u2019ll go to Anfield o...",
+      "url": "https://www.mancity.com/news/mens/liverpool-premier-league-october-2026-tv-listings-63926786",
+      "source": "Manchester City FC",
       "date": "2026-10-05",
-      "image": "https://img.etimg.com/thumb/msid-134690154,width-1200,height-900,imgsize-83726,overlay-economictimes/articleshow.jpg",
+      "image": "https://s.yimg.com/lo/mysterio/api/4cf257b66d476185acb7b9441bfcb302f975b385f87bf1c3a368af7c78829893/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmanchester_city_fc_articles_899%2F8377d61f7a502c1c102481d270e737d1.jpg",
+      "category": "market"
+    },
+    {
+      "title": "US unemployment below 5% approaches historic record not seen since mid-1960s",
+      "description": "For many US households, it may not feel like the economy is doing well amid the higher cost of living brought on by the US war on Iran. But believe it or not, the US economy is nearing an impressive achievement on the unemployment front. The US unemployment r\u2026",
+      "url": "https://freerepublic.com/focus/f-news/4398010/posts",
+      "source": "Freerepublic.com",
+      "date": "2026-10-05",
+      "image": null,
       "category": "geopolitics"
     },
     {
-      "title": "Power Metallic Commences Preliminary Economic Assessment of the Nisk Project",
-      "description": "PEA targeted for completion in H1 2027; engineering, environmental and community engagement programs advancing in parallel TORONTO, Oct. 5, 2026 /PRNewswire/ -- Power Metallic Mines Inc. (the \"Company\" or \"Power Metallic\") (TSXV: PNPN) (OTCBB: PNPNF) (Frankfu\u2026",
-      "url": "https://www.prnewswire.com/news-releases/power-metallic-commences-preliminary-economic-assessment-of-the-nisk-project-302897840.html",
+      "title": "Saudi-Backed\u00a0Forces\u00a0Claim\u00a0Control\u00a0of\u00a0Bab\u00a0el-Mandeb\u00a0Strait",
+      "description": "Saudi-backed\u00a0Yemeni\u00a0government forces have secured effective control of the Bab el-Mandeb Strait, Yemen's Information Minister Moammar al-Eryani told Reuters on Monday, though fighting continues with Houthi forces in the area.",
+      "url": "https://gcaptain.com/saudi-backed-forces-claim-control-of-bab-el-mandeb-strait/",
+      "source": "gcaptain.com",
+      "date": "2026-10-05",
+      "image": "https://gcaptain.com/wp-content/uploads/2026/07/2026-07-24T194006Z_526739983_RC2LD6A7RFZM_RTRMADP_3_IRAN-CRISIS-SHIPPING-800x533.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Trademark Closes Four Deals in Six Weeks, Marks Start of Retail Investment and Development Cycle",
+      "description": "\"Retail real estate is back,\" says company founder and CEO and Board of Trustee member for ICSC FORT WORTH, Texas, Oct. 5, 2026 /PRNewswire/ -- Trademark Property Company (Trademark), a retail and mixed-use investor, developer, and operator, closed financing \u2026",
+      "url": "https://www.prnewswire.com/news-releases/trademark-closes-four-deals-in-six-weeks-marks-start-of-retail-investment-and-development-cycle-302898606.html",
       "source": "PRNewswire",
       "date": "2026-10-05",
-      "image": "https://mmx.prnewswire.com/media/MS1883277/Power-Metallic-Mines-Inc-Power-Metallic-Commences-Preliminary-E.jpg?id=OA2985909&p=facebook",
+      "image": "https://mmx.prnewswire.com/media/MS2002323/Trademark-Logo-Primary-Transparent-High-Res.jpg?id=OA2987287&p=facebook",
       "category": "market"
     },
     {
-      "title": "The only billionaires making money this year are in tech",
-      "description": "If 2026 feels like a banner year for the world\u2019s tech billionaires, the numbers bear it out. Find out more here",
-      "url": "https://financialpost.com/technology/only-billionaires-making-money-are-in-tech",
-      "source": "Financial Post",
+      "title": "NEXTPredict Founder: 'Nobody Was Serving' Prediction Markets' Enormous Audience",
+      "description": "Reporters from CNBC and CNN are on the program beside the exchanges, two weeks before the midterms put the sector on air.",
+      "url": "https://decrypt.co/379935/nextpredict-founder-nobody-was-serving-prediction-markets-enormous-audience",
+      "source": "Decrypt",
       "date": "2026-10-05",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/10/1006-mg-billionaires.png",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/10/hudson-yards-decrypt-sponcon-style-gID_7.jpg",
       "category": "market"
     },
     {
-      "title": "EarnIn Secures Additional $150 Million Debt Facility",
-      "description": "Facility from premier Canadian banking partner diversifies EarnIn\u2019s capital base and demonstrates confidence in EarnIn\u2019s business and financial position. MOUNTAIN VIEW, Calif. \u2014 EarnIn, a leading earnings management and payroll software company, today announc\u2026",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/earnin-secures-additional-150-million-debt-facility",
-      "source": "Financial Post",
+      "title": "ALLOSOURCE\u00ae LAUNCHES UROCONNEX\u2122 FASCIA AS PART OF ITS PORTFOLIO OF ALLOGRAFTS FOR USE IN WOMEN'S HEALTH PROCEDURES",
+      "description": "CENTENNIAL, Colo., Oct. 5, 2026 /PRNewswire/ -- AlloSource\u00ae, a life sciences organization that helps restore patient functionality by transforming the gift of human tissue donation into enhanced medical products, announced the addition of UroConnex\u2122 Fascia to\u2026",
+      "url": "https://www.prnewswire.com/news-releases/allosource-launches-uroconnex-fascia-as-part-of-its-portfolio-of-allografts-for-use-in-womens-health-procedures-302898605.html",
+      "source": "PRNewswire",
       "date": "2026-10-05",
-      "image": null,
-      "category": "geopolitics"
-    },
-    {
-      "title": "Affordable access must be a right; telecom showed the way: Scindia",
-      "description": "Access with affordability should be a right across every industry, Communications Minister Jyotiraditya Scindia said on Monday, citing sharp fall in voice and data tariffs and the exponential rise in internet and broadband users as evidence of how India has e\u2026",
-      "url": "https://www.business-standard.com/industry/news/affordable-access-must-be-a-right-telecom-showed-the-way-scindia-126100500862_1.html",
-      "source": "Business Standard",
-      "date": "2026-10-05",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/05/thumb/fitandfill/1200X628/1785908789-0751.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "James Gunn and Peter Safran Will Stay at DC Studios After Paramount-Warner Bros. Merger",
-      "description": "The future of DC Studios appears locked in as Warner Bros. Discovery prepares to become part of Paramount. James Gunn and Peter Safran are staying put, with the duo set to continue running DC\u2019s movies, television projects, and comic book productions after Par\u2026",
-      "url": "https://geektyrant.com/news/james-gunn-and-peter-safran-will-stay-at-dc-studios-after-paramount-warner-bros-merger",
-      "source": "GeekTyrant",
-      "date": "2026-10-05",
-      "image": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/6abfe528fe6b33515ffe89ed/1791206967240/James+Gunn+and+Peter+Safran+Will+Stay+at+DC+Studios+After+Paramount-Warner+Bros.+Merger.jpg?format=1500w",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Jane Goodall's Core Values Reject Human Exceptionalism",
-      "description": "Her science and spirituality shattered the human-made boundary between us and the rest of the natural world, and she demonstrated that empathy is not the enemy of scientific rigor.",
-      "url": "https://www.psychologytoday.com/us/blog/animal-emotions/202610/jane-goodalls-core-values-reject-human-exceptionalism",
-      "source": "Psychology Today",
-      "date": "2026-10-05",
-      "image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-10/screenshot_2025-04-03_at_8.55.40_am.png.jpg?itok=w8Vz11F9",
+      "image": "https://mmx.prnewswire.com/media/MS677151/AlloSource-Logo.jpg?id=OA2987601&p=facebook",
       "category": "market"
     },
     {
-      "title": "FuzeBox AI Named Founding Co-Author of SPUR Coalition Technical Committee on Verifying AI Content Use",
-      "description": "A new technical committee will define how publishers can independently confirm AI companies\u2019 reports of content use. LAS VEGAS \u2014 FuzeBox AI has been named by the SPUR Coalition, an international nonprofit of 37 news and media organizations, as one of four fou\u2026",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/fuzebox-ai-named-founding-co-author-of-spur-coalition-technical-committee-on-verifying-ai-content-use",
+      "title": "Poppulo Named a Challenger in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Intranet Packaged Solutions",
+      "description": "Recognized for Completeness of Vision and Ability to Execute DENVER and CORK, Ireland, Oct. 05, 2026 (GLOBE NEWSWIRE) \u2014 Poppulo, the only Employee Experience Platform that transforms how leaders align, assure, and activate their people, today announced it has\u2026",
+      "url": "https://financialpost.com/globe-newswire/poppulo-named-a-challenger-in-the-2026-gartner-magic-quadrant-for-intranet-packaged-solutions",
       "source": "Financial Post",
       "date": "2026-10-05",
       "image": null,
       "category": "market"
     },
     {
-      "title": "New sponsors back Ealing Festival of Business 2026",
-      "description": "Ealing Festival of Business has secured new private-sector backing for this year's event after UK Shared Prosperity Fund support previously used to help fund the festival was no longer available.",
-      "url": "https://www.ealing.news/news/new-sponsors-back-ealing-festival-of-business-2026/",
-      "source": "Ealing.news",
+      "title": "JobSource and The Reserves Network Combine to Deliver Employers Faster Hiring, Broader Reach, and Greater Value",
+      "description": "Two founder-built staffing companies, more than 70 years of combined experience, and one national platform designed around a single question: what do our customers actually need to get work done? CLEVELAND and ORANGE COUNTY, Calif., Oct. 5, 2026 /PRNewswire/ \u2026",
+      "url": "https://www.prnewswire.com/news-releases/jobsource-and-the-reserves-network-combine-to-deliver-employers-faster-hiring-broader-reach-and-greater-value-302898075.html",
+      "source": "PRNewswire",
       "date": "2026-10-05",
-      "image": "https://www.ealing.news/wp-content/uploads/2025/10/Ealing_FOB_14IMG_4550-1-scaled.jpg",
+      "image": "https://mmx.prnewswire.com/media/MS1998532/JobSource-TRN-Logos-Transparent.jpg?id=OA2976876&p=facebook",
       "category": "market"
     },
     {
-      "title": "EXCLUSIVE: Local Green Energy Mandates Drive More Than Half Of Renewable Costs In New Jersey, Pennsylvania And DC",
-      "description": "Local credit rules drove more than half of mandate costs in New Jersey, Pennsylvania and DC, an Always On Energy Research report found.",
-      "url": "https://dailycaller.com/2026/10/05/renewable-energy-mandates-costs-new-jersey-pennsylvania-dc-isaac-orr-always-on-energy-research",
-      "source": "The Daily Caller",
+      "title": "9 Terrifying Truths About Long-Term Economic\u00a0Crises",
+      "description": "Why preparation matters less than adaptation, and why the next crisis will not resemble the last My father kept his layoff notice from 1982 taped inside his toolbox until he died. The letterhead\u2014blue, corporate, indifferent\u2014arrived on a Tuesday in March, six \u2026",
+      "url": "https://activistpost.com/9-terrifying-truths-about-long-term-economic-crises/",
+      "source": "Activistpost.com",
       "date": "2026-10-05",
-      "image": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/10/rooftop-solar-panels-washington-dc-reagan-building-getty.jpg",
+      "image": "https://activistpost.com/wp-content/uploads/2026/10/bfe8a7e8-7d06-4d21-a445-199a38f14a9f.jpg",
       "category": "market"
-    },
-    {
-      "title": "Families Told to Stop Using 19,000 Bonnlo Bunk Beds After Top Bunks Collapsed Onto Lower Beds",
-      "description": "CPSC warns families to stop using 19,000 Bonnlo bunk beds sold online since 2019 after top bunk slats failed and collapsed onto lower bunks.",
-      "url": "https://www.medicaldaily.com/bonnlo-bunk-bed-cpsc-warning-collapse-479525",
-      "source": "Medical Daily",
-      "date": "2026-10-05",
-      "image": "https://d.medicaldaily.com/en/full/486858/editorial-illustration-via-ai.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Dennis Hastert, disgraced former House speaker, dies at 84",
-      "description": "Former Speaker of the House Dennis Hastert, who represented Illinois for two decades in Congress and was later jailed for violating banking laws, has died.",
-      "url": "https://www.cbsnews.com/news/dennis-hastert-dies-former-house-speaker-illinois/",
-      "source": "CBS News",
-      "date": "2026-10-05",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/05/1cd98643-96f9-41f9-8b77-27e95d1123f8/thumbnail/1200x630g1/ed12489ace302eaaa41e5749b5463a02/gettyimages-77929703.jpg",
-      "category": "market"
-    },
-    {
-      "title": "D-Street snaps eight-week losing streak",
-      "description": "Sensex and Nifty rise, ending an eight-week drop as softer US payroll data and easing oil prices lift sentiment ahead of RBI policy.",
-      "url": "https://www.thehindubusinessline.com/markets/d-street-snaps-eight-week-losing-streak/article71547117.ece",
-      "source": "BusinessLine",
-      "date": "2026-10-05",
-      "image": "https://bl-i.thgim.com/public/incoming/atho7i/article71546842.ece/alternates/LANDSCAPE_1200/PO01_Trade.jpg",
-      "category": "central_bank"
     }
   ],
   "history": [
@@ -509,15 +508,15 @@
     {
       "date": "2026-10-06",
       "week": "2026-W41",
-      "gold_10g": 128966.08,
-      "silver_kg": 189812.89,
-      "platinum_g": 5271.7,
-      "gold_usd_oz": 4162.31,
-      "silver_usd_oz": 61.26,
-      "platinum_usd_oz": 1701.41
+      "gold_10g": 129016.59,
+      "silver_kg": 190147.52,
+      "platinum_g": 5286.06,
+      "gold_usd_oz": 4163.94,
+      "silver_usd_oz": 61.37,
+      "platinum_usd_oz": 1706.05
     }
   ],
-  "timestamp": "2026-10-06T18:59:26.572085+05:30",
+  "timestamp": "2026-10-06T21:36:24.697998+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
