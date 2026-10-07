@@ -1,40 +1,58 @@
 {
   "news": [
     {
-      "title": "Valiant Organics among 5 commodity stocks that hit 52-week highs and rallied up to 48% in a month",
-      "description": "The Sensex fell 429 points to 72,638 on Wednesday, but five BSE Commodities Index stocks hit fresh 52-week highs. Valiant Organics led gains, followed by OCCL, Tatva Chintan Pharma Chem, Fine Organic Industries and Manali Petrochemicals.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/valiant-organics-among-5-commodity-stocks-that-hit-52-week-highs-and-rallied-up-to-48-in-a-month/slideshow/134766664.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-10-07",
-      "image": "",
-      "category": "market"
-    },
-    {
-      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US futures slip as yields and oil rebound; Fed minutes in focus",
-      "description": "",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-war-hormuz-deal-brent-crude-oil-fed-rate-yields-nvidua-micron-spacex-amd-ai-chip-stock-price-news-7th-october-2026/liveblog/134766010.cms",
+      "title": "RBI says it will ensure 'undervalued' Rupee finds its correct level",
+      "description": "The Reserve Bank of India has stated its intent to stabilize the undervalued rupee, which reached a five-month low. Despite raising the policy rate for the first time since February 2023, the rupee has fallen due to foreign capital outflows. According to economists, the stronger dollar index contrib",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-says-it-will-ensure-undervalued-rupee-finds-its-correct-level/articleshow/134770024.cms",
       "source": "Economic Times Markets",
       "date": "2026-10-07",
       "image": "",
       "category": "central_bank"
     },
     {
-      "title": "India bonds tumble after RBI's first rate hike in nearly four years",
-      "description": "In a bid to combat inflation, the Reserve Bank of India has increased the key interest rate to 5.5%. This decision has led to a notable dip in Indian government bonds in the market. Factors such as climbing global oil prices are further complicating the economic landscape. While the 10-year bond yie",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-tumble-after-rbis-first-rate-hike-in-nearly-four-years/articleshow/134765724.cms",
+      "title": "UK 30-year gilt yields hit 28-year high in global selloff",
+      "description": "The British 30-year bond yields have skyrocketed to their highest level since January 1998 amid a global bond market decline. This surge is primarily driven by ongoing inflation and substantial government borrowing, which are raising apprehensions among bond investors globally. As Finance Minister J",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/uk-30-year-gilt-yields-hit-28-year-high-in-global-selloff/articleshow/134769020.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-10-07",
+      "image": "",
+      "category": "inflation"
+    },
+    {
+      "title": "US SEC will not pursue charges against climate group, warns of disclosure obligations",
+      "description": "The US Securities and Exchange Commission investigated a climate group related to ExxonMobil's shareholder meeting in May 2021. After the investigation, the SEC decided not to pursue any charges against the group. However, the SEC expressed concerns regarding the actions of the group during the meet",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-sec-will-not-pursue-charges-against-climate-group-warns-of-disclosure-obligations/articleshow/134768910.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-10-07",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Iraq devalues its currency as Mideast war disrupts oil shipping routes",
+      "description": "Iraq has officially devalued its currency from 1,300 dinars to 1,500 dinars to the US dollar. The Central Bank announced this decision following a Cabinet meeting, which aimed to address financial, economic, and monetary needs. There has been a noticeable gap between the official and market rates, w",
+      "url": "https://economictimes.indiatimes.com/markets/forex/iraq-devalues-its-currency-as-iran-us-war-disrupts-oil-shipping-routes/articleshow/134768571.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-10-07",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Gold slides to two-month low as robust dollar, yields add pressure",
+      "description": "Gold prices have fallen to a two-month low due to a strong US dollar and rising Treasury yields. Spot gold dropped 1.6% to $4,096.13 per ounce, while silver also faced significant declines. The Federal Reserve's policy decisions are anticipated to influence future interest rate hikes, affecting gold",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/gold-slides-to-two-month-low-as-robust-dollar-yields-add-pressure/articleshow/134768281.cms",
       "source": "Economic Times Markets",
       "date": "2026-10-07",
       "image": "",
       "category": "central_bank"
     },
     {
-      "title": "Saurabh Mukherjea\u2019s Marcellus ties up with VanEck to widen global investment offerings for Indian investors",
-      "description": "Marcellus Investment Managers has partnered with VanEck to expand its global investment offering for Indian investors through a multi-asset strategy. The portfolio will span global equity and bond ETFs, commodities and real assets, giving high-net-worth investors access to diversified global exposur",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/saurabh-mukherjeas-marcellus-ties-up-with-vaneck-to-widen-global-investment-offerings-for-indian-investors/articleshow/134765427.cms",
-      "source": "Economic Times Markets",
+      "title": "ICE brings futures trading to London\u2019s $190 billion-a-day physical gold market - Kitco",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXhURHVkU2dCbXZfem9fNW0xVnhQdzFYS0xOZVF6c3FXbGVPakNNcGoyN0VEVWVoNC1JdERfSnRGSHBEeFF2c1F5MzgxaC05dUJqWHNlRlQxck1lc000MklkU0VPRDVPdzJ2VGJncW51WVE0TjlWTUdJSk9mMENoaThiRjBCTWV0akdHd3pRNW00cHpqRk8yYk1ic3dkQUNKVk9vWVVuOHVEU1l4NHEzRkdIaTJHUU1S?o",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXhURHVkU2dCbXZfem9fNW0xVnhQdzFYS0xOZVF6c3FXbGVPakNNcGoyN0VEVWVoNC1JdERfSnRGSHBEeFF2c1F5MzgxaC05dUJqWHNlRlQxck1lc000MklkU0VPRDVPdzJ2VGJncW51WVE0TjlWTUdJSk9mMENoaThiRjBCTWV0akdHd3pRNW00cHpqRk8yYk1ic3dkQUNKVk9vWVVuOHVEU1l4NHEzRkdIaTJHUU1S?oc=5",
+      "source": "Google News - Precious Metals",
       "date": "2026-10-07",
       "image": "",
-      "category": "currency"
+      "category": "metals"
     },
     {
       "title": "[SMM Precious Metals Flash] Intercontinental Exchange has begun offer - Shanghai Metals Market",
@@ -46,75 +64,84 @@
       "category": "metals"
     },
     {
-      "title": "L&T Realty eyes \u20b925,000 crore launches across three cities in H2FY27",
-      "description": "L&T Realty plans large residential launches across Mumbai, NCR and Bengaluru as it expands its portfolio and builds a development pipeline with 12-quarter visibility",
-      "url": "https://www.business-standard.com/companies/people/l-t-realty-eyes-25-000-crore-launches-across-three-cities-in-h2fy27-126100601035_1.html",
-      "source": "Business Standard",
+      "title": "We Found the 157 Best Live Prime Day Tech Deals From Apple, Dell, HP, Samsung, Sony, and More",
+      "description": "Amazon's Big Deal Days is happening right now, and here at PCMag Deals, we're tracking down the very best tech deals on top-rated products with the deepest discounts just for you.\nAmazon's fall shopping extravaganza is finally here! Big Deal Days is live and \u2026",
+      "url": "https://uk.pcmag.com/amazon-prime-big-deal-days/167687/we-found-the-157-best-live-prime-day-tech-deals-from-apple-dell-hp-samsung-sony-and-more",
+      "source": "PCMag.com",
       "date": "2026-10-06",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/06/thumb/fitandfill/1200X628/1791290145-9759.jpg",
+      "image": "https://sm.pcmag.com/t/pcmag_uk/news/w/we-found-t/we-found-the-157-best-live-prime-day-tech-deals-from-apple-d_rkte.1200.jpg",
       "category": "market"
     },
     {
-      "title": "J.P. Morgan Asset Management Adds New Capabilities to Retirement Link\u2120",
-      "description": "New features broaden in-plan retirement income access and strengthen support for plan sponsors and participants NEW YORK, Oct. 6, 2026 /PRNewswire/ -- J.P. Morgan Asset Management today announced enhancements to Retirement Link\u2120, its workplace retirement offe\u2026",
-      "url": "https://www.prnewswire.com/news-releases/jp-morgan-asset-management-adds-new-capabilities-to-retirement-link-302899288.html",
-      "source": "PRNewswire",
-      "date": "2026-10-06",
-      "image": "https://mmx.prnewswire.com/media/MS1970710/JPM_AM_Logo_Vert_Black-ID-cfbb132351c8.jpg?id=OA2988612&p=facebook",
-      "category": "market"
-    },
-    {
-      "title": "Gold falls 26% from January peak, silver deficit persists: How should mutual fund investors respond?",
-      "description": "Gold has corrected 26% from its January peak, raising questions for ETF investors. Strong central-bank demand, stabilising ETF flows, and geopolitical and fiscal risks continue to support gold, while silver faces a supply deficit. Here\u2019s what investors should\u2026",
-      "url": "https://www.livemint.com/money/personal-finance/gold-falls-26-from-january-peak-silver-deficit-persists-how-should-mutual-fund-investors-respond-11791287182183.html",
-      "source": "Livemint",
-      "date": "2026-10-06",
-      "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/gold_si_1791289997858_MPWl_1791290001731_5u0z_12f8839a-d75c-43ff-92f1-2a0b39554b7d_hkF4.png",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Gold Price Volatility Drives Short-Term Pressure on Newmont Corporation (NEM)",
-      "description": "PM Capital, an investment management company, released its Q2 2026 investor letter for its \"Global Opportunities Fund.\" The letter can be downloaded here. Three themes shaped markets in the June quarter: inflation, artificial intelligence (AI), and government\u2026",
-      "url": "https://biztoc.com/x/a29c69c9d9b8da2f",
-      "source": "Biztoc.com",
-      "date": "2026-10-06",
-      "image": "https://biztoc.com/cdn/a29c69c9d9b8da2f_s.webp",
-      "category": "inflation"
-    },
-    {
-      "title": "Altius Minerals Corporation Files Early Warning Report",
-      "description": "NOT FOR DISSEMINATION IN THE UNITED STATES OR TO UNITED STATES NEWSWIRE SERVICES ST. JOHN\u2019S, Newfoundland and Labrador \u2014 Altius Minerals Corporation (ALS:TSX) (ATUSF: OTCQX) (\u201cAltius\u201d or the \u201cCorporation\u201d) announces today that it has filed an early warning re\u2026",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/altius-minerals-corporation-files-early-warning-report",
-      "source": "Financial Post",
-      "date": "2026-10-06",
-      "image": null,
-      "category": "geopolitics"
-    },
-    {
-      "title": "Bitcoin vs gold: Why Cathie Wood feels cryptocurrency's 'turn is in' against the precious metal",
-      "description": "Cathie Wood sees Bitcoin outperforming gold and predicts it could reach $1.5 million by 2030, driven by institutional adoption and AI. Bitcoin has recently outpaced gold, strengthening her bullish outlook. Her stance contrasts sharply with Warren Buffett\u2019s lo\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-vs-gold-why-cathie-wood-feels-cryptocurrencys-turn-is-in-against-the-precious-metal/articleshow/134738702.cms",
+      "title": "NBFC credit growth rises to 15.8% in August as gold, consumer durable loans surge",
+      "description": "During August 2026, non-banking financial companies enjoyed a boost in credit expansion, with gold loans seeing remarkable growth alongside consumer durable loans. Housing loans remained a critical component of the retail lending portfolio. Conversely, lendin\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/nbfc-credit-growth-rises-to-15-8-in-august-as-gold-consumer-durable-loans-surge/articleshow/134752996.cms",
       "source": "The Times of India",
       "date": "2026-10-06",
-      "image": "https://img.etimg.com/thumb/msid-134738810,width-1200,height-900,imgsize-83882,overlay-etmarkets/articleshow.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "1911 Gold's True North Resource Expansion Drilling Intersects up to 7.55 g/t Au over 5.00 m, Including 32.90 g/t Au over 0.50 m at the 710-711 Zone, and up to 21.20 g/t Au over 0.60 m at the 007 Zone",
-      "description": "VANCOUVER, BC, Oct. 6, 2026 /PRNewswire/ -- 1911 Gold Corporation (\"1911 Gold\" or the \"Company\") (TSXV: AUMB) (OTCQX: AUMBF) (FRA: 2KY) is pleased to announce assay results from the underground resource expansion program at the Company's wholly-owned, operati\u2026",
-      "url": "https://www.prnewswire.com/news-releases/1911-golds-true-north-resource-expansion-drilling-intersects-up-to-7-55-gt-au-over-5-00-m-including-32-90-gt-au-over-0-50-m-at-the-710-711-zone-and-up-to-21-20-gt-au-over-0-60-m-at-the-007-zone-302899500.html",
-      "source": "PRNewswire",
-      "date": "2026-10-06",
-      "image": "https://mmx.prnewswire.com/media/MS2002969/1911-Gold-Corporation-1911-Gold-s-True-North-Resource-Expansion.jpg?id=OA2988856&p=facebook",
+      "image": "https://img.etimg.com/thumb/msid-134745492,width-1200,height-900,imgsize-68674,overlay-etmarkets/articleshow.jpg",
       "category": "metals"
     },
     {
-      "title": "Best Prime Day air fryer deals: Up to 40% off Breville, Cosori, Ninja",
-      "description": "Tons of air fryers are on sale for Amazon Prime Day. These are the five deals we'd shop first, based on the best models we've tested.",
-      "url": "https://www.businessinsider.com/guides/deals/best-prime-day-air-fryer-deals-2026-10#article",
-      "source": "Business Insider",
+      "title": "There is a case for subsidising sunscreen in New Zealand \u2013 Editorial",
+      "description": "OPINION: Half of us believe sunscreen is too expensive, a survey showed.",
+      "url": "https://www.nzherald.co.nz/nz/there-is-a-case-for-subsidising-sunscreen-in-new-zealand-editorial/premium/LNR7TC6XXJF5HJJ65OG53SMY3U/",
+      "source": "New Zealand Herald",
       "date": "2026-10-06",
-      "image": "https://i.insider.com/6abeaf6c265e3f8e338f9aca?width=1200&format=jpeg",
+      "image": "https://www.nzherald.co.nz/resizer/v2/EZ5TAJ5GJVGS3CTO755EL5D73Y.jpg?auth=44aa161cffb2b546ad3f98412c462e9ac270da0d1e63dcd0f4cd8aaedb8c2e3a&width=1200&height=675&quality=70&smart=true",
+      "category": "market"
+    },
+    {
+      "title": "Dronacharya-awardee India hockey coach rues MP cold shoulder",
+      "description": "Dronacharya awardee and India hockey assistant coach Shivendra Singh says MP govt ignored his achievements, lamenting lack of recognition or support after Asiad gold.",
+      "url": "https://timesofindia.indiatimes.com/city/bhopal/dronacharya-awardee-india-hockey-coach-rues-mp-cold-shoulder/articleshow/134744736.cms",
+      "source": "The Times of India",
+      "date": "2026-10-06",
+      "image": "https://static.toiimg.com/thumb/msid-134744735,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Anant-Neeraj dispute heading towards resolution: Deputy CM",
+      "description": "Deputy CM Vijay Kumar Choudhary says JD(U)\u2019s Anant Singh-Neeraj Kumar dispute is nearing resolution after Lalan Singh\u2019s intervention ahead of Oct 23 MLC polls.",
+      "url": "https://timesofindia.indiatimes.com/city/patna/anant-neeraj-dispute-heading-towards-resolution-deputy-cm/articleshow/134744519.cms",
+      "source": "The Times of India",
+      "date": "2026-10-06",
+      "image": "https://static.toiimg.com/thumb/msid-134744518,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Raw Mat India 2026 exhibition opens at CODISSIA in Coimbatore",
+      "description": "Raw Mat India 2026 expo opens at CODISSIA, Coimbatore, with 80 stalls of industrial raw materials, logistics and recycling solutions; runs 10am\u20135pm for 3 days.",
+      "url": "https://timesofindia.indiatimes.com/city/coimbatore/raw-mat-india-2026-exhibition-opens-at-codissia-in-coimbatore/articleshow/134744514.cms",
+      "source": "The Times of India",
+      "date": "2026-10-06",
+      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "category": "market"
+    },
+    {
+      "title": "7 years after Nuh bike robbery, court sentences man to 5 years\u2019 rigorous imprisonment",
+      "description": "A Nuh sessions court sentenced Sadar alias Sadaruddin to five years of rigorous imprisonment. The conviction was related to a bike snatching and robbery case from 2019. Sadaruddin and others assaulted the complainant, Zakir, and stole money and his motorcycle\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/gurgaon/7-years-after-nuh-bike-robbery-court-sentences-man-to-5-years-rigorous-imprisonment/articleshow/134744317.cms",
+      "source": "The Times of India",
+      "date": "2026-10-06",
+      "image": "https://static.toiimg.com/thumb/msid-134744509,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Former sarpanch, 76, arrested in 40-year-old land dispute in Hisar",
+      "description": "Hisar police arrest 76-year-old ex-sarpanch Shiv Lal in 41-year-old land dispute over alleged forged revenue records; case revived after 2026 court ruling.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/former-sarpanch-76-arrested-in-40-year-old-land-dispute-in-hisar/articleshow/134744494.cms",
+      "source": "The Times of India",
+      "date": "2026-10-06",
+      "image": "https://static.toiimg.com/thumb/msid-134744493,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Joe Rogan Says Money Is So Deeply Entangled In Politics That Removing It Entirely 'Seems Ridiculous To People'",
+      "description": "Money has become such an accepted part of U.S. politics that the idea of removing it altogether sounds almost absurd, according to comedian and podcaster Joe...",
+      "url": "https://www.yahoo.com/entertainment/tv/articles/joe-rogan-says-money-deeply-120009994.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-10-06",
+      "image": "https://s.yimg.com/lo/mysterio/api/b69b2b0710112a17d900d882c21521a48359a6f88bc232c49a4541d5791d7bc9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F5daffc83d0fbe32cd3e1a1bdfed1bb85.jpg",
       "category": "market"
     },
     {
@@ -152,34 +179,7 @@
       "date": "2026-10-06",
       "image": null,
       "category": "supply_demand"
-    },
-    {
-      "title": "Here\u2019s why alcohol-free mouthwash is becoming a popular choice for daily oral care",
-      "description": "Alcohol-free mouthwash can provide a more comfortable experience than alcohol-based formulas, especially for children and adults with sensitive mouths, dry mouth or irritated oral tissues. Saliva helps neutralize acids and wash away food particles. Alcohol-fr\u2026",
-      "url": "https://www.naturalnews.com/2026-10-06-no-alcohol-mouthwash-popular-choice-oral-care.html",
-      "source": "Naturalnews.com",
-      "date": "2026-10-06",
-      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/Mouthwash-Mouth-Wash-Bottle-Pouring-Liquid-Person.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Vedanta shares jump 3% as firm fixes record date for first dividend after demerger. What to expect?",
-      "description": "Vedanta shares rose over 3% after the company set October 14 as the record date for its first FY27 interim dividend, subject to board approval on October 8. The payout will be the first since Vedanta\u2019s demerger into five entities. Analysts expect dividends to\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-shares-jump-3-as-firm-fixes-record-date-for-first-dividend-after-demerger-what-to-expect/articleshow/134723226.cms",
-      "source": "The Times of India",
-      "date": "2026-10-06",
-      "image": "https://img.etimg.com/thumb/msid-134723281,width-1200,height-900,imgsize-2603964,overlay-etmarkets/articleshow.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Gold inches lower as firmer dollar, higher yields weigh",
-      "description": "Gold eases as firm dollar and higher yields weigh, with limited losses from easing rate-hike bets and geopolitics in the Middle East.",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-inches-lower-as-firmer-dollar-higher-yields-weigh/article71549943.ece",
-      "source": "BusinessLine",
-      "date": "2026-10-06",
-      "image": "https://bl-i.thgim.com/public/incoming/ktippt/article71549955.ece/alternates/LANDSCAPE_1200/Bullion-Cues_-SGTRG513NS.4.jpg.jpg",
-      "category": "geopolitics"
     }
   ],
-  "timestamp": "2026-10-07T13:41:07.251201"
+  "timestamp": "2026-10-07T16:45:17.237867"
 }
