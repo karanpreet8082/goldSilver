@@ -1,24 +1,24 @@
 {
   "prices": {
     "gold": {
-      "price_per_gram_inr": 12768.14,
-      "price_usd_oz": 4116.78,
-      "change_percent": -1.15,
-      "change_value_usd": -47.9,
-      "price_per_10g_inr": 127681.42
+      "price_per_gram_inr": 12665.33,
+      "price_usd_oz": 4083.64,
+      "change_percent": -1.95,
+      "change_value_usd": -81.05,
+      "price_per_10g_inr": 126653.28
     },
     "silver": {
-      "price_per_gram_inr": 186.61,
-      "price_usd_oz": 60.17,
-      "change_percent": -1.94,
-      "change_value_usd": -1.19,
-      "price_per_kg_inr": 186613.18
+      "price_per_gram_inr": 184.37,
+      "price_usd_oz": 59.45,
+      "change_percent": -3.12,
+      "change_value_usd": -1.92,
+      "price_per_kg_inr": 184367.7
     },
     "platinum": {
-      "price_per_gram_inr": 5099.61,
-      "price_usd_oz": 1644.25,
-      "change_percent": -3.87,
-      "change_value_usd": -66.27
+      "price_per_gram_inr": 5018.81,
+      "price_usd_oz": 1618.19,
+      "change_percent": -5.4,
+      "change_value_usd": -92.32
     },
     "currencies": {
       "USD_INR": 96.467,
@@ -30,8 +30,8 @@
       "CAD_INR": 67.8342,
       "SGD_INR": 75.4946
     },
-    "gold_silver_ratio": 68.42,
-    "timestamp": "2026-10-07T10:27:00.591825",
+    "gold_silver_ratio": 68.7,
+    "timestamp": "2026-10-07T13:41:01.493124",
     "source": "GoldAPI"
   },
   "currencies": {
@@ -53,8 +53,8 @@
         "sell": 64,
         "hold": 26
       },
-      "summary": "Gold is showing negative signals. Significant daily drop of -1.1%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-07T10:27:06.049354",
+      "summary": "Gold is showing negative signals. Significant daily drop of -1.9%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-10-07T13:41:07.375790",
       "source": "rule-based"
     },
     "silver": {
@@ -65,8 +65,8 @@
         "sell": 64,
         "hold": 26
       },
-      "summary": "Silver is showing negative signals. Significant daily drop of -1.9%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-07T10:27:06.135579",
+      "summary": "Silver is showing negative signals. Significant daily drop of -3.1%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-10-07T13:41:07.474958",
       "source": "rule-based"
     },
     "platinum": {
@@ -77,27 +77,28 @@
         "sell": 64,
         "hold": 26
       },
-      "summary": "Platinum is showing negative signals. Significant daily drop of -3.9%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-07T10:27:06.217400",
+      "summary": "Platinum is showing negative signals. Significant daily drop of -5.4%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-10-07T13:41:07.558096",
       "source": "rule-based"
     }
   },
   "technical": {
     "gold": {
       "trend": "bearish",
-      "strength": 25,
+      "strength": 6,
       "signals": [
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
-        "Short-term MA above long-term MA (uptrend)",
-        "Weak momentum: -5.2% in 4 weeks"
+        "Short-term MA below long-term MA (downtrend)",
+        "Weak momentum: -5.9% in 4 weeks",
+        "Near support \u2014 potential buy zone"
       ],
       "support": 124137.93,
       "resistance": 140736.5,
-      "current_price": 127681.42,
-      "ma_short": 131219.15,
-      "ma_long": 131166.15,
-      "trend_score": -2.0
+      "current_price": 126653.28,
+      "ma_short": 130962.12,
+      "ma_long": 131072.68,
+      "trend_score": -3.5
     },
     "silver": {
       "trend": "bearish",
@@ -106,14 +107,14 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -7.2% in 4 weeks",
+        "Weak momentum: -8.4% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
       "support": 176726.94,
       "resistance": 243170.57,
-      "current_price": 186613.18,
-      "ma_short": 194484.22,
-      "ma_long": 198484.83,
+      "current_price": 184367.7,
+      "ma_short": 193922.85,
+      "ma_long": 198280.69,
       "trend_score": -3.5
     },
     "platinum": {
@@ -123,53 +124,53 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA above long-term MA (uptrend)",
-        "Weak momentum: -8.0% in 4 weeks",
+        "Weak momentum: -9.4% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
       "support": 4961.56,
       "resistance": 6206.5,
-      "current_price": 5099.61,
-      "ma_short": 5393.55,
-      "ma_long": 5369.5,
+      "current_price": 5018.81,
+      "ma_short": 5373.35,
+      "ma_long": 5362.15,
       "trend_score": -1.5
     }
   },
   "news": [
     {
-      "title": "Markets can be irrational in the short run: What RBI Governor Sanjay Malhotra said as rupee nears lifetime low",
-      "description": "The rupee neared its record low after the RBI raised the repo rate to 5.50%. Governor Sanjay Malhotra said the currency may be undervalued, while analysts viewed the hawkish stance and higher inflation outlook as supportive of the rupee.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/markets-can-be-irrational-in-the-short-run-what-rbi-guv-sanjay-malhotra-said-as-rupee-nears-lifetime-low/articleshow/134762634.cms",
+      "title": "Valiant Organics among 5 commodity stocks that hit 52-week highs and rallied up to 48% in a month",
+      "description": "The Sensex fell 429 points to 72,638 on Wednesday, but five BSE Commodities Index stocks hit fresh 52-week highs. Valiant Organics led gains, followed by OCCL, Tatva Chintan Pharma Chem, Fine Organic Industries and Manali Petrochemicals.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/valiant-organics-among-5-commodity-stocks-that-hit-52-week-highs-and-rallied-up-to-48-in-a-month/slideshow/134766664.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-10-07",
+      "image": "",
+      "category": "market"
+    },
+    {
+      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US futures slip as yields and oil rebound; Fed minutes in focus",
+      "description": "",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-war-hormuz-deal-brent-crude-oil-fed-rate-yields-nvidua-micron-spacex-amd-ai-chip-stock-price-news-7th-october-2026/liveblog/134766010.cms",
       "source": "Economic Times Markets",
       "date": "2026-10-07",
       "image": "",
       "category": "central_bank"
     },
     {
-      "title": "Why Warren Buffett considers interest rates key to stock valuations",
-      "description": "RBI\u2019s first repo rate hike in nearly four years highlights why interest rates matter for stock valuations, echoing Warren Buffett\u2019s long-held view that higher rates can weigh on asset prices.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-warren-buffett-considers-interest-rates-key-to-stock-valuations/articleshow/134761762.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-10-07",
-      "image": "",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Tata Motors PV, Maruti Suzuki, Ashok Leyland, auto stocks drop up to 3% as RBI signals rate cuts are \u2018off the table\u2019",
-      "description": "Auto stocks including Tata Motors PV, Maruti Suzuki, M&amp;M and Ashok Leyland dropped on Wednesday after the RBI raised the repo rate and shifted to calibrated tightening. Analysts expect Q2 revenue growth to remain strong, but rising commodity costs, limited pricing power and elevated inventories ",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/tata-motors-pv-maruti-suzuki-ashok-leyland-auto-stocks-drop-up-to-3-as-rbi-signals-rate-cuts-are-off-the-table/articleshow/134760101.cms",
+      "title": "India bonds tumble after RBI's first rate hike in nearly four years",
+      "description": "In a bid to combat inflation, the Reserve Bank of India has increased the key interest rate to 5.5%. This decision has led to a notable dip in Indian government bonds in the market. Factors such as climbing global oil prices are further complicating the economic landscape. While the 10-year bond yie",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-tumble-after-rbis-first-rate-hike-in-nearly-four-years/articleshow/134765724.cms",
       "source": "Economic Times Markets",
       "date": "2026-10-07",
       "image": "",
       "category": "central_bank"
     },
     {
-      "title": "Indian rupee FX premiums jump after RBI policy leaves traders bracing for more sell/buy swaps",
-      "description": "On Wednesday, after the Reserve Bank of India's policy meeting, dollar-rupee forward premiums soared, marking the highest implied 1-year dollar/rupee forward premium seen in six months. With traders expecting more foreign exchange swaps as part of the RBI's liquidity management strategy, the spot US",
-      "url": "https://economictimes.indiatimes.com/markets/forex/indian-rupee-fx-premiums-jump-after-rbi-policy-leaves-traders-bracing-for-more-sell/buy-swaps/articleshow/134759598.cms",
+      "title": "Saurabh Mukherjea\u2019s Marcellus ties up with VanEck to widen global investment offerings for Indian investors",
+      "description": "Marcellus Investment Managers has partnered with VanEck to expand its global investment offering for Indian investors through a multi-asset strategy. The portfolio will span global equity and bond ETFs, commodities and real assets, giving high-net-worth investors access to diversified global exposur",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/saurabh-mukherjeas-marcellus-ties-up-with-vaneck-to-widen-global-investment-offerings-for-indian-investors/articleshow/134765427.cms",
       "source": "Economic Times Markets",
       "date": "2026-10-07",
       "image": "",
-      "category": "geopolitics"
+      "category": "currency"
     },
     {
       "title": "[SMM Precious Metals Flash] Intercontinental Exchange has begun offer - Shanghai Metals Market",
@@ -181,67 +182,94 @@
       "category": "metals"
     },
     {
-      "title": "Current gold prices provide a better entry point as central bank demand supports the outlook, says Tata Mutual Fund",
-      "description": "Gold prices have corrected sharply from their January peak, but Tata Mutual Fund believes the long-term outlook remains supported by central bank buying, fiscal risks and geopolitical uncertainty. The fund house also remains constructive on silver amid persis\u2026",
-      "url": "https://m.economictimes.com/mf/mf-news/current-gold-prices-provide-a-better-entry-point-as-central-bank-demand-supports-the-outlook-says-tata-mutual-fund/articleshow/134735417.cms",
-      "source": "Economictimes.com",
+      "title": "L&T Realty eyes \u20b925,000 crore launches across three cities in H2FY27",
+      "description": "L&T Realty plans large residential launches across Mumbai, NCR and Bengaluru as it expands its portfolio and builds a development pipeline with 12-quarter visibility",
+      "url": "https://www.business-standard.com/companies/people/l-t-realty-eyes-25-000-crore-launches-across-three-cities-in-h2fy27-126100601035_1.html",
+      "source": "Business Standard",
       "date": "2026-10-06",
-      "image": "https://img.etimg.com/thumb/msid-134735536,width-1200,height-900,imgsize-199298,overlay-etwealthmutualfunds/articleshow.jpg",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/06/thumb/fitandfill/1200X628/1791290145-9759.jpg",
+      "category": "market"
+    },
+    {
+      "title": "J.P. Morgan Asset Management Adds New Capabilities to Retirement Link\u2120",
+      "description": "New features broaden in-plan retirement income access and strengthen support for plan sponsors and participants NEW YORK, Oct. 6, 2026 /PRNewswire/ -- J.P. Morgan Asset Management today announced enhancements to Retirement Link\u2120, its workplace retirement offe\u2026",
+      "url": "https://www.prnewswire.com/news-releases/jp-morgan-asset-management-adds-new-capabilities-to-retirement-link-302899288.html",
+      "source": "PRNewswire",
+      "date": "2026-10-06",
+      "image": "https://mmx.prnewswire.com/media/MS1970710/JPM_AM_Logo_Vert_Black-ID-cfbb132351c8.jpg?id=OA2988612&p=facebook",
+      "category": "market"
+    },
+    {
+      "title": "Gold falls 26% from January peak, silver deficit persists: How should mutual fund investors respond?",
+      "description": "Gold has corrected 26% from its January peak, raising questions for ETF investors. Strong central-bank demand, stabilising ETF flows, and geopolitical and fiscal risks continue to support gold, while silver faces a supply deficit. Here\u2019s what investors should\u2026",
+      "url": "https://www.livemint.com/money/personal-finance/gold-falls-26-from-january-peak-silver-deficit-persists-how-should-mutual-fund-investors-respond-11791287182183.html",
+      "source": "Livemint",
+      "date": "2026-10-06",
+      "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/gold_si_1791289997858_MPWl_1791290001731_5u0z_12f8839a-d75c-43ff-92f1-2a0b39554b7d_hkF4.png",
       "category": "geopolitics"
     },
     {
-      "title": "The Slow and Steady passive portfolio update: Q3 2026",
-      "description": "Bonds blew up, but the portfolio didn't\u2026\nThe post The Slow and Steady passive portfolio update: Q3 2026 appeared first on Monevator.",
-      "url": "https://monevator.com/the-slow-and-steady-passive-portfolio-update-q3-2026/",
-      "source": "Monevator.com",
+      "title": "Gold Price Volatility Drives Short-Term Pressure on Newmont Corporation (NEM)",
+      "description": "PM Capital, an investment management company, released its Q2 2026 investor letter for its \"Global Opportunities Fund.\" The letter can be downloaded here. Three themes shaped markets in the June quarter: inflation, artificial intelligence (AI), and government\u2026",
+      "url": "https://biztoc.com/x/a29c69c9d9b8da2f",
+      "source": "Biztoc.com",
       "date": "2026-10-06",
-      "image": "https://monevator.com/wp-content/uploads/2026/10/Year-to-date-asset-class-returns-1024x712.png",
-      "category": "market"
+      "image": "https://biztoc.com/cdn/a29c69c9d9b8da2f_s.webp",
+      "category": "inflation"
     },
     {
-      "title": "What Would Mr. Darcy Earn Today? And Other Jane Austen-Related Money Matters",
-      "description": "Many readers are perplexed by Austen\u2019s habit of indicating men\u2019s fortunes in terms of annual income, while women\u2019s fortunes are expressed as a lump sum. Mr. Darcy has an estate of \u00a310,000 per annum, for example, while Emma Woodhouse has",
-      "url": "https://lithub.com/what-would-mr-darcy-earn-today-and-other-jane-austen-related-money-matters/",
-      "source": "Lithub.com",
+      "title": "Altius Minerals Corporation Files Early Warning Report",
+      "description": "NOT FOR DISSEMINATION IN THE UNITED STATES OR TO UNITED STATES NEWSWIRE SERVICES ST. JOHN\u2019S, Newfoundland and Labrador \u2014 Altius Minerals Corporation (ALS:TSX) (ATUSF: OTCQX) (\u201cAltius\u201d or the \u201cCorporation\u201d) announces today that it has filed an early warning re\u2026",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/altius-minerals-corporation-files-early-warning-report",
+      "source": "Financial Post",
       "date": "2026-10-06",
-      "image": "https://s26162.pcdn.co/wp-content/uploads/2026/10/mr-darcy.jpg",
-      "category": "market"
+      "image": null,
+      "category": "geopolitics"
     },
     {
-      "title": "Last photo of Jeffrey Archer before his death aged 86: Author and ex-Tory MP smiles with friend Gyles Brandreth as he promotes his new book less than 24 hours before he passed away",
-      "description": "The former Tory MP and author had been on stage in London entertaining fans as he promoted what he himself insisted was his last book and literary epitaph, Adam and Eve.",
-      "url": "https://www.dailymail.com/news/article-16186229/Last-photo-Jeffrey-Archer-death-aged-86-Author-ex-Tory-MP-smiles-friend-Gyles-Brandreth-promotes-new-book-24-hours-passed-away.html",
-      "source": "Dailymail.com",
-      "date": "2026-10-06",
-      "image": "https://i.dailymail.com/1s/2026/10/06/09/111674127-0-image-m-18_1791275662587.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Private equity inflows into Indian real estate jump 23% to $2.7 billion in H1 FY27",
-      "description": "Private equity investment in Indian real estate surged to USD 2.7 billion in H1 FY27. Domestic investors contributed significantly, deploying USD 1.3 billion across various deals. The office asset class continues to gather attention, attracting 35% of total i\u2026",
-      "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/private-equity-inflows-into-indian-real-estate-jump-23-to-2-7-billion-in-h1-fy27/articleshow/134728076.cms",
+      "title": "Bitcoin vs gold: Why Cathie Wood feels cryptocurrency's 'turn is in' against the precious metal",
+      "description": "Cathie Wood sees Bitcoin outperforming gold and predicts it could reach $1.5 million by 2030, driven by institutional adoption and AI. Bitcoin has recently outpaced gold, strengthening her bullish outlook. Her stance contrasts sharply with Warren Buffett\u2019s lo\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-vs-gold-why-cathie-wood-feels-cryptocurrencys-turn-is-in-against-the-precious-metal/articleshow/134738702.cms",
       "source": "The Times of India",
       "date": "2026-10-06",
-      "image": "https://img.etimg.com/thumb/msid-134728212,width-1200,height-900,imgsize-67380,overlay-economictimes/articleshow.jpg",
-      "category": "currency"
+      "image": "https://img.etimg.com/thumb/msid-134738810,width-1200,height-900,imgsize-83882,overlay-etmarkets/articleshow.jpg",
+      "category": "geopolitics"
     },
     {
-      "title": "Harmanpreet Kaur lives in a Rs 1.5 crore family home in her Punjab hometown Moga which has spacious rooms, open outdoor spaces for family gatherings and modern interiors",
-      "description": "Harmanpreet Kaur home: Harmanpreet Kaur, who recently stepped down as captain of the Indian women's cricket team, owns a family home in her hometown Moga in Punjab. Media reports estimate the house to be worth up to Rs 1.5 crore. The home has spacious rooms, \u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/harmanpreet-kaur-lives-in-a-rs-1-5-crore-family-home-in-her-punjab-hometown-moga-which-has-spacious-rooms-open-outdoor-spaces-for-family-gatherings-and-modern-interiors/articleshow/134725954.cms",
-      "source": "The Times of India",
+      "title": "1911 Gold's True North Resource Expansion Drilling Intersects up to 7.55 g/t Au over 5.00 m, Including 32.90 g/t Au over 0.50 m at the 710-711 Zone, and up to 21.20 g/t Au over 0.60 m at the 007 Zone",
+      "description": "VANCOUVER, BC, Oct. 6, 2026 /PRNewswire/ -- 1911 Gold Corporation (\"1911 Gold\" or the \"Company\") (TSXV: AUMB) (OTCQX: AUMBF) (FRA: 2KY) is pleased to announce assay results from the underground resource expansion program at the Company's wholly-owned, operati\u2026",
+      "url": "https://www.prnewswire.com/news-releases/1911-golds-true-north-resource-expansion-drilling-intersects-up-to-7-55-gt-au-over-5-00-m-including-32-90-gt-au-over-0-50-m-at-the-710-711-zone-and-up-to-21-20-gt-au-over-0-60-m-at-the-007-zone-302899500.html",
+      "source": "PRNewswire",
       "date": "2026-10-06",
-      "image": "https://img.etimg.com/thumb/msid-134726500,width-1200,height-900,imgsize-133276,overlay-economictimes/articleshow.jpg",
+      "image": "https://mmx.prnewswire.com/media/MS2002969/1911-Gold-Corporation-1911-Gold-s-True-North-Resource-Expansion.jpg?id=OA2988856&p=facebook",
+      "category": "metals"
+    },
+    {
+      "title": "Best Prime Day air fryer deals: Up to 40% off Breville, Cosori, Ninja",
+      "description": "Tons of air fryers are on sale for Amazon Prime Day. These are the five deals we'd shop first, based on the best models we've tested.",
+      "url": "https://www.businessinsider.com/guides/deals/best-prime-day-air-fryer-deals-2026-10#article",
+      "source": "Business Insider",
+      "date": "2026-10-06",
+      "image": "https://i.insider.com/6abeaf6c265e3f8e338f9aca?width=1200&format=jpeg",
       "category": "market"
     },
     {
-      "title": "Small caps have beaten large caps by 21.5% in a year. Should SIP investors rebalance now? Experts explain",
-      "description": "Small-cap indices have outperformed large caps sharply over the past year, but SIP investors should not change their strategy based on recent returns. Experts say investors should continue SIPs while checking whether strong small-cap gains have pushed their p\u2026",
-      "url": "https://www.livemint.com/money/personal-finance/small-caps-have-beaten-large-caps-by-21-5-in-a-year-should-sip-investors-rebalance-now-experts-explain-11791268465481.html",
-      "source": "Livemint",
+      "title": "American Hartford Gold Acquires Assets of Rosland Capital in Major Expansion",
+      "description": "Nation's largest physical gold and silver retailer strengthens its market leadership and brings expanded resources to Rosland Capital clients LOS ANGELES, Oct. 6, 2026 /PRNewswire/ -- American Hartford Gold (AHG), the nation's largest retailer of physical gol\u2026",
+      "url": "https://www.prnewswire.com/news-releases/american-hartford-gold-acquires-assets-of-rosland-capital-in-major-expansion-302899045.html",
+      "source": "PRNewswire",
       "date": "2026-10-06",
-      "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/Gemini_Gnerated_Image_luibpeluibpeluib_179126887_1791268882968_UoK4_1791268883115_RHVh_fe41fcfc-945a-4682-807f-bb060dd40e25_177O.png",
-      "category": "market"
+      "image": "https://mmx.prnewswire.com/media/MS2002894/American-Hartford-Gold-Rosland-Capital.jpg?id=OA2988704&p=facebook",
+      "category": "metals"
+    },
+    {
+      "title": "John Stewart\u2019s Power Battery Artwork Hints At Lanterns Season 2\u2019s New Threat, And It Borrowed From Star Wars",
+      "description": "The season finale of Lanterns finally aired, and John Stewart is finally a Green Lantern. The season wrapped with John finally uncovering Hal Jordan\u2019s killer. His investigation had led him to a Power Battery forged by Sinestro on the alien world wiped out by \u2026",
+      "url": "http://comicbook.com/dc/news/john-stewarts-power-battery-artwork-hints-at-lanterns-season-2s-new-threat-and-it-borrowed-from-star-wars/",
+      "source": "ComicBook.com",
+      "date": "2026-10-06",
+      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/10/John-Stewart-Aaron-St.-pierre-Lanterns-Dark-Lantern.jpg?resize=2000,1125",
+      "category": "geopolitics"
     },
     {
       "title": "Blossom Gold Announces a Gold Discovery on the Kamma Claims",
@@ -298,112 +326,85 @@
       "category": "geopolitics"
     },
     {
-      "title": "Gold is 26% below its 2026 peak. Buy now or wait? What investors should do",
-      "description": "Gold falls, central banks keep buying: What should investors do now?",
-      "url": "https://www.business-standard.com/finance/personal-finance/gold-is-26-below-its-2026-peak-buy-now-or-wait-what-investors-should-do-126100600129_1.html",
-      "source": "Business Standard",
+      "title": "Marvel Star Paul Rudd Says Climate Change Is 'The Issue' of Our Time",
+      "description": "Actor Paul Rudd declared climate change to be \"the issue\" of our time and that the clock is currently ticking before it allegedly gets worse. The \"Ant-Man\" star issued his warning about climate change during the world premiere of his upcoming film \"A Statemen\u2026",
+      "url": "https://www.breitbart.com/entertainment/2026/10/06/marvel-star-paul-rudd-says-climate-change-is-the-issue-of-our-time/",
+      "source": "Breitbart News",
       "date": "2026-10-06",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/18/thumb/featurecrop/1200X628/1789712940-6629.JPG",
-      "category": "central_bank"
-    },
-    {
-      "title": "Gold steady as firm dollar counters softer US rate-hike bets",
-      "description": "Gold prices demonstrated stability amidst a stronger dollar, which countered the positive effects of moderating Federal Reserve rate hike anticipations. The price for spot gold remained steady at $4,141.81 per ounce, while US gold futures experienced a slight\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-steady-as-firm-dollar-counters-softer-us-rate-hike-bets/articleshow/134720923.cms",
-      "source": "The Times of India",
-      "date": "2026-10-06",
-      "image": "https://img.etimg.com/photo/65498029.cms",
-      "category": "central_bank"
-    },
-    {
-      "title": "Why governance and visibility are the real defense against AI sovereignty risks",
-      "description": "Why visibility matters when the AI switch can be flipped without warning.",
-      "url": "https://www.techradar.com/pro/why-governance-and-visibility-are-the-real-defense-against-ai-sovereignty-risks",
-      "source": "TechRadar",
-      "date": "2026-10-06",
-      "image": "https://cdn.mos.cms.futurecdn.net/MuH6FdnCJqsnobznT3LSEM-2560-80.jpg",
+      "image": "https://media.breitbart.com/media/2026/10/PaulRuddclimate-640x335.jpg",
       "category": "geopolitics"
     },
     {
-      "title": "Scaling and Operating a Large dbt Project on Databricks: IFCO's Data Team on Performance, Visibility, and Debugging",
-      "description": "* Tune dbt incremental models so each run writes only the rows that changed, using liquid clustering, a deliberate merge strategy, and dynamic file pruning. That cut IFCO's core job runtime by over 60% and retired the nightly full refresh.\r\n* Diagnose slow mo\u2026",
-      "url": "https://www.databricks.com/blog/scaling-and-operating-large-dbt-project-databricks-ifcos-data-team-performance-visibility-and-debugging",
-      "source": "Databricks.com",
-      "date": "2026-10-06",
-      "image": "https://www.databricks.com/sites/default/files/2026-10/blog-og-ifco.png",
-      "category": "market"
-    },
-    {
-      "title": "2 WEEK AVEX INVESTOR DEADLINE: AEVEX Corp. Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit, Robbins Geller Rudman & Dowd LLP Announces - October 20, 2026 Deadline",
-      "description": "SAN DIEGO, Oct. 6, 2026 /PRNewswire/ -- Robbins Geller Rudman & Dowd LLP announces that purchasers or acquirers of AEVEX Corp. (NYSE: AVEX): (i) Class A common stock pursuant and/or traceable to the registration statement and prospectus issued in connection w\u2026",
-      "url": "https://www.prnewswire.com/news-releases/2-week-avex-investor-deadline-aevex-corp-investors-with-substantial-losses-have-opportunity-to-lead-class-action-lawsuit-robbins-geller-rudman--dowd-llp-announces---october-20-2026-deadline-302899249.html",
+      "title": "Lippincott to acquire brand and innovation studio Athletics",
+      "description": "The acquisition will bolster Lippincott's ability to move clients from strategy to activation faster, combining its strategic depth and global scale with Athletics digital and creative technology capabilities. NEW YORK, Oct. 6, 2026 /PRNewswire/ -- Lippincott\u2026",
+      "url": "https://www.prnewswire.com/news-releases/lippincott-to-acquire-brand-and-innovation-studio-athletics-302899750.html",
       "source": "PRNewswire",
       "date": "2026-10-06",
-      "image": "https://mmx.prnewswire.com/media/MS675308/robbins-geller-rudman-and-dowd-llp-logo-v2-Logo.jpg?id=OA2988770&p=facebook",
+      "image": "https://mmx.prnewswire.com/media/MS2002285/Lippincott-Athletics-CEO-Portrait.jpg?id=OA2987155&p=facebook",
       "category": "market"
     },
     {
-      "title": "Invivoscribe\u00ae Advances Molecular Clonality Testing Portfolio with Comprehensive LymphoTrack\u00ae Flex Suite",
-      "description": "New ultra-high sensitivity tests enable objective, automation-ready, high-throughput clonality and MRD workflow. SAN DIEGO \u2014 Invivoscribe, a global leader in precision diagnostics and measurable residual disease (MRD) testing, today announced the launch of th\u2026",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/invivoscribe-advances-molecular-clonality-testing-portfolio-with-comprehensive-lymphotrack-flex-suite",
-      "source": "Financial Post",
+      "title": "Surge in imports pushed U.S. trade deficit above $100 billion in August",
+      "description": "The US trade deficit jumped to more than $100 billion in August as importers wrestled with a new round of President Trump's tariffs and continued to bring in billions of dollars' worth of components for AI data centers.The total gap: $105.6 billion, a 13.8% i\u2026",
+      "url": "https://finance.yahoo.com/economy/article/us-trade-deficit-jumped-above-100-billion-in-august-134000859.html",
+      "source": "Yahoo Entertainment",
       "date": "2026-10-06",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "Lifetime Greenlights New Ripped from the Headlines Movie, \"She Married Her Murderer: The Susan Cox Powell Story\" Starring Ricki Lake, Mike Dopud, and Matreya Scarrwener to Debut in 2027",
-      "description": "Executive produced by Kara Feifer and Elisabeth Rohm of Rohm Feifer Entertainment, the film marks Rohm's return to directing for Lifetime.",
-      "url": "http://www.thefutoncritic.com/news/2026/10/06/lifetime-greenlights-new-ripped-from-the-headlines-movie-she-married-her-murderer-the-susan-cox-powell-story-starring-ricki-lake-mike-dopud-and-matreya-scarrwener-to-debut-in-2027-759411/20261006lifetime01/",
-      "source": "Thefutoncritic.com",
-      "date": "2026-10-06",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "Netcracker Wins TM Forum Open Innovation Catalyst Award for Cutting-Edge Physical AI Monetization",
-      "description": "Netcracker, Along with Partners Including AT&T, China Mobile, and OmanTel, Demonstrated How CSPs Can Become the Trusted Intelligence Platform to Scale Physical AI WALTHAM, Mass. \u2014 Netcracker Technology announced today that it has received the 2026 TM Forum Op\u2026",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/netcracker-wins-tm-forum-open-innovation-catalyst-award-for-cutting-edge-physical-ai-monetization",
-      "source": "Financial Post",
-      "date": "2026-10-06",
-      "image": null,
+      "image": "https://s.yimg.com/lo/mysterio/api/72d7eb1ac54e7605569c02692e054e767cb7282471320550865041f64f56e220/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F6583a2ed-2f05-46a0-b050-528311f127ac",
       "category": "geopolitics"
     },
     {
-      "title": "Shin Seung Ho Is A Charismatic Leader Who Turns Defensive After His Secrets Are Exposed In \u201cFinal Interview\u201d",
-      "description": "The upcoming film \u201cFinal Interview\u201d has unveiled new stills featuring Shin Seung Ho in character! \u201cFinal Interview\u201d follows six applicants who make it to the final round of interviews at a global IT company amid an intensely competitive job market. After disc\u2026",
-      "url": "http://www.soompi.com/article/1875749wpp/shin-seung-ho-is-a-charismatic-leader-who-turns-defensive-after-his-secrets-are-exposed-in-final-interview",
-      "source": "soompi",
+      "title": "MHC Named as a Major Player in the 2026 IDC MarketScape for Intelligent CCM",
+      "description": "MINNEAPOLIS, Oct. 6, 2026 /PRNewswire/ -- MHC, a global provider of AI-powered SaaS solutions for document, customer communications, and payment automation for highly regulated industries, has been named a Major Player in the IDC MarketScape: Worldwide Intell\u2026",
+      "url": "https://www.prnewswire.com/news-releases/mhc-named-as-a-major-player-in-the-2026-idc-marketscape-for-intelligent-ccm-302899847.html",
+      "source": "PRNewswire",
       "date": "2026-10-06",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/10/06031631/Final-Interview-1-1.jpg",
+      "image": "https://mmx.prnewswire.com/media/MS1366430/MHC-Logo.jpg?id=OA2988119&p=facebook",
       "category": "market"
     },
     {
-      "title": "It\u2019s Time to Bring Back Congress\u2019s Nerd Squad",
-      "description": "In the autumn of 2001, a new national security threat arrived by mail. Envelopes carrying a fine, nearly invisible powder had begun traveling through the postal system. One letter reached a tabloid\u2019s newsroom in Boca Raton, Florida, killing a photo editor wit\u2026",
-      "url": "https://newrepublic.com/article/215564/bring-back-office-technology-assessment",
-      "source": "The New Republic",
+      "title": "Drug Discovery Informatics Market Projected to Reach $7.74 Billion by 2030 as AI Agents Need Biological Context",
+      "description": "AUSTIN, Texas, Oct. 06, 2026 (GLOBE NEWSWIRE) \u2014 Equity Insider News Commentary \u2013 The global market for artificial intelligence in drug discovery is projected to grow from $5.09 billion in 2026 to $17.56 billion by 2031, a compound annual growth rate of 28.1%,\u2026",
+      "url": "https://financialpost.com/globe-newswire/drug-discovery-informatics-market-projected-to-reach-7-74-billion-by-2030-as-ai-agents-need-biological-context",
+      "source": "Financial Post",
       "date": "2026-10-06",
-      "image": "https://images.newrepublic.com/38c5c84df8e7362949fa0ec6af2e8b00cbb289af.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "image": null,
       "category": "market"
     },
     {
-      "title": "The Enforcement Layer Just Vanished From the US Crypto Regulatory Stack",
-      "description": "FinCEN withdrew both of them on the same Sunday. On October 5, 2026, the Treasury Department\u2019s enforcement arm for financial crime scrapped a proposed rule requiring financial institutions to report crypto transfers above $10,000 to or from self-custodied wal\u2026",
-      "url": "https://forkast.news/the-enforcement-layer-just-vanished-from-the-us-crypto-regulatory-stack/",
-      "source": "Forkast.news",
+      "title": "Greenland Mines Authorizes $20 Million Share Repurchase Program and Announces Capital Allocation Priorities",
+      "description": "Authorization follows more than $59 million of recent capital raised, with planned programs funded through targeted 2027 milestones CHARLOTTE, N.C., Oct. 06, 2026 (GLOBE NEWSWIRE) \u2014 via IBN \u2014 Greenland Mines Ltd\u00a0(\u201cGreenland Mines\u201d or the \u201cCompany\u201d) (Nasdaq: G\u2026",
+      "url": "https://financialpost.com/globe-newswire/greenland-mines-authorizes-20-million-share-repurchase-program-and-announces-capital-allocation-priorities",
+      "source": "Financial Post",
       "date": "2026-10-06",
-      "image": "https://forkast.news/wp-content/uploads/2026/10/fincen-enforcement-retreat-1024x687.jpg",
+      "image": null,
       "category": "market"
     },
     {
-      "title": "The Supreme Court takes up climate costs. CEOs should worry about the cost of doing nothing",
-      "description": "Also: All the news and watercooler chat from Fortune.",
-      "url": "https://fortune.com/2026/10/06/supreme-court-climate-change-cost-ceos-doing-nothing/",
-      "source": "Fortune",
+      "title": "smhi2epw added to PyPI",
+      "description": "Build complete-year EnergyPlus weather files from SMHI observations, with documented gap recovery.",
+      "url": "https://pypi.org/project/smhi2epw/",
+      "source": "Pypi.org",
       "date": "2026-10-06",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2298696602-e1791269048732.jpg?resize=1200,600",
+      "image": null,
       "category": "market"
+    },
+    {
+      "title": "Nearly Half of Canadian Small Businesses Are Leaning Into Canadian Identity This Holiday Season, Despite Rising Costs",
+      "description": "Canadian identity drives holiday marketing efforts: 48 per cent of small businesses say Canadian identity is playing a bigger role in holiday marketing, particularly among those most dependent on seasonal sales. Growth prioritized over caution: While over hal\u2026",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/nearly-half-of-canadian-small-businesses-are-leaning-into-canadian-identity-this-holiday-season-despite-rising-costs",
+      "source": "Financial Post",
+      "date": "2026-10-06",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "Germany's far-right AfD makes history again in Saxony-Anhalt",
+      "description": "For the first time since the end of World War II, a German state parliament has chosen parliamentary speaker from the far right: Tobias Rausch of the Alternative for Germany (AfD). First thing in the morning, about 500 people gathered on Cathedral Square in t\u2026",
+      "url": "https://www.dw.com/en/germanys-far-right-afd-makes-history-again-in-saxony-anhalt/a-79565146",
+      "source": "DW (English)",
+      "date": "2026-10-06",
+      "image": "https://static.dw.com/image/79565176_6.jpg",
+      "category": "geopolitics"
     }
   ],
   "history": [
@@ -510,15 +511,15 @@
     {
       "date": "2026-10-07",
       "week": "2026-W41",
-      "gold_10g": 127681.42,
-      "silver_kg": 186613.18,
-      "platinum_g": 5099.61,
-      "gold_usd_oz": 4116.78,
-      "silver_usd_oz": 60.17,
-      "platinum_usd_oz": 1644.25
+      "gold_10g": 126653.28,
+      "silver_kg": 184367.7,
+      "platinum_g": 5018.81,
+      "gold_usd_oz": 4083.64,
+      "silver_usd_oz": 59.45,
+      "platinum_usd_oz": 1618.19
     }
   ],
-  "timestamp": "2026-10-07T15:57:06.229871+05:30",
+  "timestamp": "2026-10-07T19:11:07.570701+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
