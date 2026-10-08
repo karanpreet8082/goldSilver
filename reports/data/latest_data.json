@@ -1,60 +1,60 @@
 {
   "prices": {
     "gold": {
-      "price_per_gram_inr": 12742.03,
-      "price_usd_oz": 4108.36,
-      "change_percent": -1.35,
-      "change_value_usd": -56.32,
-      "price_per_10g_inr": 127420.27
+      "price_per_gram_inr": 12817.59,
+      "price_usd_oz": 4117.07,
+      "change_percent": 0.15,
+      "change_value_usd": 6.19,
+      "price_per_10g_inr": 128175.91
     },
     "silver": {
-      "price_per_gram_inr": 185.42,
-      "price_usd_oz": 59.78,
-      "change_percent": -2.57,
-      "change_value_usd": -1.58,
-      "price_per_kg_inr": 185422.21
+      "price_per_gram_inr": 182.82,
+      "price_usd_oz": 58.72,
+      "change_percent": -1.8,
+      "change_value_usd": -1.08,
+      "price_per_kg_inr": 182818.02
     },
     "platinum": {
-      "price_per_gram_inr": 5076.32,
-      "price_usd_oz": 1636.74,
-      "change_percent": -4.31,
-      "change_value_usd": -73.78
+      "price_per_gram_inr": 5128.02,
+      "price_usd_oz": 1647.14,
+      "change_percent": 0.76,
+      "change_value_usd": 12.38
     },
     "currencies": {
-      "USD_INR": 96.467,
-      "EUR_INR": 108.5484,
-      "GBP_INR": 127.9403,
-      "JPY_INR": 0.61,
-      "CHF_INR": 115.9599,
-      "AUD_INR": 67.3229,
-      "CAD_INR": 67.8342,
-      "SGD_INR": 75.4946
+      "USD_INR": 96.8339,
+      "EUR_INR": 108.4245,
+      "GBP_INR": 127.9687,
+      "JPY_INR": 0.6124,
+      "CHF_INR": 116.2332,
+      "AUD_INR": 67.4049,
+      "CAD_INR": 67.9488,
+      "SGD_INR": 75.6574
     },
-    "gold_silver_ratio": 68.72,
-    "timestamp": "2026-10-07T19:02:56.131081",
+    "gold_silver_ratio": 70.11,
+    "timestamp": "2026-10-08T10:47:25.828795",
     "source": "GoldAPI"
   },
   "currencies": {
-    "USD_INR": 96.467,
-    "EUR_INR": 108.5484,
-    "GBP_INR": 127.9403,
-    "JPY_INR": 0.61,
-    "CHF_INR": 115.9599,
-    "AUD_INR": 67.3229,
-    "CAD_INR": 67.8342,
-    "SGD_INR": 75.4946
+    "USD_INR": 96.8339,
+    "EUR_INR": 108.4245,
+    "GBP_INR": 127.9687,
+    "JPY_INR": 0.6124,
+    "CHF_INR": 116.2332,
+    "AUD_INR": 67.4049,
+    "CAD_INR": 67.9488,
+    "SGD_INR": 75.6574
   },
   "analysis": {
     "gold": {
       "metal": "gold",
-      "recommendation": "SELL",
+      "recommendation": "HOLD",
       "confidence": {
-        "buy": 10,
-        "sell": 64,
-        "hold": 26
+        "buy": 25,
+        "sell": 25,
+        "hold": 50
       },
-      "summary": "Gold is showing negative signals. Significant daily drop of -1.4%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-07T19:03:01.953479",
+      "summary": "Gold is showing mixed signals. Positive daily movement of 0.1%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
+      "timestamp": "2026-10-08T10:47:32.076260",
       "source": "rule-based"
     },
     "silver": {
@@ -65,40 +65,39 @@
         "sell": 64,
         "hold": 26
       },
-      "summary": "Silver is showing negative signals. Significant daily drop of -2.6%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-07T19:03:02.058288",
+      "summary": "Silver is showing negative signals. Significant daily drop of -1.8%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-10-08T10:47:32.145586",
       "source": "rule-based"
     },
     "platinum": {
       "metal": "platinum",
-      "recommendation": "SELL",
+      "recommendation": "HOLD",
       "confidence": {
-        "buy": 10,
-        "sell": 64,
-        "hold": 26
+        "buy": 25,
+        "sell": 25,
+        "hold": 50
       },
-      "summary": "Platinum is showing negative signals. Significant daily drop of -4.3%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-07T19:03:02.162931",
+      "summary": "Platinum is showing mixed signals. Positive daily movement of 0.8%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
+      "timestamp": "2026-10-08T10:47:32.214163",
       "source": "rule-based"
     }
   },
   "technical": {
     "gold": {
-      "trend": "neutral",
-      "strength": 31,
+      "trend": "bearish",
+      "strength": 25,
       "signals": [
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA above long-term MA (uptrend)",
-        "Weak momentum: -5.3% in 4 weeks",
-        "Near support \u2014 potential buy zone"
+        "Weak momentum: -4.8% in 4 weeks"
       ],
       "support": 124137.93,
       "resistance": 140736.5,
-      "current_price": 127420.27,
-      "ma_short": 131153.87,
-      "ma_long": 131142.41,
-      "trend_score": -1.5
+      "current_price": 128175.91,
+      "ma_short": 131342.78,
+      "ma_long": 131211.1,
+      "trend_score": -2.0
     },
     "silver": {
       "trend": "bearish",
@@ -107,14 +106,14 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -7.8% in 4 weeks",
+        "Weak momentum: -9.1% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
       "support": 176726.94,
       "resistance": 243170.57,
-      "current_price": 185422.21,
-      "ma_short": 194186.48,
-      "ma_long": 198376.56,
+      "current_price": 182818.02,
+      "ma_short": 193535.43,
+      "ma_long": 198139.81,
       "trend_score": -3.5
     },
     "platinum": {
@@ -124,287 +123,287 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA above long-term MA (uptrend)",
-        "Weak momentum: -8.4% in 4 weeks",
+        "Weak momentum: -7.4% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
       "support": 4961.56,
       "resistance": 6206.5,
-      "current_price": 5076.32,
-      "ma_short": 5387.73,
-      "ma_long": 5367.38,
+      "current_price": 5128.02,
+      "ma_short": 5400.65,
+      "ma_long": 5372.08,
       "trend_score": -1.5
     }
   },
   "news": [
     {
-      "title": "US Fed minutes show members backing another rate hike before year-end",
-      "description": "According to the latest minutes from the US Federal Reserve, officials hint at a possible interest rate rise by year's end in response to ongoing inflation challenges. With inflation reaching a high of 7.2% in June 2022, fluctuations have continued amid worries over geopolitical events and escalatin",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-fed-minutes-show-members-backing-another-rate-hike-before-year-end/articleshow/134773656.cms",
+      "title": "Global Market: ECB may need further rate hikes as inflation risks remain elevated, Dolenc says",
+      "description": "The ECB may raise interest rates further as inflation risks remain tilted upward, with rates already at 2.5% and inflation at 3.8%. Policymaker Primoz Dolenc cited energy, food and geopolitical risks, while noting stable core inflation. Strong economic growth could add pressure, but rising bond yiel",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-ecb-may-need-further-rate-hikes-as-inflation-risks-remain-elevated-dolenc-says/articleshow/134786800.cms",
       "source": "Economic Times Markets",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "Foreign investors pull out $26.3 billion from emerging markets in September as hawkish Fed pushes US Treasury yields higher",
-      "description": "Foreign investors pulled $26.3 billion from emerging-market stocks and bonds in September due to rising US yields. The hawkish Federal Reserve's interest rate hike influenced this first outflow since June. Additionally, heavy foreign selling in South Korea resulted in a significant decrease in emerg",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/foreign-investors-pull-out-26-3-billion-from-emerging-markets-in-september-as-hawkish-fed-pushes-us-treasury-yields-higher/articleshow/134772977.cms",
+      "title": "Global Market: European stocks slide as oil surge revives inflation concerns",
+      "description": "European shares fell as banks hit over three-month lows amid rising bond yields and oil prices. Investors worried persistent inflation could constrain central bank rate cuts and hurt growth, while markets awaited ECB, Federal Reserve and Bank of England signals.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-stocks-slide-as-oil-surge-revives-inflation-concerns/articleshow/134786755.cms",
       "source": "Economic Times Markets",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "image": "",
       "category": "central_bank"
     },
     {
-      "title": "US bond selloff resumes as 10- and 30-year yields hit fresh 24-year highs",
-      "description": "US Treasuries are facing significant selling pressure as yields hit new highs, fueled by ongoing inflation concerns. Higher oil prices have exacerbated worries about sustained inflation in the market. The 10-year and 30-year bond yields have soared to their highest levels in 24 years. Additionally, ",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-bonds-selloff-resumes-as-10-year-30-yields-hit-new-24-year-high/articleshow/134771853.cms",
+      "title": "How to Invest in Gold, copper &amp; other commodities? Praveena Rai of MCX Answers",
+      "description": "",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/how-to-invest-in-gold-copper-other-commodities-praveena-rai-of-mcx-answers/videoshow/134786422.cms",
       "source": "Economic Times Markets",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "image": "",
-      "category": "inflation"
+      "category": "metals"
     },
     {
-      "title": "RBI says it will ensure 'undervalued' Rupee finds its correct level",
-      "description": "The Reserve Bank of India has stated its intent to stabilize the undervalued rupee, which reached a five-month low. Despite raising the policy rate for the first time since February 2023, the rupee has fallen due to foreign capital outflows. According to economists, the stronger dollar index contrib",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-says-it-will-ensure-undervalued-rupee-finds-its-correct-level/articleshow/134770024.cms",
+      "title": "Global Market: Eurozone bond yields surge as energy prices fuel rate hike bets",
+      "description": "Eurozone bond yields rise sharply as higher oil prices fuel inflation concerns and expectations of tighter monetary policy, while widening France-Germany spreads highlight growing fiscal and rate risks.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-eurozone-bond-yields-surge-as-energy-prices-fuel-rate-hike-bets/articleshow/134785743.cms",
       "source": "Economic Times Markets",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "image": "",
       "category": "central_bank"
     },
     {
-      "title": "UK 30-year gilt yields hit 28-year high in global selloff",
-      "description": "The British 30-year bond yields have skyrocketed to their highest level since January 1998 amid a global bond market decline. This surge is primarily driven by ongoing inflation and substantial government borrowing, which are raising apprehensions among bond investors globally. As Finance Minister J",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/uk-30-year-gilt-yields-hit-28-year-high-in-global-selloff/articleshow/134769020.cms",
-      "source": "Economic Times Markets",
+      "title": "Why Did Crypto Just Drop? $12.5M Bitcoin Shorts, Iran Tensions and $500M in Liquidations Explain the Crash",
+      "description": "The latest crypto crash today included Bitcoin price falling below $84,000 and liquidated leveraged Bitcoin positions in derivative markets. Why Did Crypto Just Drop Today?...\nThe post Why Did Crypto Just Drop? $12.5M Bitcoin Shorts, Iran Tensions and $500M i\u2026",
+      "url": "https://bitcoinfoundation.org/news/analysis/why-did-crypto-just-drop-12-5m-bitcoin-shorts-iran-tensions-and-500m-in-liquidations-explain-the-crash/",
+      "source": "Bitcoinfoundation.org",
       "date": "2026-10-07",
-      "image": "",
-      "category": "inflation"
+      "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/Why-Did-Crypto-Just-Drop-12.5M-Bitcoin-Shorts-Iran-Tensions-and-500M-in-Liquidations-Explain-the-Crash-2.webp",
+      "category": "geopolitics"
     },
     {
-      "title": "[SMM Precious Metals Flash] Intercontinental Exchange has begun offer - Shanghai Metals Market",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUXFqWEUtN2hvUE9jMkZsVzVVV0xIT2ljWU10QXpXU21tUXAtN2VfTzlhdXJTTnI2ZHdjWTlVVDc5eER4NF94TG5ZU3dBdHBTTVR5b0F0dURhcTNpdkZuZmJKbHpXQjJLUUNwTTR3RU8xVGZ4LVhMcmd5LVVUT3AwczQ3VktOMjBkOGhLVG1qT3B0NGlDTW5rODAxMFRUZzRPVFdjUnUzMFF3bGp1N0xSMUs5NHdNcnE0OW",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUXFqWEUtN2hvUE9jMkZsVzVVV0xIT2ljWU10QXpXU21tUXAtN2VfTzlhdXJTTnI2ZHdjWTlVVDc5eER4NF94TG5ZU3dBdHBTTVR5b0F0dURhcTNpdkZuZmJKbHpXQjJLUUNwTTR3RU8xVGZ4LVhMcmd5LVVUT3AwczQ3VktOMjBkOGhLVG1qT3B0NGlDTW5rODAxMFRUZzRPVFdjUnUzMFF3bGp1N0xSMUs5NHdNcnE0OWg4?oc=5",
-      "source": "Google News - Precious Metals",
+      "title": "\u2018Old money\u2019 has stronger Bitcoin \u2018diamond hands,\u2019 says BingX exec",
+      "description": "BingX chief of strategy Kevin Lee says \u201cold money\u201d investors have stronger Bitcoin \u201cdiamond hands,\u201d as data shows growing long-term interest but limited adoption.",
+      "url": "https://cointelegraph.com/news/bingx-old-money-bitcoin-diamond-hands-token2049",
+      "source": "Cointelegraph",
       "date": "2026-10-07",
-      "image": "",
-      "category": "metals"
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4AVEMQ8SFFCKHSAXB14F6SM/old-money-diamond-hands.png",
+      "category": "market"
     },
     {
-      "title": "ICE brings futures trading to London\u2019s $190 billion-a-day physical gold market - Kitco",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXhURHVkU2dCbXZfem9fNW0xVnhQdzFYS0xOZVF6c3FXbGVPakNNcGoyN0VEVWVoNC1JdERfSnRGSHBEeFF2c1F5MzgxaC05dUJqWHNlRlQxck1lc000MklkU0VPRDVPdzJ2VGJncW51WVE0TjlWTUdJSk9mMENoaThiRjBCTWV0akdHd3pRNW00cHpqRk8yYk1ic3dkQUNKVk9vWVVuOHVEU1l4NHEzRkdIaTJHUU1S?o",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXhURHVkU2dCbXZfem9fNW0xVnhQdzFYS0xOZVF6c3FXbGVPakNNcGoyN0VEVWVoNC1JdERfSnRGSHBEeFF2c1F5MzgxaC05dUJqWHNlRlQxck1lc000MklkU0VPRDVPdzJ2VGJncW51WVE0TjlWTUdJSk9mMENoaThiRjBCTWV0akdHd3pRNW00cHpqRk8yYk1ic3dkQUNKVk9vWVVuOHVEU1l4NHEzRkdIaTJHUU1S?oc=5",
-      "source": "Google News - Precious Metals",
+      "title": "Gold caught between central bank demand and real-yield pressure: Kotak Sec",
+      "description": "A break below $4,100 would expose further downside toward the $3,960 to $4,000 zone. Until that turn materialises, near-term price action is likely to remain driven by the rate market.",
+      "url": "https://www.business-standard.com/markets/news/gold-caught-between-central-bank-demand-and-real-yield-pressure-kotak-sec-126100700700_1.html",
+      "source": "Business Standard",
       "date": "2026-10-07",
-      "image": "",
-      "category": "metals"
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-01/15/thumb/fitandfill/1200X628/1705286901-6955.jpg",
+      "category": "geopolitics"
     },
     {
-      "title": "Gold industry expects price rise to $5,013 an ounce over 12 months",
-      "description": "Gold prices are set to soar to $5,013 per ounce in the next year, while silver is expected to jump from $61 to $97 per ounce. In addition, LBMA officials foresee platinum prices climbing to $1,914 an ounce and palladium rising to $1,415. This outlook occurs a\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/gold-industry-expects-price-rise-to-5013-an-ounce-over-12-months/articleshow/134748558.cms",
-      "source": "The Times of India",
-      "date": "2026-10-06",
-      "image": "https://img.etimg.com/thumb/msid-134748612,width-1200,height-900,imgsize-53948,overlay-etmarkets/articleshow.jpg",
-      "category": "platinum"
+      "title": "DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam \u2013 07th October 2026",
+      "description": "Archives (PRELIMS\u00a0 Focus) \u00a0 \u00a0 \u00a0 (MAINS Focus) \u00a0\nThe post DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam \u2013 07th October 2026 appeared first on IASbaba.",
+      "url": "https://iasbaba.com/2026/10/daily-current-affairs-ias-upsc-prelims-and-mains-exam-07th-october-2026/",
+      "source": "Iasbaba.com",
+      "date": "2026-10-07",
+      "image": null,
+      "category": "market"
     },
     {
-      "title": "RBI 25-bps rate hike or status quo: What should mutual fund investors do after the policy announcement? Expert explains",
-      "description": "The RBI may raise the repo rate by 25 bps or hold it at 5.25%. What should investors do with their equity, debt, arbitrage and gold allocations under either scenario? Experts explain how to navigate the decision and what portfolio changes to make.&nbsp;",
-      "url": "https://www.livemint.com/money/personal-finance/rbi-25-bps-rate-hike-or-status-quo-what-should-mutual-fund-investors-do-after-the-policy-announcement-expert-explains-11791305829652.html",
+      "title": "RBI rate hike: Debt funds, equities, FDs or gold, which asset classes may benefit as the rate cycle turns? Expert view",
+      "description": "RBI\u2019s 25 bps repo rate hike could reshape returns across debt, equity, FDs and gold. Experts explain which asset classes may benefit, where investors could face pressure and how to position portfolios as the rate cycle turns.",
+      "url": "https://www.livemint.com/money/personal-finance/rbi-rate-hike-debt-funds-equities-fds-or-gold-which-asset-classes-may-benefit-as-the-rate-cycle-turns-expert-view-11791364017739.html",
       "source": "Livemint",
-      "date": "2026-10-06",
-      "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/rbi_ra_1791310553381_EV0r_1791310556520_eRla_64ebab44-4af8-430a-8334-11b3be55e19e_AHqa.png",
+      "date": "2026-10-07",
+      "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/Gemini_Geneated_Image_f1ocgkf1ocgkf1oc_179136433_1791364341305_mNV2_1791364341577_XFD9_4564ed30-f2cc-4e01-8e22-52394dd7a72e_uHY6.png",
       "category": "central_bank"
     },
     {
-      "title": "The World\u2019s Gold Producers Are Starting to Hoard Their Own Gold",
-      "description": "For most of modern history, the gold trade worked one way: emerging-market mines dug it up, shipped it out (often as cheap ore, more often through the back door), and London and New York did the rest. But that arrangement is now quietly breaking down. Accordi\u2026",
-      "url": "https://oilprice.com/Metals/Gold/The-Worlds-Gold-Producers-Are-Starting-to-Hoard-Their-Own-Gold.html",
-      "source": "OilPrice.com",
-      "date": "2026-10-06",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-06_d1akggvhik.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "Sprawling $2.45M NYC home tied to $70M counterfeiting ring heads to auction for just $900K",
-      "description": "A Forest Hills, Queens, home tied to brothers convicted in a massive international counterfeiting case is heading to federal auction, with bidding starting at $900,000.",
-      "url": "https://nypost.com/2026/10/06/real-estate/new-york-city-home-tied-to-70m-counterfeiting-ring-heads-to-federal-auction-for-900000/",
-      "source": "New York Post",
-      "date": "2026-10-06",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/143990569.jpg?quality=75&strip=all&w=1200",
-      "category": "central_bank"
-    },
-    {
-      "title": "A surprising industry is fueling a new rush for gold \u2014 and it\u2019s not slowing down",
-      "description": "Gold demand from AI infrastructure and semiconductors is climbing even as prices hit historic highs, and tech firms aren't switching to cheaper metals.",
-      "url": "https://www.foxnews.com/politics/surprising-industry-fueling-new-rush-gold-not-slowing-down",
-      "source": "Fox News",
-      "date": "2026-10-06",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/3294a34b-woman-walking-gold-bars.png",
-      "category": "supply_demand"
-    },
-    {
-      "title": "We Found the 157 Best Live Prime Day Tech Deals From Apple, Dell, HP, Samsung, Sony, and More",
-      "description": "Amazon's Big Deal Days is happening right now, and here at PCMag Deals, we're tracking down the very best tech deals on top-rated products with the deepest discounts just for you.\nAmazon's fall shopping extravaganza is finally here! Big Deal Days is live and \u2026",
-      "url": "https://uk.pcmag.com/amazon-prime-big-deal-days/167687/we-found-the-157-best-live-prime-day-tech-deals-from-apple-dell-hp-samsung-sony-and-more",
-      "source": "PCMag.com",
-      "date": "2026-10-06",
-      "image": "https://sm.pcmag.com/t/pcmag_uk/news/w/we-found-t/we-found-the-157-best-live-prime-day-tech-deals-from-apple-d_rkte.1200.jpg",
+      "title": "Titan reports 25% revenue growth in Q2FY27, jewellery sales up 21%",
+      "description": "Titan Co Ltd, the country's leading branded jewellery and watchmaker, reported a 25 per cent year-on-year growth in its revenue for the September quarter of FY27, driven by performances across its jewellery, watches and eyewear segments.\nHowever, the growth m\u2026",
+      "url": "https://www.business-standard.com/companies/news/titan-reports-25-revenue-growth-in-q2fy27-jewellery-sales-up-21-126100700563_1.html",
+      "source": "Business Standard",
+      "date": "2026-10-07",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/03/thumb/featurecrop/1200X628/1780508684-263.jpg",
       "category": "market"
     },
     {
-      "title": "NBFC credit growth rises to 15.8% in August as gold, consumer durable loans surge",
-      "description": "During August 2026, non-banking financial companies enjoyed a boost in credit expansion, with gold loans seeing remarkable growth alongside consumer durable loans. Housing loans remained a critical component of the retail lending portfolio. Conversely, lendin\u2026",
-      "url": "https://economictimes.indiatimes.com/industry/banking/finance/nbfc-credit-growth-rises-to-15-8-in-august-as-gold-consumer-durable-loans-surge/articleshow/134752996.cms",
-      "source": "The Times of India",
-      "date": "2026-10-06",
-      "image": "https://img.etimg.com/thumb/msid-134745492,width-1200,height-900,imgsize-68674,overlay-etmarkets/articleshow.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "There is a case for subsidising sunscreen in New Zealand \u2013 Editorial",
-      "description": "OPINION: Half of us believe sunscreen is too expensive, a survey showed.",
-      "url": "https://www.nzherald.co.nz/nz/there-is-a-case-for-subsidising-sunscreen-in-new-zealand-editorial/premium/LNR7TC6XXJF5HJJ65OG53SMY3U/",
-      "source": "New Zealand Herald",
-      "date": "2026-10-06",
-      "image": "https://www.nzherald.co.nz/resizer/v2/EZ5TAJ5GJVGS3CTO755EL5D73Y.jpg?auth=44aa161cffb2b546ad3f98412c462e9ac270da0d1e63dcd0f4cd8aaedb8c2e3a&width=1200&height=675&quality=70&smart=true",
-      "category": "market"
-    },
-    {
-      "title": "Joe Rogan Says Money Is So Deeply Entangled In Politics That Removing It Entirely 'Seems Ridiculous To People'",
-      "description": "Money has become such an accepted part of U.S. politics that the idea of removing it altogether sounds almost absurd, according to comedian and podcaster Joe...",
-      "url": "https://www.yahoo.com/entertainment/tv/articles/joe-rogan-says-money-deeply-120009994.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-10-06",
-      "image": "https://s.yimg.com/lo/mysterio/api/b69b2b0710112a17d900d882c21521a48359a6f88bc232c49a4541d5791d7bc9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F5daffc83d0fbe32cd3e1a1bdfed1bb85.jpg",
-      "category": "market"
-    },
-    {
-      "title": "American Hartford Gold Acquires Assets of Rosland Capital in Major Expansion",
-      "description": "Nation's largest physical gold and silver retailer strengthens its market leadership and brings expanded resources to Rosland Capital clients LOS ANGELES, Oct. 6, 2026 /PRNewswire/ -- American Hartford Gold (AHG), the nation's largest retailer of physical gol\u2026",
-      "url": "https://www.prnewswire.com/news-releases/american-hartford-gold-acquires-assets-of-rosland-capital-in-major-expansion-302899045.html",
-      "source": "PRNewswire",
-      "date": "2026-10-06",
-      "image": "https://mmx.prnewswire.com/media/MS2002894/American-Hartford-Gold-Rosland-Capital.jpg?id=OA2988704&p=facebook",
-      "category": "metals"
-    },
-    {
-      "title": "John Stewart\u2019s Power Battery Artwork Hints At Lanterns Season 2\u2019s New Threat, And It Borrowed From Star Wars",
-      "description": "The season finale of Lanterns finally aired, and John Stewart is finally a Green Lantern. The season wrapped with John finally uncovering Hal Jordan\u2019s killer. His investigation had led him to a Power Battery forged by Sinestro on the alien world wiped out by \u2026",
-      "url": "http://comicbook.com/dc/news/john-stewarts-power-battery-artwork-hints-at-lanterns-season-2s-new-threat-and-it-borrowed-from-star-wars/",
-      "source": "ComicBook.com",
-      "date": "2026-10-06",
-      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/10/John-Stewart-Aaron-St.-pierre-Lanterns-Dark-Lantern.jpg?resize=2000,1125",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Blossom Gold Announces a Gold Discovery on the Kamma Claims",
-      "description": "TORONTO, Oct. 06, 2026 (GLOBE NEWSWIRE) \u2014 Blossom Gold Inc. (formerly, 1290448 B.C. Ltd.) (\u201cBlossom\u201d or the \u201cCompany\u201d) (TSX: BGAU) is pleased to announce initial precious metals mineralization on its 100%-owned Kamma Claims, located west of the Company\u2019s Rose\u2026",
-      "url": "https://financialpost.com/globe-newswire/blossom-gold-announces-a-gold-discovery-on-the-kamma-claims",
+      "title": "Fortuna reports third quarter 2026 production of 69,665 gold equivalent ounces and advances key growth initiatives",
+      "description": "VANCOUVER, British Columbia, Oct. 07, 2026 (GLOBE NEWSWIRE) \u2014 Fortuna Mining Corp. (NYSE: FSM | TSX: FVI)\u00a0reports production results for the third quarter and first nine months of 2026 from its three operating mines in West Africa and Latin America. This rele\u2026",
+      "url": "https://financialpost.com/globe-newswire/fortuna-reports-third-quarter-2026-production-of-69665-gold-equivalent-ounces-and-advances-key-growth-initiatives",
       "source": "Financial Post",
-      "date": "2026-10-06",
-      "image": null,
-      "category": "metals"
-    },
-    {
-      "title": "Production update and FTSE 250 Index inclusion",
-      "description": "Reykjav\u00edk, Oct. 06, 2026 (GLOBE NEWSWIRE) \u2014 Amaroq Ltd(\u201cAmaroq\u201d or the \u201cCompany\u201d) Production update and FTSE 250 Index inclusion Gold production of ~21 koz for 9M 2026 and ~12 koz for Q3 2026 \u2013 achieving Q4 2026 production target one quarter early And Entry i\u2026",
-      "url": "https://financialpost.com/globe-newswire/production-update-and-ftse-250-index-inclusion",
-      "source": "Financial Post",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "image": null,
       "category": "supply_demand"
     },
     {
-      "title": "Here\u2019s why alcohol-free mouthwash is becoming a popular choice for daily oral care",
-      "description": "Alcohol-free mouthwash can provide a more comfortable experience than alcohol-based formulas, especially for children and adults with sensitive mouths, dry mouth or irritated oral tissues. Saliva helps neutralize acids and wash away food particles. Alcohol-fr\u2026",
-      "url": "https://www.naturalnews.com/2026-10-06-no-alcohol-mouthwash-popular-choice-oral-care.html",
-      "source": "Naturalnews.com",
-      "date": "2026-10-06",
-      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/Mouthwash-Mouth-Wash-Bottle-Pouring-Liquid-Person.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Vedanta shares jump 3% as firm fixes record date for first dividend after demerger. What to expect?",
-      "description": "Vedanta shares rose over 3% after the company set October 14 as the record date for its first FY27 interim dividend, subject to board approval on October 8. The payout will be the first since Vedanta\u2019s demerger into five entities. Analysts expect dividends to\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-shares-jump-3-as-firm-fixes-record-date-for-first-dividend-after-demerger-what-to-expect/articleshow/134723226.cms",
-      "source": "The Times of India",
-      "date": "2026-10-06",
-      "image": "https://img.etimg.com/thumb/msid-134723281,width-1200,height-900,imgsize-2603964,overlay-etmarkets/articleshow.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Gold inches lower as firmer dollar, higher yields weigh",
-      "description": "Gold eases as firm dollar and higher yields weigh, with limited losses from easing rate-hike bets and geopolitics in the Middle East.",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-inches-lower-as-firmer-dollar-higher-yields-weigh/article71549943.ece",
+      "title": "RBI MPC Meeting Oct 2026 Highlights: RBI MPC hikes repo rate by 25 bps to 5.5%, changes stance to 'calibrated tightening'",
+      "description": "RBI Monetary Policy Meeting Oct 7, Highlights: Find here all the highlgihts related to the RBI Monetary Policy Committee meeting, repo rate, policy stance, inflation, GDP forecast and Governor Sanjay Malhotra\u2019s address for 7 October 2026.",
+      "url": "https://www.thehindubusinessline.com/money-and-banking/rbi-monetary-policy-committee-mpc-meeting-octobe-7-2026-highlights-updates/article71551632.ece",
       "source": "BusinessLine",
-      "date": "2026-10-06",
-      "image": "https://bl-i.thgim.com/public/incoming/ktippt/article71549955.ece/alternates/LANDSCAPE_1200/Bullion-Cues_-SGTRG513NS.4.jpg.jpg",
+      "date": "2026-10-07",
+      "image": "https://bl-i.thgim.com/public/incoming/b5lll9/article71554181.ece/alternates/LANDSCAPE_1200/2025-01-10T064647Z_2013019398_RC2YMBAF9XLP_RTRMADP_3_INDIA-MARKETS-RUPEE.JPG",
+      "category": "central_bank"
+    },
+    {
+      "title": "Osisko Intersects 94 Metres Averaging 1.47% Cu at Gasp\u00e9",
+      "description": "Includes 5.3 Metres Averaging 8.31% Cu and 51.0 g/t Ag MONTR\u00c9AL, Oct. 07, 2026 (GLOBE NEWSWIRE) \u2014 Osisko Metals Incorporated (the \u201cCompany\u201d or \u201cOsisko Metals\u201d) (TSX: OM; OTCQX: OMZNF; FRANKFURT: 0B51) is pleased to announce additional new analytical results f\u2026",
+      "url": "https://financialpost.com/globe-newswire/osisko-intersects-94-metres-averaging-1-47-cu-at-gaspe",
+      "source": "Financial Post",
+      "date": "2026-10-07",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/10/20261007-osisko-metals-news-release-figure-1-plan-view.jpeg",
+      "category": "market"
+    },
+    {
+      "title": "Triple Flag Announces Strong Revenue in Q3 2026 and First Deliveries from Ravenswood",
+      "description": "TORONTO \u2014 Triple Flag Precious Metals Corp. (with its subsidiaries, \u201cTriple Flag\u201d or the \u201cCompany\u201d) (TSX: TFPM, NYSE: TFPM) announced revenue of US$106.7 million for the third quarter of 2026 from quarterly metal sales of 25,030 gold equivalent ounces (\u201cGEOs\u201d\u2026",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/triple-flag-announces-strong-revenue-in-q3-2026-and-first-deliveries-from-ravenswood",
+      "source": "Financial Post",
+      "date": "2026-10-07",
+      "image": null,
+      "category": "metals"
+    },
+    {
+      "title": "Generation Mining Provides Update on Regional Exploration Program",
+      "description": "TORONTO \u2014 Generation Mining Limited (TSX: GENM) (OTCQB: GENMF) (\u201cGen Mining\u201d or the \u201cCompany\u201d) is pleased to provide an update on its 2026 summer exploration program, which included regional soil sampling, geological mapping and prospecting, and the identific\u2026",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/generation-mining-provides-update-on-regional-exploration-program",
+      "source": "Financial Post",
+      "date": "2026-10-07",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/10/bw20261007013675_generation_figure1.jpeg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Gold prices dip Rs 1,500/10 grams; silver down Rs 1,600/kg ahead of Fed minutes. Key levels to track",
+      "description": "Gold and silver prices fell on the Multi Commodity Exchange as traders anticipated crucial insights from the US Federal Reserve's September meeting minutes. While optimism for an October rate hike has waned, December remains on the table. Analysts have outlin\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-dip-rs-1500/10-grams-silver-down-rs-1600/kg-ahead-of-fed-minutes-key-levels-to-track/articleshow/134755973.cms",
+      "source": "The Times of India",
+      "date": "2026-10-07",
+      "image": "https://img.etimg.com/thumb/msid-134756045,width-1200,height-900,imgsize-72888,overlay-etmarkets/articleshow.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Gold flat as focus turns to Fed minutes",
+      "description": "Gold prices remained steady as market participants look forward to insights from the Federal Reserve's upcoming meeting minutes. Spot gold hovered at $4,159.62 per ounce, while December futures were valued at $4,187.30. Amid ongoing inflation and recent slugg\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-flat-as-focus-turns-to-fed-minutes/articleshow/134753704.cms",
+      "source": "The Times of India",
+      "date": "2026-10-07",
+      "image": "https://img.etimg.com/thumb/msid-134753728,width-1200,height-900,imgsize-202484,overlay-etmarkets/articleshow.jpg",
       "category": "geopolitics"
     },
     {
-      "title": "Thomas Rhett Signs Blue Highway Deal, HARDY Inks TRIPPP & More",
-      "description": "Thomas Rhett signed a new deal with Blue Highway Records, HARDY inked brother trio TRIPPP to his new country label and more artist signings.",
-      "url": "http://www.billboard.com/lists/blake-whiten-caa-ruby-rose-turner-atlantic-signings/",
-      "source": "Billboard",
-      "date": "2026-10-06",
-      "image": "https://www.billboard.com/wp-content/uploads/2026/10/TRIPPP-Tanner-Gallagher-billboard-1800.jpg?w=1024",
+      "title": "Observation of relativistic bond weakening in seaborgium hexacarbonyl",
+      "description": "Gas chromatography analysis of compounds formed by the superheavy element seaborgium shows that the hexacarbonyl complex Sg(CO)6 exhibits lower first bond dissociation energy than the lighter chemical&nbsp;homologue W(CO)6, owing to relativistic bond weakenin\u2026",
+      "url": "https://www.nature.com/articles/s41586-026-11105-2",
+      "source": "Nature.com",
+      "date": "2026-10-07",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11105-2/MediaObjects/41586_2026_11105_Fig1_HTML.png",
       "category": "market"
     },
     {
-      "title": "\u2018East of Eden\u2019 Scores 6.5 Million Views in Opening Week and Sparks \u201cNetflix Effect\u201d on Book Sales",
-      "description": "Florence Pugh's prestige adaptation of 'East of Eden' has hit the ground running for a prestige period drama. Here's how it's performing in week 1.",
-      "url": "https://www.whats-on-netflix.com/news/east-of-eden-netflix-opening-weekend-views-analysis/",
-      "source": "What's on Netflix",
-      "date": "2026-10-06",
-      "image": "https://www.whats-on-netflix.com/wp-content/uploads/2026/10/east-of-eden-netflix-top-10s-first-week.jpg",
+      "title": "Just 12 days left to enter the \u00a320,000 Content London Pitch Competition \u2013 submit your project now",
+      "description": "The deadline to enter the 2026 Content London Pitch Competition is Monday October 19 at 23.59 BST. For more information about the competition and to submit your project, CLICK HERE. Content London take...",
+      "url": "https://www.c21media.net/department/marketing/just-12-days-left-to-enter-the-content-london-20000-pitch-competition-submit-your-project-now/",
+      "source": "C21media.net",
+      "date": "2026-10-07",
+      "image": "https://cdn.c21media.net/wp-content/uploads/2027/08/london-pitch-social-feat.jpg",
       "category": "market"
     },
     {
-      "title": "The secret to this ravioli company's success? A 100-year-old #pasta machine. #smallbusiness",
-      "description": "Business Insider is a global newsroom covering business, technology, innovation, and the economy. Visit our homepage for the ...",
-      "url": "https://biztoc.com/x/a27d2ce4d3a824a3",
+      "title": "Two Decades On, Politkovskaya's Daughter Says Little Has Changed In Russia Since Her Mother's Murder",
+      "description": "Two decades after the murder of Anna Politkovskaya, a tenacious investigative reporter who exposed the brutality of Russia's war in Chechnya and documented how President Vladimir Putin curtailed democracy in Russia, her daughter Vera says little has changed i\u2026",
+      "url": "https://www.rferl.org/a/politkovskaya-russia-murder-anniversary/33872006.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "date": "2026-10-07",
+      "image": "https://gdb.rferl.org/5A4B6A57-2B8A-4A6D-AA04-383968186598_cx0_cy3_cw0_w1200_h630.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Evaluating the Health Outcomes of Drug-Drug Interactions in Pharmacoepidemiology: Twice the Fun (or more!)",
+      "description": "Katsiaryna Bykov, PharmD, ScD, FISPE Assistant Professor of Medicine at the Division of Pharmacoepidemiology and Pharmacoeconomics at Brigham and Women\u2019s Hospital and Harvard Medical School WHEN: Monday, October\u00a026, 2026, from 3:00-4:00 p.m.\u00a0 WHERE: Hybrid | \u2026",
+      "url": "https://www.mcgill.ca/spgh/channels/event/evaluating-health-outcomes-drug-drug-interactions-pharmacoepidemiology-twice-fun-or-more-374770",
+      "source": "McGill Newsroom",
+      "date": "2026-10-07",
+      "image": "https://www.mcgill.ca/sites/all/themes/moriarty/images/mcgill_crest.png",
+      "category": "market"
+    },
+    {
+      "title": "India's first bank rate hike since 2023 signals growing inflation concerns",
+      "description": "The hike reflects a global shift towards tighter monetary policy as central banks battle inflation fuelled by Middle East conflict.",
+      "url": "https://www.bbc.co.uk/news/articles/c5j9kngz3j1go",
+      "source": "BBC News",
+      "date": "2026-10-07",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3ce3/live/45771df0-c207-11f1-b488-75e728293e20.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Kenya must be 'clean' to be credible, says Wada chief",
+      "description": "Wada president Witold Banka says Kenya must strengthen testing, investigations and anti-doping enforcement before hosting the 2029 World Athletics Championships.",
+      "url": "https://www.bbc.com/sport/olympics/articles/c9kgj0vj0gx4o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "source": "BBC News",
+      "date": "2026-10-07",
+      "image": "https://s.yimg.com/lo/mysterio/api/2c8ecf9a8fe6223d35e1a34d2217612dc5b77c38cb03546e5b320b650927bc6b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F769453686223862c6081f0d9ce8ac79b.png",
+      "category": "market"
+    },
+    {
+      "title": "IMF chief urges governments to tighten belts as global debt levels soar",
+      "description": "Kristalina Georgieva says big economies will have to make \u2018very touch choices\u2019 as soaring bond yields hit budgets\nBusiness live \u2013 latest updates\nThe head of the International Monetary Fund has called on governments across big economies to tighten their belts \u2026",
+      "url": "https://biztoc.com/x/afdc5dce0ba7ce24",
       "source": "Biztoc.com",
-      "date": "2026-10-06",
-      "image": "https://biztoc.com/cdn/a27d2ce4d3a824a3_s.webp",
+      "date": "2026-10-07",
+      "image": "https://biztoc.com/cdn/afdc5dce0ba7ce24_s.webp",
+      "category": "central_bank"
+    },
+    {
+      "title": "The Future of Health Equity Depends on Who Holds Power. By Shubha Nagesh and Nandita Thatte",
+      "description": "The Future of Health Equity Depends on Who Holds Power. By Shubha Nagesh and Nandita Thattebmj.com",
+      "url": "https://blogs.bmj.com/bmjleader/2026/10/07/the-future-of-health-equity-depends-on-who-holds-power-by-shubha-nagesh-and-nandita-thatte/",
+      "source": "The BMJ",
+      "date": "2026-10-07",
+      "image": "http://blogs.bmj.com/bmjleader/files/2026/09/Nagesh_Shubha-200x300.jpg",
       "category": "market"
     },
     {
-      "title": "Why banks and offshore hubs like Dubai are winners of the Senate killing the Clarity Act",
-      "description": "One expert believes that the failure to pass the bill is a win for the banks that staunchly oppose stablecoin yields, while a global crypto lawyer believes overseas jurisdictions benefit. U.S. banks and overseas crypto hubs such as the United Arab Emirates (U\u2026",
-      "url": "https://activistpost.com/why-banks-and-offshore-hubs-like-dubai-are-winners-of-the-senate-killing-the-clarity-act/",
-      "source": "Activistpost.com",
-      "date": "2026-10-06",
+      "title": "A Massive Study Found This Daily Ritual Improves Mood Almost Instantly",
+      "description": "A massive global study backs a popular practice\u2014but the details matter.",
+      "url": "https://www.mindbodygreen.com/articles/global-study-validates-popular-wellness-practice-with-caveat-about-the-study",
+      "source": "mindbodygreen.com",
+      "date": "2026-10-07",
+      "image": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/l6dfd0t98kfpj0wbf.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Trump\u2019s \u2018Monster\u2019: 5 Wildest Revelations From WSJ\u2019s Bombshell Scott Bessent Report",
+      "description": "Bessent disputed some of the incidents but the report, based on interviews with current and former officials, contains no shortage of striking moments.\nThe post Trump\u2019s \u2018Monster\u2019: 5 Wildest Revelations From WSJ\u2019s Bombshell Scott Bessent Report first appeared \u2026",
+      "url": "https://www.mediaite.com/media/news/trumps-monster-5-wildest-revelations-from-wsjs-bombshell-scott-bessent-report/",
+      "source": "Mediaite",
+      "date": "2026-10-07",
+      "image": "https://www.mediaite.com/wp-content/uploads/2026/07/bessent.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Third Coast Bancshares, Inc. and Great Plains Bancshares, Inc. Announce Definitive Merger Agreement",
+      "description": "Once Completed, Combined Total Assets to Exceed $9 Billion HOUSTON and OKLAHOMA CITY, Oct. 7, 2026 /PRNewswire/ -- Third Coast Bancshares, Inc. (\"Third Coast\") (NYSE & NYSE Texas: TCBX), the parent company of Third Coast Bank, and Great Plains Bancshares, Inc\u2026",
+      "url": "https://www.prnewswire.com/news-releases/third-coast-bancshares-inc-and-great-plains-bancshares-inc-announce-definitive-merger-agreement-302900499.html",
+      "source": "PRNewswire",
+      "date": "2026-10-07",
       "image": null,
       "category": "market"
     },
     {
-      "title": "How David Jones, Canva and others are putting agentic AI to work",
-      "description": "Meet around 600 customers, prospects and partners for two days focused on automation, integration and the growing role of agentic AI in enterprise operations.",
-      "url": "https://www.itnews.com.au/feature/how-david-jones-canva-and-others-are-putting-agentic-ai-to-work-629378",
-      "source": "iTnews",
-      "date": "2026-10-06",
-      "image": "https://i.nextmedia.com.au/Features/Screenshot_2026-10-02_103621.png",
+      "title": "A Mysterious Nonprofit Run by SpaceXAI\u2019s Top Lawyer Is Paying the Salaries of Government Workers",
+      "description": "The National Design Studio has been something of a successor agency to DOGE. A WIRED investigation finds some of its members are on loan from a nonprofit run by SpaceXAI\u2019s general counsel.",
+      "url": "https://www.wired.com/story/mysterious-nonprofit-spacexai-national-design-studio-elon-musk-doge/",
+      "source": "Wired",
+      "date": "2026-10-07",
+      "image": "https://media.wired.com/photos/6abd22d799edf0dddca3a314/191:100/w_1280,c_limit/Politics_Elon%20Musk%E2%80%99s%20Top%20Lawyer%20Is%20Stocking%20the%20Government%20with%20Employees%20from%20a%20Shadowy%20Nonprofit_v2.jpg",
       "category": "market"
     },
     {
-      "title": "How to watch Argentina vs Benin in USA: 2026 International Friendly, Live Stream, TV and Preview",
-      "description": "In the last international game of Lionel Messi, Argentina faces Benin in an international friendly. Here is all the information on how to watch Messi's farewell match live in the United States. \nHere are all of the details of where you can watch Argentina vs \u2026",
-      "url": "https://worldsoccertalk.com/watch-on-us-tv/how-to-watch-argentina-vs-benin-in-the-usa-live-stream-and-tv-for-international-friendly-2026/",
-      "source": "Worldsoccertalk.com",
-      "date": "2026-10-06",
-      "image": "https://media.worldsoccertalk.com/wp-content/uploads/sites/6/2026/10/05211135/Argentina-captain-Lionel-Messi-1200x740.webp",
-      "category": "market"
-    },
-    {
-      "title": "Is the West\u2019s 100-Year Venezuela Oil Bet About To Backfire?",
-      "description": "Centuries ago, the untamed jungles of Venezuela\u2019s Orinoco Basin helped power the myth of El Dorado, a city made entirely of gold. But for the new adventurers staking a claim in the country\u2019s black gold instead, there is no myth involved, but rather the world\u2019\u2026",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Is-the-Wests-100-Year-Venezuela-Oil-Bet-About-To-Backfire.html",
-      "source": "OilPrice.com",
-      "date": "2026-10-06",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-06_iyof20341b.jpg",
-      "category": "metals"
+      "title": "US Futures Edge Lower Ahead of FOMC Minutes as Constellation Brands Reports Results: Dow Jones, S&P, Nasdaq, Wall Street",
+      "description": "US Futures Edge Lower Ahead of FOMC Minutes as Constellation Brands Reports Results: Dow Jones, S&P, Nasdaq, Wall Street\nUS stock futures moved slightly lower on Wednesday as investors awaited minutes from the Federal Reserve's September policy meeting, while\u2026",
+      "url": "https://biztoc.com/x/69f79267c2b6f80e",
+      "source": "Biztoc.com",
+      "date": "2026-10-07",
+      "image": "https://biztoc.com/cdn/69f79267c2b6f80e_s.webp",
+      "category": "central_bank"
     }
   ],
   "history": [
@@ -509,17 +508,17 @@
       "platinum_usd_oz": 1701.72
     },
     {
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "week": "2026-W41",
-      "gold_10g": 127420.27,
-      "silver_kg": 185422.21,
-      "platinum_g": 5076.32,
-      "gold_usd_oz": 4108.36,
-      "silver_usd_oz": 59.78,
-      "platinum_usd_oz": 1636.74
+      "gold_10g": 128175.91,
+      "silver_kg": 182818.02,
+      "platinum_g": 5128.02,
+      "gold_usd_oz": 4117.07,
+      "silver_usd_oz": 58.72,
+      "platinum_usd_oz": 1647.14
     }
   ],
-  "timestamp": "2026-10-08T00:33:02.171873+05:30",
+  "timestamp": "2026-10-08T16:17:32.220157+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
