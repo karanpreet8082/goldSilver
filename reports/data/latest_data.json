@@ -54,7 +54,7 @@
         "hold": 50
       },
       "summary": "Gold is showing positive signals. Strong daily gain of 1.1%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-09T13:33:57.132991",
+      "timestamp": "2026-10-09T16:25:30.163971",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 50
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 1.8%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-09T13:33:57.244234",
+      "timestamp": "2026-10-09T16:25:30.224914",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 50
       },
       "summary": "Platinum is showing positive signals. Strong daily gain of 2.1%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-09T13:33:57.357037",
+      "timestamp": "2026-10-09T16:25:30.283234",
       "source": "rule-based"
     }
   },
@@ -134,6 +134,24 @@
     }
   },
   "news": [
+    {
+      "title": "Poonawalla Fincorp Q2 Results: Profit skyrockets 407% YoY to Rs 375 crore, NII rises 81%",
+      "description": "Poonawalla Fincorp reported a 407% year-on-year surge in Q2FY27 profit to Rs 375 crore, while net interest income rose 81%. Operating profit more than doubled, supported by business growth, improving asset quality and an expanded gold loan network.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/poonawalla-fincorp-q2-results-profit-skyrockets-407-yoy-to-rs-375-crore-nii-rises-81/articleshow/134835689.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-10-09",
+      "image": "",
+      "category": "metals"
+    },
+    {
+      "title": "Half of India\u2019s MTF book is in smallcaps; Nithin Kamath flags liquidity risks",
+      "description": "Zerodha founder Nithin Kamath warned that small and microcap stocks account for a substantial share of India\u2019s margin trading facility book. He highlighted liquidity risks during market downturns, when smaller stocks may face sharper selling pressure.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/half-of-indias-mtf-book-is-in-smallcaps-nithin-kamath-flags-liquidity-risks/articleshow/134835308.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-10-09",
+      "image": "",
+      "category": "geopolitics"
+    },
     {
       "title": "ET Alpha Wealth Summit 2.0 | SIFs, passive funds and GIFT City: How India's wealth portfolios are evolving, says Tata AMC's Anand Vardarajan",
       "description": "Tata Asset Management CEO Anand Vardarajan highlights how passive funds, SIFs and GIFT City are reshaping wealth management. He advocates combining active and passive strategies while monitoring global yields, inflation and valuations to build diversified portfolios.",
@@ -198,6 +216,51 @@
       "category": "platinum"
     },
     {
+      "title": "The fearsome paymasters, childhood tragedy and hunts for gold that made Khaldoon Al Mubarak the UAE's ruthless power-broker - and the seismic stakes back home that mean he cannot afford to lose Man City case",
+      "description": "When John W Henry first set foot inside Anfield, he said financial sustainability rules were necessary as 'I don't have \"Sheikh\" in front of my name.' He didn't count on his biggest rival having no such title at all.",
+      "url": "https://www.dailymail.com/sport/football/article-16192495/Khaldoon-Al-Mubarak-Manchester-City-UAE.html",
+      "source": "Dailymail.com",
+      "date": "2026-10-08",
+      "image": "https://i.dailymail.com/1s/2026/10/08/16/111734797-0-image-a-37_1791473056834.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "December hearing for women's team pursuit discrimination complaint against Cycling Canada",
+      "description": "Ontario's Human Rights Tribunal has granted a hearing to five women who contend Cycling Canada's decision to not enter a women's track pursuit team in the world championships was discriminatory.",
+      "url": "https://www.cbc.ca/sports/olympics/summer/cycling/track/cycling-canada-womens-team-pursuit-discrimination-hearing-9.7373937",
+      "source": "CBC News",
+      "date": "2026-10-08",
+      "image": "https://i.cbc.ca/ais/0e0a395a-7101-4b28-977e-af194b9c3253,1791469109831/full/max/0/default.jpg?im=Crop%2Crect%3D%2820%2C0%2C1139%2C640%29%3BResize%3D620",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Announcements from the Microsoft Fabric Community Conference \u2014 Barcelona 2026",
+      "description": "Microsoft shared a broad set of Fabric, Power BI, and SQL updates at FabCon and SQLCon Barcelona 2026, with approximately 5,000 attendees at the conference. I\u2019ve tried to make...\nThe post Announcements from the Microsoft Fabric Community Conference \u2014 Barcelon\u2026",
+      "url": "https://www.jamesserra.com/archive/2026/10/announcements-from-the-microsoft-fabric-community-conference-barcelona-2026/",
+      "source": "Jamesserra.com",
+      "date": "2026-10-08",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "Six arrested in separate chain-snatching and mobile robbery cases in Chennai",
+      "description": "Chennai police arrested six men and detained a juvenile in chain-snatching and mobile robbery cases in Puzhal, Arumbakkam and RK Nagar; gold chain, phones recovered.",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/six-arrested-in-separate-chain-snatching-and-mobile-robbery-cases-in-chennai/articleshow/134793803.cms",
+      "source": "The Times of India",
+      "date": "2026-10-08",
+      "image": "https://static.toiimg.com/thumb/msid-134793802,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "Brazil\u2019s racket society",
+      "description": "As Bolsonarismo outlives Bolsonaro, what does Brazil reveal about where politics everywhere is heading?",
+      "url": "https://africasacountry.com/2026/10/brazils-racket-society",
+      "source": "Africasacountry.com",
+      "date": "2026-10-08",
+      "image": "https://media.africasacountry.com/images/2026/10/116931264452.jpg",
+      "category": "market"
+    },
+    {
       "title": "In 1944, Howard Aiken and IBM engineers completed Harvard's Mark I, a 51-foot-long calculator that handled wartime calculations for the US Navy",
       "description": "In 1944, Harvard's Mark I emerged as a revolutionary 10,000-pound calculator for the U.S. Navy, pivotal in military operations such as ballistics during World War II. Grace Hopper notably influenced its functionality and pioneered the COBOL programming langua\u2026",
       "url": "https://economictimes.indiatimes.com/news/international/us/in-1944-howard-aiken-and-ibm-engineers-built-harvards-mark-i-a-51-foot-long-calculator-with-1400-switches-that-helped-the-us-navy-solve-wartime-calculations/articleshow/134782453.cms",
@@ -225,30 +288,21 @@
       "category": "central_bank"
     },
     {
-      "title": "Dollar Reset 2.0: Stablecoins, Treasury Bills and the Case for Public Banks",
-      "description": "Washington\u2019s stablecoin strategy could shore up the dollar by making U.S. Treasury bills the backing for a new digital currency. \nBut who gets the interest, and who will make the loans?\nFor several years, \u201cthe death of the dollar\u201d has \u2026\nThe post Dollar Reset \u2026",
-      "url": "https://www.globalresearch.ca/dollar-reset-stablecoins-treasury-bills-public-banks/5943070",
-      "source": "Globalresearch.ca",
+      "title": "Latin Metals Reports Partner-Funded Phase II Drilling Underway at Cerro Bayo and Initial Drilling at La Flora",
+      "description": "VANCOUVER, British Columbia, Oct. 08, 2026 (GLOBE NEWSWIRE) \u2014 Latin Metals Inc. (\u201cLatin Metals\u201d or the \u201cCompany\u201d) \u2013 (TSXV: LMS and OTCQB:\u00a0LMSQF) is pleased to report that its option partner, Daura Gold Corp. (\u201cDaura\u201d), has commenced Phase II diamond drilling \u2026",
+      "url": "https://financialpost.com/globe-newswire/latin-metals-reports-partner-funded-phase-ii-drilling-underway-at-cerro-bayo-and-initial-drilling-at-la-flora",
+      "source": "Financial Post",
       "date": "2026-10-08",
-      "image": "https://www.globalresearch.ca/wp-content/uploads/2026/10/digital-dollar-drain.jpeg",
-      "category": "currency"
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/10/la-flora.jpeg",
+      "category": "metals"
     },
     {
-      "title": "The Unconventional Route to Fusion Power Just Hit a World First",
-      "description": "VANCOUVER, BC, Oct. 8, 2026 /PRNewswire/ -- American News Group News Commentary - General Fusion, the first publicly listed fusion energy company, has reached a world-first milestone by taking a road most of the fusion industry did not. Instead of the superco\u2026",
-      "url": "https://www.prnewswire.com/news-releases/the-unconventional-route-to-fusion-power-just-hit-a-world-first-302901973.html",
-      "source": "PRNewswire",
+      "title": "Cartier Countdown to Holiday Deals at eBay: Up to 30% off + extra 20% off + free shipping",
+      "description": "At eBay, use promo code \"COUNTDOWN20\" to get an extra 20% off on a selection of Cartier fine jewelry and watches, including a large selection of pre-owned Cartier items like the Love bracelet, Tank watches, and Santos models. It's the best extra discount we'v\u2026",
+      "url": "https://www.dealnews.com/Cartier-Countdown-to-Holiday-Deals-at-eBay-Up-to-30-off-extra-20-off-free-shipping/22264464.html",
+      "source": "Dealnews.com",
       "date": "2026-10-08",
-      "image": "https://mmx.prnewswire.com/media/MS1842436/American-News-Group-Logo.jpg?id=OA2994193&p=facebook",
-      "category": "market"
-    },
-    {
-      "title": "Who decides what Africa is worth?",
-      "description": "African countries could save up to $74.5 billion if sovereign ratings were based on less subjective assessments Read Full Article at RT.com",
-      "url": "https://www.rt.com/africa/646928-african-union-launches-africa-credit-rating-agency/",
-      "source": "RT",
-      "date": "2026-10-08",
-      "image": "https://mf.b37mrtl.ru/files/2026.10/article/6ac781bd20302711ac6aaafb.jpg",
+      "image": "https://d.dlnws.com/64599/1791462721-product-trimmed.jpg?h=1024&w=615",
       "category": "market"
     },
     {
@@ -259,24 +313,6 @@
       "date": "2026-10-08",
       "image": null,
       "category": "supply_demand"
-    },
-    {
-      "title": "The second coming: From credit roots, Shriram Group now eyes an equities empire",
-      "description": "Beyond truck loans and balance sheets, Shriram Group is chasing India\u2019s retail investing boom. Can an 89-year-old founder's legacy and a high-touch ground network beat Silicon Valley-style discount apps? We take a deep dive into the conglomerate\u2019s high-stakes\u2026",
-      "url": "https://www.livemint.com/companies/news/shriram-group-capital-markets-wealth-management-strategy-11791450226425.html",
-      "source": "Livemint",
-      "date": "2026-10-08",
-      "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/logo/Shriram_lead_image__1791450569639_bFwX_17914505882_1791450637879_ASuS_1791450638103_ts7m_b9e0c1dc-13fa-4bd2-b60c-ff09c08ffae4_A3wy.jpeg",
-      "category": "market"
-    },
-    {
-      "title": "Cartier Countdown to Holiday Deals at eBay: Up to 30% off + extra 20% off + free shipping",
-      "description": "At eBay, use promo code \"COUNTDOWN20\" to get an extra 20% off on a selection of Cartier fine jewelry and watches, including a large selection of pre-owned Cartier items like the Love bracelet, Tank watches, and Santos models. It's the best extra discount we'v\u2026",
-      "url": "https://www.dealnews.com/Cartier-Countdown-to-Holiday-Deals-at-eBay-Up-to-30-off-extra-20-off-free-shipping/22264464.html",
-      "source": "Dealnews.com",
-      "date": "2026-10-08",
-      "image": "https://d.dlnws.com/64599/1791462721-product-trimmed.jpg?h=1024&w=615",
-      "category": "market"
     },
     {
       "title": "K2 Extends Dragonfly Structure and Identifies Additional High-Grade Gold at Flores Target",
@@ -324,85 +360,49 @@
       "category": "market"
     },
     {
-      "title": "Vedanta announces first dividend since demerger at \u20b95/share; stock down 2%",
-      "description": "Vedanta announced a dividend of \u20b95 per share today, with the record date set for Wednesday, October 14.",
-      "url": "https://www.business-standard.com/markets/news/vedanta-dividend-first-payout-since-demerger-at-5-share-stock-down-2-percent-126100800627_1.html",
-      "source": "Business Standard",
+      "title": "IMF warns tokenized markets could amplify financial risks",
+      "description": "Tokenized assets reached $65 billion in July, led by credit products, as an IMF report highlights adoption barriers, settlement challenges and growing investor demand.",
+      "url": "https://cointelegraph.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow",
+      "source": "Cointelegraph",
       "date": "2026-10-08",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-11/25/thumb/fitandfill/1200X628/1732520597-9698.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Saudi, UAE join Japan-led push to bolster Asian oil buffers",
-      "description": "Saudi Arabia and the United Arab Emirates are joining Japan's efforts to strengthen oil supply security in Southeast Asia. This collaboration comes in response to supply disruptions caused by ongoing conflicts in the Middle East. Japan has committed $10 billi\u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/saudi-uae-join-japan-led-push-to-bolster-asian-oil-buffers/articleshow/134792155.cms",
-      "source": "The Times of India",
-      "date": "2026-10-08",
-      "image": "https://img.etimg.com/thumb/msid-134792275,width-1200,height-900,imgsize-200988,overlay-economictimes/articleshow.jpg",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4E33RFBJJSYXE4M7F92S5P1/hi-imf-and-blockchain.png",
       "category": "geopolitics"
     },
     {
-      "title": "US futures head lower after explosions in Riyadh send crude prices up",
-      "description": "Rising oil prices have intensified inflationary pressures globally, including the U.S.",
-      "url": "https://wirehub.medianewsgroup.com/2026/10/08/us-futures-head-lower-after-explosions-in-saudi-capital-send-crude-prices-racing-higher/",
-      "source": "Medianewsgroup.com",
-      "date": "2026-10-08",
-      "image": "https://www.bostonherald.com/wp-content/uploads/2026/10/Financial_Markets_78_73_3a2639.jpg?w=2000&h=1333",
-      "category": "inflation"
-    },
-    {
-      "title": "The Witcher 3: Wild Hunt \u2013 Remastered Patch Adds Bloom Toggles on Console and Larger Lighting Changes",
-      "description": "The Witcher 3: Wild Hunt \u2013 Remastered just got a significant update to tweak the presentation of CD Projekt\u2019s RPG epic. Check out the patch notes.",
-      "url": "https://www.ign.com/articles/bloom-toggle-console-the-witcher-3-remastered",
-      "source": "IGN",
-      "date": "2026-10-08",
-      "image": "https://assets-prd.ignimgs.com/2026/09/25/witcher3-firstminsoo-1790354351574.png?width=1280&format=jpg&auto=webp&quality=80",
-      "category": "market"
-    },
-    {
-      "title": "UN Human Rights Council 63: UK Explanation of Vote on the draft resolution on Rhetoric to Reality",
-      "description": "UK Explanation of Vote on the draft resolution \"From rhetoric to reality: a global call for concrete action against racism, racial discrimination, xenophobia and related intolerance\". Delivered by the UK's Permanent Representative to the WTO and UN, Kumar Iye\u2026",
-      "url": "https://www.gov.uk/government/speeches/un-human-rights-council-63-uk-explanation-of-vote-on-the-draft-resolution-on-rhetoric-to-reality",
+      "title": "\"You cannot wait us out\" Miliband tells Putin during first visit to Ukraine as Foreign Secretary",
+      "description": "Ed Miliband reaffirms UK's unwavering backing for Ukraine on first visit as Foreign Secretary as he meets both President Zelenskyy and Foreign Minister Andrii Sybiha.",
+      "url": "https://www.gov.uk/government/news/you-cannot-wait-us-out-miliband-tells-putin-during-first-visit-to-ukraine-as-foreign-secretary",
       "source": "Www.gov.uk",
       "date": "2026-10-08",
       "image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
       "category": "market"
     },
     {
-      "title": "Solana Foundation says the network is secure against quantum threats",
-      "description": "Solana's proactive quantum threat measures could set a precedent for blockchain security, influencing industry standards and user trust.\nThe post Solana Foundation says the network is secure against quantum threats appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/solana-foundation-quantum-security-assurance/",
-      "source": "Crypto Briefing",
+      "title": "Fox News \u2018Antisemitism Exposed\u2019 Newsletter: Deranged Israel haters mark Oct. 7 with pro-Hamas protests",
+      "description": "Fox News' \"Antisemitism Exposed\" newsletter brings you stories on the rising anti-Jewish prejudice across the U.S. and the world.",
+      "url": "https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-putting-piker-his-place",
+      "source": "Fox News",
       "date": "2026-10-08",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/08093156/library-solana-foundation-says-the-network-is-secure-against-qua-800x450.png",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/mamdani-israel-candlelight-vigil-protest.png",
       "category": "market"
     },
     {
-      "title": "Texas Looks Competitive",
-      "description": "Plus: AI weirdness, Amazon algorithm data, bond markets, and more...",
-      "url": "https://reason.com/2026/10/08/texas-looks-competitive/",
-      "source": "Reason",
+      "title": "New | phs004777.v1.p1 | Global Health Centers of Excellence-Argentina Cardiovascular Health (GHCoE Argentina Cardiovascular-BioLINCC)",
+      "description": "Global Health Centers of Excellence-Argentina Cardiovascular Health (GHCoE Argentina Cardiovascular-BioLINCC) (study page\r\n | release notes\r\n)",
+      "url": "https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs004777.v1.p1",
+      "source": "National Institutes of Health",
       "date": "2026-10-08",
-      "image": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/10/Gina-H.jpg",
+      "image": null,
       "category": "market"
     },
     {
-      "title": "WTO revises 2026 global goods trade estimate up to 3.9%",
-      "description": "The World Trade Organization (WTO) posted the latest version of its Global Trade Outlook and Statistics report on Thursday, upgrading the 2026 merchandise trade volume growth expectations to 3.9% from...",
-      "url": "https://biztoc.com/x/11d2822c85dbe8bb",
-      "source": "Biztoc.com",
+      "title": "New | phs004776.v1.p1 | Global Health Centers of Excellence-New Delhi (GHCoE New Delhi-BioLINCC)",
+      "description": "Global Health Centers of Excellence-New Delhi (GHCoE New Delhi-BioLINCC) (study page\r\n | release notes\r\n)",
+      "url": "https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs004776.v1.p1",
+      "source": "National Institutes of Health",
       "date": "2026-10-08",
-      "image": "https://biztoc.com/cdn/11d2822c85dbe8bb_s.webp",
+      "image": null,
       "category": "market"
-    },
-    {
-      "title": "Medium-term borrowing costs for UK government hit 19-year high",
-      "description": "Investors offload global bonds amid fears of rising inflation, increasing pressure on John Healey ahead of first budget\nBusiness live \u2013 latest updates\nMedium-term borrowing costs for the UK government hit a fresh 19-year high on Thursday, as investors continu\u2026",
-      "url": "https://biztoc.com/x/f8b628c6fe4baaee",
-      "source": "Biztoc.com",
-      "date": "2026-10-08",
-      "image": "https://biztoc.com/cdn/f8b628c6fe4baaee_s.webp",
-      "category": "inflation"
     }
   ],
   "history": [
@@ -517,7 +517,7 @@
       "platinum_usd_oz": 1681.4
     }
   ],
-  "timestamp": "2026-10-09T19:03:57.369507+05:30",
+  "timestamp": "2026-10-09T21:55:30.290086+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
