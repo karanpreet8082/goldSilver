@@ -54,7 +54,7 @@
         "hold": 50
       },
       "summary": "Gold is showing positive signals. Strong daily gain of 1.1%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-09T10:46:35.433954",
+      "timestamp": "2026-10-09T13:33:57.132991",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 50
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 1.8%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-09T10:46:35.576279",
+      "timestamp": "2026-10-09T13:33:57.244234",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 50
       },
       "summary": "Platinum is showing positive signals. Strong daily gain of 2.1%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-09T10:46:35.667955",
+      "timestamp": "2026-10-09T13:33:57.357037",
       "source": "rule-based"
     }
   },
@@ -135,22 +135,31 @@
   },
   "news": [
     {
-      "title": "Global Market: Foreign investors pull $23.5 billion from Asian equities in September as US yields surge",
-      "description": "Foreign investors withdrew $23.49 billion from Asian equities in September as rising US Treasury yields, inflation fears and tighter monetary policies weakened risk appetite. South Korea and India led outflows, while hedge funds reduced exposure amid persistent market uncertainty.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-foreign-investors-pull-23-5-billion-from-asian-equities-in-september-as-us-yields-surge/articleshow/134829780.cms",
+      "title": "ET Alpha Wealth Summit 2.0 | SIFs, passive funds and GIFT City: How India's wealth portfolios are evolving, says Tata AMC's Anand Vardarajan",
+      "description": "Tata Asset Management CEO Anand Vardarajan highlights how passive funds, SIFs and GIFT City are reshaping wealth management. He advocates combining active and passive strategies while monitoring global yields, inflation and valuations to build diversified portfolios.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-2-0-sifs-passive-funds-and-gift-city-how-indias-wealth-portfolios-are-evolving-says-tata-amcs-anand-vardarajan/articleshow/134833674.cms",
       "source": "Economic Times Markets",
       "date": "2026-10-09",
       "image": "",
-      "category": "central_bank"
+      "category": "inflation"
     },
     {
-      "title": "Why are US stocks rallying despite Fed rate shock? Aswath Damodaran explains in the context of AI",
-      "description": "US stocks have defied a sharp rise in Treasury yields as AI-led earnings growth offsets pressure from higher interest rates, says valuation expert Aswath Damodaran. However, with equity risk premiums falling below 4%, he warns that the rally hinges on whether AI investments can deliver the profits i",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/why-are-us-stocks-rallying-despite-fed-rate-shock-aswath-damodaran-explains-in-the-context-of-ai/articleshow/134829268.cms",
+      "title": "Bitcoin falls to $82,000 as OpenAI revenue concerns and geopolitical tensions trigger nearly $1 billion in crypto liquidations",
+      "description": "Bitcoin hovered near $82,000 as geopolitical tensions, rising oil prices and concerns over OpenAI revenue weighed on risk assets, triggering nearly $1 billion in crypto liquidations. Ethereum and major altcoins also declined, while analysts flagged $80,000 as a key Bitcoin support level amid elevate",
+      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-falls-to-82000-as-openai-revenue-concerns-and-geopolitical-tensions-trigger-nearly-1-billion-in-crypto-liquidations/articleshow/134833622.cms",
       "source": "Economic Times Markets",
       "date": "2026-10-09",
       "image": "",
       "category": "geopolitics"
+    },
+    {
+      "title": "India bonds extend weekly slide; struggle to shake off RBI hike, hawkish stance shift",
+      "description": "Indian government bonds have faced a downturn for the eighth consecutive week, primarily influenced by soaring oil prices and a more aggressive stance from the central bank. The yield on benchmark bonds has surged, signaling a drop in investor confidence. Additionally, the Reserve Bank of India rais",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-extend-weekly-slide-struggle-to-shake-off-rbi-hike-hawkish-stance-shift/articleshow/134833317.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-10-09",
+      "image": "",
+      "category": "central_bank"
     },
     {
       "title": "Gold, Silver, Platinum Imports: Why Banks Have Lost IGST Exemption And What It Means - Outlook Money",
@@ -180,76 +189,112 @@
       "category": "supply_demand"
     },
     {
-      "title": "Bank deposits join CAS: What you may see, what may still be missing",
-      "description": "Bank deposits will join the Consolidated Account Statement (CAS) from January 1. But will the move finally give consumers a complete picture of their financial life?",
-      "url": "https://www.business-standard.com/finance/personal-finance/bank-deposits-join-cas-what-you-may-see-what-may-still-be-missing-126100800795_1.html",
-      "source": "Business Standard",
-      "date": "2026-10-08",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/08/thumb/featurecrop/1200X628/1791453397-8449.png",
-      "category": "market"
+      "title": "Hunan Ruifu Precious Metals Supports SMM in Creating the \"2026 SMM Platinum Group Metals and Precious Metals Industry Chain Distribution Map\" - Shanghai Metals Market",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxNX010c3puc1V4TFV6MkZUb3U2NHJ2N1RfTDdHVjNPT1ZKVzl1RVBvbFZXdUdQSGhUOGQxeWQ5RTZwdGZkVnA3eEhHRlZqS1plZUd4VW9MNWpNUnBIVDdyd01jUFhPNGZyZWJSdzJFNHV2RWtJRDZVWnFSdkpmRmlKNTY2QTlzUU5FN254ZFhOM1FBR080VFZMem5IOUF4dVE2MjNoOEl4LW9Ka0VMYWFPVk5xUmQ1OVdYTG",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNX010c3puc1V4TFV6MkZUb3U2NHJ2N1RfTDdHVjNPT1ZKVzl1RVBvbFZXdUdQSGhUOGQxeWQ5RTZwdGZkVnA3eEhHRlZqS1plZUd4VW9MNWpNUnBIVDdyd01jUFhPNGZyZWJSdzJFNHV2RWtJRDZVWnFSdkpmRmlKNTY2QTlzUU5FN254ZFhOM1FBR080VFZMem5IOUF4dVE2MjNoOEl4LW9Ka0VMYWFPVk5xUmQ1OVdYTGRZaUN1Xzh6NWNuLVloM1hEWVVPcEk5Z2x4ZUNFem11TUQ3RnY2VUhNLWpnbkEycGFpb3B0RnZ2bmY2ZHRpWTdCV0s3YmdzVEF0UDhudU5oQnlDdUVXWkhQVF9qQQ?oc=5",
+      "source": "Google News - Precious Metals",
+      "date": "2026-10-09",
+      "image": "",
+      "category": "platinum"
     },
     {
-      "title": "What Advertisers Can Gain from the NFL?s Fragmented Season",
-      "description": "Long gone are the days of \"are the 49ers on CBS or Fox this week?\" Now, figuring out where your team is playing on any given Sunday means checking against one of nine different platforms that will carry NFL games this season: CBS, FOX, ESPN, ABC, NBC, Peacock\u2026",
-      "url": "https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=176953",
-      "source": "Streamingmedia.com",
-      "date": "2026-10-08",
-      "image": "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/499729-nfl-ORG.png",
-      "category": "market"
-    },
-    {
-      "title": "Shares slip as European bond bashing rumbles on",
-      "description": "LONDON/SYDNEY, Oct 8 : Global shares slid on Thursday as strains in sovereign bond markets were aggravated by a jump in oil and gas prices and reports that some major tech firms were seeking to raise billions in debt in direct competition for limited funding.\u2026",
-      "url": "https://www.channelnewsasia.com/business/shares-slip-european-bond-bashing-rumbles-6442196",
-      "source": "CNA",
-      "date": "2026-10-08",
-      "image": "https://dam.mediacorp.sg/image/upload/s--MvMXPibw--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-08T092709Z_1_LYNXMPEM970O5_RTROPTP_3_EUROPE-STOCKS.JPG?itok=bl_hWI9g",
-      "category": "currency"
-    },
-    {
-      "title": "Gate Partners with Visa to Launch Crypto-linked Card Across 40+ Countries and Territories",
-      "description": "Gate has announced a collaboration with Visa to launch a crypto-linked card, further expanding the use of digital assets in everyday spending and global commerce. The product is expected to launch across 40+ markets globally, allowing users to make payments w\u2026",
-      "url": "http://www.newsbtc.com/news/gate-partners-with-visa-to-launch-crypto-linked-card-across-40-countries-and-territories/",
-      "source": "newsBTC",
-      "date": "2026-10-08",
-      "image": "https://www.newsbtc.com/wp-content/uploads/2026/10/d273ac906f634fe09784d6ec07f8e9c2.png",
-      "category": "market"
-    },
-    {
-      "title": "Nikkei Stalls Near 67,000 as Oil and Yen Risks Offset Financial Gains",
-      "description": "Tokyo stocks ended nearly unchanged on August 12, with the Nikkei 225 at 66,988.82, as gains in energy and financial shares offset weakness in electronics and pharmaceuticals while investors weighed higher crude oil prices, a weaker yen and growing expectatio\u2026",
-      "url": "https://newsonjapan.com/article/150993.php",
-      "source": "Newsonjapan.com",
-      "date": "2026-10-08",
-      "image": "https://i2.ytimg.com/vi/WNnGIwbRDIs/maxresdefault.jpg",
-      "category": "currency"
-    },
-    {
-      "title": "Ex-CIA Official Pleads Guilty After $193,590,400 Fraud Scheme Tied to Gold Bars and Florida Luxury Homes",
-      "description": "A former senior CIA official has pleaded guilty to defrauding the federal government of about $194 million, a scheme prosecutors say he used to buy gold bars, Florida luxury homes and other personal assets. David J. Rush, 49, of Ashburn, Virginia, admitted Tu\u2026",
-      "url": "https://dailyhodl.com/2026/10/08/ex-cia-official-pleads-guilty-after-193590400-fraud-scheme-tied-to-gold-bars-and-florida-luxury-homes/",
-      "source": "The Daily Hodl",
-      "date": "2026-10-08",
-      "image": "https://dailyhodl.com/wp-content/uploads/2026/10/banks-billion-gold.jpg?resize=1365,800",
-      "category": "central_bank"
-    },
-    {
-      "title": "ET Alpha Wealth Summit 2.0: Equities aren\u2019t enough? Praveena Rai makes a case for commodities",
-      "description": "In India, commodities are steadily gaining traction as a crucial component of investment strategies. As investors diversify beyond conventional assets, they are discovering opportunities in gold, copper, and energy markets. Innovative financial products make \u2026",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-2-0-equities-arent-enough-praveena-rai-makes-a-case-for-commodities/articleshow/134785142.cms",
+      "title": "In 1944, Howard Aiken and IBM engineers completed Harvard's Mark I, a 51-foot-long calculator that handled wartime calculations for the US Navy",
+      "description": "In 1944, Harvard's Mark I emerged as a revolutionary 10,000-pound calculator for the U.S. Navy, pivotal in military operations such as ballistics during World War II. Grace Hopper notably influenced its functionality and pioneered the COBOL programming langua\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/us/in-1944-howard-aiken-and-ibm-engineers-built-harvards-mark-i-a-51-foot-long-calculator-with-1400-switches-that-helped-the-us-navy-solve-wartime-calculations/articleshow/134782453.cms",
       "source": "The Times of India",
       "date": "2026-10-08",
-      "image": "https://img.etimg.com/thumb/msid-134785185,width-1200,height-900,imgsize-88472,overlay-etmarkets/articleshow.jpg",
+      "image": "https://img.etimg.com/thumb/msid-134782505,width-1200,height-900,imgsize-205290,overlay-economictimes/articleshow.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Massive gold mine casts shadow over municipal election in small Cariboo town",
+      "description": "Two candidates are campaigning for mayor, as approval of the Cariboo Gold Project has created disruption in the Gold-Rush-era town of Wells, B.C. \u2014 known for its vibrant artistic community and the gateway for Barkerville Historic Park and the Bowron Lakes.",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/wells-gold-mine-municipal-election-9.7367238",
+      "source": "CBC News",
+      "date": "2026-10-08",
+      "image": "https://i.cbc.ca/ais/017ffe90-a2f1-4369-bd14-75347c74072b,1791314960702/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
       "category": "metals"
     },
     {
-      "title": "Government bonds deliver highest real return in September",
-      "description": "Turkish government domestic borrowing securities (D\u0130BS) delivered the highest monthly real return in September, according to data released by the Turkish Statistical Institute (T\u00dc\u0130K) on Oct. 8.",
-      "url": "https://www.hurriyetdailynews.com/government-bonds-deliver-highest-real-return-in-september-227873",
-      "source": "Hurriyet Daily News",
+      "title": "Cities Built Their Safety Nets on Federal Money. Now It\u2019s Leaving All at Once.",
+      "description": "Crime prevention, public health surveillance, and disaster preparedness programs across the country face a perfect storm as Washington cancels programs, COVID-era grants expire, and Medicaid cuts loom.",
+      "url": "https://nextcity.org/features/cities-built-their-safety-nets-on-federal-money.-now-its-leaving-all-at-onc",
+      "source": "Nextcity.org",
       "date": "2026-10-08",
-      "image": "https://image.hurimg.com/i/hurriyet/75/200x200/6ac75e3975376faf77849fb6.jpg",
+      "image": "https://nextcity.org/images/forefront/_resized/Perfect_storm-03.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Dollar Reset 2.0: Stablecoins, Treasury Bills and the Case for Public Banks",
+      "description": "Washington\u2019s stablecoin strategy could shore up the dollar by making U.S. Treasury bills the backing for a new digital currency. \nBut who gets the interest, and who will make the loans?\nFor several years, \u201cthe death of the dollar\u201d has \u2026\nThe post Dollar Reset \u2026",
+      "url": "https://www.globalresearch.ca/dollar-reset-stablecoins-treasury-bills-public-banks/5943070",
+      "source": "Globalresearch.ca",
+      "date": "2026-10-08",
+      "image": "https://www.globalresearch.ca/wp-content/uploads/2026/10/digital-dollar-drain.jpeg",
+      "category": "currency"
+    },
+    {
+      "title": "The Unconventional Route to Fusion Power Just Hit a World First",
+      "description": "VANCOUVER, BC, Oct. 8, 2026 /PRNewswire/ -- American News Group News Commentary - General Fusion, the first publicly listed fusion energy company, has reached a world-first milestone by taking a road most of the fusion industry did not. Instead of the superco\u2026",
+      "url": "https://www.prnewswire.com/news-releases/the-unconventional-route-to-fusion-power-just-hit-a-world-first-302901973.html",
+      "source": "PRNewswire",
+      "date": "2026-10-08",
+      "image": "https://mmx.prnewswire.com/media/MS1842436/American-News-Group-Logo.jpg?id=OA2994193&p=facebook",
       "category": "market"
+    },
+    {
+      "title": "Who decides what Africa is worth?",
+      "description": "African countries could save up to $74.5 billion if sovereign ratings were based on less subjective assessments Read Full Article at RT.com",
+      "url": "https://www.rt.com/africa/646928-african-union-launches-africa-credit-rating-agency/",
+      "source": "RT",
+      "date": "2026-10-08",
+      "image": "https://mf.b37mrtl.ru/files/2026.10/article/6ac781bd20302711ac6aaafb.jpg",
+      "category": "market"
+    },
+    {
+      "title": "DPM Metals Reports Third Quarter Gold Equivalent Production Results; On Track to Achieve High-End of 2026 Guidance",
+      "description": "TORONTO, Oct. 08, 2026 (GLOBE NEWSWIRE) \u2014 DPM Metals Inc. (TSX: DPM, ASX: DPM) (ARBN: 689370894) (\u201cDPM\u201d or \u201cthe Company\u201d) today announced preliminary production results for the three and nine months ended September 30, 2026. \u201cWe continue to deliver strong ope\u2026",
+      "url": "https://financialpost.com/globe-newswire/dpm-metals-reports-third-quarter-gold-equivalent-production-results-on-track-to-achieve-high-end-of-2026-guidance",
+      "source": "Financial Post",
+      "date": "2026-10-08",
+      "image": null,
+      "category": "supply_demand"
+    },
+    {
+      "title": "The second coming: From credit roots, Shriram Group now eyes an equities empire",
+      "description": "Beyond truck loans and balance sheets, Shriram Group is chasing India\u2019s retail investing boom. Can an 89-year-old founder's legacy and a high-touch ground network beat Silicon Valley-style discount apps? We take a deep dive into the conglomerate\u2019s high-stakes\u2026",
+      "url": "https://www.livemint.com/companies/news/shriram-group-capital-markets-wealth-management-strategy-11791450226425.html",
+      "source": "Livemint",
+      "date": "2026-10-08",
+      "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/logo/Shriram_lead_image__1791450569639_bFwX_17914505882_1791450637879_ASuS_1791450638103_ts7m_b9e0c1dc-13fa-4bd2-b60c-ff09c08ffae4_A3wy.jpeg",
+      "category": "market"
+    },
+    {
+      "title": "Cartier Countdown to Holiday Deals at eBay: Up to 30% off + extra 20% off + free shipping",
+      "description": "At eBay, use promo code \"COUNTDOWN20\" to get an extra 20% off on a selection of Cartier fine jewelry and watches, including a large selection of pre-owned Cartier items like the Love bracelet, Tank watches, and Santos models. It's the best extra discount we'v\u2026",
+      "url": "https://www.dealnews.com/Cartier-Countdown-to-Holiday-Deals-at-eBay-Up-to-30-off-extra-20-off-free-shipping/22264464.html",
+      "source": "Dealnews.com",
+      "date": "2026-10-08",
+      "image": "https://d.dlnws.com/64599/1791462721-product-trimmed.jpg?h=1024&w=615",
+      "category": "market"
+    },
+    {
+      "title": "K2 Extends Dragonfly Structure and Identifies Additional High-Grade Gold at Flores Target",
+      "description": "Third Phase of Surficial Sampling and Mapping Underway VANCOUVER, British Columbia, Oct. 08, 2026 (GLOBE NEWSWIRE) \u2014 K2 Gold Corporation (TSXV: KTO | OTCQX: KTGDF) (\u201cK2 Gold\u201d or the \u201cCompany\u201d) today announced results from 346 rock samples collected as part of\u2026",
+      "url": "https://financialpost.com/globe-newswire/k2-extends-dragonfly-structure-and-identifies-additional-high-grade-gold-at-flores-target",
+      "source": "Financial Post",
+      "date": "2026-10-08",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/10/dragonfly-zone.png",
+      "category": "metals"
+    },
+    {
+      "title": "Endeavour Silver Produces 2,096,545 Oz Silver and 10,126 Oz Gold, for a total of 3.6 Million Silver Equivalent Oz in Q3 2026",
+      "description": "VANCOUVER, British Columbia, Oct. 08, 2026 (GLOBE NEWSWIRE) \u2014 Endeavour Silver Corp. (\u201cEndeavour\u201d or the \u201cCompany\u201d) (NYSE: EXK; TSX: EDR) reports third quarter 2026 production of 2,096,545 silver ounces (\u201coz\u201d), 10,126 gold oz, and in combination with base met\u2026",
+      "url": "https://financialpost.com/globe-newswire/endeavour-silver-produces-2096545-oz-silver-and-10126-oz-gold-for-a-total-of-3-6-million-silver-equivalent-oz-in-q3-2026",
+      "source": "Financial Post",
+      "date": "2026-10-08",
+      "image": null,
+      "category": "supply_demand"
     },
     {
       "title": "Is India's inflation problem spreading beyond food and fuel prices?",
@@ -288,121 +333,76 @@
       "category": "market"
     },
     {
-      "title": "GST Council meet: Scrapping tax officers' arrest powers, decriminalisation among reforms on agenda",
-      "description": "It would also discuss a common standard to be followed by GST officers across states for raising demands with a mandatory intimation to be sent before a formal notice, thereby giving opportunity to the taxpayer to be heard.",
-      "url": "https://www.dtnext.in/news/business/gst-council-meet-scrapping-tax-officers-arrest-powers-decriminalisation-among-reforms-on-agenda",
-      "source": "Dtnext.in",
-      "date": "2026-10-08",
-      "image": "https://media.assettype.com/dt-next%2F2026-10-08%2Fdlscvmag%2FGST-1.jpg?rect=0%2C0%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Gold price rises \u20b9586 on buying at lower levels; silver gains \u20b9245",
-      "description": "Comex gold futures were trading $16.50 higher at $4,157.20 an ounce, while silver futures rose $0.08 to $60.37 after opening at $60.19",
-      "url": "https://www.business-standard.com/markets/commodities/gold-price-rises-586-on-buying-at-lower-levels-silver-gains-245-126100800388_1.html",
-      "source": "Business Standard",
-      "date": "2026-10-08",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-05/15/thumb/fitandfill/1200X628/1778868696-119.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "TrueLayer captures $27M investment, as targets Italy expansion",
-      "description": "TrueLayer, a UK payments fintech looking to disrupt the dominance of card payments, has captured a $27m investment round, led by an Italian state-backed investor, a first-time investor, as it looks to bolster its presence in Italy, it said today. Backed by St\u2026",
-      "url": "https://biztoc.com/x/ffa00d89ddd4d4b1",
-      "source": "Biztoc.com",
-      "date": "2026-10-08",
-      "image": "https://biztoc.com/cdn/ffa00d89ddd4d4b1_s.webp",
-      "category": "market"
-    },
-    {
-      "title": "Family-friendly days out for Halloween",
-      "description": "p>Will Barker joined The Week team as a staff writer in 2025, covering UK and global news and politics. He previously worked at the Financial Times and The Sun, contributing to the arts and world news desks, respectively. Before that, he achieved a gold-stand\u2026",
-      "url": "https://biztoc.com/x/9ad03c2fb5641cda",
-      "source": "Biztoc.com",
-      "date": "2026-10-08",
-      "image": "https://biztoc.com/cdn/9ad03c2fb5641cda_s.webp",
-      "category": "metals"
-    },
-    {
-      "title": "murmo added to PyPI",
-      "description": "Just talk: record from your microphone and transcribe locally with Whisper, straight to your clipboard.",
-      "url": "https://pypi.org/project/murmo/",
-      "source": "Pypi.org",
-      "date": "2026-10-08",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "Two yrs on in GIFT City, CareEdge Global to expand ratings coverage to 100 countries",
-      "description": "CareEdge Global to expand sovereign ratings to about 100 countries, challenging incumbents with a differentiated methodology and broader global reach.",
-      "url": "https://www.thehindubusinessline.com/money-and-banking/two-yrs-on-in-gift-city-careedge-global-to-expand-ratings-coverage-to-100-countries/article71559224.ece",
-      "source": "BusinessLine",
-      "date": "2026-10-08",
-      "image": "https://bl-i.thgim.com/public/incoming/2ridq8/article71559308.ece/alternates/LANDSCAPE_1200/bl28-think-dc-pG0HGF0PS8.4.jpg.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Nextdoor\u2019s Treat Map Returns for Halloween, Sponsored by Reese\u2019s in the U.S.",
-      "description": "Nextdoor\u2019s Halloween Guide Now Features Local Events and Happenings, Plus Details on What Neighbors Are Handing Out at Their Homes. Live October 8 in the U.S., U.K. and Canada SAN FRANCISCO \u2014 Nextdoor Holdings, Inc. (NYSE: NXDR), the essential neighborhood ne\u2026",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/nextdoors-treat-map-returns-for-halloween-sponsored-by-reeses-in-the-u-s",
-      "source": "Financial Post",
-      "date": "2026-10-08",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/10/bw20261008938025_nextdoor-treatmap-2026-4_28129_28129.jpeg",
-      "category": "market"
-    },
-    {
-      "title": "KQC Quantum, Inc. and Charlton Aria Acquisition Corporation Announce Investor Webcast to Review Proposed Business Combination",
-      "description": "Investor webcast available October 8, 2026, at 10:30 a.m. Eastern Time WILMINGTON, Del. & BUSAN, South Korea \u2014 KQC Quantum, Inc. (\u201cKQC Parent\u201d), the Delaware parent company of Korea Quantum Computing Co., Ltd. (\u201cKQC\u201d or the \u201cCompany\u201d), which helps enterprises\u2026",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/kqc-quantum-inc-and-charlton-aria-acquisition-corporation-announce-investor-webcast-to-review-proposed-business-combination",
-      "source": "Financial Post",
-      "date": "2026-10-08",
-      "image": null,
-      "category": "geopolitics"
-    },
-    {
-      "title": "Insect Repellent Active Ingredients Market worth $2.04 billion by 2035- Exclusive Report by MarketsandMarkets\u2122",
-      "description": "DELRAY BEACH, Fla., Oct. 8, 2026 /PRNewswire/ -- According to MarketsandMarkets\u2122, the insect repellent active ingredients market is anticipated to reach USD 2.04 billion by 2035 from USD 1.24 billion in 2026, registering a CAGR of 5.7% from 2026 to 2035. Inse\u2026",
-      "url": "https://www.prnewswire.com/news-releases/insect-repellent-active-ingredients-market-worth-2-04-billion-by-2035-exclusive-report-by-marketsandmarkets-302902120.html",
-      "source": "PRNewswire",
-      "date": "2026-10-08",
-      "image": "https://mmx.prnewswire.com/media/MS1173081/MarketsandMarkets-Logo.jpg?id=OA2994338&p=facebook",
-      "category": "currency"
-    },
-    {
-      "title": "SEVA Closes Oversubscribed $160 Million Sophomore Fund in Under One Month",
-      "description": "Growth Equity Firm\u2019s Sophomore Fund was Multiple-Times Oversubscribed and Exceeded Fund Target of $125 Million SEVA II\u2019s Limited Partners Include Portfolio Company Founders and a Diverse Group of Leading University Endowments, Charitable Foundations, and Caus\u2026",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/seva-closes-oversubscribed-160-million-sophomore-fund-in-under-one-month",
-      "source": "Financial Post",
-      "date": "2026-10-08",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/10/bw20261008394158_seva-52_select.jpeg",
-      "category": "market"
-    },
-    {
-      "title": "Black Democrats are facing a crossroads",
-      "description": "Welcome to The Midterms, Actually. Every week I\u2019ll be writing about two things: one big idea or trend I see forming across the 2026 primaries, and one thing I\u2019m hearing from a voice on the ground. You can sign up here to get it in your inbox every week. Let\u2019s\u2026",
-      "url": "https://www.vox.com/politics/505654/black-democrats-are-facing-a-crossroads",
-      "source": "Vox",
-      "date": "2026-10-08",
-      "image": "https://platform.vox.com/wp-content/uploads/sites/2/2026/10/GettyImages-2290939900.jpg?quality=90&strip=all&crop=0%2C13.464046795249%2C100%2C73.071906409502&w=1200",
-      "category": "market"
-    },
-    {
-      "title": "Why electric vehicles sales are lukewarm in America, but hot in Europe",
-      "description": "Electric vehicle sales in the United States have dropped 30.7% this year following the expiration of a federal subsidy. In contrast, European buyers have embraced electric vehicles, significantly increasing their market share amid rising fuel prices. Many US \u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/business/why-ev-sales-are-lukewarm-in-america-but-hot-in-europe/articleshow/134787392.cms",
+      "title": "Saudi, UAE join Japan-led push to bolster Asian oil buffers",
+      "description": "Saudi Arabia and the United Arab Emirates are joining Japan's efforts to strengthen oil supply security in Southeast Asia. This collaboration comes in response to supply disruptions caused by ongoing conflicts in the Middle East. Japan has committed $10 billi\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/saudi-uae-join-japan-led-push-to-bolster-asian-oil-buffers/articleshow/134792155.cms",
       "source": "The Times of India",
       "date": "2026-10-08",
-      "image": "https://img.etimg.com/thumb/msid-134787634,width-1200,height-900,imgsize-65656,overlay-economictimes/articleshow.jpg",
+      "image": "https://img.etimg.com/thumb/msid-134792275,width-1200,height-900,imgsize-200988,overlay-economictimes/articleshow.jpg",
       "category": "geopolitics"
     },
     {
-      "title": "CNBC's No. 1 financial advisor takes a family-office approach: 'There is real value in all of those relationships'",
-      "description": "Howland Capital Management came in at No. 1 on CNBC's list of the top 100 financial advisors in the U.S. for 2026.",
-      "url": "https://www.cnbc.com/2026/10/08/howland-capital-management-top-financial-advisor-strategy.html",
-      "source": "CNBC",
+      "title": "US futures head lower after explosions in Riyadh send crude prices up",
+      "description": "Rising oil prices have intensified inflationary pressures globally, including the U.S.",
+      "url": "https://wirehub.medianewsgroup.com/2026/10/08/us-futures-head-lower-after-explosions-in-saudi-capital-send-crude-prices-racing-higher/",
+      "source": "Medianewsgroup.com",
       "date": "2026-10-08",
-      "image": "https://image.cnbcfm.com/api/v1/image/108372293-1791151512396-gettyimages-1155934450-crewing740155r.jpeg?v=1791151612&w=1920&h=1080",
+      "image": "https://www.bostonherald.com/wp-content/uploads/2026/10/Financial_Markets_78_73_3a2639.jpg?w=2000&h=1333",
+      "category": "inflation"
+    },
+    {
+      "title": "The Witcher 3: Wild Hunt \u2013 Remastered Patch Adds Bloom Toggles on Console and Larger Lighting Changes",
+      "description": "The Witcher 3: Wild Hunt \u2013 Remastered just got a significant update to tweak the presentation of CD Projekt\u2019s RPG epic. Check out the patch notes.",
+      "url": "https://www.ign.com/articles/bloom-toggle-console-the-witcher-3-remastered",
+      "source": "IGN",
+      "date": "2026-10-08",
+      "image": "https://assets-prd.ignimgs.com/2026/09/25/witcher3-firstminsoo-1790354351574.png?width=1280&format=jpg&auto=webp&quality=80",
       "category": "market"
+    },
+    {
+      "title": "UN Human Rights Council 63: UK Explanation of Vote on the draft resolution on Rhetoric to Reality",
+      "description": "UK Explanation of Vote on the draft resolution \"From rhetoric to reality: a global call for concrete action against racism, racial discrimination, xenophobia and related intolerance\". Delivered by the UK's Permanent Representative to the WTO and UN, Kumar Iye\u2026",
+      "url": "https://www.gov.uk/government/speeches/un-human-rights-council-63-uk-explanation-of-vote-on-the-draft-resolution-on-rhetoric-to-reality",
+      "source": "Www.gov.uk",
+      "date": "2026-10-08",
+      "image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "category": "market"
+    },
+    {
+      "title": "Solana Foundation says the network is secure against quantum threats",
+      "description": "Solana's proactive quantum threat measures could set a precedent for blockchain security, influencing industry standards and user trust.\nThe post Solana Foundation says the network is secure against quantum threats appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/solana-foundation-quantum-security-assurance/",
+      "source": "Crypto Briefing",
+      "date": "2026-10-08",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/08093156/library-solana-foundation-says-the-network-is-secure-against-qua-800x450.png",
+      "category": "market"
+    },
+    {
+      "title": "Texas Looks Competitive",
+      "description": "Plus: AI weirdness, Amazon algorithm data, bond markets, and more...",
+      "url": "https://reason.com/2026/10/08/texas-looks-competitive/",
+      "source": "Reason",
+      "date": "2026-10-08",
+      "image": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/10/Gina-H.jpg",
+      "category": "market"
+    },
+    {
+      "title": "WTO revises 2026 global goods trade estimate up to 3.9%",
+      "description": "The World Trade Organization (WTO) posted the latest version of its Global Trade Outlook and Statistics report on Thursday, upgrading the 2026 merchandise trade volume growth expectations to 3.9% from...",
+      "url": "https://biztoc.com/x/11d2822c85dbe8bb",
+      "source": "Biztoc.com",
+      "date": "2026-10-08",
+      "image": "https://biztoc.com/cdn/11d2822c85dbe8bb_s.webp",
+      "category": "market"
+    },
+    {
+      "title": "Medium-term borrowing costs for UK government hit 19-year high",
+      "description": "Investors offload global bonds amid fears of rising inflation, increasing pressure on John Healey ahead of first budget\nBusiness live \u2013 latest updates\nMedium-term borrowing costs for the UK government hit a fresh 19-year high on Thursday, as investors continu\u2026",
+      "url": "https://biztoc.com/x/f8b628c6fe4baaee",
+      "source": "Biztoc.com",
+      "date": "2026-10-08",
+      "image": "https://biztoc.com/cdn/f8b628c6fe4baaee_s.webp",
+      "category": "inflation"
     }
   ],
   "history": [
@@ -517,7 +517,7 @@
       "platinum_usd_oz": 1681.4
     }
   ],
-  "timestamp": "2026-10-09T16:16:35.680767+05:30",
+  "timestamp": "2026-10-09T19:03:57.369507+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
