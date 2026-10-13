@@ -54,7 +54,7 @@
         "hold": 50
       },
       "summary": "Gold is showing positive signals. Strong daily gain of 1.1%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-13T17:03:09.470864",
+      "timestamp": "2026-10-13T19:27:54.987251",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 50
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 1.8%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-13T17:03:09.581467",
+      "timestamp": "2026-10-13T19:27:55.056113",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 50
       },
       "summary": "Platinum is showing positive signals. Strong daily gain of 2.1%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-13T17:03:09.674688",
+      "timestamp": "2026-10-13T19:27:55.137022",
       "source": "rule-based"
     }
   },
@@ -135,31 +135,58 @@
   },
   "news": [
     {
-      "title": "US banks post strong profits, but inflation and rate risks cloud outlook",
-      "description": "Major US banks reported higher third-quarter profits, supported by resilient consumer spending, AI investment and stronger trading revenue. However, executives warned that persistent inflation, elevated interest rates and geopolitical risks could strain household finances and slow economic growth. J",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-banks-post-strong-profits-but-inflation-and-rate-risks-cloud-outlook/articleshow/134920643.cms",
+      "title": "NY Fed President Williams sees no need for a rate hike in 2027",
+      "description": "At a recent conference, John Williams from the Federal Reserve Bank of New York expressed optimism about a potential interest-rate increase this year, suggesting inflation could hit the 2% goal by next year. He cited the role of artificial intelligence in affecting inflation rates while also address",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/ny-fed-president-williams-sees-no-need-for-a-rate-hike-in-2027/articleshow/134925718.cms",
       "source": "Economic Times Markets",
       "date": "2026-10-13",
       "image": "",
-      "category": "geopolitics"
+      "category": "central_bank"
     },
     {
-      "title": "Prestige Estates Q2 sales bookings rise 20% to Rs 7,225 cr on better housing demand",
-      "description": "During the second quarter, Prestige Estates Projects Ltd celebrated a remarkable 20 per cent increase in sales bookings, generating pre-sales of Rs 72,250 million. The launch of new residential projects toward the quarter's end was met with enthusiastic market reception and promising sales momentum.",
-      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/prestige-estates-q2-sales-bookings-rise-20-to-rs-7225-cr-on-better-housing-demand/articleshow/134920350.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-10-13",
-      "image": "",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Gold (XAUUSD), Silver, Platinum Forecasts \u2013 Gold Retreats As Oil Prices Test New Highs - FXEmpire",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOaDUxR3N0T1U2b19xeGRpNHN6amN2Nnd0MzlEdUhMb0dEdVdlNnV3NW5sQkswalJFQWVLaXlkNUdTc25KbW90SVFXNnVsNF9xQjNFOWd2UnRic09yVDJ4Tm5JR2tFdjVqX1YyQ0QteGNWTFRsd0VSWlBTV1FfS3hYUFB0TlB3RUpKNGp1X2E2TlA5c1V4NlV5MEYxa0xoMmVHSzlCZ2M5TWc5RnFtMHNVeTFpaGFFdzdPQk",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaDUxR3N0T1U2b19xeGRpNHN6amN2Nnd0MzlEdUhMb0dEdVdlNnV3NW5sQkswalJFQWVLaXlkNUdTc25KbW90SVFXNnVsNF9xQjNFOWd2UnRic09yVDJ4Tm5JR2tFdjVqX1YyQ0QteGNWTFRsd0VSWlBTV1FfS3hYUFB0TlB3RUpKNGp1X2E2TlA5c1V4NlV5MEYxa0xoMmVHSzlCZ2M5TWc5RnFtMHNVeTFpaGFFdzdPQk1pdmJzak45RUlPeE5rYm1zdjdJQQ?oc=5",
+      "title": "Gold (XAUUSD), Silver, Platinum Forecasts \u2013 Gold Tests The $4150 Level Amid Broad Pullback In Precious Metals Markets - FXEmpire",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQX0xtZUxrZkpJVUJILUZJOUd4SkwzUlBJZTNWMUVIS2dLa0VUcDRSS2F3MlhpVWROUGUxc2ZwWXdUclRsX0diRFRpNWdWcklLd0pYRk90WXN5UkV5YkNOaTZVWXpaVUxHTmdDdHRJNlFLeGV0dVpIRjA5X2hDT0Z0VGI2REZhZnRHY2w0bG1YYXN3RVA0TTZ0Y1NUODd4TmpLcF9uWTUxOTY5Z1BpUTkwZkc5bUVvelpocU",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQX0xtZUxrZkpJVUJILUZJOUd4SkwzUlBJZTNWMUVIS2dLa0VUcDRSS2F3MlhpVWROUGUxc2ZwWXdUclRsX0diRFRpNWdWcklLd0pYRk90WXN5UkV5YkNOaTZVWXpaVUxHTmdDdHRJNlFLeGV0dVpIRjA5X2hDT0Z0VGI2REZhZnRHY2w0bG1YYXN3RVA0TTZ0Y1NUODd4TmpLcF9uWTUxOTY5Z1BpUTkwZkc5bUVvelpocUZBLWlucGstQVBVVXVjRUVYbG5YTE9naWJFX094ZjVmaXQ4R09QS1Q4Um11R2VydTQxMUtzSWgyZUk?oc=5",
       "source": "Google News - Precious Metals",
       "date": "2026-10-13",
       "image": "",
       "category": "currency"
+    },
+    {
+      "title": "Money Metals Secures $265 Million for Expansion of Gold-and Silver-Backed Lending - Newswire.com",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOdmJ4YlZ0WmIyUUtPTUkzTVNnUkNIU013b3pacVhyMjBKUDU4TGNmSVRLajlNYU43MlJ0TVJTR0E0SXNSVWhfTTQyQlh1ajV0OGVlSUYyNlVaUVhFZkUzX0wzQ1VMNGE0S3hENkEtX2lXbzhWT2VBU2w5QWpXU0h5UnBHazFzNjA1T245TWVDOTFYZ3ZnQm1WRWNoYW8zc1lpd29DcW5fWjlRd0llN2Nz?oc=5\" target=",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdmJ4YlZ0WmIyUUtPTUkzTVNnUkNIU013b3pacVhyMjBKUDU4TGNmSVRLajlNYU43MlJ0TVJTR0E0SXNSVWhfTTQyQlh1ajV0OGVlSUYyNlVaUVhFZkUzX0wzQ1VMNGE0S3hENkEtX2lXbzhWT2VBU2w5QWpXU0h5UnBHazFzNjA1T245TWVDOTFYZ3ZnQm1WRWNoYW8zc1lpd29DcW5fWjlRd0llN2Nz?oc=5",
+      "source": "Google News - Precious Metals",
+      "date": "2026-10-13",
+      "image": "",
+      "category": "metals"
+    },
+    {
+      "title": "Wolf Warriors in Sheep\u2019s Clothing: China\u2019s New Subnational Diplomacy in Australia",
+      "description": "Beijing\u2019s diplomatic officials are adopting the language of the Albanese government to press their demands upon local governments and communities.",
+      "url": "https://thediplomat.com/2026/10/wolf-warriors-in-sheeps-clothing-chinas-new-subnational-diplomacy-in-australia/",
+      "source": "The Diplomat",
+      "date": "2026-10-12",
+      "image": "https://thediplomat.com/wp-content/uploads/2024/06/sizes/td-story-s-2/thediplomat_2024-06-13-165638.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Irina Bolychevsky: \u2018There was a point where CKAN went from relatively unknown to the default\u2019",
+      "description": "The open data activist and Open Knowledge Foundation board member joins us to discuss the less-told part of CKAN's 20-year history: how a small open-source project became the default for government open data, and the product, sales and community work that mad\u2026",
+      "url": "https://blog.okfn.org/2026/10/12/irina-bolychevsky-there-was-a-point-where-ckan-went-from-relatively-unknown-to-the-default/",
+      "source": "Okfn.org",
+      "date": "2026-10-12",
+      "image": "https://blog.okfn.org/wp-content/uploads/2026/10/100-22-Ira-thumb.png",
+      "category": "market"
+    },
+    {
+      "title": "Irina Bolychevsky: \u2018CKAN has spread because it makes maintaining data more cost-effective and stimulates the economy through data reuse\u2019",
+      "description": "The open data activist and Open Knowledge Foundation board member joins us to discuss the less-told part of CKAN's 20-year history: how a small open-source project became the default for government open data, and the product, sales and community work that mad\u2026",
+      "url": "https://blog.okfn.org/2026/10/12/irina-bolychevsky-conversation-ckan-history/",
+      "source": "Okfn.org",
+      "date": "2026-10-12",
+      "image": "https://blog.okfn.org/wp-content/uploads/2026/10/100-22-Ira-thumb-1.png",
+      "category": "market"
     },
     {
       "title": "Buying gold this festive season? Check tax rules on cash purchases, PAN requirement and limit on holding gold at home",
@@ -207,30 +234,12 @@
       "category": "market"
     },
     {
-      "title": "Trader arrested for producing adulterated spices",
-      "description": "Trader arrested in Berhampur for allegedly producing adulterated turmeric and chilli powder; 1,500 kg spices, chemicals and machinery seized in raid.",
-      "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/trader-arrested-for-producing-adulterated-spices/articleshow/134896369.cms",
-      "source": "The Times of India",
+      "title": "3\" x 4\" Hard Plastic Trading Card Sleeves 600-Count for $27 + free shipping w/ Prime",
+      "description": "This 600-count set of card sleeves is $27, down from $32. The bundle includes both 300 hard sleeves and 300 soft sleeves, covering both rigid protection and everyday storage for standard trading cards. Buy Now at Amazon\r\n Features\r\n <ul> <li>Includes 300 hard\u2026",
+      "url": "https://www.dealnews.com/3-x-4-Hard-Plastic-Trading-Card-Sleeves-600-Count-for-27-free-shipping-w-Prime/22275174.html",
+      "source": "Dealnews.com",
       "date": "2026-10-12",
-      "image": "https://static.toiimg.com/thumb/msid-134896368,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "category": "market"
-    },
-    {
-      "title": "BMC intensifies food safety drive, destroys 120 kg stale food",
-      "description": "Bhubaneswar BMC intensifies festive-season food safety checks, destroys 120 kg stale food, fines 12 eateries Rs 16,000; more raids planned.",
-      "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/bmc-intensifies-food-safety-drive-destroys-120-kg-stale-food/articleshow/134896358.cms",
-      "source": "The Times of India",
-      "date": "2026-10-12",
-      "image": "https://static.toiimg.com/thumb/msid-134896357,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Opposition, govt clash over police action on SFI workers at university men\u2019s hostel",
-      "description": "Kerala assembly sees clash over police action on SFI workers at university men\u2019s hostel; adjournment motion denied, CPM displays broken baton, opposition walks out.",
-      "url": "https://timesofindia.indiatimes.com/city/thiruvananthapuram/opposition-govt-clash-over-police-action-on-sfi-workers-at-university-mens-hostel/articleshow/134896354.cms",
-      "source": "The Times of India",
-      "date": "2026-10-12",
-      "image": "https://static.toiimg.com/thumb/msid-134896352,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "image": "https://d.dlnws.com/64599/1791830701-71ax6ijac1l.jpg?h=1024&w=1024",
       "category": "market"
     },
     {
@@ -297,112 +306,103 @@
       "category": "market"
     },
     {
-      "title": "USA 250th Anniversary Eagle Graphic Patriotic Commemorative Challenge Coin for $7 + free shipping w/ Prime",
-      "description": "This patriotic challenge coin is $5 off, bringing it down to $6.88. Prime members get free shipping. Buy Now at Amazon",
-      "url": "https://www.dealnews.com/USA-250-th-Anniversary-Eagle-Graphic-Patriotic-Commemorative-Challenge-Coin-for-7-free-shipping-w-Prime/22274466.html",
-      "source": "Dealnews.com",
+      "title": "vcs-versioning-pants-plugin added to PyPI",
+      "description": "A Pantsbuild plugin that generates version modules from git tags with vcs-versioning, with per-package tag prefixes for monorepos.",
+      "url": "https://pypi.org/project/vcs-versioning-pants-plugin/",
+      "source": "Pypi.org",
       "date": "2026-10-12",
-      "image": "https://d.dlnws.com/64599/1791801248-81pjxmc9lyl.jpg?h=1024&w=1024",
+      "image": null,
       "category": "market"
     },
     {
-      "title": "From Seoul to Bilbao",
-      "description": "Hwahongmun Gate sits where the Suwoncheon stream passes through the northern wall of Hwaseong Fortress, with seven arches spanning the water. Built of stone and brick in the 1790s, it is one of the most photographed spots in Suwon, about 30 kilometres south o\u2026",
-      "url": "https://spacing.ca/vancouver/2026/10/12/from-seoul-to-bilbao/",
-      "source": "spacing.ca",
+      "title": "Intel GPU D-Series Packs 480GB LPDDR5X and 1.3 PFLOPS FP8 into a 350W PCIe Card",
+      "description": "Intel today gave Crescent Island its product name at the OCP Global Summit. The Intel GPU D-series is built on the Xe3P architecture and pairs up to 480GB of LPDDR5X with 1.5TB/s of memory bandwidth and 1.3 petaflops of FP8 compute, all inside a 350W air-cool\u2026",
+      "url": "https://www.storagereview.com/news/intel-gpu-d-series-480gb-lpddr5x-1-3-pflops-fp8-350w-pcie-card",
+      "source": "Storagereview.com",
       "date": "2026-10-12",
-      "image": "https://spacing.ca/vancouver/wp-content/uploads/sites/6/2026/07/Cover-Suwon-e1783910778183.jpg",
+      "image": "https://www.storagereview.com/wp-content/uploads/2026/10/Storagereview-Intel-GPU-D-series.jpg",
       "category": "market"
     },
     {
-      "title": "Russia Hits Ukraine\u2019s Energy Grid Despite Trump\u2019s Ceasefire Announcement",
-      "description": "The Telegraph: \"Russia attacked a power plant in Ukraine just hours after Donald Trump claimed he had brokered an energy ceasefire.\"\nThe post Russia Hits Ukraine\u2019s Energy Grid Despite Trump\u2019s Ceasefire Announcement first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
-      "url": "https://legalinsurrection.com/2026/10/russia-hits-ukraines-energy-grid-despite-trumps-ceasefire-announcement/",
-      "source": "Legalinsurrection.com",
+      "title": "WORSHIP Kicks Off North American Tour in Miami",
+      "description": "WORSHIP has officially kicked off its 2026 North American tour, launching the run October 9 at Miami\u2019s Factory Town. The drum & bass supergroup, comprised of UK artists Sub Focus,\u2026\nThe post WORSHIP Kicks Off North American Tour in Miami appeared first on Danc\u2026",
+      "url": "https://dancingastronaut.com/2026/10/worship-kicks-off-north-american-tour-in-miami/",
+      "source": "Dancing Astronaut",
       "date": "2026-10-12",
-      "image": "https://legalinsurrection.com/wp-content/uploads/2026/10/Ukraine-Russia-war-Trump-energy-ceasefire.jpg",
+      "image": "https://dancingastronaut.com/wp-content/uploads/2026/10/Screenshot-2026-10-12-at-3.20.25-PM.webp",
       "category": "market"
     },
     {
-      "title": "The New Non-Negotiable for Small Businesses? Knowing Your Cyber Risk.\u00a0Here\u2019s Where to Begin.",
-      "description": "This Cybersecurity Awareness Month, SMEs must protect their business to propel their dreams.",
-      "url": "https://www.entrepreneur.com/building-a-business/the-new-non-negotiable-for-small-businesses-knowing-your-cyber-risk-heres-where-to-begin",
-      "source": "Entrepreneur",
+      "title": "GTA 6 Blamed for PlayStation Pro 5 Shortages",
+      "description": "The game\u2019s exclusivity is leading to greater demand for the high-end console.",
+      "url": "https://www.cnet.com/tech/gaming/gta-6-blamed-playstation-pro-5-shortages/",
+      "source": "CNET",
       "date": "2026-10-12",
-      "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/small-business-cybersecurity-risk-1026_g2268988366.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Egan-Jones Examines Rising Threats to Middle East Energy Chokepoints",
-      "description": "NEW YORK, Oct. 12, 2026 /PRNewswire/ -- Egan-Jones released an analysis examining how relatively inexpensive missiles and drones have given Shiite groups leverage over the chokepoints that carry Middle East petroleum exports, and what that shift could mean fo\u2026",
-      "url": "https://www.prnewswire.com/news-releases/egan-jones-examines-rising-threats-to-middle-east-energy-chokepoints-302905395.html",
-      "source": "PRNewswire",
-      "date": "2026-10-12",
-      "image": "https://mmx.prnewswire.com/media/MS1785331/ratings-colored-Logo-Logo.jpg?id=OA2998227&p=facebook",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/75bc8592-5b67-4ebc-990c-1097dd27f7e7.jpg",
       "category": "supply_demand"
     },
     {
-      "title": "Leidos participates at U.S. Army's Reveille Forge 'permanent hackathon'",
-      "description": "RESTON, Va., Oct. 12, 2026 /PRNewswire/ -- Leidos (NYSE: LDOS) continues helping the U.S. Army identify and address technology integration challenges sooner through its participation at Reveille Forge, the service's new enduring integration and testing enviro\u2026",
-      "url": "https://www.prnewswire.com/news-releases/leidos-participates-at-us-armys-reveille-forge-permanent-hackathon-302905206.html",
-      "source": "PRNewswire",
+      "title": "14-year-old school boy shoots headmaster, teacher in France",
+      "description": "A 14-year-old boy opened fire with a hunting gun at a middle school in Aubagne, France, wounding the headmaster and a teacher before being disarmed.\n\nRead More: https://punchng.com/14-year-old-school-boy-shoots-headmaster-teacher-in-france/",
+      "url": "https://punchng.com/14-year-old-school-boy-shoots-headmaster-teacher-in-france/",
+      "source": "The Punch",
       "date": "2026-10-12",
-      "image": "https://mmx.prnewswire.com/media/MS2006065/ALPS-cropped.jpg?id=OA2998053&p=facebook",
+      "image": "https://cdn.punchng.com/wp-content/uploads/2025/12/08121813/RAILPASS.jpg",
       "category": "market"
     },
     {
-      "title": "Broadcom CEO compares AI investors to gamblers: \u2018They are in a casino\u2019",
-      "description": "The exec, Hock Tan, argued Monday that people investing in the tech barely understand where they are putting their money.",
-      "url": "https://nypost.com/2026/10/12/business/broadcom-ceo-compares-ai-investors-to-gamblers-they-are-in-a-casino/",
-      "source": "New York Post",
-      "date": "2026-10-12",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/144764125-1.jpg?quality=75&strip=all&w=1200",
-      "category": "market"
-    },
-    {
-      "title": "Cell Impact announces acceleration of previously communicated order from US customer",
-      "description": "KARLSKOGA, Sweden, Oct. 12, 2026 /PRNewswire/ -- In June, Cell Impact announced that the company had received a follow-up order for the production of flow plates for a leading US-based OEM in the fuel cell and electrolyser industry. At the time, deliveries we\u2026",
-      "url": "https://www.prnewswire.com/news-releases/cell-impact-announces-acceleration-of-previously-communicated-order-from-us-customer-302905904.html",
-      "source": "PRNewswire",
-      "date": "2026-10-12",
-      "image": "https://mmx.prnewswire.com/media/MS1751743/Cell-Impact-Logo.jpg?id=OA3012391&p=facebook",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Oil Prices Jump 2% on Saudi Attacks as OPEC Sees Demand Rebound",
-      "description": "Oil prices climbed to their highest levels in nearly two weeks on Monday morning as fresh attacks on Saudi Arabia and oil tankers near the Strait of Hormuz put Middle East supply risks back at the center of the market, outweighing President Donald Trump's ann\u2026",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Jump-2-on-Saudi-Attacks-as-OPEC-Sees-Demand-Rebound.html",
-      "source": "OilPrice.com",
-      "date": "2026-10-12",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Democrats condemn 'deeply disturbing' raid on Rep. Ilhan Omar's home ahead of U.S. midterms",
-      "description": "Democratic leaders in the U.S. House of Representatives have condemned a raid on the home of Rep. Ilhan Omar, a Minnesota congresswoman and frequent target of U.S. President Donald Trump's personal attacks. The raid comes just weeks ahead of U.S. midterm elec\u2026",
-      "url": "https://www.cbc.ca/news/world/democrats-ilhan-omar-raid-midterms-9.7377954",
-      "source": "CBC News",
-      "date": "2026-10-12",
-      "image": "https://i.cbc.ca/ais/6280ccd3-9508-4dd8-b6f5-db3e3b7aa3da,1791810199389/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C300%2C4457%2C2507%29%3BResize%3D620",
-      "category": "central_bank"
-    },
-    {
-      "title": "From gas prices to grocery bills: How Trump\u2019s economic policies are giving Democrats a new midterm campaign weapon",
-      "description": "Rising living costs are becoming a focal point for Democrats in the 2026 midterm elections. Many voters are linking these economic pressures to the policies of Donald Trump and Republican lawmakers. Democratic candidates are spending millions on advertisement\u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/from-gas-prices-to-grocery-bills-how-trumps-economic-policies-are-giving-democrats-a-new-midterm-campaign-weapon/articleshow/134898746.cms",
+      "title": "FSSAI may amend laws to make online players more accountable",
+      "description": "The regulator has also started inspections of dark stores of quick commerce firms and cloud kitchens, he said. While platforms often mention a product's shelf life, consumers may not know the actual expiry date or batch number of products before placing an or\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/food/fssai-may-amend-laws-to-make-online-players-more-accountable/articleshow/134901744.cms",
       "source": "The Times of India",
       "date": "2026-10-12",
-      "image": "https://img.etimg.com/thumb/msid-134898917,width-1200,height-900,imgsize-66482,overlay-economictimes/articleshow.jpg",
+      "image": "https://img.etimg.com/thumb/msid-134901743,width-1200,height-900,imgsize-232516,overlay-economictimes/articleshow.jpg",
       "category": "market"
     },
     {
-      "title": "Elon Musk's 'Absolutely Insane' $276 Million Midterm Spending Exposed in New Report",
-      "description": "Far-right billionaire Elon Musk is spending an unprecedented fortune helping the Republican Party maintain its majorities in Congress, according to a Monday report in The New York Times.The Times used filings made with the Federal Election Commission (FEC) to\u2026",
-      "url": "https://www.commondreams.org/news/musk-2026-campaign-spending",
-      "source": "Common Dreams",
+      "title": "China\u2019s top leadership calls for a national blockchain network, minus the tokens",
+      "description": "China's blockchain push, sans tokens, may bolster state control over digital infrastructure, impacting global blockchain innovation dynamics.\nThe post China\u2019s top leadership calls for a national blockchain network, minus the tokens appeared first on Crypto Br\u2026",
+      "url": "https://cryptobriefing.com/china-national-blockchain-network-guidelines/",
+      "source": "Crypto Briefing",
       "date": "2026-10-12",
-      "image": "https://www.commondreams.org/media-library/image.jpg?id=65174119&width=1200&height=600&coordinates=0%2C417%2C0%2C417",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/12151931/library-china-s-top-leadership-calls-for-a-national-blockchain-n-800x450.png",
+      "category": "market"
+    },
+    {
+      "title": "Soaring Tanker Rates Leave Americas Awash in Crude Oil",
+      "description": "Dense heavy crude, which oil refiners around the world favor for its typically low cost, is piling up in the Americas as soaring freight rates have stifled exports and US refiners have been running close to their limits.",
+      "url": "https://gcaptain.com/soaring-tanker-rates-leave-americas-awash-in-crude-oil/",
+      "source": "gcaptain.com",
+      "date": "2026-10-12",
+      "image": "https://gcaptain.com/wp-content/uploads/2026/04/shutterstock_2673491375.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "EXCLUSIVE: Trump's $20Million Taxpayer-Funded Ad Blitz Shut Down by Federal Judge \u2014 as White House Ordered to Pull Commercials",
+      "description": "Federal judge orders Trump's $20M taxpayer-funded ad campaign halted, blocks further spending and demands compliance from the administration.",
+      "url": "https://radaronline.com/p/trump-taxpayer-funded-campaign-shut-down-federal-judge-white-house-ordered-pull-commercials/",
+      "source": "Radaronline.com",
+      "date": "2026-10-12",
+      "image": "https://media.radaronline.com/brand-img/eRYR2dQwT/1200x628/exclusive-trumps-20m-taxpayer-funded-ad-blitz-shut-down-by-federal-judge-as-white-house-ordered-to-pull-commercials-1791820969991.jpg",
       "category": "central_bank"
+    },
+    {
+      "title": "Judge chastises DOJ lawyers after 403 trees cut down at D.C. golf course",
+      "description": "Government lawyers said 430 trees were cut down at East Potomac Golf Links on Saturday.",
+      "url": "https://www.cbsnews.com/news/judge-ana-reyes-justice-department-trees-east-potomac-golf-course/",
+      "source": "CBS News",
+      "date": "2026-10-12",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/12/a7de30f7-c2f0-4c5d-ba59-d84b23ff5e89/thumbnail/1200x630/0344edf495fa1d88ced61bf882bfeeb8/gettyimages-2299028421.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Billions in the bin as economy struggles with true cost of food waste",
+      "description": "Australia wastes about $36 billion worth of food a year and experts say many businesses don't even know how much potential profit they're throwing away.",
+      "url": "https://www.abc.net.au/news/2026-10-13/australia-food-waste-business-economic-cost/107249996",
+      "source": "ABC News (AU)",
+      "date": "2026-10-12",
+      "image": "https://live-production.wcms.abc-cdn.net.au/91c2cceeefb4371a1bc701b357619fbc?impolicy=wcms_watermark_news&cropH=2088&cropW=3712&xPos=0&yPos=694&width=862&height=485&imformat=generic",
+      "category": "market"
     }
   ],
   "history": [
@@ -517,7 +517,7 @@
       "platinum_usd_oz": 1681.4
     }
   ],
-  "timestamp": "2026-10-13T22:33:09.682152+05:30",
+  "timestamp": "2026-10-14T00:57:55.145069+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
