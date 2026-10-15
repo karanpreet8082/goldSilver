@@ -54,7 +54,7 @@
         "hold": 50
       },
       "summary": "Gold is showing positive signals. Strong daily gain of 1.1%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-15T14:17:20.071917",
+      "timestamp": "2026-10-15T17:16:45.839415",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 50
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 1.8%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-15T14:17:20.151457",
+      "timestamp": "2026-10-15T17:16:45.915774",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 50
       },
       "summary": "Platinum is showing positive signals. Strong daily gain of 2.1%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-15T14:17:20.222078",
+      "timestamp": "2026-10-15T17:16:46.021098",
       "source": "rule-based"
     }
   },
@@ -135,94 +135,130 @@
   },
   "news": [
     {
-      "title": "US stocks: Nasdaq nears one-month low as AI stocks slide on debt concerns",
-      "description": "On Thursday, the Nasdaq index fell sharply, hitting near a near-month low amid rising concerns about how increasing interest rates might impact investments in artificial intelligence and related sectors.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-nasdaq-nears-one-month-low-as-ai-stocks-slide-on-debt-concerns/articleshow/134969761.cms",
+      "title": "IIFL Finance Q2 profit nearly doubles to Rs 805 crore; AUM rises 38%",
+      "description": "IIFL Finance reported a significant increase in profit after tax for the quarter, rising to Rs 805 crore. This growth was attributed to stronger operating leverage and reduced loan losses during the period. The company's assets under management also rose substantially to Rs 1.24 lakh crore, primaril",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/iifl-finance-q2-profit-nearly-doubles-to-rs-805-crore-aum-rises-38/articleshow/134972001.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-10-15",
+      "image": "",
+      "category": "metals"
+    },
+    {
+      "title": "Copper hits 10-day low on profit-taking as supply worries ease",
+      "description": "Copper prices decreased to their lowest point in ten days, influenced by profit-taking and lower supply fears. The decline in prices coincided with rising concerns over inflation and interest rates. After reaching an agreement at the Escondida mine, Chilean miner BHP alleviated worries about possibl",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/copper-hits-10-day-low-on-profit-taking-as-supply-worries-ease/articleshow/134971534.cms",
       "source": "Economic Times Markets",
       "date": "2026-10-15",
       "image": "",
       "category": "central_bank"
     },
     {
-      "title": "US stocks: CoreWeave's slump puts spotlight on debt behind AI boom",
-      "description": "CoreWeave's financial distress is highlighted by its $50 billion debt and significant default risks, causing stock prices to drop. Investors express concerns about how the AI industry's expansion is financed, especially with rising interest rates. The company's efforts to secure an investment-grade ",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-coreweaves-slump-puts-spotlight-on-debt-behind-ai-boom/articleshow/134969509.cms",
+      "title": "Market selloff, rising rates test AI data centre deal boom",
+      "description": "A market selloff is forcing companies driving the global AI boom to delay fundraising plans or pay more for capital as investors demand proof they can absorb rising interest rates and computing-power costs.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/market-selloff-rising-rates-test-ai-data-centre-deal-boom/articleshow/134971509.cms",
       "source": "Economic Times Markets",
       "date": "2026-10-15",
       "image": "",
       "category": "central_bank"
     },
     {
-      "title": "Greenland Mines Applauds President Trump\u2019s Focus on Greenland Mineral Exploration, Reinforcing Its Importance to U.S. and Allied Security",
-      "description": "Company highlights Sarfartoq rare earths and Skaergaard precious metals as potential contributors to secure Western mineral supply chains CHARLOTTE, N.C., Oct. 14, 2026 (GLOBE NEWSWIRE) \u2014 via IBN \u2014 Greenland Mines Ltd (Nasdaq: GRML; FSE: HK6) (\u201cGreenland Mine\u2026",
-      "url": "https://financialpost.com/globe-newswire/greenland-mines-applauds-president-trumps-focus-on-greenland-mineral-exploration-reinforcing-its-importance-to-u-s-and-allied-security",
-      "source": "Financial Post",
-      "date": "2026-10-14",
-      "image": null,
-      "category": "supply_demand"
+      "title": "Market Trading Guide: Adani Power among 2 stock recommendations for Friday",
+      "description": "Indian equities rallied as global technology stocks weakened amid AI valuation concerns and US inflation worries. Analysts recommend Bajaj Holdings and Adani Power for Friday, citing improving technical momentum, key support levels and potential upside, subject to market conditions.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-adani-power-among-2-stock-recommendations-for-friday/articleshow/134971119.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-10-15",
+      "image": "",
+      "category": "inflation"
     },
     {
-      "title": "Former FTX Europe chief targets U.S. tokenized stock trading with new SEC exemption",
-      "description": "Nasdaq-listed Perpetuals.com is the second company to pursue a U.S. tokenized stock marketplace under the SEC's new framework, following a joint venture between OKX and NYSE parent ICE.",
-      "url": "https://www.coindesk.com/business/2026/10/14/former-ftx-europe-chief-targets-u-s-stock-tokenization-with-new-sec-exemption",
-      "source": "CoinDesk",
+      "title": "Bitwise CIO Believes Bitcoin Can Mirror Gold\u2019s Trajectory and Reach a $30 Trillion Market",
+      "description": "Bitwise CIO Matt Hougan believes Bitcoin could mirror gold's dramatic growth after its first ETF launch, potentially reaching a $30 trillion market value.",
+      "url": "https://zycrypto.com/bitwise-cio-believes-bitcoin-can-mirror-golds-trajectory-and-reach-a-30-trillion-market/",
+      "source": "ZyCrypto",
       "date": "2026-10-14",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/3c1c2dd612e9c072909700bd4d0ae7b27a57c237-1112x626.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "image": "https://zycrypto.com/wp-content/uploads/2024/03/Fred-Thiel-Foresees-More-Sovereign-Nations-Prioritizing-Bitcoin-Over-Gold-as-Reserve-Asset-1.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "Fairfax faces CSB conundrum after winning IDBI Bank bid; Merger emerges as likely route",
+      "description": "The Cabinet Committee on Economic Affairs (CCEA) approves \u201c10955230 Canada Inc.\u201d as the strategic buyer in the restructuring of IDBI Bank",
+      "url": "https://www.thehindubusinessline.com/money-and-banking/fairfax-faces-csb-conundrum-after-winning-idbi-bank-bid-merger-emerges-as-likely-route/article71584323.ece",
+      "source": "BusinessLine",
+      "date": "2026-10-14",
+      "image": "https://bl-i.thgim.com/public/incoming/ucitct/article68950986.ece/alternates/LANDSCAPE_1200/IMG_BL_-_BLACKBERRY-OFFE_2_1_LECCSTMI.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Maritime board bill proposes unified decision-making system",
+      "description": "Kerala Maritime Board (Amendment) Bill 2026 proposes CM-led unified port governance, port development authorities, land bank and 45-year PPPs to boost investment.",
+      "url": "https://timesofindia.indiatimes.com/city/thiruvananthapuram/maritime-board-bill-proposes-unified-decision-making-system/articleshow/134946482.cms",
+      "source": "The Times of India",
+      "date": "2026-10-14",
+      "image": "https://static.toiimg.com/thumb/msid-134946481,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Mercuria Signs Gold Offtake Agreement with Heritage Minerals",
+      "description": "GENEVA, Oct. 14, 2026 /PRNewswire/ -- Mercuria Group (\"Mercuria\") today announces that it has entered into a prepayment and offtake agreement with Heritage Minerals in support of the restart of operations at the Mount Morgan gold mine in Queensland, Australia\u2026",
+      "url": "https://www.prnewswire.com/news-releases/mercuria-signs-gold-offtake-agreement-with-heritage-minerals-302908786.html",
+      "source": "PRNewswire",
+      "date": "2026-10-14",
+      "image": "https://mmx.prnewswire.com/media/MS642715/Mercuria-Logo.jpg?id=OA3019221&p=facebook",
+      "category": "metals"
+    },
+    {
+      "title": "Cleveland must consider compensation after rezoning a $52,100 used-car lot investment for housing",
+      "description": "An Ohio appellate court has determined that Cleveland owes TMS Enterprises compensation following a contentious zoning amendment. The firm had invested in land with plans for a used-car dealership, but the city reclassified the site from commercial to residen\u2026",
+      "url": "https://timesofindia.indiatimes.com/world/us/an-ohio-company-paid-12100-for-cleveland-land-and-put-40000-into-a-planned-used-car-lot-months-later-the-city-rezoned-it-residential-and-an-appeals-court-said-the-move-was-a-compensable-taking/articleshow/134945137.cms",
+      "source": "The Times of India",
+      "date": "2026-10-14",
+      "image": "https://static.toiimg.com/thumb/msid-134946292,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Silver futures plunge 4% on MCX ahead of US CPI; rising oil adds pressure",
+      "description": "Silver prices fell sharply on October 14 as rising crude oil prices, a stronger dollar and caution ahead of US inflation data weighed on sentiment.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/silver-futures-plunge-4-on-mcx-ahead-of-us-cpi-rising-oil-adds-pressure/articleshow/134946048.cms",
+      "source": "The Times of India",
+      "date": "2026-10-14",
+      "image": "https://img.etimg.com/thumb/msid-134946099,width-1200,height-900,imgsize-87662,overlay-etmarkets/articleshow.jpg",
       "category": "currency"
     },
     {
-      "title": "Learning from social assessments of innovative non-sewered sanitation in eThekwini",
-      "description": "As non-sewered sanitation (NSS) is being designed, developed, tested and rolled out, there is widespread support for the integration of social science. Yet what, precisely, social science can and should do remains much less clear. This paper explains the spec\u2026",
-      "url": "https://journals.plos.org/water/article?id=10.1371/journal.pwat.0000527",
-      "source": "Plos.org",
+      "title": "Axi Launches MCP Integration Connecting MT5 Accounts to Claude",
+      "description": "SYDNEY, Oct. 14, 2026 (GLOBE NEWSWIRE) \u2014 As artificial intelligence continues to reshape how people interact with technology, the online trading industry is entering a new phase in the evolution of trading tools. From analysing information to managing increas\u2026",
+      "url": "https://financialpost.com/globe-newswire/axi-launches-mcp-integration-connecting-mt5-accounts-to-claude",
+      "source": "Financial Post",
       "date": "2026-10-14",
-      "image": "https://journals.plos.org/water/article/figure/image?id=10.1371/journal.pwat.0000527.g002&size=inline",
+      "image": null,
       "category": "market"
     },
     {
-      "title": "Saints Owner Gayle Benson Calls 1-4 Start \u2018Unacceptable\u2019",
-      "description": "Benson didn't hold back when addressing the Saints disappointing start to the season.",
-      "url": "https://www.canalstreetchronicles.com/nfl-news/116461/saints-owner-gayle-benson-calls-1-4-start-unacceptable",
-      "source": "Canal Street Chronicles",
+      "title": "CleanBoss Highlights Three-Year Growth at Consensus Great Brands Show",
+      "description": "Co-founded by Joy Mangano and Armando Christian P\u00e9rez, Pitbull, and backed by Consello Capital, the better-for-you cleaning brand showcases its multichannel business and opportunities for continued growth into 2027 NEW YORK, Oct. 14, 2026 /PRNewswire/ -- Clea\u2026",
+      "url": "https://www.prnewswire.com/news-releases/cleanboss-highlights-three-year-growth-at-consensus-great-brands-show-302908720.html",
+      "source": "PRNewswire",
       "date": "2026-10-14",
-      "image": "https://s.yimg.com/lo/mysterio/api/536fc24105f028ac4eedb694f1edbf11db3454cf81e39b55d439ecdc61249a8f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fecd48a394bd95f48cc14173b77a270ed.jpg",
+      "image": "https://mmx.prnewswire.com/media/MS2013225/CleanBoss-Joy-and-Pitbull.jpg?id=OA3018596&p=facebook",
       "category": "market"
     },
     {
-      "title": "India homecoming: The Hyderabad-born man behind Fairfax, the Canadian powerhouse that has bought IDBI",
-      "description": "Prem Watsa, who moved from Hyderabad to Canada at 22 with $8, built Fairfax Financial into a global insurance and investment group. Now valued at around $100 billion in assets, Fairfax is expanding its India presence through the acquisition of IDBI Bank.",
-      "url": "https://www.livemint.com/companies/people/india-homecoming-the-hyderabad-born-man-behind-fairfax-the-canadian-powerhouse-that-has-bought-idbi-11791977369730.html",
-      "source": "Livemint",
+      "title": "Lahontan Gold Announces Updated Santa Fe Preliminary Economic Assessment Featuring an Eleven-Year Mine Life and Post-Tax NPV5 of US$820 Million",
+      "description": "TORONTO, Oct. 14, 2026 (GLOBE NEWSWIRE) \u2014 Lahontan Gold Corp. (TSXV:LG, OTCQB:LGCXF) (the \u201cCompany\u201d or \u201cLahontan\u201c) is pleased to announce results from a positive Preliminary Economic Assessment (\u201cPEA\u201c) on its flagship Santa Fe Mine gold-silver project located\u2026",
+      "url": "https://financialpost.com/globe-newswire/lahontan-gold-announces-updated-santa-fe-preliminary-economic-assessment-featuring-an-eleven-year-mine-life-and-post-tax-npv5-of-us820-million",
+      "source": "Financial Post",
       "date": "2026-10-14",
-      "image": "https://www.livemint.com/lm-img/img/2026/10/14/1600x900/logo/Untitled_Design_1791982483197_ChGx_1791982487188_HOL2_e6a4a403-96a5-4a2e-905d-028407a58d57_9nPO.png",
-      "category": "market"
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/10/table-6-project-wide-resources-santa-fe-mine-mineral-county-.png",
+      "category": "metals"
     },
     {
-      "title": "How CFOs at Chevron, ServiceNow and Nasdaq decide which AI bets create value",
-      "description": "Finance chiefs from energy, software and markets say AI has to compete for capital.",
-      "url": "https://fortune.com/2026/10/14/chevron-servicenow-nasdaq-cfo-decide-which-ai-bets-create-value/",
-      "source": "Fortune",
+      "title": "Centalion Boosts Haynesville Presence with Silver Hill Acquisition",
+      "description": "'On a pro-forma basis, Centalion's Haynesville footprint ranks as one of the largest amongst private operators and positions it as a significant market participant in the U.S. natural gas market'.",
+      "url": "https://www.rigzone.com/news/centalion_boosts_haynesville_presence_with_silver_hill_acquisition-14-oct-2026-184850-article/",
+      "source": "Rigzone",
       "date": "2026-10-14",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/55587959761_977e068dcf_3k.jpg?resize=1200,600",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Show HN: My AI agent kept quoting undated market numbers, so I built PreReason",
-      "description": "Financial market context for AI agents: macro, rates, bonds, FX, commodities, companies and Bitcoin. One API call returns a briefing with the reasoning already in it.",
-      "url": "https://www.prereason.com/",
-      "source": "Prereason.com",
-      "date": "2026-10-14",
-      "image": "https://www.prereason.com/og/home.png?v=5",
-      "category": "market"
-    },
-    {
-      "title": "AI sector wipeout risks global financial contagion, IMF report warns",
-      "description": "The International Monetary Fund has produced a report examining how financing for the global AI buildout could result in contagion should the industry fail to produce its promised profits.",
-      "url": "https://www.tomshardware.com/tech-industry/big-tech/the-imf-highlights-how-a-financial-wipeout-in-the-ai-sector-could-become-a-global-contagion-agency-report-shines-light-on-circular-economics-and-leveraged-loans",
-      "source": "Tom's Hardware UK",
-      "date": "2026-10-14",
-      "image": "https://cdn.mos.cms.futurecdn.net/K6huxqH2eebitnVnmTcJJS-2309-80.jpg",
-      "category": "geopolitics"
+      "image": "https://images.rigzone.com/images/news/articles/Centalion-Boosts-Haynesville-Presence-with-Silver-Hill-Acquisition-184850-1200x628.png",
+      "category": "metals"
     },
     {
       "title": "Gold drops over 1% as hot US inflation data boosts Fed hike bets",
@@ -270,139 +306,103 @@
       "category": "metals"
     },
     {
-      "title": "Brixton Metals Samples New Vein Grading 195 g/t Gold, 4.11% Copper and 147 g/t Silver At Its Thorn Project",
-      "description": "And Samples Yield 78.7 g/t Au, 78.0 g/t Au Along Strike VANCOUVER, British Columbia, Oct. 14, 2026 (GLOBE NEWSWIRE) \u2014 Brixton Metals Corporation (TSX-V: BBB, OTCQX: BBBXF) (the \u201cCompany\u201d or \u201cBrixton\u201d) is pleased to announce that it has identified a new high-g\u2026",
-      "url": "https://financialpost.com/globe-newswire/brixton-metals-samples-new-vein-grading-195-g-t-gold-4-11-copper-and-147-g-t-silver-at-its-thorn-project",
-      "source": "Financial Post",
+      "title": "Qatar Rewrites Its Gas Playbook With Old Tankers and New Tactics",
+      "description": "Six months into a\u00a0war\u00a0that sowed upheaval in the Persian Gulf,\u00a0Qatar found itself\u00a0stuck. By late August, even limited shipments from the gas heavyweight\u00a0had all but\u00a0stopped\u00a0following\u00a0a\u00a0projectile attack\u00a0on one of its\u00a0tankers outside the Strait of Hormuz. Pres\u2026",
+      "url": "https://gcaptain.com/qatar-rewrites-its-gas-playbook-with-old-tankers-and-new-tactics/",
+      "source": "gcaptain.com",
       "date": "2026-10-14",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/10/figure-1-11.png",
-      "category": "metals"
-    },
-    {
-      "title": "Aya Gold & Silver Reports Record Q3-2026 Production of 2.03 Million AgEq Ounces",
-      "description": "MONTREAL, Oct. 14, 2026 (GLOBE NEWSWIRE) \u2014 Aya Gold & Silver Inc.\u00a0(TSX: AYA; NASDAQ: AYA) (\u201cAya\u201d or the \u201cCompany\u201d) is pleased to announce record quarterly silver production at its Zgounder Silver Mine (\u201cZgounder\u201d), as well as further advancement of its Boumad\u2026",
-      "url": "https://financialpost.com/globe-newswire/aya-gold-silver-reports-record-q3-2026-production-of-2-03-million-ageq-ounces",
-      "source": "Financial Post",
-      "date": "2026-10-14",
-      "image": null,
-      "category": "supply_demand"
-    },
-    {
-      "title": "Yukon Metals Confirms New Copper-Gold-Molybdenum Porphyry-Style System at Viper Prospect, AZ Project",
-      "description": "VANCOUVER, British Columbia, Oct. 14, 2026 (GLOBE NEWSWIRE) \u2014 Yukon Metals Corp. (CSE: YMC, FSE: E770, OTCQB: YMMCF) (\u201cYukon Metals\u201d or the \u201cCompany\u201d) is pleased to report that it has confirmed the presence of a new porphyry-style hydrothermal system with cop\u2026",
-      "url": "https://financialpost.com/globe-newswire/yukon-metals-confirms-new-copper-gold-molybdenum-porphyry-style-system-at-viper-prospect-az-project",
-      "source": "Financial Post",
-      "date": "2026-10-14",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/10/figure-1-10.png",
-      "category": "metals"
-    },
-    {
-      "title": "Toluna Appoints Amy Fenton as Chief Executive Officer",
-      "description": "Appointment completes the planned succession announced on October 8, 2026. Founder Fr\u00e9d\u00e9ric Charles Petit continues as Board member, Senior Advisor and Shareholder. LONDON \u2014 Toluna, a global leader in consumer insights and market research technology, today an\u2026",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/toluna-appoints-amy-fenton-as-chief-executive-officer",
-      "source": "Financial Post",
-      "date": "2026-10-14",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/10/bw20261014103169_amy_fenton.jpeg",
-      "category": "market"
-    },
-    {
-      "title": "Q2 Results Today Highlights: Groww Q2 profit jumps 54%, Canara Bank up 8.4%; HDB Financial profit rises, Tata Tech revenue surges 28%, Leela net profit up 27%",
-      "description": "Q2 Results Today, 14th October 2026 Highlights: Find all the latest Q2 results 2026 updates of Ardi Alliances, Aurique, Bacil Pharma, Bajaj Consumer Care, Bharat Heavy Electricals, Aditya Birla Money-$, Canara Bank, Ceat, Elecon Engineering Company, Emmvee Ph\u2026",
-      "url": "https://www.thehindubusinessline.com/markets/q2-results-today-highlights-bhel-bilionbrains-garage-ventures-canara-bank-icicigi-ceat-hdb-financial-tata-tech-company-results-14-october-2026/article71579002.ece",
-      "source": "BusinessLine",
-      "date": "2026-10-14",
-      "image": "https://bl-i.thgim.com/public/markets/stock-markets/awvk2/article71578968.ece/alternates/LANDSCAPE_1200/images%201.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Lydian Pay Launches on iPhone and Android, Allowing Any Smartphone to Be a Crypto Checkout",
-      "description": "Merchants can now accept digital asset payments on any phone or tablet and settle in the local currency to their bank account Launch supports the 90% of merchants who would accept crypto payments if the setup were as simple as accepting a credit card. NEW YOR\u2026",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/lydian-pay-launches-on-iphone-and-android-allowing-any-smartphone-to-be-a-crypto-checkout",
-      "source": "Financial Post",
-      "date": "2026-10-14",
-      "image": null,
-      "category": "currency"
-    },
-    {
-      "title": "President Trump Pardons Alaska Diesel Mechanics Who Were Charged Under Clean Air Act \u2013 Says They Are Now \u201cAs Clean as a New-Born Baby\u2019s A$$\u201d (Video)",
-      "description": "President Trump traveled to Alaska on Tuesday to hold a rally for Senator Dan Sullivan who is up for reelection in November.\nThe post President Trump Pardons Alaska Diesel Mechanics Who Were Charged Under Clean Air Act \u2013 Says They Are Now \u201cAs Clean as a New-B\u2026",
-      "url": "https://www.thegatewaypundit.com/2026/10/president-trump-pardons-alaska-diesel-mechanics-who-were/",
-      "source": "Thegatewaypundit.com",
-      "date": "2026-10-14",
-      "image": "https://www.thegatewaypundit.com/wp-content/uploads/2026/10/trump-pardons-mechanics-1200x630.jpg",
+      "image": "https://gcaptain.com/wp-content/uploads/2015/03/shutterstock_33420973.jpg",
       "category": "geopolitics"
     },
     {
-      "title": "I Can Read Your Mind: You're Relying on One of These 2 Brands to Stay Safe Online",
-      "description": "When 1,000 people were asked to name a cybersecurity brand off the top of their heads, two legacy giants dominated. As a security expert, that terrifies me.\nThink of a cybersecurity brand. Got one? OK, let me read your mind\u2026is it Norton? No? How about McAfee?\u2026",
-      "url": "https://uk.pcmag.com/security/167918/i-can-read-your-mind-youre-relying-on-one-of-these-2-brands-to-stay-safe-online",
-      "source": "PCMag.com",
+      "title": "OpenAI\u2019s UK subsidiary posted \u00a331.7M pre-tax profit for 2025",
+      "description": "OpenAI UK's profit surge highlights the growing financial viability and strategic importance of AI development in the global tech landscape.\nThe post OpenAI\u2019s UK subsidiary posted \u00a331.7M pre-tax profit for 2025 appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/openai-uk-subsidiary-profit-staff-costs-2025/",
+      "source": "Crypto Briefing",
       "date": "2026-10-14",
-      "image": "https://sm.pcmag.com/t/pcmag_uk/news/i/i-can-read/i-can-read-your-mind-youre-relying-on-one-of-these-2-brands_6cas.1200.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Fiber Optic Components Market worth $76.44 billion by 2032 - Exclusive Report by MarketsandMarkets\u2122",
-      "description": "DELRAY BEACH, Fla., Oct. 14, 2026 /PRNewswire/ -- According to MarketsandMarkets\u2122, the fiber optic components market is projected to reach USD 76.44 billion by 2032 from USD 41.13 billion in 2026, at a CAGR of 10.9% during the forecast period. Browse 199 mark\u2026",
-      "url": "https://www.prnewswire.com/news-releases/fiber-optic-components-market-worth-76-44-billion-by-2032---exclusive-report-by-marketsandmarkets-302908337.html",
-      "source": "PRNewswire",
-      "date": "2026-10-14",
-      "image": "https://mmx.prnewswire.com/media/MS1173081/MarketsandMarkets-Logo.jpg?id=OA3018092&p=facebook",
-      "category": "currency"
-    },
-    {
-      "title": "Trump's diesel deal with Russia is unlikely to significantly lower global fuel prices despite expectations of rapid relief",
-      "description": "As the world's largest diesel exporter, the US benefits from high prices. At home, however, consumers are feeling the strain of rising living costs. Why Donald Trump's deal with Russia is unlikely to change that.",
-      "url": "https://www.dw.com/en/trumps-diesel-deal-with-russia-is-unlikely-to-significantly-lower-global-fuel-prices-despite-expectations-of-rapid-relief/a-79659601",
-      "source": "DW (English)",
-      "date": "2026-10-14",
-      "image": "https://static.dw.com/image/79626408_6.jpg",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/14131421/library-openai-s-uk-subsidiary-posted-31-7m-pre-tax-profit-for-2-800x450.png",
       "category": "supply_demand"
     },
     {
-      "title": "Fort Hood\u2019s Killer Was a Top Army Psychiatrist \u2013 Was \u2018Lone Wolf\u2019 the Whole Story?",
-      "description": "Fort Hood\u2019s Killer Was a Top Army Psychiatrist \u2013 Was \u2018Lone Wolf\u2019 the Whole Story?\nThe post Fort Hood\u2019s Killer Was a Top Army Psychiatrist \u2013 Was \u2018Lone Wolf\u2019 the Whole Story? appeared first on The Gateway Pundit.",
-      "url": "https://joehoft.com/fort-hoods-killer-was-top-army-psychiatrist-was/",
-      "source": "Joehoft.com",
+      "title": "Can India's latest FTAs put it on the road to Viksit Atmanirbhar Bharat?",
+      "description": "India's FTAs can boost export-led growth, but sustainable gains will depend on responsible subsidies, stronger labour standards and environment-friendly production",
+      "url": "https://www.business-standard.com/opinion/columns/can-india-s-latest-ftas-put-it-on-the-road-to-viksit-atmanirbhar-bharat-126101401346_1.html",
+      "source": "Business Standard",
       "date": "2026-10-14",
-      "image": "https://joehoft.com/wp-content/uploads/2026/10/Ft-Hood-Shooter-1200x630.jpg",
-      "category": "market"
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-02/03/thumb/fitandfill/1200X628/1770142892-7876.jpg",
+      "category": "supply_demand"
     },
     {
-      "title": "US yields jump as hot consumer inflation boosts rate hike bets",
-      "description": "In September, the US Treasury yields climbed as the Consumer Price Index (CPI) showed a surprising rise of 0.6% month-over-month and 3.7% year-over-year. This unexpected inflation report heightened the chances of an interest rate hike by the Federal Reserve i\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-yields-jump-as-hot-consumer-inflation-boosts-rate-hike-bets/articleshow/134944738.cms",
+      "title": "Attacks in Strait of Hormuz reach highest level since start of US Iran war, security data shows",
+      "description": "At least ten vessels have been attacked in the Strait of Hormuz since Sunday amid ongoing conflict. Four vessels were struck on Tuesday while six were attacked on Sunday, marking the highest daily total. Two seafarers are missing, and a container ship has rep\u2026",
+      "url": "https://economictimes.indiatimes.com/news/defence/attacks-in-strait-of-hormuz-reach-highest-level-since-start-of-us-iran-war-security-data-shows/articleshow/134947229.cms",
       "source": "The Times of India",
       "date": "2026-10-14",
-      "image": "https://img.etimg.com/thumb/msid-134944757,width-1200,height-900,imgsize-44036,overlay-etmarkets/articleshow.jpg",
-      "category": "central_bank"
+      "image": "https://img.etimg.com/thumb/msid-134947597,width-1200,height-900,imgsize-128152,overlay-etdefence/articleshow.jpg",
+      "category": "geopolitics"
     },
     {
-      "title": "Dow Edges Up as S&P 500 and Nasdaq Slip on Hotter-Than-Expected Inflation, Bank of America Shares Tumble",
-      "description": "US stocks traded unevenly after September inflation exceeded forecasts, lifting Treasury yields. Bank of America shares fell sharply after a $1.2 billion regulatory penalty, while technology stocks declined.",
-      "url": "https://www.ibtimes.com.au/us-stocks-mixed-hotter-inflation-bank-america-penalty-1876692",
-      "source": "Ibtimes.com.au",
+      "title": "Canada aims for India trade deal by year-end, Sidhu says",
+      "description": "Canada will seek to conclude a trade deal with India by the end of the year as the two countries look to strengthen economic ties. Read on.",
+      "url": "https://financialpost.com/news/canada-india-trade-deal-year-end-sidhu",
+      "source": "Financial Post",
       "date": "2026-10-14",
-      "image": "https://d.ibtimes.com.au/en/full/1893186/ftse-100-surges-08-today-oil-eases-markets.jpg",
-      "category": "inflation"
-    },
-    {
-      "title": "FEDS Note: The Rise of Semiliquid Funds for Retail Investors",
-      "description": "Logan George and Chaehee ShinInvestment funds differ in how investors can access their capital. The redemption rules governing how and when investors can withdraw have evolved endogenously in response to shifting investor demand and regulatory constraints. Wh\u2026",
-      "url": "https://www.federalreserve.gov/econres/notes/feds-notes/the-rise-of-semiliquid-funds-for-retail-investors-20261014.html",
-      "source": "Federalreserve.gov",
-      "date": "2026-10-14",
-      "image": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "Who votes when? Midterm and presidential voters differ primarily by age",
-      "description": "Voters in American congressional midterm elections are widely viewed as demographically less representative than those in presidential elections \u2013 older, whiter, wealthier, and more educated. Using Current Population Survey data from 1994 through 2024 as well\u2026",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0360051",
-      "source": "Plos.org",
-      "date": "2026-10-14",
-      "image": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0360051.g004&size=inline",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/10/1015-bc-sidhu-.jpg",
       "category": "market"
+    },
+    {
+      "title": "India's cultural heritage receiving growing recognition at global level: PM Modi",
+      "description": "Prime Minister Narendra Modi highlighted the importance of India's music, dance, cinema, and cuisine during a conference. The event, titled 'Brihattar Bharat', focuses on India's cultural connections and legacy across the globe. Modi mentioned preserving Indi\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/indias-cultural-heritage-receiving-growing-recognition-at-global-level-pm-modi/articleshow/134947562.cms",
+      "source": "The Times of India",
+      "date": "2026-10-14",
+      "image": "https://img.etimg.com/thumb/msid-134947605,width-1200,height-900,imgsize-91102,overlay-economictimes/articleshow.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Our Patrons Aren\u2019t the Problem: Discourses of Safety Amidst a Toxic Drug Supply Crisis",
+      "description": "In Brief The toxic drug supply crisis has had profound impacts on workers in Canadian public libraries. While library workers struggle with changing job duties, understaffing, and the mental and emotional toll of laboring during death times, narratives of uns\u2026",
+      "url": "https://www.inthelibrarywiththeleadpipe.org/2026/our-patrons-arent-the-problem-discourses-of-safety-amidst-a-toxic-drug-supply-crisis/",
+      "source": "Inthelibrarywiththeleadpipe.org",
+      "date": "2026-10-14",
+      "image": null,
+      "category": "supply_demand"
+    },
+    {
+      "title": "Inflation Hits Highest Level in Months as Costs From Trump's Illegal War Eat Workers' Paychecks",
+      "description": "Data released by the US Bureau of Labor Statistics on Wednesday showed inflation grew faster than expected in September, driven in large part by costs related to President Donald Trump's illegal war with Iran.The latest Consumer Price Index (CPI) report showe\u2026",
+      "url": "https://www.commondreams.org/news/september-inflation-gas-oil",
+      "source": "Common Dreams",
+      "date": "2026-10-14",
+      "image": "https://www.commondreams.org/media-library/image.jpg?id=67728905&width=1200&height=600&coordinates=0%2C330%2C0%2C331",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Officials see gaps in election communications as AI makes foreign influence easier",
+      "description": "Sources describe weakening cooperation between the federal government and state and industry partners ahead of the midterms, as AI gives foreign operatives cheaper ways to produce and spread deceptive messages.",
+      "url": "https://www.nextgov.com/cybersecurity/2026/10/officials-see-gaps-election-communications-ai-makes-foreign-influence-easier/416583/",
+      "source": "Nextgov",
+      "date": "2026-10-14",
+      "image": "https://cdn.nextgov.com/media/img/cd/2026/10/14/101426VoteNG/open-graph.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Trump Is Turning Government Power Into an Electoral Liability",
+      "description": "On October 11, a federal judge ordered\r\n the Trump administration to stop using taxpayer funds for television ads featuring the president. Yet two commercials continued airing\r\n past the court\u2019s deadline. By the following evening, Justice Department lawyers h\u2026",
+      "url": "https://www.commondreams.org/opinion/trump-gov-power-election",
+      "source": "Common Dreams",
+      "date": "2026-10-14",
+      "image": "https://www.commondreams.org/media-library/image.png?id=67857926&width=1200&height=600&coordinates=0%2C24%2C0%2C25",
+      "category": "central_bank"
+    },
+    {
+      "title": "How high inflation became a 'fact of life' in the U.S.",
+      "description": "U.S. inflation has stayed elevated for years, raising concern at the Federal Reserve that consumers may come to expect stubbornly high prices.",
+      "url": "https://www.cnbc.com/2026/10/14/high-inflation-fed-expectations.html",
+      "source": "CNBC",
+      "date": "2026-10-14",
+      "image": "https://image.cnbcfm.com/api/v1/image/108295010-1776807990973-gettyimages-2272451874-jr_15888_qsl4bswz.jpeg?v=1776808066&w=1920&h=1080",
+      "category": "central_bank"
     }
   ],
   "history": [
@@ -517,7 +517,7 @@
       "platinum_usd_oz": 1681.4
     }
   ],
-  "timestamp": "2026-10-15T19:47:20.234730+05:30",
+  "timestamp": "2026-10-15T22:46:46.029998+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
