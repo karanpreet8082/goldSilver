@@ -54,7 +54,7 @@
         "hold": 50
       },
       "summary": "Gold is showing positive signals. Strong daily gain of 1.1%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-15T11:51:30.729234",
+      "timestamp": "2026-10-15T14:17:20.071917",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 50
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 1.8%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-15T11:51:30.799179",
+      "timestamp": "2026-10-15T14:17:20.151457",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 50
       },
       "summary": "Platinum is showing positive signals. Strong daily gain of 2.1%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-15T11:51:30.860717",
+      "timestamp": "2026-10-15T14:17:20.222078",
       "source": "rule-based"
     }
   },
@@ -135,31 +135,85 @@
   },
   "news": [
     {
-      "title": "Reliance Jio IPO: With tech muscle, Akash Ambani makes $1.4 trillion digital economy pitch to investors",
-      "description": "Akash Ambani is positioning Jio Platforms to capture a significant share of India\u2019s projected $1.4 trillion digital economy by FY31. Ahead of its Rs 30,213 crore IPO, he highlighted 7,200 patents, 5G leadership and technology partnerships.",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/reliance-jio-ipo-with-tech-muscle-akash-ambani-makes-1-4-trillion-digital-economy-pitch-to-investors/articleshow/134966429.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-10-15",
-      "image": "",
-      "category": "market"
-    },
-    {
-      "title": "Marine Drive was lit up for Reliance IPO: Uday Kotak recalls Dhirubhai Ambani\u2019s market legacy amid Jio IPO",
-      "description": "Jio's upcoming IPO will surpass previous records, signaling a remarkable development in Reliance Industries' history. Uday Kotak reflects on the past influence of Dhirubhai Ambani's public offerings from decades ago. The offering will represent a crucial advancement in India's digital transformation",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/marine-drive-was-lit-up-for-reliance-ipo-uday-kotak-recalls-dhirubhai-ambanis-market-legacy-amid-jio-ipo/articleshow/134963814.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-10-15",
-      "image": "",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Rupee extends winning streak as dollar, oil ease and stocks rally",
-      "description": "In a notable financial scenario, the Indian rupee appreciated by 0.1% against the dollar, securing its fourth consecutive day of gains. This uptick was attributed to decreasing oil prices alongside a boost in Indian stock performance, which went against the regional market tide. Concurrently, a decl",
-      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-extends-winning-streak-as-dollar-oil-ease-and-stocks-rally/articleshow/134965552.cms",
+      "title": "US stocks: Nasdaq nears one-month low as AI stocks slide on debt concerns",
+      "description": "On Thursday, the Nasdaq index fell sharply, hitting near a near-month low amid rising concerns about how increasing interest rates might impact investments in artificial intelligence and related sectors.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-nasdaq-nears-one-month-low-as-ai-stocks-slide-on-debt-concerns/articleshow/134969761.cms",
       "source": "Economic Times Markets",
       "date": "2026-10-15",
       "image": "",
       "category": "central_bank"
+    },
+    {
+      "title": "US stocks: CoreWeave's slump puts spotlight on debt behind AI boom",
+      "description": "CoreWeave's financial distress is highlighted by its $50 billion debt and significant default risks, causing stock prices to drop. Investors express concerns about how the AI industry's expansion is financed, especially with rising interest rates. The company's efforts to secure an investment-grade ",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-coreweaves-slump-puts-spotlight-on-debt-behind-ai-boom/articleshow/134969509.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-10-15",
+      "image": "",
+      "category": "central_bank"
+    },
+    {
+      "title": "Greenland Mines Applauds President Trump\u2019s Focus on Greenland Mineral Exploration, Reinforcing Its Importance to U.S. and Allied Security",
+      "description": "Company highlights Sarfartoq rare earths and Skaergaard precious metals as potential contributors to secure Western mineral supply chains CHARLOTTE, N.C., Oct. 14, 2026 (GLOBE NEWSWIRE) \u2014 via IBN \u2014 Greenland Mines Ltd (Nasdaq: GRML; FSE: HK6) (\u201cGreenland Mine\u2026",
+      "url": "https://financialpost.com/globe-newswire/greenland-mines-applauds-president-trumps-focus-on-greenland-mineral-exploration-reinforcing-its-importance-to-u-s-and-allied-security",
+      "source": "Financial Post",
+      "date": "2026-10-14",
+      "image": null,
+      "category": "supply_demand"
+    },
+    {
+      "title": "Former FTX Europe chief targets U.S. tokenized stock trading with new SEC exemption",
+      "description": "Nasdaq-listed Perpetuals.com is the second company to pursue a U.S. tokenized stock marketplace under the SEC's new framework, following a joint venture between OKX and NYSE parent ICE.",
+      "url": "https://www.coindesk.com/business/2026/10/14/former-ftx-europe-chief-targets-u-s-stock-tokenization-with-new-sec-exemption",
+      "source": "CoinDesk",
+      "date": "2026-10-14",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/3c1c2dd612e9c072909700bd4d0ae7b27a57c237-1112x626.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "category": "currency"
+    },
+    {
+      "title": "Learning from social assessments of innovative non-sewered sanitation in eThekwini",
+      "description": "As non-sewered sanitation (NSS) is being designed, developed, tested and rolled out, there is widespread support for the integration of social science. Yet what, precisely, social science can and should do remains much less clear. This paper explains the spec\u2026",
+      "url": "https://journals.plos.org/water/article?id=10.1371/journal.pwat.0000527",
+      "source": "Plos.org",
+      "date": "2026-10-14",
+      "image": "https://journals.plos.org/water/article/figure/image?id=10.1371/journal.pwat.0000527.g002&size=inline",
+      "category": "market"
+    },
+    {
+      "title": "Saints Owner Gayle Benson Calls 1-4 Start \u2018Unacceptable\u2019",
+      "description": "Benson didn't hold back when addressing the Saints disappointing start to the season.",
+      "url": "https://www.canalstreetchronicles.com/nfl-news/116461/saints-owner-gayle-benson-calls-1-4-start-unacceptable",
+      "source": "Canal Street Chronicles",
+      "date": "2026-10-14",
+      "image": "https://s.yimg.com/lo/mysterio/api/536fc24105f028ac4eedb694f1edbf11db3454cf81e39b55d439ecdc61249a8f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fecd48a394bd95f48cc14173b77a270ed.jpg",
+      "category": "market"
+    },
+    {
+      "title": "India homecoming: The Hyderabad-born man behind Fairfax, the Canadian powerhouse that has bought IDBI",
+      "description": "Prem Watsa, who moved from Hyderabad to Canada at 22 with $8, built Fairfax Financial into a global insurance and investment group. Now valued at around $100 billion in assets, Fairfax is expanding its India presence through the acquisition of IDBI Bank.",
+      "url": "https://www.livemint.com/companies/people/india-homecoming-the-hyderabad-born-man-behind-fairfax-the-canadian-powerhouse-that-has-bought-idbi-11791977369730.html",
+      "source": "Livemint",
+      "date": "2026-10-14",
+      "image": "https://www.livemint.com/lm-img/img/2026/10/14/1600x900/logo/Untitled_Design_1791982483197_ChGx_1791982487188_HOL2_e6a4a403-96a5-4a2e-905d-028407a58d57_9nPO.png",
+      "category": "market"
+    },
+    {
+      "title": "How CFOs at Chevron, ServiceNow and Nasdaq decide which AI bets create value",
+      "description": "Finance chiefs from energy, software and markets say AI has to compete for capital.",
+      "url": "https://fortune.com/2026/10/14/chevron-servicenow-nasdaq-cfo-decide-which-ai-bets-create-value/",
+      "source": "Fortune",
+      "date": "2026-10-14",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/55587959761_977e068dcf_3k.jpg?resize=1200,600",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Show HN: My AI agent kept quoting undated market numbers, so I built PreReason",
+      "description": "Financial market context for AI agents: macro, rates, bonds, FX, commodities, companies and Bitcoin. One API call returns a briefing with the reasoning already in it.",
+      "url": "https://www.prereason.com/",
+      "source": "Prereason.com",
+      "date": "2026-10-14",
+      "image": "https://www.prereason.com/og/home.png?v=5",
+      "category": "market"
     },
     {
       "title": "AI sector wipeout risks global financial contagion, IMF report warns",
@@ -171,67 +225,49 @@
       "category": "geopolitics"
     },
     {
-      "title": "Sensex today | Stock Market Highlights: Sensex falls 252 points, Nifty slips to 22,622, as rising crude, FII selling weigh on markets",
-      "description": "Sensex, Nifty, Share Prices Highlights: The stock markets closed in the red on Wednesday as investors booked profits following the previous session's sharp rebound, while rising crude oil prices amid geopolitical supply concerns and sustained foreign institut\u2026",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-14-october-2026/article71579059.ece",
+      "title": "Gold drops over 1% as hot US inflation data boosts Fed hike bets",
+      "description": "US consumer prices increased in September, contributing to expectations of an interest rate hike by the Federal Reserve. Following this inflation data, gold prices fell over 1% for the third consecutive session. The US dollar index also climbed, making gold m\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/gold-drops-over-1-as-hot-us-inflation-data-boosts-fed-hike-bets/articleshow/134944020.cms",
+      "source": "The Times of India",
+      "date": "2026-10-14",
+      "image": "https://img.etimg.com/thumb/msid-134944036,width-1200,height-900,imgsize-27538,overlay-etmarkets/articleshow.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "WPI shock and crude keep rally in check",
+      "description": "The Nifty 50 closed at 22,622.70, down 99.25 points or 0.44%, while the Sensex fell 251.89 points to end at 72,781.89",
+      "url": "https://www.thehindubusinessline.com/markets/wpi-shock-and-crude-keep-rally-in-check/article71583911.ece",
       "source": "BusinessLine",
       "date": "2026-10-14",
       "image": "https://bl-i.thgim.com/public/incoming/opcdz0/article71579071.ece/alternates/LANDSCAPE_1200/bl30-think1-maiGL4GJKGDL.3.jpg.jpg",
-      "category": "geopolitics"
+      "category": "market"
     },
     {
-      "title": "GoldMining Appoints Project Director to Lead Next Phase of Advancement of the S\u00e3o Jorge Gold Project, Brazil",
-      "description": "VANCOUVER, BC, Oct. 14, 2026 /PRNewswire/ -- GoldMining Inc. (the \"Company\" or \"GoldMining\") (TSX: GOLD) (NYSE American: GLDG) is pleased to announce the appointment of Alexandre Soares Pimenta as Project Director for its 100%-owned S\u00e3o Jorge Gold Project (\"S\u2026",
-      "url": "https://www.prnewswire.com/news-releases/goldmining-appoints-project-director-to-lead-next-phase-of-advancement-of-the-sao-jorge-gold-project-brazil-302907776.html",
+      "title": "Lemonn adds commodity derivatives, enters MCX with six metals and energy contracts",
+      "description": "The new offering covers non-agricultural commodities, including precious metals gold and silver, base metals copper, zinc and aluminium, and energy commodities crude oil and natural gas.",
+      "url": "https://www.thehindubusinessline.com/markets/lemonn-adds-commodity-derivatives-enters-mcx-with-six-metals-and-energy-contracts/article71583703.ece",
+      "source": "BusinessLine",
+      "date": "2026-10-14",
+      "image": "https://bl-i.thgim.com/public/news/pryy2q/article71448002.ece/alternates/LANDSCAPE_1200/MCX_exchange_square.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "Metals weaken as front-end yields, Hormuz risk offset softer dollar - Kitco PM Report",
+      "description": "Spot gold prices were lower and spot silver prices were sharply lower in late U.S. trading Tuesday, as traders cut exposure ahead of Wednesday\u2019s U.S. inflation report while front-end Treasury yields and December Federal Reserve rate-hike risk remained firm. A\u2026",
+      "url": "https://biztoc.com/x/eae9f8e27d373c12",
+      "source": "Biztoc.com",
+      "date": "2026-10-14",
+      "image": "https://biztoc.com/cdn/996/og.png",
+      "category": "central_bank"
+    },
+    {
+      "title": "Birch Gold Group Gives Back This Veterans Day With Free Patriotic Silver",
+      "description": "Plus, veterans receive first-year IRA fee waiver in this limited-time promotion DES MOINES, Iowa, Oct. 14, 2026 /PRNewswire/ -- Birch Gold Group is recognizing Veterans Day with a limited-time offer honoring those who served our country. From October 14 throu\u2026",
+      "url": "https://www.prnewswire.com/news-releases/birch-gold-group-gives-back-this-veterans-day-with-free-patriotic-silver-302902797.html",
       "source": "PRNewswire",
       "date": "2026-10-14",
-      "image": "https://mmx.prnewswire.com/media/MS2012704/GoldMining-Inc-GoldMining-Appoints-Project-Director-to-Lead-Nex.jpg?id=OA3017154&p=facebook",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Commodity Traders Rake In Cash During Trump Administration",
-      "description": "A new report reveals that the industry\u2019s significant increases in lobbying expenses are paying off.\nThe post Commodity Traders Rake In Cash During Trump Administration appeared first on The American Prospect.",
-      "url": "https://prospect.org/2026/10/14/commodity-traders-rake-in-cash-during-trump-administration/",
-      "source": "The American Prospect",
-      "date": "2026-10-14",
-      "image": "https://i0.wp.com/prospect.org/wp-content/uploads/2026/10/Groz-Commodity-traders-101426.jpg?fit=2000%2C1333&ssl=1",
-      "category": "market"
-    },
-    {
-      "title": "Delta SkyMiles Reserve Business Amex Review: 200,000 Miles \u2013 Is The $650 Fee Worth It?",
-      "description": "With this limited time offerr on the Delta SkyMiles Reserve Business Amex Card, you can earn 200,000 miles. Here's a full review of the card.",
-      "url": "https://travelupdate.com/delta-skymiles-reserve-business-amex-review-200000-miles-is-the-650-fee-worth-it/",
-      "source": "Travelupdate.com",
-      "date": "2026-10-14",
-      "image": "https://travelupdate.com/wp-content/uploads/2026/10/Screenshot-2026-10-14-at-1.47.32-PM.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Tanishq CEO Arun Narayan bullish on festive demand, but watchful on rural trends",
-      "description": "Tanishq CEO Arun Narayan expects a strong festive season despite elevated gold prices, with consumers increasingly exchanging old jewellery to fund new purchases. Over 50% of transactions at Tanishq stores now involve gold exchange, a trend that has gained mo\u2026",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/tanishq-ceo-arun-narayan-bullish-on-festive-demand-but-watchful-on-rural-trends/articleshow/134934610.cms",
-      "source": "The Times of India",
-      "date": "2026-10-14",
-      "image": "https://img.etimg.com/thumb/msid-134936174,width-1200,height-900,imgsize-235871,overlay-economictimes/articleshow.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Tanishq sees demand for natural diamonds and 18k gold rise as consumers seek value",
-      "description": "Coin and bar investment demand has cooled after exceptional growth last year.",
-      "url": "https://www.livemint.com/industry/tanishq-gold-prices-18k-jewellery-diamond-demand-11791950926289.html",
-      "source": "Livemint",
-      "date": "2026-10-14",
-      "image": "https://www.livemint.com/lm-img/img/2026/10/14/1600x900/logo/Arun_Narayan_1791958981504_JcQx_1791958993169_gou6_30b2d5df-b84c-4480-9e27-ea4b5c6fe502_78Sw.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "The Age of Incompetence: We\u2019re Now Living Through a Collapse of Reason",
-      "description": "The Age of Incompetence I have spent many years observing western civilization, and I can tell you plainly: I have never seen such widespread stupidity at every level of society, from the political leaders who pretend to govern us down to ordinary people push\u2026",
-      "url": "https://www.naturalnews.com/2026-10-14-the-age-of-incompetence-collapse-of-reason.html",
-      "source": "Naturalnews.com",
-      "date": "2026-10-14",
-      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/incompetence-collapse-of-reason-ai-advancement-5104-4049d56f-original.jpg",
-      "category": "market"
+      "image": "https://mmx.prnewswire.com/media/MS990984/BGG-Logov1.jpg?id=OA2993886&p=facebook",
+      "category": "metals"
     },
     {
       "title": "Brixton Metals Samples New Vein Grading 195 g/t Gold, 4.11% Copper and 147 g/t Silver At Its Thorn Project",
@@ -261,147 +297,111 @@
       "category": "metals"
     },
     {
-      "title": "eBay Treasures & Coins Sale: Up to 80% off + shipping varies",
-      "description": "Treasures & Coins is offering estate coin lots up to 80% off, with bundles like a 10-piece silver and gold coin lot with emeralds priced at $59.80. Many lots mix coins with gemstones such as rubies, sapphires, and emeralds, and some include rare finds like ol\u2026",
-      "url": "https://www.dealnews.com/eBay-Treasures-Coins-Sale-Up-to-80-off-shipping-varies/22283544.html",
-      "source": "Dealnews.com",
-      "date": "2026-10-14",
-      "image": "https://d.dlnws.com/64599/1791971028-s-l300.jpg?h=225&w=300",
-      "category": "metals"
-    },
-    {
-      "title": "Premium Marvel Comic Books 24-Pack Collection for $25 + $3.99 shipping",
-      "description": "This 24-comic Marvel gift pack is priced at $24.68, down from its usual $29.75. Each comic is individually bagged and arrives in very good to near-mint condition, with no duplicate issues in the set, making it suited for gifting or starting a collection. Buy \u2026",
-      "url": "https://www.dealnews.com/Premium-Marvel-Comic-Books-24-Pack-Collection-for-25-3-99-shipping/22283523.html",
-      "source": "Dealnews.com",
-      "date": "2026-10-14",
-      "image": "https://d.dlnws.com/64599/1791969821-a1q6m3n-3wl.jpg?h=888&w=1024",
-      "category": "market"
-    },
-    {
-      "title": "Silver slips 1% ahead of US inflation figures",
-      "description": "The prices of precious metals mostly declined on Wednesday, with silver sinking 1% as investors anticipated the latest inflation data from the United States, due later in the day, in order to determin...",
-      "url": "https://biztoc.com/x/9cae69780c991faa",
-      "source": "Biztoc.com",
-      "date": "2026-10-14",
-      "image": "https://biztoc.com/cdn/9cae69780c991faa_s.webp",
-      "category": "inflation"
-    },
-    {
-      "title": "Gold prices hold firm ahead of US inflation data",
-      "description": "Spot gold held its ground at $4,165.25 per ounce, as of 0447 \u200cGMT. U.S. gold futures for December delivery edged 0.3% higher to $4,188.70",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-prices-hold-firm-ahead-of-us-inflation-data/article71582178.ece",
-      "source": "BusinessLine",
-      "date": "2026-10-14",
-      "image": "https://bl-i.thgim.com/public/incoming/o90ngf/article71582465.ece/alternates/LANDSCAPE_1200/PO06_Gold_stock.jpg",
-      "category": "inflation"
-    },
-    {
-      "title": "How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team",
-      "description": "Cloned voices and synthetic video calls now show up in payment fraud, help desk resets, and access requests. A structured drill shows security teams exactly where verification breaks down, while nothing is at stake.\n\nThe call comes in at 4:40 on a Friday. It'\u2026",
-      "url": "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html",
-      "source": "Internet",
-      "date": "2026-10-14",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEYzcrs6sSW45od6MYo5jFl29yPGuwipgy7nfS3STYqknrD9b5OcU00_c0sqjG8Arvqq36ojwHSZMbjboA3bUQ1-ZcLRRjmuEQpzTDYYXnyvySzynW0UOvHOVmYNNzp_n-J5xXmwByMCofw5kxslXe4dqAVYqrWa-1LivXxPNa_ZGOQgIBxhyhvtiLxDs/s1700-nu-rw-lo-l85-e365/icon.jpg",
-      "category": "market"
-    },
-    {
-      "title": "India-Mauritius tax treaty amended to curb treaty abuse; PPT test introduced",
-      "description": "India and Mauritius amend their tax treaty with a new Principal Purpose Test to curb treaty abuse, while pre-April 2017 investments remain excluded.",
-      "url": "https://www.thehindubusinessline.com/economy/policy/india-mauritius-tax-treaty-amended-to-curb-treaty-abuse-ppt-test-introduced/article71583541.ece",
-      "source": "BusinessLine",
-      "date": "2026-10-14",
-      "image": "https://bl-i.thgim.com/public/incoming/onr4t7/article71583559.ece/alternates/LANDSCAPE_1200/IMG_bl11_flag_2_1_AICLE3UL.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Pan Global Expands Near-Surface High-Grade Gold Discovery at C\u00e1rmenes Project, Spain: Drillholes Return 7.29g/t Au Over 9 Meters and 1.53g/t Au Over 38 Meters",
-      "description": "Drilling at the Providencia target confirms a rapidly expanding new gold discovery with wide and high-grade intercepts from only 19 drillholes completed to date Gold mineralization remains open in multiple directions and at depth More than two-dozen highly pr\u2026",
-      "url": "https://financialpost.com/globe-newswire/pan-global-expands-near-surface-high-grade-gold-discovery-at-carmenes-project-spain-drillholes-return-7-29g-t-au-over-9-meters-and-1-53g-t-au-over-38-meters",
+      "title": "Toluna Appoints Amy Fenton as Chief Executive Officer",
+      "description": "Appointment completes the planned succession announced on October 8, 2026. Founder Fr\u00e9d\u00e9ric Charles Petit continues as Board member, Senior Advisor and Shareholder. LONDON \u2014 Toluna, a global leader in consumer insights and market research technology, today an\u2026",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/toluna-appoints-amy-fenton-as-chief-executive-officer",
       "source": "Financial Post",
       "date": "2026-10-14",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/10/figure-1-providencia-target-map-drillhole-and-cross-section-.png",
-      "category": "metals"
-    },
-    {
-      "title": "China's influence in the gaming industry is growing",
-      "description": "Home to more than 700 million gamers, China is the world's largest gaming market \u2014 but it's also one of the most tightly regulated. The effects reach far beyond China, impacting players around the world.",
-      "url": "https://www.dw.com/en/chinas-influence-in-the-gaming-industry-is-growing/a-79484755",
-      "source": "DW (English)",
-      "date": "2026-10-14",
-      "image": "https://static.dw.com/image/79363604_6.jpg",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/10/bw20261014103169_amy_fenton.jpeg",
       "category": "market"
     },
     {
-      "title": "China's influence in the gaming industry",
-      "description": "Home to more than 700 million gamers, China is the world's largest gaming market \u2014 but it's also one of the most tightly regulated. The effects reach far beyond China, impacting players around the world.",
-      "url": "https://www.dw.com/en/chinas-influence-in-the-gaming-industry/a-79484755",
-      "source": "DW (English)",
+      "title": "Q2 Results Today Highlights: Groww Q2 profit jumps 54%, Canara Bank up 8.4%; HDB Financial profit rises, Tata Tech revenue surges 28%, Leela net profit up 27%",
+      "description": "Q2 Results Today, 14th October 2026 Highlights: Find all the latest Q2 results 2026 updates of Ardi Alliances, Aurique, Bacil Pharma, Bajaj Consumer Care, Bharat Heavy Electricals, Aditya Birla Money-$, Canara Bank, Ceat, Elecon Engineering Company, Emmvee Ph\u2026",
+      "url": "https://www.thehindubusinessline.com/markets/q2-results-today-highlights-bhel-bilionbrains-garage-ventures-canara-bank-icicigi-ceat-hdb-financial-tata-tech-company-results-14-october-2026/article71579002.ece",
+      "source": "BusinessLine",
       "date": "2026-10-14",
-      "image": "https://static.dw.com/image/79363604_6.jpg",
+      "image": "https://bl-i.thgim.com/public/markets/stock-markets/awvk2/article71578968.ece/alternates/LANDSCAPE_1200/images%201.jpg",
       "category": "market"
     },
     {
-      "title": "Wednesday: Hili dialogue",
-      "description": "Welcome to a Hump Day (\u201cZiua Cocoa\u0219ei\u201d in Romanian): Wednesday, October 14, 2026, and National Dessert Day, celebrating everyone\u2019s favorite course. Here\u2019s a fine treat of Hawaiian \u201cshave ice\u201d with matcha ice cream, sweet red beans, and vanilla ice cream on to\u2026",
-      "url": "https://whyevolutionistrue.com/2026/10/14/wednesday-hili-dialogue-601/",
-      "source": "Whyevolutionistrue.com",
-      "date": "2026-10-14",
-      "image": "https://whyevolutionistrue.com/wp-content/uploads/2026/10/Mustela_nigripes_2.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Heating oil prices cut by 40 cents a litre, diesel by 20 cents and petrol by 10 cents as heating allowance rises 30%",
-      "description": "Heating oil is expected to cost \u20ac1.55 per litre, while the maximum heating allowance will rise to \u20ac1,560 \u2013 The Greek Ministry of Environment and Energy outlines the measures to tackle the energy crisis\nThe post Heating oil prices cut by 40 cents a litre, dies\u2026",
-      "url": "https://en.protothema.gr/2026/10/14/heating-oil-prices-cut-by-40-cents-a-litre-diesel-by-20-cents-and-petrol-by-10-cents-as-heating-allowance-rises-30/",
-      "source": "Protothema.gr",
-      "date": "2026-10-14",
-      "image": "https://en.protothema.gr/wp-content/uploads/2026/10/maketa-petrelaio-thermansis-1.jpg-1.jpg",
-      "category": "market"
-    },
-    {
-      "title": "AutoNotion Reaches \u00a38 Programmatic Page RPM with Opti Digital",
-      "description": "Opti Digital, the leading ad tech company specialising in publisher revenue optimisation, today (14th October, 2026) announced the results of its collaboration with AutoNotion, an independent automotive publication with a broad readership.\nReaching millions o\u2026",
-      "url": "https://www.exchangewire.com/blog/2026/10/14/autonotion-reaches-8-programmatic-page-rpm-with-opti-digital/",
-      "source": "ExchangeWire",
-      "date": "2026-10-14",
-      "image": "https://cdn.exchangewire.com/wp-content/uploads/2026/10/Opti-Digital-asset-620x350-1.png",
-      "category": "market"
-    },
-    {
-      "title": "A Complete Timeline of Rep. Ilhan Omar\u2019s Years-Long Beef with Trump and the GOP",
-      "description": "Minnesota Rep. Ilhan Omar has never been one to bite her tongue, and President Donald Trump and his Republican allies have spent years giving her reasons not to. From attacks on her Somali heritage and Muslim faith to political battles on Capitol Hill and the\u2026",
-      "url": "https://www.theroot.com/a-complete-timeline-of-rep-ilhan-omars-years-long-beef-2000130532",
-      "source": "The Root",
+      "title": "Lydian Pay Launches on iPhone and Android, Allowing Any Smartphone to Be a Crypto Checkout",
+      "description": "Merchants can now accept digital asset payments on any phone or tablet and settle in the local currency to their bank account Launch supports the 90% of merchants who would accept crypto payments if the setup were as simple as accepting a credit card. NEW YOR\u2026",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/lydian-pay-launches-on-iphone-and-android-allowing-any-smartphone-to-be-a-crypto-checkout",
+      "source": "Financial Post",
       "date": "2026-10-14",
       "image": null,
-      "category": "market"
+      "category": "currency"
     },
     {
-      "title": "A Look at All The Times Ilhan Omar Has Held Her Own Against Trump and the GOP",
-      "description": "From racist attacks to political showdowns, Rep. Ilhan Omar keeps clapping back at President Trump and Republicans determined to make her a target.Read more...",
-      "url": "https://www.theroot.com/a-look-at-all-the-times-ilhan-omar-has-held-her-own-aga-2000130532",
-      "source": "The Root",
+      "title": "President Trump Pardons Alaska Diesel Mechanics Who Were Charged Under Clean Air Act \u2013 Says They Are Now \u201cAs Clean as a New-Born Baby\u2019s A$$\u201d (Video)",
+      "description": "President Trump traveled to Alaska on Tuesday to hold a rally for Senator Dan Sullivan who is up for reelection in November.\nThe post President Trump Pardons Alaska Diesel Mechanics Who Were Charged Under Clean Air Act \u2013 Says They Are Now \u201cAs Clean as a New-B\u2026",
+      "url": "https://www.thegatewaypundit.com/2026/10/president-trump-pardons-alaska-diesel-mechanics-who-were/",
+      "source": "Thegatewaypundit.com",
       "date": "2026-10-14",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "'Terrorized' battlegrounds turn into 'ghost towns' as ICE swarms early voting",
-      "description": "As early voting in the midterm elections gets underway, voting and immigrant rights organizers across the country are bracing for U.S. Immigration and Customs Enforcement deployments at polling places.In south Texas and Maine, organizers are mobilizing volunt\u2026",
-      "url": "https://www.rawstory.com/raw-investigates/ice-2678066622/",
-      "source": "Raw Story",
-      "date": "2026-10-14",
-      "image": "https://www.rawstory.com/media-library/immigration-and-customs-enforcement-ice-agents-detain-an-individual-outside-a-home-in-danbury-connecticut-u-s-august-27-2.jpg?id=68402550&width=1200&height=600&coordinates=0%2C416%2C0%2C417",
+      "image": "https://www.thegatewaypundit.com/wp-content/uploads/2026/10/trump-pardons-mechanics-1200x630.jpg",
       "category": "geopolitics"
     },
     {
-      "title": "These Women Were Trying to Escape Domestic Abuse. ICE Detained Them Instead.",
-      "description": "It\u2019s especially intimidating for immigrants suffering abuse to call 911. With this in mind, Congress has long treated people who need help as victims, not targets for deportation. Under the Trump administration, those protections are eroding.",
-      "url": "https://www.propublica.org/article/domestic-violence-immigrant-victims-ice-detention",
-      "source": "ProPublica",
+      "title": "I Can Read Your Mind: You're Relying on One of These 2 Brands to Stay Safe Online",
+      "description": "When 1,000 people were asked to name a cybersecurity brand off the top of their heads, two legacy giants dominated. As a security expert, that terrifies me.\nThink of a cybersecurity brand. Got one? OK, let me read your mind\u2026is it Norton? No? How about McAfee?\u2026",
+      "url": "https://uk.pcmag.com/security/167918/i-can-read-your-mind-youre-relying-on-one-of-these-2-brands-to-stay-safe-online",
+      "source": "PCMag.com",
       "date": "2026-10-14",
-      "image": "https://www.propublica.org/wp-content/uploads/2026/09/MIDV-FINAL_maxHeight_3000_maxWidth_3000.jpg?resize=2000,1333",
+      "image": "https://sm.pcmag.com/t/pcmag_uk/news/i/i-can-read/i-can-read-your-mind-youre-relying-on-one-of-these-2-brands_6cas.1200.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Fiber Optic Components Market worth $76.44 billion by 2032 - Exclusive Report by MarketsandMarkets\u2122",
+      "description": "DELRAY BEACH, Fla., Oct. 14, 2026 /PRNewswire/ -- According to MarketsandMarkets\u2122, the fiber optic components market is projected to reach USD 76.44 billion by 2032 from USD 41.13 billion in 2026, at a CAGR of 10.9% during the forecast period. Browse 199 mark\u2026",
+      "url": "https://www.prnewswire.com/news-releases/fiber-optic-components-market-worth-76-44-billion-by-2032---exclusive-report-by-marketsandmarkets-302908337.html",
+      "source": "PRNewswire",
+      "date": "2026-10-14",
+      "image": "https://mmx.prnewswire.com/media/MS1173081/MarketsandMarkets-Logo.jpg?id=OA3018092&p=facebook",
+      "category": "currency"
+    },
+    {
+      "title": "Trump's diesel deal with Russia is unlikely to significantly lower global fuel prices despite expectations of rapid relief",
+      "description": "As the world's largest diesel exporter, the US benefits from high prices. At home, however, consumers are feeling the strain of rising living costs. Why Donald Trump's deal with Russia is unlikely to change that.",
+      "url": "https://www.dw.com/en/trumps-diesel-deal-with-russia-is-unlikely-to-significantly-lower-global-fuel-prices-despite-expectations-of-rapid-relief/a-79659601",
+      "source": "DW (English)",
+      "date": "2026-10-14",
+      "image": "https://static.dw.com/image/79626408_6.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Fort Hood\u2019s Killer Was a Top Army Psychiatrist \u2013 Was \u2018Lone Wolf\u2019 the Whole Story?",
+      "description": "Fort Hood\u2019s Killer Was a Top Army Psychiatrist \u2013 Was \u2018Lone Wolf\u2019 the Whole Story?\nThe post Fort Hood\u2019s Killer Was a Top Army Psychiatrist \u2013 Was \u2018Lone Wolf\u2019 the Whole Story? appeared first on The Gateway Pundit.",
+      "url": "https://joehoft.com/fort-hoods-killer-was-top-army-psychiatrist-was/",
+      "source": "Joehoft.com",
+      "date": "2026-10-14",
+      "image": "https://joehoft.com/wp-content/uploads/2026/10/Ft-Hood-Shooter-1200x630.jpg",
+      "category": "market"
+    },
+    {
+      "title": "US yields jump as hot consumer inflation boosts rate hike bets",
+      "description": "In September, the US Treasury yields climbed as the Consumer Price Index (CPI) showed a surprising rise of 0.6% month-over-month and 3.7% year-over-year. This unexpected inflation report heightened the chances of an interest rate hike by the Federal Reserve i\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-yields-jump-as-hot-consumer-inflation-boosts-rate-hike-bets/articleshow/134944738.cms",
+      "source": "The Times of India",
+      "date": "2026-10-14",
+      "image": "https://img.etimg.com/thumb/msid-134944757,width-1200,height-900,imgsize-44036,overlay-etmarkets/articleshow.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Dow Edges Up as S&P 500 and Nasdaq Slip on Hotter-Than-Expected Inflation, Bank of America Shares Tumble",
+      "description": "US stocks traded unevenly after September inflation exceeded forecasts, lifting Treasury yields. Bank of America shares fell sharply after a $1.2 billion regulatory penalty, while technology stocks declined.",
+      "url": "https://www.ibtimes.com.au/us-stocks-mixed-hotter-inflation-bank-america-penalty-1876692",
+      "source": "Ibtimes.com.au",
+      "date": "2026-10-14",
+      "image": "https://d.ibtimes.com.au/en/full/1893186/ftse-100-surges-08-today-oil-eases-markets.jpg",
+      "category": "inflation"
+    },
+    {
+      "title": "FEDS Note: The Rise of Semiliquid Funds for Retail Investors",
+      "description": "Logan George and Chaehee ShinInvestment funds differ in how investors can access their capital. The redemption rules governing how and when investors can withdraw have evolved endogenously in response to shifting investor demand and regulatory constraints. Wh\u2026",
+      "url": "https://www.federalreserve.gov/econres/notes/feds-notes/the-rise-of-semiliquid-funds-for-retail-investors-20261014.html",
+      "source": "Federalreserve.gov",
+      "date": "2026-10-14",
+      "image": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Who votes when? Midterm and presidential voters differ primarily by age",
+      "description": "Voters in American congressional midterm elections are widely viewed as demographically less representative than those in presidential elections \u2013 older, whiter, wealthier, and more educated. Using Current Population Survey data from 1994 through 2024 as well\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0360051",
+      "source": "Plos.org",
+      "date": "2026-10-14",
+      "image": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0360051.g004&size=inline",
       "category": "market"
     }
   ],
@@ -517,7 +517,7 @@
       "platinum_usd_oz": 1681.4
     }
   ],
-  "timestamp": "2026-10-15T17:21:30.873590+05:30",
+  "timestamp": "2026-10-15T19:47:20.234730+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
