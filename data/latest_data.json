@@ -54,7 +54,7 @@
         "hold": 50
       },
       "summary": "Gold is showing positive signals. Strong daily gain of 1.1%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-16T11:43:23.113149",
+      "timestamp": "2026-10-16T14:06:10.408933",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 50
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 1.8%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-16T11:43:23.210908",
+      "timestamp": "2026-10-16T14:06:10.491820",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 50
       },
       "summary": "Platinum is showing positive signals. Strong daily gain of 2.1%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-16T11:43:23.309418",
+      "timestamp": "2026-10-16T14:06:10.593019",
       "source": "rule-based"
     }
   },
@@ -135,36 +135,27 @@
   },
   "news": [
     {
-      "title": "Rupee posts best week in seven months, fundamentals key for lasting turnaround",
-      "description": "This week, the Indian rupee saw an impressive 2% increase, attributed to effective policy measures designed to alleviate short-term depreciation pressures. Despite the positive movement, analysts caution that a lasting recovery is contingent upon significant improvements in the overall economic land",
-      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-posts-best-week-in-seven-months-fundamentals-key-for-lasting-turnaround/articleshow/134991672.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-10-16",
-      "image": "",
-      "category": "currency"
-    },
-    {
-      "title": "Bitcoin rebounds to $82,000 after briefly falling below $80,000 as inflation fears trigger $950 million in liquidations",
-      "description": "Bitcoin recovered above $82,000 after briefly falling below $80,000 as hotter-than-expected US producer inflation intensified concerns over Federal Reserve rate hikes. Nearly $950 million in leveraged positions were liquidated, while spot Bitcoin ETFs recorded $261 million in outflows.",
-      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-rebounds-to-82000-after-briefly-falling-below-80000-as-inflation-fears-trigger-950-million-in-liquidations/articleshow/134991609.cms",
+      "title": "Rupee rises 1.9% in a week, closes below 95 per dollar",
+      "description": "The Indian rupee strengthened 1.9% this week to close at 94.96 per dollar, its strongest weekly gain in seven months. Aggressive RBI measures curbed dollar demand, while a weaker dollar index supported the currency despite corporate buying pressure.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rises-1-9-in-a-week-closes-below-95-per-dollar/articleshow/134996292.cms",
       "source": "Economic Times Markets",
       "date": "2026-10-16",
       "image": "",
       "category": "central_bank"
     },
     {
-      "title": "Indonesia stocks, rupiah tumble as MSCI weighs market downgrade",
-      "description": "Global index provider MSCI is contemplating downgrading Indonesia's stock market to standalone status. Such a reclassification could notably diminish Indonesia's appeal to global investors and alter its presence in international indexes. This year, Indonesia's share within MSCI's emerging markets in",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/indonesia-stocks-rupiah-tumble-as-msci-weighs-market-downgrade/articleshow/134990424.cms",
+      "title": "Federal Bank Q2 profit jumps 45% to record Rs 1,386 crore",
+      "description": "Federal Bank posted record Q2 profit of Rs 1,386 crore, up 45% year-on-year, as net interest income climbed 26%. Advances grew 22% and deposits 19%, while asset quality improved, with gross NPAs declining to 1.32% during the September quarter.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/federal-bank-q2-profit-jumps-45-to-record-rs-1386-crore/articleshow/134996156.cms",
       "source": "Economic Times Markets",
       "date": "2026-10-16",
       "image": "",
-      "category": "market"
+      "category": "central_bank"
     },
     {
-      "title": "Laurus Labs shifts gears as CDMO emerges as key growth driver; Nuvama sees 24% upside",
-      "description": "Nuvama Institutional Equities has initiated coverage on Laurus Labs with a \u2018Buy\u2019 rating and a target price of Rs 2,520, implying a 24% upside from the current market price. The brokerage expects the drugmaker\u2019s shift from its traditional anti-retroviral (ARV) business towards contract development an",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/laurus-labs-shifts-gears-as-cdmo-emerges-as-key-growth-driver-nuvama-sees-24-upside/articleshow/134990332.cms",
+      "title": "Aggressive RBI measures hand India bonds a ninth weekly loss",
+      "description": "Indian government bonds have experienced ongoing losses for nine consecutive weeks due to RBI's monetary tightening measures. The benchmark 6.94% 2036 bond yield has climbed over 62 basis points during this period, reflecting investor concerns. Additionally, the RBI's commitment to support the rupee",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/aggressive-rbi-measures-hand-india-bonds-a-ninth-weekly-loss/articleshow/134995086.cms",
       "source": "Economic Times Markets",
       "date": "2026-10-16",
       "image": "",
@@ -189,21 +180,84 @@
       "category": "currency"
     },
     {
-      "title": "Trump Touts 'Massive' Oil, Gas Exploration in Greenland",
-      "description": "U.S. President Donald Trump said 'Massive Oil, Gas, and Mineral Exploration is getting ready to begin' in Greenland.",
-      "url": "https://www.rigzone.com/news/trump_touts_massive_oil_gas_exploration_in_greenland-15-oct-2026-184855-article/",
-      "source": "Rigzone",
+      "title": "South Africa is going digital on VAT: what it can learn from the rest of Africa",
+      "description": "Success in collecting VAT requires detecting under-reporting while making compliance easier and paying legitimate refunds promptly.",
+      "url": "https://theconversation.com/south-africa-is-going-digital-on-vat-what-it-can-learn-from-the-rest-of-africa-294238",
+      "source": "The Conversation Africa",
       "date": "2026-10-15",
-      "image": "https://images.rigzone.com/images/news/articles/Trump-Touts-Massive-Oil-Gas-Exploration-in-Greenland-184855-1200x628.png",
+      "image": "https://images.theconversation.com/files/765918/original/file-20261013-50-4ohgcc.jpg?ixlib=rb-4.1.1&rect=0%2C73%2C2307%2C1153&q=45&auto=format&w=1356&h=668&fit=crop",
       "category": "market"
     },
     {
-      "title": "CI Global Asset Management Announces October 2026 Distributions for Certain CI ETFs",
-      "description": "Not for Dissemination to U.S. Newswire Services or for Dissemination in the United States of America TORONTO \u2014 CI Global Asset Management (\u201cCI GAM\u201d) announces the following regular cash distributions for the month ending October 31, 2026 for certain ETFs mana\u2026",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/ci-global-asset-management-announces-october-2026-distributions-for-certain-ci-etfs",
+      "title": "Monetary Reform for the 2028 Election: American Constitutional Confusion. Part 1.3",
+      "description": "Read Part I 1.1. and 1.2.:\n\nCan We Finally Face Up to America\u2019s Bankruptcy? Monetary Reform for the 2028 Election. Part I\nBy Richard C. Cook, October 08, 2026\n\u00a0\n\nThe Historical Theft of the Sovereign Power of Money \u2026\nThe post Monetary Reform for the 2028 Elec\u2026",
+      "url": "https://www.globalresearch.ca/monetary-reform-2028-election-american-constitutional-confusion-part-1-3/5943882",
+      "source": "Globalresearch.ca",
+      "date": "2026-10-15",
+      "image": "https://www.globalresearch.ca/wp-content/uploads/2017/11/monetary-imperialism.png",
+      "category": "central_bank"
+    },
+    {
+      "title": "Gold price today: Gold rate recovers after consecutive losses but there is a concern. Details here",
+      "description": "Gold rate on Thursday jumped but experts have pointed out a few factors that may cause worry for investors.",
+      "url": "https://economictimes.indiatimes.com/news/international/us/gold-price-today-gold-rate-recovers-after-consecutive-losses-but-there-is-a-concern-details-here/articleshow/134969502.cms",
+      "source": "The Times of India",
+      "date": "2026-10-15",
+      "image": "https://img.etimg.com/thumb/msid-134969573,width-1200,height-900,imgsize-164702,overlay-economictimes/articleshow.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "Control Risks to Spin Off Compliance, Investigations & eDiscovery Business to Accelerate Global Growth, Innovation and Client Impact",
+      "description": "Beringer Capital\u2019s investment will support an expansion of capabilities, technology and talent while Control Risks will retain a meaningful equity stake and strategic partnership LONDON and NEW YORK, Oct. 15, 2026 (GLOBE NEWSWIRE) \u2014 Control Risks, the global \u2026",
+      "url": "https://financialpost.com/globe-newswire/control-risks-to-spin-off-compliance-investigations-ediscovery-business-to-accelerate-global-growth-innovation-and-client-impact",
       "source": "Financial Post",
       "date": "2026-10-15",
       "image": null,
+      "category": "market"
+    },
+    {
+      "title": "Dan Ives Is Putting His Wall Street Fame to Work at Yorkville Ives",
+      "description": "Dan Ives spent eight years as one of Wedbush's best-known technology bulls. Now, armed with 49 new stock recommendations and a familiar Wall Street brand, he's trying to build a business of his own.",
+      "url": "https://observer.com/2026/10/dan-ives-yorkville-ives-research-business/",
+      "source": "Observer",
+      "date": "2026-10-15",
+      "image": "https://observer.com/wp-content/uploads/sites/2/2026/10/ives-ob-photo-20260108-kk-press-011.jpg?quality=80",
+      "category": "market"
+    },
+    {
+      "title": "Delta Air Lines Is Giving Delta One A Major Upgrade Beyond The Lie-Flat Seat",
+      "description": "Delta Air Lines is refreshing its Delta One business class experience with new meals, better drinks, updated amenities, and more control over dining and rest. I like the direction and these are improvements passengers can enjoy without waiting for an aircraft\u2026",
+      "url": "https://liveandletsfly.com/delta-one-experience-upgrades/",
+      "source": "Liveandletsfly.com",
+      "date": "2026-10-15",
+      "image": "https://liveandletsfly.com/wp-content/uploads/2026/10/The-New-Delta-One-18.jpeg",
+      "category": "market"
+    },
+    {
+      "title": "She made college \u2018good debt\u2019 for herself. Can she do the same for her daughter?",
+      "description": "A generation ago, it was more common to put yourself through school. For reasons including rising education costs, It's a feat that's now far less manageable.",
+      "url": "https://www.cnbc.com/2026/10/15/college-good-debt-cfp-daughter.html",
+      "source": "CNBC",
+      "date": "2026-10-15",
+      "image": "https://image.cnbcfm.com/api/v1/image/108372894-1791235766872-Plunkert-Mother-daughter-debt-working-spot.jpg?v=1791995584&w=1920&h=1080",
+      "category": "market"
+    },
+    {
+      "title": "Axi Launches MCP Integration Connecting MT5 Accounts to Claude",
+      "description": "SYDNEY, Oct. 15, 2026 (GLOBE NEWSWIRE) \u2014 As artificial intelligence continues to reshape how people interact with technology, the online trading industry is entering a new phase in the evolution of trading tools. From analysing information to managing increas\u2026",
+      "url": "https://financialpost.com/globe-newswire/axi-launches-mcp-integration-connecting-mt5-accounts-to-claude-2",
+      "source": "Financial Post",
+      "date": "2026-10-15",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "Tired of Your Rental Looking Half-Done? These 10 Budget-Friendly Decors Pull It All Together",
+      "description": "Decorating an apartment on a budget isn\u2019t about hiding what you can\u2019t afford. It\u2019s about picking the right few things that pull the whole place together without a big spend or a landlord fight. These 10 apartment decorating on a budget ideas show exactly what\u2026",
+      "url": "https://www.trendir.com/apartment-decorating-on-a-budget-ideas-that-make-rentals-feel-finished/",
+      "source": "Trendir.com",
+      "date": "2026-10-15",
+      "image": "https://cdn.trendir.com/wp-content/uploads/2026/10/warm-walnut-entryway-console-round-backlit-mirror-brass-lamp-rug.jpg",
       "category": "market"
     },
     {
@@ -214,51 +268,6 @@
       "date": "2026-10-15",
       "image": "https://bl-i.thgim.com/public/incoming/bxb7e7/article71276756.ece/alternates/LANDSCAPE_1200/iStock-1035988708.jpg",
       "category": "currency"
-    },
-    {
-      "title": "Surviving economic meltdown",
-      "description": "Why your stake in a global tracker fund won't put bread on the table, post-Apocalypse\u2026\nThe post Surviving economic meltdown appeared first on Monevator.",
-      "url": "https://monevator.com/surviving-economic-meltdown/",
-      "source": "Monevator.com",
-      "date": "2026-10-15",
-      "image": "https://monevator.com/wp-content/uploads/2026/10/Surviving-meltdown-Mad-Max-scenario-social.jpg",
-      "category": "market"
-    },
-    {
-      "title": "294% return on SGB premature redemption date: Gold bond turns Rs 1 lakh investment into Rs 3.94 lakh",
-      "description": "Sovereign Gold Bond: The Reserve Bank of India has announced that the premature redemption price for Sovereign Gold Bonds will be set for October 2026. These bonds can be redeemed five years after their issuance at a fixed price. This redemption value is dete\u2026",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/294-return-on-sgb-premature-redemption-date-gold-bond-turns-rs-1-lakh-investment-into-rs-3-94-lakh/articleshow/134962123.cms",
-      "source": "The Times of India",
-      "date": "2026-10-15",
-      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1338195,resizemode-75,msid-134962123/wealth/invest/294-return-on-sgb-premature-redemption-date-gold-bond-turns-rs-1-lakh-investment-into-rs-3-94-lakh.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "Yiyun Li on Art, Fame, History, and Music Against the Night",
-      "description": "Acclaimed writer Yiyun Li returns to the show to talk about her new novel, Music Against the Night, with co-hosts V.V. Ganeshananthan and Whitney Terrell. Li explains how she first became interested in fictionalizing the lives of married musicians John",
-      "url": "https://lithub.com/yiyun-li-on-art-fame-history-and-music-against-the-night/",
-      "source": "Lithub.com",
-      "date": "2026-10-15",
-      "image": "https://s26162.pcdn.co/wp-content/uploads/2026/10/banner-FNF29.png",
-      "category": "market"
-    },
-    {
-      "title": "SGB 2019-20 Series V: Investors to pocket 294% gains on premature redemption \u2014 key dates and tax rules explained",
-      "description": "SGB 2019-20 Series V investors can redeem their bonds at  \u20b914,725 per gram on October 15, 2026. Price gains range from 289% to 294%, excluding interest and taxes. Budget 2026 changes mean premature redemption is no longer eligible for the capital gains tax ex\u2026",
-      "url": "https://www.livemint.com/money/personal-finance/sgb-2019-20-series-v-investors-to-pocket-294-gains-on-premature-redemption-key-dates-and-tax-rules-explained-11792048191124.html",
-      "source": "Livemint",
-      "date": "2026-10-15",
-      "image": "https://www.livemint.com/lm-img/img/2026/10/15/1600x900/logo/titkt_1792051371082_8lju_1792051375885_wyKY_5c5be62a-39f8-47b6-b738-680ec2ffb917_3ttr.png",
-      "category": "market"
-    },
-    {
-      "title": "SMIDs to large-caps shift likely if earnings gap narrows: Bharti Axa CIO",
-      "description": "The key issue is that high-growth mid/small-caps are stretched on valuation right now, while rest of the market appears relatively cheap, said Bharti AXA Life Insurance's CIO Rahul Bhuskute",
-      "url": "https://www.business-standard.com/markets/interviews/smids-to-large-caps-shift-likely-if-earnings-gap-narrows-bharti-axa-cio-126101500500_1.html",
-      "source": "Business Standard",
-      "date": "2026-10-15",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/15/thumb/fitandfill/1200X628/1792049886-4523.jpeg",
-      "category": "market"
     },
     {
       "title": "Medical Coating Market worth $17.42 billion by 2031 - Exclusive Report by MarketsandMarkets\u2122",
@@ -279,130 +288,121 @@
       "category": "metals"
     },
     {
-      "title": "US-Iran stalemate: What are Trump\u2019s next military options?",
-      "description": "Trump has ruled out attacks before the midterms. Analysts weigh what he could do next, and at what cost.",
-      "url": "https://www.aljazeera.com/news/2026/10/15/us-iran-stalemate-what-are-trumps-next-military-options",
-      "source": "Al Jazeera English",
-      "date": "2026-10-15",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-07-14T014008Z_1532514817_RC2ADMA8MKDN_RTRMADP_3_USA-RIMPAC-1787799997.jpg?resize=1920%2C1440",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Show HN: server-noonien \u2013 conflict-free agent memory across machines, no server",
-      "description": "Shared, serverless, conflict-free memory for AI agents \u2014 a multi-machine drop-in for the MCP memory knowledge graph - sequico/server-noonien",
-      "url": "https://github.com/sequico/server-noonien",
-      "source": "Github.com",
-      "date": "2026-10-15",
-      "image": "https://opengraph.githubassets.com/72b774c66acd0a7bfea553f3ffe482cb2dd397088fed52cfca228f1d9668359f/sequico/server-noonien",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Minister urges green checks for water-intensive data centers",
-      "description": "Coordinating Minister for Infrastructure and Regional Development Agus Harimurti Yudhoyono has stressed the importance of evaluating environmental impacts ...",
-      "url": "https://en.antaranews.com/news/435705/minister-urges-green-checks-for-water-intensive-data-centers",
-      "source": "Antaranews.com",
-      "date": "2026-10-15",
-      "image": "https://cdn.antaranews.com/cache/1200x800/2026/06/16/nilai-investasi-pusat-data-di-batam-2806592.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Viettel America, U.S. Subsidiary of Vietnam's Viettel Group, Named an OpenAI Select Partner",
-      "description": "SANTA CLARA, Calif., Oct. 15, 2026 /PRNewswire/ -- Viettel America Corporation (VTA), the U.S. subsidiary of Viettel Group, a major Vietnamese telecommunications and technology group, announced that it has been named a Select Partner in the OpenAI Partner Net\u2026",
-      "url": "https://www.prnewswire.com/news-releases/viettel-america-us-subsidiary-of-vietnams-viettel-group-named-an-openai-select-partner-302910001.html",
-      "source": "PRNewswire",
-      "date": "2026-10-15",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "Renny Harlin To Direct Prison Rescue Thriller \u2018Evac\u2019",
-      "description": "EXCLUSIVE: Hollywood action vet Renny Harlin is attached to direct rescue thriller Evac which will see a chopper crash-land in a volatile prison yard. Evac will follow \u201ca medical specialist who must team up with a wounded inmate she was sent to rescue after t\u2026",
-      "url": "http://deadline.com/2026/10/renny-harlin-direct-prison-rescue-thriller-evac-1237157956/",
-      "source": "Deadline",
-      "date": "2026-10-15",
-      "image": "https://deadline.com/wp-content/uploads/2025/05/GettyImages-2151552548.jpg?w=1024",
-      "category": "market"
-    },
-    {
-      "title": "Taiwan chipmaker TSMC explores Texas investment to expand production in the US",
-      "description": "Taiwan Semiconductor Manufacturing Co. is exploring potential investments in Texas to expand chip production in the U.S. The company says it is open to collaborating with Elon Musk\u2019s planned \u201cTerafab\u201d chip manufacturing complex in Texas",
-      "url": "https://abcnews.com/Business/wireStory/taiwan-chipmaker-tsmc-explores-texas-investment-expand-production-137281006",
-      "source": "Abcnews.com",
-      "date": "2026-10-15",
-      "image": "https://i.abcnewsfe.com/a/a576ec6d-120d-42a5-a823-dd969e09e1b2/wirestory_d1fbfb0bec8a914b0365996b39ecc138_16x9.jpg?w=1600",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Raghu Vamsi Group inks MoU with the University of Sheffield\u2019s AMRC",
-      "description": "The collaboration will also support Hyderabad-based Group\u2019s diversification into the aerospace & defence sector, while helping build the know-how for the Group\u2019s planned Super Alloys facility in Telangana",
-      "url": "https://www.thehindubusinessline.com/news/education/raghu-vamsi-group-inks-mou-with-the-university-of-sheffields-amrc/article71587835.ece",
-      "source": "BusinessLine",
-      "date": "2026-10-15",
-      "image": "https://bl-i.thgim.com/public/todays-paper/tp-news/ig3qyt/article71585518.ece/alternates/LANDSCAPE_1200/L_T-and-TuTr-HyGBIGLQ4I5.4.jpg.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Future Health Launches Global Challenge to Move Health Innovation Towards Real-world Application",
-      "description": "The Future Health Digital Innovation Challenge 2026 invites entrants to develop AI, software, and connected technology solutions across fertility, population health, and wellbeing Selected teams will gain access to technical and clinical expertise across Abu \u2026",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/future-health-launches-global-challenge-to-move-health-innovation-towards-real-world-application",
+      "title": "Canadian Banc Corp. Announces Successful Overnight Offering",
+      "description": "TORONTO, Oct. 15, 2026 (GLOBE NEWSWIRE) \u2014 Canadian Banc Corp. (the \u201cCompany\u201d) is pleased to announce it has completed the overnight marketing of Preferred Shares (TSX: BK.PR.A) and Class A Shares (TSX: BK) of the Company. Total gross proceeds of the offering \u2026",
+      "url": "https://financialpost.com/globe-newswire/canadian-banc-corp-announces-successful-overnight-offering-4",
       "source": "Financial Post",
       "date": "2026-10-15",
       "image": null,
+      "category": "market"
+    },
+    {
+      "title": "Wholesale Inflation Spikes To Highest Level\u00a0In 4 Years",
+      "description": "Wholesale inflation surged 6.3% annually in September, the highest since 2022, as soaring energy costs drove up prices for American businesses.",
+      "url": "https://dailycaller.com/2026/10/15/major-inflation-gauge-for-businesses-spikes-to-highest-level-in-4-years",
+      "source": "The Daily Caller",
+      "date": "2026-10-15",
+      "image": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/10/GettyImages-2286932294(1).jpg.webp",
+      "category": "inflation"
+    },
+    {
+      "title": "Skydance\u2019s merger exposes a gap between what pays for media and what democracy needs",
+      "description": "Only 33% of Americans trust mass media, versus 68% in 1972. Now one company owns CNN, CBS News, HBO and Warner Bros., and it plans $6 billion in cuts.",
+      "url": "https://fortune.com/2026/10/15/skydance-warner-media-consolidation-trust-gallup/",
+      "source": "Fortune",
+      "date": "2026-10-15",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2298602530-e1792073017975.jpg?resize=1200,600",
       "category": "geopolitics"
     },
     {
-      "title": "Mandatory Arbitration and State Competition for Corporate Charters",
-      "description": "Mandatory arbitration of shareholder claims is on the horizon. SEC Chair Paul Atkins has led the SEC to change its long-standing policy against mandatory arbitration. Space Exploration Technologies Corp. (\u201cSpace X\u201d), a Texas corporation, recently went public \u2026",
-      "url": "https://corpgov.law.harvard.edu/2026/10/15/mandatory-arbitration-and-state-competition-for-corporate-charters/",
-      "source": "Harvard School of Engineering and Applied Sciences",
+      "title": "Taunting the Bullies: Navi Pillay Wins the Nobel Peace Prize",
+      "description": "The Nobel Peace Prize is an institution long stuffed with straw. Established by the inventor of dynamite Alfred Nobel, its very creation suggested less contrition than a dark sense humour restless for recognition.\u00a0 \nThat humour surfaces from time to time, \u2026\nT\u2026",
+      "url": "https://www.globalresearch.ca/navi-pillay-wins-nobel-peace-prize/5943784",
+      "source": "Globalresearch.ca",
       "date": "2026-10-15",
-      "image": "https://corpgov.law.harvard.edu/wp-content/uploads/2021/03/new-shield-facebook.png",
+      "image": "https://www.globalresearch.ca/wp-content/uploads/2026/10/navi-pillay-1024x683.jpg",
       "category": "central_bank"
     },
     {
-      "title": "Inside Ohio\u2019s Revolt Against Data Centers",
-      "description": "This story was originally published by\u00a0Inside Climate News and\u00a0is reproduced here as part of the\u00a0Climate Desk\u00a0collaboration. A four-hour legislative committee hearing in June, punctuated by applause and anger, offered a window into the growing backlash agains\u2026",
-      "url": "https://www.motherjones.com/politics/2026/10/ohio-revolt-data-centers-backlash-midterm-elections-opposition/",
-      "source": "Mother Jones",
+      "title": "Ralph Fiennes Reunites With \u2018Conclave\u2019 Producer Tessa Ross & Studiocanal For Story Of Legendary Trainer Henry Cecil & Champion Horse Frankel",
+      "description": "EXCLUSIVE: Three-time Oscar nominee Ralph Fiennes is reuniting with Conclave producer Tessa Ross and A Bigger Splash backer Studiocanal on Unbeaten, a biopic of legendary British horse racing trainer Henry Cecil and his most famous charge, Frankel. Fiennes wi\u2026",
+      "url": "http://deadline.com/2026/10/ralph-fiennes-play-henry-cecil-film-about-top-horse-frankel-1237157998/",
+      "source": "Deadline",
       "date": "2026-10-15",
-      "image": "https://www.motherjones.com/wp-content/uploads/2026/10/Adobe-Express-file.png?w=1200&h=630&crop=1",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Ralph-Fiennes-and-Henry-Cecil-Frankel.jpg?w=1024",
       "category": "market"
     },
     {
-      "title": "A Constitutional Right For The Fossil Fuel Industry? Defeat Colorado's Amendment 82!",
-      "description": "This November, the Colorado voters will decide on a ballot initiative called Amendment 82. Despite its anodyne name, this initiative would radically change state policy for the worse. Amendment 82 would enshrine into the state Constitution the enforceable and\u2026",
-      "url": "https://www.commondreams.org/opinion/defeat-colorado-s-amendment-82",
-      "source": "Common Dreams",
+      "title": "Aramco CEO Warns Oil Squeeze is Serious",
+      "description": "Globally, the squeeze on crude oil is serious, Aramco President and CEO Amin H. Nasser said.",
+      "url": "https://www.rigzone.com/news/aramco_ceo_warns_oil_squeeze_is_serious-15-oct-2026-184859-article/",
+      "source": "Rigzone",
       "date": "2026-10-15",
-      "image": "https://www.commondreams.org/media-library/image.jpg?id=56528085&width=1200&height=600&coordinates=0%2C342%2C0%2C343",
-      "category": "market"
-    },
-    {
-      "title": "After booting 760K off ACA health plans, the Trump administration adds some people back",
-      "description": "The Trump administration provided few details about its process for canceling hundreds of thousands of Affordable Care Act enrollments \u2014 even as the next stage of the anti-fraud effort is underway.",
-      "url": "https://www.npr.org/2026/10/15/nx-s1-6002957/aca-fraud-trump-health-insurance",
-      "source": "NPR",
-      "date": "2026-10-15",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2250+0+209/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd9%2F15%2F15da344e4d34b669c59c248126f3%2Fgettyimages-2244046846.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Some GOP walk the line on Trump\u2019s tariffs and a look at Apple HomeView: Morning Rundown",
-      "description": "Some Republican candidates are putting distance between themselves and Trump\u2019s tariff policies.",
-      "url": "https://www.nbcnews.com/news/us-news/gop-trump-tariffs-apple-homeview-morning-rundown-rcna603645",
-      "source": "NBC News",
-      "date": "2026-10-15",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261009-michigan-debate-rogers-el-sayed-mn-0846-b1a923.jpg",
+      "image": "https://images.rigzone.com/images/news/articles/Aramco-CEO-Warns-Oil-Squeeze-is-Serious-184859-1200x628.png",
       "category": "geopolitics"
     },
     {
-      "title": "FIRST ON FOX: Wikipedia\u2019s editorial safeguards failed to correct antisemitic content, ADL says",
-      "description": "ADL CEO Jonathan Greenblatt says 91% of a banned Wikipedia editor's biased edits on Israel, Hamas and October 7 pages remain live and unchecked.",
-      "url": "https://www.foxnews.com/media/first-fox-wikipedias-editorial-safeguards-failed-correct-antisemitic-content-adl-says",
-      "source": "Fox News",
+      "title": "Autonomous Underwater Vehicle (AUV) Market worth $10.94 billion by 2031 - Exclusive Report by MarketsandMarkets\u2122",
+      "description": "DELRAY BEACH, Fla., Oct. 15, 2026 /PRNewswire/ -- According to MarketsandMarkets\u2122, the autonomous underwater vehicle market is expected to reach USD 10.94 billion in 2031 from USD 3.67 billion in 2026 at a CAGR of 24.4%. In terms of volume, it is likely to gr\u2026",
+      "url": "https://www.prnewswire.com/news-releases/autonomous-underwater-vehicle-auv-market-worth-10-94-billion-by-2031---exclusive-report-by-marketsandmarkets-302909758.html",
+      "source": "PRNewswire",
       "date": "2026-10-15",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/PERSON-USING-WIKIPEDIA-LAPTOP.jpg",
+      "image": "https://mmx.prnewswire.com/media/MS1173081/MarketsandMarkets-Logo.jpg?id=OA3020974&p=facebook",
+      "category": "currency"
+    },
+    {
+      "title": "DICK'S Sporting Goods Inc. to Hire Over 11,000 Seasonal Teammates for the 2026 Holiday Shopping Season",
+      "description": "PITTSBURGH, Oct. 15, 2026 /PRNewswire/ -- DICK'S (NYSE: DKS) and Foot Locker, a DICK'S Sporting Goods company, announced today that they expect to hire over 11,000 seasonal teammates for the upcoming 2026 holiday season. Across DICK'S Sporting Goods, DICK'S H\u2026",
+      "url": "https://www.prnewswire.com/news-releases/dicks-sporting-goods-inc-to-hire-over-11-000-seasonal-teammates-for-the-2026-holiday-shopping-season-302908795.html",
+      "source": "PRNewswire",
+      "date": "2026-10-15",
+      "image": "https://mmx.prnewswire.com/media/MS432493/DICKS-Sporting-Goods-Logo.jpg?id=OA3013882&p=facebook",
       "category": "market"
+    },
+    {
+      "title": "Solidus Labs hires former CFTC official Kevin Webb as VP of policy",
+      "description": "Solidus Labs' strategic hire underscores the growing importance of regulatory expertise in navigating complex digital asset markets globally.\nThe post Solidus Labs hires former CFTC official Kevin Webb as VP of policy appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/solidus-labs-kevin-webb-vp-policy/",
+      "source": "Crypto Briefing",
+      "date": "2026-10-15",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/15100051/library-solidus-labs-hires-former-cftc-official-kevin-webb-as-vp-800x450.png",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Associations of food processing and dietary risk factors with colorectal cancer incidence in the NIH-AARP Diet and Health Study: A cohort study",
+      "description": "In this study, Leila Abar and colleagues examine ultra-processed food intake and colorectal cancer incidence in a large prospective cohort, finding no overall association and suggesting that the nutritional composition of these foods may be more relevant than\u2026",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005251",
+      "source": "Plos.org",
+      "date": "2026-10-15",
+      "image": "https://journals.plos.org/plosmedicine/article/figure/image?id=10.1371/journal.pmed.1005251.g002&size=inline",
+      "category": "market"
+    },
+    {
+      "title": "Not leaks, but drops: Welcome to the Ken Paxton secret audio mixtape",
+      "description": "It's the hottest release of the 2026 midterm campaign season.",
+      "url": "http://www.dallasobserver.com/news/not-leaks-but-drops-welcome-to-the-ken-paxton-secret-audio-mixtape-40723855/",
+      "source": "Dallas Observer",
+      "date": "2026-10-15",
+      "image": "https://www.dallasobserver.com/wp-content/uploads/sites/3/ww-media/mediaserver/dal/2023-36/ken_paxton_gettyimages-e1765386521816.webp",
+      "category": "market"
+    },
+    {
+      "title": "Bolsonaro Favorite in Brazil\u2019s Elections Amid US Interference Claims",
+      "description": "Brazil faces pressures to \u201cchoose\u201d between Washington and Beijing as Fl\u00e1vio Bolsonaro signals closer US ties \u2013 amid accusations of US interference. Yet agribusiness and military concerns could prevent a decisive break with China and BRICS. Brazil in any case \u2026",
+      "url": "https://www.globalresearch.ca/bolsonaro-favorite-brazil-elections-amid-us-interference-claims/5943869",
+      "source": "Globalresearch.ca",
+      "date": "2026-10-15",
+      "image": "https://www.globalresearch.ca/wp-content/uploads/2026/10/trump-flavio-bolsonaro.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "The 3rd Circuit Upholds the Gun Rights of a Man Who Committed a Nonviolent Misdemeanor 2 Decades Ago",
+      "description": "The appeals court said it was unconstitutional to permanently disarm Edward Williams based on a 2005 DUI conviction.",
+      "url": "https://reason.com/2026/10/15/the-3rd-circuit-upholds-the-gun-rights-of-a-man-who-committed-a-nonviolent-misdemeanor-2-decades-ago/",
+      "source": "Reason",
+      "date": "2026-10-15",
+      "image": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/10/Williams-v.-Attorney-General.jpg",
+      "category": "geopolitics"
     }
   ],
   "history": [
@@ -517,7 +517,7 @@
       "platinum_usd_oz": 1681.4
     }
   ],
-  "timestamp": "2026-10-16T17:13:23.322205+05:30",
+  "timestamp": "2026-10-16T19:36:10.601647+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
