@@ -54,7 +54,7 @@
         "hold": 50
       },
       "summary": "Gold is showing positive signals. Strong daily gain of 1.1%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-20T08:44:39.762993",
+      "timestamp": "2026-10-20T11:55:06.648469",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 50
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 1.8%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-20T08:44:39.842729",
+      "timestamp": "2026-10-20T11:55:06.757608",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 50
       },
       "summary": "Platinum is showing positive signals. Strong daily gain of 2.1%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-20T08:44:39.923066",
+      "timestamp": "2026-10-20T11:55:06.871607",
       "source": "rule-based"
     }
   },
@@ -135,40 +135,58 @@
   },
   "news": [
     {
-      "title": "WhatsApp stock tips: Nithin Kamath warns of more pump-and-dump schemes as ED freezes accounts worth Rs 200 crore",
-      "description": "In a post on X, formerly Twitter, Kamath said such schemes remain a concern even in 2026, calling them one of the silliest ways for investors to lose money. He also warned that these cases could become more frequent as the market cycle advances, pointing to a rise in alleged pump-and-dump schemes op",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/whatsapp-stock-tips-nithin-kamath-warns-of-more-pump-and-dump-schemes-as-ed-freezes-accounts-worth-rs-200-crore/articleshow/135064120.cms",
+      "title": "US Stocks: GM's core profit rises 22% on strength of pickup-truck business",
+      "description": "General Motors exceeded analyst expectations in third-quarter earnings, driven by robust demand for their pickups and SUVs. The company reported an adjusted EBIT of $4.1 billion, marking a 22% year-over-year increase. Despite facing inflationary challenges, GM forecasts an adjusted EBIT of $14.5 bil",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-gms-core-profit-rises-22-on-strength-of-pickup-truck-business/articleshow/135068643.cms",
       "source": "Economic Times Markets",
       "date": "2026-10-20",
       "image": "",
-      "category": "geopolitics"
+      "category": "inflation"
     },
     {
-      "title": "Japan's 20-year bond yield falls sharply after strongest auction on record",
-      "description": "Japan's 20-year government bond yield saw a notable decline following a record demand from its recent auction. This drop marked the lowest yield since early September, driven by investor confidence in the Bank of Japan's interest rate stability. The strong auction signals a cautious sentiment among ",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/japans-20-year-bond-yield-falls-sharply-after-strongest-auction-on-record/articleshow/135063198.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-10-20",
-      "image": "",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Bank of Japan may raise inflation forecast, stand pat on rates, sources say",
-      "description": "The Bank of Japan plans to slightly upgrade its fiscal year 2027 inflation forecasts this month. Interest rates are expected to remain stable at 1.25% during the upcoming policy meeting in late October. While inflation risks are present, there is no immediate urgency for further rate hikes. Recent d",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/bank-of-japan-may-raise-inflation-forecast-stand-pat-on-rates-sources-say/articleshow/135063146.cms",
+      "title": "Market Trading Guide: Federal Bank among 4 stock recommendations for Wednesday",
+      "description": "Indian equities weakened amid negative global cues and selling in private banks and IT stocks, pushing the Nifty below 23,000. Choice Equity Broking\u2019s Sachin Gupta recommends four stocks\u2014Federal Bank, ACME Solar, Dr Reddy\u2019s Laboratories and Union Bank\u2014for potential upside.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-federal-bank-among-4-stock-recommendations-for-wednesday/slideshow/135067773.cms",
       "source": "Economic Times Markets",
       "date": "2026-10-20",
       "image": "",
       "category": "central_bank"
     },
     {
-      "title": "Yen jumps after JGB auction draws big demand, euro finds relief",
-      "description": "The yen experienced a notable rise against the dollar, driven by unprecedented demand for long-term Japanese government bonds. In France, curfews were enacted in response to widespread anti-government protests, which pose challenges for President Emmanuel Macron's administration. Meanwhile, the euro",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/forex-yen-jumps-after-jgb-auction-draws-big-demand-euro-finds-relief/articleshow/135063113.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-10-20",
-      "image": "",
+      "title": "SGB investors earn 192%, RBI fixes redemption price at Rs 14,614: Details",
+      "description": "RBI has fixed the October 19 redemption price at Rs 14,614 per unit, giving investors in the October 2020 tranche a 192% return, excluding interest",
+      "url": "https://www.business-standard.com/finance/personal-finance/sgb-investors-earn-192-rbi-fixes-redemption-price-at-rs-14-614-details-126101900796_1.html",
+      "source": "Business Standard",
+      "date": "2026-10-19",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-09/27/thumb/fitandfill/1200X628/1727455915-2298.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "XRP\u2019s 13-week ETF inflow streak ends as Bitcoin and Ethereum withdrawals continue",
+      "description": "US-listed XRP exchange-traded funds ended a 13-week inflow streak as investors withdrew nearly $576 million from four major cryptocurrency ETF categories. Data from SoSoValue showed that XRP funds recorded $1.84 million in net outflows during the week ended O\u2026",
+      "url": "https://cryptoslate.com/xrp-etf-inflow-streak-ends-as-bitcoin-and-ethereum-outflows-continue/",
+      "source": "CryptoSlate",
+      "date": "2026-10-19",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/10/institutional-crypto-capital-pull.webp",
       "category": "currency"
+    },
+    {
+      "title": "Cupid, Sterlite Tech among stocks top 10 equity PMS portfolios hold as Nifty, Sensex plunge up to 13% in 2026",
+      "description": "Despite a sharp market downturn in 2026, all 10 top-performing equity PMS strategies delivered positive returns in September, ranging from 3.55% to 5.67%. Amaltas Asset Management\u2019s Keystone Fund led the rankings, while Cupid and Sterlite Technologies feature\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/cupid-sterlite-tech-among-stocks-top-10-equity-pms-portfolios-hold-as-nifty-sensex-plunge-up-to-13-in-2026/articleshow/135045427.cms",
+      "source": "The Times of India",
+      "date": "2026-10-19",
+      "image": "https://img.etimg.com/thumb/msid-135045772,width-1200,height-900,imgsize-427206,overlay-etmarkets/articleshow.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Weekly Climate and Energy News Roundup #711",
+      "description": "\u201cWhoever undertakes to set himself up as a judge of Truth and Knowledge is shipwrecked by the laughter of the gods.\u201d\u2014 Albert Einstein \nThe post Weekly Climate and Energy News Roundup #711 appeared first on Watts Up With That?.",
+      "url": "https://wattsupwiththat.com/2026/10/19/weekly-climate-and-energy-news-roundup-711/",
+      "source": "Wattsupwiththat.com",
+      "date": "2026-10-19",
+      "image": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/10/chatgpt-Alpine-Lake-at-Golden-Hour.webp?fit=1024%2C512&quality=75&ssl=1",
+      "category": "market"
     },
     {
       "title": "Amex Membership Rewards Just Changed, Here\u2019s What Could Be Next\u2026",
@@ -207,40 +225,13 @@
       "category": "market"
     },
     {
-      "title": "PhonePe sees opportunity to bring everyday savers into equities with PhonePe Invest: Rahul Chari",
-      "description": "PhonePe rebrands Share.Market as PhonePe Invest, linking savers to equities with Portfolio Optimiser and AI tools for first-time and active investors.",
-      "url": "https://www.thehindubusinessline.com/money-and-banking/phonepe-sees-opportunity-to-bring-everyday-savers-into-equities-with-phonepe-invest-rahul-chari/article71602115.ece",
-      "source": "BusinessLine",
+      "title": "\u201cThe Great Cities of Italy\u201d: Italpreziosi presents a silver collection dedicated to the beauty of the country",
+      "description": "AREZZO, Italy, Oct. 19, 2026 (GLOBE NEWSWIRE) \u2014 Italpreziosi, an Arezzo-based company specializing in the refining and trading of precious metals, presents Le Grandi Citt\u00e0 d\u2019Italia, a collection of six collectible 999 fine silver ingots dedicated to Venice, F\u2026",
+      "url": "https://financialpost.com/globe-newswire/the-great-cities-of-italy-italpreziosi-presents-a-silver-collection-dedicated-to-the-beauty-of-the-country",
+      "source": "Financial Post",
       "date": "2026-10-19",
-      "image": "https://bl-i.thgim.com/public/incoming/imvngc/article71602170.ece/alternates/LANDSCAPE_1200/1649176370413.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Property boom: Will real estate prices rise in 2027? CA cites stock market, gold trends, US green card as big reasons",
-      "description": "The CA said the domestic property market is bracing for a massive surge in demand that could peak soon and predicted that \u201creal estate prices are about to blow up in India in 2027\u201d&nbsp;",
-      "url": "https://www.livemint.com/industry/real-estate/property-boom-will-real-estate-prices-rise-in-2027-ca-cites-stock-market-gold-trends-us-green-card-as-big-reasons-11792384963825.html",
-      "source": "Livemint",
-      "date": "2026-10-19",
-      "image": "https://www.livemint.com/lm-img/img/2026/10/19/1600x900/logo/Gemini_Generated_Image_1792388146660_bXAp_1792388147091_YGEO_19203867-9585-4187-9b1a-343f6e388ad4_dJDK.png",
-      "category": "supply_demand"
-    },
-    {
-      "title": "PC Jeweller shares soar 26% in just two sessions. Here\u2019s what\u2019s triggering the sharp surge",
-      "description": "PC Jeweller shares rallied 26% in two sessions after Cupid promoter Aditya Kumar Halwasiya bought 5.10 crore shares worth Rs 73.60 crore. The jewellery maker recently repaid its dues to 14 consortium banks, achieving debt-free status ahead of schedule.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pc-jeweller-shares-soar-26-in-just-two-sessions-heres-whats-triggering-the-sharp-surge/articleshow/135040565.cms",
-      "source": "The Times of India",
-      "date": "2026-10-19",
-      "image": "https://img.etimg.com/thumb/msid-135040609,width-1200,height-900,imgsize-2100083,overlay-etmarkets/articleshow.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Economic Digest: A Snapshot of Nepal\u2019s Business News",
-      "description": "KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. Nepal\u2019s latest developments reflect a mix of seasonal economic activity, infrastructure recovery and em\u2026",
-      "url": "https://english.khabarhub.com/2026/19/572545/",
-      "source": "Khabarhub.com",
-      "date": "2026-10-19",
-      "image": "https://english.khabarhub.com/wp-content/uploads/2024/05/Economic-Digest.jpg",
-      "category": "market"
+      "image": null,
+      "category": "metals"
     },
     {
       "title": "Gold rate silver rate today (October 19, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from Malabar Gold & Diamonds, Joyalukkas, Kalyan Jewellers, Tanishq & IBJA in Delhi, Mumbai, Hyderabad & more cities",
@@ -297,112 +288,121 @@
       "category": "geopolitics"
     },
     {
-      "title": "UltraTech Cement Q2 profit rises 21% to \u20b91,494 crore; sales up 19% on year",
-      "description": "Net sales rose 18.9 per cent to \u20b923,024 crore and domestic grey-cement volumes grew 13.8%, while PBIDT increased 17.3% to \u20b93,832 crore on year in Q2FY27",
-      "url": "https://www.business-standard.com/companies/quarterly-results/quarterly-results-ultratech-cement-q2fy27-profit-sales-volume-results-126101900492_1.html",
-      "source": "Business Standard",
-      "date": "2026-10-19",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-04/27/thumb/fitandfill/1200X628/1777288552-9996.JPG",
-      "category": "market"
-    },
-    {
-      "title": "RDI fund to spur 10-fold investment from private sector, says NITI's Abhay Karandikar",
-      "description": "The Research, Development and Innovation (RDI) scheme aims to significantly increase private sector investment in India. It is designed to catalyse nearly Rs 10-lakh crore in investment over the next ten years while creating new job opportunities. The focus w\u2026",
-      "url": "https://economictimes.indiatimes.com/news/economy/finance/rdi-fund-to-spur-10-fold-investment-from-private-sector-says-nitis-abhay-karandikar/articleshow/135044346.cms",
+      "title": "China's economy grows 4.5 pc in Q3 as AI-driven exports offset weak domestic demand",
+      "description": "The Chinese economy grew 4.5% in the third quarter of 2026. The growth is fuelled by global demand for artificial intelligence (AI) infrastructure, helping the economy offset weak domestic consumption and a deepening property market crisis. The development co\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/chinas-economy-grows-4-5-pc-in-q3-as-ai-driven-exports-offset-weak-domestic-demand/articleshow/135047982.cms",
       "source": "The Times of India",
       "date": "2026-10-19",
-      "image": "https://img.etimg.com/thumb/msid-135044356,width-1200,height-900,imgsize-35820,overlay-economictimes/articleshow.jpg",
+      "image": "https://img.etimg.com/thumb/msid-135048210,width-1200,height-900,imgsize-42774,overlay-economictimes/articleshow.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "\u2018Great progress\u2019 in Ukraine peace talks \u2013 Trump",
+      "description": "Ukraine peace talks are making \u201cgreat progress,\u201d Trump says, as Moscow praises US mediation and calls for responsible engagement from Kiev Read Full Article at RT.com",
+      "url": "https://rt-english.com/news/647387-trump-great-progress-ukraine-talks/",
+      "source": "Rt-english.com",
+      "date": "2026-10-19",
+      "image": "https://mf.b37mrtl.ru/files/2026.10/article/6ad603aa85f54005f51453ca.jpg",
       "category": "market"
     },
     {
-      "title": "Sobi to present new Aspaveli\u00ae/Empaveli\u00ae data at ASN Kidney Week 2026",
-      "description": "STOCKHOLM, Oct. 19, 2026 /PRNewswire/ -- Sobi\u00ae today announced that seven abstracts on Aspaveli/Empaveli (pegcetacoplan) have been accepted for presentation at the American Society of Nephrology (ASN) Kidney Week 2026, taking place from 21\u201325 October in Denve\u2026",
-      "url": "https://www.prnewswire.com/news-releases/sobi-to-present-new-aspaveliempaveli-data-at-asn-kidney-week-2026-302912426.html",
-      "source": "PRNewswire",
+      "title": "Qatar to unveil regional defence partnership",
+      "description": "Qatar to unveil regional defence partnership",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/qatar-to-unveil-regional-defence-partnership",
+      "source": "Al Jazeera English",
+      "date": "2026-10-19",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/mmam-1792410649.jpg?resize=1920%2C1080&quality=80",
+      "category": "market"
+    },
+    {
+      "title": "From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software",
+      "description": "In Salesforce Agentforce, the recommended way to make an agent respond to events is a Flow: a record is created or a case is updated, and the Flow passes data into the agent's prompt. Separately, Email-to-Case and Web-to-Case turn inbound customer messages in\u2026",
+      "url": "https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html",
+      "source": "Internet",
+      "date": "2026-10-19",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1uAZRypeHl_8TjAU-3mwmvjdbCH0SZJwZBZOoEXcehaQfod9rpBvAl72JCjV8xF2KF4VbSVzWezAmkXjmbaxdIkK854Pa-yV4nkkRNe-l82mPM_VW1fLSE5Ib-RhyphenhypheneGga3KZ_9wQu76clTABJwGp_3N_M-6QBZMXFSISC56JWHVHpylO-uTenNO3kRlg/s1700-nu-rw-lo-l85-e365/reco.gif",
+      "category": "geopolitics"
+    },
+    {
+      "title": "China Southern Business Class: SYD,MEL,BNE,ADL & PER to Istanbul, London, Paris, Amsterdam, Madrid & More fr $4,880 Return @ BTF",
+      "description": "China Southern Business Class return fares start at $4985 from Sydney to Istanbul, with Melbourne to Istanbul from $5004. There are also fares to Amsterdam, London, Madrid and Paris from five \u2026",
+      "url": "https://www.ozbargain.com.au/node/979599",
+      "source": "Ozbargain.com.au",
+      "date": "2026-10-19",
+      "image": "https://files.ozbargain.com.au/n/99/979599l.jpg?h=786a78f1",
+      "category": "market"
+    },
+    {
+      "title": "DEEP SEA MINERALS CORP. HIGHLIGHTS U.S. TREASURY RECOGNITION OF DEEP SEA MINING IN CRITICAL MINERALS POLICY AND PROVIDES CORPORATE UPDATE",
+      "description": "Vancouver, British Columbia, Oct. 19, 2026 (GLOBE NEWSWIRE) \u2014 Deep Sea Minerals Corp. (CSE: SEAS) (OTCQB: DSEAF) (FSE: X450) (\u201cDeep Sea Minerals\u201d or the \u201cCompany\u201c) welcomes the recognition of deep sea mining in U.S. Secretary of the Treasury Scott Bessent\u2019s O\u2026",
+      "url": "https://financialpost.com/globe-newswire/deep-sea-minerals-corp-highlights-u-s-treasury-recognition-of-deep-sea-mining-in-critical-minerals-policy-and-provides-corporate-update",
+      "source": "Financial Post",
       "date": "2026-10-19",
       "image": null,
+      "category": "supply_demand"
+    },
+    {
+      "title": "TCS expands Indian Bank partnership, deploys BaNCS for Treasury in Sri Lanka",
+      "description": "TCS expands Indian Bank\u2019s Colombo treasury with BaNCS, enabling unified, real-time, compliant overseas operations and enhanced risk controls.",
+      "url": "https://www.thehindubusinessline.com/money-and-banking/tcs-expands-indian-bank-partnership-deploys-bancs-for-treasury-in-sri-lanka/article71602541.ece",
+      "source": "BusinessLine",
+      "date": "2026-10-19",
+      "image": "https://bl-i.thgim.com/public/incoming/njmml/article71602665.ece/alternates/LANDSCAPE_1200/2024-07-12T055117Z_1401798614_RC2P56A56XZ8_RTRMADP_3_TCS-STOCKS.JPG",
       "category": "market"
     },
     {
-      "title": "Rajinikanth\u2019s \u2018Jailer 2\u2019 Ranks No. 2 at Global Box Office as \u2018Street Fighter\u2019 Leads",
-      "description": "Indian superstar Rajinikanth\u2019s Tamil-language action comedy \u201cJailer 2\u201d was the second-biggest film in the world over the Oct. 16\u201318 weekend, grossing $31.2 million, according to Rentrak estimates. Only Paramount\u2019s \u201cStreet Fighter,\u201d with $51.1 million, earned \u2026",
-      "url": "https://variety.com/2026/film/box-office/rajinikanth-jailer-2-no-2-global-box-office-1236916220/",
-      "source": "Variety",
+      "title": "AirAsia\u2019s Tony Fernandes warns costs will \u2018go up dramatically\u2019 over the next 12 months: \u2018Can\u2019t get a vaccination for Donald Trump\u2019",
+      "description": "Fernandes says the squeeze will last about a year\u2014and that the next leg of growth is in secondary cities like China's Shantou.",
+      "url": "https://fortune.com/2026/10/19/airasia-tony-fernandes-fuel-costs/",
+      "source": "Fortune",
       "date": "2026-10-19",
-      "image": "https://variety.com/wp-content/uploads/2026/10/Jailer-2.jpg?w=1000&h=563&crop=1",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2206122798-e1792407052392.jpg?resize=1200,600",
+      "category": "geopolitics"
+    },
+    {
+      "title": "It's No Coincidence That Authoritarianism Rises as Journalism Dies",
+      "description": "Journalism is experiencing one of its worst crises when it\u2019s needed the most.Overall, news consumption is dropping. And it\u2019s worse among young people, who largely get their news through social media, not news outlets. People under 30, more than any other age \u2026",
+      "url": "https://otherwords.org/worried-about-american-democracy-save-journalism/",
+      "source": "Otherwords.org",
+      "date": "2026-10-19",
+      "image": "https://www.commondreams.org/media-library/image.jpg?id=64964233&width=1200&height=600&coordinates=0%2C166%2C0%2C167",
       "category": "market"
     },
     {
-      "title": "Mt. Gox creditors face another year of waiting as repayment deadline slips to 2027",
-      "description": "The Oct. 16 notice cites unfinished creditor procedures and payment-processing issues, without assigning individual distribution dates.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in you\u2026",
-      "url": "https://cryptoslate.com/mt-gox-creditors-face-another-year-of-waiting-as-repayment-deadline-slips-to-2027/",
-      "source": "CryptoSlate",
-      "date": "2026-10-19",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/10/mt-gox-bitcoin-hourglass.webp",
-      "category": "market"
-    },
-    {
-      "title": "Lilly's Omvoh (mirikizumab-mrkz) meets primary endpoint of clinical remission and is the first IL-23p19 inhibitor to report one-year Phase 3 results in pediatric ulcerative colitis",
-      "description": "Building on Omvoh's approved use and durable efficacy in adults, Lilly plans to submit these data to global regulators to support a potential label expansion for pediatric ulcerative colitis More than 80% of patients responded to Omvoh induction, and half of \u2026",
-      "url": "https://www.prnewswire.com/news-releases/lillys-omvoh-mirikizumab-mrkz-meets-primary-endpoint-of-clinical-remission-and-is-the-first-il-23p19-inhibitor-to-report-one-year-phase-3-results-in-pediatric-ulcerative-colitis-302911320.html",
-      "source": "PRNewswire",
-      "date": "2026-10-19",
-      "image": "https://mmx.prnewswire.com/media/MS270365/ELI-LILLY-AND-COMPANY-LOGO.jpg?id=OA3018517&p=facebook",
-      "category": "market"
-    },
-    {
-      "title": "Worry over dynamic pricing\u2019s use on rise",
-      "description": "U.S. consumers aren't just frustrated with high prices. They're angry and confused about the increasingly high-tech ways that restaurant chains and major retailers are setting those prices.",
-      "url": "https://www.arkansasonline.com/news/2026/oct/19/worry-over-dynamic-pricings-use-on-rise/",
-      "source": "Arkansas Online",
-      "date": "2026-10-19",
-      "image": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/213890253_213889834-c007ed5553a8466fbb584dd75245a313_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
-      "category": "market"
-    },
-    {
-      "title": "Around the Book World: Monday, October 19, 2026",
-      "description": "Publishing analyst Carlo Carrenho kicks off the week with a review of the headlines from across the international publishing world.\nThe post Around the Book World: Monday, October 19, 2026 appeared first on Publishing Perspectives.",
-      "url": "https://publishingperspectives.com/2026/10/around-the-book-world-monday-october-19-2026/",
-      "source": "Publishingperspectives.com",
-      "date": "2026-10-19",
-      "image": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png",
-      "category": "market"
-    },
-    {
-      "title": "Rangarajan & Bhanumurthy: Can price levels rise without growth in money supply?",
-      "description": "The impact of changes in the broad availability of money on an economy\u2019s general price level\u2014or inflation\u2014is clearer than the role of interest rate shifts. Here's what an analysis of academic theory as well as India\u2019s empirical record shows\u2014and what monetary \u2026",
-      "url": "https://www.livemint.com/opinion/online-views/rangarajan-bhanumurthy-inflation-can-price-levels-rise-without-growth-in-money-supply-11792335610860.html",
-      "source": "Livemint",
-      "date": "2026-10-19",
-      "image": "https://www.livemint.com/lm-img/img/2026/10/19/1600x900/logo/rupee_1708592614056_1792394913705_Dofc_7e5c0054-67ba-474e-9baf-ed027379373c_biWm.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "Consumer apprehension grows as US retailers adopt AI-assisted pricing tools",
-      "description": "AgenciesUS consumers aren\u2019t just frustrated with high prices. They\u2019re angry and confused about the increasingly high-tech ways that restaurant chains and major retailers are...",
-      "url": "https://www.qatar-tribune.com/article/259742/business/consumer-apprehension-grows-as-us-retailers-adopt-ai-assisted-pricing-tools",
-      "source": "Qatar-tribune.com",
-      "date": "2026-10-19",
-      "image": "https://www.qatar-tribune.com/watanqatartribune/uploads/images/2026/10/19/397327.jpg",
-      "category": "market"
-    },
-    {
-      "title": "'Long decline': Billionaire's company refuses to take blame for Whyalla failure",
-      "description": "Whyalla workers say critical safety equipment like heat suits contained \"massive holes\" when the plant was run by Sanjeev Gupta, whose company GFG Alliance is not taking responsibility for the broken blast furnace.",
-      "url": "https://www.abc.net.au/news/2026-10-19/whyalla-blast-furnace-fail-gupta-to-blame-safety-issues/107282744",
+      "title": "After MP 'attacked' in the street, our democracy is facing its biggest test",
+      "description": "With four words, Prime Minister Anthony Albanese laid bare the horrifying nature of an attack that has sent shock waves through Australia.",
+      "url": "https://www.abc.net.au/news/2026-10-19/helen-haines-attack-threat-to-democracy/107285334",
       "source": "ABC News (AU)",
       "date": "2026-10-19",
-      "image": "https://live-production.wcms.abc-cdn.net.au/d3443f97b74c52ce83c48a3e1ddc309d?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "image": "https://live-production.wcms.abc-cdn.net.au/31c2c53ac804a50dd4d723cd9fafc018?impolicy=wcms_watermark_news&cropH=3510&cropW=6240&xPos=0&yPos=0&width=862&height=485&imformat=generic",
       "category": "market"
     },
     {
-      "title": "An Uncertain Landscape for Science Funding",
-      "description": "An Uncertain Landscape for Science Funding\n\n \n\n\n \nElizabeth Redden\n\nMon, 10/19/2026 - 03:00 AM\n\nNew obstacles for early-career researchers could undermine U.S. innovation and competitiveness in the long term.\n \n Byline(s)\n \n Adriana Bankston\n Donna K. Ginther\u2026",
-      "url": "https://www.insidehighered.com/opinion/career-advice/carpe-careers/2026/10/19/uncertain-landscape-science-funding-opinion",
-      "source": "Inside Higher Ed",
+      "title": "As Bay Area Cities Break Up With Flock, Pushback to Surveillance Mounts in SF",
+      "description": "Tensions around police surveillance technology are boiling over as Flock\u2019s contract with San Francisco faces renewal in February 2027.",
+      "url": "https://www.kqed.org/news/12103071/as-bay-area-cities-break-up-with-flock-pushback-to-surveillance-mounts-in-sf",
+      "source": "KQED",
       "date": "2026-10-19",
-      "image": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-10/GettyImages-170615626.jpg?itok=yTa-WAUe",
-      "category": "market"
+      "image": "https://cdn.kqed.org/wp-content/uploads/sites/10/2026/10/261014-SFFLOCK-NG-17-KQED-af5f8859.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Documents: Police officer gave her Flock login to her ICE agent husband",
+      "description": "Article URL: https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816\nComments URL: https://news.ycombinator.com/item?id=50150750\nPoints: 6\n# Comments: 0",
+      "url": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
+      "source": "WJCL News",
+      "date": "2026-10-19",
+      "image": "https://kubrick.htvapps.com/htv-prod/images/59afd81a-246a-4dd8-be64-a0263cee209e.png?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
+      "category": "geopolitics"
+    },
+    {
+      "title": "FG says foreign investment up 83%, reserves top $50bn",
+      "description": "The Federal Government says Nigeria\u2019s capital importation rose by 83% year-on-year, with foreign exchange reserves now exceeding $50 billion.\n\nRead More: https://punchng.com/fg-says-foreign-investment-up-83-reserves-top-50bn/",
+      "url": "https://punchng.com/fg-says-foreign-investment-up-83-reserves-top-50bn/",
+      "source": "The Punch",
+      "date": "2026-10-19",
+      "image": "https://cdn.punchng.com/wp-content/uploads/2026/01/26001145/Oduwole.jpg",
+      "category": "central_bank"
     }
   ],
   "history": [
@@ -517,7 +517,7 @@
       "platinum_usd_oz": 1681.4
     }
   ],
-  "timestamp": "2026-10-20T14:14:39.932982+05:30",
+  "timestamp": "2026-10-20T17:25:06.881403+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
