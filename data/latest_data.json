@@ -54,7 +54,7 @@
         "hold": 50
       },
       "summary": "Gold is showing positive signals. Strong daily gain of 1.1%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-23T08:43:04.410059",
+      "timestamp": "2026-10-23T11:53:39.397041",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 50
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 1.8%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-23T08:43:04.510157",
+      "timestamp": "2026-10-23T11:53:39.517783",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 50
       },
       "summary": "Platinum is showing positive signals. Strong daily gain of 2.1%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-23T08:43:04.600243",
+      "timestamp": "2026-10-23T11:53:39.635410",
       "source": "rule-based"
     }
   },
@@ -135,40 +135,31 @@
   },
   "news": [
     {
-      "title": "Silver prices slide below Rs 2 lakh/kg, down nearly 55% from Jan peak. What\u2019s behind the rapid selloff?",
-      "description": "MCX silver prices fell below Rs 2 lakh per kg after a sharp two-day decline, as a stronger dollar, elevated bond yields and hawkish US Federal Reserve expectations weighed on sentiment. Fresh import permits and industrial demand remain key factors for the outlook.",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-prices-slide-below-rs-2-lakh/kg-down-nearly-55-from-jan-peak-whats-behind-the-rapid-selloff/articleshow/135139949.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-10-23",
-      "image": "",
-      "category": "central_bank"
-    },
-    {
-      "title": "Global Market: Anthropic presses ahead with November IPO as AI listings face delays",
-      "description": "Anthropic is preparing for a potential mid-November IPO despite market volatility, rising interest rates and concerns over AI spending. With a possible $1.5 trillion valuation, its listing could test investor appetite as several AI infrastructure companies postpone or shelve offerings.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-anthropic-presses-ahead-with-november-ipo-as-ai-listings-face-delays/articleshow/135139929.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-10-23",
-      "image": "",
-      "category": "central_bank"
-    },
-    {
-      "title": "Global Market: Bank Indonesia defends policy mix after market confusion",
-      "description": "Bank Indonesia has defended its latest policy package combining an unchanged benchmark rate, a higher deposit facility rate and reserve requirement cuts. The central bank says the measures aim to improve monetary policy transmission, boost banking liquidity and support credit growth.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-bank-indonesia-defends-policy-mix-after-market-confusion/articleshow/135139934.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-10-23",
-      "image": "",
-      "category": "central_bank"
-    },
-    {
-      "title": "Broader markets crash! Small, midcap indices tumble up to 4%. Why analysts are sounding the alarm",
-      "description": "Smallcap and midcap stocks plunged up to 4% on Friday, extending a sharp weekly selloff as analysts warned that valuations remain difficult to justify. The Nifty Smallcap 250 index has fallen around 8% this week, while the Nifty Midcap 100 is down 6%, despite a resilient earnings growth outlook.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/broader-markets-crash-small-midcap-indices-tumble-up-to-4-why-analysts-are-sounding-the-alarm/articleshow/135138924.cms",
+      "title": "European corporate earnings outlook improves as energy profits surge",
+      "description": "European corporate earnings growth is forecast to reach 21.9% in the third quarter, driven by soaring energy profits amid US-Iran war volatility. However, inflation risks, elevated oil prices and rising borrowing costs threaten investor confidence and market stability.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/european-corporate-earnings-outlook-improves-as-energy-profits-surge/articleshow/135144116.cms",
       "source": "Economic Times Markets",
       "date": "2026-10-23",
       "image": "",
       "category": "geopolitics"
+    },
+    {
+      "title": "Rupee little changed this week as oil-fueled declines wipe out early gains",
+      "description": "The Indian rupee experienced a decline for the second day in a row as rising oil prices dampened market confidence. Following a brief uptick at the start of trading, the rupee ended lower against the US dollar. Brent crude prices have surged to a five-month peak, raising worries about energy supply ",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-little-changed-this-week-as-oil-fueled-declines-wipe-out-early-gains/articleshow/135142602.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-10-23",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Global Market: Eurozone bond markets stabilise after volatile week",
+      "description": "Eurozone government bonds stabilised after a volatile week as investors balanced sovereign debt concerns against safe-haven demand amid uncertainty over AI investments and global growth. French borrowing costs remain under pressure ahead of key central bank policy decisions.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-eurozone-bond-markets-stabilise-after-volatile-week/articleshow/135142036.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-10-23",
+      "image": "",
+      "category": "central_bank"
     },
     {
       "title": "Gold (XAUUSD), Silver, Platinum Forecasts \u2013 Gold Dives 2.5% As Meta Boosts AI Spending - FXEmpire",
@@ -180,67 +171,103 @@
       "category": "currency"
     },
     {
-      "title": "The world's next big holiday hotspots? 25 destinations to visit in 2027 - and one British region makes the cut",
-      "description": "From Norway's dramatic fjords to a hidden corner of Scotland, these are the 25 destinations tipped for an unforgettable 2027 getaway.",
-      "url": "https://www.dailymail.com/travel/article-16226841/top-places-travel-2027-national-geographic.html",
+      "title": "Iran's Balochistan border region sees growing unrest",
+      "description": "Violence is on the rise in Iran's border region with Afghanistan and Pakistan. The Iran war could shift the strategic balance for militant groups operating in the area.",
+      "url": "https://www.dw.com/en/irans-balochistan-border-region-sees-growing-unrest/a-79716399",
+      "source": "DW (English)",
+      "date": "2026-10-22",
+      "image": "https://static.dw.com/image/68997556_6.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Sunday Lake Gold Corp. Graduates to OTCQX\u00ae Best Market in the United States",
+      "description": "TORONTO, Oct. 22, 2026 (GLOBE NEWSWIRE) \u2014 Sunday Lake Gold Corp. (TSX: SNDY, OTCQX: WLBMD) (\u201cSunday Lake Gold\u201d or the \u201cCompany\u201d) announces that it has qualified to trade on the OTCQX\u00ae Best Market, having been upgraded from the OTCQB\u00ae Venture Market. The Compa\u2026",
+      "url": "https://financialpost.com/globe-newswire/sunday-lake-gold-corp-graduates-to-otcqx-best-market-in-the-united-states",
+      "source": "Financial Post",
+      "date": "2026-10-22",
+      "image": null,
+      "category": "metals"
+    },
+    {
+      "title": "Sunday Lake Gold Corp. Begins Trading on OTCQX Best Market",
+      "description": "NEW YORK, Oct. 22, 2026 (GLOBE NEWSWIRE) \u2014 OTC Markets Group Inc. (OTCQX: OTCM), operator of regulated markets for trading 12,000 U.S. and international securities, today announced Sunday Lake Gold Corp. (TSX: SNDY; OTCQX: WLBMD), a mineral exploration compan\u2026",
+      "url": "https://financialpost.com/globe-newswire/sunday-lake-gold-corp-begins-trading-on-otcqx-best-market",
+      "source": "Financial Post",
+      "date": "2026-10-22",
+      "image": null,
+      "category": "metals"
+    },
+    {
+      "title": "After the Apocalypse",
+      "description": "As Venezuela struggles to recover from political upheaval and calamitous earthquakes, the U.S. government is exploiting the country for oil and money.",
+      "url": "https://www.theatlantic.com/magazine/2026/12/trump-oil-venezuela-exploitation/689033/?utm_source=feed",
+      "source": "The Atlantic",
+      "date": "2026-10-22",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "Retired decorator becomes millionaire overnight as Pok\u00e9mon cards he kept in his attic sell for \u00a31.56MILLION",
+      "description": "The man, who wishes to remain anonymous, had the collection of cards sitting at home for 15 years - with no idea of their astonishing value.",
+      "url": "https://www.dailymail.com/news/article-16229447/Retired-decorator-millionaire-Pok-mon-cards-attic.html",
       "source": "Dailymail.com",
       "date": "2026-10-22",
-      "image": "https://i.dailymail.com/1s/2026/10/21/14/112000923-0-image-a-89_1792589815215.jpg",
+      "image": "https://i.dailymail.com/1s/2026/10/22/10/112020033-0-image-m-16_1792662241511.jpg",
       "category": "market"
     },
     {
-      "title": "Titan Company up 17% vs Kalyan Jewellers 13% \u2014 Two biggest jewellery stocks in a year | How do mutual fund bets differ?",
-      "description": "In the 1-year period, Titan Company and Kalyan Jewellers India have delivered returns of 17% and 13%, respectively. However, their mutual fund ownership reflects contrasting investment strategies. Here are the top 5 schemes with the highest exposure to each j\u2026",
-      "url": "https://www.livemint.com/money/personal-finance/titan-company-up-17-vs-kalyan-jewellers-13-two-biggest-jewellery-stocks-in-a-year-how-do-mutual-fund-bets-differ-11792653599843.html",
-      "source": "Livemint",
+      "title": "Venezuela claims to have 300Bn barrels of oil in the ground. Experts claim maybe",
+      "description": "One figure sets Venezuela apart from the rest of the world: 303 billion barrels of so-called proven oil reserves",
+      "url": "https://abcnews.com/International/wireStory/venezuela-claims-300-billion-barrels-oil-ground-experts-137470154",
+      "source": "Abcnews.com",
       "date": "2026-10-22",
-      "image": "https://www.livemint.com/lm-img/img/2026/10/22/1600x900/logo/titan_1792656865059_llH9_1792656865233_Nhr0_ec7113cc-0943-49ea-a845-034a6457825a_FhTt.png",
+      "image": "https://i.abcnewsfe.com/a/50a7a5d9-6f45-46b1-8c8d-c71f541e7435/wirestory_6d1ec4ab9ec01b23e491e2fd2bfb89ee_16x9.jpg?w=1600",
       "category": "market"
     },
     {
-      "title": "My Latest Hilton Honors Redemption Yielded A Sweet 1.4 Cents Per Point Value!",
-      "description": "My latest Hilton Honors points redemption for an upcoming trip yielded amazing value, netting me 1.4 cents per point.",
-      "url": "https://travelupdate.com/best-redemption-hilton-honors-hotel-points/",
-      "source": "Travelupdate.com",
-      "date": "2026-10-22",
-      "image": "https://travelupdate.com/wp-content/uploads/2019/03/Hilton-1.jpeg",
-      "category": "market"
-    },
-    {
-      "title": "Walker Kessler's Lakers debut couldn't have gone much better",
-      "description": "He makes all 12 shots and finishes with 26 points, nine rebounds and two blocked shots in dominating victory over the Warriors in season opener.",
-      "url": "https://sports.yahoo.com/articles/walker-kesslers-lakers-debut-couldnt-075434305.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-10-22",
-      "image": "https://s.yimg.com/lo/mysterio/api/422b73215e3e74be8af51fcf56c23c21e297aa06d58b8f9fb2feb8d5338b5d72/lightyear_networkapi/resizefill_w840_h560%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fla_times_articles_853%2Fb2a17810932fb90ccd5087cc8a69c361.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Built in 1800 and believed to have been used by British troops to spot French soldiers out at sea, a 10-foot-wide tower near Brighton is now a one-bedroom home for \u00a3200,000",
-      "description": "A historic tower believed to have been used by British troops during the Napoleonic Wars is on the market. The Grade II-listed property, measuring 10 feet wide, is located in Hurstpierpoint. Its unique structure has been adapted for modern living across three\u2026",
-      "url": "https://timesofindia.indiatimes.com/world/uk/built-in-1800-and-believed-to-have-been-used-by-british-troops-to-spot-french-soldiers-out-at-sea-a-10-foot-wide-tower-near-brighton-is-now-a-one-bedroom-home-for-200000/articleshow/135110755.cms",
+      "title": "Seoul\u2019s Hangang River recorded 2,062 species in 2022, up from 1,608 in 2007, as the city restored riverbanks and expanded wildlife habitats",
+      "description": "Seoul\u2019s Hangang River recorded 2,062 species in 2022, up from 1,608 in 2007, according to the Seoul Metropolitan Government, as restoration projects",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/seouls-hangang-river-recorded-2062-species-in-2022-up-from-1608-in-2007-as-the-city-restored-riverbanks-and-expanded-wildlife-habitats/articleshow/135115342.cms",
       "source": "The Times of India",
       "date": "2026-10-22",
-      "image": "https://static.toiimg.com/thumb/msid-135110934,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
-      "description": "Chinese prosecutors are seeking to confiscate more than 61,800 Bitcoin tied to a $5.7 billion fraud scheme, days after a U.K. court ruled Chinese law governs victims\u2019 claims to the coins.",
-      "url": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme",
-      "source": "CoinDesk",
-      "date": "2026-10-22",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/8b075d099e598ae6a929e4d56c9a2336b815d242-4709x3143.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "image": "https://static.toiimg.com/thumb/msid-135115624,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "category": "market"
     },
     {
-      "title": "Halwasiya increases stake PC Jeweller again, pumps in \u20b9175 crore in two equity transactions",
-      "description": "The latest acquisition follows his earlier purchase of 5.10 crore shares of PC Jeweller on October 15 at \u20b914.43 per share, involving an investment of about \u20b974 crore",
-      "url": "https://www.thehindubusinessline.com/markets/halwasiya-increases-stake-pc-jeweller-again-pumps-in-175-crore-in-two-equity-transactions/article71610332.ece",
-      "source": "BusinessLine",
+      "title": "Chinese Prosecutors Seek to Confiscate $5.1B in Bitcoin Seized by UK in Qian Case",
+      "description": "A Tianjin court will hear the application after a six-month notice period, while a parallel fight over the same coins continues in London.",
+      "url": "https://decrypt.co/381580/chinese-prosecutors-seek-to-confiscate-5-1b-in-bitcoin-seized-by-uk-in-qian-case",
+      "source": "Decrypt",
       "date": "2026-10-22",
-      "image": "https://bl-i.thgim.com/public/incoming/x63a1w/article71606945.ece/alternates/LANDSCAPE_1200/BL02_Think_market_chart1.jpg",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png",
       "category": "market"
+    },
+    {
+      "title": "Brixton Metals Announces Closing of Option Agreement to Acquire a 100% Interest in the Silver Focused Silvergruvan Project in Sweden",
+      "description": "VANCOUVER, British Columbia, Oct. 22, 2026 (GLOBE NEWSWIRE) \u2014 Brixton Metals Corporation\u00a0(TSX-V: BBB, OTCQX: BBBXF) (the \u201cCompany\u201d or \u201cBrixton\u201d) announces that, further to its news release dated September 23, 2026, the TSX Venture Exchange (the \u201cTSXV\u201d) has ap\u2026",
+      "url": "https://financialpost.com/globe-newswire/brixton-metals-announces-closing-of-option-agreement-to-acquire-a-100-interest-in-the-silver-focused-silvergruvan-project-in-sweden",
+      "source": "Financial Post",
+      "date": "2026-10-22",
+      "image": null,
+      "category": "metals"
+    },
+    {
+      "title": "Fortuna to release third quarter 2026 financial results on November 4, 2026; Conference call at 12 p.m. Eastern time on November 5, 2026",
+      "description": "VANCOUVER, British Columbia, Oct. 22, 2026 (GLOBE NEWSWIRE) \u2014 Fortuna Mining Corp. (NYSE: FSM | TSX: FVI) announces that it will release its financial statements and MD&A for the third quarter of 2026 on Wednesday, November 4, 2026, after market close. A conf\u2026",
+      "url": "https://financialpost.com/globe-newswire/fortuna-to-release-third-quarter-2026-financial-results-on-november-4-2026-conference-call-at-12-p-m-eastern-time-on-november-5-2026",
+      "source": "Financial Post",
+      "date": "2026-10-22",
+      "image": null,
+      "category": "supply_demand"
+    },
+    {
+      "title": "Silver ETFs dip nearly 3% as rate hike fears overshadow safe-haven appeal",
+      "description": "HDFC Silver ETF was down 2.7 per cent, Tata Silver ETF, SBI Silver ETF, Kotak Silver ETF, UTI Silver ETF, Axis Silver ETF, Mirae Asset Silver ETF, and DSP Silver ETF were down over 2 per cent.",
+      "url": "https://www.business-standard.com/markets/news/silver-etfs-dip-nearly-3-as-rate-hike-fears-overshadow-safe-haven-appeal-126102200681_1.html",
+      "source": "Business Standard",
+      "date": "2026-10-22",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-05/17/thumb/featurecrop/1200X628/1779037061-3549.jpg",
+      "category": "central_bank"
     },
     {
       "title": "Gold rate and silver rate today (October 22, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from Malabar Gold & Diamonds, Joyalukkas, Kalyan Jewellers, Tanishq & IBJA in Delhi, Mumbai, Hyderabad & more cities",
@@ -288,120 +315,93 @@
       "category": "central_bank"
     },
     {
-      "title": "John Hardy Builds Momentum With Billie Eilish, Finneas and a Growing Jewelry\u00a0Business",
-      "description": "As the jewelry brand introduces its first collection codesigned with the musicians, CEO Matt Tepper and creative chairman Reed Krakoff discuss gains in lab-grown diamonds, men's jewelry, gold and wholesale.",
-      "url": "http://wwd.com/accessories-news/jewelry/john-hardy-momentum-billie-eilish-growing-jewelry-business-1239377698/",
-      "source": "WWD",
+      "title": "Oil prices jump to five-month high as attacks threaten global supply",
+      "description": "Iran\u2019s IRGC says it hit four vessels in the northern Gulf and three more struck mines near the strait of Hormuz\nShipping workers: how is the Middle East conflict affecting you?\nBusiness live \u2013 latest updates\nOil prices jumped to a five-month high on Thursday \u2026",
+      "url": "https://biztoc.com/x/55c1463cb6d875f0",
+      "source": "Biztoc.com",
       "date": "2026-10-22",
-      "image": "https://wwd.com/wp-content/uploads/2026/10/BF_COLLAB_DESIGN-MEETING_BTS_7.jpeg?crop=0px%2C0px%2C7681px%2C4298px&resize=1000%2C563",
-      "category": "metals"
-    },
-    {
-      "title": "This ASX critical minerals share could more than double: Broker",
-      "description": "This company's mining plans are looking lucrative.\nThe post This ASX critical minerals share could more than double: Broker appeared first on The Motley Fool Australia.",
-      "url": "https://www.fool.com.au/2026/10/22/this-asx-critical-minerals-share-could-more-than-double-broker/",
-      "source": "Motley Fool Australia",
-      "date": "2026-10-22",
-      "image": "https://www.fool.com.au/wp-content/uploads/2026/08/mine-vehicle-16.9-1200x675.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "AI\u2019s hidden storage bill: What inference leaves behind",
-      "description": "Ask most executives to picture the cost of AI and they\u2019ll likely see GPUs\u2014racks of accelerators with gigawatts of power\u2014and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of\u2026",
-      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
-      "source": "MIT Technology Review",
-      "date": "2026-10-22",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/WD-MITTR-Infographic-Final@2x.png?resize=1200,600",
-      "category": "market"
-    },
-    {
-      "title": "Where fossil fuels are lurking in your home \u2014 room by room",
-      "description": "Tour our miniature dream house to see how oil and gas became part of everyday products.",
-      "url": "https://grist.org/culture/where-fossil-fuels-are-lurking-in-your-home-room-by-room/",
-      "source": "Grist",
-      "date": "2026-10-22",
-      "image": "https://grist.org/wp-content/uploads/2026/10/DreamHouse.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Gehlot, Dotasra condemn removal of photographs from Raihan Vadra\u2019s exhibition in Delhi",
-      "description": "Ashok Gehlot and Govind Dotasra condemn removal of 70+ photos from Raihan Vadra\u2019s Delhi exhibition at Bikaner House, alleging BJP censorship.",
-      "url": "https://timesofindia.indiatimes.com/city/jaipur/gehlot-dotasra-condemn-removal-of-photographs-from-raihan-vadras-exhibition-in-delhi/articleshow/135113151.cms",
-      "source": "The Times of India",
-      "date": "2026-10-22",
-      "image": "https://static.toiimg.com/thumb/msid-135113147,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Barclays to cut 5,000 jobs while handing work over to AI \u2014 Chief Executive says AI is 'icing on the cake'",
-      "description": "Barclays cutting 5,000 jobs as part of a plan to save \u00a31.1 billion, and the majority of the work is going to AI.",
-      "url": "https://www.techradar.com/pro/barclays-to-cut-5-000-jobs-while-handing-work-over-to-ai-chief-executive-says-ai-is-icing-on-the-cake",
-      "source": "TechRadar",
-      "date": "2026-10-22",
-      "image": "https://cdn.mos.cms.futurecdn.net/PhZHSZFCEViAUYuivfBtj7-2560-80.jpg",
-      "category": "market"
-    },
-    {
-      "title": "CNBC Daily Open: Ukraine's Starlink whodunit",
-      "description": "Washington says it has no plans to renew strikes on Iran before the Nov. 3 midterms, but escalation may not wait long after that.",
-      "url": "https://www.cnbc.com/2026/10/22/trump-meta-tesla-earnings-iran-nvidia-gtc.html",
-      "source": "CNBC",
-      "date": "2026-10-22",
-      "image": "https://image.cnbcfm.com/api/v1/image/108408368-1791979687138-gettyimages-2294353668-AA_12092026_2948093.jpeg?v=1791979737&w=1920&h=1080",
-      "category": "market"
-    },
-    {
-      "title": "ADEPT Taiwan holds inaugural in-person meeting as PLP and substrate standardization efforts gain momentum",
-      "description": "The Advanced Electronic Packaging Technology (ADEPT) committee under the Global Electronics Association continues to expand its presence in Taiwan.",
-      "url": "https://www.digitimes.com/news/a20261022PD241/taiwan-substrate-packaging-hpc-development.html",
-      "source": "Digitimes",
-      "date": "2026-10-22",
-      "image": "https://img.digitimes.com/newsshow/20261022pd241_files/1_b.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Indonesia, Germany explore joint research funding and academic ties",
-      "description": "The Ministry of Higher Education, Science, and Technology is exploring opportunities to enhance collaboration with Germany across joint research funding, ...",
-      "url": "https://en.antaranews.com/news/437229/indonesia-germany-explore-joint-research-funding-and-academic-ties",
-      "source": "Antaranews.com",
-      "date": "2026-10-22",
-      "image": "https://cdn.antaranews.com/cache/1200x800/2026/10/22/WhatsApp-Image-2026-10-21-at-18.34.50-1.jpeg",
-      "category": "market"
-    },
-    {
-      "title": "Rise and Fall 2: Pawan Singh makes a surprise return to the tower; Jashwant Bopanna and Rishabh face the Ultimate Fall",
-      "description": "The latest episode of Rise and Fall 2 featured Bhojpuri actor Pawan Singh as a captivating guest. Conversations in the Penthouse revealed Jashwant's intentions towards Niharika, who firmly stated she felt no romantic connection. Tensions soared as contestants\u2026",
-      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/rise-and-fall-2-pawan-singh-makes-a-surprise-return-to-the-tower-jashwant-bopanna-and-rishabh-face-the-ultimate-fall/articleshow/135112625.cms",
-      "source": "The Times of India",
-      "date": "2026-10-22",
-      "image": "https://static.toiimg.com/thumb/msid-135112651,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "image": "https://biztoc.com/cdn/55c1463cb6d875f0_s.webp",
       "category": "geopolitics"
     },
     {
-      "title": "Demographic changes are reshaping the Canadian economy - Bank of Canada",
-      "description": "Canada\u2019s population is aging and fewer immigrants are arriving. Our workforce is shrinking. It\u2019s changing what people produce and consume. Read why demographics matter for monetary policy.",
-      "url": "https://www.bankofcanada.ca/2026/10/demographic-changes-are-reshaping-the-canadian-economy/",
-      "source": "Bank of Canada",
+      "title": "Global Rush to Fix PHP Security Flaw Leaves Some Websites Offline",
+      "description": "Governments and businesses in Kenya, the Netherlands and elsewhere were scrambling to prevent hackers from exploiting a vulnerability in PHP, a widely used programming language.",
+      "url": "https://biztoc.com/x/d8d5bec465172c9b",
+      "source": "Biztoc.com",
       "date": "2026-10-22",
-      "image": "https://www.bankofcanada.ca/wp-content/uploads/2026/09/iStock-1471494320.jpg",
-      "category": "central_bank"
+      "image": "https://biztoc.com/cdn/d8d5bec465172c9b_s.webp",
+      "category": "market"
     },
     {
-      "title": "Canadians caught up in Trump voter fraud crackdown as U.S. accuses Canada of election interference",
-      "description": "Since late last year, federal prosecutors have charged dozens of non-citizens, many of them longtime U.S. permanent residents, with illegally voting in federal elections. At least 11 Canadians have been caught up in the crackdown ahead of the Nov. 3 midterm e\u2026",
-      "url": "https://www.cbc.ca/news/canada/canadians-caught-up-in-trump-crackdown-on-noncitizen-voting-midterms-9.7390326",
-      "source": "CBC News",
+      "title": "MKN: Google Maps not affected by Waze ban, defiant civil servants will face disciplinary action",
+      "description": "Civil servants who fail to comply with the government\u2019s ban on using Waze will face strict disciplinary action, as the National Security Council (MKN) clarifies why Google Maps remains permitted despite sharing the same parent company. Speaking at a media con\u2026",
+      "url": "https://soyacincau.com/2026/10/22/mkn-google-maps-not-affected-waze-ban-civil-servants-disciplinary-action/",
+      "source": "SoyaCincau.com",
       "date": "2026-10-22",
-      "image": "https://i.cbc.ca/ais/f5a568dc-f71a-47d3-b5a7-ee3918707fdf,1792610956695/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C16%2C5806%2C3265%29%3BResize%3D620",
-      "category": "central_bank"
+      "image": "https://soyacincau.com/wp-content/uploads/2026/08/ask-maps-01.jpg",
+      "category": "market"
     },
     {
-      "title": "Doctors Urge Flu Shots as Unusually Early Season Hits West Coast and New H1N1 Mutation Raises Fears for Young",
-      "description": "Doctors are urging Americans aged six months and older to get vaccinated as an early West Coast flu surge involves a mutated H1N1 strain and declining vaccination rates.",
-      "url": "https://www.ibtimes.com.au/us-flu-surge-mutated-h1n1-vaccination-1877189",
-      "source": "Ibtimes.com.au",
+      "title": "Market wrap: Bajaj Finance, Cipla, Nestle India, Eternal top gainers and losers on Nifty and Sensex on Thursday",
+      "description": "Indian equity markets fell for a third consecutive session as weak global cues and sustained selling weighed on sentiment. The Nifty 50 declined 0.54% to 22,688, while the Sensex dropped 0.62% to 73,249.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-bajaj-finance-cipla-nestle-india-eternal-top-gainers-and-losers-on-nifty-and-sensex-on-thursday/articleshow/135117923.cms",
+      "source": "The Times of India",
       "date": "2026-10-22",
-      "image": "https://d.ibtimes.com.au/en/full/1783256/flu-jab-2019-do-you-need-flu-jab.jpg",
+      "image": "https://img.etimg.com/thumb/msid-135117923,width-1200,height-900,imgsize-255918,overlay-etmarkets/articleshow.jpg",
+      "category": "market"
+    },
+    {
+      "title": "opentelemetry-instrumentation-pixeltable added to PyPI",
+      "description": "OpenTelemetry instrumentation for Pixeltable",
+      "url": "https://pypi.org/project/opentelemetry-instrumentation-pixeltable/",
+      "source": "Pypi.org",
+      "date": "2026-10-22",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "Comcast Q3: Record-Breaking \u2018Odyssey\u2019, Profitable Peacock Fuel NBCU Spinoff Momentum",
+      "description": "Odysseus and his intrepid crew sailed through Comcast\u2019s latest quarter as Universal surpassed $5 billion at the global box office, led by the The Odyssey, now Universal\u2019s highest-grossing film of all time. The Christopher Nolan smash based on Homer\u2019s epic has\u2026",
+      "url": "http://deadline.com/2026/10/comcast-earnings-the-odyssey-peacock-profit-nbcuniversal-1237170487/",
+      "source": "Deadline",
+      "date": "2026-10-22",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/The-Odyssey.jpg?w=1024",
+      "category": "market"
+    },
+    {
+      "title": "NFL Addresses Safety Concerns Ahead of Steelers-Saints Game in Paris",
+      "description": "The NFL\u2019s upcoming game between the Pittsburgh Steelers and the New Orleans Saints at the Stade de France was planned as a historic milestone for the league\u2019s European expansion. But the widespread civil unrest across Paris has quickly transformed the event i\u2026",
+      "url": "https://sports.yahoo.com/articles/nfl-addresses-safety-concerns-ahead-115207539.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-10-22",
+      "image": "https://s.yimg.com/lo/mysterio/api/e05cce7d232d9f59c597e148dba8cb82eec1b4e343c5c3faa866f7ac3b7dae18/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgridiron_heroics_307%2Ff9ba54c3ddfc4695dce6502795d781fa.jpg",
+      "category": "currency"
+    },
+    {
+      "title": "Money managers say there\u2019s nowhere to hide as super El Ni\u00f1o forms",
+      "description": "The prospect of the world\u2019s strongest ever El Ni\u00f1o cycle has a growing number of money managers racing to prepare their portfolios.\u00a0Read on.",
+      "url": "https://financialpost.com/investing/money-managers-nowhere-hide-super-el-nino-forms",
+      "source": "Financial Post",
+      "date": "2026-10-22",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/10/1023-bc-elnino-.jpg",
+      "category": "market"
+    },
+    {
+      "title": "At Cadillac Mountain, a missing Wabanaki marker and the fight over what national parks should tell",
+      "description": "Signs and exhibits about slavery, climate change, and Native Americans have been removed from national parks across the country as part of the Trump administration\u2019s campaign to eliminate what it calls disparaging material",
+      "url": "https://abcnews.com/Politics/wireStory/cadillac-mountain-missing-wabanaki-marker-fight-national-parks-137471277",
+      "source": "Abcnews.com",
+      "date": "2026-10-22",
+      "image": "https://i.abcnewsfe.com/a/3feb5c70-a6fc-44e2-b033-7fa5ad65bdd9/wirestory_8e7ee5917489337d6000a0fce31bca70_16x9.jpg?w=1600",
+      "category": "market"
+    },
+    {
+      "title": "More Than 87,000 Iowans Lose Medicare Plans, and No Iowa Advantage Plan Will Cover Mayo Clinic In-Network",
+      "description": "More than 87,000 Iowans are losing Medicare plans for 2027, and no Iowa Advantage plan will include Mayo Clinic in-network. Here is what to do now.",
+      "url": "https://www.medicaldaily.com/iowa-87000-medicare-plans-ending-2027-480284",
+      "source": "Medical Daily",
+      "date": "2026-10-22",
+      "image": "https://d.medicaldaily.com/en/full/487639/philippe-lopez-afp-via-getty-images.jpg",
       "category": "market"
     }
   ],
@@ -517,7 +517,7 @@
       "platinum_usd_oz": 1681.4
     }
   ],
-  "timestamp": "2026-10-23T14:13:04.608901+05:30",
+  "timestamp": "2026-10-23T17:23:39.647704+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
