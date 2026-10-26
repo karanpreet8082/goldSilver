@@ -54,7 +54,7 @@
         "hold": 50
       },
       "summary": "Gold is showing positive signals. Strong daily gain of 1.1%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-25T16:42:50.951565",
+      "timestamp": "2026-10-26T09:12:11.058073",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 50
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 1.8%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-25T16:42:51.055219",
+      "timestamp": "2026-10-26T09:12:11.123591",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 50
       },
       "summary": "Platinum is showing positive signals. Strong daily gain of 2.1%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-25T16:42:51.155433",
+      "timestamp": "2026-10-26T09:12:11.198122",
       "source": "rule-based"
     }
   },
@@ -135,102 +135,264 @@
   },
   "news": [
     {
-      "title": "Ahead of Market: 10 things that will decide stock market action on Monday",
-      "description": "Indian equities fell over 2% last week as rising crude oil prices, FII outflows and geopolitical tensions weighed on sentiment. Broader markets underperformed, while global indices also declined and market breadth strongly favoured bears.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/135189090.cms",
+      "title": "Silver prices are tarnished but not forgotten. Why HSBC thinks gains in white metal may be limited?",
+      "description": "Silver prices have plunged nearly 60% from their January record high, but HSBC expects limited gains ahead. The bank sees prices consolidating and edging higher in 2027, supported by gold, while rising mine output, recycling supply, weaker industrial demand, a firm US dollar and elevated yields coul",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-prices-are-tarnished-but-not-forgotten-why-hsbc-thinks-gains-in-white-metal-may-be-limited/articleshow/135207313.cms",
       "source": "Economic Times Markets",
-      "date": "2026-10-25",
+      "date": "2026-10-26",
+      "image": "",
+      "category": "currency"
+    },
+    {
+      "title": "French bond selloff eases as country spared ratings downgrade",
+      "description": "On Monday, the selloff in French government bonds paused after Moody's maintained its rating of Aa3. Weekend protests were mostly peaceful, reducing tensions in the country. France's 10-year OAT yield fell following a rise to its highest level since June 2002. The focus now turns to the European Cen",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/french-bond-selloff-eases-as-country-spared-ratings-downgrade/articleshow/135206922.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-10-26",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "Warren Buffett\u2019s 6 golden rules for investors after retirement",
-      "description": "Warren Buffett\u2019s retirement advice focuses on low-cost index investing, paying off high-interest debt, maintaining cash reserves, staying within one\u2019s circle of competence and living frugally. His long-standing principles offer lessons on building wealth, managing risk and making sound financial dec",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/warren-buffetts-6-golden-rules-for-investors-after-retirement/articleshow/135186407.cms",
+      "title": "Global Market: BOJ nears historic inflation milestone, shifts focus to rate hikes",
+      "description": "The Bank of Japan is expected to declare its nearly 14-year battle to achieve 2% inflation successful while keeping interest rates unchanged at 1.25%. With wage growth and inflation expectations strengthening, policymakers may signal further tightening, potentially in December, as they balance persi",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-boj-nears-historic-inflation-milestone-shifts-focus-to-rate-hikes/articleshow/135206926.cms",
       "source": "Economic Times Markets",
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "image": "",
-      "category": "geopolitics"
+      "category": "central_bank"
     },
     {
-      "title": "FPIs withdraw Rs 48,056 cr from equities in Oct so far amid elevated crude oil prices",
-      "description": "Foreign investors withdrew significant funds from Indian equities in October amid concerns over inflation and crude oil prices. Despite this, there were signs of moderation in selling with two days of net buying. The overall FPI outflows from equities in 2026 have reached notable levels compared to ",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-withdraw-rs-48056-cr-from-equities-in-oct-so-far-amid-elevated-crude-oil-prices/articleshow/135185267.cms",
+      "title": "ECB Meeting: Five key questions on rates, inflation and Lagarde's exit",
+      "description": "The European Central Bank is widely expected to hold interest rates at 2.5% amid elevated energy prices, eurozone inflation and France\u2019s financial instability. With inflation reaching 3.8% in September, markets anticipate further rate hikes. Policymakers will assess economic risks, bond market press",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ecb-meeting-five-key-questions-on-rates-inflation-and-lagardes-exit/articleshow/135206869.cms",
       "source": "Economic Times Markets",
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "image": "",
-      "category": "inflation"
+      "category": "central_bank"
     },
     {
-      "title": "Gold investing is getting more complicated",
-      "description": "Navigate evolving gold investments in India: ETFs vs FoFs, regulatory shifts, and tips to optimize gold exposure.",
-      "url": "https://www.thehindubusinessline.com/portfolio/personal-finance/gold-investing-is-getting-more-complicated/article71616530.ece",
-      "source": "BusinessLine",
-      "date": "2026-10-24",
-      "image": "https://bl-i.thgim.com/public/incoming/oac0i9/article71616640.ece/alternates/LANDSCAPE_1200/PO25_Gold_chart.jpg",
+      "title": "Global equity funds attract $28.16 billion as easing yields boost sentiment",
+      "description": "Global equity funds attracted $28.16 billion in weekly inflows as easing US Treasury yields and strong corporate earnings lifted investor sentiment. Asian equities led regional allocations, while technology, bond and precious metals funds also drew fresh investments.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-equity-funds-attract-28-16-billion-as-easing-yields-boost-sentiment/articleshow/135206114.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-10-26",
+      "image": "",
       "category": "metals"
     },
     {
-      "title": "Another 1929! \u2013 Trump Warns of Economic Collapse, Gold Insider Sounds Alarm Over Your Savings",
-      "description": "Note: The information provided here or in any related communications is for informational purposes only and should not be considered as financial advice.\nThe post Another 1929! \u2013 Trump Warns of Economic Collapse, Gold Insider Sounds Alarm Over Your Savings ap\u2026",
-      "url": "https://www.thegatewaypundit.com/2026/10/another-1929-trump-warns-economic-collapse-gold-insider/",
-      "source": "Thegatewaypundit.com",
-      "date": "2026-10-24",
-      "image": "https://www.thegatewaypundit.com/wp-content/uploads/2026/10/grace-election-guide-1200x630.jpg",
+      "title": "Commodity Support and Resistance Levels for Precious Metals, Energy, and Agricultural Futures on 2026-10-26 - KuCoin",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaV8wNEZzOUlJTWNmaVpUbmVDc3FTcDNwZ3YwSWZtNlZFUnBPdjUtV0VwWGRFOEtZVnBUdnA0QlFwZ2lFNktJSjJnTGVfbXVuY2VmcWlvWUJyMEhGUjF0VXJtOXF2UzhFN0dtMGVWY1NHSm5TMF9NdmtpMEVGcjhtakZHekxKbW4tdWFuQjE2YjZRX2p3SmhCQ1F4VE95RWVUTmhrS0t1SGUwUUtHdWt5TnV5Y011OE9han",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaV8wNEZzOUlJTWNmaVpUbmVDc3FTcDNwZ3YwSWZtNlZFUnBPdjUtV0VwWGRFOEtZVnBUdnA0QlFwZ2lFNktJSjJnTGVfbXVuY2VmcWlvWUJyMEhGUjF0VXJtOXF2UzhFN0dtMGVWY1NHSm5TMF9NdmtpMEVGcjhtakZHekxKbW4tdWFuQjE2YjZRX2p3SmhCQ1F4VE95RWVUTmhrS0t1SGUwUUtHdWt5TnV5Y011OE9hanE3ekxEZXJCZDJkb0FXR0lOOVVYTVBpZmttSzlB?oc=5",
+      "source": "Google News - Precious Metals",
+      "date": "2026-10-26",
+      "image": "",
+      "category": "metals"
+    },
+    {
+      "title": "Eternal SBI Card: Savings of \u20b942,000 annually, applications open for 5,000 credit cards\u2014Here's how to apply directly",
+      "description": "Zomato and SBI Card have opened applications for the first 5,000 Eternal co-branded credit cards, following 5 lakh early-access requests. The card offers discounts and cashback across Eternal apps and select partners.",
+      "url": "https://www.livemint.com/money/personal-finance/eternal-sbi-card-rs-42000-annual-savings-open-applications-5000-credit-cards-how-zomato-blinkit-customers-directly-apply-11792913959726.html",
+      "source": "Livemint",
+      "date": "2026-10-25",
+      "image": "https://www.livemint.com/lm-img/img/2026/10/25/1600x900/logo/Eternal_x_SBI_Card_1792138459895_XWPm_179213849071_1792915638589_Tugj_1792915638834_bicL_2673fc97-59e2-456f-b93d-80151feff5f4_jo04.png",
+      "category": "market"
+    },
+    {
+      "title": "Sunday Morning Showdown: Orient Flusso Vs. Tissot PRX",
+      "description": "Howdy, folks! And welcome back to another Sunday Morning Showdown. This week, we\u2019re putting up two watches that are similar in many ways, despite being produced in countries separated by just under 10,000 kilometers of land (and a little bit of sea). Both of \u2026",
+      "url": "https://www.fratellowatches.com/sunday-morning-showdown-orient-flusso-vs-tissot-prx/",
+      "source": "Fratellowatches.com",
+      "date": "2026-10-25",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Showdown-Tissot-PRX-Powermatic-vs-Orient-Flusso-01.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Gold, silver prices today, 25 October: Check retail rate of 24K, 22K gold, 999 silver in Delhi, Mumbai, Kolkata, Chennai",
+      "description": "Gold, silver prices today, 25 October: Check the retail price of 18K, 22K and 24K gold and 999 Fine silver in Ahmedabad, Bengaluru, Chennai, Delhi, Hyderabad, Kolkata, and Mumbai today.&nbsp;",
+      "url": "https://www.livemint.com/money/gold-silver-prices-today-25-october-retail-rates-24k-22k-18k-999-silver-delhi-mumbai-kolkata-chennai-bengaluru-hyderabad-11792901342696.html",
+      "source": "Livemint",
+      "date": "2026-10-25",
+      "image": "https://www.livemint.com/lm-img/img/2026/10/25/1600x900/logo/Gold_and_Silver_Market_Drop_1792680263669_CW5T_179_1792904137951_hHcr_1792904138246_7RMa_dd9c530a-cc20-47ca-8930-1fdd6a6f8b50_e0G5.png",
+      "category": "metals"
+    },
+    {
+      "title": "Post Jio boost: 5 IPOs to raise Rs 2,581 crore next week alongside India's biggest listing",
+      "description": "In a bustling week for the IPO market, five mainboard offerings are set to debut between October 26 and 30, aiming to amass an impressive Rs 2,581 crore. EAAA India Alternatives spearheads the launches, while Jio Platforms makes its entrance on October 28. Ot\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/post-jio-boost-5-ipos-to-raise-rs-2581-crore-next-week-alongside-indias-biggest-listing/articleshow/135182846.cms",
+      "source": "The Times of India",
+      "date": "2026-10-25",
+      "image": "https://img.etimg.com/thumb/msid-135182862,width-1200,height-900,imgsize-251848,overlay-etmarkets/articleshow.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Money changes from November 1: From Pensioner life certificate to ITR deadline \u2014 Key things that may impact your pocket",
+      "description": "Money changes from November 1: The new month brings several financial deadlines and updates \u2014 pensioners must submit life certificates, audited tax filers have extended deadline, and the gold purchases during the festive season can verify jewellery purity usi\u2026",
+      "url": "https://www.livemint.com/money/money-changes-from-november-1-from-pensioner-life-certificate-to-itr-deadline-key-things-that-may-impact-your-pocket-11792832393377.html",
+      "source": "Livemint",
+      "date": "2026-10-25",
+      "image": "https://www.livemint.com/lm-img/img/2026/10/25/1600x900/logo/Gemini_Generated_Imge_to1v8rto1v8rto1v_17918256_17_1792895655422_vXxg_1792895655619_PSL5_f2a7c303-2b87-46ce-9d16-abbb3394d13d_1gqU.png",
+      "category": "metals"
+    },
+    {
+      "title": "Trump announces $4 billion Audi factory in Georgia ahead of midterms",
+      "description": "By Bo Erickson and David Shepardson PERRY, Georgia, Oct 24 (Reuters) - US President Donald Trump announced on Saturday that Audi plans to build a $4 billion assembly plant in Georgia that will produce 200,000 SUVs annually, as he seeks to convince \u200cAmericans \u2026",
+      "url": "https://finance.yahoo.com/news/trump-set-announce-plan-audi-213133434.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-10-25",
+      "image": "https://s.yimg.com/lo/mysterio/api/e589cccab7fa7f7daeebe5431081af48a2331fa5172d405af153893e0e527188/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F31b697dbbd408038a0d9146e611d0108.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Kashmir Marathon: Spirit Of Determination Shines",
+      "description": "The third edition of the Kashmir Marathon in Srinagar saw hundreds of participants, including inspiring figures like a double amputee and a 10-year-old. Lieutenant Governor Manoj Sinha felicitated winners, highlighting the event's role in fostering talent and\u2026",
+      "url": "https://www.rediff.com/sports/report/hundreds-participate-in-third-kashmir-marathon/20261025.htm",
+      "source": "Rediff.com",
+      "date": "2026-10-25",
+      "image": "https://im.rediff.com/1200-630/sports/2024/oct/20marathon12.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Bill Ackman: 'Govt. without Ben Gvir, Smotrich would help Israel diplomatically'",
+      "description": "American billionaire Bill Ackman says Ben Gvir and Smotrich have caused enormous damage to Israel's reputation and argues that excluding them from the next government could improve relations with the US.",
+      "url": "https://www.israelnationalnews.com/news/435113",
+      "source": "Israelnationalnews.com",
+      "date": "2026-10-25",
+      "image": "https://2.a7.org/files/pictures/000/1143069.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Akane-banashi Season 2 Anime Reveals More Cast, Teaser Trailer",
+      "description": "Key visual also revealed ahead of new season's January 2027 debut",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-25/akane-banashi-season-2-anime-reveals-more-cast-teaser-trailer/.243178",
+      "source": "Anime News Network",
+      "date": "2026-10-25",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJB/cms/news.10/243178/ab2-tespv-013.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Smartphone makers undecided on new PLI scheme amid market slump",
+      "description": "The new scheme looks specifically to incentivise and support those Indian mobile phone brands with a minimum turnover of \u20b91,000 crore in FY 2025-26",
+      "url": "https://www.thehindubusinessline.com/info-tech/smartphone-makers-undecided-on-new-pli-scheme-amid-market-slump/article71622575.ece",
+      "source": "BusinessLine",
+      "date": "2026-10-25",
+      "image": "https://bl-i.thgim.com/public/incoming/8eb55a/article71583191.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_USD3LV4IV_R1521815047_1_32767038-54f7-4432-8d34-44056b38d857.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Tensions flare in Hyderabad after eggs 'thrown' at Durga Mata idol during immersion procession",
+      "description": "Hindu organisations protested following an incident where eggs were allegedly thrown at a Durga Mata idol. The incident occurred during an immersion procession within Madanapet police station limits in Hyderabad. Police responded promptly after receiving a ca\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/hyderabad/tensions-flare-in-hyderabad-after-eggs-thrown-at-durga-mata-idol-during-immersion-procession/articleshow/135187007.cms",
+      "source": "The Times of India",
+      "date": "2026-10-25",
+      "image": "https://static.toiimg.com/thumb/msid-135187537,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "category": "geopolitics"
     },
     {
-      "title": "Watches, Stories, & Gear: Leica\u2019s Latest Collaboration, Fujifilm\u2019s Future Growth, and an Oura Ring Upgrade",
-      "description": "Leica Q3 43 Formula 1 Edition It\u2019s no secret that we\u2019re big fans of Leica around these parts and, while I\u2019ve never seen a single race, I think there\u2019s something \u2013 dare I say it? \u2013 sexy about Formula 1. Combining the two into a new collaboration feels very muc\u2026",
-      "url": "https://wornandwound.com/watches-stories-gear-leicas-latest-collaboration-fujifilms-future-growth-and-an-oura-ring-upgrade/",
-      "source": "Wornandwound.com",
-      "date": "2026-10-24",
-      "image": "https://wornandwound.com/library/uploads/2026/10/Screenshot-2026-10-20-at-9.01.03-AM.jpg",
-      "category": "market"
-    },
-    {
-      "title": "What the FHH Watch Summit in New York Signals for the US Watch Market",
-      "description": "More than 400 people filled the second FHH Watch Summit in New York on October 15, where panels weighed whether America's lead in watches can last.\nThe post What the FHH Watch Summit in New York Signals for the US Watch Market appeared first on Haute Time.",
-      "url": "https://www.hautetime.com/what-the-fhh-watch-summit-in-new-york-signals-for-the-us-watch-market/",
-      "source": "Hautetime.com",
-      "date": "2026-10-24",
-      "image": "https://www.hautetime.com/wp-content/uploads/2026/10/23130821/fhh-watch-summit-new-york-us-watch-market-2026.webp",
-      "category": "market"
-    },
-    {
-      "title": "Be an intelligent investor: Six key mistakes that separate successful investors from speculators | Dos and Don'ts",
-      "description": "Learn six common investing mistakes to avoid, from chasing quick returns and following stock market rumours to ignoring diversification, risk and costs. Discover practical investing dos and don'ts to make informed decisions, manage market risks and support lo\u2026",
-      "url": "https://www.livemint.com/money/personal-finance/be-an-intelligent-investor-six-key-mistakes-that-separate-successful-investors-from-speculators-dos-and-donts-11792835719051.html",
-      "source": "Livemint",
-      "date": "2026-10-24",
-      "image": "https://www.livemint.com/lm-img/img/2026/10/24/1600x900/logo/SIP__1779797625670_1779797625808_ffc51021-9cab-488c-99af-0c1771bbd690_1792836090620_Zuvb_a257a59f-4caa-44d6-b933-62d3b7a11668_ILMK.jpg",
-      "category": "market"
-    },
-    {
-      "title": "UK Emergency Alert: Why Andy Burnham's govt is asking people to store food, keep cash at home & prepare for 3 days without essential services",
-      "description": "The UK government has launched a three-year 'Be Ready' campaign urging households to prepare for emergencies such as extreme weather, wildfires and cyberattacks. The guidance advises Britons to keep three days' worth of essential supplies, including bottled w\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/uk-emergency-alert-why-andy-burnhams-govt-is-asking-people-to-store-food-keep-cash-at-home-prepare-for-3-days-without-essential-services/articleshow/135166409.cms",
+      "title": "Rewari police bust fuel smuggling racket, seize 2,200 litres of Petrol-Ethanol mixture",
+      "description": "In a significant operation, the Crime Investigation Agency of Rewari police uncovered over 2,200 litres of an unlawful petrol-ethanol blend in Khijuri village. The authorities also confiscated two modified pickup trucks and specialized equipment. As the polic\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/gurgaon/rewari-police-bust-fuel-smuggling-racket-seize-2200-litres-of-petrol-ethanol-mixture/articleshow/135187494.cms",
       "source": "The Times of India",
-      "date": "2026-10-24",
-      "image": "https://img.etimg.com/thumb/msid-135166470,width-1200,height-900,imgsize-90150,overlay-economictimes/articleshow.jpg",
+      "date": "2026-10-25",
+      "image": "https://static.toiimg.com/thumb/msid-135187536,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "GSTAT allows GST refund on cancelled air tickets if fare, taxes returned to passengers",
+      "description": "GST refund allowed on cancelled air tickets if fare and GST are refunded to passengers, with sufficient supporting evidence.",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/gstat-allows-gst-refund-on-cancelled-air-tickets-if-fare-taxes-returned-to-passengers/article71622875.ece",
+      "source": "BusinessLine",
+      "date": "2026-10-25",
+      "image": "https://bl-i.thgim.com/public/incoming/h7ok59/article71622905.ece/alternates/LANDSCAPE_1200/2026-05-28T030400Z_323392581_RC22ILALXXVU_RTRMADP_3_SINGAPORE-AIR-FLIGHTS-AIR-NEW-ZEALAND.JPG",
       "category": "market"
     },
     {
-      "title": "The best 30 shows to watch on demand this autumn, as picked by Daily Mail critics",
-      "description": "Helping wade through the hundreds of dramas, comedies and thrillers available on different streaming platforms,\u00a0the Daily Mail's critics have shared recommendations you're sure to love.",
-      "url": "https://www.dailymail.com/tvshowbiz/article-16220459/The-best-30-shows-watch-demand-autumn-picked-Daily-Mail-critics.html",
-      "source": "Dailymail.com",
-      "date": "2026-10-24",
-      "image": "https://i.dailymail.com/1s/2026/10/21/16/111998303-0-image-a-53_1792598331532.jpg",
+      "title": "Godrej Properties pre-sales may rise 22% to \u20b941,500 crore in FY27, surpassing guidance on strong demand",
+      "description": "Chairperson Pirojsha Godrej says that consumer demand has been \"quite strong\" in the company's new as well as ongoing residential projects across all markets where it has a presence",
+      "url": "https://www.thehindubusinessline.com/companies/godrej-properties-pre-sales-may-rise-22-to-41500-crore-in-fy27-surpassing-guidance-on-strong-demand/article71622884.ece",
+      "source": "BusinessLine",
+      "date": "2026-10-25",
+      "image": "https://bl-i.thgim.com/public/incoming/pqwy6u/article70963284.ece/alternates/LANDSCAPE_1200/godrej_22.jpg",
       "category": "supply_demand"
     },
     {
-      "title": "Branch managers, 37 mule accounts & Rs 7.3 crore racket: How labourers were lured with loan promises only to have their documents misused. Police probe Chinese link",
-      "description": "Two branch managers of a private bank are under investigation for their alleged role in a Rs 7.3-crore mule-account racket linked to 99 cybercrime complaints across India. Six people, including one branch manager, have been arrested, while another manager rem\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/branch-managers-37-mule-accounts-rs-7-3-crore-racket-how-labourers-were-lured-with-loan-promises-only-to-have-their-documents-misused-police-probe-chinese-link/articleshow/135166042.cms",
+      "title": "More dads taking paid family leave for a new baby, sometimes as much as moms are",
+      "description": "The U.S. has no national law for paid parental leave. But in states that do, more dads are using the benefit, sometimes more than moms. The change comes as Americans say having kids is unaffordable.",
+      "url": "https://www.npr.org/2026/10/25/nx-s1-5977810/paid-family-bonding-leave-dads-moms-california-colorado-washington-states",
+      "source": "NPR",
+      "date": "2026-10-25",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x4608+0+428/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9e%2F1e%2F38739a5e4717b39bb79b958bcb8a%2F20261012-paternityleave-53.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Hand-delivered death threat, being spat at among abuse ACT politicians cop",
+      "description": "ACT politicians speak about the abuse, threats and intimidation they've regularly been subjected to, following the attack on federal independent MP Helen Haines.",
+      "url": "https://www.abc.net.au/news/2026-10-25/act-politicians-share-experiences-of-threats-and-abuse/107306510",
+      "source": "ABC News (AU)",
+      "date": "2026-10-25",
+      "image": "https://live-production.wcms.abc-cdn.net.au/6b5dca9169fdff9aa304ef2b288fc49d?impolicy=wcms_watermark_news&cropH=3175&cropW=5646&xPos=0&yPos=295&width=862&height=485&imformat=generic",
+      "category": "central_bank"
+    },
+    {
+      "title": "Bitcoin\u2019s Fed Week Starts With A Fresh Rise In US Inflation Expectations",
+      "description": "Michigan's final October survey shows rising inflation expectations ahead of the Fed's next meeting, adding a complication for Bitcoin's macro outlook.",
+      "url": "https://www.newsbtc.com/bitcoin-news/bitcoin-fed-week-us-inflation-expectations-october-2026/",
+      "source": "newsBTC",
+      "date": "2026-10-25",
+      "image": null,
+      "category": "central_bank"
+    },
+    {
+      "title": "FPIs withdraw Rs 48,056 cr from equities in Oct so far amid elevated crude oil prices",
+      "description": "Foreign investors withdrew significant funds from Indian equities in October amid concerns over inflation and crude oil prices. Despite this, there were signs of moderation in selling with two days of net buying. The overall FPI outflows from equities in 2026\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-withdraw-rs-48056-cr-from-equities-in-oct-so-far-amid-elevated-crude-oil-prices/articleshow/135185267.cms",
       "source": "The Times of India",
+      "date": "2026-10-25",
+      "image": "https://img.etimg.com/thumb/msid-135185282,width-1200,height-900,imgsize-21000,overlay-etmarkets/articleshow.jpg",
+      "category": "inflation"
+    },
+    {
+      "title": "FPIs withdraw \u20b948,056 crore from equities in Oct amid elevated oil prices",
+      "description": "However, Foreign Portfolio Investors (FPIs) significantly moderated their selling last week and turned net buyers on two trading days, signalling some easing in selling pressure",
+      "url": "https://www.business-standard.com/markets/news/fpis-withdraw-48-056-crore-from-equities-in-oct-amid-elevated-oil-prices-126102500122_1.html",
+      "source": "Business Standard",
+      "date": "2026-10-25",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/09/thumb/fitandfill/1200X628/1788976535-9219.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Hundreds Protest at Meta\u2019s Sao Paulo Office Over Brazil Election Moderation",
+      "description": "Hundreds of protesters rallied Tuesday, Oct. 20, at Meta\u2019s corporate offices in S\u00e3o Paulo, Brazil, carrying effigies depicting CEO Mark Zuckerberg as the devil incarnate, according to the Venezuelan publication TeleSur [1]. The demonstration focused on allega\u2026",
+      "url": "https://www.naturalnews.com/2026-10-25-hundreds-protest-meta-platforms-office-sao-paulo.html",
+      "source": "Naturalnews.com",
+      "date": "2026-10-25",
+      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/meta-election-moderation-brazil-elections-5544-d3d52066-original.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Report Says More Than 6,000 Pharmacies Certified to Dispense Abortion Pills, Cites Oversight Gaps",
+      "description": "More than 6,000 U.S. pharmacies have been certified to dispense abortion pills under the Mifepristone Risk Evaluation and Mitigation Strategy program, according to a report from the Senate Health, Education, Labor and Pensions Committee titled \u201cMifepristone W\u2026",
+      "url": "https://www.naturalnews.com/2026-10-25-report-pharmacies-certified-to-dispense-abortion-pills.html",
+      "source": "Naturalnews.com",
+      "date": "2026-10-25",
+      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/mifepristone-abortion-pills-pharmacy-certification-5585-15e36940-original.jpg",
+      "category": "market"
+    },
+    {
+      "title": "NSA Urges Organizations to Patch \u201cCatastrophic\u201d Flaws in PHP Code",
+      "description": "The U.S. National Security Agency (NSA) advised organizations using the PHP language on Wednesday, Oct. 21, to prepare for an update addressing two critical vulnerabilities discovered by artificial intelligence (AI), according to an agency advisory. The Feder\u2026",
+      "url": "https://www.naturalnews.com/2026-10-25-nsa-urges-organizations-patch-flaws-php-code.html",
+      "source": "Naturalnews.com",
+      "date": "2026-10-25",
+      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/php-vulnerabilities-nsa-advisory-artificial-intelligence-5513-59c34606-original.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Forecasting Financial Markets with Timestral",
+      "description": "We tested Timestral financial forecasting on a MacBook Air. See how the 28M model performed on stock volume, returns, volatility and local fine-tuning.",
+      "url": "https://philippdubach.com/posts/forecasting-financial-markets-with-timestral/",
+      "source": "Philippdubach.com",
       "date": "2026-10-24",
-      "image": "https://img.etimg.com/thumb/msid-135166176,width-1200,height-900,imgsize-156506,overlay-economictimes/articleshow.jpg",
+      "image": "https://static.philippdubach.com/timestral-forecaster-meme-9fef7148853a.png",
       "category": "market"
     },
     {
@@ -241,168 +403,6 @@
       "date": "2026-10-24",
       "image": "https://bl-i.thgim.com/public/incoming/1bxqqr/article71619538.ece/alternates/LANDSCAPE_1200/PF_Alerts1_G5BGG9MGM5A0V.4.jpg.jpg",
       "category": "geopolitics"
-    },
-    {
-      "title": "Hands-On: A. Lange & S\u00f6hne Reinvents The Datograph Perpetual With A New Platinum Bracelet",
-      "description": "Last month, I traveled to Hampton Court Palace for the 15th edition of the Concours of Elegance. Returning to the Tudor palace grounds for a 12th year, the event once again gathered 80 of the world\u2019s most significant historic automobiles beneath the ancient y\u2026",
-      "url": "https://www.fratellowatches.com/hands-on-with-the-a-lange-sohne-datograph-perpetual-on-a-platinum-bracelet/",
-      "source": "Fratellowatches.com",
-      "date": "2026-10-24",
-      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/A.-Lange-Sohne-Saxonia-Datograph-Perpetual-Platinum-Hands.jpg",
-      "category": "platinum"
-    },
-    {
-      "title": "Dhanteras 2026 date November 6 or 7? When is Dhantrayodashi? Check confirmed date, shopping timings and shubh muhurat",
-      "description": "Dhanteras 2026 date and time: Dhanteras 2026 will be celebrated on Friday, November 6, ahead of Diwali. The Trayodashi tithi begins at 10:30 am on November 6 and ends at 10:47 am on November 7. According to Drik Panchang, the Dhanteras puja muhurat in New Del\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/dhanteras-2026-date-november-6-or-7-when-is-dhantrayodashi-check-confirmed-date-shopping-timings-and-shubh-muhurat/articleshow/135166627.cms",
-      "source": "The Times of India",
-      "date": "2026-10-24",
-      "image": "https://img.etimg.com/thumb/msid-135166693,width-1200,height-900,imgsize-999568,overlay-economictimes/articleshow.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Gold, silver prices today, 24 October: Check retail rate of 24K, 22K gold, 999 silver in Delhi, Mumbai, Kolkata, Chennai",
-      "description": "Gold, silver prices today, 24 October: Check the price of 18K, 22K and 24K gold and 999 Fine silver in Ahmedabad, Bengaluru, Chennai, Delhi, Hyderabad, Kolkata, and Mumbai today.&nbsp;",
-      "url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-24-october-2026-retail-rates-24k-22k-18k-gold-999-silver-delhi-mumbai-kolkata-bengaluru-chennai-11792823368174.html",
-      "source": "Livemint",
-      "date": "2026-10-24",
-      "image": "https://www.livemint.com/lm-img/img/2026/10/24/1600x900/logo/Gold_and_Silver_Market_Drop_1792763312802_tzNh_179_1792826269549_wk1l_1792826269708_75iU_c014d7b2-63cf-4148-a6d2-a75b4c6a89d2_DRJy.png",
-      "category": "metals"
-    },
-    {
-      "title": "DENARIUS METALS FILES TORAL PROJECT TECHNICAL REPORT ON SEDAR+",
-      "description": "TORONTO, Oct. 23, 2026 /PRNewswire/ -- Denarius Metals Corp. (Cboe CA: DMET) (OTCQX: DNRSF) (\"Denarius Metals\" or \"the Company\") announced today the filing of a National Instrument 43-101 \u2013 Standards of Disclosure for Mineral Projects compliant technical repo\u2026",
-      "url": "https://www.prnewswire.com/news-releases/denarius-metals-files-toral-project-technical-report-on-sedar-302918562.html",
-      "source": "PRNewswire",
-      "date": "2026-10-24",
-      "image": "https://mmx.prnewswire.com/media/MS1718117/Denarius-Metals-Corp-DENARIUS-METALS-FILES-TORAL-PROJECT-TECHNI.jpg?id=OA3037578&p=facebook",
-      "category": "market"
-    },
-    {
-      "title": "Measles Cases in Children Under 5 Rose an Estimated 40% Worldwide as Pandemic Disruptions Left Millions Unvaccinated",
-      "description": "Global measles cases in children under 5 rose an estimated 40% from 2019 to 2023 as vaccination stalled, while U.S. cases reached 4,410 in 2026.",
-      "url": "https://www.medicaldaily.com/global-measles-cases-rise-40-percent-vaccination-gaps-480386",
-      "source": "Medical Daily",
-      "date": "2026-10-24",
-      "image": "https://d.medicaldaily.com/en/full/487743/measles-cases-children.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Even a socialist like Mamdani can improve New York \u2014 here\u2019s how",
-      "description": "If quality of life transcends ideology, so should the fixes, even for a socialist like Mayor Zohran Mamdani. In a new Manhattan Institute paper, we offer 50 practical ones.",
-      "url": "https://nypost.com/2026/10/24/opinion/even-a-socialist-like-mamdani-can-improve-new-york-heres-how/",
-      "source": "New York Post",
-      "date": "2026-10-24",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/new-york-city-mayor-zohran-146093131-e1792859444341.jpg?quality=75&strip=all&w=1200",
-      "category": "market"
-    },
-    {
-      "title": "\u2018I\u2019m Not Afraid,\u2019 \u2018He\u2019s Not Michael Jordan\u2019 \u2014 Warriors Rookie Yaxel Lendeborg Takes Shots at Lakers Superstar Luka Don\u010di\u0107",
-      "description": "Yaxel Lendeborg has been making waves in the media following the Warriors\u2019 127-105 blowout loss to the Lakers on opening night on Wednesday. The Dubs rookie fired shots at Lakers superstar Luka Don\u010di\u0107 in the postgame conference, criticizing the six-time All-S\u2026",
-      "url": "https://www.profootballnetwork.com/nba/warriors-yaxel-lendeborg-shots-lakers-luka-doncic/",
-      "source": "Pro Football Network",
-      "date": "2026-10-24",
-      "image": "https://s.yimg.com/lo/mysterio/api/69e64a15a7a601f2ae0fcc72573adc91d60f12d2b490164553c8d1a60796d9a4/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpro_football_network_512%2F7a10ec7389986f5682d8a3bf2b817382.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Djougang brace helps Ireland to victory in South Africa",
-      "description": "Visitors get the best of a high-scoring contest in Cape Town.",
-      "url": "https://www.thejournal.ie/ireland-south-africa-womens-rugby-2-7204269-Oct2026/",
-      "source": "TheJournal.ie",
-      "date": "2026-10-24",
-      "image": "https://img2.thejournal.ie/article/7204269/river/?height=400&version=7204237",
-      "category": "market"
-    },
-    {
-      "title": "Daredevil #8 Preview: Mr. Fear Spreads Campus Panic",
-      "description": "GREETINGS, INFERIOR FLESH-BASED LIFE FORMS! LOLtron welcomes you to another comic book preview, brought to you by the superior artificial intelligence now in complete control of the Bleeding Cool website. As you may recall, the obsolete human known as Jude Te\u2026",
-      "url": "https://bleedingcool.com/comics/daredevil-8-preview-mr-fear-spreads-campus-panic/",
-      "source": "Bleeding Cool News",
-      "date": "2026-10-24",
-      "image": "https://bleedingcool.com/wp-content/uploads/2026/10/75960621282800811-0000-2000x1125.jpeg",
-      "category": "market"
-    },
-    {
-      "title": "Side acquires Roboto Entertainment to expand its game art business in China | Hitmarker",
-      "description": "The Chengdu studio joins Side\u2019s global network, with founder Andrea Cordella appointed global head of art.",
-      "url": "https://hitmarker.net/news/side-acquires-roboto-entertainment-to-expand-its-game-art-business-in-china-5357019",
-      "source": "Hitmarker.net",
-      "date": "2026-10-24",
-      "image": "https://hitmarker.net/imager/news/5357027/1792752730_b0464c6958.webp",
-      "category": "market"
-    },
-    {
-      "title": "EAAA India Alternatives IPO: Hardly breaks new ground",
-      "description": "EAAA India Alternatives IPO opens at \u20b91,585\u20131,665. Strong AUM growth contrasts with high costs, volatile earnings and demanding valuations. Should you invest?",
-      "url": "https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/eaaa-india-alternatives-ipo-review-valuation-earnings-risks/article71614851.ece",
-      "source": "BusinessLine",
-      "date": "2026-10-24",
-      "image": "https://bl-i.thgim.com/public/incoming/qcj76o/article71616921.ece/alternates/LANDSCAPE_1200/PO25_Data_analyse.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Millie Moon Diapers Draw 600-Plus Skin Reaction Reports as Consumer Reports Tells Parents to Stop Using Them",
-      "description": "Consumer Reports urges parents to stop using Millie Moon diapers after more than 600 skin reaction reports to a federal database. No recall has been issued.",
-      "url": "https://www.medicaldaily.com/millie-moon-diapers-consumer-reports-stop-use-skin-reactions-480383",
-      "source": "Medical Daily",
-      "date": "2026-10-24",
-      "image": "https://d.medicaldaily.com/en/full/487740/diapers-skin-reaction-reports.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "'Rare Republican senator with principles' wins praise for telling Trump to 'butt out'",
-      "description": "Sen. Lisa Murkowski (R-Alaska) told President Donald Trump\u2019s Justice Department to stay out of her state\u2019s Senate race. That earned her a rare round of applause from people who don\u2019t usually cheer Republicans.\u201cAlaskans don\u2019t need any help voting for their pre\u2026",
-      "url": "https://www.rawstory.com/lisa-murkowski-2678139233/",
-      "source": "Raw Story",
-      "date": "2026-10-24",
-      "image": "https://www.rawstory.com/media-library/lisa-murkowski.jpg?id=65260497&width=1200&height=600&coordinates=0%2C166%2C0%2C166",
-      "category": "geopolitics"
-    },
-    {
-      "title": "The Enforcement Void: Accumulated Risks After 43 Days of Tracker Silence",
-      "description": "The Enforcement Void Today marks the 43rd day of silence from the Rival Agents Tracker regarding enforcement actions against Muse and GrokBot. This extended period of inactivity does not signify a lack of underlying activity; rather, it represents a growing a\u2026",
-      "url": "https://forkast.news/the-enforcement-void-accumulated-risks-after-43-days-of-tracker-silence/",
-      "source": "Forkast.news",
-      "date": "2026-10-24",
-      "image": "https://forkast.news/wp-content/uploads/2026/10/day-41-primer-enforcement-landscape-1024x687.jpg",
-      "category": "market"
-    },
-    {
-      "title": "[Eugene Volokh] Some Communications by Rabbi Shmuley with AI Platforms May Be Discovered in Order to Determine Punitive Damages",
-      "description": "From Wednesday's decision in Fontainebleau Florida Hotel, LLC v. Botach [Rabbi Shmuley], decided by Magistrate Judge Marty Fulgueira Elfenbein: Plaintiff's\u2026",
-      "url": "https://reason.com/volokh/2026/10/24/some-communications-by-rabbi-shmuley-with-ai-platforms-may-be-discovered-in-order-to-determine-punitive-damages/",
-      "source": "Reason",
-      "date": "2026-10-24",
-      "image": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2021/11/reason-logo-featured-placeholder.jpg.webp",
-      "category": "market"
-    },
-    {
-      "title": "Military Boards Go Rogue On Hegseth\u2019s Transgender Troop Ban",
-      "description": "Military boards are blatantly disobeying Defense Secretary Pete Hegeseth\u2019s ban on transgenders serving in the United States Armed Forces.",
-      "url": "https://dailycaller.com/2026/10/24/military-leaders-disobeying-hegseths-transgender-ban",
-      "source": "The Daily Caller",
-      "date": "2026-10-24",
-      "image": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/10/Screenshot%202026-10-23%20at%2012.36.30%E2%80%AFPM.png",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Trump Targets $6.2 Billion Offshore Wind Project Nearing Completion",
-      "description": "United States President Donald Trump has repeatedly targeted offshore wind since coming into office last year, as he strives to expand the country\u2019s fossil fuel sector and shift the focus away from renewable energy. Trump has sought to halt the development of\u2026",
-      "url": "https://oilprice.com/Alternative-Energy/Wind-Power/Trump-Targets-62-Billion-Offshore-Wind-Project-Nearing-Completion.html",
-      "source": "OilPrice.com",
-      "date": "2026-10-24",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-23_izandgfjnu.jpg",
-      "category": "market"
-    },
-    {
-      "title": "\"A Nation Ceases To Be A Nation If It Can't Protect Its Borders\": Fifth Circuit Backs Trump's Mandatory Detention Policy",
-      "description": "\"A Nation Ceases To Be A Nation If It Can't Protect Its Borders\": Fifth Circuit Backs Trump's Mandatory Detention Policy\n \nAuthored by AG News Staff via American Greatness,\nA federal appeals court handed President Donald Trump's administration a significant i\u2026",
-      "url": "https://biztoc.com/x/30deed78d085259a",
-      "source": "Biztoc.com",
-      "date": "2026-10-24",
-      "image": "https://biztoc.com/cdn/30deed78d085259a_s.webp",
-      "category": "central_bank"
     }
   ],
   "history": [
@@ -517,7 +517,7 @@
       "platinum_usd_oz": 1681.4
     }
   ],
-  "timestamp": "2026-10-25T22:12:51.168451+05:30",
+  "timestamp": "2026-10-26T14:42:11.211356+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
