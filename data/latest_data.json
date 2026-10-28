@@ -54,7 +54,7 @@
         "hold": 50
       },
       "summary": "Gold is showing positive signals. Strong daily gain of 1.1%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-28T16:11:25.163636",
+      "timestamp": "2026-10-28T18:27:32.706212",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 50
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 1.8%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-28T16:11:25.237584",
+      "timestamp": "2026-10-28T18:27:32.824010",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 50
       },
       "summary": "Platinum is showing positive signals. Strong daily gain of 2.1%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-28T16:11:25.295288",
+      "timestamp": "2026-10-28T18:27:32.958020",
       "source": "rule-based"
     }
   },
@@ -135,6 +135,87 @@
   },
   "news": [
     {
+      "title": "US Federal Reserve holds interest rates steady as stubborn inflation puts future rate hikes in focus",
+      "description": "The US Federal Reserve has decided to keep its benchmark interest rate unchanged to evaluate inflation trends. Policymakers are assessing how high inflation might affect future monetary policy amid the upcoming midterm elections. Rising energy prices and tariffs contribute significantly to the ongoi",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-rate-us-federal-reserve-holds-interest-rates-steady-as-stubborn-inflation-puts-future-rate-hikes-in-focus/articleshow/135275622.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-10-28",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "World Bank sees commodity prices surging 23% in 2026 on Middle East war",
+      "description": "Commodity prices were projected to rise 23% in 2026 as the Middle East war disrupted energy supplies and shipping, while grain disruptions and safe haven demand pushed food and metals prices higher. The World Bank warned that further conflict escalation and a severe El Ni\u00f1o could intensify inflation",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/world-bank-sees-commodity-prices-surging-23-in-2026-on-middle-east-war/articleshow/135274754.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-10-28",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Shaktikanta Das pitches for bigger banks, deeper corporate bond market",
+      "description": "At the BFSI Insight Summit 2026, Shaktikanta Das called for larger, globally competitive Indian banks, deeper bond markets and wider credit access to support India's growth ambitions",
+      "url": "https://www.business-standard.com/specials/bs-events/shaktikanta-das-pitches-for-bigger-banks-deeper-corporate-bond-market-126102701374_1.html",
+      "source": "Business Standard",
+      "date": "2026-10-27",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/27/thumb/fitandfill/1200X628/1793125162-8504.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Shorenstein Buys Fully Leased SoHo Office Property From Tishman Speyer",
+      "description": "Tishman Speyer has sold the 12-story, 155,000-square-foot office building at 148 Lafayette Street in SoHo, at the corner of Lafayette and Howard streets, to Shorenstein Properties for $132.5 million, or $866 per square foot, according to Tishman. The deal was\u2026",
+      "url": "http://commercialobserver.com/2026/10/shorenstein-buy-fully-leased-soho-office-property-tishman-speyer/",
+      "source": "Commercial Observer",
+      "date": "2026-10-27",
+      "image": "https://commercialobserver.com/wp-content/uploads/sites/3/2026/09/Brandon-Shorestein-Rob-Speyer-148-Lafayette-St-2-credit-CO.jpg?quality=80&w=1200&h=630&crop=1",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Mother sells gold jewellery, gifts \u20b916 lakh to son, Income Tax Department questions deposits but ITAT grants relief",
+      "description": "A man received  \u20b916 lakh from his mother after she sold gold jewellery, but the Income Tax Department questioned the cash deposits. The Jaipur ITAT deleted the  \u20b913.04 lakh addition after examining the gift deed, jewellery valuation and supporting evidence.",
+      "url": "https://www.livemint.com/money/personal-finance/mother-sells-gold-jewellery-gifts-16-lakh-to-son-income-tax-department-questions-deposits-but-itat-grants-relief-11793123702021.html",
+      "source": "Livemint",
+      "date": "2026-10-27",
+      "image": "https://www.livemint.com/lm-img/img/2026/10/27/1600x900/logo/Gemini_Generatd_Image_b2roogb2roogb2ro_179312425_1793124274939_xUTS_1793124275036_JnZa_37687268-b3e4-42db-bcb4-a3ac19e5d6bf_GokE.png",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Unlocking Investment Insights Without Migrating Your Data: Lakehouse Federation",
+      "description": "* Federate, don't copy: Databricks Lakehouse Federation queries on-premise databases directly from Databricks with standard SQL. The data never moves.\r\n* Subscribe, don't build: FactSet financial data from the Databricks Marketplace appears as a native catalo\u2026",
+      "url": "https://www.databricks.com/blog/unlocking-investment-insights-without-migrating-your-data-lakehouse-federation",
+      "source": "Databricks.com",
+      "date": "2026-10-27",
+      "image": "https://www.databricks.com/sites/default/files/blog_images/unlocking-investment-insights-without-migrating-your-data-blog-img-og.png",
+      "category": "central_bank"
+    },
+    {
+      "title": "Sovereign Gold Bond: \u20b91 lakh grows to \u20b93.09 lakh as RBI fixes SGB redemption price at \u20b914,159; check returns",
+      "description": "Sovereign Gold Bond investors have earned nearly 209% returns as RBI fixes the SGB 2020-21 Series I redemption price at  \u20b914,159 per gram. A  \u20b91 lakh investment is now worth around  \u20b93.09 lakh. Check returns, interest earnings and tax rules",
+      "url": "https://www.livemint.com/money/personal-finance/sovereign-gold-bond-1-lakh-grows-to-3-09-lakh-as-rbi-fixes-sgb-redemption-price-at-14-159-check-returns-11793121032923.html",
+      "source": "Livemint",
+      "date": "2026-10-27",
+      "image": "https://www.livemint.com/lm-img/img/2026/10/27/1600x900/logo/Gemini_enerated_Image_ujxvozujxvozujxv_1793121218_1793121225775_5Tmz_1793121225896_VNQg_2cdaca7a-6417-403a-ba3d-f05a0f517588_nCAt.png",
+      "category": "central_bank"
+    },
+    {
+      "title": "Gold, AI and India\u2019s rise: The three forces rewiring global metals",
+      "description": "Gold, AI, and India reshape global metals, demanding $4.2T investment and 310k workers to meet rising demand.",
+      "url": "https://www.thehindubusinessline.com/opinion/columns/statistalk/gold-ai-and-indias-rise-the-three-forces-rewiring-global-metals/article71633039.ece",
+      "source": "BusinessLine",
+      "date": "2026-10-27",
+      "image": "https://bl-i.thgim.com/public/incoming/b4937v/article71633038.ece/alternates/LANDSCAPE_1200/Global%20Materials%20Industry%20-%20Canva.com.png",
+      "category": "supply_demand"
+    },
+    {
+      "title": "A $3M Hedge, a Midterm Test and Retail's Rise: Prediction Markets at NEXTPredict",
+      "description": "Chuck Todd called markets a \"fact checker\" for journalism, as Kalshi, Polymarket and Robinhood pitched contracts well beyond elections.",
+      "url": "https://decrypt.co/381955/a-3m-hedge-a-midterm-test-and-retails-rise-prediction-markets-at-nextpredict",
+      "source": "Decrypt",
+      "date": "2026-10-27",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/10/nextpredict-gID_7.jpg",
+      "category": "market"
+    },
+    {
       "title": "Gold doesn\u2019t have to be a \u2018dead asset\u2019: Tokenization could unlock utility and expand the market \u2013 LBMA 2026",
       "description": "(Kitco News) \u2013 Although gold is recognized as an essential monetary asset, it is also a dead asset, just sitting on a ledger; however, the tokenization of the precious metal could increase its utility, attracting more capital to the space, according to expert\u2026",
       "url": "https://activistpost.com/gold-doesnt-have-to-be-a-dead-asset-tokenization-could-unlock-utility-and-expand-the-market-lbma-2026/",
@@ -144,33 +225,6 @@
       "category": "central_bank"
     },
     {
-      "title": "Inside Jacob Misiorowski\u2019s Pokemon card obsession as Brewers ace chases World Series crown",
-      "description": "Jacob Misiorowski may be one of baseball's biggest stars, but his genuine love for Pokemon card collecting has captivated the Milwaukee fanbase almost as much as his electric arm.",
-      "url": "https://www.sportingnews.com/us/mlb/milwaukee-brewers/news/jacob-misiorowski-pokemon-card-brewers-world-series/71123a8f92745ed6aa118284",
-      "source": "Sporting News",
-      "date": "2026-10-27",
-      "image": "https://s.yimg.com/lo/mysterio/api/bb37f0faa2688706cd75b2b76c0ef2b5b17b1773a0966e7fdbd3b375034e7b00/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fef808fbdb9933a661597a376d3e8c1de",
-      "category": "market"
-    },
-    {
-      "title": "Q2 Results Today Highlgihts: Bajaj Auto Q2 PAT up 35%, Maruti Suzuki & Cipla profit down, ACC, Mazagon Dock PAT tumbles, Honeywell Automation PAT up, L&T, Vedanta Iron, Waaree Energies, SAIL, SBI Life, Tata Capital, Star Health, ABDL to announce Q2 results",
-      "description": "Q2 Results Today, 27th October 2026 Highlights: Find all the latest Q2 results 2026 updates of Allied Blenders and Distillers, ACC, Acutaas Chemicals, Akshar Spintex, Alfa Transformers, Amco India, Apis India, Ashish Polyplast, Atharv Enterprises, ATV Project\u2026",
-      "url": "https://www.thehindubusinessline.com/markets/q2-results-today-highlights-lampt-maruti-suzuki-bajaj-auto-tata-steel-vedanta-iron-waaree-acc-sail-sbi-star-health-mazagon-dock-cipla-united-breweries-ather-paytm-tata-consumer-results-27-october-20/article71626455.ece",
-      "source": "BusinessLine",
-      "date": "2026-10-27",
-      "image": "https://bl-i.thgim.com/public/incoming/z4k851/article71626467.ece/alternates/LANDSCAPE_1200/RBI-eases-lendeGF5EMQ1FB.4.jpg.jpg",
-      "category": "market"
-    },
-    {
-      "title": "VanEck launches Wealth Builder ETF with Bitcoin exposure",
-      "description": "The launch of VanEck's ETF with Bitcoin exposure signifies a growing trend towards integrating digital assets into diversified investment strategies.\nThe post VanEck launches Wealth Builder ETF with Bitcoin exposure appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/vaneck-wealth-builder-etf-bitcoin-exposure/",
-      "source": "Crypto Briefing",
-      "date": "2026-10-27",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/27110444/library-vaneck-launches-wealth-builder-etf-with-bitcoin-exposure-800x450.png",
-      "category": "geopolitics"
-    },
-    {
       "title": "\u201cDiversifying My IRA With Metals Was Scary at First\u201d \u2013 Here\u2019s How Careful Savers Learn the Steps Before They Move a Dollar",
       "description": "Note: The information provided here or in any related communications is for informational purposes only and should not be considered as financial advice.\nThe post \u201cDiversifying My IRA With Metals Was Scary at First\u201d \u2013 Here\u2019s How Careful Savers Learn the Steps\u2026",
       "url": "https://www.thegatewaypundit.com/2026/10/diversifying-my-ira-metals-was-scary-first-heres/",
@@ -178,24 +232,6 @@
       "date": "2026-10-27",
       "image": "https://www.thegatewaypundit.com/wp-content/uploads/2026/10/goldco-man-laptop-1200x630.jpg",
       "category": "currency"
-    },
-    {
-      "title": "PrimeXBT Expands Into Tokenized Stocks, Bringing Tesla, SpaceX, and NVIDIA to Crypto Futures",
-      "description": "PrimeXBT, a global multi-asset broker and crypto asset service provider, has announced a major expansion of its offering.",
-      "url": "https://zycrypto.com/primexbt-expands-into-tokenized-stocks-bringing-tesla-spacex-and-nvidia-to-crypto-futures/",
-      "source": "ZyCrypto",
-      "date": "2026-10-27",
-      "image": "https://zycrypto.com/wp-content/uploads/2026/10/unnamed-2026-10-27T144617.280.jpg",
-      "category": "market"
-    },
-    {
-      "title": "India to remain top of the Asian pie for Advent",
-      "description": "Advent International has successfully raised $30 billion for its global buyout and mid-market funds. The firm plans to invest significantly in India, expecting healthy GDP growth in the country. With recent investments including Yatharth Hospitals and Aditya \u2026",
-      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/advent-international-30-billion-fundraise-india-biggest-market-asia-private-equity-investments/articleshow/135237420.cms",
-      "source": "The Times of India",
-      "date": "2026-10-27",
-      "image": "https://img.etimg.com/thumb/msid-135237469,width-1200,height-900,imgsize-170630,overlay-economictimes/articleshow.jpg",
-      "category": "market"
     },
     {
       "title": "Lahontan Gold Provides Corporate Update on Santa Fe and West Santa Fe Drill Programs",
@@ -261,148 +297,112 @@
       "category": "market"
     },
     {
-      "title": "Transitioning of UNAIDS \u2014 risks and challenges",
-      "description": "Fragmenting UNAIDS\u2019 country presence at this stage would be a serious mistake",
-      "url": "https://www.thehindubusinessline.com/opinion/transitioning-of-unaids-risks-and-challenges/article71632873.ece",
-      "source": "BusinessLine",
+      "title": "Tiffany Trump shares emotional exchange with mom Marla Maples as she celebrates her 63rd birthday",
+      "description": "The 33-year-old, who is President Donald Trump's only child with his second wife, took to Instagram to post the touching tribute on Tuesday.",
+      "url": "https://www.dailymail.com/lifestyle/article-16243513/tiffany-trump-emotional-exchange-mom-marla-maples-celebrates-63rd-birthday.html",
+      "source": "Dailymail.com",
       "date": "2026-10-27",
-      "image": "https://bl-i.thgim.com/public/incoming/bjwgoo/article71632877.ece/alternates/LANDSCAPE_1200/2026-10-25T162246Z_1726521068_RC2GAOA97BFS_RTRMADP_3_HEALTH-EBOLA-NIGERIA.JPG",
+      "image": "https://i.dailymail.com/1s/2026/10/27/18/112127279-0-image-m-78_1793125164320.jpg",
       "category": "market"
     },
     {
-      "title": "Final Trailer for 'Dune: Part Three' Sci-Fi Feat. Chalamet & Pattinson",
-      "description": "\"The future has a way of talking to me \u2013 but I can't see what's ahead.\" Return to Dune lies ahead! Warner Bros revealed an awesome third trailer for Dune: Part Three, along with another round of tickets going up for sale for its worldwide release this Decembe\u2026",
-      "url": "https://www.firstshowing.net/2026/final-trailer-for-dune-part-three-scifi-chalamet-pattinson/",
-      "source": "First Showing",
+      "title": "Infosys draws four downgrades in a day on weaker annual sales outlook",
+      "description": "Brokerages turn cautious as Infosys' reduced FY27 sales guidance raises concerns over demand recovery and AI-led disruption",
+      "url": "https://www.business-standard.com/markets/news/infosys-draws-four-downgrades-in-a-day-on-weaker-annual-sales-outlook-126102701883_1.html",
+      "source": "Business Standard",
       "date": "2026-10-27",
-      "image": "https://media2.firstshowing.net/firstshowing/img18/dune3finaltrailermainimgsvtw1.jpg",
-      "category": "geopolitics"
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-08/23/thumb/fitandfill/1200X628/1724410042-9787.JPG",
+      "category": "supply_demand"
     },
     {
-      "title": "Conquest Brings its Verifiable AI Financial Advice Engine into Anthropic\u2019s Claude for Financial Advisors",
-      "description": "Connectivity enables advisors to check client goal progress, create and edit plans, and apply strategies surfaced as planning opportunities, backed by Conquest\u2019s deterministic calculations WINNIPEG, Manitoba \u2014 Conquest, a global fintech company delivering a v\u2026",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/conquest-brings-its-verifiable-ai-financial-advice-engine-into-anthropics-claude-for-financial-advisors",
-      "source": "Financial Post",
+      "title": "Trump is making it easier for fossil fuel companies to leak methane",
+      "description": "In its latest gift to oil and gas companies, the Trump administration is expected to announce plans today to weaken rules that guard against methane leaks. Methane is a smog-forming pollutant and a powerful greenhouse gas that's up to 80 times as potent as ca\u2026",
+      "url": "https://www.theverge.com/policy/1019691/gas-leak-methane-rule-rollback-trump",
+      "source": "The Verge",
+      "date": "2026-10-27",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK466_ELECTION_2024_CVirginia_F.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "category": "market"
+    },
+    {
+      "title": "Microsoft offers exit packages to 60,000 staff",
+      "description": "SAN FRANCISCO, California \u2014 Microsoft is offering voluntary buyouts to about 60,000 employees, the company said on Monday, roughly a quarter of its workforce, as the tech giant seeks to cut costs while pouring money into artificial intelligence (AI).",
+      "url": "https://www.manilatimes.net/2026/10/28/business/foreign-business/microsoft-offers-exit-packages-to-60000-staff/2455413",
+      "source": "The Manila Times",
+      "date": "2026-10-27",
+      "image": "https://manilatimes.net/manilatimes/uploads/images/2026/10/28/1279554.jpg",
+      "category": "market"
+    },
+    {
+      "title": "The Ledger and the Blade",
+      "description": "\"The 1993 stabbing of Monica Seles and our quest for optimization.\"",
+      "url": "https://longreads.com/2026/10/27/monica-seles-athletes-data-gambling-violence/",
+      "source": "Longreads.com",
       "date": "2026-10-27",
       "image": null,
       "category": "market"
     },
     {
-      "title": "India woos South Korea, Cyprus to boost shipbuilding and maritime sector",
-      "description": "Union Minister Sarbananda Sonowal engaged South Korean and Cypriot maritime leaders to enhance India's shipbuilding capabilities. Discussions focused on marine equipment manufacturing, shipbuilding investment, and sustainable technology initiatives. The India\u2026",
-      "url": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/india-woos-south-korea-cyprus-to-boost-shipbuilding-and-maritime-sector/articleshow/135239943.cms",
+      "title": "JLR looks to narrow gap with BMW in India on local Defender assembly and price cuts of up to Rs 34 lakh",
+      "description": "Jaguar Land Rover is focusing on local assembly of the Land Rover Defender to increase its market presence. The company has reduced prices of certain Defender variants by significantly lowering their costs to attract more buyers. Despite being third in luxury\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/jlr-looks-to-narrow-gap-with-bmw-in-india-on-local-defender-assembly-and-price-cuts-of-up-to-rs-34-lakh/articleshow/135243667.cms",
       "source": "The Times of India",
       "date": "2026-10-27",
-      "image": "https://img.etimg.com/thumb/msid-135239985,width-1200,height-900,imgsize-128880,overlay-economictimes/articleshow.jpg",
+      "image": "https://img.etimg.com/thumb/msid-135243767,width-1200,height-900,imgsize-88138,overlay-economictimes/articleshow.jpg",
       "category": "market"
     },
     {
-      "title": "notifyvia-email added to PyPI",
-      "description": "The frontend Python library for notifyvia.email",
-      "url": "https://pypi.org/project/notifyvia-email/",
-      "source": "Pypi.org",
+      "title": "Meta increases equity offering target to almost US$98 billion",
+      "description": "The Facebook parent boosted a planned share sale, marking one of the largest equity offerings in history. Read more",
+      "url": "https://financialpost.com/investing/meta-increases-equity-offering-target",
+      "source": "Financial Post",
       "date": "2026-10-27",
-      "image": null,
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/10/1028-mg-meta-1.jpg",
       "category": "market"
     },
     {
-      "title": "Inceptio CEO says regulatory hurdles scuttled offshore exploration bid",
-      "description": "The head of an outfit hoping to do offshore oil and gas exploration in Nova Scotia waters says he ran out of time to arrange necessary financing due to regulatory hurdles, and the project is now on ice.",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/inceptio-oil-and-gas-exploration-offshore-energy-james-edens-tim-houston-9.7397689",
-      "source": "CBC News",
+      "title": "The quiet DOGE killer",
+      "description": "It\u2019s not clear that the soldier in Elon Musk\u2019s incel army that was the point person in dismanting USAID, condemning untold numbers of people to death, had the legal authority to do so: \u201cON MARCH 18, 2025, Secretary of State Marco Rubio handed the reins of the\u2026",
+      "url": "https://www.lawyersgunsmoneyblog.com/2026/10/the-quiet-doge-killer",
+      "source": "Lawyersgunsmoneyblog.com",
       "date": "2026-10-27",
-      "image": "https://i.cbc.ca/ais/1.1508649,1407410393000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1180%2C663%29%3BResize%3D620",
+      "image": "https://www.lawyersgunsmoneyblog.com/wp-content/uploads/2025/03/musk-chainsaw.png",
       "category": "market"
     },
     {
-      "title": "Lula\u2019s victory echoes across BRICS after fears of a Bolsonaro win",
-      "description": "Lula\u2019s fourth term may have spared BRICS an internal fracture at a time when Trump is trying to reassert US power.",
-      "url": "https://www.aljazeera.com/news-analysis/2026/10/27/lulas-victory-echoes-across-brics-after-fears-over-a-bolsonaro-win",
-      "source": "Al Jazeera English",
+      "title": "The Populism-to-Paperwork Pipeline",
+      "description": "A Treasury proposal restricts large investors from buying single-family rentals, adding compliance costs without meaningfully changing housing policy.",
+      "url": "https://reason.com/2026/10/27/the-populism-to-paperwork-pipeline/",
+      "source": "Reason",
       "date": "2026-10-27",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ae0982b-1793103915.jpg?resize=1920%2C1440",
+      "image": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/10/HomeBuyRest.jpg",
       "category": "market"
     },
     {
-      "title": "UC Davis Health performs first HIV-to-HIV kidney transplant",
-      "description": "UC Davis Health completed its first HIV-positive donor-to-recipient kidney transplant, expanding organ access, reducing wait times and offering new hope for patients living with HIV.",
-      "url": "https://health.ucdavis.edu/news/headlines/uc-davis-health-performs-first-hiv-to-hiv-kidney-transplant/2026/10",
-      "source": "Ucdavis.edu",
-      "date": "2026-10-27",
-      "image": "https://health.ucdavis.edu/media-resources/contenthub/health-news/2026/10/thumbnail/surgery-th.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Roman Catholic Church and \"Catholic\" charity organizations are not the same.",
-      "description": "Initial finding: Catholic Charities USA's national finances warrant detailed examination, particularly its program expenses, federal grants, transfers to other organizations, and financial disclosures.",
-      "url": "https://freerepublic.com/focus/f-news/4400774/posts",
-      "source": "Freerepublic.com",
-      "date": "2026-10-27",
-      "image": null,
-      "category": "geopolitics"
-    },
-    {
-      "title": "Medical schools accused of rebranding DEI programs to evade Trump administration scrutiny",
-      "description": "Medical schools are rebranding DEI offices with terms like \"belonging\" and \"excellence,\" but a new report claims the programming remains the same.",
-      "url": "https://www.foxnews.com/media/medical-schools-accused-rebranding-dei-programs-evade-trump-administration-scrutiny",
-      "source": "Fox News",
-      "date": "2026-10-27",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/MED-SCHOOL-STUDENTS.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Should the Reserve Bank care about your job as well as inflation? \u2013 Greg Smith",
-      "description": "OPINION: High unemployment strengthens the case for a dual mandate.",
-      "url": "https://www.nzherald.co.nz/business/economy/inflation/should-the-reserve-bank-care-about-your-job-as-well-as-inflation-greg-smith/56JF45DU55AKHDYBZQODLZFXZI/",
-      "source": "New Zealand Herald",
-      "date": "2026-10-27",
-      "image": "https://www.nzherald.co.nz/resizer/v2/GGANGFZBFNH3LIV64TVFE4FQAE.jpg?auth=671104d6fc04571412a92f9bbf80933fb49205c578aab2b82974a56aea50beda&width=1200&height=675&quality=70&focal=336%2C156&smart=false",
-      "category": "inflation"
-    },
-    {
-      "title": "Election 2026: Coalition\u2019s change to voting rules is radical but Labour helped make it possible \u2013 Bryce Edwards",
-      "description": "OPINION: Accusations of 'voter suppression' have grown since electoral enrolments closed.",
-      "url": "https://www.nzherald.co.nz/nz/election-2026-coalitions-change-to-voting-rules-is-radical-but-labour-helped-make-it-possible-bryce-edwards/premium/IXZ6R32FTRDYVPWHSPHRFUEYPI/",
-      "source": "New Zealand Herald",
-      "date": "2026-10-27",
-      "image": "https://www.nzherald.co.nz/resizer/v2/2R3XVAOTXZBSVCK4NBHD5BKVVY.JPG?auth=dba48b532d6786f9766d1c1e74bd9eaa8dc80eabbce70431fcd916874da26f76&width=1200&height=675&quality=70&smart=true",
-      "category": "geopolitics"
-    },
-    {
-      "title": "The self-immolation of America",
-      "description": "The 20th century saw the apex of US power. Even during the Cold War with the Soviet Union as a rival nuclear superpower, the US was still dominant. This dominance came with a massive cost for many people in other countries. as we saw the US being behind the m\u2026",
-      "url": "https://freethoughtblogs.com/singham/2026/10/27/the-self-immolation-of-america/",
-      "source": "Freethoughtblogs.com",
-      "date": "2026-10-27",
-      "image": "https://freethoughtblogs.com/singham/wp-content/themes/ftb2-theme/images/logo.gif",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Bitcoin must hold $75,500 to preserve bull market structure, Hilbert Group analyst says",
-      "description": "Hilbert Group's Jesse Marre warns Bitcoin must hold $75,500 to preserve its bull market structure amid tight liquidity and Fed uncertainty.\nThe post Bitcoin must hold $75,500 to preserve bull market structure, Hilbert Group analyst says appeared first on Cryp\u2026",
-      "url": "https://cryptobriefing.com/bitcoin-must-hold-75500-to-preserve-bull-market-structure-hilbert-group-analyst-says/",
-      "source": "Crypto Briefing",
-      "date": "2026-10-27",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/27113150/library-1280-1f7caaea-6152-478c-a181-de6cdb420c84-800x450.png",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Gold rises 1% ahead of Fed's decision",
-      "description": "Gold and silver prices rose on Tuesday as investors awaited tomorrow's monetary policy decision by the United States Federal Reserve and digested a slightly weaker dollar and falling oil prices. The U...",
-      "url": "https://biztoc.com/x/fbd303434c1f1272",
+      "title": "Federal Reserve expected to hold interest rates steady in last decision before midterm elections",
+      "description": "The Federal Reserve is set to announce its latest interest rate decision on Wednesday with the midterm elections less than a week away.\nPolicymakers at the Fed say they avoid letting politics influence their monetary policy moves, and can be hesitant to hike \u2026",
+      "url": "https://biztoc.com/x/f3e2ab3a9c725a50",
       "source": "Biztoc.com",
       "date": "2026-10-27",
-      "image": "https://biztoc.com/cdn/fbd303434c1f1272_s.webp",
+      "image": "https://biztoc.com/cdn/f3e2ab3a9c725a50_s.webp",
       "category": "central_bank"
     },
     {
-      "title": "Commodity Support and Resistance Levels for Precious Metals, Energy, and Agricultural Futures on 2026-10-26 - KuCoin",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaV8wNEZzOUlJTWNmaVpUbmVDc3FTcDNwZ3YwSWZtNlZFUnBPdjUtV0VwWGRFOEtZVnBUdnA0QlFwZ2lFNktJSjJnTGVfbXVuY2VmcWlvWUJyMEhGUjF0VXJtOXF2UzhFN0dtMGVWY1NHSm5TMF9NdmtpMEVGcjhtakZHekxKbW4tdWFuQjE2YjZRX2p3SmhCQ1F4VE95RWVUTmhrS0t1SGUwUUtHdWt5TnV5Y011OE9han",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaV8wNEZzOUlJTWNmaVpUbmVDc3FTcDNwZ3YwSWZtNlZFUnBPdjUtV0VwWGRFOEtZVnBUdnA0QlFwZ2lFNktJSjJnTGVfbXVuY2VmcWlvWUJyMEhGUjF0VXJtOXF2UzhFN0dtMGVWY1NHSm5TMF9NdmtpMEVGcjhtakZHekxKbW4tdWFuQjE2YjZRX2p3SmhCQ1F4VE95RWVUTmhrS0t1SGUwUUtHdWt5TnV5Y011OE9hanE3ekxEZXJCZDJkb0FXR0lOOVVYTVBpZmttSzlB?oc=5",
-      "source": "Google News - Precious Metals",
-      "date": "2026-10-26",
-      "image": "",
-      "category": "metals"
+      "title": "Markets end flat ahead of Fed decision; FPIs buy shares worth \u20b94,240 crore",
+      "description": "Benchmark stock indices Sensex and Nifty closed largely unchanged in a highly volatile trade on Tuesday amid profit-taking in IT and blue-chip banking shares, elevated crude oil prices and caution ahead of the US Federal Reserve's policy decision.\nThe 30-shar\u2026",
+      "url": "https://www.business-standard.com/markets/news/sensex-nifty-close-largely-unchanged-amid-selling-in-bank-it-stocks-elevated-crude-oil-prices-126102701164_1.html",
+      "source": "Business Standard",
+      "date": "2026-10-27",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/27/thumb/fitandfill/1200X628/1793124379-0442.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Yale leaders deliver fall financial update",
+      "description": "A new message from senior Yale leaders addresses the university\u2019s budget, endowment, and opportunities&nbsp;ahead.",
+      "url": "https://news.yale.edu/2026/10/27/yale-leaders-deliver-fall-financial-update",
+      "source": "Yale.edu",
+      "date": "2026-10-27",
+      "image": "https://news.yale.edu/sites/default/files/styles/opengraph_image/public/2026-10/YN-2026_10_22_09-30-53_R5C_5126.jpg?h=03155992&itok=WUoOvB1B",
+      "category": "market"
     }
   ],
   "history": [
@@ -517,7 +517,7 @@
       "platinum_usd_oz": 1681.4
     }
   ],
-  "timestamp": "2026-10-28T21:41:25.307860+05:30",
+  "timestamp": "2026-10-28T23:57:32.970195+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
