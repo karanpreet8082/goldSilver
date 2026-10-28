@@ -54,7 +54,7 @@
         "hold": 50
       },
       "summary": "Gold is showing positive signals. Strong daily gain of 1.1%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-28T09:53:53.694238",
+      "timestamp": "2026-10-28T13:19:13.775898",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 50
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 1.8%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-28T09:53:53.911967",
+      "timestamp": "2026-10-28T13:19:13.980175",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 50
       },
       "summary": "Platinum is showing positive signals. Strong daily gain of 2.1%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-28T09:53:54.013177",
+      "timestamp": "2026-10-28T13:19:14.054075",
       "source": "rule-based"
     }
   },
@@ -135,85 +135,139 @@
   },
   "news": [
     {
-      "title": "Vedanta Q2 Results: Profit zooms 78% YoY to Rs 6,202 crore; revenue surges 57%",
-      "description": "Vedanta Q2 Results: Vedanta Ltd reported a 78% year-on-year rise in consolidated net profit to Rs 6,202 crore in the September quarter, while revenue increased 57% to Rs 26,356 crore. EBITDA more than doubled to Rs 9,938 crore, with margins improving to 60%. Higher commodity prices and increased pro",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/vedanta-q2-results-profit-zooms-78-yoy-to-rs-6202-crore-revenue-surges-57/articleshow/135258623.cms",
+      "title": "India bonds end flat as oil woes come up against short covering",
+      "description": "Indian government bonds faced volatility as oil price hikes raised inflation concerns and affected market sentiment. The 6.94% 2036 bond yield fluctuated but ended slightly unchanged as traders reacted to market conditions. Elevated crude prices have increased worries about inflation, a wider fiscal",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-end-flat-as-oil-woes-come-up-against-short-covering/articleshow/135265739.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-10-28",
+      "image": "",
+      "category": "currency"
+    },
+    {
+      "title": "Hyundai Motor India Q2 profit falls 24% despite record sales",
+      "description": "Hyundai Motor India\u2019s Q2 FY27 net profit fell 24% to Rs 1,196.2 crore as commodity costs pressured margins. Revenue rose 19% to Rs 20,696.1 crore, supported by record sales, stronger exports and upcoming vehicle launches.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/hyundai-motor-india-q2-profit-falls-24-despite-record-sales/articleshow/135264974.cms",
       "source": "Economic Times Markets",
       "date": "2026-10-28",
       "image": "",
       "category": "supply_demand"
     },
     {
-      "title": "Gold buying on Dhanteras: Gold prices have fallen by 20% from their peak; is it right time to invest in yellow metal?",
-      "description": "Gold price: Gold prices have recently experienced significant volatility, opening doors for savvy investors. Experts advocate for a methodical approach\u2014spreading out investments across multiple months. Current financial dynamics, including rising US interest \u2026",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/gold-buying-on-dhanteras-mcx-spot-gold-price-is-20-down-from-its-january-peak-is-it-right-time-to-invest-in-yellow-metal/articleshow/135210867.cms",
-      "source": "The Times of India",
-      "date": "2026-10-27",
-      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1344501,resizemode-75,msid-135210867/wealth/invest/gold-buying-on-dhanteras-mcx-spot-gold-price-is-20-down-from-its-january-peak-is-it-right-time-to-invest-in-yellow-metal.jpg",
-      "category": "metals"
+      "title": "FED Meeting Live | Dow Jones Futures | US Stock Market Live: Nasdaq futures rise as SK Hynix profit surge lifts chip stocks",
+      "description": "",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-meeting-live-updates-dow-jones-nasdaq-sp-500-us-stock-market-today-kevin-warsh-fomc-meet-rate-cut-news-28th-oct/liveblog/135265171.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-10-28",
+      "image": "",
+      "category": "central_bank"
     },
     {
-      "title": "Is there gold in Niagara?",
-      "description": "Is There Gold in Niagara? Unearthing the Truth Is there gold in Niagara? The short answer is: probably not in any commercially viable quantity. While trace amounts of gold may be present in the Niagara region\u2019s glacial deposits, significant gold deposits are \u2026",
-      "url": "https://www.lifesciencesworld.com/is-there-gold-in-niagara/",
-      "source": "Lifesciencesworld.com",
+      "title": "How Gaming Rewards Programs Function to Encourage Repeat Visits",
+      "description": "Ever curious about why casinos seem so quick to distribute membership cards and track your every bet? The truth is that best Apple Pay casinos are sophisticated psychological and mathematical systems designed to maximize player retention and lifetime value. T\u2026",
+      "url": "https://aunclicdelastic.com/how-gaming-rewards-programs-function-to-encourage-repeat-visits/",
+      "source": "Aunclicdelastic.com",
+      "date": "2026-10-27",
+      "image": null,
+      "category": "geopolitics"
+    },
+    {
+      "title": "The Daily Edit \u2013 Angie Smith Launches Confidante",
+      "description": "Lead photo by Joao Canziani Confidante\u00a0 Angie Smith Heidi: After 25 years working in photography, what inspired you to launch Confidante, and what gap did you see in the way creative teams find images? Tell us about the name, too. Angie: I moved to Mexico Cit\u2026",
+      "url": "https://www.aphotoeditor.com/2026/10/27/the-daily-edit-angie-smith-launches-confidante/",
+      "source": "Aphotoeditor.com",
+      "date": "2026-10-27",
+      "image": "https://www.aphotoeditor.com/wp-content/uploads/2026/10/Joao-Canziani-6-650x868.png",
+      "category": "market"
+    },
+    {
+      "title": "PrimeXBT Brings Tesla, SpaceX, NVIDIA and More to Crypto Futures with New Tokenised Stocks",
+      "description": "Castries, Saint Lucia, 27th October 2026, Chainwire\nThe post PrimeXBT Brings Tesla, SpaceX, NVIDIA and More to Crypto Futures with New Tokenised Stocks appeared first on The Daily Hodl.",
+      "url": "https://dailyhodl.com/2026/10/27/primexbt-brings-tesla-spacex-nvidia-and-more-to-crypto-futures-with-new-tokenised-stocks/",
+      "source": "The Daily Hodl",
+      "date": "2026-10-27",
+      "image": "https://dailyhodl.com/wp-content/uploads/2026/10/PR_Tokenised_Stock_Crypto_Futures_1200x720_1_1793089309kQzQLU3kXG.jpg?resize=1920,1152",
+      "category": "market"
+    },
+    {
+      "title": "Lula killed the Donroe Doctrine",
+      "description": "The Brazil election results have laid bare the contradictions in the US\u2019 \u2018Shield of the Americas\u2019 strategy",
+      "url": "https://www.thehindubusinessline.com/opinion/lula-killed-the-donroe-doctrine/article71631280.ece",
+      "source": "BusinessLine",
+      "date": "2026-10-27",
+      "image": "https://bl-i.thgim.com/public/incoming/vuptn6/article71631289.ece/alternates/LANDSCAPE_1200/CONT_TH26-ShobaGVRGNDBG6.5.jpg.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Shaktikanta Das urges BFSI sector to lead infrastructure, high-tech manufacturing funding",
+      "description": "Shaktikanta Das highlighted the essential role of the BFSI sector in financing infrastructure and new manufacturing. He emphasized the need for funding micro, small and medium enterprises as well as agriculture. Das proposed utilizing digital financial channe\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/shaktikanta-das-calls-on-bfsi-sector-to-propel-indias-infrastructure-and-high-tech-manufacturing-growth/articleshow/135232860.cms",
+      "source": "The Times of India",
+      "date": "2026-10-27",
+      "image": "https://img.etimg.com/thumb/msid-135233431,width-1200,height-900,imgsize-49182,overlay-economictimes/articleshow.jpg",
+      "category": "market"
+    },
+    {
+      "title": "SoCon Preview Series Part 3: The middle tier and darkhorse pick",
+      "description": "VMI, Western Carolina, Chattanooga and Mercer have the potential to contend",
+      "url": "https://www.midmajormadness.com/southern-conference/37270/socon-preview-series-part-3-the-middle-tier-and-darkhorse-pick",
+      "source": "Midmajormadness.com",
+      "date": "2026-10-27",
+      "image": "https://s.yimg.com/lo/mysterio/api/c6517f1ad2473fc6d3481ceef9fd1b691f9219a30add01be6d33f4856ddb80db/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fe19ea89ef10fe63b512789b97227b5f2.jpg",
+      "category": "market"
+    },
+    {
+      "title": "B\u00fcro Ziyu Zhuang designs Chinese museum cluster to \"blend seamlessly\" into meadow",
+      "description": "Chinese architecture studio B\u00fcro Ziyu Zhuang embedded four cultural buildings, including a viewing tower and a rammed-earth workshop, into parkland in Xianning, China, to create the Zi Museum.\nThe post B\u00fcro Ziyu Zhuang designs Chinese museum cluster to \"blend\u2026",
+      "url": "https://www.dezeen.com/2026/10/27/buro-ziyu-zhuang-zi-museum-cluster-xianning/",
+      "source": "Dezeen",
+      "date": "2026-10-27",
+      "image": "https://static-2026.dezeen.com/uploads/2026/10/zi-museum-Buro-Ziyu-Zhuang_dezeen_2364_col_sq5.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Wider Europe Briefing: Can The EU Put Russia's GRU On Its Terror List?",
+      "description": "In this week's briefing,  Rikard Jozwiak drills down on two issues: Can the EU add Russia's GRU to its terror list? Plus, more rolling EU sanctions on Moscow.",
+      "url": "https://www.rferl.org/a/wider-europe-briefing-can-the-eu-put-russia-s-gru-on-its-terror-list/33885122.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "date": "2026-10-27",
+      "image": "https://gdb.rferl.org/8bbc4643-611a-42ce-ba87-f6d57314a44d_cx7_cy16_cw81_w1200_h630.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Lahontan Gold Provides Corporate Update on Santa Fe and West Santa Fe Drill Programs",
+      "description": "TORONTO, Oct. 27, 2026 (GLOBE NEWSWIRE) \u2014 Lahontan Gold Corp. (TSXV:LG, OTCQB:LGCXF) (the \u201cCompany\u201d or \u201cLahontan\u201c) is pleased to provide an update on its drilling programs at its Flagship Santa Fe Mine Project and nearby West Santa Fe Project, located in mini\u2026",
+      "url": "https://financialpost.com/globe-newswire/lahontan-gold-provides-corporate-update-on-santa-fe-and-west-santa-fe-drill-programs",
+      "source": "Financial Post",
       "date": "2026-10-27",
       "image": null,
       "category": "metals"
     },
     {
-      "title": "What is the best way to invest in gold monthly with a modest salary?",
-      "description": "ET Wealth Reader's Query: I just started my first job. My salary is modest, but I would like to invest a small amount in gold every month as a long-term investment. What are the safest and most secure ways to invest in gold through monthly investments? Which \u2026",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/what-is-the-best-way-to-invest-in-gold-monthly-with-a-modest-salary/articleshow/135227089.cms",
-      "source": "The Times of India",
+      "title": "Zacatecas Silver Reports High-Grade Gold and Silver Rock Chip Sampling at Cumaro, Sonora, with Assays up to 40.6 g/t Gold and 253 g/t Silver",
+      "description": "VANCOUVER, British Columbia, Oct. 27, 2026 (GLOBE NEWSWIRE) \u2014 Zacatecas Silver Corp. (TSXV: ZAC | OTCQB: ZCTSF | FRA: 7TV) (\u201cZacatecas Silver\u201d or the \u201cCompany\u201d) is pleased to report results from a reconnaissance rock chip sampling program at its Cumaro gold-s\u2026",
+      "url": "https://financialpost.com/globe-newswire/zacatecas-silver-reports-high-grade-gold-and-silver-rock-chip-sampling-at-cumaro-sonora-with-assays-up-to-40-6-g-t-gold-and-253-g-t-silver",
+      "source": "Financial Post",
       "date": "2026-10-27",
-      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-111493,resizemode-75,msid-135227089/wealth/invest/what-is-the-best-way-to-invest-in-gold-monthly-with-a-modest-salary.jpg",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/10/figure-2-3.jpeg",
       "category": "metals"
     },
     {
-      "title": "Dhanteras 2026: Top 5 gold ETFs by 1, 3 and 5-year returns; should mutual fund investors consider them now? Expert views",
-      "description": "With Dhanteras 2026 approaching, gold ETFs may draw investor interest amid changing gold prices and fresh subscription restrictions on some gold FoFs. Here is the list of the top 5 ETFs that have performed well across different periods, and what you should co\u2026",
-      "url": "https://www.livemint.com/money/personal-finance/dhanteras-2026-top-5-gold-etfs-by-1-3-and-5-year-returns-should-mutual-fund-investors-consider-them-now-expert-views-11793081116038.html",
-      "source": "Livemint",
+      "title": "Gold retreats on stronger dollar; traders brace for Fed",
+      "description": "Spot gold dropped \u200c0.5% to $3,995.89 per ounce by 0929 GMT and US gold futures for December delivery fell 0.71% to $4,009.60 per ounce",
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-retreats-on-stronger-dollar-traders-brace-for-fed/article71630759.ece",
+      "source": "BusinessLine",
       "date": "2026-10-27",
-      "image": "https://www.livemint.com/lm-img/img/2026/10/27/1600x900/logo/golf_ee_1793083968375_lfJj_1793083973978_AKKm_28eecf2f-afdc-41e1-9f67-64f30d0707df_siAf.png",
-      "category": "metals"
-    },
-    {
-      "title": "The booming African city you\u2019ve probably never heard of",
-      "description": "The continent\u2019s urban centres are set to expand by 19m people annually. But urbanisation is not following a familiar path",
-      "url": "https://www.irishtimes.com/world/africa/2026/10/27/the-booming-african-city-youve-probably-never-heard-of/",
-      "source": "The Irish Times",
-      "date": "2026-10-27",
-      "image": "https://www.irishtimes.com/resizer/v2/OCUOHKT5MNG2NK5SPSRDS7VV7Y.jpg?smart=true&auth=b9816e7015daaf07dda85b776b188655b837e1a8f54ae8f0512327cc13fc771c&width=1200&height=630",
-      "category": "market"
-    },
-    {
-      "title": "Zespri expects India to become a key kiwifruit market over the next decade",
-      "description": "New Zealand wine faces a $112m economic hit from extra duties and tariffs.",
-      "url": "https://www.nzherald.co.nz/business/business-reports/mood-of-the-boardroom/zespri-expects-india-to-become-a-key-kiwifruit-market-over-the-next-decade/premium/GI47ZDEUNJA4NFEVJ5LTUVW6QE/",
-      "source": "New Zealand Herald",
-      "date": "2026-10-27",
-      "image": "https://www.nzherald.co.nz/resizer/v2/NNVZ7EMN5JIZNDCW7SAUPNPEVY.jpg?auth=b9a1c00ad568272c088544fd41e8cdf58542fa1a19bb1da5799414ed314fbc58&width=1200&height=675&quality=70&focal=1410%2C707&smart=false",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Bitcoin Surges Toward $85,000 as SpaceX Earnings Ignite Fresh Crypto Rally",
-      "description": "Bitcoin traded above $84,500 on Oct. 21, reaching $84,588 in New York morning trading before changing hands at $84,461, according to Bitcoin Magazine [8]. The cryptocurrency was up 2% over 24 hours and 3% over seven days, the report stated. The move coincided\u2026",
-      "url": "https://www.naturalnews.com/2026-10-27-bitcoin-surges-spacex-earnings-ignite-crypto-rally.html",
-      "source": "Naturalnews.com",
-      "date": "2026-10-27",
-      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/bitcoin-price-spacex-earnings-risk-appetite-5593-5fa4be36-original.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Gold prices dip Rs 500/10 grams; silver falls Rs 2,400/kg as traders eye US Fed meet this week. What should you do?",
-      "description": "Gold and silver prices fell on the MCX as a stronger US dollar weighed on bullion, with investors awaiting the Federal Reserve\u2019s policy decision on Wednesday and US PCE inflation data on Thursday. Although the Fed is widely expected to hold rates steady, pers\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-dip-rs-500/10-grams-silver-falls-rs-2400/kg-as-traders-eye-us-fed-meet-this-week-what-should-you-do/articleshow/135224447.cms",
-      "source": "The Times of India",
-      "date": "2026-10-27",
-      "image": "https://img.etimg.com/thumb/msid-135224472,width-1200,height-900,imgsize-88148,overlay-etmarkets/articleshow.jpg",
+      "image": "https://bl-i.thgim.com/public/incoming/wwcwn8/article71625613.ece/alternates/LANDSCAPE_1200/PO01_Gold.jpg",
       "category": "central_bank"
+    },
+    {
+      "title": "Hycroft Reports Q3 2026 Results and Maintains Strong Balance Sheet",
+      "description": "WINNEMUCCA, Nev., Oct. 27, 2026 /PRNewswire/ -- Hycroft Mining Holding Corporation (Nasdaq: HYMC) (\"Hycroft\" or \"the Company\"), a U.S.-based silver and gold development company that owns the Hycroft Mine, announces its third quarter results and the filing of \u2026",
+      "url": "https://www.prnewswire.co.uk/news-releases/hycroft-reports-q3-2026-results-and-maintains-strong-balance-sheet-302920085.html",
+      "source": "PR Newswire UK",
+      "date": "2026-10-27",
+      "image": "https://mmx.prnewswire.com/media/MS1209036/Hycroft-Logo.jpg?id=OA3041001&p=facebook",
+      "category": "supply_demand"
     },
     {
       "title": "Hindustan Zinc\u2019s long-term investments yield results, says chairperson Hebbar",
@@ -252,157 +306,103 @@
       "category": "central_bank"
     },
     {
-      "title": "Current climate pledges will cut emissions by just 6% by 2035, far off track: UN report",
-      "description": "The findings are based on the examination of 127 new NDCs, representing 154 parties to the 2015 Paris Agreement, which were submitted between January 1, 2024, and August 31, 2026",
-      "url": "https://www.thehindubusinessline.com/news/current-climate-pledges-will-cut-emissions-by-just-6-by-2035-far-off-track-un-report/article71630513.ece",
-      "source": "BusinessLine",
+      "title": "UK government hints at Harry Kane knighthood after Ballon d\u2019Or win",
+      "description": "The UK government has hinted that Harry Kane could be in the running for a knighthood after the \u201cextraordinary achievement\u201d of winning the Ballon d\u2019Or. The England and Bayern Munich player became the first English winner in 25 years in a ceremony at the Londo\u2026",
+      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:261027-930-901038/",
+      "source": "Dpa-international.com",
       "date": "2026-10-27",
-      "image": "https://bl-i.thgim.com/public/incoming/a31fci/article71523555.ece/alternates/LANDSCAPE_1200/2025-07-01T151635Z_1946388696_RC2QDFAKZOFW_RTRMADP_3_GLOBAL-CLIMATE-CHANGE-METHANE-SATELLITE.JPG",
+      "image": "https://s.yimg.com/lo/mysterio/api/343d268245a954186e5b141cb2c2b011b18134771685c343e45848678f48eef6/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fde78b570a39fe1bfbeff4bf5f7a72a90.jpg",
       "category": "market"
     },
     {
-      "title": "'A Crime of Extreme Inequality': Richest 0.1% Generate More Carbon Pollution Than Half of Humanity",
-      "description": "The richest 0.1% of humanity generates more planet-heating carbon pollution than nearly half of the global population combined, according to an Oxfam analysis released late Monday as world leaders prepared to gather in T\u00fcrkiye next month for the United Nation\u2026",
-      "url": "https://www.commondreams.org/news/oxfam-0-1-percent-carbon",
-      "source": "Common Dreams",
+      "title": "Nord Quantique Secures US$10 Million DARPA Stage B Extension",
+      "description": "Additional funding advances evaluation of Nord Quantique\u2019s hardware-efficient approach to fault-tolerant quantum computing SHERBROOKE, Qu\u00e9bec \u2014 Nord Quantique, a Canadian quantum computing company pioneering hardware-efficient quantum error correction, today \u2026",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/nord-quantique-secures-us10-million-darpa-stage-b-extension",
+      "source": "Financial Post",
       "date": "2026-10-27",
-      "image": "https://www.commondreams.org/media-library/image.jpg?id=68533458&width=1200&height=600&coordinates=0%2C416%2C0%2C417",
-      "category": "market"
+      "image": null,
+      "category": "geopolitics"
     },
     {
-      "title": "UP cabinet clears 22 proposals, including four link expressways, cyber security centre",
-      "description": "The Uttar Pradesh Cabinet convened to approve 22 significant proposals aimed at enhancing infrastructure and health services. Among the approved projects are four link expressways to improve connectivity across the state. A cyber security operations centre wi\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/uttar-pradesh-cabinet-approves-22-major-proposals-including-new-expressways-and-cyber-security-centre/articleshow/135230129.cms",
+      "title": "After US's FORTRESS plan and UK's 'Be Ready' campaign, Japan issues advisory for households to prepare for emergencies. Here's all we know",
+      "description": "In light of potential natural disasters such as earthquakes, Japan's government encourages its citizens to stock essential supplies for up to three days, emphasizing self-sufficiency during emergencies. Simultaneously, the UK has reintroduced its 'Be Ready' c\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/after-uss-fortress-plan-and-uks-be-ready-campaign-japan-issues-advisory-for-households-to-prepare-for-emergencies-heres-all-we-know/articleshow/135235152.cms",
       "source": "The Times of India",
       "date": "2026-10-27",
-      "image": "https://img.etimg.com/thumb/msid-135230128,width-1200,height-900,imgsize-107618,overlay-economictimes/articleshow.jpg",
+      "image": "https://img.etimg.com/thumb/msid-135235843,width-1200,height-900,imgsize-201502,overlay-economictimes/articleshow.jpg",
       "category": "market"
     },
     {
-      "title": "India poised to refine for world as global capacity declines: Hardeep Puri",
-      "description": "India is poised to strengthen its position as a global refining hub, with its oil processing capacity set to rise to 300 million tonnes annually by 2030 even as Europe and other parts of the Western world see refinery capacity decline, Union Minister Hardeep \u2026",
-      "url": "https://www.business-standard.com/industry/news/india-poised-to-refine-for-world-as-global-capacity-declines-hardeep-puri-126102700778_1.html",
+      "title": "Exclusive: From Pro Patria to the World: Estrella\u2019s new model for running football clubs",
+      "description": "This past July, Pro Patria became the first Italian club Estrella Football Group acquired: Football Italia sits down with Estrella\u2019s co-founder and President,",
+      "url": "https://football-italia.net/exclusive-pro-patria-world-estrella-new-model/",
+      "source": "Football Italia",
+      "date": "2026-10-27",
+      "image": "https://icdn.football-italia.net/wp-content/uploads/2026/10/pro-patria-stadium.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Cognite Spotlights UAE Industrial AI Momentum and Honors Regional Leaders at Impact World Tour Event in Abu Dhabi",
+      "description": "Regional leaders Borouge International, ADNOC Gas, ADNOC Offshore, and ADNOC Upstream take center stage to showcase enterprise-scale achievements in Industrial AI ABU DHABI, United Arab Emirates \u2014 Cognite, the recognized global leader in Industrial AI, today \u2026",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/cognite-spotlights-uae-industrial-ai-momentum-and-honors-regional-leaders-at-impact-world-tour-event-in-abu-dhabi",
+      "source": "Financial Post",
+      "date": "2026-10-27",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "\u2018Star Wars\u2019 Fans May Be Cut Off From New Release as International Availability Remains Uncertain",
+      "description": "The Star Wars franchise has spent nearly five decades cementing itself as a global phenomenon. From the moment George Lucas introduced audiences to a galaxy far, far away with the original film in 1977, the epic space opera has transcended borders, languages,\u2026",
+      "url": "https://insidethemagic.net/2026/10/star-wars-fans-cut-off-from-new-release-as-disney-restricts-access-to-specific-region-dr1/",
+      "source": "Inside the Magic",
+      "date": "2026-10-27",
+      "image": "https://insidethemagic.net/wp-content/uploads/2026/08/Untitled-design-2026-08-14T063307.702.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Cipla Q2 net profit falls 35% to \u20b9878 cr as US business weighs on sales",
+      "description": "Cipla's consolidated revenue declined 2.4% to Rs 7,404 crore in Q2 FY27 as its North America and API businesses weakened, while India revenue grew 12% to Rs 3,516 crore",
+      "url": "https://www.business-standard.com/companies/quarterly-results/cipla-q2-net-profit-falls-35-to-878-cr-as-us-business-weighs-on-sales-126102701381_1.html",
       "source": "Business Standard",
       "date": "2026-10-27",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-03/12/thumb/fitandfill/1200X628/1773335988-8269.jpg",
-      "category": "currency"
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-09/05/thumb/fitandfill/1200X628/1693926768-8959.jpg",
+      "category": "market"
     },
     {
-      "title": "Hisense Brings Intelligent Cleaning to Modern Homes with Its AI-Powered S7 Dishwasher",
-      "description": "Combining smart technology, premium design and seamless connectivity, the award-winning Hisense S7 Dishwasher brings a new level of convenience and efficiency to everyday living. DUBAI, UAE, Oct. 27, 2026 /PRNewswire/ -- Hisense, a leading brand in global con\u2026",
-      "url": "https://www.prnewswire.co.uk/news-releases/hisense-brings-intelligent-cleaning-to-modern-homes-with-its-ai-powered-s7-dishwasher-302920547.html",
-      "source": "PR Newswire UK",
+      "title": "Viksit Bharat to be built on strong foundations of scientific research and spirit of innovation: PM Modi",
+      "description": "Prime Minister Narendra Modi inaugurated the Emerging Science, Technology and Innovation Conclave 2026 in New Delhi. The conclave aims to gather experts to discuss emerging technologies and national scientific priorities. Sessions will cover various thematic \u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/viksit-bharat-to-be-built-on-strong-foundations-of-scientific-research-and-spirit-of-innovation-pm-modi/articleshow/135235603.cms",
+      "source": "The Times of India",
       "date": "2026-10-27",
-      "image": "https://mmx.prnewswire.com/media/MS2021616/Hisense-S7-Dishwasher.jpg?id=OA3041665&p=facebook",
+      "image": "https://img.etimg.com/thumb/msid-135235682,width-1200,height-900,imgsize-164256,overlay-economictimes/articleshow.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Newfoundland and Labrador tech association lays out priorities to unlock province\u2019s budding tech sector | BetaKit",
+      "description": "Newfoundland and Labrador tech association lays out priorities to unlock province\u2019s budding tech sector | BetaKitbetakit.com",
+      "url": "https://betakit.com/newfoundland-and-labrador-tech-association-lays-out-priorities-to-unlock-provinces-budding-tech-sector/",
+      "source": "BetaKit",
+      "date": "2026-10-27",
+      "image": "https://cdn.betakit.com/wp-content/uploads/2026/10/TechNL.webp",
+      "category": "market"
+    },
+    {
+      "title": "The Greatest Ever! Here are 70 Major Trump Accomplishments Since He Retook the White House in 2025",
+      "description": "The wild-eyed Democrat-socialists want to make the midterm election about Trump.\nThe post The Greatest Ever! Here are 70 Major Trump Accomplishments Since He Retook the White House in 2025 appeared first on The Gateway Pundit.",
+      "url": "https://www.thegatewaypundit.com/2026/10/greatest-ever-here-are-70-major-trump-accomplishments/",
+      "source": "Thegatewaypundit.com",
+      "date": "2026-10-27",
+      "image": "https://www.thegatewaypundit.com/wp-content/uploads/2026/08/trump-white-house-photo-fist-1200x630.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Whole-of-state defense: How SLED agencies can secure critical infrastructure in the AI era",
+      "description": "AI is widening the attack surface of the critical infrastructure facilities and services that state, local, and education (SLED) organizations run. In the final post of our Cybersecurity Awareness Month series, we explain how a whole-of-state security approac\u2026",
+      "url": "https://www.tenable.com/blog/whole-of-state-security-sled-critical-infrastructure",
+      "source": "Tenable.com",
+      "date": "2026-10-27",
+      "image": "https://www.tenable.com/sites/default/files/styles/640x360/public/images/articles/Whole-of-state%20defense%20How%20SLED%20agencies%20can%20secure%20critical%20infrastructure%20in%20the%20AI%20era.png?itok=UJkfppEW",
       "category": "geopolitics"
-    },
-    {
-      "title": "Germany's Merz says erosion of global order means middle powers in Europe and Asia must be more assertive",
-      "description": "During a visit to Singapore, German Chancellor Friedrich Merz said Europe and Germany want to increase free trade with open competition, reliability and a rules-based order.",
-      "url": "https://www.dw.com/en/germanys-merz-says-erosion-of-global-order-means-middle-powers-in-europe-and-asia-must-be-more-assertive/live-79772992",
-      "source": "DW (English)",
-      "date": "2026-10-27",
-      "image": "https://static.dw.com/image/79773049_6.jpg",
-      "category": "currency"
-    },
-    {
-      "title": "Germany news: Fall of global order threatens Europe, Asia, Merz says",
-      "description": "During a visit to Singapore, German Chancellor Friedrich Merz spoke about how the erosion of world order presents a threat to the interests of both European and Asian nations.",
-      "url": "https://www.dw.com/en/germany-news-fall-of-global-order-threatens-europe-asia-merz-says/live-79772992",
-      "source": "DW (English)",
-      "date": "2026-10-27",
-      "image": "https://static.dw.com/image/79773049_6.jpg",
-      "category": "currency"
-    },
-    {
-      "title": "What to expect from AXIS Capital\u2019s (AXS) Q3 earnings",
-      "description": "Global specialty insurer AXIS Capital Holdings Limited (NYSE:AXS) will be reporting earnings this Wednesday after market hours. Here's what you need to know.\nAXIS Capital missed analysts' revenue expectations last quarter, reporting revenues of $1.71 billion,\u2026",
-      "url": "https://biztoc.com/x/7de88fccc08a1b5f",
-      "source": "Biztoc.com",
-      "date": "2026-10-27",
-      "image": "https://biztoc.com/cdn/7de88fccc08a1b5f_s.webp",
-      "category": "market"
-    },
-    {
-      "title": "Unfortunately, I Must Hand It to the Trump Administration in This One Instance",
-      "description": "A monopoly on mortgages is finally loosening. Homebuyers aren\u2019t the only ones who stand to benefit.",
-      "url": "https://slate.com/business/2026/10/trump-fico-credit-score-mortgage-monopoly.html",
-      "source": "Slate Magazine",
-      "date": "2026-10-27",
-      "image": "https://compote.slate.com/images/2ed59c56-dbf8-4f04-abf0-0195d2d014aa.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
-      "category": "market"
-    },
-    {
-      "title": "Stocks rise and oil slips on Middle East diplomacy efforts ahead of Big Tech earnings",
-      "description": "Oct 27 : Global stocks rose and oil prices slipped on Tuesday as investors weighed efforts to end the Middle East conflict ahead of US Big Tech earnings, seen as a key test of AI trade, and central bank meetings that could shape the near-term outlook for inte\u2026",
-      "url": "https://www.channelnewsasia.com/business/stocks-rise-and-oil-slips-middle-east-diplomacy-efforts-ahead-big-tech-earnings-6495011",
-      "source": "CNA",
-      "date": "2026-10-27",
-      "image": "https://dam.mediacorp.sg/image/upload/s--uwtG9PE7--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-27T102339Z_1_LYNXNPEM9Q0VR_RTROPTP_3_EUROPE-STOCKS.JPG?itok=8P8Moy7D",
-      "category": "geopolitics"
-    },
-    {
-      "title": "European shares dip as HSBC results weigh on banks ahead of Big Tech earnings",
-      "description": "Oct 27 : European shares slipped on Tuesday, dragged down by banking stocks, after disappointing results from HSBC, while investors also turned cautious ahead of US tech earnings, seen as a key test of the AI trade, and central bank meetings that could shape \u2026",
-      "url": "https://www.channelnewsasia.com/business/european-shares-dip-hsbc-results-weigh-banks-ahead-big-tech-earnings-6495011",
-      "source": "CNA",
-      "date": "2026-10-27",
-      "image": "https://dam.mediacorp.sg/image/upload/s--sQDkx6qM--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-27T045633Z_2_LYNXNPEM9Q0AT_RTROPTP_3_GLOBAL-MARKETS.JPG?itok=BbGRuvVs",
-      "category": "central_bank"
-    },
-    {
-      "title": "The Democrats Need a Daddy. I Know Exactly Who It Should Be.",
-      "description": "This sure is the midterms of Democratic thirst.",
-      "url": "https://slate.com/news-and-politics/2026/10/el-sayed-ossoff-hot-democrats-midterms.html",
-      "source": "Slate Magazine",
-      "date": "2026-10-27",
-      "image": "https://compote.slate.com/images/44dfbcdf-78a3-48d9-944f-5f11860dba0e.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
-      "category": "market"
-    },
-    {
-      "title": "Election fraud: The Trump administration is already sowing seeds of doubt about midterm election results",
-      "description": "The federal government doesn\u2019t have to interfere with the mechanics of the voting process to disrupt the upcoming elections in America. Shaking the confidence of voters in the integrity of the process or its results, or scaring them out of going to vote is en\u2026",
-      "url": "https://www.livemint.com/opinion/online-views/election-fraud-trump-administration-sowing-doubt-about-midterm-election-results-11793019239255.html",
-      "source": "Livemint",
-      "date": "2026-10-27",
-      "image": "https://www.livemint.com/lm-img/img/2026/10/27/1600x900/logo/american_voting_istock_1793086465391_pRZQ_1793086472734_J02w_99eaa0a5-8a26-49b9-ac04-d71138174f4c_u3Dt.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "Dollar firms ahead of central bank meetings, steadier stocks stall safe haven play",
-      "description": "LONDON Oct 27 : The dollar nudged higher on the euro, yen and pound on Tuesday, as traders braced for a barrage of major central bank meetings that will shape the interest rate outlook, as well as key corporate earnings that could ripple through all asset cla\u2026",
-      "url": "https://www.channelnewsasia.com/business/dollar-firms-ahead-central-bank-meetings-steadier-stocks-stall-safe-haven-play-6495086",
-      "source": "CNA",
-      "date": "2026-10-27",
-      "image": "https://dam.mediacorp.sg/image/upload/s--lSlz8Pnj--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-27T045754Z_3_LYNXNPEM9Q054_RTROPTP_3_JAPAN-ECONOMY-YEN.JPG?itok=4-9CguXQ",
-      "category": "central_bank"
-    },
-    {
-      "title": "ICC Sanctions Lawsuit Tests Trump\u2019s Power Over Americans\u2019 Speech",
-      "description": "The Trump administration sanctioned the International Criminal Court earlier this month, testing emergency powers and troop protection claims.",
-      "url": "https://military.com/icc-sanctions-lawsuit-tests-trumps-power-over-americans-speech",
-      "source": "Military.com",
-      "date": "2026-10-27",
-      "image": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/09/ap26265499329040.jpg?w=1600&h=900&fit=crop",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Trump Accounts are just the beginning. Young Americans need a path to homeownership",
-      "description": "A former FHA commissioner who enrolled daughter Margot in a Trump account in March of 2025 proposes a Trump mortgage to slash homebuyer rates.",
-      "url": "https://www.foxnews.com/opinion/trump-accounts-beginning-young-americans-need-path-homeownership",
-      "source": "Fox News",
-      "date": "2026-10-27",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/president-trump-102326.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Outback mining jobs are on the rise, with no workers to fill them",
-      "description": "A number of mining operations are set to restart in outback Queensland but, with a national shortage of skilled workers, companies fear production will suffer.",
-      "url": "https://www.abc.net.au/news/2026-10-27/outback-mining-jobs-queensland-workforce-shortage/107308390",
-      "source": "ABC News (AU)",
-      "date": "2026-10-26",
-      "image": "https://live-production.wcms.abc-cdn.net.au/ffef9f53f19d75a1491338fb2a10a483?impolicy=wcms_watermark_news&cropH=874&cropW=1554&xPos=50&yPos=0&width=862&height=485&imformat=generic",
-      "category": "supply_demand"
     }
   ],
   "history": [
@@ -517,7 +517,7 @@
       "platinum_usd_oz": 1681.4
     }
   ],
-  "timestamp": "2026-10-28T15:23:54.026074+05:30",
+  "timestamp": "2026-10-28T18:49:14.064192+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
