@@ -54,7 +54,7 @@
         "hold": 50
       },
       "summary": "Gold is showing positive signals. Strong daily gain of 1.1%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-30T10:17:12.139477",
+      "timestamp": "2026-10-30T13:16:10.191830",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 50
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 1.8%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-30T10:17:12.215250",
+      "timestamp": "2026-10-30T13:16:10.303879",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 50
       },
       "summary": "Platinum is showing positive signals. Strong daily gain of 2.1%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-30T10:17:12.295073",
+      "timestamp": "2026-10-30T13:16:10.382491",
       "source": "rule-based"
     }
   },
@@ -135,13 +135,67 @@
   },
   "news": [
     {
-      "title": "Gold price loses more than 50 USD/ounce, silver and platinum sharply decrease due to hot news from the US - Laodong.vn",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUUtISzR4cHpEZ3JrVThiMDFlWjhWT2EwM1hhUUZJUjd0RGNiendGbUNwM0hlS3lRTnVZc2lEQ29nV3hteVNGR3p6S2ZSa2U1OHQ4N3VqR0M0M2o4anlyc2VZSmhYLUZKVVNpRkJEdVYtTTRwNlVzSWNRN01zOXZxSHd5bTB0RWNycEtDR1k2VlBRMWMwQzVpNl9xcDZOcDY4X2JFS1pmdUlaNkxjRzdNbmwzTUp3VmdfMH",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUUtISzR4cHpEZ3JrVThiMDFlWjhWT2EwM1hhUUZJUjd0RGNiendGbUNwM0hlS3lRTnVZc2lEQ29nV3hteVNGR3p6S2ZSa2U1OHQ4N3VqR0M0M2o4anlyc2VZSmhYLUZKVVNpRkJEdVYtTTRwNlVzSWNRN01zOXZxSHd5bTB0RWNycEtDR1k2VlBRMWMwQzVpNl9xcDZOcDY4X2JFS1pmdUlaNkxjRzdNbmwzTUp3VmdfMHlqc0wwLWI?oc=5",
-      "source": "Google News - Precious Metals",
+      "title": "India bonds buckle for fourth straight month on oil's climb",
+      "description": "Indian government bonds ended October with losses, marking a fourth consecutive decline in bond yields. Brent crude oil prices surged, raising inflation concerns for the country. The Reserve Bank of India raised its policy rate for the first time in nearly four years this month. Foreign investments ",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-buckle-for-fourth-straight-month-on-oils-climb/articleshow/135361502.cms",
+      "source": "Economic Times Markets",
       "date": "2026-10-30",
       "image": "",
       "category": "currency"
+    },
+    {
+      "title": "Gold Falls Below $4,000 as the Safe-Haven Trade Turns Upside Down - CoinWeek",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQVHpaam9tcHowUVpuNWtEVGlJVHAzaXpGX2tJbHdnN0F4dVByQTlQaXNwXzU3SGtETXpSWjN1RXBfdjk4RG5MbG9HQUMxbEFBR25fZllTWm1nZ2lER2h6Vy0wTC00dE5DcGdyaWtVRkJwZnZ2ZzgzQmd5a2NudlhjWXJ3cF9aOXozaTh3aUF3?oc=5\" target=\"_blank\">Gold Falls Below $4,000 as the Safe",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVHpaam9tcHowUVpuNWtEVGlJVHAzaXpGX2tJbHdnN0F4dVByQTlQaXNwXzU3SGtETXpSWjN1RXBfdjk4RG5MbG9HQUMxbEFBR25fZllTWm1nZ2lER2h6Vy0wTC00dE5DcGdyaWtVRkJwZnZ2ZzgzQmd5a2NudlhjWXJ3cF9aOXozaTh3aUF3?oc=5",
+      "source": "Google News - Precious Metals",
+      "date": "2026-10-30",
+      "image": "",
+      "category": "metals"
+    },
+    {
+      "title": "Event Recap: \u201cThe Rise of Agentic AI: What It Means for Climate Innovation\u201d",
+      "description": "Panelists discussed how agentic AI is beginning to reshape Earth systems modeling, improve climate predictions and support adaptive decision-making.",
+      "url": "https://news.climate.columbia.edu/2026/10/29/event-recap-agentic-ai-and-climate-innovation/",
+      "source": "Columbia.edu",
+      "date": "2026-10-29",
+      "image": "https://media.news.climate.columbia.edu/wp-content/uploads/2026/10/Agentic-AI-Event-Diane-Bondareff-1300x931.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Morning Minute: Hedge Funds Left the BTC ETF Trade and Sovereign Wealth Stepped In",
+      "description": "Now the BTC ETFs have flipped green for the month after $400M+ inflows this week, setting the stage for a big November.",
+      "url": "https://decrypt.co/382135/morning-minute-hedge-funds-left-the-btc-etf-trade-and-sovereign-wealth-stepped-in",
+      "source": "Decrypt",
+      "date": "2026-10-29",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/08/bitcoin-savings-decrypt-style-gID_7.jpg",
+      "category": "market"
+    },
+    {
+      "title": "EP241: Root Causes: Exploring the Hidden Links Between Your Mouth and Your Health - Corbin Popp, DMD - BetterHealthGuy.com",
+      "description": "BetterHealthGuy.com shares nearly 30 years of insights on Lyme disease, mold illness, and the complex factors that often contribute to chronic illness.",
+      "url": "https://www.betterhealthguy.com/ep241",
+      "source": "Betterhealthguy.com",
+      "date": "2026-10-29",
+      "image": "https://www.betterhealthguy.com/images/podcast/episodes/ep241.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Reliance Jio Platforms: Should mutual fund investors watch for overlapping exposure to RIL or Bharti Airtel? Decoded",
+      "description": "Jio Platforms\u2019 listing adds a new stock for mutual funds to consider. Experts explain how holding Jio alongside Reliance Industries could create group-level overlap, while pairing it with Bharti Airtel could increase telecom sector concentration. Here\u2019s what \u2026",
+      "url": "https://www.livemint.com/money/personal-finance/reliance-jio-platforms-should-mutual-fund-investors-watch-for-overlapping-exposure-to-ril-or-bharti-airtel-decoded-11793267580865.html",
+      "source": "Livemint",
+      "date": "2026-10-29",
+      "image": "https://www.livemint.com/lm-img/img/2026/10/29/1600x900/logo/mutual_o_1793270627955_w8kL_1793270633948_jmlQ_2b74472c-0e3f-4a75-8577-5417fe6a0f89_RLyS.png",
+      "category": "market"
+    },
+    {
+      "title": "Midnight Sun Appoints Independent Chairman and Nominates Two Senior Mining and Capital Markets Executives to Board",
+      "description": "VANCOUVER, British Columbia, Oct. 29, 2026 (GLOBE NEWSWIRE) \u2014 Midnight Sun Mining Corp. (TSXV: MMA / OTCQX: MDNGF) (\u201cMidnight Sun\u201d or the \u201cCompany\u201d) is pleased to announce the appointment of a Chairman of the Board, as well as the nomination of two new, highl\u2026",
+      "url": "https://financialpost.com/globe-newswire/midnight-sun-appoints-independent-chairman-and-nominates-two-senior-mining-and-capital-markets-executives-to-board",
+      "source": "Financial Post",
+      "date": "2026-10-29",
+      "image": null,
+      "category": "supply_demand"
     },
     {
       "title": "United Airlines Unveils 30 New Polaris Dishes In Latest Menu Refresh",
@@ -171,49 +225,40 @@
       "category": "central_bank"
     },
     {
-      "title": "Finance ministry estimates India\u2019s Q2 FY27 GDP growth at 7.35%",
-      "description": "The finance ministrys nowcasting model estimates Indias GDP will grow 7.35% in Q2 FY27, following 7.8% growth in the previous quarter, supported by stronger industrial output, energy consumption, port traffic, GST collections and automobile sales.",
-      "url": "https://economictimes.indiatimes.com/news/economy/indicators/finance-ministry-estimates-indias-q2-fy27-gdp-growth-at-7-35/articleshow/135298426.cms",
+      "title": "Gold price, silver rate today: Why are gold rate, silver price down on Thursday? What to expect in November?",
+      "description": "Gold rate today fell as the precious metal saw topsy-turvy month of October. Silver price was also down along with platinum and palladium.",
+      "url": "https://economictimes.indiatimes.com/news/international/us/gold-price-silver-rate-today-why-are-gold-rate-silver-price-down-on-thursday-what-to-expect-in-november/articleshow/135314480.cms",
       "source": "The Times of India",
       "date": "2026-10-29",
-      "image": "https://img.etimg.com/thumb/msid-135298472,width-1200,height-900,imgsize-93394,overlay-economictimes/articleshow.jpg",
-      "category": "market"
+      "image": "https://img.etimg.com/thumb/msid-135315344,width-1200,height-900,imgsize-164702,overlay-economictimes/articleshow.jpg",
+      "category": "platinum"
     },
     {
-      "title": "Gold taxation explained: How much tax you pay on selling gold jewellery, ETFs, fund of funds and SGBs",
-      "description": "Tax on capital gains from gold investment: Investing in gold can yield gains, but investors must be informed about the associated tax liabilities. Different types of gold investments, including physical gold, ETFs, and FoFs, have varying tax implications. Gol\u2026",
-      "url": "https://economictimes.indiatimes.com/wealth/tax/gold-taxation-how-much-income-tax-you-pay-on-selling-gold-jewellery-etfs-funds-of-funds-and-sgbs/articleshow/135297885.cms",
-      "source": "The Times of India",
+      "title": "GoldHaven Reaches 3,000 Metres Drilled at Magno, Advances High-Grade Silver-Lead-Zinc Targets in British Columbia\u2019s Cassiar District",
+      "description": "Drilling continues at D Zone as GoldHaven explores a silver-rich mineralized system sharing key geological characteristics with Coeur Mining\u2019s Silvertip deposit VANCOUVER, British Columbia, Oct. 29, 2026 (GLOBE NEWSWIRE) \u2014 GoldHaven Resources Corp. (\u201cGoldHave\u2026",
+      "url": "https://financialpost.com/globe-newswire/goldhaven-reaches-3000-metres-drilled-at-magno-advances-high-grade-silver-lead-zinc-targets-in-british-columbias-cassiar-district",
+      "source": "Financial Post",
       "date": "2026-10-29",
-      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1444945,resizemode-75,msid-135297885/wealth/tax/gold-taxation-how-much-income-tax-you-pay-on-selling-gold-jewellery-etfs-funds-of-funds-and-sgbs.jpg",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/10/figure-1-29.jpeg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Apollo Silver Delivers Positive PEA for Calico",
+      "description": "After-tax NPV5% of US$737 million and 25% IRR at US$55/oz silver; average annual production of 5 Moz silver as on-site dor\u00e9 over a 15-year mine life; initial capital of US$633 million VANCOUVER, British Columbia, Oct. 29, 2026 (GLOBE NEWSWIRE) \u2014 Apollo Silver\u2026",
+      "url": "https://financialpost.com/globe-newswire/apollo-silver-delivers-positive-pea-for-calico",
+      "source": "Financial Post",
+      "date": "2026-10-29",
+      "image": null,
+      "category": "supply_demand"
+    },
+    {
+      "title": "Zacatecas Silver Receives Drill Permit and Finalizes Maiden Drill Program at Oso Negro, Sonora",
+      "description": "VANCOUVER, British Columbia, Oct. 29, 2026 (GLOBE NEWSWIRE) \u2014 Zacatecas Silver Corp. (TSXV: ZAC | OTCQB: ZCTSF | FRA: 7TV) (\u201cZacatecas Silver\u201d or the \u201cCompany\u201d) is pleased to announce that it has received the drill permit for its Oso Negro gold-silver project\u2026",
+      "url": "https://financialpost.com/globe-newswire/zacatecas-silver-receives-drill-permit-and-finalizes-maiden-drill-program-at-oso-negro-sonora",
+      "source": "Financial Post",
+      "date": "2026-10-29",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/10/figure-1-24.jpeg",
       "category": "metals"
-    },
-    {
-      "title": "\u2018Economic incentives are limited\u2019: What does Russia really offer Africa?",
-      "description": "African nations weigh political incentives as Moscow offers limited economic benefits compared with China and the West.",
-      "url": "https://www.aljazeera.com/features/2026/10/29/wagners-shadow-looms-as-russia-reshapes-african-military-alliances",
-      "source": "Al Jazeera English",
-      "date": "2026-10-29",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ae1bd5972286-1793178969.jpg?resize=1920%2C1440",
-      "category": "market"
-    },
-    {
-      "title": "Diwali 2026 shopping: Planning to buy silver coins, jewellery or utensils? How to check purity levels and hallmarking",
-      "description": "Planning to buy silver coins, jewellery or utensils this Diwali? Know what purity grades such as 999, 925 and 800 mean, whether hallmarking is mandatory, how to verify a six-digit HUID using the BIS Care app, and what buyers should check before making a purch\u2026",
-      "url": "https://www.livemint.com/money/personal-finance/diwali-2026-shopping-planning-to-buy-silver-coins-jewellery-or-utensils-how-to-check-purity-levels-and-hallmarking-11793257659708.html",
-      "source": "Livemint",
-      "date": "2026-10-29",
-      "image": "https://www.livemint.com/lm-img/img/2026/10/29/1600x900/logo/silverr_1793260736983_FvLY_1793260741037_PO22_2ea65470-fecf-42bb-8676-c7eb4dc43249_s7wk.png",
-      "category": "metals"
-    },
-    {
-      "title": "US sanctions Rwanda's defence ministry over DR Congo conflict",
-      "description": "Congo accuses Rwanda of backing M23 rebels and plundering minerals in its conflict hit East",
-      "url": "https://www.bbc.co.uk/news/articles/cm87zw51qw0jo",
-      "source": "BBC News",
-      "date": "2026-10-29",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4b44/live/af8c7ae0-d35b-11f1-bf17-db0635e21017.jpg",
-      "category": "geopolitics"
     },
     {
       "title": "Gold drops nearly 1%, silver slides over 2%",
@@ -243,166 +288,121 @@
       "category": "central_bank"
     },
     {
-      "title": "Economic Digest: A Snapshot of Nepal\u2019s Business News",
-      "description": "KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. Nepal\u2019s economic outlook presents a mixed picture, combining positive financial market performance and \u2026",
-      "url": "https://english.khabarhub.com/2026/29/573527/",
-      "source": "Khabarhub.com",
-      "date": "2026-10-29",
-      "image": "https://english.khabarhub.com/wp-content/uploads/2024/05/Economic-Digest.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Study confirms FireFly on track to be a significant copper producer",
-      "description": "Green Bay also has potential for further growth in the Mineral Resource and forecast production rates, as shown by the latest VMS discovery 35km from Ming Mine QUARTERLY HIGHLIGHTS A Preliminary Economic Assessment (PEA) supported by an independent technical \u2026",
-      "url": "https://financialpost.com/globe-newswire/study-confirms-firefly-on-track-to-be-a-significant-copper-producer",
+      "title": "The Kingsland Shoe Project Launches Officially Licensed NBA Shoe Trees",
+      "description": "Fresh Flow\u2122 Shoe Trees debut in eight NBA team editions, bringing a modern approach to shoe care ahead of the 2026-27 season LOS ANGELES \u2014 The Kingsland Shoe Project (KSP), creator of Fresh Flow\u2122 Shoe Trees designed for the way people wear, store, and travel \u2026",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/the-kingsland-shoe-project-launches-officially-licensed-nba-shoe-trees",
       "source": "Financial Post",
       "date": "2026-10-29",
       "image": null,
+      "category": "market"
+    },
+    {
+      "title": "New Foton Tunland is a Chinese 'luxury' pick-up that's on the way to the UK",
+      "description": "Boldly styled mild-hybrid diesel-powered pick-up will launch here early next year",
+      "url": "https://www.autoexpress.co.uk/news/370790/new-foton-tunland-chinese-luxury-pick-thats-way-uk",
+      "source": "AutoExpress",
+      "date": "2026-10-29",
+      "image": "https://images.autoexpress.co.uk/autoexpress/2026/10/Foton%20Tunland%20-%20front%203_4_a8xau6.jpg?w=1260&h=710&fit=crop&q=75&auto=format,compress&dpr=1",
+      "category": "market"
+    },
+    {
+      "title": "iA Financial Group Announces a $75,000 Donation to the Canadian Red Cross Wainwright Tragedy Appeal",
+      "description": "iA Financial Group is donating $75,000 to the Canadian Red Cross Wainwright Tragedy Appeal. The contribution will help meet the immediate needs of those affected by the disaster and address the impacts on individuals and families, while supporting the recover\u2026",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/ia-financial-group-announces-a-75000-donation-to-the-canadian-red-cross-wainwright-tragedy-appeal",
+      "source": "Financial Post",
+      "date": "2026-10-29",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "UNA Sports Group Leads Investment in The Curling Group to Build the Future of Professional Curling",
+      "description": "UNA and Relay Ventures back the company behind the Grand Slam of Curling and Rock League as it scales a fast-growing, global audience. NEW YORK & TORONTO \u2014 UNA Sports Group (\u201cUNA\u201d), a sports investment firm that builds franchises in emerging, high-growth leag\u2026",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/una-sports-group-leads-investment-in-the-curling-group-to-build-the-future-of-professional-curling",
+      "source": "Financial Post",
+      "date": "2026-10-29",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "IOH boasts accelerating AI revenues and investments",
+      "description": "Indosat Ooredoo Hutchison (IOH) has been focused on the development of AI services and supporting infrastructure for some timeNow it is reporting modest but ac\u2026",
+      "url": "https://www.telecomtv.com/content/ai/ioh-boasts-accelerating-ai-revenues-and-investments-56558/",
+      "source": "TelecomTV",
+      "date": "2026-10-29",
+      "image": "https://assets.telecomtv.com/assets/telecomtv/indosat-ioh-source-ioh-23436.jpg?w=1200",
+      "category": "market"
+    },
+    {
+      "title": "BAE Systems tweaks BvS 10 All-Terrain Vehicle for Indian Army\u2019s high-altitude needs",
+      "description": "L&T is doing the licence production of the BvS 10 Sindhu at its Armoured Systems Complex, Hazira, Gujarat, on the basis of the ToT by the BAE Systems",
+      "url": "https://www.thehindubusinessline.com/news/bae-systems-tweaks-bvs-10-all-terrain-vehicle-for-indian-armys-high-altitude-needs/article71640497.ece",
+      "source": "BusinessLine",
+      "date": "2026-10-29",
+      "image": "https://bl-i.thgim.com/public/incoming/qypssc/article71640811.ece/alternates/LANDSCAPE_1200/20261028393L.jpg",
       "category": "supply_demand"
     },
     {
-      "title": "Mid-game strategy: Short-term volatility leaves long-term trend of great power competition unchanged",
-      "description": "Industrial Securities FUZHOU, China, Oct. 29, 2026 (GLOBE NEWSWIRE) \u2014 A recent report by Wang Han, Chief Global Economist at Industrial Securities, points out that despite mounting market volatility since July this year, the fundamental drivers powering the m\u2026",
-      "url": "https://financialpost.com/globe-newswire/mid-game-strategy-short-term-volatility-leaves-long-term-trend-of-great-power-competition-unchanged",
-      "source": "Financial Post",
+      "title": "Gerry Cardinale\u2019s RedBird and Guy Oseary\u2019s Sound Ventures Team on $1 Billion Fund Targeting Tech, Media and Culture Investments",
+      "description": "Gerry Cardinale\u2019s RedBird Capital Partners, coming off its major investment in David Ellison\u2019s Skydance, announced a pact with Guy Oseary\u2019s Sound Ventures to jointly invest up to $1 billion in \u201cemerging platforms at the convergence of technology, media and cu\u2026",
+      "url": "https://variety.com/2026/biz/news/gerry-cardinale-redbird-guy-oseary-sound-ventures-investment-fund-1236934092/",
+      "source": "Variety",
       "date": "2026-10-29",
-      "image": null,
+      "image": "https://variety.com/wp-content/uploads/2026/10/Gerry-Cardinale-Guy-Oseary.jpg?w=1000&h=563&crop=1",
       "category": "market"
     },
     {
-      "title": "India's GDP growth seen at 7.35% in Q2 FY27 amid risks: Finance ministry",
-      "description": "Stronger industrial output, energy consumption, port traffic, GST collections and auto sales support the growth outlook, while inflation, energy price volatility and geopolitical tensions pose risks",
-      "url": "https://www.business-standard.com/economy/news/india-s-gdp-growth-seen-at-7-35-in-q2-fy27-amid-risks-finance-ministry-126102900958_1.html",
-      "source": "Business Standard",
-      "date": "2026-10-29",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-09/02/thumb/featurecrop/1200X628/1725274401-1311.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "George Cheeks sets Skydance TV leadership across studios, sports, entertainment, news",
-      "description": "Skydance TV co-chair and chief content officer George Cheeks has named the leadership team that will work under him across the company\u2019s studios business, entertainment, sports and news. In a let...",
-      "url": "https://www.c21media.net/news/george-cheeks-sets-skydance-tv-leadership-across-studios-sports-entertainment-news/",
-      "source": "C21media.net",
-      "date": "2026-10-29",
-      "image": "https://cdn.c21media.net/wp-content/uploads/2026/10/george-cheeks-ls.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Former Walmart and IKEA Executive Says \u2018You Cannot Meditate Your Way Out of Burnout\u2019",
-      "description": "In \u201cBreaking Burnout,\u201d Nabeela Elsayed argues burnout stems from the definition of success we inherited TORONTO, Oct. 29, 2026 (GLOBE NEWSWIRE) \u2014 Nabeela Elsayed spent more than two decades rising from barista to the C-suite, serving as chief human resources \u2026",
-      "url": "https://financialpost.com/globe-newswire/former-walmart-and-ikea-executive-says-you-cannot-meditate-your-way-out-of-burnout",
-      "source": "Financial Post",
-      "date": "2026-10-29",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/10/nabeela-elsayed-head-shot.jpeg",
-      "category": "market"
-    },
-    {
-      "title": "Distinguished clinician-scientist Professor Marcus Ong is first Singaporean emergency medicine physician elected to National Academy of Medicine, USA",
-      "description": "Professor Marcus Ong Eng Hock, Senior Consultant, Department of Emergency Medicine, Singapore General Hospital (SGH), has become the first Emergency Medicine ...",
-      "url": "https://en.antaranews.com/news/438659/distinguished-clinician-scientist-professor-marcus-ong-is-first-singaporean-emergency-medicine-physician-elected-to-national-academy-of-medicine-usa",
-      "source": "Antaranews.com",
-      "date": "2026-10-29",
-      "image": "https://cdn.antaranews.com/cache/1200x800/2026/10/29/marcus.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Beyond semi-lockdown: Global lessons for a sustainable Delhi-NCR",
-      "description": "Delhi has announced a four-month semi-lockdown against toxic air. It is a bold step, but the fight is not new.",
-      "url": "https://timesofindia.indiatimes.com/toi-blogs/urban-life/beyond-semi-lockdown-global-lessons-for-a-sustainable-delhi-ncr/articleshow/135300491.cms",
-      "source": "The Times of India",
-      "date": "2026-10-29",
-      "image": "https://static.toiimg.com/thumb/msid-135300754,width-1280,height-720,resizemode-6,overlay-toiblogs,pt-32,x_pad-1045,y_pad-670/photo.jpg",
-      "category": "market"
-    },
-    {
-      "title": "MEXC Reports 88% Growth in AI-Related Tokenized U.S. Stock and ETF Trading Volume in September, With Four Infrastructure Sectors Up Over 90%",
-      "description": "Mutsamudu, Comoros, October 29, 2026 \u2013 MEXC, a pioneer in 0-fee digital asset trading, has released its September TradFi trading data. Tokenized U.S. stock spot trading volume rose 81% month over month, while trading volume for AI-related assets grew 88%. Sem\u2026",
-      "url": "https://www.newsbtc.com/news/mexc-reports-88-growth-in-ai-related-tokenized-u-s-stock-and-etf-trading-volume-in-september-with-four-infrastructure-sectors-up-over-90/",
-      "source": "newsBTC",
-      "date": "2026-10-29",
-      "image": "https://www.newsbtc.com/wp-content/uploads/2026/10/photo_2026-10-29_05-19-56.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Indian economy may sustain expansion through FY27, says Finance Ministry\u2019s monthly economic review",
-      "description": "Strong industrial activity, resilient services and domestic credit growth are supporting economic momentum, even as policymakers confront inflation and external uncertainties",
-      "url": "https://www.thehindubusinessline.com/economy/indian-economy-may-sustain-expansion-through-fy27-says-finance-ministrys-monthly-economic-review/article71639965.ece",
-      "source": "BusinessLine",
-      "date": "2026-10-29",
-      "image": "https://bl-i.thgim.com/public/incoming/fnnvfr/article71640003.ece/alternates/LANDSCAPE_1200/indian%20economy%20illustration.jpg",
-      "category": "inflation"
-    },
-    {
-      "title": "Hacktivists leak 41,000 DHS staff records, revealing undercover ICE agents",
-      "description": "Names, offices, contact details and assignments of more than 41,000 U.S. Department of Homeland Security (DHS) employees have been leaked by a hacktivist group calling itself the Department of Peace. The group handed the data to the transparency collective Di\u2026",
-      "url": "https://www.helpnetsecurity.com/2026/10/29/icepick-dhs-leak-ice-undercover-agents/",
-      "source": "Help Net Security",
-      "date": "2026-10-29",
-      "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/09/02152933/data_leak-1500.webp",
-      "category": "market"
-    },
-    {
-      "title": "AI has come for Arizona\u2019s water",
-      "description": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The complex is simultaneously massive and s\u2026",
-      "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
-      "source": "The Verge",
-      "date": "2026-10-29",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268658_Data_center_AZ_LEDE_VOSSS50.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "category": "market"
-    },
-    {
-      "title": "Opinion: Does Ottawa even care about getting value for taxpayers\u2019 money?",
-      "description": "Few departments do value-for-money evaluations. Instead they ask program beneficiaries if they're happy to get the money. They usually are",
-      "url": "https://financialpost.com/opinion/opinion-does-ottawa-even-care-about-getting-value-for-taxpayers-money",
-      "source": "Financial Post",
-      "date": "2026-10-29",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/10/1029-mg-gov-spending.jpg",
-      "category": "market"
-    },
-    {
-      "title": "It's a 'socialist' bank \u2014 and North Dakota Republicans love it",
-      "description": "Democratic socialist candidates have held up North Dakota's state-owned bank as a model to emulate.",
-      "url": "https://www.cnbc.com/2026/10/29/bank-north-dakota-socialism-election.html",
-      "source": "CNBC",
-      "date": "2026-10-29",
-      "image": "https://image.cnbcfm.com/api/v1/image/108451738-1792762354235-d0303-00001-jpg636942861313966327.jpg?v=1793226828&w=1920&h=1080",
-      "category": "market"
-    },
-    {
-      "title": "AI Tried to Buy the Midterms \u2014 Then the Lobby Learned Everyone Hates AI",
-      "description": "Facing bipartisan backlash and a decaying reputation, AI super PACs are changing tactics. We tracked their election spending so far.\nThe post AI Tried to Buy the Midterms \u2014 Then the Lobby Learned Everyone Hates AI appeared first on The Intercept.",
-      "url": "https://theintercept.com/2026/10/29/midterms-election-money-ai-super-pac/",
-      "source": "The Intercept",
-      "date": "2026-10-29",
-      "image": "https://theintercept.com/wp-content/uploads/2026/10/ai_header.jpg?fit=8333%2C4167&w=1200&h=800",
-      "category": "market"
-    },
-    {
-      "title": "Convera warns global competition for capital will drive wider currency swings in 2027",
-      "description": "AI investment, government borrowing and geopolitical shocks are widening FX outcomes, making scenario planning and dynamic hedging critical for businesses SEATTLE and LONDON, Oct. 29, 2026 /PRNewswire/ -- Convera, a global leader in commercial payments, today\u2026",
-      "url": "https://www.prnewswire.co.uk/news-releases/convera-warns-global-competition-for-capital-will-drive-wider-currency-swings-in-2027-302922857.html",
+      "title": "entourage CEO Mohammed Tayem urges regional creative businesses to turn homegrown ideas into global exports",
+      "description": "DUBAI, UAE, Oct. 29, 2026 /PRNewswire/ -- Mohammed Tayem, Founder and CEO of entourage and Partner and Board Member at TGW Live, has urged regional creative businesses to stop adapting international ideas and start exporting their own, turning homegrown talen\u2026",
+      "url": "https://www.prnewswire.co.uk/news-releases/entourage-ceo-mohammed-tayem-urges-regional-creative-businesses-to-turn-homegrown-ideas-into-global-exports-302923751.html",
       "source": "PR Newswire UK",
       "date": "2026-10-29",
-      "image": "https://mmx.prnewswire.com/media/MS1989703/Convera_2Color-Dark1_NoTagline.jpg?id=OA3044820&p=facebook",
+      "image": "https://mmx.prnewswire.com/media/MS2023617/Mohammed-Tayem-Founder-CEO-entourage.jpg?id=OA3047430&p=facebook",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Bank of Russia confirms self-custody wallet restrictions exclude international payments",
+      "description": "Russia's crypto policy maintains international trade flexibility amid sanctions, while domestically tightening control over digital transactions.\nThe post Bank of Russia confirms self-custody wallet restrictions exclude international payments appeared first o\u2026",
+      "url": "https://cryptobriefing.com/bank-of-russia-self-custody-wallet-international-payments/",
+      "source": "Crypto Briefing",
+      "date": "2026-10-29",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/29090609/library-bank-of-russia-confirms-self-custody-wallet-restrictions-800x450.png",
       "category": "geopolitics"
     },
     {
-      "title": "ASA puts gold investment ads in the spotlight with new enforcement notice - Lewis Silkin",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbUplMTNQQlo4STlvbnBuWm1CVHBOeVhRY1ROUVhRNjhmNWd4NnRGNmZ1c0piQ1dVZmEzeFBmSmU4dmRFOXIzT1REVFJobDZ4Z0VSSVVIQW1Ob2lBdDNsZXRJczdIaENMRDNzbU4yaHc2VFhNcnlwdUtVUjlWUnRVeDJKaVgxRlk3dWR5bWE1blZnTS1TdklNTGxZVW1meC1GS2lKbFRWTkJTY1FlYmgzbmlLRnQ1NzFGM0",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbUplMTNQQlo4STlvbnBuWm1CVHBOeVhRY1ROUVhRNjhmNWd4NnRGNmZ1c0piQ1dVZmEzeFBmSmU4dmRFOXIzT1REVFJobDZ4Z0VSSVVIQW1Ob2lBdDNsZXRJczdIaENMRDNzbU4yaHc2VFhNcnlwdUtVUjlWUnRVeDJKaVgxRlk3dWR5bWE1blZnTS1TdklNTGxZVW1meC1GS2lKbFRWTkJTY1FlYmgzbmlLRnQ1NzFGM0JRYVYtMHEtcmRSa0NNYg?oc=5",
-      "source": "Google News - Precious Metals",
+      "title": "AppViewX Expands Quantum Trust Hub with Cryptographic Discovery, Posture Management, and Remediation",
+      "description": "New York, New York, 29th October 2026, CyberNewswire",
+      "url": "https://www.nextbigfuture.com/2026/10/appviewx-expands-quantum-trust-hub-with-cryptographic-discovery-posture-management-and-remediation.html",
+      "source": "Next Big Future",
       "date": "2026-10-29",
-      "image": "",
-      "category": "metals"
+      "image": null,
+      "category": "market"
     },
     {
-      "title": "First Quantum Minerals Reports Third Quarter 2026 Results",
-      "description": "(In United States (\u201cUS\u201d) dollars, except where noted otherwise) TORONTO, Oct. 28, 2026 (GLOBE NEWSWIRE) \u2014 First Quantum Minerals Ltd. (\u201cFirst Quantum\u201d or the \u201cCompany\u201d) (TSX: FM) today reports results for the three and nine months ended September 30, 2026 (\u201cQ\u2026",
-      "url": "https://financialpost.com/globe-newswire/first-quantum-minerals-reports-third-quarter-2026-results",
-      "source": "Financial Post",
-      "date": "2026-10-28",
+      "title": "Bitcoin options carried a far smaller election premium than in 2024",
+      "description": "A smaller premium in the October 26 options snapshot puts the focus on political surprise and sustained buying ahead of November 3.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your in\u2026",
+      "url": "https://cryptoslate.com/bitcoin-holders-waiting-for-a-2024-style-election-rally-face-a-different-test/",
+      "source": "CryptoSlate",
+      "date": "2026-10-29",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-policy-election-watch.webp",
+      "category": "market"
+    },
+    {
+      "title": "Dallas County has abandoned Sand Branch for decades. Now it must finally deliver clean water",
+      "description": "A devastating fire exposed the dangers of life without running water. Dallas County and Texas leaders have the money and power to end this shameful neglect.",
+      "url": "http://www.dallasobserver.com/opinion/dallas-county-has-abandoned-sand-branch-for-decades-now-it-must-finally-deliver-clean-water-40728276/",
+      "source": "Dallas Observer",
+      "date": "2026-10-29",
+      "image": "https://www.dallasobserver.com/wp-content/uploads/sites/3/ww-media/mediaserver/dal/2021-43/sandbranch_water-8-e1793275879465.webp",
+      "category": "market"
+    },
+    {
+      "title": "Thursday, October 29, 2026",
+      "description": "KFF Health News is a national newsroom that produces in-depth journalism about health issues and is one of the core operating programs at KFF\u2014an independent source of health policy research, polling, and journalism. Learn more about KFF. This article first ap\u2026",
+      "url": "https://kffhealthnews.org/morning-briefing/thursday-october-29-2026/",
+      "source": "Kffhealthnews.org",
+      "date": "2026-10-29",
       "image": null,
-      "category": "currency"
+      "category": "market"
     }
   ],
   "history": [
@@ -517,7 +517,7 @@
       "platinum_usd_oz": 1681.4
     }
   ],
-  "timestamp": "2026-10-30T15:47:12.303181+05:30",
+  "timestamp": "2026-10-30T18:46:10.395526+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
