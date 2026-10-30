@@ -54,7 +54,7 @@
         "hold": 50
       },
       "summary": "Gold is showing positive signals. Strong daily gain of 1.1%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-30T16:07:53.051785",
+      "timestamp": "2026-10-30T18:08:47.342492",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 50
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 1.8%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-30T16:07:53.178162",
+      "timestamp": "2026-10-30T18:08:47.425962",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 50
       },
       "summary": "Platinum is showing positive signals. Strong daily gain of 2.1%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-30T16:07:53.304367",
+      "timestamp": "2026-10-30T18:08:47.602429",
       "source": "rule-based"
     }
   },
@@ -135,9 +135,9 @@
   },
   "news": [
     {
-      "title": "US stocks today: Nasdaq sinks 2.2% as Amazon, Intel fuel fresh fears over AI spending",
-      "description": "Wall Street experienced significant losses as the Nasdaq fell to its lowest level in nearly three months. Concerns about rising capital expenditures at Amazon and cash burn warnings from Intel influenced the technology sector's downturn. Major technology stocks like Alphabet and Nvidia also saw nota",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-tumbles-over-2-sp-1-at-open-as-amazon-intel-add-to-ai-spending-woes/articleshow/135364444.cms",
+      "title": "Intel stock plunges 30% as weak PC demand and AI costs trigger global chip selloff",
+      "description": "Intel shares plunged 30% after the chipmaker issued a weak fourth-quarter revenue forecast and warned of negative cash flow for the year. The warning triggered a global semiconductor selloff, with Nvidia, AMD and other chip stocks declining as weak PC demand and rising AI infrastructure costs weighe",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/intel-plunges-25-as-weak-pc-demand-and-ai-costs-trigger-global-chip-selloff/articleshow/135371230.cms",
       "source": "Economic Times Markets",
       "date": "2026-10-30",
       "image": "",
@@ -150,6 +150,15 @@
       "source": "Google News - Precious Metals",
       "date": "2026-10-30",
       "image": "",
+      "category": "metals"
+    },
+    {
+      "title": "San Lorenzo Files Second Amended and Restated Offering Document",
+      "description": "NOT FOR DISTRIBUTION TO UNITED STATES NEWSWIRE SERVICES OR FOR DISSEMINATION IN THE UNITED STATES CALGARY, Alberta, Oct. 29, 2026 (GLOBE NEWSWIRE) \u2014 San Lorenzo Gold Corp. (\u201cSan Lorenzo\u201d or the \u201cCompany\u201c) (TSXV: SLG) announces that, further to its news releas\u2026",
+      "url": "https://financialpost.com/globe-newswire/san-lorenzo-files-second-amended-and-restated-offering-document",
+      "source": "Financial Post",
+      "date": "2026-10-29",
+      "image": null,
       "category": "metals"
     },
     {
@@ -216,13 +225,13 @@
       "category": "market"
     },
     {
-      "title": "Morning Minute: Hedge Funds Left the BTC ETF Trade and Sovereign Wealth Stepped In",
-      "description": "Now the BTC ETFs have flipped green for the month after $400M+ inflows this week, setting the stage for a big November.",
-      "url": "https://decrypt.co/382135/morning-minute-hedge-funds-left-the-btc-etf-trade-and-sovereign-wealth-stepped-in",
-      "source": "Decrypt",
+      "title": "Vedanta lines up USD 25 bn investment over 3 years for organic growth; eyes USD 50 bn revenue",
+      "description": "Vedanta Group has announced plans for a USD 25 billion investment to expand its existing businesses significantly. The investment will focus on organic growth in key sectors including aluminium, copper, and oil. Vedanta aims to become a leading silver produce\u2026",
+      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/vedanta-lines-up-usd-25-bn-investment-over-3-years-for-organic-growth-eyes-usd-50-bn-revenue/articleshow/135325557.cms",
+      "source": "The Times of India",
       "date": "2026-10-29",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/08/bitcoin-savings-decrypt-style-gID_7.jpg",
-      "category": "market"
+      "image": "https://img.etimg.com/thumb/msid-135325747,width-1200,height-900,imgsize-144992,overlay-economictimes/articleshow.jpg",
+      "category": "currency"
     },
     {
       "title": "Gold price, silver rate today: Why are gold rate, silver price down on Thursday? What to expect in November?",
@@ -270,139 +279,130 @@
       "category": "metals"
     },
     {
-      "title": "Gold drops nearly 1%, silver slides over 2%",
-      "description": "Precious metals fell Thursday, with gold and silver down 1% and 2%, respectively. The move came as renewed dollar demand and expectations of further Federal Reserve tightening weighed on bullion.The F...",
-      "url": "https://biztoc.com/x/9b4d30af8fa8c110",
-      "source": "Biztoc.com",
+      "title": "Price stability top policy agenda in H2FY27 amid inflation: FinMin review",
+      "description": "The finance ministry flagged elevated crude oil prices, food inflation and kharif crop uncertainty as key risks to price stability, while projecting 7.35% GDP growth in Q2FY27",
+      "url": "https://www.business-standard.com/economy/news/price-stability-top-policy-agenda-in-h2fy27-amid-inflation-finmin-review-126102901807_1.html",
+      "source": "Business Standard",
       "date": "2026-10-29",
-      "image": "https://biztoc.com/cdn/9b4d30af8fa8c110_s.webp",
-      "category": "central_bank"
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/05/thumb/fitandfill/1200X628/1780638659-7268.jpg",
+      "category": "inflation"
     },
     {
-      "title": "Indonesia prepares Bali for second-stage financial center development",
-      "description": "The Indonesian government is preparing Bali to become the site for the second stage of financial center development after Jakarta, as part of efforts to boost ...",
-      "url": "https://en.antaranews.com/news/438787/indonesia-prepares-bali-for-second-stage-financial-center-development",
-      "source": "Antaranews.com",
+      "title": "Gwyneth Paltrow and Salma Hayek\u2019s nepo baby kids named as the UK\u2019s most eligible socialites",
+      "description": "The exclusive list was published by Tatler this week.",
+      "url": "https://pagesix.com/2026/10/29/parents/gwyneth-paltrow-and-salma-hayeks-nepo-baby-kids-named-as-the-uks-most-eligible-socialites/",
+      "source": "Page Six",
       "date": "2026-10-29",
-      "image": "https://cdn.antaranews.com/cache/1200x800/2026/10/29/1001729327.jpg",
+      "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/10/146862437.jpg?quality=75&strip=all&w=1200",
       "category": "market"
     },
     {
-      "title": "Progressives Delight In New Bryan Adams Song Calling Out \u2018Baby\u2019 Trump And His Epstein \u2018Distractions\u2019",
-      "description": "Bryan Adams released a new song called \"Lake Ontario\" that rips Donald Trump for his attempted \"distractions\" from the Epstein files.\nThe post Progressives Delight In New Bryan Adams Song Calling Out \u2018Baby\u2019 Trump And His Epstein \u2018Distractions\u2019 first appeared \u2026",
-      "url": "https://www.mediaite.com/media/news/progressives-delight-in-new-bryan-adams-song-calling-out-baby-trump-and-his-epstein-distractions/",
-      "source": "Mediaite",
-      "date": "2026-10-29",
-      "image": "https://www.mediaite.com/wp-content/uploads/2026/10/Bryan-Adams-scaled.jpg",
-      "category": "market"
-    },
-    {
-      "title": "United-Air Canada joint venture would drive up fares, agency says",
-      "description": "Air Canada and United Airlines Holdings Inc.'s plan to expand their existing joint venture would drive up fares, says watchdog. Read here",
-      "url": "https://financialpost.com/transportation/airlines/united-air-canada-joint-venture-drive-up-fares",
-      "source": "Financial Post",
-      "date": "2026-10-29",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/10/1030-mg-air-canada-united-cheetah.png",
-      "category": "market"
-    },
-    {
-      "title": "Arizona\u2019s MHG Commercial Joins eXp Commercial With 18 Advisors and $435 Million in Closed Transactions",
-      "description": "Top-ranked Phoenix team led by Aaron Dutcher, whose career volume tops $1.3 billion, is taking its practice nationwide BELLINGHAM, Wash., Oct. 29, 2026 (GLOBE NEWSWIRE) \u2014 eXp Commercial, a nationwide cloud-based commercial real estate brokerage and subsidiary\u2026",
-      "url": "https://financialpost.com/globe-newswire/arizonas-mhg-commercial-joins-exp-commercial-with-18-advisors-and-435-million-in-closed-transactions",
-      "source": "Financial Post",
-      "date": "2026-10-29",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/10/arizona-s-mhg-commercial-joins-exp-commercial-with-18-adviso.png",
-      "category": "market"
-    },
-    {
-      "title": "Hackers are breaking into company networks via hacked CCTV camera software",
-      "description": "Companies urged to treat cameras and their management platforms as potential entry points and secure them better.",
-      "url": "https://www.techradar.com/pro/security/hackers-are-breaking-into-company-networks-via-hacked-cctv-camera-software",
-      "source": "TechRadar",
-      "date": "2026-10-29",
-      "image": "https://cdn.mos.cms.futurecdn.net/orPkbTPEcv9Z2g5J2ATLYX-2560-80.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Indonesia's capital market exceeds standalone standards: OJK",
-      "description": "The Financial Services Authority (OJK) said Indonesia&#39;s capital market conditions do not warrant classification as a standalone market, following ...",
-      "url": "https://en.antaranews.com/news/438783/indonesias-capital-market-exceeds-standalone-standards-ojk",
-      "source": "Antaranews.com",
-      "date": "2026-10-29",
-      "image": "https://cdn.antaranews.com/cache/1200x800/2026/10/29/tempImageF0HkPS.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Media Advisory: Island Police and MADD Canada Join Forces for Project Red Ribbon Day in PEI",
-      "description": "CHARLOTTETOWN, Prince Edward Island, Oct. 29, 2026 (GLOBE NEWSWIRE) \u2014 As MADD Canada\u2019s\u00a0Project Red Ribbon campaign gets underway, Islanders will see a local focus this November 1, when police and MADD Canada volunteers gather for roadside sobriety checkpoints\u2026",
-      "url": "https://financialpost.com/globe-newswire/media-advisory-island-police-and-madd-canada-join-forces-for-project-red-ribbon-day-in-pei",
+      "title": "ProStar CEO Michael Wolff Outlines Growth Strategy After First 90 Days",
+      "description": "GRAND JUNCTION, Colo., Oct. 29, 2026 (GLOBE NEWSWIRE) \u2014 ProStar Holdings Inc. (\u201cProStar\u00ae\u201d or the \u201cCompany\u201d) (TSXV: MAPS) (OTCQX: MAPPF) (FSE: 5D00), a leading provider of geospatial intelligence technologies and Precision Mapping Solutions\u00ae, today shared an u\u2026",
+      "url": "https://financialpost.com/globe-newswire/prostar-ceo-michael-wolff-outlines-growth-strategy-after-first-90-days",
       "source": "Financial Post",
       "date": "2026-10-29",
       "image": null,
-      "category": "geopolitics"
-    },
-    {
-      "title": "Today\u2019s News in a Nutshell",
-      "description": "KATHMANDU: Khabarhub brings you a glimpse of major developments of the day in Nepal, including politics, business/economy, sports, entertainment, and more. NPL: Karnali Yaks clinch thrilling win over Biratnagar Kings Karnali Yaks secured a thrilling victory o\u2026",
-      "url": "https://english.khabarhub.com/2026/29/573572/",
-      "source": "Khabarhub.com",
-      "date": "2026-10-29",
-      "image": "https://english.khabarhub.com/wp-content/uploads/2024/05/News-Nutshell.jpg",
       "category": "market"
     },
     {
-      "title": "Does White House ask AI to decide policy? Democrats want the receipts...",
-      "description": "Senior Democrats demanded Thursday that US President Donald Trump preserve records of any official exchanges with artificial intelligence chatbots, raising q...",
-      "url": "https://www.yahoo.com/news/politics/articles/does-white-house-ask-ai-150305434.html",
-      "source": "Yahoo Entertainment",
+      "title": "Nvidia Chief Seen as Target of Chinese Spy Plot",
+      "description": "American spy agencies had gathered striking intelligence. A top executive at a Singapore-based data center company was under scrutiny for possibly steering advanced Nvidia A.I. chips to China. And now American officials had concluded that she was a Chinese in\u2026",
+      "url": "https://slashdot.org/submission/17351920/nvidia-chief-seen-as-target-of-chinese-spy-plot",
+      "source": "Slashdot.org",
       "date": "2026-10-29",
-      "image": "https://s.yimg.com/lo/mysterio/api/76b1bd2406007ffff87c232144e2b661ba3948fb1a65e6cb428dd01c735bcec9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F8b77a2024cdbcba8ae09343bd8922ebb.jpg",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "FFF president Philippe Diallo leaps to the defence of Kylian Mbappe after Real Madrid star's 'dictator' comment sparks China fury",
+      "description": "French Football Federation (FFF) president Philippe Diallo has called for the controversy surrounding Kylian Mbappe's recent comments about former Chinese leader Mao Zedong to end following the forward's apology. The Real Madrid star sparked a significant bac\u2026",
+      "url": "https://www.goal.com/en-us/news/fff-president-philippe-diallo-defence-kylian-mbappe-real-madrid-dictator-china/blte62293a3182ffb6d",
+      "source": "Goal.com",
+      "date": "2026-10-29",
+      "image": "https://s.yimg.com/lo/mysterio/api/a93ef6d7d7c5ab6dff3b2bb094d90c4b8e847accaba7560b60de6fa615a597a5/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgoal_com_505%2F7649f519ec5ae1c5b9fd4da5ba9027b3.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Real Estate, Climate and Wild Parties? Here\u2019s How Anthropic\u2019s IPO Could Affect the Bay Area",
+      "description": "Analysts say that San Francisco AI giant Anthropic might make its stock market debut with a trillion dollar valuation. Will any of this money trickle down to its hometown?",
+      "url": "https://www.kqed.org/news/12106480/anthropic-ipo-open-ai-when-will-go-public-effect-on-san-francisco-bay-area",
+      "source": "KQED",
+      "date": "2026-10-29",
+      "image": "https://cdn.kqed.org/wp-content/uploads/sites/10/2026/04/AnthropicGetty.jpg",
+      "category": "currency"
+    },
+    {
+      "title": "Italy\u2013Canada Business Forum in Toronto: Strengthening Bilateral Relations with the Support of the OpportunItaly Platform",
+      "description": "The high-level Toronto gathering serves as a strategic catalyst for joint industrial ventures, bridging North American industrial demand with advanced European manufacturing and business opportunities TORONTO, Oct. 29, 2026 (GLOBE NEWSWIRE) \u2014 The Italy\u2013Canada\u2026",
+      "url": "https://financialpost.com/globe-newswire/italy-canada-business-forum-in-toronto-strengthening-bilateral-relations-with-the-support-of-the-opportunitaly-platform",
+      "source": "Financial Post",
+      "date": "2026-10-29",
+      "image": null,
+      "category": "currency"
+    },
+    {
+      "title": "The Road to a United States of Europe Is Paved with Protests",
+      "description": "Deepening EU integration protects the euro but disempowers national states, sparking protests from citizens seeking a lost status quo.",
+      "url": "https://www.nakedcapitalism.com/2026/10/the-road-to-a-united-states-of-europe-is-paved-with-protests.html",
+      "source": "Nakedcapitalism.com",
+      "date": "2026-10-29",
+      "image": null,
+      "category": "currency"
+    },
+    {
+      "title": "Wind turbines have scary impacts on bats. Here's what can be done",
+      "description": "In this issue of our environmental newsletter, we find out how to reduce bat deaths from wind turbines, check out a new book of close-ups of creepy crawlies and attend a fashion show full of ideas for styling thrifted clothing.",
+      "url": "https://www.cbc.ca/news/climate/what-on-earth-bats-wind-9.7400792",
+      "source": "CBC News",
+      "date": "2026-10-29",
+      "image": "https://i.cbc.ca/ais/cf68fe38-f77b-4a7f-b67e-9174f96a7493,1793281251794/full/max/0/default.jpg?im=Crop%2Crect%3D%2821%2C0%2C2849%2C1602%29%3BResize%3D620",
+      "category": "central_bank"
+    },
+    {
+      "title": "Nearly half of U.S teens ages 13 to 17 say they\u2019ve gambled in the last year, survey finds",
+      "description": "More than 40% of teens ages 13 to 17 say they\u2019ve gambled in the past year, according to a new survey, raising red flags about the popularity of betting among minors.",
+      "url": "https://www.nbcnews.com/news/us-news/gambling-survey-american-teens-nearly-half-rcna606143",
+      "source": "NBC News",
+      "date": "2026-10-29",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261028-stock-teenageres-phone-ch-1327-632565.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Japan Stocks Rise for Third Day as Nikkei Reclaims 64,000",
+      "description": "Tokyo stocks extended their recovery on Thursday, October 29, with the Nikkei 225 closing at 64,659.47 points at 3:30 p.m., up 705.28 points, or 1.10%, from the previous session, as renewed buying of semiconductor and artificial intelligence-related shares he\u2026",
+      "url": "https://newsonjapan.com/article/151176.php",
+      "source": "Newsonjapan.com",
+      "date": "2026-10-29",
+      "image": "https://i2.ytimg.com/vi/-c4LFy3fQFc/maxresdefault.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Crypto Spends $176 Million on Midterms, But Only 13% of Voters See It as a Priority",
+      "description": "Only 13% of Americans say a candidate\u2019s support for crypto growth is very important, according to a survey conducted by Ipsos for the DeFi Education Fund, even as the industry spends heavily on next week\u2019s elections.",
+      "url": "https://decrypt.co/382179/crypto-spends-176-million-midterms-only-13-percent-voters-priority",
+      "source": "Decrypt",
+      "date": "2026-10-29",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/US-Capitol-decrypt-style-04-gID_7.png",
       "category": "supply_demand"
     },
     {
-      "title": "VP Vance: Trump Administration Suspends Tech Giants From Green Card Program Amid Visa Fraud Allegations",
-      "description": "Vice President JD Vance announced on Oct. 8 that the Trump administration is suspending Microsoft and Adobe from a federal program that allows employers to sponsor foreign workers for permanent residency green cards, citing alleged fraud in the immigration sy\u2026",
-      "url": "https://activistpost.com/vp-vance-trump-administration-suspends-tech-giants-from-green-card-program-amid-visa-fraud-allegations/",
-      "source": "Activistpost.com",
+      "title": "Neil Gorsuch called this law a \u2018curious animal.\u2019 A new bill would tame it",
+      "description": "One of the nation\u2019s strangest laws is primed for reform in a new bill from Rep. Steve Cohen, D-Tenn., that would bring a dose of logic to federal drug policy.\nThat unusual law \u2014 Supreme Court Justice Neil Gorsuch called it a \u201ccurious animal\u201d \u2014 is the Controll\u2026",
+      "url": "https://biztoc.com/x/cb2bf67f092dd656",
+      "source": "Biztoc.com",
       "date": "2026-10-29",
-      "image": "https://activistpost.com/wp-content/uploads/2026/10/foreign-worker-green-card-h-1b-visa-microsoft-4961-d1c2b61c-original.jpg",
+      "image": "https://biztoc.com/cdn/cb2bf67f092dd656_s.webp",
       "category": "central_bank"
     },
     {
-      "title": "California sanctuary cities ignored nearly 9K ICE detainers \u2014 freeing violent criminals: report",
-      "description": "A blistering congressional report is accusing Gov. Gavin Newsom and Democratic leaders in California\u2019s biggest cities of letting violent criminals run free \u2014 while ignoring nearly 9,000 requests from federal immigration authorities.",
-      "url": "https://nypost.com/2026/10/29/us-news/california-sanctuary-cities-ignored-nearly-9k-ice-detainers-freeing-violent-criminals-report/",
-      "source": "New York Post",
+      "title": "Utah charges Kalshi and its CEO with illegally promoting online gambling",
+      "description": "Utah has filed criminal charges against Kalshi and its executives, accusing the prediction market of breaking anti-gambling laws, as reported by The Salt Lake Tribune and the Associated Press. The state has filed 14 charges against Kalshi, as well as CEO Tare\u2026",
+      "url": "https://www.theverge.com/policy/1022400/utah-kalshi-criminal-charges",
+      "source": "The Verge",
       "date": "2026-10-29",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-i9twc21by-1793289802230.jpg?quality=75&strip=all&1793275433&w=1200",
-      "category": "central_bank"
-    },
-    {
-      "title": "Canada's new national security strategy will shield economy, modernize military",
-      "description": "Canada has launched a sweeping national security strategy aimed at safeguarding its economy against global instability. The framework details a multibillion-dollar military expansion, intelligence modernization and a \"clear-eyed\" approach to relations with th\u2026",
-      "url": "https://www.cbc.ca/news/politics/canada-s-new-national-security-strategy-will-shield-economy-modernize-military-9.7401098",
-      "source": "CBC News",
-      "date": "2026-10-29",
-      "image": "https://i.cbc.ca/ais/0166c79b-9968-4ec0-b4ac-050d14567c02,1793289144976/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C104%2C2000%2C1125%29%3BResize%3D620",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Democrats Want Me In Jail For A Post Explaining Election Security",
-      "description": "It is not misinformation, disinformation, or a crime to echo Democrats\u2019 longheld view that election machines are vulnerable to manipulation. The Democrats\u2019 leading practitioner of weaponizing the government to attack political opponents, Marc Elias, recently \u2026",
-      "url": "https://freerepublic.com/focus/f-chat/4401036/posts",
-      "source": "Freerepublic.com",
-      "date": "2026-10-29",
-      "image": null,
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2301796292.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
       "category": "market"
-    },
-    {
-      "title": "Human capital development key to curbing Nigeria\u2019s poverty \u2014 FG",
-      "description": "The Federal Government says sustained investment in human capital development is central to its agenda for curbing Nigeria\u2019s 63% multidimensional poverty r\n\nRead More: https://punchng.com/human-capital-development-key-to-curbing-nigerias-poverty-fg/",
-      "url": "https://punchng.com/human-capital-development-key-to-curbing-nigerias-poverty-fg/",
-      "source": "The Punch",
-      "date": "2026-10-29",
-      "image": "https://punchng.com/wp-content/uploads/2026/06/Bernard-Doro-768x432_1782311241.webp",
-      "category": "central_bank"
     }
   ],
   "history": [
@@ -517,7 +517,7 @@
       "platinum_usd_oz": 1681.4
     }
   ],
-  "timestamp": "2026-10-30T21:37:53.316316+05:30",
+  "timestamp": "2026-10-30T23:38:47.614979+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
