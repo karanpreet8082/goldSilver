@@ -54,7 +54,7 @@
         "hold": 50
       },
       "summary": "Gold is showing positive signals. Strong daily gain of 1.1%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-31T09:50:53.567043",
+      "timestamp": "2026-10-31T12:54:23.139475",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 50
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 1.8%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-31T09:50:53.639662",
+      "timestamp": "2026-10-31T12:54:23.236300",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 50
       },
       "summary": "Platinum is showing positive signals. Strong daily gain of 2.1%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-10-31T09:50:53.706914",
+      "timestamp": "2026-10-31T12:54:23.329384",
       "source": "rule-based"
     }
   },
@@ -135,6 +135,15 @@
   },
   "news": [
     {
+      "title": "US bonds rally, sending yields to biggest monthly decline since 2023",
+      "description": "US Treasuries experienced a notable rise as technology stock selloffs caused a shift towards safer investments. The yield on the benchmark 10-year note had its largest monthly drop in nearly three years. Earnings reports from Amazon and Intel negatively impacted investor confidence amid rising AI co",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/us-bonds-rally-sending-yields-to-biggest-monthly-decline-since-2023/articleshow/135400137.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-10-31",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
       "title": "Silver loses more than half its value from record high: What went wrong and will it recover?",
       "description": "Silver has plunged more than 58% from its February record high of nearly $120 an ounce to around $50, as profit-booking, weaker industrial demand and shifting macroeconomic conditions weigh on prices. Geojit\u2019s Hareesh V explains what drove the rally, why it unravelled and what could shape silver\u2019s r",
       "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-loses-more-than-half-its-value-from-record-high-what-went-wrong-and-will-it-recover/articleshow/135395608.cms",
@@ -144,22 +153,58 @@
       "category": "supply_demand"
     },
     {
-      "title": "ET Wealth Expo: Why market veteran S Naren thinks investors are getting gold, silver and asset allocation all wrong",
-      "description": "ICICI Prudential MF's S Naren warns investors against chasing assets after spectacular rallies, highlighting how silver's 216% surge drew record ETF inflows before a 27% correction. At the ET Wealth Expo, he explained why genuine asset allocation means buying unpopular assets and why gold still dese",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/et-wealth-expo-why-market-veteran-s-naren-thinks-investors-are-getting-gold-silver-and-asset-allocation-all-wrong/articleshow/135391370.cms",
-      "source": "Economic Times Markets",
+      "title": "World gold prices plummet, the sharpest drop in a year. - Vietnam.vn",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1DSm9tRE5OWnFnNTJPaWVXMGhiN1RBdnRHWnR5clJ6TWpwU21MNGpCVHo0REx4d2N2ZUVrWWstM0I1MHFUaWVCRHZjTjVaU0VTbHhoR1p5RmZBdHpPUHNIb3V6NGVQell2bXN5VnhSWFBacGVYOTRrUkhYRQ?oc=5\" target=\"_blank\">World gold prices plummet, the sharpest drop in a year.</a>&n",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1DSm9tRE5OWnFnNTJPaWVXMGhiN1RBdnRHWnR5clJ6TWpwU21MNGpCVHo0REx4d2N2ZUVrWWstM0I1MHFUaWVCRHZjTjVaU0VTbHhoR1p5RmZBdHpPUHNIb3V6NGVQell2bXN5VnhSWFBacGVYOTRrUkhYRQ?oc=5",
+      "source": "Google News - Precious Metals",
       "date": "2026-10-31",
       "image": "",
-      "category": "geopolitics"
+      "category": "metals"
     },
     {
-      "title": "F&amp;O Talk: Big break above 23,200 can open doors for 23,500 for Nifty; Sudeep Shah picks 6 stocks ahead of Diwali",
-      "description": "Nifty could extend its recovery towards 23,500 if it decisively breaks above the 23,150\u201323,200 resistance zone, says SBI Securities' Sudeep Shah. He also shares his outlook on IT, midcap and smallcap indices, sector trends and six stocks, including TVS Motor, Coforge and ICICI Bank, ahead of Diwali.",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-big-break-above-23200-can-open-doors-for-23500-for-nifty-sudeep-shah-picks-6-stocks-ahead-of-diwali/articleshow/135390885.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-10-31",
-      "image": "",
-      "category": "geopolitics"
+      "title": "Swiss central bank posts bumper $23bn profit as gold, foreign assets soar",
+      "description": "Unlike other major central banks, the Swiss National Bank has a significant equity portfolio.",
+      "url": "https://www.cnbc.com/2026/10/30/swiss-national-bank-q3-profit-gold-foreign-asset.html",
+      "source": "CNBC",
+      "date": "2026-10-30",
+      "image": "https://image.cnbcfm.com/api/v1/image/108316551-1780562522212-gettyimages-2277259757-ps20260519zuerich038.jpeg?v=1780562576&w=1920&h=1080",
+      "category": "central_bank"
+    },
+    {
+      "title": "Morning Minute: Binance\u2019s $6.4B Hack Overshadows Hyperliquid\u2019s Biggest Day",
+      "description": "Just as Hyperliquid opened the door to a fully regulated perps offering inside the U.S., Binance suffered the biggest hack in crypto history.",
+      "url": "https://decrypt.co/382225/morning-minute-binances-6-4b-hack-overshadows-hyperliquids-biggest-day",
+      "source": "Decrypt",
+      "date": "2026-10-30",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/Hacker-hack-decrypt-style-04-gID_7.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Titan\u2019s Nebula opens first standalone boutique in Mumbai\u2019s Khar",
+      "description": "Nebula by Titan has opened its first standalone boutique in Mumbai's Khar, showcasing 18K gold watches and interiors inspired by Indian design and heritage.",
+      "url": "https://www.thehindubusinessline.com/news/national/titans-nebula-opens-first-standalone-boutique-in-mumbais-khar/article71644917.ece",
+      "source": "BusinessLine",
+      "date": "2026-10-30",
+      "image": "https://bl-i.thgim.com/public/markets/xhfaxi/article71644916.ece/alternates/LANDSCAPE_1200/Revathi%20Kant%20Chief%20Design%20Officer%20Titan%20with%20Karan%20Johar%20%20Karisma%20Kapoor%203.jpeg",
+      "category": "metals"
+    },
+    {
+      "title": "PureHealth Reports Net Profit Growth of 14.1% to USD 482 Million in the First Nine Months of 2026",
+      "description": "Group revenue increased 11.5% year-on-year to USD 6.1 billion, driven by the expanding international Care portfolio and continued growth in insurance Group EBITDA increased 20.4% year-on-year to USD 1.1 billion, with Group EBITDA margin expanding to 18.6% Int\u2026",
+      "url": "https://www.prnewswire.co.uk/news-releases/purehealth-reports-net-profit-growth-of-14-1-to-usd-482-million-in-the-first-nine-months-of-2026--302924856.html",
+      "source": "PR Newswire UK",
+      "date": "2026-10-30",
+      "image": "https://mmx.prnewswire.com/media/MS2024293/PureHealth-H1-2026-Financial-Results.jpg?id=OA3049463&p=facebook",
+      "category": "currency"
+    },
+    {
+      "title": "This Bihar Museum ranks 9th globally: Anand Mahindra calls it \u2018game changer\u2019; here's what CM Samrat Choudhary did next",
+      "description": "The Patna landmark notably outranked global cultural heavyweights, including New York's Metropolitan Museum of Art (10th) and Paris's Louvre (31st).",
+      "url": "https://www.livemint.com/news/trends/this-bihar-museum-ranks-9th-globally-anand-mahindra-calls-it-game-changer-check-what-cm-samrat-choudhary-did-next-11793346411081.html",
+      "source": "Livemint",
+      "date": "2026-10-30",
+      "image": "https://www.livemint.com/lm-img/img/2026/10/30/1600x900/logo/bihar_1793349084059_HMZv_1793349100109_Aroz_a50c32ae-f173-4080-a5cf-ce6187b416d3_35x5.jpg",
+      "category": "market"
     },
     {
       "title": "Carolyn Tisch Blodgett \u2014 CEO and mom of 3 \u2014 said bringing your whole self to work means bringing your kids, too",
@@ -189,49 +234,31 @@
       "category": "supply_demand"
     },
     {
-      "title": "James Galbraith: What Can the Last Great Crash Say About the Next One? Oil, AI, and the Perils of Technological Revolution",
-      "description": "Did huge oil discoveries trigger for the Great Crash? And if so, what does that tell us about AI risk versus its overextended stock valuations?",
-      "url": "https://www.nakedcapitalism.com/2026/10/james-galbraith-what-can-the-last-great-crash-say-about-the-next-one-oil-ai-and-the-perils-of-technological-revolution.html",
-      "source": "Nakedcapitalism.com",
+      "title": "Gold rate, silver price today: Why is gold price down today? When will gold recover from its worst trading day since mid-July?",
+      "description": "Gold prices fell to their lowest since mid-July on Friday. Gold rates were going down for a second straight monthly decline.",
+      "url": "https://economictimes.indiatimes.com/news/international/us/gold-rate-silver-price-today-why-is-gold-price-down-today-when-will-gold-recover-from-its-worst-trading-day-since-mid-july/articleshow/135361683.cms",
+      "source": "The Times of India",
       "date": "2026-10-30",
-      "image": "https://www.nakedcapitalism.com/wp-content/uploads/2026/10/00-Galbraith-crash.png",
+      "image": "https://img.etimg.com/thumb/msid-135361953,width-1200,height-900,imgsize-93522,overlay-economictimes/articleshow.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "A Fine, Deliberately Engineered Mess",
+      "description": "\u201cCan\u2019t we just be Mexico or Paraguay and have peace and quiet while things mostly go to hell?\u201d \u2014 Matt Taibbi",
+      "url": "https://www.kunstler.com/p/a-fine-deliberately-engineered-mess",
+      "source": "Kunstler.com",
+      "date": "2026-10-30",
+      "image": "https://substackcdn.com/image/fetch/$s_!8lW0!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8cfe306e-14a2-4860-83c0-d75e9e65ed6f_2583x2154.jpeg",
       "category": "market"
     },
     {
-      "title": "These are the 5 trendiest coat styles for winter - and AMY KESTER has scoured the high street to find an investment buy and a budget lookalike for each one",
-      "description": "It's time to dig out the transitional knits and, more importantly, invest in the outerwear that will see us through till spring. Whatever your budget, a hardworking coat is a wardrobe essential.",
-      "url": "https://www.dailymail.com/lifestyle/fashion/article-16186711/These-5-trendiest-coat-styles-winter-AMY-KESTER-scoured-high-street-investment-buy-budget-lookalike-one.html",
-      "source": "Dailymail.com",
+      "title": "Nifty reclaims 23,000 to end October on a positive note; IT and Pharma lead, midcaps bleed",
+      "description": "Nifty 50 gained 0.51% to close at 23,053, reclaiming the 23,000 mark for the first time in eight sessions, while the Sensex rose 0.42% to 74,459.53",
+      "url": "https://www.thehindubusinessline.com/markets/nifty-reclaims-23000-to-end-october-on-a-positive-note-it-and-pharma-lead-midcaps-bleed/article71644850.ece",
+      "source": "BusinessLine",
       "date": "2026-10-30",
-      "image": "https://i.dailymail.com/1s/2026/10/06/11/111676881-0-image-a-70_1791284089341.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "HNB Life secures Gold at SLITAD People Development Awards - Business | Daily Mirror",
-      "description": "HNB Life PLC was awarded the prestigious Gold award at SLITAD People Development Awards 2025/26, marking a significant milestone in the company\u2019s journey towards building a high-performance, people-centric workplace culture.",
-      "url": "https://www.dailymirror.lk/business/HNB-Life-secures-Gold-at-SLITAD-People-Development-Awards/215-353775",
-      "source": "Dailymirror.lk",
-      "date": "2026-10-30",
-      "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_77c14d8d40.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Gold bond turns Rs 1 lakh investment into Rs 3.76 lakh: Check SGB premature redemption date, price and other details",
-      "description": "The Reserve Bank of India has announced that the SGB 2019-20 Series VI will be eligible for premature redemption on October 30, 2026. The redemption price is set at Rs 14,213 per unit, reflecting the average closing price of gold. Originally offered at Rs 3,7\u2026",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/sgb-series-vi-premature-redemption-date-today-october-30-2026-check-return-on-rs-1-lakh-investment-ibja-price-details/articleshow/135347009.cms",
-      "source": "The Times of India",
-      "date": "2026-10-30",
-      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1259750,resizemode-75,msid-135347009/wealth/invest/sgb-series-vi-premature-redemption-date-today-october-30-2026-check-return-on-rs-1-lakh-investment-ibja-price-details.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "Rs 14.38 lakh worth of gold recovered from this woman who was stealing jewellery from Mumbai local train passengers; how police caught her",
-      "description": "The Kalyan GRP unit has arrested a 36-year-old woman accused of stealing gold jewellery from female passengers travelling on Mumbai local trains. Police recovered gold ornaments worth Rs 14.38 lakh and linked the accused to two theft cases registered at Karja\u2026",
-      "url": "https://economictimes.indiatimes.com/industry/transportation/railways/rs-14-38-lakh-worth-of-gold-recovered-from-this-woman-who-was-stealing-jewellery-from-mumbai-local-train-passengers-how-police-caught-her/articleshow/135346493.cms",
-      "source": "The Times of India",
-      "date": "2026-10-30",
-      "image": "https://img.etimg.com/thumb/msid-135346786,width-1200,height-900,imgsize-2587982,overlay-economictimes/articleshow.jpg",
-      "category": "metals"
+      "image": "https://bl-i.thgim.com/public/incoming/gg2ruc/article71640377.ece/alternates/LANDSCAPE_1200/PO20_Stockmarket_eyeglasses.jpg",
+      "category": "market"
     },
     {
       "title": "Gold slips as higher oil, US inflation data bolster Fed hike bets",
@@ -279,130 +306,103 @@
       "category": "currency"
     },
     {
-      "title": "Alcohol-free mouthwash: A gentler choice for natural oral care, especially for seniors",
-      "description": "Traditional mouthwashes can contain up to 25% ethanol, which may cause burning sensations and dry out the mouth. Alcohol-free formulas offer a gentler rinsing experience without the drying effects associated with alcohol. Alcohol can affect both harmful and b\u2026",
-      "url": "https://www.naturalnews.com/2026-10-30-no-alcohol-mouthwash-natural-oral-care-seniors.html",
-      "source": "Naturalnews.com",
-      "date": "2026-10-30",
-      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/Mouthwash-Mouth-Wash-Bottle-Pouring-Liquid-Person.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Silver market\u2019s big problem may be ending, but a new worry is coming for investors",
-      "description": "Silver could move from a supply deficit to a surplus in 2027 as rising inventories, weak jewellery demand and slowing industrial consumption ease market tightness, Metals Focus said. Silver has underperformed gold amid expectations of higher interest rates an\u2026",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/silver-markets-big-problem-may-be-ending-but-a-new-worry-is-coming-for-investors/articleshow/135345821.cms",
+      "title": "In 1971, Stockholm residents climbed 13 elms slated for a subway entrance; mass protests stopped the felling, and the trees survived",
+      "description": "In central Stockholm, Kungstr\u00e4dg\u00e5rden has been a beloved community hub adorned with lush greenery and charming cafes. However, a controversial proposal in the late 1960s aimed to chop down elms for a subway entrance, igniting public fury. Determined protester\u2026",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/in-1971-stockholm-residents-climbed-13-elms-slated-for-a-subway-entrance-mass-protests-stopped-the-felling-and-the-trees-survived/articleshow/135357236.cms",
       "source": "The Times of India",
       "date": "2026-10-30",
-      "image": "https://img.etimg.com/thumb/msid-135346531,width-1200,height-900,imgsize-128402,overlay-economictimes/articleshow.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "Where to invest: PL Wealth bets on Midcap, flexicap, banks; cautions on IT",
-      "description": "Wealth manager recommends staggered equity investments, selective exposure to defence and capital goods, and short-duration debt funds",
-      "url": "https://www.business-standard.com/finance/personal-finance/where-to-invest-pl-wealth-bets-on-midcap-flexicap-banks-cautions-on-it-126103000337_1.html",
-      "source": "Business Standard",
-      "date": "2026-10-30",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/29/thumb/featurecrop/1200X628/1793278442-3371.jpg",
+      "image": "https://static.toiimg.com/thumb/msid-135357401,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "category": "market"
     },
     {
-      "title": "US Weed Channel hires E! Entertainment co-founder Larry Namer as strategy advisor",
-      "description": "Cannabis lifestyle TV network US Weed Channel (USWC) has hired E! Entertainment co-founder Larry Namer as global strategy advisor. Namer will work with USWC founder Shane Doull to refine the company&#8...",
-      "url": "https://www.c21media.net/news/us-weed-channel-hires-e-entertainment-co-founder-larry-namer-as-strategy-advisor/",
-      "source": "C21media.net",
+      "title": "EPG Showcases Full-Stack AIDC Capabilities and Global Delivery Network at DCWA 2026 in Singapore",
+      "description": "EPG, a global provider for prefabricated modular data center infrastructure, showcased its latest AI data center solutions at Data Centre World Asia (DCWA) ...",
+      "url": "https://en.antaranews.com/news/439015/epg-showcases-full-stack-aidc-capabilities-and-global-delivery-network-at-dcwa-2026-in-singapore",
+      "source": "Antaranews.com",
       "date": "2026-10-30",
-      "image": "https://cdn.c21media.net/wp-content/uploads/2026/10/larry-namer-ls.jpg",
+      "image": "https://cdn.antaranews.com/cache/1200x800/2026/10/30/epg.jpg",
       "category": "market"
     },
     {
-      "title": "Microdrama Platform FlareFlow Sets Thailand Launch on AIS Play (EXCLUSIVE)",
-      "description": "Microdrama platform FlareFlow will launch in Thailand on Nov. 2 through AIS Play, the entertainment service of Thai telecom operator Advanced Info Service (AIS), in a deal brokered by Singapore-based distributor Rock Networks. FlareFlow, the vertical video se\u2026",
-      "url": "https://variety.com/2026/tv/news/microdrama-platform-flareflow-thailand-launch-ais-play-1236934882/",
-      "source": "Variety",
+      "title": "Canada\u2019s economy flatlines for the second month in a row",
+      "description": "Canada's real GDP growth unexpectedly remained flat in August, another sign that economic growth slowed in the third quarter. Read more",
+      "url": "https://financialpost.com/news/economy/canada-economy-flatlines-second-quarter-row",
+      "source": "Financial Post",
       "date": "2026-10-30",
-      "image": "https://variety.com/wp-content/uploads/2026/10/SupermodelMe-Thailand.jpg?w=1000&h=563&crop=1",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/09/0911-mg-tariffs.jpg",
       "category": "market"
     },
     {
-      "title": "Gen Z brands are breaching the last citadel of legacy consumer firms",
-      "description": "India's Gen Z and D2C brands are challenging FMCG giants like Hindustan Unilever, ITC and Marico by expanding into kirana stores. New-age brands captured 21.7% of India's kirana market in H1 FY27, up from 14.8% a year earlier. As digital-first brands breach t\u2026",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/indian-new-fmcg-companies-gen-z-brands-are-breaching-the-last-citadel-of-legacy-consumer-firms-hindustan-unilever-itc-emami-itc/articleshow/135354109.cms",
+      "title": "Canada\u2019s economy flatlines for second month in a row",
+      "description": "Canada's real GDP growth unexpectedly remained flat in August, another sign that economic growth slowed in the third quarter. Read more",
+      "url": "https://financialpost.com/news/economy/canada-economy-flatlines",
+      "source": "Financial Post",
+      "date": "2026-10-30",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/09/0911-mg-tariffs.jpg",
+      "category": "market"
+    },
+    {
+      "title": "ICM Realty Group and Concord Capital Management to Introduce U.S. Sunbelt Industrial Opportunities in Taiwan",
+      "description": "ICM is excited to announce that ICM Asia is working with Concord Capital Management to introduce its U.S. Sunbelt industrial real estate opportunities in ...",
+      "url": "https://en.antaranews.com/news/439011/icm-realty-group-and-concord-capital-management-to-introduce-us-sunbelt-industrial-opportunities-in-taiwan",
+      "source": "Antaranews.com",
+      "date": "2026-10-30",
+      "image": "https://cdn.antaranews.com/cache/1200x800/2026/10/30/stanley-kung.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Lenovo launching new 360Hz gaming monitor globally with USB-C and Dual Mode technology",
+      "description": "Lenovo has confirmed that it will be launching a new 360Hz gaming monitor globally. Featuring Dual Mode technology, the Legion 27U-20 also boasts 400 nits peak brightness, a 4K native resolution and a five-port USB hub including dual USB Type-C ports.",
+      "url": "https://www.notebookcheck.net/Lenovo-launching-new-360Hz-gaming-monitor-globally-with-USB-C-and-Dual-Mode-technology.1438165.0.html",
+      "source": "Notebookcheck.net",
+      "date": "2026-10-30",
+      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Legion-27U-20-monitor-global-launch-kv.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Big tech earnings stoke fresh unease across Asian chip stocks",
+      "description": "Asian chip stocks are taking another hit from U.S. tech earnings, with Intel Corp.\u2019s weak outlook raising concerns. Read more.",
+      "url": "https://financialpost.com/investing/big-tech-earnings-fresh-unease-asian-chip-stocks",
+      "source": "Financial Post",
+      "date": "2026-10-30",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/10/1031-bc-stocks.jpg",
+      "category": "market"
+    },
+    {
+      "title": "PM Modi Launches 12 Horticulture Clusters Nationwide, Prime Fresh To Invest \u20b9124 Crore In Nashik Project",
+      "description": "PM Modi launches 12 horticulture clusters covering 1.46 lakh hectares. Prime Fresh will implement Nashik's Rs 124 crore project, benefiting around 8,500 farmers.",
+      "url": "https://www.freepressjournal.in/business/pm-modi-launches-12-horticulture-clusters-nationwide-prime-fresh-to-invest-124-crore-in-nashik-project",
+      "source": "Free Press Journal",
+      "date": "2026-10-30",
+      "image": "https://media.assettype.com/freepressjournal/2026-10-30/k4f4y951/prime-fresh.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Nepal begins stakeholder consultations on implementing international ICARE system for children",
+      "description": "Sudurpaschim: Nepal has begun gathering stakeholder feedback on implementing the International Classification of Alternative Care (ICARE), a framework designed for children who are unable to live with their parents or guardians for various reasons.\r\n\nAt a pro\u2026",
+      "url": "https://dineshkhabar.com/article/143316",
+      "source": "Dineshkhabar.com",
+      "date": "2026-10-30",
+      "image": "https://dineshkhabar.com/sites/default/files/styles/featured/public/field/image/453996244_122094475112465938_8344824874238394416_n_ntk3zkc_0.jpg?itok=A2QKIuTy",
+      "category": "market"
+    },
+    {
+      "title": "Jack Dorsey\u2019s Block seeks to turn Cash App into a primary banking platform",
+      "description": "Block's Cash App expansion into banking could reshape financial access for underserved groups but faces regulatory and trust challenges.\nThe post Jack Dorsey\u2019s Block seeks to turn Cash App into a primary banking platform appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/cash-app-banking-transformation/",
+      "source": "Crypto Briefing",
+      "date": "2026-10-30",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/30083712/Jack-Dorseys-Cash-App-eliminates-fees-on-large-Bitcoin-purchases-and-recurring-buys-800x420.jpg",
+      "category": "market"
+    },
+    {
+      "title": "In 2001, Indiana used shredded scrap tires beneath State Road 31; after a year of monitoring, the unusual road fill showed low settlement and minimal internal heating",
+      "description": "In Lakeville, Indiana, a fascinating project incorporated shredded car tires into highway embankments, proving beneficial for waste management while ensuring road integrity. Over the course of a year-long study, officials noted negligible subsidence and no ma\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/us/in-2001-indiana-buried-shredded-scrap-tires-beneath-state-road-31-after-a-year-of-traffic-the-unusual-road-fill-showed-low-settlement-and-no-internal-heating/articleshow/135313215.cms",
       "source": "The Times of India",
       "date": "2026-10-30",
-      "image": "https://img.etimg.com/thumb/msid-135354572,width-1200,height-900,imgsize-234480,overlay-economictimes/articleshow.jpg",
+      "image": "https://img.etimg.com/thumb/msid-135313432,width-1200,height-900,imgsize-367604,overlay-economictimes/articleshow.jpg",
       "category": "market"
-    },
-    {
-      "title": "Roblox appoints Joel Neoh as managing director for Southeast Asia and Oceania",
-      "description": "Roblox appoints Joel Neoh as managing director for Southeast Asia and Oceaniamashable.com",
-      "url": "https://sea.mashable.com/tech/56518/roblox-appoints-joel-neoh-as-managing-director-for-southeast-asia-and-oceania",
-      "source": "Mashable",
-      "date": "2026-10-30",
-      "image": "https://sm.mashable.com/t/mashable_sea/photo/default/mashable-6_mz21.1200.png",
-      "category": "market"
-    },
-    {
-      "title": "Office supply in Bengaluru, Hyderabad jumps 2-fold to 30.45 million sq ft in Jan-Sep: JLL",
-      "description": "Bengaluru and Hyderabad\u2019s fresh office supply doubled to 30.45 million sq ft, signaling strong GCC-driven demand across seven Indian cities.",
-      "url": "https://www.thehindubusinessline.com/news/real-estate/office-supply-in-bengaluru-hyderabad-jumps-2-fold-to-3045-million-sq-ft-in-jan-sep-jll/article71644447.ece",
-      "source": "BusinessLine",
-      "date": "2026-10-30",
-      "image": "https://bl-i.thgim.com/public/incoming/25d6z8/article71644495.ece/alternates/LANDSCAPE_1200/iStock-520838260.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "The Diplomat renewed for S5 on Netflix",
-      "description": "NEWS BRIEF: Netflix has renewed US political drama series The Diplomat for a fifth season. Created by Debora Cahn, The Diplomat launched on Netflix in 2023. Season four started streaming earlier this m...",
-      "url": "https://www.c21media.net/news/the-diplomat-renewed-for-s5-on-netflix/",
-      "source": "C21media.net",
-      "date": "2026-10-30",
-      "image": "https://cdn.c21media.net/wp-content/uploads/2024/11/the-diplomat.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Baku opens the door: What the first FIFA U-15 World Cup & Festival\u2122 means for world football",
-      "description": "More than 3,000 young players and officials from 189 nations have gathered in Azerbaijan. For many smaller associations, the first FIFA U-15 World Cup & Festival\u2122 is their debut on the big stage, an...",
-      "url": "https://onefootball.com/en/news/baku-opens-the-door-what-the-first-fifa-u-15-world-cup-festival-means-for-world-football-43696153",
-      "source": "Onefootball.com",
-      "date": "2026-10-30",
-      "image": "https://s.yimg.com/lo/mysterio/api/30fcfcc3eeda5efa7c485918cddf76945d2522e0a235a84c63f9fbd2177ae17a/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fonefootball_articles_802%2F4546cf71097724d3792db2d0754da27d.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Stock Market APIs: Build Your Own Stock Monitoring Platform",
-      "description": "Building Your Own Stock Monitoring Platform: A Guide to the APIs That Power It Stock apps show what their designers decided matters. Build your own and you choose what to watch and when to be told. This guide covers the services people use for each part of th\u2026",
-      "url": "https://cloudtweaks.com/2026/10/stock-apis-building-your-own-stock-monitoring-platform/",
-      "source": "Cloudtweaks.com",
-      "date": "2026-10-30",
-      "image": "https://cloudtweaks.com/wp-content/uploads/2023/10/author-randy.webp",
-      "category": "market"
-    },
-    {
-      "title": "Donald Trump Sure Is Corrupt. If Only There Were a Constitutional Remedy for That.",
-      "description": "The most common ground for impeachment throughout Anglo-American history has been corruption.",
-      "url": "https://slate.com/news-and-politics/2026/10/donald-trump-corruption-constitution-impeachment-fail.html",
-      "source": "Slate Magazine",
-      "date": "2026-10-30",
-      "image": "https://compote.slate.com/images/f15b8001-05ac-4351-a63c-d59d5f7fba77.jpeg?crop=1536%2C1024%2Cx0%2Cy0&width=1560",
-      "category": "market"
-    },
-    {
-      "title": "Adam Hamilton\u2019s Moral Crusade",
-      "description": "The candidate with a chance to become the first Democrat elected to the U.S. Senate from Kansas since 1932 is leading with his values. But there are some limits.\nThe post Adam Hamilton\u2019s Moral Crusade appeared first on The American Prospect.",
-      "url": "https://prospect.org/2026/10/30/adam-hamilton-moral-crusade-kansas-senate-roger-marshall/",
-      "source": "The American Prospect",
-      "date": "2026-10-30",
-      "image": "https://i0.wp.com/prospect.org/wp-content/uploads/2026/10/Dayen-KS-Hamilton-103026.jpg?fit=2000%2C1346&ssl=1",
-      "category": "market"
-    },
-    {
-      "title": "FTC Warns Against Misleading Health Insurance Ads: How to Avoid Limited Coverage Offers",
-      "description": "Just two days before the open enrollment period for Obamacare health insurance kicks off, the Federal Trade Commission (FTC) in the United States has ...",
-      "url": "https://www.cubaheadlines.com/articles/344221",
-      "source": "Cubaheadlines.com",
-      "date": "2026-10-30",
-      "image": "https://cdn0.celebritax.com/sites/default/files/styles/watermark_100/public/1793307601-ftc-alerta-anuncios-enganosos-seguros-medicos-evitar-ofertas-cobertura-limitada.jpg",
-      "category": "geopolitics"
     }
   ],
   "history": [
@@ -517,7 +517,7 @@
       "platinum_usd_oz": 1681.4
     }
   ],
-  "timestamp": "2026-10-31T15:20:53.719039+05:30",
+  "timestamp": "2026-10-31T18:24:23.341546+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
