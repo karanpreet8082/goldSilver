@@ -31,7 +31,7 @@
       "SGD_INR": 74.3566
     },
     "gold_silver_ratio": 78.88,
-    "timestamp": "2026-11-01T16:12:24.060724",
+    "timestamp": "2026-11-01T18:02:03.225221",
     "source": "GoldAPI"
   },
   "currencies": {
@@ -54,7 +54,7 @@
         "hold": 25
       },
       "summary": "Gold is showing negative signals. Significant daily drop of -3.6%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-01T16:12:30.412132",
+      "timestamp": "2026-11-01T18:02:08.156334",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 25
       },
       "summary": "Silver is showing negative signals. Significant daily drop of -5.8%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-01T16:12:30.484358",
+      "timestamp": "2026-11-01T18:02:08.247533",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 25
       },
       "summary": "Platinum is showing negative signals. Significant daily drop of -3.5%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-01T16:12:30.552765",
+      "timestamp": "2026-11-01T18:02:08.322049",
       "source": "rule-based"
     }
   },
@@ -146,12 +146,30 @@
       "category": "inflation"
     },
     {
+      "title": "Crash! Gold price suffers worst October in years: Did silver and platinum suffer too? Check monthly performance - Livemint",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxNVWFSbVpYOWt0c2Z3cTNFV2Fvc2NKaEk2Z0VnYl9FRjVPZ3d6OFVZLTBHZnVrVk5zVVFYS0xlakhuRWhHZTlJMm9fZDcwLW42UnJ3UExfQTJqWS1ocFNKWWdqRjV1eW9FT0R5bU1fV3J2SEdjZktxVko3NDJQcm0xYUVjM2xXRVg5cWE1ZlRZTHVfclVqMGJORjRpVW1rWTBKRlB1d2twUW9UYnRoTnVkLUVTQ3pVWmRld0",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNVWFSbVpYOWt0c2Z3cTNFV2Fvc2NKaEk2Z0VnYl9FRjVPZ3d6OFVZLTBHZnVrVk5zVVFYS0xlakhuRWhHZTlJMm9fZDcwLW42UnJ3UExfQTJqWS1ocFNKWWdqRjV1eW9FT0R5bU1fV3J2SEdjZktxVko3NDJQcm0xYUVjM2xXRVg5cWE1ZlRZTHVfclVqMGJORjRpVW1rWTBKRlB1d2twUW9UYnRoTnVkLUVTQ3pVWmRld0c1MnZVTmZLbFNFMmZHZ0NvNmJBSERtY2JyU0lfc09hMFpTaDVTWjJVckVPVlRKX0c2N1cwekdhYW9uZnl2V2VYUDM3ZXZEWnfSAYcCQVVfeXFMT1p5d1hQRVU5bVNSbWtCOFowRmotQ0NhVFRlNkdjWm9MeFZfdmp4anNBWl9aN2VxeFZULUhVZlNkYmM3cnBQM19ueUVrWnRPSHRQeUdnejBVV0dubEh2d1pSa3E0QmJuMDJmTkl5WVJ5ZEluMHRmRFNwdUVoUHhCS3M3alNJV1JuUWlqMldkYkhJZWtua1VMLUJ3MTdtLVNORlM3bkNQZ1puQVhWSGg5Q0lRc1pzZWlSTDM1Y1hLT2V1dWtzVmo0cFdkNU1SQ1NRNWRhc1EzSzk0eXZidWlCX2N2RkJVb2RtVmk5TW9uaVpHR3MzVFVPMHdiV2hJeF81TFZEN2cwRWM?oc=5",
+      "source": "Google News - Precious Metals",
+      "date": "2026-11-01",
+      "image": "",
+      "category": "platinum"
+    },
+    {
       "title": "Glitter Bug Gold Buyers Launches Precious Metals Verification and Transparency Initiative - The Manila Times",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQTNnSUIzY0tkbjBnQnZ0MmJzRFlZNTV6STQwN1dPbVdmWFJqU0NOMHZxbERxQ3RBbkI1MHZJWENRUWZEMVBKWmdBZ0ppVmV1WW9aRDhSN2UyT0phYldZbTZsc2gwSnhwVENZbnhBLWg0bUFONElIcm40SDVjVlVnSk85ajlHNkRGaVJ5ZjJxdUpfRU10bllHdWFsZDdMZjc2Z0NWb29YdXVOMjlHQU1qUnZVaFdSQWFTZ0",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQTNnSUIzY0tkbjBnQnZ0MmJzRFlZNTV6STQwN1dPbVdmWFJqU0NOMHZxbERxQ3RBbkI1MHZJWENRUWZEMVBKWmdBZ0ppVmV1WW9aRDhSN2UyT0phYldZbTZsc2gwSnhwVENZbnhBLWg0bUFONElIcm40SDVjVlVnSk85ajlHNkRGaVJ5ZjJxdUpfRU10bllHdWFsZDdMZjc2Z0NWb29YdXVOMjlHQU1qUnZVaFdSQWFTZ09SZHE2WnhvZU1UUWtULVpnRGlpd2kyM3ZEVkZDOFltZmdiS3BkYUNSSlNsWmYydDZVZFRfX1NScVZldlHSAfsBQVVfeXFMTUkzcmVXbFdWdHJGaTRfYzd1cm1HRVo3czJoRFY2WnkzMzdUeFY5MVhDWTRMZjh1RWRCbzFPY1pZNE5PRHR1RTVnQmd1eHpkc3FleU9SX3Mzbm9UalMzYWRHcnh5amQ4V1lDNHZuMk14X2FhXzd5dHBaSG9GcVdWY0JYSWxTTmxFeGhVZUV0OWNpSWdlcjQ5U0pNZ1lHQ0lQSWpJN3kxQUR6Zkwycmp1eEN3MzZsTVdsb3NvSG41aGhOWEQyWkNrbXF4bG1DSE5Jc1VFTHRmN0dCdC1pNV9ob0F0bzVNellETThLMFZydDVVNy1IVGVtdGs5eGs?oc=5",
       "source": "Google News - Precious Metals",
       "date": "2026-11-01",
       "image": "",
+      "category": "metals"
+    },
+    {
+      "title": "Gold, Silver rates crash: What happened with precious metal rates? What didn't go in favour and brought them down?",
+      "description": "Gold and silver prices plunged on Friday, with MCX gold falling \u20b94,347 per 10 grams and silver dropping \u20b910,577 per kg. Here are the factors responsible for this deep plunge.&nbsp;",
+      "url": "https://www.livemint.com/money/gold-silver-rates-crash-what-happened-with-precious-metal-rates-what-didnt-go-in-favour-and-brought-them-down-11793465441981.html",
+      "source": "Livemint",
+      "date": "2026-10-31",
+      "image": "https://www.livemint.com/lm-img/img/2026/10/31/1600x900/logo/Gold_and_Silver_Market_Drop__1793468062502_tRKd_1793468062874_YCym_3323b0bb-a6d2-4409-82cb-dcc9d147f70f_k2Kf.png",
       "category": "metals"
     },
     {
@@ -218,13 +236,13 @@
       "category": "metals"
     },
     {
-      "title": "Silver loses more than half its value from record high: What went wrong and will it recover?",
-      "description": "Silver has plunged more than 58% from its February record high of nearly $120 an ounce to around $50, as profit-booking, weaker industrial demand and shifting macroeconomic conditions weigh on prices. Geojit\u2019s Hareesh V explains what drove the rally, why it u\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-loses-more-than-half-its-value-from-record-high-what-went-wrong-and-will-it-recover/articleshow/135395608.cms",
-      "source": "The Times of India",
+      "title": "Bullion Cues: Supports face a test",
+      "description": "Bears deepen as gold and silver slide; key supports tested with potential further declines and limited recovery signals.",
+      "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/bullion-cues-supports-face-a-test/article71648724.ece",
+      "source": "BusinessLine",
       "date": "2026-10-31",
-      "image": "https://img.etimg.com/thumb/msid-135395763,width-1200,height-900,imgsize-20050,overlay-etmarkets/articleshow.jpg",
-      "category": "supply_demand"
+      "image": "https://bl-i.thgim.com/public/incoming/pgw1d2/article71649068.ece/alternates/LANDSCAPE_1200/AFP_C9TR39E.jpg",
+      "category": "metals"
     },
     {
       "title": "Gold plunges \u20b93,200 to 10-month low of \u20b91.42 lakh; silver slides \u20b94,200",
@@ -254,6 +272,15 @@
       "category": "currency"
     },
     {
+      "title": "Silver loses more than half its value from record high: What went wrong and will it recover?",
+      "description": "Silver has plunged more than 58% from its February record high of nearly $120 an ounce to around $50, as profit-booking, weaker industrial demand and shifting macroeconomic conditions weigh on prices. Geojit\u2019s Hareesh V explains what drove the rally, why it u\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-loses-more-than-half-its-value-from-record-high-what-went-wrong-and-will-it-recover/articleshow/135395608.cms",
+      "source": "The Times of India",
+      "date": "2026-10-31",
+      "image": "https://img.etimg.com/thumb/msid-135395763,width-1200,height-900,imgsize-20050,overlay-etmarkets/articleshow.jpg",
+      "category": "supply_demand"
+    },
+    {
       "title": "Dead dolphins, naval mines: Russia-Ukraine war destroys the Black Sea",
       "description": "Conflict devastates Black Sea marine life, killing more than 120,000 dolphins and causing ecological damage.",
       "url": "https://www.aljazeera.com/news/2026/10/31/dead-dolphins-naval-mines-russia-ukraine-war-destroys-the-black-sea",
@@ -263,148 +290,121 @@
       "category": "geopolitics"
     },
     {
-      "title": "ET Wealth Expo: Why market veteran S Naren thinks investors are getting gold, silver and asset allocation all wrong",
-      "description": "ICICI Prudential MF's S Naren warns investors against chasing assets after spectacular rallies, highlighting how silver's 216% surge drew record ETF inflows before a 27% correction. At the ET Wealth Expo, he explained why genuine asset allocation means buying\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/et-wealth-expo-why-market-veteran-s-naren-thinks-investors-are-getting-gold-silver-and-asset-allocation-all-wrong/articleshow/135391370.cms",
-      "source": "The Times of India",
+      "title": "Iran\u2019s IRGC\u00a0Navy\u00a0Says Four Tankers Catch Fire In Strait Of Hormuz",
+      "description": "DUBAI, Oct 30 (Reuters)\u00a0\u2013\u00a0Iran\u2019s Revolutionary Guards\u00a0Navy\u00a0said on Friday that\u00a0four oil tankers\u00a0had caught fire and exploded in the Strait of Hormuz, while attempting to use what it described as unauthorised routes,...",
+      "url": "https://gcaptain.com/irans-irgc-navy-says-four-tankers-catch-fire-in-strait-of-hormuz/",
+      "source": "gcaptain.com",
       "date": "2026-10-31",
-      "image": "https://img.etimg.com/thumb/msid-135391513,width-1200,height-900,imgsize-44068,overlay-etmarkets/articleshow.jpg",
+      "image": "https://gcaptain.com/wp-content/uploads/2026/09/2026-09-16T054444Z_1957483145_RC2PJNADDY53_RTRMADP_3_IRAN-CRISIS.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Northflank security breach leads to abuse of customers' AI API keys",
+      "description": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
+      "source": "BleepingComputer",
+      "date": "2026-10-31",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/10/31/northflank-header.jpg",
       "category": "geopolitics"
     },
     {
-      "title": "Silver hits 11-month low at \u20b91.9 lakh per kg in Delhi; crashes to $49/ounce globally",
-      "description": "Silver sinks to 11-month low around \u20b91.90 lakh/kg as global prices tumble, gold dips, and sentiment dampens by weaker markets and rate-hike expectations.",
-      "url": "https://www.thehindubusinessline.com/markets/gold/silver-hits-11-month-low-at-19-lakh-per-kg-in-delhi-crashes-to-49ounce-globally/article71648219.ece",
-      "source": "BusinessLine",
+      "title": "The government knows it has a problem, does it have a clear path forward?",
+      "description": "The prime minister has ridden out plenty of political turbulence before, but now economic headwinds are being compounded by growing frustration within his own ranks.",
+      "url": "https://www.abc.net.au/news/2026-11-01/interest-rate-myefo-albanese-armstrong-analysis-economy/107327460",
+      "source": "ABC News (AU)",
       "date": "2026-10-31",
-      "image": "https://bl-i.thgim.com/public/incoming/suxsxa/article71648341.ece/alternates/LANDSCAPE_1200/PO01_Silver.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "Drive to Great | BAIC FOTON Africa Partners Conference Successfully Held, Accelerating Localization Strategy",
-      "description": "PORT ELIZABETH, South Africa, Oct. 31, 2026 /PRNewswire/ -- On October 29, the BAIC FOTON Africa Partners Conference, themed \"Drive to Great,\" was held at Nelson Mandela Bay Stadium in Port Elizabeth, South Africa. Nearly 700 participants attended, including \u2026",
-      "url": "https://www.prnewswire.co.uk/news-releases/drive-to-great--baic-foton-africa-partners-conference-successfully-held-accelerating-localization-strategy-302925598.html",
-      "source": "PR Newswire UK",
-      "date": "2026-10-31",
-      "image": "https://mmx.prnewswire.com/media/MS2024900/20261031020741EDT_image_2.jpg?id=OA3050998&p=facebook",
-      "category": "market"
-    },
-    {
-      "title": "French lawmakers approve $11.2 billion internet tax based on traffic usage, costs $0.65 per gigabyte of content accessed",
-      "description": "French lawmakers have approved an amendment proposing a \u20ac0.055-per-gigabyte tax on digital content delivered to internet subscribers in France. The measure could generate an estimated \u20ac10 billion annually, with companies including Google, Meta, Netflix and po\u2026",
-      "url": "https://www.tomshardware.com/software/social-media/french-lawmakers-approve-usd11-2-billion-internet-tax-based-on-traffic-usage-costs-usd0-65-per-gigabyte-of-content-accessed-us-tech-giants-like-google-and-meta-face-new-levies-on-content-delivered-to-french-subscribers",
-      "source": "Tom's Hardware UK",
-      "date": "2026-10-31",
-      "image": "https://cdn.mos.cms.futurecdn.net/yeBt29Vm4TfTVMxZ3A5m6b-2560-80.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Tamil Nadu industries minister Keerthana to undertake official visit to Germany from Nov 1",
-      "description": "The visit comes at a key moment in India-EU economic relations, following the conclusion of negotiations on the India-EU Free Trade Agreement",
-      "url": "https://www.thehindubusinessline.com/news/tamil-nadu-industries-minister-keerthana-to-undertake-official-visit-to-germany-from-nov-1/article71650418.ece",
-      "source": "BusinessLine",
-      "date": "2026-10-31",
-      "image": "https://bl-i.thgim.com/public/incoming/37wtay/article71650453.ece/alternates/LANDSCAPE_1200/2085_3_7_2026_17_58_59_2_KEERTHANA7.JPG",
-      "category": "market"
-    },
-    {
-      "title": "Halloween candy, in this economy? Gen Z sours on the sweet stuff",
-      "description": "They do not, in fact, want candy.",
-      "url": "https://nypost.com/2026/10/31/lifestyle/best-candy-according-to-every-generation-national-survey/",
-      "source": "New York Post",
-      "date": "2026-10-31",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-ilqvy8fru-1793462358884.jpg?quality=75&strip=all&1793447997&w=1200",
-      "category": "market"
-    },
-    {
-      "title": "Colton Herta remains ineligible for F1 due to IndyCar miscommunication; reportedly has ride if qualified",
-      "description": "An error on IndyCar's website leaves Colton Herta one point shy of getting his super license to race in Formula One in 2027. He reportedly has a ride if he qualifies",
-      "url": "https://www.indystar.com/story/sports/motor/2026/10/31/colton-herta-remains-ineligible-for-f1-due-to-miscommunication-with-indycar/92533625007/",
-      "source": "The Indianapolis Star",
-      "date": "2026-10-31",
-      "image": "https://s.yimg.com/lo/mysterio/api/dad05bb17f91ffe048bfee2d8ad07ef9572debdeffa6a8e9e3e35acb96e105a6/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Findianapolis_star_natl_articles_522%2F1d8344a7313cd27aaef33a5da7ca3282.jpg",
-      "category": "market"
-    },
-    {
-      "title": "You Think EPCOT Is Crowded? These 7 Theme Parks Are Even Busier.",
-      "description": "These seven theme parks are more crowded than EPCOT, even though we really didn't think that was possible.",
-      "url": "https://www.disneyfoodblog.com/2026/10/31/you-think-epcot-is-crowded-these-7-theme-parks-are-even-busier/",
-      "source": "disneyfoodblog.com",
-      "date": "2026-10-31",
-      "image": "https://www.disneyfoodblog.com/wp-content/uploads/2026/08/2026-WDW-EPCOT-International-Food-and-Wine-Festival-Crowds-Atmo-23-700x525.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Iran targeted US air defenses then hit aircraft and buildings on Mideast bases, AP analysis finds",
-      "description": "Iran\u2019s strikes on more than two dozen U.S. bases in the Middle East focused on early warning systems before hitting aircraft and buildings",
-      "url": "https://abcnews.com/US/wireStory/iran-targeted-us-air-defenses-hit-aircraft-buildings-137733589",
-      "source": "Abcnews.com",
-      "date": "2026-10-31",
-      "image": "https://i.abcnewsfe.com/a/ae7f34bb-b2c0-4d93-a3fc-f27cb8324b50/wirestory_26e0f05e01d6f56ff46f7c1a14384f7c_16x9.jpg?w=1600",
+      "image": "https://live-production.wcms.abc-cdn.net.au/61b52894586ef25f9f54db9651b62404?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
       "category": "geopolitics"
     },
     {
-      "title": "When global diplomacy is done, it's time for American football",
-      "description": "Secretary of State Marco Rubio is planning to host his foreign minister counterparts at a quintessential American sporting event",
-      "url": "https://abcnews.com/US/wireStory/global-diplomacy-time-american-football-137735164",
-      "source": "Abcnews.com",
+      "title": "Cyclone forecast tips quieter season for Australia",
+      "description": "Modelling shows that Australia's cyclone season, which runs from November 1 to April 30, could be one of the quietest on record.",
+      "url": "https://www.abc.net.au/news/2026-11-01/bom-australia-cyclone-season-predicted-quiet/107329238",
+      "source": "ABC News (AU)",
       "date": "2026-10-31",
-      "image": "https://i.abcnewsfe.com/a/fdb5ffd7-9403-460e-9aaa-413a021e970b/wirestory_1457921ac259d90574fd1ebda3d74bca_16x9.jpg?w=1600",
+      "image": "https://live-production.wcms.abc-cdn.net.au/b3a07db183369d1e0b05bbe027add28a?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
       "category": "market"
     },
     {
-      "title": "Rising health costs and coverage changes are big concerns for older adults as Election Day nears",
-      "description": "Rising healthcare costs are a major concern for older Americans, and it's affecting their finances and political priorities",
-      "url": "https://abcnews.com/Business/wireStory/rising-health-costs-coverage-big-concerns-older-adults-137731672",
-      "source": "Abcnews.com",
+      "title": "Liquid I.V. appoints former Poppi marketer Jenny Danzi as chief marketing officer",
+      "description": "Liquid I.V. appoints former Poppi marketer Jenny Danzi as chief marketing officerzestnews.today",
+      "url": "https://zestnews.today/news/liquid_i_v_appoints_former_poppi_marketer_jenny_danzi_as_chief_marketing_officer_5997461.html",
+      "source": "Zestnews.today",
       "date": "2026-10-31",
-      "image": "https://i.abcnewsfe.com/a/eb916c2e-f191-4fef-9d92-6dcddc35feb0/wirestory_e519a4e0fe409cd32ead78226d85a80f_16x9.jpg?w=1600",
+      "image": "https://zestnews.today/local/templates/zest2026/favicon/android-chrome-512x512.png",
       "category": "market"
     },
     {
-      "title": "Doug Stang named next president and CEO of Minnesota Chamber of Commerce",
-      "description": "Stang most recently served as head of federal and state government affairs at LegalZoom, where he built the company\u2019s enterprise government affairs function across federal and all 50 state jurisdictions.",
-      "url": "https://www.inforum.com/business/doug-stang-named-next-president-and-ceo-of-minnesota-chamber-of-commerce",
-      "source": "INFORUM",
+      "title": "Can this $300,000 flying car compete with #Tesla? #flyingcar #tech #transportation",
+      "description": "Business Insider is a global newsroom covering business, technology, innovation, and the economy. Visit our homepage for the ...",
+      "url": "https://biztoc.com/x/5b0481f3ea3c0ce7",
+      "source": "Biztoc.com",
       "date": "2026-10-31",
-      "image": "https://cdn.forumcomm.com/dims4/default/b614eca/2147483647/strip/true/crop/1200x1800+0+0/resize/711x1066!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2F41%2F52%2Fc1c1131d415f8e68c1666c79800f%2Fdoug-stang-headshot.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "'Ghost Students' using AI to apply for student loans with stolen identities \u2014 DOJ's Operation Ghostbusters busts $200 million ring faking online college attendance, unsuspecting victims saddled with student debt they didn\u2019t sign up for",
-      "description": "Fraudsters are using the identities of high school graduates who skipped college to apply for student loans and steal the excess proceeds that do not go to schools. They use AI to keep the charade going and make it seem like the fake student is actually going\u2026",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/ghost-students-using-ai-to-apply-for-student-loans-with-stolen-identities-dojs-operation-ghostbusters-busts-usd200-million-ring-faking-online-college-attendance-unsuspecting-victims-saddled-with-student-debt-they-didnt-sign-up-for",
-      "source": "Tom's Hardware UK",
-      "date": "2026-10-31",
-      "image": "https://cdn.mos.cms.futurecdn.net/3QDubn6i56tX4gPckKhuJd-1920-80.png",
+      "image": "https://biztoc.com/cdn/5b0481f3ea3c0ce7_s.webp",
       "category": "market"
     },
     {
-      "title": "Gold Cards, Geographic Limits: Potential Paths For The Home Health Enrollment Freeze - The Girl That Runs",
-      "description": "CMS officials discussed gold-card exceptions and geographic limits for the home health enrollment moratorium. No policy decision has been announced.",
-      "url": "https://thegirlthatruns.com/general/gold-cards-geographic-limits-potential-paths-for-the-home-health-enrollment-free/",
-      "source": "Thegirlthatruns.com",
+      "title": "S&P Says Meta Can\u2019t Make Money From AI as Well as Its Rivals",
+      "description": "The post S&P Says Meta Can\u2019t Make Money From AI as Well as Its Rivals appeared first on 24/7 Wall St..\nOn October 30, 2026, S&P Global Ratings maintained Meta Platforms (NASDAQ:META) at AA- and revised its outlook from stable to negative. S&P pointed to uncer\u2026",
+      "url": "https://biztoc.com/x/05fc3eb05adf851c",
+      "source": "Biztoc.com",
       "date": "2026-10-31",
-      "image": "https://thegirlthatruns.com/wp-content/uploads/2026/10/gold-cards-geographic-limits-potential-paths-for-the-home-health-enrollment-free-featured.jpg",
-      "category": "metals"
+      "image": "https://biztoc.com/cdn/05fc3eb05adf851c_s.webp",
+      "category": "market"
     },
     {
-      "title": "U. of Kentucky Employee Wins Religious Exemption from Mandatory AI Use",
-      "description": "A research administrator at the University of Kentucky has secured a legal exemption from his employer's AI mandate on the grounds that using tools like ChatGPT would violate his humanist beliefs.\nThe post U. of Kentucky Employee Wins Religious Exemption from\u2026",
-      "url": "https://www.breitbart.com/tech/2026/10/31/u-of-kentucky-employee-wins-religious-exemption-from-mandatory-ai-use/",
+      "title": "Trump Was Right to Take On Iran, and Two Years of Refilling Oil Tanks Is a Bargain",
+      "description": "On October 22, the energy analysts at Kpler reported a number that the drive-by media refused to report. The volume of Iranian crude floating outside the blockade zone had fallen to zero, down from roughly 136 million barrels when the war began in February. N\u2026",
+      "url": "https://freerepublic.com/focus/f-chat/4401275/posts",
+      "source": "Freerepublic.com",
+      "date": "2026-10-31",
+      "image": null,
+      "category": "geopolitics"
+    },
+    {
+      "title": "Senate Democrats' Nursing Home Report Says Nearly a Third Lag on Inspections, but Figure Relies on 2023 Data",
+      "description": "A Senate Finance Democrats' report highlights overdue nursing home inspections, but its nearly one-third figure comes from 2023. Newer data show improvement nationally and severe gaps in some states.",
+      "url": "https://www.medicaldaily.com/senate-democrats-nursing-home-inspections-outdated-data-480647",
+      "source": "Medical Daily",
+      "date": "2026-10-31",
+      "image": "https://d.medicaldaily.com/en/full/488011/nursing-home-inspection.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Gada begins Sokoto East campaign, woos voters for PDP",
+      "description": "Former senator and PDP candidate for Sokoto East, Abubakar Gada, has flagged off his campaign, urging voters to support the party\u2019s bid to reclaim power in\n\nRead More: https://punchng.com/gada-begins-sokoto-east-campaign-woos-voters-for-pdp/",
+      "url": "https://punchng.com/gada-begins-sokoto-east-campaign-woos-voters-for-pdp/",
+      "source": "The Punch",
+      "date": "2026-10-31",
+      "image": "https://cdn.punchng.com/wp-content/uploads/2026/10/31184650/1002150761_1793468810-1200x630.webp",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Deputy Secretary of State: Doomed Migrant Caravans Show Cartels' Hidden Power",
+      "description": "The quick failure of migrant \"caravans\" shows how mass migration will quickly restart if Democrats loosen the nation's border defenses, says Christopher Landau, the\u00a0deputy secretary of state.\nThe post Deputy Secretary of State: Doomed Migrant Caravans Show Ca\u2026",
+      "url": "https://www.breitbart.com/economy/2026/10/31/deputy-secretary-of-state-doomed-migrant-caravans-show-cartels-hidden-power/",
       "source": "Breitbart News",
       "date": "2026-10-31",
-      "image": "https://media.breitbart.com/media/2026/10/Humans-rejecting-AI-640x335.jpg",
+      "image": "https://media.breitbart.com/media/2026/10/GettyImages-1052924384-640x335.png",
       "category": "market"
     },
     {
-      "title": "How Obama appointee and Trump nemesis Boasberg ended up overseeing Ilhan Omar warrant, other key cases",
-      "description": "Judge James Boasberg oversees the Ilhan Omar search warrant fight, deportation flights, and California voter rolls, raising assignment questions.",
-      "url": "https://www.foxnews.com/politics/obama-appointee-trump-nemesis-boasberg-overseeing-ilhan-omar-warrant-key-cases",
+      "title": "From the streets of Paris to the synagogues of NY",
+      "description": "As revolutionary agitation, Islamist extremism and anti-Jewish incitement converge, America must confront a dangerous erosion of Jewish security before hatred becomes an accepted feature of public life. We must choose candidates who will fight antisemitism. O\u2026",
+      "url": "https://www.israelnationalnews.com/news/435420",
+      "source": "Israelnationalnews.com",
+      "date": "2026-10-31",
+      "image": "https://2.a7.org/files/pictures/000/1206113.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Who are Ilhan Omar\u2019s lawyers? Meet the high-powered Dem attorneys the embattled rep hired",
+      "description": "Ilhan Omar has hired Amy Jeffress and Joshua Matz, attorneys who represented Biden, House Democrats in Trump impeachment, and E. Jean Carroll.",
+      "url": "https://www.foxnews.com/politics/who-ilhan-omars-lawyers-meet-high-powered-dem-attorneys-embattled-rep-hired",
       "source": "Fox News",
       "date": "2026-10-31",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/03/gettyimages-1248223118-copy-boasberg.jpeg",
-      "category": "geopolitics"
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/Omar-Trump-lawyers.jpg",
+      "category": "market"
     }
   ],
   "history": [
@@ -529,7 +529,7 @@
       "platinum_usd_oz": 1435.75
     }
   ],
-  "timestamp": "2026-11-01T21:42:30.561218+05:30",
+  "timestamp": "2026-11-01T23:32:08.339112+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
