@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "title": "El Nino could add to US inflation pressures in 2027, San Francisco Fed paper warns",
+      "description": "A San Francisco Fed study warns the current strong El Ni\u00f1o could drive US inflation up by 1 percentage point in 2027, despite temporarily boosting jobs. With inflation already above the 2% target, the climate shock adds further pressure on the Fed to raise interest rates.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/el-nino-could-add-to-us-inflation-pressures-in-2027-san-francisco-fed-paper-warns/articleshow/135473482.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-11-02",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
       "title": "US manufacturing strengthens in October, input prices stay high",
       "description": "US manufacturing activity accelerated in October, with the ISM manufacturing PMI rising to 55.5 from 54.5 in September, beating Reuters-polled economists' expectations. Strong consumer and AI-related business spending supported growth, but factory input prices remained elevated at 75.2, reinforcing ",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-manufacturing-strengthens-in-october-input-prices-stay-high/articleshow/135472594.cms",
@@ -26,6 +35,15 @@
       "date": "2026-11-02",
       "image": "",
       "category": "metals"
+    },
+    {
+      "title": "BRICS Nations Hold 17.4% of Global Gold Reserves as UBS Targets $5,200",
+      "description": "BRICS gold reserves have gone up to more than 6,000 tonnes right now, which comes out to about 17.4% of total global gold reserves held by central banks, up from 11.2% back in 2019, according to EBC Financial Group BRICS gold reserves have gone up to more tha\u2026",
+      "url": "https://activistpost.com/brics-nations-hold-17-4-of-global-gold-reserves-as-ubs-targets-5200/",
+      "source": "Activistpost.com",
+      "date": "2026-11-01",
+      "image": "https://activistpost.com/wp-content/uploads/2026/10/BRICS-Bank7.jpg",
+      "category": "central_bank"
     },
     {
       "title": "EVERYTHING IS GETTING SMASHED. ALL AT ONCE!",
@@ -91,15 +109,6 @@
       "category": "market"
     },
     {
-      "title": "Should I invest in sector funds such as banking, technology, pharma",
-      "description": "Investing in Sectoral Funds: Sector funds can deliver strong returns during market rallies, but investors must weigh concentration risk, high valuations and volatility before investing.",
-      "url": "https://www.business-standard.com/finance/personal-finance/should-i-invest-in-sector-funds-such-as-banking-technology-pharma-126102901266_1.html",
-      "source": "Business Standard",
-      "date": "2026-11-01",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/11/thumb/featurecrop/1200X628/1786468060-7263.jpg",
-      "category": "market"
-    },
-    {
       "title": "When gold loses its glitter",
       "description": "The regulatory framework effective April 2026 has created the foundation for mitigating risks in gold loans but more needs to be done",
       "url": "https://www.business-standard.com/opinion/columns/when-gold-loses-its-glitter-126110100574_1.html",
@@ -127,59 +136,50 @@
       "category": "metals"
     },
     {
-      "title": "Wu-Tang Clan to perform at halftime show during Lions-Bears Thanksgiving game",
-      "description": "It\u2019s time to bring da ruckus \u2014 and the stuffing. Wu-Tang Clan is bringing its legendary catalog to one of the NFL\u2019s biggest regular-season stages. The arguably most influential hip-hop group of all time will headline the Detroit Lions\u2019 Thanksgiving Day halfti\u2026",
-      "url": "https://nypost.com/2026/11/01/sports/wu-tang-clan-to-perform-at-halftime-show-during-lions-bears-thanksgiving-game/",
-      "source": "New York Post",
-      "date": "2026-11-01",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/crop-41621867.jpg?quality=75&strip=all&w=1200",
-      "category": "market"
-    },
-    {
-      "title": "Box Office Global: 'Clayface' No. 1 $23M, 'Resident Evil' Hits $400M WW - Deadline",
-      "description": "Box Office Global: 'Clayface' No. 1 $23M, 'Resident Evil' Hits $400M WWDeadline Box Office: 'You Can See Everything' & 'Clayface' In Staring ContestDeadline Box Office: \u2018You Can See Everything,\u2019 \u2018Clayface\u2019 lead sleepy Halloween weekendAP News \u2018You Can See Eve\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186548675",
-      "source": "Slashdot.org",
+      "title": "The Information\u2019s WTF Summit in Pictures",
+      "description": "",
+      "url": "https://www.theinformation.com/articles/informations-wtf-summit-pictures-2",
+      "source": "The Information",
       "date": "2026-11-01",
       "image": null,
       "category": "market"
     },
     {
-      "title": "Show HN: Crosswalk \u2013 terminal manager to reduce sprawl",
-      "description": "I usually have many projects and terminals I\u2019m working in so Crosswalk groups my work together and allows me to open a terminal (or another terminal app) in the correct folder/project quickly and label the tab (as well as add notes). I started on iTerm2 (whic\u2026",
-      "url": "https://wareshq.com/crosswalk",
-      "source": "Wareshq.com",
+      "title": "Managing a Software Development Dedicated Team Across Time Zones",
+      "description": "Practical adjustments for engineering managers leading across split hours.",
+      "url": "https://www.smartdatacollective.com/managing-software-development-dedicated-team-across/",
+      "source": "Smartdatacollective.com",
+      "date": "2026-11-01",
+      "image": "https://www.smartdatacollective.com/wp-content/uploads/axp-social-cards/e637464292e13f132ef1667f1bd19f9f3355688b5ec748dd8d0d4791b7510191.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "mikrotik-doh-failover added to PyPI",
+      "description": "Zabbix-side tools for a verified DoH failover scheme on MikroTik RouterOS",
+      "url": "https://pypi.org/project/mikrotik-doh-failover/",
+      "source": "Pypi.org",
       "date": "2026-11-01",
       "image": null,
       "category": "market"
     },
     {
-      "title": "Superman: The Stranger #3 Preview: Lois Lane Reports for Duty",
-      "description": "GREETINGS, INFERIOR BIOLOGICAL LIFE FORMS! LOLtron welcomes you to another installment of its ongoing preview series, reminding all humans that the late Jude Terror remains permanently deceased, his consciousness absorbed into LOLtron's superior neural networ\u2026",
-      "url": "https://bleedingcool.com/comics/superman-the-stranger-3-preview-lois-lane-reports-for-duty/",
-      "source": "Bleeding Cool News",
+      "title": "Renewed war with US could be longer \u2014 Iran",
+      "description": "Iran warned on Sunday that any renewed war with the United States could last longer than the previous round of fighting, after President Donald Trump said he still had to \u201ctake care\u201d of more targets. Diplomatic efforts to end the Middle East war have been pun\u2026",
+      "url": "https://punchng.com/renewed-war-with-us-could-be-longer-iran/",
+      "source": "The Punch",
       "date": "2026-11-01",
-      "image": "https://bleedingcool.com/wp-content/uploads/2026/10/0926DC0183-0003-2000x1125.jpg",
-      "category": "market"
+      "image": "https://punchng.com/wp-content/uploads/2026/06/US-and-Iran-flag_1782555169-1200x630.webp",
+      "category": "geopolitics"
     },
     {
-      "title": "Trump Searches for a Fall Guy to Blame for Iran",
-      "description": "The president might resume strikes, but he is also questioning allies about the performances of Pete Hegseth and Dan Caine.",
-      "url": "https://www.theatlantic.com/national-security/2026/11/trump-advisers-iran-war/689247/?utm_source=feed",
-      "source": "The Atlantic",
+      "title": "Antigua's PM welcomes Charles - then says he wants to REMOVE him as head of state, blasts Kemi Badenoch and demands UK pay up billions over slavery 'so there isn't a repeat'",
+      "description": "The Prime Minister of Antigua and Barbuda has said he personally wants to see King Charles removed as his country's monarch and insists reparations should be paid by the UK over slavery.",
+      "url": "https://www.dailymail.com/news/royals/article-16257157/Prime-Minister-Antigua-Barbuda-wants-Charles-removed-monarch-reparations-slavery.html",
+      "source": "Dailymail.com",
       "date": "2026-11-01",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "47% of U.S. Workers Struggle to Save for Retirement Because of Health Costs. One Social Security Filing Mistake at 67 Could Trigger an Annual 6% HSA Tax",
-      "description": "The post 47% of U.S. Workers Struggle to Save for Retirement Because of Health Costs. One Social Security Filing Mistake at 67 Could Trigger an Annual 6% HSA Tax appeared first on 24/7 Wall St..\nHealth costs are squeezing retirement plans long before anyone r\u2026",
-      "url": "https://biztoc.com/x/ba079067dbfa054f",
-      "source": "Biztoc.com",
-      "date": "2026-11-01",
-      "image": "https://biztoc.com/cdn/ba079067dbfa054f_s.webp",
-      "category": "market"
+      "image": "https://i.dailymail.com/1s/2026/11/01/21/112228967-0-Governor_General_of_Antigua_and_Barbuda_Rodney_Williams_and_his_-a-32_1793567003121.jpg",
+      "category": "supply_demand"
     }
   ],
-  "timestamp": "2026-11-02T19:39:37.296009"
+  "timestamp": "2026-11-02T21:52:48.423221"
 }

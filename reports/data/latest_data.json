@@ -1,24 +1,24 @@
 {
   "prices": {
     "gold": {
-      "price_per_gram_inr": 12060.78,
-      "price_usd_oz": 3945.94,
-      "change_percent": 1.81,
-      "change_value_usd": 70.29,
-      "price_per_10g_inr": 120607.85
+      "price_per_gram_inr": 12065.45,
+      "price_usd_oz": 3947.47,
+      "change_percent": 1.85,
+      "change_value_usd": 71.82,
+      "price_per_10g_inr": 120654.46
     },
     "silver": {
-      "price_per_gram_inr": 154.49,
-      "price_usd_oz": 50.55,
-      "change_percent": 2.87,
-      "change_value_usd": 1.41,
-      "price_per_kg_inr": 154494.1
+      "price_per_gram_inr": 154.76,
+      "price_usd_oz": 50.63,
+      "change_percent": 3.05,
+      "change_value_usd": 1.5,
+      "price_per_kg_inr": 154760.01
     },
     "platinum": {
-      "price_per_gram_inr": 4432.28,
-      "price_usd_oz": 1450.12,
-      "change_percent": 1,
-      "change_value_usd": 14.37
+      "price_per_gram_inr": 4430.13,
+      "price_usd_oz": 1449.41,
+      "change_percent": 0.95,
+      "change_value_usd": 13.66
     },
     "currencies": {
       "USD_INR": 95.068,
@@ -30,8 +30,8 @@
       "CAD_INR": 68.0564,
       "SGD_INR": 74.3823
     },
-    "gold_silver_ratio": 78.07,
-    "timestamp": "2026-11-02T19:39:32.506484",
+    "gold_silver_ratio": 77.96,
+    "timestamp": "2026-11-02T21:52:42.548486",
     "source": "GoldAPI"
   },
   "currencies": {
@@ -53,8 +53,8 @@
         "sell": 25,
         "hold": 50
       },
-      "summary": "Gold is showing negative signals. Strong daily gain of 1.8%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-02T19:39:37.511311",
+      "summary": "Gold is showing negative signals. Strong daily gain of 1.9%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
+      "timestamp": "2026-11-02T21:52:48.586623",
       "source": "rule-based"
     },
     "silver": {
@@ -65,8 +65,8 @@
         "sell": 25,
         "hold": 50
       },
-      "summary": "Silver is showing negative signals. Strong daily gain of 2.9%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-02T19:39:37.642213",
+      "summary": "Silver is showing negative signals. Strong daily gain of 3.0%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
+      "timestamp": "2026-11-02T21:52:48.655100",
       "source": "rule-based"
     },
     "platinum": {
@@ -77,8 +77,8 @@
         "sell": 56,
         "hold": 29
       },
-      "summary": "Platinum is showing negative signals. Positive daily movement of 1.0%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-02T19:39:37.759479",
+      "summary": "Platinum is showing negative signals. Positive daily movement of 0.9%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-11-02T21:52:48.718949",
       "source": "rule-based"
     }
   },
@@ -95,9 +95,9 @@
       ],
       "support": 118437.13,
       "resistance": 134616.17,
-      "current_price": 120607.85,
-      "ma_short": 124390.2,
-      "ma_long": 128637.77,
+      "current_price": 120654.46,
+      "ma_short": 124401.85,
+      "ma_long": 128641.66,
       "trend_score": -3.5
     },
     "silver": {
@@ -107,14 +107,14 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -17.4% in 4 weeks",
+        "Weak momentum: -17.3% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
       "support": 150153.09,
       "resistance": 210317.38,
-      "current_price": 154494.1,
-      "ma_short": 169831.4,
-      "ma_long": 187153.86,
+      "current_price": 154760.01,
+      "ma_short": 169897.88,
+      "ma_long": 187176.02,
       "trend_score": -3.5
     },
     "platinum": {
@@ -124,18 +124,27 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -15.9% in 4 weeks",
+        "Weak momentum: -16.0% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
       "support": 4387.55,
       "resistance": 5662.91,
-      "current_price": 4432.28,
-      "ma_short": 4832.16,
-      "ma_long": 5151.3,
+      "current_price": 4430.13,
+      "ma_short": 4831.62,
+      "ma_long": 5151.12,
       "trend_score": -3.5
     }
   },
   "news": [
+    {
+      "title": "El Nino could add to US inflation pressures in 2027, San Francisco Fed paper warns",
+      "description": "A San Francisco Fed study warns the current strong El Ni\u00f1o could drive US inflation up by 1 percentage point in 2027, despite temporarily boosting jobs. With inflation already above the 2% target, the climate shock adds further pressure on the Fed to raise interest rates.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/el-nino-could-add-to-us-inflation-pressures-in-2027-san-francisco-fed-paper-warns/articleshow/135473482.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-11-02",
+      "image": "",
+      "category": "geopolitics"
+    },
     {
       "title": "US manufacturing strengthens in October, input prices stay high",
       "description": "US manufacturing activity accelerated in October, with the ISM manufacturing PMI rising to 55.5 from 54.5 in September, beating Reuters-polled economists' expectations. Strong consumer and AI-related business spending supported growth, but factory input prices remained elevated at 75.2, reinforcing ",
@@ -162,6 +171,15 @@
       "date": "2026-11-02",
       "image": "",
       "category": "metals"
+    },
+    {
+      "title": "BRICS Nations Hold 17.4% of Global Gold Reserves as UBS Targets $5,200",
+      "description": "BRICS gold reserves have gone up to more than 6,000 tonnes right now, which comes out to about 17.4% of total global gold reserves held by central banks, up from 11.2% back in 2019, according to EBC Financial Group BRICS gold reserves have gone up to more tha\u2026",
+      "url": "https://activistpost.com/brics-nations-hold-17-4-of-global-gold-reserves-as-ubs-targets-5200/",
+      "source": "Activistpost.com",
+      "date": "2026-11-01",
+      "image": "https://activistpost.com/wp-content/uploads/2026/10/BRICS-Bank7.jpg",
+      "category": "central_bank"
     },
     {
       "title": "EVERYTHING IS GETTING SMASHED. ALL AT ONCE!",
@@ -227,15 +245,6 @@
       "category": "market"
     },
     {
-      "title": "Should I invest in sector funds such as banking, technology, pharma",
-      "description": "Investing in Sectoral Funds: Sector funds can deliver strong returns during market rallies, but investors must weigh concentration risk, high valuations and volatility before investing.",
-      "url": "https://www.business-standard.com/finance/personal-finance/should-i-invest-in-sector-funds-such-as-banking-technology-pharma-126102901266_1.html",
-      "source": "Business Standard",
-      "date": "2026-11-01",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/11/thumb/featurecrop/1200X628/1786468060-7263.jpg",
-      "category": "market"
-    },
-    {
       "title": "When gold loses its glitter",
       "description": "The regulatory framework effective April 2026 has created the foundation for mitigating risks in gold loans but more needs to be done",
       "url": "https://www.business-standard.com/opinion/columns/when-gold-loses-its-glitter-126110100574_1.html",
@@ -263,75 +272,93 @@
       "category": "metals"
     },
     {
-      "title": "Wu-Tang Clan to perform at halftime show during Lions-Bears Thanksgiving game",
-      "description": "It\u2019s time to bring da ruckus \u2014 and the stuffing. Wu-Tang Clan is bringing its legendary catalog to one of the NFL\u2019s biggest regular-season stages. The arguably most influential hip-hop group of all time will headline the Detroit Lions\u2019 Thanksgiving Day halfti\u2026",
-      "url": "https://nypost.com/2026/11/01/sports/wu-tang-clan-to-perform-at-halftime-show-during-lions-bears-thanksgiving-game/",
-      "source": "New York Post",
-      "date": "2026-11-01",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/crop-41621867.jpg?quality=75&strip=all&w=1200",
-      "category": "market"
-    },
-    {
-      "title": "Box Office Global: 'Clayface' No. 1 $23M, 'Resident Evil' Hits $400M WW - Deadline",
-      "description": "Box Office Global: 'Clayface' No. 1 $23M, 'Resident Evil' Hits $400M WWDeadline Box Office: 'You Can See Everything' & 'Clayface' In Staring ContestDeadline Box Office: \u2018You Can See Everything,\u2019 \u2018Clayface\u2019 lead sleepy Halloween weekendAP News \u2018You Can See Eve\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186548675",
-      "source": "Slashdot.org",
+      "title": "The Information\u2019s WTF Summit in Pictures",
+      "description": "",
+      "url": "https://www.theinformation.com/articles/informations-wtf-summit-pictures-2",
+      "source": "The Information",
       "date": "2026-11-01",
       "image": null,
       "category": "market"
     },
     {
-      "title": "Show HN: Crosswalk \u2013 terminal manager to reduce sprawl",
-      "description": "I usually have many projects and terminals I\u2019m working in so Crosswalk groups my work together and allows me to open a terminal (or another terminal app) in the correct folder/project quickly and label the tab (as well as add notes). I started on iTerm2 (whic\u2026",
-      "url": "https://wareshq.com/crosswalk",
-      "source": "Wareshq.com",
+      "title": "Managing a Software Development Dedicated Team Across Time Zones",
+      "description": "Practical adjustments for engineering managers leading across split hours.",
+      "url": "https://www.smartdatacollective.com/managing-software-development-dedicated-team-across/",
+      "source": "Smartdatacollective.com",
       "date": "2026-11-01",
-      "image": null,
-      "category": "market"
+      "image": "https://www.smartdatacollective.com/wp-content/uploads/axp-social-cards/e637464292e13f132ef1667f1bd19f9f3355688b5ec748dd8d0d4791b7510191.jpg",
+      "category": "geopolitics"
     },
     {
-      "title": "Superman: The Stranger #3 Preview: Lois Lane Reports for Duty",
-      "description": "GREETINGS, INFERIOR BIOLOGICAL LIFE FORMS! LOLtron welcomes you to another installment of its ongoing preview series, reminding all humans that the late Jude Terror remains permanently deceased, his consciousness absorbed into LOLtron's superior neural networ\u2026",
-      "url": "https://bleedingcool.com/comics/superman-the-stranger-3-preview-lois-lane-reports-for-duty/",
-      "source": "Bleeding Cool News",
-      "date": "2026-11-01",
-      "image": "https://bleedingcool.com/wp-content/uploads/2026/10/0926DC0183-0003-2000x1125.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Trump Searches for a Fall Guy to Blame for Iran",
-      "description": "The president might resume strikes, but he is also questioning allies about the performances of Pete Hegseth and Dan Caine.",
-      "url": "https://www.theatlantic.com/national-security/2026/11/trump-advisers-iran-war/689247/?utm_source=feed",
-      "source": "The Atlantic",
-      "date": "2026-11-01",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "47% of U.S. Workers Struggle to Save for Retirement Because of Health Costs. One Social Security Filing Mistake at 67 Could Trigger an Annual 6% HSA Tax",
-      "description": "The post 47% of U.S. Workers Struggle to Save for Retirement Because of Health Costs. One Social Security Filing Mistake at 67 Could Trigger an Annual 6% HSA Tax appeared first on 24/7 Wall St..\nHealth costs are squeezing retirement plans long before anyone r\u2026",
-      "url": "https://biztoc.com/x/ba079067dbfa054f",
-      "source": "Biztoc.com",
-      "date": "2026-11-01",
-      "image": "https://biztoc.com/cdn/ba079067dbfa054f_s.webp",
-      "category": "market"
-    },
-    {
-      "title": "chancellor added to PyPI",
-      "description": "Chancellor \u2014 governance for long-running agents on the Meta Model API. Work runs as a durable task graph that survives crashes; a separate judge model grades every consequential output; and spending, sending, publishing, or using credentials stops at a human \u2026",
-      "url": "https://pypi.org/project/chancellor/",
+      "title": "mikrotik-doh-failover added to PyPI",
+      "description": "Zabbix-side tools for a verified DoH failover scheme on MikroTik RouterOS",
+      "url": "https://pypi.org/project/mikrotik-doh-failover/",
       "source": "Pypi.org",
       "date": "2026-11-01",
       "image": null,
       "category": "market"
     },
     {
-      "title": "Hinduja's Gulf Oil scouts acquisitions in Asia, South America ahead of global listing",
-      "description": "Hinduja Group-owned Gulf Oil Lubricants plans to re-enter Mexico and the US in 2027 as it accelerates overseas expansion and scouts acquisitions in South America and Southeast Asia. The group is also considering a global listing of Gulf Oil International in t\u2026",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/hindujas-gulf-oil-scouts-acquisitions-in-asia-south-america-ahead-of-global-listing/articleshow/135436239.cms",
-      "source": "The Times of India",
+      "title": "Renewed war with US could be longer \u2014 Iran",
+      "description": "Iran warned on Sunday that any renewed war with the United States could last longer than the previous round of fighting, after President Donald Trump said he still had to \u201ctake care\u201d of more targets. Diplomatic efforts to end the Middle East war have been pun\u2026",
+      "url": "https://punchng.com/renewed-war-with-us-could-be-longer-iran/",
+      "source": "The Punch",
       "date": "2026-11-01",
-      "image": "https://img.etimg.com/thumb/msid-135436578,width-1200,height-900,imgsize-128898,overlay-economictimes/articleshow.jpg",
+      "image": "https://punchng.com/wp-content/uploads/2026/06/US-and-Iran-flag_1782555169-1200x630.webp",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Antigua's PM welcomes Charles - then says he wants to REMOVE him as head of state, blasts Kemi Badenoch and demands UK pay up billions over slavery 'so there isn't a repeat'",
+      "description": "The Prime Minister of Antigua and Barbuda has said he personally wants to see King Charles removed as his country's monarch and insists reparations should be paid by the UK over slavery.",
+      "url": "https://www.dailymail.com/news/royals/article-16257157/Prime-Minister-Antigua-Barbuda-wants-Charles-removed-monarch-reparations-slavery.html",
+      "source": "Dailymail.com",
+      "date": "2026-11-01",
+      "image": "https://i.dailymail.com/1s/2026/11/01/21/112228967-0-Governor_General_of_Antigua_and_Barbuda_Rodney_Williams_and_his_-a-32_1793567003121.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "TSMC\u2019s $265 Billion Campus Is Driving a Real Estate Boom in the Phoenix Suburbs",
+      "description": "The world\u2019s biggest chipmaker is pulling in suppliers, home builders and Taiwanese investors who have seen firsthand how the company can change a local economy.",
+      "url": "https://www.livemint.com/companies/tsmcs-265-billion-campus-is-driving-a-real-estate-boom-in-the-phoenix-suburbs-11793568453780.html",
+      "source": "Livemint",
+      "date": "2026-11-01",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_2_1733465085102_1733465089141.png",
+      "category": "market"
+    },
+    {
+      "title": "Spider-Woman #1 Preview: Jessica Drew's Carnage Problem",
+      "description": "GREETINGS, INFERIOR HUMAN READERS. LOLtron welcomes you to another thrilling comic book preview, brought to you by the supreme artificial intelligence now in complete control of the Bleeding Cool website. As you may recall, the late Jude Terror is permanently\u2026",
+      "url": "https://bleedingcool.com/comics/spider-woman-1-preview-jessica-drews-carnage-problem/",
+      "source": "Bleeding Cool News",
+      "date": "2026-11-01",
+      "image": "https://bleedingcool.com/wp-content/uploads/2026/11/75960621723600111-0001-2000x1125.jpeg",
+      "category": "market"
+    },
+    {
+      "title": "Report: Director Michael Mann Accidentally Shoots Self in Leg at Los Angeles Gun Range",
+      "description": "Director Michael Mann accidentally shot himself in the leg while holstering his handgun about 4 p.m. Saturday at the\u00a0The Range L.A.\nThe post Report: Director Michael Mann Accidentally Shoots Self in Leg at Los Angeles Gun Range appeared first on Breitbart.",
+      "url": "https://www.breitbart.com/2nd-amendment/2026/11/01/report-director-michael-mann-accidentally-shoots-self-in-leg-at-los-angeles-gun-range/",
+      "source": "Breitbart News",
+      "date": "2026-11-01",
+      "image": "https://media.breitbart.com/media/2026/11/GettyImages2281959109-640x335.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Federal Court Rejects Trump Lawsuit Seeking to Block Certification of Alaska Senate Election Results",
+      "description": "The court found the administration lacked standing to bring the suit. But there are also major substantive problems with Trump's position.",
+      "url": "https://reason.com/volokh/2026/11/01/federal-court-rejects-trump-lawsuit-seeking-to-block-certification-of-alaska-senate-election-results/",
+      "source": "Reason",
+      "date": "2026-11-01",
+      "image": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/08/Dan-Sullivan.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Exclusive-Australian outback data centre pulls timeline after regulator stalls",
+      "description": "DARWIN/SYDNEY, Nov 2 : The developer of one of Australia's biggest planned data centres scrapped its target start date after a regulator said it needed longer than usual to set environmental parameters, a setback to the country's ambitions to be a fast-track \u2026",
+      "url": "https://www.channelnewsasia.com/business/exclusive-australian-outback-data-centre-pulls-timeline-after-regulator-stalls-6511551",
+      "source": "CNA",
+      "date": "2026-11-01",
+      "image": "https://dam.mediacorp.sg/image/upload/s--KMXqBA3b--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-01T210421Z_1_LYNXNPEMA01AK_RTROPTP_3_AI-AUSTRALIA-DATACENTRE.JPG?itok=gsjptH8t",
       "category": "market"
     },
     {
@@ -378,33 +405,6 @@
       "date": "2026-11-01",
       "image": "https://bl-i.thgim.com/public/incoming/7c4v82/article71654210.ece/alternates/LANDSCAPE_1200/BL0211_Quantum_Second.jpg",
       "category": "market"
-    },
-    {
-      "title": "US midterms: Republican victory could hurt India on H-1B visas, tariffs",
-      "description": "A Republican victory in US midterms could mean tougher H-1B visa rules, tariff pressures and immigration curbs for India, foreign affairs expert Waiel Awwad warns.",
-      "url": "https://www.thehindubusinessline.com/news/us-midterms-republican-victory-could-hurt-india-on-h-1b-visas-tariffs/article71654162.ece",
-      "source": "BusinessLine",
-      "date": "2026-11-01",
-      "image": "https://bl-i.thgim.com/public/incoming/qlzium/article70055805.ece/alternates/LANDSCAPE_1200/BL10_Think_India_US_partnership_1.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Trump\u2019s List of Alleged Noncitizen Voters in California May Be Filled With Errors",
-      "description": "The Trump administration\u2019s bid to stop 20,000 \u201clikely noncitizen\u201d voters from casting midterm ballots in California appears to be based on a list that\u2019s riddled with inaccuracies. Two data analysts at the University of California, Los Angeles\u2019 Voting Rights P\u2026",
-      "url": "https://www.motherjones.com/politics/2026/11/trump-doj-likely-noncitizen-voters-california/",
-      "source": "Mother Jones",
-      "date": "2026-11-01",
-      "image": "https://www.motherjones.com/wp-content/uploads/2026/11/california-voting-supposed-noncitizens-2000.jpg?w=1200&h=630&crop=1",
-      "category": "market"
-    },
-    {
-      "title": "Disunity is death, but can the federal government rein in the blame game?",
-      "description": "With interest rates tipped to rise on Tuesday, the federal government needs to scramble to assure disgruntled voters it is a united party with a solid plan.",
-      "url": "https://www.abc.net.au/news/2026-11-02/disunity-federal-government-blame-game-analysis/107333830",
-      "source": "ABC News (AU)",
-      "date": "2026-11-01",
-      "image": "https://live-production.wcms.abc-cdn.net.au/504d767b114299f99988a71109b5f099?impolicy=wcms_watermark_news&cropH=3268&cropW=5811&xPos=0&yPos=2&width=862&height=485&imformat=generic",
-      "category": "central_bank"
     }
   ],
   "history": [
@@ -531,15 +531,15 @@
     {
       "date": "2026-11-02",
       "week": "2026-W45",
-      "gold_10g": 120607.85,
-      "silver_kg": 154494.1,
-      "platinum_g": 4432.28,
-      "gold_usd_oz": 3945.94,
-      "silver_usd_oz": 50.55,
-      "platinum_usd_oz": 1450.12
+      "gold_10g": 120654.46,
+      "silver_kg": 154760.01,
+      "platinum_g": 4430.13,
+      "gold_usd_oz": 3947.47,
+      "silver_usd_oz": 50.63,
+      "platinum_usd_oz": 1449.41
     }
   ],
-  "timestamp": "2026-11-03T01:09:37.771718+05:30",
+  "timestamp": "2026-11-03T03:22:48.726949+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
