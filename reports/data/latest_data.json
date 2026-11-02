@@ -1,24 +1,24 @@
 {
   "prices": {
     "gold": {
-      "price_per_gram_inr": 11933.18,
-      "price_usd_oz": 3904.19,
-      "change_percent": 0.74,
-      "change_value_usd": 28.54,
-      "price_per_10g_inr": 119331.76
+      "price_per_gram_inr": 12118.16,
+      "price_usd_oz": 3964.71,
+      "change_percent": 2.3,
+      "change_value_usd": 89.06,
+      "price_per_10g_inr": 121181.56
     },
     "silver": {
-      "price_per_gram_inr": 153.61,
-      "price_usd_oz": 50.26,
-      "change_percent": 2.29,
-      "change_value_usd": 1.12,
-      "price_per_kg_inr": 153613.82
+      "price_per_gram_inr": 155.93,
+      "price_usd_oz": 51.02,
+      "change_percent": 3.83,
+      "change_value_usd": 1.88,
+      "price_per_kg_inr": 155933.71
     },
     "platinum": {
-      "price_per_gram_inr": 4380.67,
-      "price_usd_oz": 1433.23,
-      "change_percent": -0.18,
-      "change_value_usd": -2.52
+      "price_per_gram_inr": 4466.42,
+      "price_usd_oz": 1461.29,
+      "change_percent": 1.78,
+      "change_value_usd": 25.54
     },
     "currencies": {
       "USD_INR": 95.068,
@@ -30,8 +30,8 @@
       "CAD_INR": 68.0564,
       "SGD_INR": 74.3823
     },
-    "gold_silver_ratio": 77.68,
-    "timestamp": "2026-11-02T11:29:52.873850",
+    "gold_silver_ratio": 77.71,
+    "timestamp": "2026-11-02T16:23:11.583259",
     "source": "GoldAPI"
   },
   "currencies": {
@@ -47,14 +47,14 @@
   "analysis": {
     "gold": {
       "metal": "gold",
-      "recommendation": "SELL",
+      "recommendation": "HOLD",
       "confidence": {
-        "buy": 15,
-        "sell": 56,
-        "hold": 29
+        "buy": 25,
+        "sell": 25,
+        "hold": 50
       },
-      "summary": "Gold is showing negative signals. Positive daily movement of 0.7%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-02T11:29:58.166386",
+      "summary": "Gold is showing negative signals. Strong daily gain of 2.3%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
+      "timestamp": "2026-11-02T16:23:17.919822",
       "source": "rule-based"
     },
     "silver": {
@@ -65,20 +65,20 @@
         "sell": 25,
         "hold": 50
       },
-      "summary": "Silver is showing negative signals. Strong daily gain of 2.3%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-02T11:29:58.245733",
+      "summary": "Silver is showing negative signals. Strong daily gain of 3.8%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
+      "timestamp": "2026-11-02T16:23:18.009915",
       "source": "rule-based"
     },
     "platinum": {
       "metal": "platinum",
-      "recommendation": "SELL",
+      "recommendation": "HOLD",
       "confidence": {
-        "buy": 10,
-        "sell": 65,
-        "hold": 25
+        "buy": 25,
+        "sell": 25,
+        "hold": 50
       },
-      "summary": "Platinum is showing negative signals. Slight decline of -0.2%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-02T11:29:58.321539",
+      "summary": "Platinum is showing negative signals. Strong daily gain of 1.8%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
+      "timestamp": "2026-11-02T16:23:18.078796",
       "source": "rule-based"
     }
   },
@@ -90,14 +90,14 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -7.0% in 4 weeks",
+        "Weak momentum: -5.6% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
       "support": 118437.13,
       "resistance": 134616.17,
-      "current_price": 119331.76,
-      "ma_short": 124071.18,
-      "ma_long": 128531.43,
+      "current_price": 121181.56,
+      "ma_short": 124533.62,
+      "ma_long": 128685.58,
       "trend_score": -3.5
     },
     "silver": {
@@ -107,14 +107,14 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -17.9% in 4 weeks",
+        "Weak momentum: -16.6% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
       "support": 150153.09,
       "resistance": 210317.38,
-      "current_price": 153613.82,
-      "ma_short": 169611.33,
-      "ma_long": 187080.5,
+      "current_price": 155933.71,
+      "ma_short": 170191.3,
+      "ma_long": 187273.83,
       "trend_score": -3.5
     },
     "platinum": {
@@ -124,44 +124,35 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -16.9% in 4 weeks",
+        "Weak momentum: -15.3% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
-      "support": 4380.67,
+      "support": 4387.55,
       "resistance": 5662.91,
-      "current_price": 4380.67,
-      "ma_short": 4819.25,
-      "ma_long": 5146.99,
+      "current_price": 4466.42,
+      "ma_short": 4840.69,
+      "ma_long": 5154.14,
       "trend_score": -3.5
     }
   },
   "news": [
     {
-      "title": "Rupee ends little changed as traders stay cautious despite oil, dollar drop",
-      "description": "The Indian rupee closed at 94.90 per dollar, trimming its earlier advances. Despite lower oil prices and a softening dollar, the rupee struggled to gain ground as traders remained wary ahead of the impending US midterm elections. Additionally, the Reserve Bank of India's increased dollar forward pos",
-      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-ends-little-changed-as-traders-stay-cautious-despite-oil-dollar-drop/articleshow/135455769.cms",
+      "title": "Why traders are moving away from equity F&amp;O to commodities? Nithin Kamath explains",
+      "description": "Commodity derivatives traders in India surged nearly 62% to 21 lakh in FY26, while equity F&amp;O participants fell 20% to 85 lakh. Zerodha's Nithin Kamath cited commodity volatility, options popularity and extended MCX trading hours.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-traders-are-moving-away-from-equity-fo-to-commodities-nithin-kamath-explains/articleshow/135466022.cms",
       "source": "Economic Times Markets",
       "date": "2026-11-02",
       "image": "",
-      "category": "geopolitics"
+      "category": "market"
     },
     {
-      "title": "Global Market: French bond yields hold steady despite Fitch downgrade warning",
-      "description": "French bond yields remained steady despite Fitch downgrading the country's outlook to negative, as investors weighed fiscal concerns and political uncertainty against easing energy prices and developments in the Middle East.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-french-bond-yields-hold-steady-despite-fitch-downgrade-warning/articleshow/135454878.cms",
-      "source": "Economic Times Markets",
+      "title": "Precious metals continue to plunge for 2nd consecutive month - Anadolu Ajans\u0131",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNbHBtU0NJTlZJRjFTeHVyNlZqSGhVM1NOSDlQZE4ybUdJMGpIS3VZU0J0TmRTel9BTWk2OVpCSDRCdW1wbDVnU1MtN3FlQTBiYjdVakZzckhMU05DTldnaHBHbjZuekdHaHQxZzhsRmRucDlIbjQ0WXowRlNKZGhtTi1fZ05tSDViQlNkY2ktX2t4ZWFvWk1mUnRPd0hSdw?oc=5\" target=\"_blank\">Precious meta",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbHBtU0NJTlZJRjFTeHVyNlZqSGhVM1NOSDlQZE4ybUdJMGpIS3VZU0J0TmRTel9BTWk2OVpCSDRCdW1wbDVnU1MtN3FlQTBiYjdVakZzckhMU05DTldnaHBHbjZuekdHaHQxZzhsRmRucDlIbjQ0WXowRlNKZGhtTi1fZ05tSDViQlNkY2ktX2t4ZWFvWk1mUnRPd0hSdw?oc=5",
+      "source": "Google News - Precious Metals",
       "date": "2026-11-02",
       "image": "",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Japan bond yields edge higher ahead of key JGB auctions; 10-year yield holds at 2.77%",
-      "description": "Japanese government bond yields were mixed on Monday, with the 10-year benchmark holding steady at 2.77%, while the 20-year and 30-year yields rose. Investors assessed global interest rate trends ahead of a series of government debt auctions, including a 10-year bond sale on Thursday, followed by 30",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/japan-bond-yields-edge-higher-ahead-of-key-jgb-auctions-10-year-yield-holds-at-2-77/articleshow/135453773.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-11-02",
-      "image": "",
-      "category": "central_bank"
+      "category": "metals"
     },
     {
       "title": "World silver prices increase by more than 2%, precious metals simultaneously recover - Laodong.vn",
@@ -171,6 +162,24 @@
       "date": "2026-11-02",
       "image": "",
       "category": "metals"
+    },
+    {
+      "title": "One Nation Under the Prosperity Gospel",
+      "description": "As the grandson of a Pentecostal preacher, I can quote each of the thirty-five verses of Exodus 32, in which the recently liberated Hebrew peoples, fed up waiting for Moses to descend from Mount Sinai with divine orders, ask his brother, Aaron, to make them n\u2026",
+      "url": "https://www.nybooks.com/online/2026/11/01/one-nation-under-the-prosperity-gospel/",
+      "source": "The New York Review of Books",
+      "date": "2026-11-01",
+      "image": "https://www.nybooks.com/wp-content/uploads/2026/11/Gayle202611_2.jpeg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Gen X feels worse about the economy than Gen Z and millennials\u2014and more than 70% fear running out of money more than death",
+      "description": "The generations who were supposed to have it figured out are the ones panicking about money.",
+      "url": "https://fortune.com/article/why-does-gen-x-feels-worse-about-the-economy-than-gen-z-and-millennials/",
+      "source": "Fortune",
+      "date": "2026-11-01",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2267487789-e1786108860886.jpg?resize=1200,600",
+      "category": "market"
     },
     {
       "title": "He earns Rs 20 lakh per month, but is barely able to save 2% of his earnings: \u2018Not everything you see\u2026\u2019",
@@ -227,22 +236,13 @@
       "category": "market"
     },
     {
-      "title": "IT\u2019S HERE: Gift Ideas For Her! My Favorite Fashion And Beauty Of The Year",
-      "description": "The officially Emily Henderson \"Gift Ideas for Her\" is out!! Whether you looking for gifts for you or the women in your life, these are all vetted & great!",
-      "url": "https://stylebyemilyhenderson.com/gift-ideas-for-her-fashion-beauty",
-      "source": "Stylebyemilyhenderson.com",
+      "title": "When gold loses its glitter",
+      "description": "The regulatory framework effective April 2026 has created the foundation for mitigating risks in gold loans but more needs to be done",
+      "url": "https://www.business-standard.com/opinion/columns/when-gold-loses-its-glitter-126110100574_1.html",
+      "source": "Business Standard",
       "date": "2026-11-01",
-      "image": "https://stylebyemilyhenderson.com/wp-content/uploads/2026/10/EmilyHenderson-ForHer2026_KaitlinGreen-15-1.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Valkyries cement best startup ever status: \u2018This is what happens when you invest in women's sports'",
-      "description": "The Golden State Valkyries didn't just reward Joe Lacob's investment or their fans' faith. They validated their belief in each other in becoming WNBA champions.",
-      "url": "https://www.sfchronicle.com/sports/annkillion/article/valkyries-cement-best-startup-ever-status-wnba-22504551.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-      "source": "San Francisco Chronicle",
-      "date": "2026-11-01",
-      "image": "https://s.yimg.com/lo/mysterio/api/df26ea2b5d1c2cb6dec062a95651ae5b2496845dfbc9a04ddb792485449c6fed/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsan_francisco_chronicle_hearst_178%2F5d6d20f3b570b274c9427ada5fd54c0a.jpg",
-      "category": "geopolitics"
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-09/19/thumb/fitandfill/1200X628/1726741401-798.jpg",
+      "category": "metals"
     },
     {
       "title": "Gold, silver lose sheen",
@@ -263,148 +263,148 @@
       "category": "metals"
     },
     {
-      "title": "Mediators continue US-Iran negotiations amid war rhetoric: What we know",
-      "description": "Trump says latest talks 'going fine'; Iranian leaders say they favour diplomacy but are ready to respond to US attacks.",
-      "url": "https://www.aljazeera.com/news/2026/11/1/mediators-continue-us-iran-negotiations-amid-war-rhetoric-what-we-know",
+      "title": "Masks Off: Crypto Industry Responds to Binance Hack by Acting Like Banks",
+      "description": "Crypto is only \"decentralized\" until something goes wrong.",
+      "url": "https://gizmodo.com/masks-off-crypto-industry-responds-to-binance-hack-by-acting-like-banks-2000833496",
+      "source": "Gizmodo.com",
+      "date": "2026-11-01",
+      "image": "https://gizmodo.com/app/uploads/2023/02/eb45d843fe2d3efc91f6485dc57ddf62.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Al Jazeera Balkans relaunches in new digital-first format",
+      "description": "AJB's return is a 'reaffirmation' of the network\u2019s mission to go where the story matters, says its digital director.",
+      "url": "https://www.aljazeera.com/news/2026/11/1/al-jazeera-balkans-relaunches-in-new-digital-first-format",
       "source": "Al Jazeera English",
       "date": "2026-11-01",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/14405187-1793530964.jpg?resize=1920%2C1440",
-      "category": "geopolitics"
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/s11-1793544119.jpg?resize=1200%2C675",
+      "category": "market"
     },
     {
-      "title": "Jio says tariff hikes can wait, eyes 10-15 partners for overseas play",
-      "description": "Jio Platforms plans to drive growth through digital services and overseas technology partnerships rather than rely solely on mobile tariff hikes.",
-      "url": "https://www.livemint.com/companies/news/reliance-jio-tariff-hikes-overseas-arpu-operations-11793516641378.html",
+      "title": "Technology funds delivered 6.3% returns in October, while no other category crossed 1%: Here\u2019re the top performing funds",
+      "description": "Technology mutual funds delivered an average 6.29% return in October 2026, while no other equity mutual fund category crossed 1%. HDFC Technology Fund led the 13 schemes with an 11.54% gain. Here are the top performers and their AUM.",
+      "url": "https://www.livemint.com/money/personal-finance/technology-funds-delivered-6-3-returns-in-october-while-no-other-category-crossed-1-here-re-the-top-performing-funds-11793546659107.html",
       "source": "Livemint",
       "date": "2026-11-01",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/01/1600x900/logo/Jio_1792434199780_djM7_1792434200023_zK8X_d602ff13_1793531040939_GxQQ_1793531041149_bvwn_436c1295-8d51-4efa-ad57-2685dcb904a6_kEjM.JPG",
+      "image": "https://www.livemint.com/lm-img/img/2026/11/01/1600x900/logo/Gemini_Generated_Image_b6zl0b6z0l0b6z0_179354703_1793547041934_rnEZ_1793547042076_T6RM_53d30d35-b2e0-4e24-9b82-677f8ff61dd9_jZwU.png",
+      "category": "market"
+    },
+    {
+      "title": "Bahrain Awards Golden Licenses to Four New Projects at Gateway Gulf 2026 Valued at USD 3.89 Billion",
+      "description": "Spanning aviation logistics, real estate, and technology, the latest Golden License projects underscore Bahrain's growing global investment appeal and diversified growth ambitions\nMANAMA, Bahrain, Nov. 1, 2026 /PRNewswire/ -- The Kingdom of Bahrain announced \u2026",
+      "url": "https://biztoc.com/x/a400ae50ef7052fc",
+      "source": "Biztoc.com",
+      "date": "2026-11-01",
+      "image": "https://biztoc.com/cdn/a400ae50ef7052fc_s.webp",
       "category": "geopolitics"
     },
     {
-      "title": "Affordable 8.8-inch Teclast tablet launches globally with 2TB microSD support",
-      "description": "Teclast has now launched the T60 Mini in the global market through AliExpress. It's a compact tablet with an 8.8-inch display that features a 90Hz refresh rate. There's a microSD slot with support for up to a 2TB card. The current price is quite affordable at\u2026",
-      "url": "https://www.notebookcheck.net/Affordable-8-8-inch-Teclast-tablet-launches-globally-with-2TB-microSD-support.1439431.0.html",
-      "source": "Notebookcheck.net",
-      "date": "2026-11-01",
-      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Teclast-T60-Mini-launches-globally.jpg",
-      "category": "market"
-    },
-    {
-      "title": "The Art Styles of 2027 Are Moving Back Into the Room",
-      "description": "The strongest new work is moving back into the room. Online art sales fell 11% to $9.2 billion in 2025, their lowest level since 2019, because high-value deals returned to in-person channels. I think that shift will shape the art styles of 2027 more than any \u2026",
-      "url": "https://weandthecolor.com/the-art-styles-of-2027-are-moving-back-into-the-room/213036",
-      "source": "Weandthecolor.com",
-      "date": "2026-11-01",
-      "image": "https://weandthecolor.com/wp-content/uploads/2026/11/Art-Styles-2027.webp",
-      "category": "market"
-    },
-    {
-      "title": "IGL sees 93% drop in profit amid supply disruptions linked to West Asia",
-      "description": "NEW DELHI: IGL reported a 93.4% decline in its profit in the second quarter of FY27 due to a substantial increase in input gas costs amid global supply",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/igl-sees-93-drop-in-profit-amid-supply-disruptions-linked-to-west-asia/articleshow/135425046.cms",
+      "title": "India\u2019s luxury car buyers are paying a premium for exclusivity, says JLR India MD",
+      "description": "India's luxury car market is increasingly rewarding exclusivity, with JLR India saying 15 of the 18 vehicles in its Rs 5-crore Range Rover SV Sawai Collection have already been pre-booked. The company is expanding its bespoke personalisation services and plan\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/indias-luxury-car-buyers-are-paying-a-premium-for-exclusivity-says-jlr-india-md/articleshow/135431818.cms",
       "source": "The Times of India",
       "date": "2026-11-01",
-      "image": "https://static.toiimg.com/thumb/msid-135425332,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Stock Market Forecast: Geopolitics, Oil Prices, Q2 Earnings, US Midterms",
-      "description": "Indian stock markets are set to be influenced by a confluence of factors this week, including escalating geopolitical tensions, particularly concerns over US-Iran conflict, volatile crude oil prices, and the ongoing quarterly earnings season. Additionally, th\u2026",
-      "url": "https://www.rediff.com/business/report/stock-market-forecast-geopolitics-oil-prices-q2-earnings-us-midterms/20261101.htm",
-      "source": "Rediff.com",
-      "date": "2026-11-01",
-      "image": "https://im.rediff.com/1200-630/money/2021/may/28stock-market1.jpg",
+      "image": "https://img.etimg.com/thumb/msid-135431889,width-1200,height-900,imgsize-65256,overlay-economictimes/articleshow.jpg",
       "category": "geopolitics"
     },
     {
-      "title": "Up to $180 off International Flights (E.g. $80 off Economy / $180 off Business) @ Cathay Pacific",
-      "description": "Cathay Pacific has dropped a series of discount promo codes for international departures out of Australia, saving up to $180 depending on your cabin class. If you're planning a trip to Asia, \u2026",
-      "url": "https://www.ozbargain.com.au/node/981196",
-      "source": "Ozbargain.com.au",
+      "title": "Ministry seeks stronger digital media industry amid rise of AI",
+      "description": "The Ministry of Creative Economy is pushing to strengthen the digital media industry as part of the national creative economy ecosystem, amid the rise of ...",
+      "url": "https://en.antaranews.com/news/439347/ministry-seeks-stronger-digital-media-industry-amid-rise-of-ai",
+      "source": "Antaranews.com",
       "date": "2026-11-01",
-      "image": "https://files.ozbargain.com.au/n/96/981196x.jpg?h=ad843a84",
+      "image": "https://cdn.antaranews.com/cache/1200x800/2026/11/01/IMG_5474.jpeg",
       "category": "market"
     },
     {
-      "title": "IDBI-Fairfax mega deal takes PE-VC investments to $8 billion in October",
-      "description": "Fairfax\u2019s $5.6 billion stake purchase drives highest monthly tally in over four years; YTD inflows already exceed full-year 2025 levels",
-      "url": "https://www.thehindubusinessline.com/economy/idbi-fairfax-mega-deal-takes-pe-vc-investments-to-8-billion-in-october/article71652461.ece",
-      "source": "BusinessLine",
+      "title": "leakmap added to PyPI",
+      "description": "See what personal data your app sends to third parties, and fail CI when a new flow appears.",
+      "url": "https://pypi.org/project/leakmap/",
+      "source": "Pypi.org",
       "date": "2026-11-01",
-      "image": "https://bl-i.thgim.com/public/incoming/tup5gv/article71443505.ece/alternates/LANDSCAPE_1200/2026-08-21T055457Z_1064768737_RC20H0AJ8KPQ_RTRMADP_3_IDBI-BANK-STAKE-SALE-FAIRFAX-FIN.JPG",
+      "image": null,
       "category": "market"
     },
     {
-      "title": "Trump White House maps path to govern without Congress if Democrats win",
-      "description": "Trump's White House has been preparing for a potential Democratic Congress and its implications for his administration. Senior officials are identifying executive actions across various sectors that Trump can implement without congressional approval. This pla\u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/trumps-bold-strategy-governing-without-congress-amid-potential-democratic-takeover/articleshow/135425597.cms",
-      "source": "The Times of India",
+      "title": "Indonesia's domestic investment nears Rp2,000 trillion under Prabowo",
+      "description": "Indonesia&#39;s domestic investment reached nearly Rp2,000 trillion during the first two years of President Prabowo Subianto&#39;s administration, reflecting ...",
+      "url": "https://en.antaranews.com/news/439343/indonesias-domestic-investment-nears-rp2000-trillion-under-prabowo",
+      "source": "Antaranews.com",
       "date": "2026-11-01",
-      "image": "https://img.etimg.com/thumb/msid-135425595,width-1200,height-900,imgsize-235286,overlay-economictimes/articleshow.jpg",
+      "image": "https://cdn.antaranews.com/cache/1200x800/2026/10/31/IMG_4330.jpeg",
       "category": "market"
     },
     {
-      "title": "Private Equity Is Buying up More Methadone Clinics \u2013 Access to the Lifesaving Drug Isn\u2019t Getting Easier",
-      "description": "\"That kind of guaranteed, captive demand is exactly the sort of investment that can be profitable for private equity investors.\"",
-      "url": "https://www.nakedcapitalism.com/2026/11/private-equity-is-buying-up-more-methadone-clinics-access-to-the-lifesaving-drug-isnt-getting-easier.html",
-      "source": "Nakedcapitalism.com",
+      "title": "Raw Milk Drinking May Be Far More Common Than Thought as Cornell Survey Puts Six-Month Rate at 15%",
+      "description": "A Cornell preprint estimates that 15% of U.S. adults drank raw milk in six months, but differing methods prevent direct comparison with an older FDA estimate.",
+      "url": "https://www.medicaldaily.com/cornell-survey-raw-milk-us-adults-480672",
+      "source": "Medical Daily",
       "date": "2026-11-01",
-      "image": "https://www.nakedcapitalism.com/wp-content/uploads/2026/11/Screenshot-2026-11-01-at-8.54.57\u202fAM-1024x832.png",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Policy at the Polls: A Look at 2026 Ballot Initiatives",
-      "description": "From pro- and anti-tax measures to voting, abortion, and trans rights, voters have a lot of ballot initiatives to weigh in on this year. Here\u2019s a guide to the most important ones.",
-      "url": "http://nymag.com/intelligencer/article/2026-midterms-preview-guide-to-ballot-initiatives.html",
-      "source": "New York Magazine",
-      "date": "2026-11-01",
-      "image": "https://pyxis.nymag.com/v1/imgs/b26/412/acaf70c15d3d27dad69a2899ffad4f9388-billionaire-tax.1x.rsocial.w1200.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "New Medicaid work requirements will apply to about 175,000 Coloradans",
-      "description": "People applying for new Medicaid coverage will need to attest that they\u2019re working or volunteering at least 80 hours a month, enrolled in school at least part-time, or qualify for an exemption.",
-      "url": "https://www.denverpost.com/2026/11/01/medicaid-work-requirements-colorado/",
-      "source": "The Denver Post",
-      "date": "2026-11-01",
-      "image": "https://www.denverpost.com/wp-content/uploads/2025/10/TDP-L-STOUTCLINIC-101725-PT-090.jpg?w=8256&h=5504",
+      "image": "https://d.medicaldaily.com/en/full/488036/raw-milk-drinking.jpg",
       "category": "market"
     },
     {
-      "title": "A Democrat told her opponent not to \u2018mansplain.\u2019 It struck a chord",
-      "description": "The Cornell case made sexual misconduct a theme in the toss-up race between Rep. Mike Lawler and Dem Cait Conley",
-      "url": "https://www.salon.com/2026/11/01/a-democrat-told-her-opponent-not-to-mansplain-it-struck-a-chord-partner/",
-      "source": "Salon",
+      "title": "Tajel Shah Discusses Modernizing Public Services: Bridging The Gap Between Legacy Systems And Digital Transformation",
+      "description": "Tajel Shah has worked for over a decade untangling the operational friction that builds up inside organizations still running on processes designed for a different era. Government agencies represent perhaps the most extreme version of that challenge, as publi\u2026",
+      "url": "https://bitrebels.com/technology/tajel-shah-discusses-modernizing-public-services-bridging-the-gap-between-legacy-systems-and-digital-transformation/",
+      "source": "Bitrebels.com",
       "date": "2026-11-01",
-      "image": "https://www.salon.com/app/uploads/2026/02/GettyImages-2172645712.jpg",
+      "image": "https://bitrebels.com/wp-content/uploads/2026/11/tajel-shah-discusses-modernizing-public-services-bridging-the-gap-between-legacy-systems-and-digital-transformation-featured-image-scaled-optimized.jpg",
       "category": "market"
     },
     {
-      "title": "This Could Be a Historic Election\u2014and Not for the Reasons You Think",
-      "description": "Amy Richards, a 56-year-old from Texas, told the Associated Press that she used to be a Republican but has voted Democratic since 2016. She said that the president \u201cthinks that the economy is doing well because he and his family have enriched themselves to th\u2026",
-      "url": "https://newrepublic.com/article/217391/midterm-election-historic-defeat-republicans-economy",
-      "source": "The New Republic",
+      "title": "Why Carney Says Canada Can\u2019t Dump Starlink Overnight",
+      "description": "Rogers is still the only Canadian carrier with an official Starlink partnership, and its satellite service is open to anyone, even as Prime Minister Mark Carney lays out a clearer plan to share satellite capacity with Europe instead of depending on one privat\u2026",
+      "url": "https://www.iphoneincanada.ca/2026/11/01/carney-starlink-carriers-europe-pooling/",
+      "source": "iPhone in Canada",
       "date": "2026-11-01",
-      "image": "https://images.newrepublic.com/df179bcb6922a41e7d6baf98d83aade62e8c9733.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
-      "category": "market"
+      "image": "https://cdn.iphoneincanada.ca/wp-content/uploads/2026/10/starlink-2026-v4.jpg",
+      "category": "currency"
     },
     {
-      "title": "Trump says US would contact North Korea if it\u2019s tied to the $6.3 billion Binance hack",
-      "description": "The incident underscores the growing intersection of cybersecurity and international diplomacy, potentially escalating geopolitical tensions.\nThe post Trump says US would contact North Korea if it\u2019s tied to the $6.3 billion Binance hack appeared first on Cryp\u2026",
-      "url": "https://cryptobriefing.com/trump-north-korea-binance-hack/",
+      "title": "Crypto liquidations hit $12.5 billion in October 2026 as longs take the beating",
+      "description": "The massive crypto liquidations highlight the risks of leveraged trading and the potential for market instability, impacting trader confidence.\nThe post Crypto liquidations hit $12.5 billion in October 2026 as longs take the beating appeared first on Crypto B\u2026",
+      "url": "https://cryptobriefing.com/crypto-liquidations-october-2026-longs/",
       "source": "Crypto Briefing",
       "date": "2026-11-01",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/01053434/library-trump-says-us-would-contact-north-korea-if-it-s-tied-to--800x450.png",
-      "category": "geopolitics"
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/01101221/library-crypto-liquidations-hit-12-5-billion-in-october-2026-as--800x450.png",
+      "category": "market"
     },
     {
-      "title": "Crash! Gold price suffers worst October in years: Did silver and platinum suffer too? Check monthly performance - Livemint",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxNVWFSbVpYOWt0c2Z3cTNFV2Fvc2NKaEk2Z0VnYl9FRjVPZ3d6OFVZLTBHZnVrVk5zVVFYS0xlakhuRWhHZTlJMm9fZDcwLW42UnJ3UExfQTJqWS1ocFNKWWdqRjV1eW9FT0R5bU1fV3J2SEdjZktxVko3NDJQcm0xYUVjM2xXRVg5cWE1ZlRZTHVfclVqMGJORjRpVW1rWTBKRlB1d2twUW9UYnRoTnVkLUVTQ3pVWmRld0",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNVWFSbVpYOWt0c2Z3cTNFV2Fvc2NKaEk2Z0VnYl9FRjVPZ3d6OFVZLTBHZnVrVk5zVVFYS0xlakhuRWhHZTlJMm9fZDcwLW42UnJ3UExfQTJqWS1ocFNKWWdqRjV1eW9FT0R5bU1fV3J2SEdjZktxVko3NDJQcm0xYUVjM2xXRVg5cWE1ZlRZTHVfclVqMGJORjRpVW1rWTBKRlB1d2twUW9UYnRoTnVkLUVTQ3pVWmRld0c1MnZVTmZLbFNFMmZHZ0NvNmJBSERtY2JyU0lfc09hMFpTaDVTWjJVckVPVlRKX0c2N1cwekdhYW9uZnl2V2VYUDM3ZXZEWnfSAYcCQVVfeXFMT1p5d1hQRVU5bVNSbWtCOFowRmotQ0NhVFRlNkdjWm9MeFZfdmp4anNBWl9aN2VxeFZULUhVZlNkYmM3cnBQM19ueUVrWnRPSHRQeUdnejBVV0dubEh2d1pSa3E0QmJuMDJmTkl5WVJ5ZEluMHRmRFNwdUVoUHhCS3M3alNJV1JuUWlqMldkYkhJZWtua1VMLUJ3MTdtLVNORlM3bkNQZ1puQVhWSGg5Q0lRc1pzZWlSTDM1Y1hLT2V1dWtzVmo0cFdkNU1SQ1NRNWRhc1EzSzk0eXZidWlCX2N2RkJVb2RtVmk5TW9uaVpHR3MzVFVPMHdiV2hJeF81TFZEN2cwRWM?oc=5",
-      "source": "Google News - Precious Metals",
+      "title": "Brazilian lawyers busted for attempting to manipulate court's AI with prompt injection hidden in filing \u2014 court's AI flags hidden text that demanded superficial legal scrutiny, lawyers fined $16,000",
+      "description": "The lawyers of a plaintiff in a labor case attempted to use prompt injection to influence the court's AI but were caught. They won the case anyway, as the defendant did not respond, making the move totally unnecessary.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/brazilian-lawyers-busted-for-attempting-to-manipulate-courts-ai-with-prompt-injection-hidden-in-filing-courts-ai-flags-hidden-text-that-demanded-superficial-legal-scrutiny-lawyers-fined-usd16-000",
+      "source": "Tom's Hardware UK",
       "date": "2026-11-01",
-      "image": "",
-      "category": "platinum"
+      "image": "https://cdn.mos.cms.futurecdn.net/L2TSrQuGFDhmVGdBfr2ytV-1920-80.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "HHS Refers Duke Medical School to Justice Department Over Alleged Race Use in Admissions",
+      "description": "The Department of Health and Human Services referred Duke University School of Medicine to the Justice Department, alleging race and race-related proxies influenced admissions decisions. Duke disputes the claims.",
+      "url": "https://www.medicaldaily.com/hhs-refers-duke-medical-school-justice-department-admissions-480670",
+      "source": "Medical Daily",
+      "date": "2026-11-01",
+      "image": "https://d.medicaldaily.com/en/full/488034/medical-school.jpg",
+      "category": "market"
+    },
+    {
+      "title": "North Korea linked to massive Binance crypto heist",
+      "description": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity \"TraderTraitor\" and said that it had observed actors it has connected to hack converting the tokens to Ethereum and prepar\u2026",
+      "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
+      "source": "The Verge",
+      "date": "2026-11-01",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK428_CRYPTO_2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "category": "market"
+    },
+    {
+      "title": "Midterm election watch guide: When Republicans will know if it\u2019s time to hit panic button or reach for champagne",
+      "description": "Several key races Tuesday will determine if GOP is able to beat expectations after trailing Democrats in polls",
+      "url": "https://www.wnd.com/2026/11/midterm-election-watch-guide-when-republicans-will-know/",
+      "source": "Wnd.com",
+      "date": "2026-11-01",
+      "image": "https://www.wnd.com/wp-content/uploads/2022/11/capitol-building-congress-rotunda-washington-dc-senate-house-of-representatives-government-sky-unsplash-1200x630.jpg",
+      "category": "market"
     }
   ],
   "history": [
@@ -531,15 +531,15 @@
     {
       "date": "2026-11-02",
       "week": "2026-W45",
-      "gold_10g": 119331.76,
-      "silver_kg": 153613.82,
-      "platinum_g": 4380.67,
-      "gold_usd_oz": 3904.19,
-      "silver_usd_oz": 50.26,
-      "platinum_usd_oz": 1433.23
+      "gold_10g": 121181.56,
+      "silver_kg": 155933.71,
+      "platinum_g": 4466.42,
+      "gold_usd_oz": 3964.71,
+      "silver_usd_oz": 51.02,
+      "platinum_usd_oz": 1461.29
     }
   ],
-  "timestamp": "2026-11-02T16:59:58.331403+05:30",
+  "timestamp": "2026-11-02T21:53:18.086916+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
