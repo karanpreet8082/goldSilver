@@ -1,24 +1,24 @@
 {
   "prices": {
     "gold": {
-      "price_per_gram_inr": 12040.21,
-      "price_usd_oz": 3944.77,
-      "change_percent": -0.06,
-      "change_value_usd": -2.18,
-      "price_per_10g_inr": 120402.14
+      "price_per_gram_inr": 11991.88,
+      "price_usd_oz": 3928.93,
+      "change_percent": -0.46,
+      "change_value_usd": -18.01,
+      "price_per_10g_inr": 119918.82
     },
     "silver": {
-      "price_per_gram_inr": 152.57,
-      "price_usd_oz": 49.99,
-      "change_percent": -1.32,
-      "change_value_usd": -0.67,
-      "price_per_kg_inr": 152567.1
+      "price_per_gram_inr": 151.79,
+      "price_usd_oz": 49.73,
+      "change_percent": -1.82,
+      "change_value_usd": -0.92,
+      "price_per_kg_inr": 151788.79
     },
     "platinum": {
-      "price_per_gram_inr": 4411.42,
-      "price_usd_oz": 1445.33,
-      "change_percent": -0.27,
-      "change_value_usd": -3.87
+      "price_per_gram_inr": 4369.91,
+      "price_usd_oz": 1431.72,
+      "change_percent": -1.21,
+      "change_value_usd": -17.47
     },
     "currencies": {
       "USD_INR": 94.934,
@@ -30,8 +30,8 @@
       "CAD_INR": 67.9022,
       "SGD_INR": 74.2194
     },
-    "gold_silver_ratio": 78.92,
-    "timestamp": "2026-11-03T14:30:41.261350",
+    "gold_silver_ratio": 79.0,
+    "timestamp": "2026-11-03T17:12:29.149685",
     "source": "GoldAPI"
   },
   "currencies": {
@@ -53,8 +53,8 @@
         "sell": 65,
         "hold": 25
       },
-      "summary": "Gold is showing negative signals. Slight decline of -0.1%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-03T14:30:46.949238",
+      "summary": "Gold is showing negative signals. Slight decline of -0.5%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-11-03T17:12:35.423789",
       "source": "rule-based"
     },
     "silver": {
@@ -65,8 +65,8 @@
         "sell": 65,
         "hold": 25
       },
-      "summary": "Silver is showing negative signals. Significant daily drop of -1.3%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-03T14:30:47.025180",
+      "summary": "Silver is showing negative signals. Significant daily drop of -1.8%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-11-03T17:12:35.535170",
       "source": "rule-based"
     },
     "platinum": {
@@ -77,8 +77,8 @@
         "sell": 65,
         "hold": 25
       },
-      "summary": "Platinum is showing negative signals. Slight decline of -0.3%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-03T14:30:47.096269",
+      "summary": "Platinum is showing negative signals. Significant daily drop of -1.2%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-11-03T17:12:35.641851",
       "source": "rule-based"
     }
   },
@@ -90,14 +90,14 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -6.2% in 4 weeks",
+        "Weak momentum: -6.5% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
       "support": 118437.13,
       "resistance": 134616.17,
-      "current_price": 120402.14,
-      "ma_short": 124338.77,
-      "ma_long": 128620.63,
+      "current_price": 119918.82,
+      "ma_short": 124217.94,
+      "ma_long": 128580.35,
       "trend_score": -3.5
     },
     "silver": {
@@ -107,14 +107,14 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -18.4% in 4 weeks",
+        "Weak momentum: -18.8% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
       "support": 150153.09,
       "resistance": 210317.38,
-      "current_price": 152567.1,
-      "ma_short": 169349.65,
-      "ma_long": 186993.28,
+      "current_price": 151788.79,
+      "ma_short": 169155.08,
+      "ma_long": 186928.42,
       "trend_score": -3.5
     },
     "platinum": {
@@ -124,107 +124,116 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -16.3% in 4 weeks",
+        "Weak momentum: -17.1% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
-      "support": 4387.55,
+      "support": 4369.91,
       "resistance": 5662.91,
-      "current_price": 4411.42,
-      "ma_short": 4826.94,
-      "ma_long": 5149.56,
+      "current_price": 4369.91,
+      "ma_short": 4816.56,
+      "ma_long": 5146.1,
       "trend_score": -3.5
     }
   },
   "news": [
     {
-      "title": "Prediction markets face US midterms test as election bets soar",
-      "description": "In the race towards the US midterm elections, over $1.48 billion has been wagered through prediction markets such as Kalshi and Polymarket, highlighting their role in shaping political discourse. Experts raise alarms about the potential fallout if market outcomes deviate from real election results, ",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/prediction-markets-face-us-midterms-test-as-election-bets-soar/articleshow/135502488.cms",
+      "title": "Binance says North Korean hackers stole $6.34 billion funds in a technical breach",
+      "description": "Binance reported a cyberattack attributed to North Korea that compromised $6.34 billion in digital assets. Approximately $2.85 billion of the affected assets have since been frozen or intercepted. The attackers utilized fake job interviews and advanced malware to breach Binance's security systems. S",
+      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/binance-says-north-korean-hackers-stole-6-34-billion-funds-in-a-technical-breach/articleshow/135506955.cms",
       "source": "Economic Times Markets",
       "date": "2026-11-03",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "US stock futures mixed as Apple falls on margin warning, midterm results awaited",
-      "description": "U.S. stock index futures reflect a mixed response as crude oil prices trend upwards ahead of midterm election outcomes. Apple's shares took a hit following its announcement regarding rising costs and potential holiday-quarter margin impacts. Despite Palantir Technologies exceeding revenue estimates,",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-futures-mixed-as-apple-falls-on-margin-warning-midterm-results-awaited/articleshow/135501177.cms",
+      "title": "MCX Q2 Results: Profit rockets 130% YoY to Rs 455 crore, revenue jumps 114%",
+      "description": "Multi Commodity Exchange of India reported a 130% year-on-year jump in Q2FY26 consolidated net profit to Rs 454.57 crore, while revenue surged 114%. EBITDA rose 151%, margins expanded and shares touched a fresh 52-week high.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/mcx-q2-results-profit-rockets-130-yoy-to-rs-455-crore-revenue-jumps-114/articleshow/135504568.cms",
       "source": "Economic Times Markets",
       "date": "2026-11-03",
       "image": "",
-      "category": "geopolitics"
-    },
-    {
-      "title": "LA communities kick out Big Oil",
-      "description": "After years of advocacy from residents and legal battles with Big Oil, LA has voted to ban drilling and phase out oil extraction in the city. It's the first city in the country to kick the oil industry out.",
-      "url": "https://www.dw.com/en/la-communities-kick-out-big-oil/a-79830843",
-      "source": "DW (English)",
-      "date": "2026-11-02",
-      "image": "https://static.dw.com/image/79806369_6.jpg",
       "category": "market"
     },
     {
-      "title": "Perceived quality teaching and student retention intention: The serial mediation of knowledge, skills, competencies, and student loyalty",
-      "description": "Student retention intention remains a concern for higher education systems worldwide and is relevant to institutional sustainability and Sustainable Development Goal 4 (SDG 4). Drawing on Human Capital Theory (HCT) and Expectancy\u2013Value Theory (EVT), this stud\u2026",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361914",
-      "source": "Plos.org",
+      "title": "How to invest if you think the AI bubble is about to burst",
+      "description": "If you're worried the AI bubble is about to burst, a chorus of bearish investing pros has some advice on how to prepare your portfolio",
+      "url": "https://www.businessinsider.com/how-to-invest-ai-bubble-stock-market-crash-2026-11#article",
+      "source": "Business Insider",
       "date": "2026-11-02",
-      "image": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0361914.g003&size=inline",
+      "image": "https://i.insider.com/6ae8946ad8cc18cf795100de?width=1200&format=jpeg",
       "category": "market"
     },
     {
-      "title": "India once had no LTCG tax: How income tax rules on LTCG, STCG and STT changed over the years",
-      "description": "India\u2019s capital gains tax regime has undergone several changes over the decades, from its abolition in 1949 to the removal of LTCG tax on listed equities in 2004 and its reintroduction in 2018.",
-      "url": "https://www.livemint.com/money/personal-finance/india-once-had-no-ltcg-tax-how-income-tax-rules-on-ltcg-stcg-and-stt-changed-over-the-years-11793613755027.html",
-      "source": "Livemint",
-      "date": "2026-11-02",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/02/1600x900/logo/Finance_Ministers_1793625376511_zg6b_1793625385708_qwuj_967e9c1f-27a6-47de-9049-f642bde44cfc_4Z57.png",
-      "category": "market"
-    },
-    {
-      "title": "Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 6.06 Million Tokens, and Total Crypto and Total Cash & Marketable Securities Holdings of $14.5 Billion",
-      "description": "Bitmine owns 4.9% of the total ETH coin supply of 122.2 million Bitmine sees 6 reasons this recent Binance theft is a sign of crypto industry strength Bitmine is 99% of the way to the 'Alchemy of 5%' in just 15 months Bitmine released Chairman's Message on Oc\u2026",
-      "url": "https://www.prnewswire.co.uk/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-6-06-million-tokens-and-total-crypto-and-total-cash--marketable-securities-holdings-of-14-5-billion-302926349.html",
+      "title": "Bring your Swimsuit to Helsinki's Christmas Market, there will be a Sauna!",
+      "description": "HELSINKI, 2 November 2026 /PRNewswire/ -- As Christmas season descends across Europe, Helsinki offers visitors the unique experience to enjoy a traditional wood burning Finnish sauna in the midst of its Christmas Market. As the capital city of Santa Claus' ho\u2026",
+      "url": "https://www.prnewswire.co.uk/news-releases/bring-your-swimsuit-to-helsinkis-christmas-market-there-will-be-a-sauna-302926642.html",
       "source": "PR Newswire UK",
       "date": "2026-11-02",
-      "image": "https://mmx.prnewswire.com/media/MS2025137/Bitmine-Immersion-Technologies-Inc-Image.jpg?id=OA3052210&p=facebook",
+      "image": null,
+      "category": "currency"
+    },
+    {
+      "title": "Why Peacock is making a huge bet on YouTube",
+      "description": "Today, I\u2019m talking with Matt Strauss, who is now chairman of the NBCUniversal Media Group. This is Matt\u2019s second time joining me on the show, and there\u2019s been a whole lot of organizational and structural change at NBCU since the last time he and I spoke just \u2026",
+      "url": "https://www.theverge.com/podcast/1024228/matt-strauss-nbc-univerisal-versant-comcast-peacock-streaming-tv",
+      "source": "The Verge",
+      "date": "2026-11-02",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD_Matt_Strauss.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "category": "market"
+    },
+    {
+      "title": "Oheka Castle goes up for auction after bankruptcy filing",
+      "description": "In the end, the winning bid came in at $72 million. News 4\u2019s Greg Cergol reports",
+      "url": "https://freerepublic.com/focus/f-chat/4401493/posts",
+      "source": "Freerepublic.com",
+      "date": "2026-11-02",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "Q2 Results Today Highlights: Marico, Petronet LNG & Granules Q2 profit surges, ITC, UPL , Wockhardt & Escorts Kubota PAT down, MobiKwik posts profit, Devyani International loss narrows",
+      "description": "Q2 Results Today, 02nd November 2026 Updates: Find all the latest Q2 results 2026 updates of Aadhaar Ventures India, Aelea Commodities, Amir Chand Jagdish Kumar (Exports), Akums Drugs and Pharmaceuticals, Alankit, Alacrity Securities, Advance Metering Technol\u2026",
+      "url": "https://www.thehindubusinessline.com/markets/q2-results-today-highlights-itc-marico-upl-upl-petronet-lng-nlc-india-mobikwik-wockhardt-nalco-doms-ind-bosch-escorts-kubota-granules-lloyds-ril-jio-company-results-02-november-2026/article71652562.ece",
+      "source": "BusinessLine",
+      "date": "2026-11-02",
+      "image": "https://bl-i.thgim.com/public/incoming/g42tog/article71652561.ece/alternates/LANDSCAPE_1200/IMG_Businessman_investor_2_1_USD136N3.jpg",
       "category": "supply_demand"
     },
     {
-      "title": "Around the Book World: Monday, November 2, 2026",
-      "description": "Publishing analyst Carlo Carrenho kicks off the week with a review of the headlines from across the international publishing world.\nThe post Around the Book World: Monday, November 2, 2026 appeared first on Publishing Perspectives.",
-      "url": "https://publishingperspectives.com/2026/11/around-the-book-world-monday-november-2-2026/",
-      "source": "Publishingperspectives.com",
+      "title": "Why traders are moving away from equity F&O to commodities? Nithin Kamath explains",
+      "description": "Commodity derivatives traders in India surged nearly 62% to 21 lakh in FY26, while equity F&O participants fell 20% to 85 lakh. Zerodha's Nithin Kamath cited commodity volatility, options popularity and extended MCX trading hours.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-traders-are-moving-away-from-equity-fo-to-commodities-nithin-kamath-explains/articleshow/135466022.cms",
+      "source": "The Times of India",
       "date": "2026-11-02",
-      "image": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png",
+      "image": "https://img.etimg.com/thumb/msid-135466075,width-1200,height-900,imgsize-91268,overlay-etmarkets/articleshow.jpg",
       "category": "market"
     },
     {
-      "title": "Cholamandalam expects AUM to grow at 23-24% in FY27",
-      "description": "CIFCL has seen a healthy 47 per cent disbursement growth across businesses in the September quarter and loan losses have been significantly lower than last year",
-      "url": "https://www.thehindubusinessline.com/news/cholamandalam-expects-aum-to-grow-at-23-24-in-fy27/article71656751.ece",
-      "source": "BusinessLine",
-      "date": "2026-11-02",
-      "image": "https://bl-i.thgim.com/public/incoming/dmuiha/article71656758.ece/alternates/LANDSCAPE_1200/Cholamandalam-IG8VGAUBSB.4.jpg.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Planning to buy gold on Dhanteras? Jewellery vs coins vs gold ETFs vs sovereign gold bonds comparison before you invest",
-      "description": "Planning to buy gold this Dhanteras? Compare jewellery, coins, gold ETFs and Sovereign Gold Bonds on making charges, GST, liquidity, resale costs and taxation to understand which option is more cost-effective for investment.",
-      "url": "https://www.livemint.com/money/personal-finance/planning-to-buy-gold-on-dhanteras-jewellery-vs-coins-vs-gold-etfs-vs-sovereign-gold-bonds-comparison-before-you-invest-11793621225367.html",
+      "title": "Silver, gold prices today: 24K gold slips to \u20b91.37 lakh, silver below \u20b91.80 lakh/kg; check latest 24K, 22K gold rates",
+      "description": "Gold and silver prices declined in the latest IBJA evening fixing on 2 November. 24K gold fell  \u20b92,530 to  \u20b91,37,524 per 10 grams, while 22K gold dropped to  \u20b91,25,990. Silver prices declined  \u20b91,372 to  \u20b91,79,972 per kg.",
+      "url": "https://www.livemint.com/money/personal-finance/silver-gold-prices-today-24k-gold-slips-to-1-37-lakh-silver-below-1-80-lakh-kg-check-latest-24k-22k-gold-rates-11793630778648.html",
       "source": "Livemint",
       "date": "2026-11-02",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/02/1600x900/logo/Gemini_Genrated_Image_gwk17tgwk17tgwk1_179362127_1793621279266_EJjv_1793621279456_SDTT_96152dfa-27af-4117-8874-9b49a57f076d_kYSi.png",
+      "image": "https://www.livemint.com/lm-img/img/2026/11/02/1600x900/logo/Gemini_Generated_Image_mmxrcmcmxrcmcmx_179363151_1793631517272_e2BJ_1793631517508_cjZI_ff0390e7-7819-46ca-84d9-3f78b9ecf1b2_QHsl.png",
       "category": "metals"
     },
     {
-      "title": "FINATRADES EXPANDS TRADE FINANCE SOLUTIONS TO HELP ADDRESS $2.5 TRILLION GLOBAL FINANCING GAP",
-      "description": "FINATRADES introduces FINABRIDGE, FINASWAP and RPAY, offering businesses flexible import and export financing, cross-border payments and commodity-based settlement solutions. GENEVA, Nov. 2, 2026 /PRNewswire/ -- FINATRADES Finance SA, a Swiss-based financial \u2026",
-      "url": "https://www.prnewswire.co.uk/news-releases/finatrades-expands-trade-finance-solutions-to-help-address-2-5-trillion-global-financing-gap-302926359.html",
-      "source": "PR Newswire UK",
+      "title": "Tax relief in the offing? Sebi moots scrapping 12.5% LTCG tax for FPIs: What it means and how investors stand to gain",
+      "description": "The proposal has brought the taxation of investment profits into focus, particularly the rules governing gains earned from selling shares and other financial assets.",
+      "url": "https://www.livemint.com/money/tax-relief-in-the-offing-sebi-moots-scrapping-12-5-ltcg-tax-for-fpis-what-it-means-and-how-investors-stand-to-gain-11793627705658.html",
+      "source": "Livemint",
       "date": "2026-11-02",
-      "image": "https://mmx.prnewswire.com/media/MS2022774/PR3.jpg?id=OA3052192&p=facebook",
-      "category": "supply_demand"
+      "image": "https://www.livemint.com/lm-img/img/2026/11/02/1600x900/logo/sebi1_1793628795452_Zbtn_1793628818969_xmtT_571ef0df-778c-4cfb-b29b-d47d94790d13_wQpO.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Gold Rebounds Nearly 2% Toward $3,960 After Brutal Friday Slide to One-Year Low as Fed Rate-Hike Fears Linger",
+      "description": "Gold prices rose nearly 2% on Monday after a sharp Friday sell-off, but analysts described the move as a relief rally amid persistent pressure from higher interest-rate expectations.",
+      "url": "https://www.ibtimes.com.au/gold-prices-rebound-after-one-year-low-1877795",
+      "source": "Ibtimes.com.au",
+      "date": "2026-11-02",
+      "image": "https://d.ibtimes.com.au/en/full/1890872/gold.jpg",
+      "category": "geopolitics"
     },
     {
       "title": "Gold up 1.5% as oil prices ease inflation concerns",
@@ -281,129 +290,120 @@
       "category": "central_bank"
     },
     {
-      "title": "Nasdaq Outlook: Is the worst over for AI-fuelled tech stocks?",
-      "description": "Wall Street\u2019s AI-led rally faced a sharp setback as the Nasdaq recorded its biggest single-day fall since June. Heavy losses in technology stocks reflected growing investor concerns over hyperscaler spending and the returns on artificial intelligence investme\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nasdaq-outlook-is-the-worst-over-for-ai-fuelled-tech-stocks/articleshow/135450038.cms",
-      "source": "The Times of India",
+      "title": "Dolph Lundgren Reflects On Cancer Battle, Childhood Trauma, Ivan Drago Legacy & Dolph: Unbreakable (Exclusive)",
+      "description": "With his incredible new documentary Dolph: Unbreakable now available, we recently caught up with Dolph Lundgren himself to reflect on his cancer battle, his troubled youth, and his Ivan Drago legacy.",
+      "url": "https://comicbookmovie.com/exclusives/dolph-lundgren-reflects-on-cancer-battle-childhood-trauma-ivan-drago-legacy-dolph-unbreakable-exclusive-a230752",
+      "source": "CBM (Comic Book Movie)",
       "date": "2026-11-02",
-      "image": "https://img.etimg.com/thumb/msid-135450086,width-1200,height-900,imgsize-220236,overlay-etmarkets/articleshow.jpg",
+      "image": "https://comicbookmovie.com/images/articles/banners/dolph-lundgren-reflects-on-cancer-battle-childhood-trauma-ivan-drago-legacy-dolph-unbreakable-exclusive-ab230752.jpg",
       "category": "market"
     },
     {
-      "title": "How Bronze Changed The World",
-      "description": "Podcast Transcript Most people probably don\u2019t have anything made of bronze at home.\u00a0 Yet bronze used to be a big deal\u2026 a really big deal. In fact, an entire age of history is named after bronze.\u00a0 The discovery of this metal alloy wasn\u2019t a minor upgrade over p\u2026",
-      "url": "https://everything-everywhere.com/how-bronze-changed-the-world/",
-      "source": "Everything-everywhere.com",
+      "title": "How would we live if we knew when we would die?",
+      "description": "A group of friends from my college days in Sri Lanka now live all over the world but we stay in touch via a monthly video conference call. Two months ago, during such a call two of them made a startling revelation. It was that while we were in college, three \u2026",
+      "url": "https://freethoughtblogs.com/singham/2026/11/02/how-would-we-live-if-we-knew-when-we-would-die/",
+      "source": "Freethoughtblogs.com",
       "date": "2026-11-02",
-      "image": "https://photos.smugmug.com/photos/i-9Vx5Sxm/0/LCSX3xHjXKNFzqzg5C6MsNjJHXnwzBd4Lv6PqtZ5f/L/2310epart-L.jpg",
+      "image": "https://freethoughtblogs.com/singham/wp-content/themes/ftb2-theme/images/logo.gif",
       "category": "market"
     },
     {
-      "title": "Ukraine has put thousands of new war robots into the fight. Fall and winter will test how they handle mud and snow.",
-      "description": "Ukraine's ground robot fleet is much larger now than it was last year. New assets are facing new seasonal tests.",
-      "url": "https://www.businessinsider.com/ukraine-war-ground-robot-army-swelled-autumn-winter-test-2026-11#article",
-      "source": "Business Insider",
+      "title": "QUERCUS TFI S.A.: Warto\u015b\u0107 aktyw\u00f3w pod zarz\u0105dzaniem Quercus TFI S.A.",
+      "description": "Spis tre\u015bci:1. RAPORT BIE\u017b\u0104CY2. METADANE ESAP3. MESSAGE (ENGLISH VERSION)4. INFORMACJE O PODMIOCIE5. PODPISY OS\u00d3B REPREZENTUJ\u0104CYCH SP\u00d3\u0141K\u0118 td.td-text, th.td-text { word-break: keep-all; overflow-wrap: break-word; box-sizing:...",
+      "url": "https://www.bankier.pl/wiadomosc/QUERCUS-TFI-S-A-Wartosc-aktywow-pod-zarzadzaniem-Quercus-TFI-S-A-9222418.html",
+      "source": "Bankier.pl",
       "date": "2026-11-02",
-      "image": "https://i.insider.com/6ae8984ed8cc18cf795100ec?width=1200&format=jpeg",
+      "image": "https://galeria.bankier.pl/p/0/f/c054fce945dcfc-thumb-1000.jpg",
       "category": "geopolitics"
     },
     {
-      "title": "How US oil firms profit $130bn from Iran war as household bills surge",
-      "description": "As energy from the Gulf and Russia take a hit, American oil and gas firms are the big gainers.",
-      "url": "https://www.aljazeera.com/news/2026/11/2/how-us-oil-firms-profit-130bn-from-iran-war-as-household-bills-surge",
-      "source": "Al Jazeera English",
+      "title": "PRA Group Celebrates 30 Years of Business by Ringing Nasdaq Opening Bell",
+      "description": "NORFOLK, Va., Nov. 2, 2026 /PRNewswire/ -- PRA Group, Inc. (Nasdaq: PRAA), a global leader in acquiring and collecting nonperforming loans, today celebrated its 30th anniversary by ringing the Nasdaq Stock Market Opening Bell in New York City's Times Square. \u2026",
+      "url": "https://www.prnewswire.co.uk/news-releases/pra-group-celebrates-30-years-of-business-by-ringing-nasdaq-opening-bell-302926717.html",
+      "source": "PR Newswire UK",
       "date": "2026-11-02",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6ae8801f-1793622047.jpg?resize=1920%2C1440",
-      "category": "geopolitics"
+      "image": "https://mmx.prnewswire.com/media/MS2025539/PRA-Group.jpg?id=OA3052941&p=facebook",
+      "category": "market"
     },
     {
-      "title": "Why Romain Gavras\u2019s Netflix Movie \u2018Sacrifice\u2019 Ditched Iceland for Greek Volcanoes",
-      "description": "Production designer Arno Roth details the global search for active volcanoes and massive quarries for Romain Gavras\u2019s Netflix satire \u2018Sacrifice.\u2019",
-      "url": "https://www.whats-on-netflix.com/interviews/sacrifice-netflix-movie-locations-greece-iceland/",
-      "source": "What's on Netflix",
+      "title": "Utopai Studios Names Former Disney AI Exec Hans Ku Chief Product Officer",
+      "description": "EXCLUSIVE: Hans Ku, a former Disney, DreamWorks and Yahoo exec, has been named Chief Product Officer at Utopai Studios. In his new post, Ku will lead product, engineering, research and business development. He will aim to increase the scale of the technology \u2026",
+      "url": "http://deadline.com/2026/11/utopai-disney-ai-hans-ku-chief-product-officer-1237211388/",
+      "source": "Deadline",
       "date": "2026-11-02",
-      "image": "https://www.whats-on-netflix.com/wp-content/uploads/2026/11/Arno-Roth-Sacrifice-Movie.jpg",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/Hans-Ku-horizontal.png?w=1000",
+      "category": "market"
+    },
+    {
+      "title": "Dow pops 500 points, oil tumbles on hopes of a US-Iran peace deal",
+      "description": "Investors are taking risk after last week's tech selloff.",
+      "url": "https://nypost.com/2026/11/02/business/dow-pops-500-points-oil-tumbles-on-hopes-of-a-us-iran-peace-deal/",
+      "source": "New York Post",
+      "date": "2026-11-02",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/dow-stocks-nasdaq.jpg?quality=75&strip=all&1793620390&w=1200",
+      "category": "market"
+    },
+    {
+      "title": "Elon Musk Mocks Sam Altman Over Claim Home PCs Are Wasting RAM",
+      "description": "The OpenAI CEO said it's \"quite terrible\" for DRAM to sit largely idle in personal computers while AI data centers face a supply crunch.",
+      "url": "https://decrypt.co/382345/elon-musk-mocks-sam-altman-over-claim-home-pcs-are-wasting-ram",
+      "source": "Decrypt",
+      "date": "2026-11-02",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/01/sam-altman-elon-musk-decrypt-style-gID_7.jpg",
       "category": "supply_demand"
     },
     {
-      "title": "'Energy security's future lies in clean energy': PM Modi says fossil fuel dependence disrupts global economy",
-      "description": "NEW DELHI: Prime Minister Narendra Modi on Monday said the future of energy security lies in clean energy, warning that continued dependence on fossil",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/energy-securitys-future-lies-in-clean-energy-pm-modi-says-fossil-fuel-dependence-disrupts-global-economy/articleshow/135464120.cms",
+      "title": "A burn injury at a Google construction site: how migrant workers pay with their health for Europe\u2019s data centres",
+      "description": "Sandu Dumitrescu* checked his watch. He was winding down the last 15 minutes of his shift at the Google data centre site in Saint Ghislain, Belgium in March, when the call came in.",
+      "url": "https://rumafia.news/news/105329-a_burn_injury_at_a_google_conctruction_site_how_migrant_workers_pay_with_their_health_for_europes_data_centres",
+      "source": "Rumafia.news",
+      "date": "2026-11-02",
+      "image": "https://rumafia.news/upload/news/2026/11/02/105329.jpg?00000000000000",
+      "category": "currency"
+    },
+    {
+      "title": "Reps seek real estate regulator to curb fraud, boost housing investment",
+      "description": "The House of Representatives has called for a comprehensive regulatory framework for Nigeria\u2019s real estate sector to curb fraudulent practices, protect homebuyers and unlock investment in the country\u2019s housing market.\n\nRead More: https://punchng.com/reps-seek\u2026",
+      "url": "https://punchng.com/reps-seek-real-estate-regulator-to-curb-fraud-boost-housing-investment/",
+      "source": "The Punch",
+      "date": "2026-11-02",
+      "image": "https://punchng.com/wp-content/uploads/2026/07/House-of-Reps-Green-Chamber_1784558768.webp",
+      "category": "market"
+    },
+    {
+      "title": "Fergie Chambers Faces Extradition to U.S. Despite Never Being Indicted, Says Lawyer",
+      "description": "The refusal of two pro-Palestine protesters to testify before a grand jury could hamper the left-wing donor\u2019s extradition from Spain.\nThe post Fergie Chambers Faces Extradition to U.S. Despite Never Being Indicted, Says Lawyer appeared first on The Intercept.",
+      "url": "https://theintercept.com/2026/11/02/fergie-chambers-extradition-palestine-israel-protest/",
+      "source": "The Intercept",
+      "date": "2026-11-02",
+      "image": "https://theintercept.com/wp-content/uploads/2026/11/GettyImages-2214179351-e1793601821300.jpg?fit=5616%2C2808&w=1200&h=800",
+      "category": "market"
+    },
+    {
+      "title": "How High Will the Blue Wave Hit in Congress?",
+      "description": "Barring a major polling error, Democrats are in great position to flip the House and a good position to control the Senate as well in 2026. But it\u2019s been a wild and expensive cycle.",
+      "url": "http://nymag.com/intelligencer/article/midterms-preview-how-high-will-the-blue-wave-hit-congress.html",
+      "source": "New York Magazine",
+      "date": "2026-11-02",
+      "image": "https://pyxis.nymag.com/v1/imgs/604/b45/15069c5c177069cd8b9647fb1fa73360a4-talarico-rally.1x.rsocial.w1200.jpg",
+      "category": "market"
+    },
+    {
+      "title": "The Democrats Allowing Themselves to Be Optimistic",
+      "description": "The party is trying to take maximum advantage of the moment.",
+      "url": "https://www.theatlantic.com/politics/2026/11/democrats-midterms-state-power/689236/?utm_source=feed",
+      "source": "The Atlantic",
+      "date": "2026-11-02",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "Sectors bracing for a pivot as US midterm elections loom",
+      "description": "As the US midterm elections approach, Corporate America anticipates potential shifts in Washington's power dynamics. Analysts predict that a strong Democratic showing could benefit sectors such as clean energy, housing, and healthcare. Conversely, AI and defe\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/sectors-bracing-for-a-pivot-as-us-midterm-elections-loom-defence-finance-cryptocurrency/articleshow/135467839.cms",
       "source": "The Times of India",
       "date": "2026-11-02",
-      "image": "https://static.toiimg.com/thumb/msid-135465102,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "DEFY THE ELEMENTS - DR. MARTENS UNVEILS THE NEW WATERPROOF 101 RAIN BOOT, A WELLINGTON EVOLVED FROM TIMELESS BRAND DNA",
-      "description": "Wet weather? No need to panic. Dr. Martens has you covered with the 101 Rain Boot, a welly made to withstand the rain in style. LONDON, Nov. 2, 2026 /PRNewswire/ -- A nod to Dr. Martens classic 101 Boot, these wellington boots are the latest iteration of the \u2026",
-      "url": "https://www.prnewswire.co.uk/news-releases/defy-the-elements--dr-martens-unveils-the-new-waterproof-101-rain-boot-a-wellington-evolved-from-timeless-brand-dna-302926517.html",
-      "source": "PR Newswire UK",
-      "date": "2026-11-02",
-      "image": "https://mmx.prnewswire.com/media/MS2023720/AW26_OCCASIONS_DRMARTENS_43287001_43287300_BLACK_101_RAIN_LOW_BOOT_LEG_DOWN_GROUP_025__RGB_JPEG.jpg?id=OA3047841&p=facebook",
-      "category": "market"
-    },
-    {
-      "title": "Edgar Wright Says New AI Remaster of Cult TV Comedy \u2018Spaced\u2019 Is a \u2018Bummer\u2019: \u2018Not Authorized by Anyone Involved in Making the Show\u2019",
-      "description": "Edgar Wright has slammed an upcoming Blu-Ray re-release of \u201cSpaced,\u201d the cult comedy series that ran on British TV from 1999-2001 and would make heroes of himself plus its stars Simon Pegg, Nick Frost and Jessica Hynes, largely because he had no idea about it\u2026",
-      "url": "https://variety.com/2026/tv/global/edgar-wright-ai-remaster-bluray-spaced-not-authorized-1236937429/",
-      "source": "Variety",
-      "date": "2026-11-02",
-      "image": "https://variety.com/wp-content/uploads/2026/11/Spaced.jpg?w=1000&h=563&crop=1",
-      "category": "market"
-    },
-    {
-      "title": "The high-powered parents caught up in Sydney's Halloween party nightmare as 200 gatecrashers descend on their $10million beachside mansion",
-      "description": "The prominent couple behind a $10million Sydney mansion where a teenage Halloween party descended into chaos can now be revealed.",
-      "url": "https://www.dailymail.com/news/article-16257647/Bronwyn-Byrnes-David-Bluff-house-party-sydney-clovelly.html",
-      "source": "Dailymail.com",
-      "date": "2026-11-02",
-      "image": "https://i.dailymail.com/1s/2026/11/02/10/112242077-0-image-a-12_1793615126753.jpg",
-      "category": "market"
-    },
-    {
-      "title": "SC raps Centre for stalling enforcement of Vedanta arbitration awards",
-      "description": "At the heart of the dispute was how payments towards costs previously incurred by ONGC in developing the oilfield were to be accounted for while calculating the companies\u2019 share of revenue from oil production",
-      "url": "https://www.thehindubusinessline.com/news/sc-raps-centre-for-stalling-enforcement-of-vedanta-arbitration-awards/article71657243.ece",
-      "source": "BusinessLine",
-      "date": "2026-11-02",
-      "image": "https://bl-i.thgim.com/public/incoming/1en1jk/article71657270.ece/alternates/LANDSCAPE_1200/False-Form-7sGBVGO0T4N.6.jpg.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "tZERO plans $350 million SPAC merger to list on NYSE American",
-      "description": "tZERO's SPAC merger could enhance transparency in tokenized securities, offering investors insights into this evolving financial infrastructure.\nThe post tZERO plans $350 million SPAC merger to list on NYSE American appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/tzero-350-million-spac-merger-nyse-american/",
-      "source": "Crypto Briefing",
-      "date": "2026-11-02",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/02090444/library-tzero-plans-350-million-spac-merger-to-list-on-nyse-amer-800x450.png",
-      "category": "market"
-    },
-    {
-      "title": "US midterm elections 2026: Why election night results may not be final, and what happens next",
-      "description": "Election officials will continue counting votes after November 3, impacting the final election results. Some ballots may arrive late and still be counted, affecting candidate leads. Various states have different rules regarding when counting can begin and how\u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/us/us-midterm-elections-2026-why-election-night-results-may-not-be-final-and-what-happens-next/articleshow/135463694.cms",
-      "source": "The Times of India",
-      "date": "2026-11-02",
-      "image": "https://img.etimg.com/thumb/msid-135464542,width-1200,height-900,imgsize-53158,overlay-economictimes/articleshow.jpg",
-      "category": "market"
-    },
-    {
-      "title": "The Luxury of Discussion: AI, Power and the Illusion of Open Debate \u2014 Part 1",
-      "description": "Last week, BBC News broadcast a discussion by a panel of experts centered on the question of AI technology\u2019s impact on society. An entry in its AI Decoded series entitled, The end of data centres? Apple and Meta\u2019s bet against the cloud, the discussion focused\u2026",
-      "url": "https://www.fairobserver.com/more/science/the-luxury-of-discussion-ai-power-and-the-illusion-of-open-debate-part-1/",
-      "source": "Fair Observer",
-      "date": "2026-11-02",
-      "image": "https://www.fairobserver.com/wp-content/uploads/2026/11/collaboratively-a.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Here's why pet insurance makes sense this November",
-      "description": "Pet insurance can be particularly beneficial for owners this November. Here are three reasons why.",
-      "url": "https://www.cbsnews.com/moneywatch/insurance/why-pet-insurance-makes-sense-this-november/",
-      "source": "CBS News",
-      "date": "2026-11-02",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/30/45455b07-44fb-4079-96c2-60fd820418d4/thumbnail/1200x630/301aaa4af6e014fca74f60c1a0f691c3/gettyimages-155920651.jpg",
+      "image": "https://img.etimg.com/thumb/msid-135468157,width-1200,height-900,imgsize-84746,overlay-economictimes/articleshow.jpg",
       "category": "market"
     }
   ],
@@ -531,15 +531,15 @@
     {
       "date": "2026-11-03",
       "week": "2026-W45",
-      "gold_10g": 120402.14,
-      "silver_kg": 152567.1,
-      "platinum_g": 4411.42,
-      "gold_usd_oz": 3944.77,
-      "silver_usd_oz": 49.99,
-      "platinum_usd_oz": 1445.33
+      "gold_10g": 119918.82,
+      "silver_kg": 151788.79,
+      "platinum_g": 4369.91,
+      "gold_usd_oz": 3928.93,
+      "silver_usd_oz": 49.73,
+      "platinum_usd_oz": 1431.72
     }
   ],
-  "timestamp": "2026-11-03T20:00:47.104606+05:30",
+  "timestamp": "2026-11-03T22:42:35.651808+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
