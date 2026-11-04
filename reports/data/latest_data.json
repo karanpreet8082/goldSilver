@@ -1,24 +1,24 @@
 {
   "prices": {
     "gold": {
-      "price_per_gram_inr": 12332.03,
-      "price_usd_oz": 4044.72,
-      "change_percent": 2.91,
-      "change_value_usd": 114.47,
-      "price_per_10g_inr": 123320.3
+      "price_per_gram_inr": 12336.37,
+      "price_usd_oz": 4046.14,
+      "change_percent": 2.95,
+      "change_value_usd": 115.89,
+      "price_per_10g_inr": 123363.75
     },
     "silver": {
-      "price_per_gram_inr": 158.64,
-      "price_usd_oz": 52.03,
-      "change_percent": 4.5,
-      "change_value_usd": 2.24,
-      "price_per_kg_inr": 158641.43
+      "price_per_gram_inr": 159.32,
+      "price_usd_oz": 52.25,
+      "change_percent": 4.94,
+      "change_value_usd": 2.46,
+      "price_per_kg_inr": 159315.24
     },
     "platinum": {
-      "price_per_gram_inr": 4462.03,
-      "price_usd_oz": 1463.48,
-      "change_percent": 3.03,
-      "change_value_usd": 43.06
+      "price_per_gram_inr": 4516.63,
+      "price_usd_oz": 1481.38,
+      "change_percent": 4.29,
+      "change_value_usd": 60.96
     },
     "currencies": {
       "USD_INR": 94.8321,
@@ -30,8 +30,8 @@
       "CAD_INR": 67.7614,
       "SGD_INR": 74.0182
     },
-    "gold_silver_ratio": 77.74,
-    "timestamp": "2026-11-04T11:19:49.462884",
+    "gold_silver_ratio": 77.43,
+    "timestamp": "2026-11-04T14:45:17.569117",
     "source": "GoldAPI"
   },
   "currencies": {
@@ -53,8 +53,8 @@
         "sell": 25,
         "hold": 50
       },
-      "summary": "Gold is showing negative signals. Strong daily gain of 2.9%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-04T11:19:54.311388",
+      "summary": "Gold is showing negative signals. Strong daily gain of 3.0%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
+      "timestamp": "2026-11-04T14:45:22.896139",
       "source": "rule-based"
     },
     "silver": {
@@ -65,8 +65,8 @@
         "sell": 25,
         "hold": 50
       },
-      "summary": "Silver is showing negative signals. Strong daily gain of 4.5%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-04T11:19:54.446745",
+      "summary": "Silver is showing negative signals. Strong daily gain of 4.9%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
+      "timestamp": "2026-11-04T14:45:23.002480",
       "source": "rule-based"
     },
     "platinum": {
@@ -77,8 +77,8 @@
         "sell": 25,
         "hold": 50
       },
-      "summary": "Platinum is showing negative signals. Strong daily gain of 3.0%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-04T11:19:54.557781",
+      "summary": "Platinum is showing negative signals. Strong daily gain of 4.3%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
+      "timestamp": "2026-11-04T14:45:23.111700",
       "source": "rule-based"
     }
   },
@@ -94,9 +94,9 @@
       ],
       "support": 118437.13,
       "resistance": 134616.17,
-      "current_price": 123320.3,
-      "ma_short": 125068.31,
-      "ma_long": 128863.81,
+      "current_price": 123363.75,
+      "ma_short": 125079.17,
+      "ma_long": 128867.43,
       "trend_score": -4.0
     },
     "silver": {
@@ -106,14 +106,14 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -15.2% in 4 weeks",
+        "Weak momentum: -14.8% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
       "support": 150153.09,
       "resistance": 210317.38,
-      "current_price": 158641.43,
-      "ma_short": 170868.23,
-      "ma_long": 187499.47,
+      "current_price": 159315.24,
+      "ma_short": 171036.69,
+      "ma_long": 187555.62,
       "trend_score": -3.5
     },
     "platinum": {
@@ -123,49 +123,22 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -15.4% in 4 weeks",
+        "Weak momentum: -14.3% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
       "support": 4387.55,
       "resistance": 5662.91,
-      "current_price": 4462.03,
-      "ma_short": 4839.59,
-      "ma_long": 5153.77,
+      "current_price": 4516.63,
+      "ma_short": 4853.24,
+      "ma_long": 5158.32,
       "trend_score": -3.5
     }
   },
   "news": [
     {
-      "title": "Rupee gains 17 paise to settle at 94.58 against Us dollar",
-      "description": "The Indian rupee appreciated for the second consecutive session, closing 17 paise higher against the US dollar. Easing crude oil prices and inflows from foreign investors contributed to the rupee's firmness. Domestic equity markets also performed well, with both Sensex and Nifty rising significantly",
-      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-gains-17-paise-to-settle-at-94-58-against-us-dollar/articleshow/135536340.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-11-04",
-      "image": "",
-      "category": "currency"
-    },
-    {
-      "title": "Bitcoin near $78,600, Ethereum at $2,300 as US midterm results put crypto regulation in focus",
-      "description": "Bitcoin traded near $78,000 as institutional outflows and macroeconomic uncertainty kept sentiment cautious across the cryptocurrency market. Investors tracked US midterm election results, potential changes in crypto regulation, Federal Reserve rate expectations, and ETF flows for cues on the market",
-      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-near-78600-ethereum-at-2300-as-us-midterm-results-put-crypto-regulation-in-focus/articleshow/135536095.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-11-04",
-      "image": "",
-      "category": "central_bank"
-    },
-    {
-      "title": "Eurozone bond yields steady as investors await inflation data; US Treasury yields ease after midterm elections",
-      "description": "Eurozone government bond yields were steady as investors awaited October inflation data, while US Treasury yields declined after Democrats gained control of both chambers of Congress. Markets also assessed the likelihood of further European Central Bank rate hikes in December.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/eurozone-bond-yields-steady-as-investors-await-inflation-data-us-treasury-yields-ease-after-midterm-elections/articleshow/135535574.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-11-04",
-      "image": "",
-      "category": "central_bank"
-    },
-    {
-      "title": "Dr Lal PathLabs posts higher quarterly profit on strong diagnostic test demand",
-      "description": "Dr Lal PathLabs announced a 27% increase in its second-quarter profit, with net earnings rising to 1.92 billion rupees. The company experienced a near 20% increase in consolidated revenue from operations during this period. A rise in healthcare awareness has fueled the demand for preventive health c",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/dr-lal-pathlabs-posts-higher-quarterly-profit-on-strong-diagnostic-test-demand/articleshow/135535528.cms",
+      "title": "Democratic sweep adds new twist to markets' Iran, AI, and debt worries",
+      "description": "Investors are watching the implications of the recent Democratic win in the US midterm elections. Geopolitical tensions, particularly the Iran war, continue to elevate oil prices and market risks. Regulatory scrutiny on the rapidly growing AI sector is expected following the election outcomes. Marke",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/democratic-sweep-adds-new-twist-to-markets-iran-ai-and-debt-worries/articleshow/135539439.cms",
       "source": "Economic Times Markets",
       "date": "2026-11-04",
       "image": "",
@@ -190,75 +163,111 @@
       "category": "metals"
     },
     {
-      "title": "Copper at 6.405 USD/lb with mixed moves in palladium, platinum and silver - index.vn",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOcGtuTnhPTWFESVpFWkIwZUNCQjZBT2M4NERiZDhuYU5JYkVEeVc4dVdpNlFraUV5MnY0eHR6TzBMNUFxdXhsbk5MdkZJRDhWNFpxLTNiaFhOT2NvLUsyQ3hoTnFrc2hpTUFwNmk5dElyYU9WYmxhU0NVWl8xUGJKSlluM3JnLS01ZElDT2lmWXNYWE9nZ2VUVW1GVy1JaWtXS0JQdlB2TF9MLWNzVkxRVDNiRk56RHJKZn",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcGtuTnhPTWFESVpFWkIwZUNCQjZBT2M4NERiZDhuYU5JYkVEeVc4dVdpNlFraUV5MnY0eHR6TzBMNUFxdXhsbk5MdkZJRDhWNFpxLTNiaFhOT2NvLUsyQ3hoTnFrc2hpTUFwNmk5dElyYU9WYmxhU0NVWl8xUGJKSlluM3JnLS01ZElDT2lmWXNYWE9nZ2VUVW1GVy1JaWtXS0JQdlB2TF9MLWNzVkxRVDNiRk56RHJKZnFNMkJRSFE1YU40Y1NIUzlsOA?oc=5",
-      "source": "Google News - Precious Metals",
-      "date": "2026-11-04",
-      "image": "",
-      "category": "currency"
-    },
-    {
-      "title": "Jewellery startup Giva raises $100 mn in funding round led by Multiples PE, others",
-      "description": "This investment will enable Giva to strengthen its leadership team, build manufacturing capabilities and expand its offline presence.",
-      "url": "https://www.livemint.com/companies/news/jewellery-startup-giva-fundraise-multiples-pe-india-jewellery-market-11793696281070.html",
+      "title": "Gold vs Silver ETFs before Diwali 2026: Which delivered better returns? What risks should investors check before buying?",
+      "description": "Silver ETFs have outperformed gold ETFs over one and three years, according to Value Research data. However, gold has proved more resilient during the recent correction. Here are the top-performing ETFs and five risks investors should check before investing.",
+      "url": "https://www.livemint.com/money/personal-finance/gold-vs-silver-etfs-before-diwali-2026-which-delivered-better-returns-what-risks-should-investors-check-before-buying-11793710248562.html",
       "source": "Livemint",
       "date": "2026-11-03",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/03/1600x900/logo/GIVA_Blrstore_1750241275883_1793703846689_npRH_54c0ea5a-45f5-4743-9ecd-3dbef16f7ce1_u6bb.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Diwali 2026: All gold, silver ETFs log second month of negative returns in October; is it time to invest? Experts advise",
-      "description": "All gold and silver ETFs posted negative returns for the second consecutive month in October 2026, with negative category average returns of 5.22% and 17.16%, respectively. Should you invest this Diwali? Experts discuss investment horizons and whether gold or\u2026",
-      "url": "https://www.livemint.com/money/personal-finance/diwali-2026-all-gold-silver-etfs-log-second-month-of-negative-returns-in-october-is-it-time-to-invest-experts-advise-11793698701977.html",
-      "source": "Livemint",
-      "date": "2026-11-03",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/03/1600x900/logo/godld_1793702208079_MnLA_1793702211913_RZMI_f02b8a94-efcf-4c42-9837-5595ce23324b_C4RV.png",
+      "image": "https://www.livemint.com/lm-img/img/2026/11/03/1600x900/logo/Gemini_Genrated_Image_1zhi7v1zhi7v1zhi_179371043_1793710444522_dCdf_1793710444705_01zn_4a7c9828-a379-4e30-af71-cd91ba12e923_lHFu.png",
       "category": "metals"
     },
     {
-      "title": "The investing basics that underpin success",
-      "description": "There's no need to overcomplicate investing. Like so much in life, it works best when you keep it simple.\nThe post The investing basics that underpin success appeared first on Monevator.",
-      "url": "https://monevator.com/the-investing-basics/",
-      "source": "Monevator.com",
+      "title": "No Fan Service? FSU Rules Out Deion Sanders",
+      "description": "Florida State officials say Deion Sanders' baggage is unwanted. The program wants roots, not a media circus, as they rebuild.",
+      "url": "https://offdaychatter.com/florida-state-rules-out-deion-sanders-despite-fan-desire/",
+      "source": "Offdaychatter.com",
       "date": "2026-11-03",
-      "image": "https://monevator.com/wp-content/uploads/2015/01/183.-The-investing-basics.png",
+      "image": "https://s.yimg.com/lo/mysterio/api/8450b253a88d6573e7b2946ffde89e765fa807cb3cc439373dc538bc87088f22/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Foff_day_chatter_601%2F6d3a86de2201ba0d22fd29cd738b90b8.jpg",
       "category": "market"
     },
     {
-      "title": "Svea Mining appoints DNB Carnegie as liquidity provider.",
-      "description": "STOCKHOLM, Nov. 3, 2026 /PRNewswire/ --Svea Mining AB (publ) (\"Svea Mining\" or the \"Company\") has appointed DNB Carnegie Investment Bank AB (publ) (\"DNB Carnegie\") as liquidity provider for the Company's shares on Spotlight Stock Market (ticker: SVEA) (ISIN: \u2026",
-      "url": "https://www.prnewswire.co.uk/news-releases/svea-mining-appoints-dnb-carnegie-as-liquidity-provider-302927688.html",
-      "source": "PR Newswire UK",
+      "title": "Apple OLED iPad mini (2026) Review: The Tiniest iPad Is Mightier Than Ever",
+      "description": "With a beefy A20 chip, a gorgeous OLED screen, and a waterproof build, the 2026 Apple iPad mini gets some nice upgrades. But starting at $699, it sits in a curious spot in Apple's lineup. It's smaller, but $250 more expensive than the base iPad, and just $50 \u2026",
+      "url": "https://uk.pcmag.com/tablets/168214/apple-ipad-mini-2026",
+      "source": "PCMag.com",
       "date": "2026-11-03",
-      "image": null,
+      "image": "https://sm.pcmag.com/t/pcmag_uk/review/a/apple-oled/apple-oled-ipad-mini-2026-review-the-tiniest-ipad-is-mightie_jy4r.1200.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Apple iPad mini (2026) Review: The Tiniest iPad Is Mightier Than Ever",
+      "description": "With a beefy A20 chip, a gorgeous OLED screen, and a waterproof build, the 2026 Apple iPad mini gets some nice upgrades. But starting at $699, it sits in a curious spot in Apple's lineup. It's smaller, but $250 more expensive than the base iPad, and just $50 \u2026",
+      "url": "https://uk.pcmag.com/tablets/168214/apple-ipad-mini-2026-review-the-tiniest-ipad-is-mightier-than-ever",
+      "source": "PCMag.com",
+      "date": "2026-11-03",
+      "image": "https://sm.pcmag.com/t/pcmag_uk/review/a/apple-ipad/apple-ipad-mini-2026-review-the-tiniest-ipad-is-mightier-tha_ct15.1200.jpg",
+      "category": "market"
+    },
+    {
+      "title": "The Precious Metals Crisis That Could Trigger a Global Financial\u00a0Reckoning",
+      "description": "It ended, apparently, in the spring. Gold ran to a record in the last days of January 2026 \u2014 $5,608 an ounce on one spot reading, roughly $5,405 on the LBMA benchmark, and $5,318.40 on COMEX futures, three figures describing the same metal and differing by ne\u2026",
+      "url": "https://activistpost.com/the-precious-metals-crisis-that-could-trigger-a-global-financial-reckoning/",
+      "source": "Activistpost.com",
+      "date": "2026-11-03",
+      "image": "https://activistpost.com/wp-content/uploads/2026/10/istockphoto-459987579-612x612-1.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "Gold price crashes on Election Day, Silver drops: Will Gold rate fall further after US midterm elections 2026 results?",
+      "description": "Election Day Gold rate: Gold price was down on Tuesday as investors seem to be waiting for US midterm elections 2026 results for Donald Trump-led Republicans and Democrats.",
+      "url": "https://economictimes.indiatimes.com/news/international/us/gold-price-crashes-on-election-day-silver-drops-will-gold-rate-fall-further-after-us-midterm-elections-2026-results/articleshow/135501880.cms",
+      "source": "The Times of India",
+      "date": "2026-11-03",
+      "image": "https://img.etimg.com/thumb/msid-135502073,width-1200,height-900,imgsize-164702,overlay-economictimes/articleshow.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "Apple India\u2019s record sales; Giva\u2019s $100 million fundraise",
+      "description": "Apple reported strong September quarter results driven by early demand for its iPhone 18 Pro lineup and price hikes. This and more in today\u2019s ETtech Top 5.",
+      "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/apple-indias-record-sales-givas-100-million-fundraise/articleshow/135500613.cms",
+      "source": "The Times of India",
+      "date": "2026-11-03",
+      "image": "https://img.etimg.com/thumb/msid-135500613,width-1070,height-580,imgsize-38032,overlay-ettech/editionshow.jpg",
       "category": "supply_demand"
     },
     {
-      "title": "LTCG tax relief for these mutual fund investors proposed by SEBI; know how switching funds for portfolio rebalancing can save tax",
-      "description": "The Securities and Exchange Board of India (SEBI) has put forth a proposal to exempt long-term capital gains tax for investors who switch mutual funds. This change would enable individuals to adjust their portfolios without facing tax penalties, promoting mor\u2026",
-      "url": "https://economictimes.indiatimes.com/wealth/tax/ltcg-tax-relief-for-these-mutual-fund-investors-proposed-by-sebi-know-how-switching-funds-for-portfolio-rebalancing-can-save-tax/articleshow/135491132.cms",
-      "source": "The Times of India",
+      "title": "97-Year-Old Sues \u2018Toy Story\u2019 Star Over 58% Gold Markups as Bankrupt Dealer Owes Customers $49 Million",
+      "description": "A 97-year-old La Jolla man and his 85-year-old wife say former Disney star Erik von Detten talked them into putting $2.15 million of their retirement savings into overpriced gold coins worth only about $1.36 million at the time \u2013 a nearly 60% markup that left\u2026",
+      "url": "https://freerepublic.com/focus/f-chat/4401616/posts",
+      "source": "Freerepublic.com",
       "date": "2026-11-03",
-      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-184348,resizemode-75,msid-135491132/wealth/tax/ltcg-tax-relief-for-these-mutual-fund-investors-proposed-by-sebi-know-how-switching-funds-for-portfolio-rebalancing-can-save-tax.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Gold, silver lose shine ahead of Dhanteras: Buy now, wait or invest in something else?",
-      "description": "As Dhanteras nears, Indian consumers are closely monitoring the recent drop in gold and silver prices, scrutinizing how this volatility might influence future values. Financial experts advise buyers to assess their personal needs and investment objectives bef\u2026",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-lose-shine-ahead-of-dhanteras-buy-now-wait-or-invest-in-something-else/articleshow/135490766.cms",
-      "source": "The Times of India",
-      "date": "2026-11-03",
-      "image": "https://static.toiimg.com/thumb/msid-135491584,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "image": null,
       "category": "metals"
     },
     {
-      "title": "Buying gold on Dhanteras? 7 things you must check before paying the jeweller",
-      "description": "Buying gold on Dhanteras and Diwali is a significant tradition observed in many Indian households. It is essential to check several factors, including purity, weight, and gold rates, before making a purchase. Understanding making charges and the jeweller\u2019s bu\u2026",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/buying-gold-on-dhanteras-7-things-you-must-check-before-paying-the-jeweller/articleshow/135490101.cms",
+      "title": "India\u2019s illegal gold imports surge 1,500% after tax hike",
+      "description": "India's illegal gold imports surged dramatically in the third quarter of 2023, reaching 50 metric tons. This rise is attributed to the government's recent duty hike on gold and silver imports. The increase in informal shipments is linked to previous tax incre\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/indias-illegal-gold-imports-surge-1500-after-tax-hike-world-gold-council/articleshow/135500540.cms",
       "source": "The Times of India",
       "date": "2026-11-03",
-      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1517914,resizemode-75,msid-135490101/wealth/invest/buying-gold-on-dhanteras-7-things-you-must-check-before-paying-the-jeweller.jpg",
+      "image": "https://img.etimg.com/thumb/msid-135501094,width-1200,height-900,imgsize-192858,overlay-economictimes/articleshow.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Dhanteras 2026: What not to buy? List of items considered inauspicious on this day",
+      "description": "What should you avoid buying on Dhanteras 2026? Know the traditional beliefs surrounding iron, sharp objects, black-coloured items and other purchases. While these items are considered inauspicious in some households, customs vary across regions and families.\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/dhanteras-2026-what-not-to-buy-inauspicious-items-iron-black-clothes-sharp-objects/articleshow/135500536.cms",
+      "source": "The Times of India",
+      "date": "2026-11-03",
+      "image": "https://img.etimg.com/thumb/msid-135500547,width-1200,height-900,imgsize-80140,overlay-economictimes/articleshow.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Gold, silver rates crash today: What's behind plunging precious metals prices ahead of Dhanteras, Diwali 2026? Details",
+      "description": "Gold fell  \u20b9542 per 10 grams and silver  \u20b9875 per kg from AM to PM on November 3, according to IBJA. Ahead of Dhanteras and Diwali, here's what's driving the precious metals correction and what buyers and investors should consider.",
+      "url": "https://www.livemint.com/money/personal-finance/gold-silver-rates-crash-today-whats-behind-plunging-precious-metals-prices-ahead-of-dhanteras-diwali-2026-details-11793708983830.html",
+      "source": "Livemint",
+      "date": "2026-11-03",
+      "image": "https://www.livemint.com/lm-img/img/2026/11/03/1600x900/logo/Gemini_Generatd_Image_ap43haap43haap43_179370937_1793709383559_kR1P_1793709383703_LsIs_ed6f93f7-fc99-4d3b-9ce5-19368437d184_teLT.png",
+      "category": "metals"
+    },
+    {
+      "title": "Dhanteras 2026: Buying gold and silver coins on Blinkit, Zepto or Instamart? 5 things to check before placing an order",
+      "description": "Buying gold and silver coins on Blinkit, Zepto and Instamart can be convenient this Dhanteras. But before ordering, check the seller, purity, weight, certification, final price and refund policy. Here's how to buy precious metals safely online.",
+      "url": "https://www.livemint.com/money/personal-finance/dhanteras-2026-buying-gold-and-silver-coins-on-blinkit-zepto-or-instamart-5-things-to-check-before-placing-an-order-11793705064434.html",
+      "source": "Livemint",
+      "date": "2026-11-03",
+      "image": "https://www.livemint.com/lm-img/img/2026/11/03/1600x900/Gemini_Generated_Iage_nsd3ihnsd3ihnsd3_179370532_1793705336280_FeGf_1793705336414_I7lV_a7e0c161-6b6c-475a-8219-fb3db7f0ef85_5AhX.png",
       "category": "metals"
     },
     {
@@ -271,139 +280,130 @@
       "category": "market"
     },
     {
-      "title": "Silver drops 3.5% ahead of US midterm elections",
-      "description": "The price of precious metals continued to decline on Tuesday, with silver dropping over 3.5% after a short rebound and pushing the price back below the $50 threshold. Gold lost 1.26% at 4:01 am ET, go...",
-      "url": "https://biztoc.com/x/74d076885ac8055c",
-      "source": "Biztoc.com",
-      "date": "2026-11-03",
-      "image": "https://biztoc.com/cdn/74d076885ac8055c_s.webp",
-      "category": "metals"
-    },
-    {
-      "title": "Silver fall: what drove the crash, what's next and what should investors do?",
-      "description": "Silver ETFs have corrected sharply as speculative positions unwind and bond yields rise. Here's what drove the fall, what could shape the outlook and how investors should approach the metal.",
-      "url": "https://www.livemint.com/money/personal-finance/silver-prices-silver-etfs-silver-correction-precious-metals-us-bond-yields-federal-reserve-industrial-demand-11793684111226.html",
-      "source": "Livemint",
-      "date": "2026-11-03",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/03/1600x900/logo/pexels-photo-36355530_1793688293377_hJBW_1793688303947_tvIv_1c6d34d3-7579-4ecb-95a4-aa7ad3c8b3d9_k1fk.jpeg",
-      "category": "metals"
-    },
-    {
-      "title": "Gold, silver rate Coimbatore 3 Nov: Latest price movement today for investors ahead of Dhanteras, Diwali in Isha city",
-      "description": "Gold, silver prices today, 3 November Coimbatore: Latest price movement today for investors ahead of Dhanteras, Diwali in Isha city. We also bring retail prices of 18K, 22K and 24K gold and 999 Fine silver across cities \u2014 Ahmedabad, Bangalore, Chennai, Delhi,\u2026",
-      "url": "https://www.livemint.com/money/personal-finance/gold-24k-22k-18k-999-silver-rate-coimbatore-3-nov-latest-price-movement-today-investors-ahead-dhanteras-diwali-isha-city-11793683692658.html",
-      "source": "Livemint",
-      "date": "2026-11-03",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/03/1600x900/logo/Gold_and_Silver_Market_Drop_1792763312802_tzNh_179_1793689792970_HvTC_1793689793116_zSGX_939b6d28-4d40-4e25-a537-b8e9e556919f_hgWg.png",
-      "category": "metals"
-    },
-    {
-      "title": "Gold, silver rate Chennai 3 Nov: Latest price movement, details for investors today ahead of Dhanteras, Diwali",
-      "description": "Gold, silver prices today, 3 November: Latest price movement today for investors ahead of Dhanteras, Diwali in Chennai. We also bring retail prices of 18K, 22K and 24K gold and 999 Fine silver across cities \u2014 Ahmedabad, Bangalore, Coimbatore, Delhi, Hyderabad\u2026",
-      "url": "https://www.livemint.com/money/gold-24k-22k-18k-999-silver-rate-chennai-3-november-latest-price-movement-details-investors-today-ahead-dhanteras-diwali-11793687578628.html",
-      "source": "Livemint",
-      "date": "2026-11-03",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/03/1600x900/logo/Gold_and_Silver_Market_Drop_1792763312802_tzNh_179_1793689696824_rKOt_1793689697012_dcLw_a46c7ae1-2fdb-41c1-b090-04be3bb55381_I5Zx.png",
-      "category": "metals"
-    },
-    {
-      "title": "India\u2019s tax hike drives illegal gold imports to 3-year high",
-      "description": "Informal shipments for July to September jumped more than 1,500% to 50 metric tons from 3 tons a year earlier, the producer-funded group said, citing data from consultancy Metals Focus",
-      "url": "https://www.thehindubusinessline.com/markets/gold/indias-tax-hike-drives-illegal-gold-imports-to-3-year-high/article71659744.ece",
-      "source": "BusinessLine",
-      "date": "2026-11-03",
-      "image": "https://bl-i.thgim.com/public/incoming/qgl6b4/article71655898.ece/alternates/LANDSCAPE_1200/2025-05-14T054854Z_58934458_RC2XGDAFFM97_RTRMADP_3_KALYAN-JEWELLERS-OUTLOOK.JPG",
-      "category": "supply_demand"
-    },
-    {
-      "title": "ACG to Acquire 100% of Blue Moon Norway, Including the Construction-Stage Nussir Copper Mine, to Create a High-Growth European Copper Company",
-      "description": "LONDON, Nov. 3, 2026 /PRNewswire/ -- ACG Metals Limited (LSE:ACG) (LSE:ACGW) has agreed to acquire 100% of Blue Moon Norway AS (\"Blue Moon Norway\") from Blue Moon Metals Inc. (\"Blue Moon\"), including its 94.52% interest in the construction-stage Nussir copper\u2026",
-      "url": "https://www.prnewswire.co.uk/news-releases/acg-to-acquire-100-of-blue-moon-norway-including-the-construction-stage-nussir-copper-mine-to-create-a-high-growth-european-copper-company-302927160.html",
-      "source": "PR Newswire UK",
+      "title": "Rolling Stone USA - November 2026",
+      "description": "Rolling Stone remains one of the most famous brands in the world. Rolling Stone magazine features all the latest news, reviews, interviews with major Rock bands, gossip from the USA, as well as covering serious topics such as global warming and War. Rolling S\u2026",
+      "url": "https://post.rlsbb.cc/rolling-stone-usa-november-2026/",
+      "source": "Rlsbb.cc",
       "date": "2026-11-03",
       "image": null,
-      "category": "currency"
-    },
-    {
-      "title": "India needs 3 national carriers to compete globally: Adani Airports CEO",
-      "description": "Arun Bansal stresses protecting domestic airlines and expanding infrastructure for fourfold passenger growth by 2040-45",
-      "url": "https://www.thehindubusinessline.com/economy/logistics/india-needs-3-national-carriers-to-compete-globally-adani-airports-ceo/article71660235.ece",
-      "source": "BusinessLine",
-      "date": "2026-11-03",
-      "image": "https://bl-i.thgim.com/public/incoming/nq84py/article71623951.ece/alternates/LANDSCAPE_1200/FIA-seeks-extenG0AGMKQVV.4.jpg.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Amid global uncertainty, top bankers back Hong Kong\u2019s role as mainland China\u2019s gateway",
-      "description": "Global financial executives have voiced confidence in Hong Kong\u2019s role as a bridge between mainland China and the rest of the world and as a safe haven helping businesses and investors navigate geopolitical tensions and shifting global capital flows.\nSpeaking\u2026",
-      "url": "https://biztoc.com/x/17ee5b3106723178",
-      "source": "Biztoc.com",
-      "date": "2026-11-03",
-      "image": "https://biztoc.com/cdn/17ee5b3106723178_s.webp",
       "category": "geopolitics"
     },
     {
-      "title": "Can a Crowded ETF Market Still Find Room for Mid-Sized Sponsors Like Global X?",
-      "description": "The post Can a Crowded ETF Market Still Find Room for Mid-Sized Sponsors Like Global X? appeared first on 24/7 Wall St..\nGlobal X launched what it calls the largest integrated advertising campaign in its history in October 2026 \u2014 with ads running on streaming\u2026",
-      "url": "https://biztoc.com/x/b116287c88ca055c",
-      "source": "Biztoc.com",
+      "title": "Revenue of 51 cos in ASK Private Wealth Hurun India Gazelle index jump 50% in one year",
+      "description": "ASK Private Wealth and Hurun India's Gazelle index shows 51 fast-growth firms up 50% to \u20b933,233 crore in FY25, signaling unicorn-ready potential.",
+      "url": "https://www.thehindubusinessline.com/companies/revenue-of-51-cos-in-ask-private-wealth-hurun-india-gazelle-index-jump-50-in-one-year/article71661425.ece",
+      "source": "BusinessLine",
       "date": "2026-11-03",
-      "image": "https://biztoc.com/cdn/b116287c88ca055c_s.webp",
+      "image": "https://bl-i.thgim.com/public/news/or2il0/article71661857.ece/alternates/LANDSCAPE_1200/Fintech.jpeg",
       "category": "market"
     },
     {
-      "title": "Health Insurance Is the Sleeper Inflation Issue",
-      "description": "Plus: AI in economics, William Nordhaus\u2019s climate insights, and how the U.S. is beating China in the \u2018Global Office.\u2019",
-      "url": "https://biztoc.com/x/93dd12f998e25485",
-      "source": "Biztoc.com",
-      "date": "2026-11-03",
-      "image": "https://biztoc.com/cdn/996/og.png",
-      "category": "inflation"
-    },
-    {
-      "title": "The dire American political situation: a brief overview for faithful Christians in Britain",
-      "description": "Professor Robert AJ Gagnon argues that Christians have a moral duty to vote Republican, contending that Democratic policies pose a greater threat than Republican candidates\u2019 failings.",
-      "url": "https://www.christiantoday.com/news/the-dire-american-political-situation-a-brief-overview-for-faithful-christians-in-britain",
-      "source": "Christiantoday.com",
-      "date": "2026-11-03",
-      "image": "https://www.christiantoday.com/media/original/thumbnail/14/57/145786.jpg",
-      "category": "market"
-    },
-    {
-      "title": "R&D-focused stocks deliver over 23% annualised returns in five years, outperform NSE 500: Monarch AIF",
-      "description": "Indian companies increasing R&D spending outperformed the NSE 500 TRI over five years, delivering 23.5% average annualised returns. Businesses combining strong research growth with higher R&D intensity achieved 32.5%, highlighting innovation's growing importa\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rd-focused-stocks-deliver-over-23-annualised-returns-in-five-years-outperform-nse-500-monarch-aif/articleshow/135494023.cms",
+      "title": "Astrobase, Bayer to invest Rs 700 crore in Karnataka, creating nearly 1,500 jobs",
+      "description": "Astrobase and Bayer have announced a combined investment of Rs 700 crore in Karnataka. Astrobase will invest Rs 500 crore to set up a manufacturing facility for rocket engines. This project aims to create approximately 1,250 jobs in the region. Bayer plans to\u2026",
+      "url": "https://economictimes.indiatimes.com/news/science/astrobase-bayer-to-invest-rs-700-crore-in-karnataka-creating-nearly-1500-jobs-bengaluru/articleshow/135503451.cms",
       "source": "The Times of India",
       "date": "2026-11-03",
-      "image": "https://img.etimg.com/thumb/msid-135494023,width-1200,height-900,imgsize-274606,overlay-etmarkets/articleshow.jpg",
+      "image": "https://img.etimg.com/thumb/msid-135503585,width-1200,height-900,imgsize-96402,overlay-economictimes/articleshow.jpg",
+      "category": "market"
+    },
+    {
+      "title": "The Worst Is Yet to Come for Memory Shortages, Warns Team Group",
+      "description": "We might not be past the worst part of the global memory shortages, as the most severe supply chain squeeze could happen soon. During Team Group's earnings conference on November 2, the company stated that the worst period in memory demand is projected to be \u2026",
+      "url": "https://www.techpowerup.com/354432/the-worst-is-yet-to-come-for-memory-shortages-warns-team-group",
+      "source": "Techpowerup.com",
+      "date": "2026-11-03",
+      "image": "https://www.techpowerup.com/img/0fJ7wQjkpk75E6s8.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Sportradar Stock Soars 14% After Earnings Beat as Prediction Markets and Betting Tech Fuel 24% Growth",
+      "description": "Sportradar shares climbed 14% after third-quarter revenue and profit beat expectations, supported by betting technology and prediction markets, while the company maintained its 2026 financial forecast.",
+      "url": "https://www.ibtimes.com.au/sportradar-shares-jump-third-quarter-results-1877853",
+      "source": "Ibtimes.com.au",
+      "date": "2026-11-03",
+      "image": "https://d.ibtimes.com.au/en/full/1895503/sportradar-shares-plunge-nearly-16-after-q2-loss-updated.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Collins Dictionary names \u2018mogging\u2019 2026 Word of the Year",
+      "description": "Collins Dictionary has named \u2018mogging\u2019, a slang term for outshining someone, its 2026 Word of the Year, reflecting its growing use by younger generations.\n\nRead More: https://punchng.com/collins-dictionary-names-mogging-2026-word-of-the-year/",
+      "url": "https://punchng.com/collins-dictionary-names-mogging-2026-word-of-the-year/",
+      "source": "The Punch",
+      "date": "2026-11-03",
+      "image": "https://cdn.punchng.com/wp-content/uploads/2026/11/03153934/26.10.30_WOTY2026_Bannerv2_1920x1080-1536x864_1793716774-1200x630.webp",
+      "category": "market"
+    },
+    {
+      "title": "Senate demands direct Nigeria-China flights",
+      "description": "The Nigerian Senate has threatened to review its air service agreement with China unless Nigerian airlines are granted reciprocal rights for direct flights\n\nRead More: https://punchng.com/senate-demands-direct-nigeria-china-flights/",
+      "url": "https://punchng.com/senate-demands-direct-nigeria-china-flights/",
+      "source": "The Punch",
+      "date": "2026-11-03",
+      "image": "https://punchng.com/wp-content/uploads/2026/06/Senate.webp",
       "category": "supply_demand"
     },
     {
-      "title": "Cash gift from family: How to prepare for tax scrutiny and avoid disputes",
-      "description": "Record each gift's amount and occasion, establish the relationship and keep evidence of the donor's means",
-      "url": "https://www.business-standard.com/finance/personal-finance/cash-gift-from-family-how-to-prepare-for-tax-scrutiny-and-avoid-disputes-126110301254_1.html",
-      "source": "Business Standard",
+      "title": "The Fight Against Big Tech\u2019s AI Takeover Must Continue Past the Midterms",
+      "description": "The midterms are just the start. Labor struggles and grassroots coalitions show a path forward for anti-AI organizers.",
+      "url": "https://truthout.org/articles/the-fight-against-big-techs-ai-takeover-must-continue-past-the-midterms/",
+      "source": "Truthout",
       "date": "2026-11-03",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/03/thumb/fitandfill/1200X628/1793704148-3875.jpg",
+      "image": "https://truthout.org/app/uploads/2026/11/GettyImages-2296284534-scaled.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Ashley Hinson\u2019s Digital Chief Oversees Firm Paid Millions to Push Israeli Propaganda",
+      "description": "The GOP candidate for Iowa\u2019s open Senate seat tapped the co-founder of a consulting firm with a $9.9 million Israel contract.\nThe post Ashley Hinson\u2019s Digital Chief Oversees Firm Paid Millions to Push Israeli Propaganda appeared first on The Intercept.",
+      "url": "https://theintercept.com/2026/11/03/ashley-hinson-israel-aipac/",
+      "source": "The Intercept",
+      "date": "2026-11-03",
+      "image": "https://theintercept.com/wp-content/uploads/2026/11/GettyImages-2302765902_034f41-e1793659339311.jpg?fit=4442%2C2220&w=1200&h=800",
       "category": "market"
     },
     {
-      "title": "This group has America\u2019s biggest families \u2014 in a stunning reversal from the past, study finds",
-      "description": "The average cost of raising a child in the US is $300,000 \u2014 and that doesn't include college tuition.",
-      "url": "https://nypost.com/2026/11/03/us-news/this-group-has-americas-biggest-families-study-reveals-stunning-reversal/",
-      "source": "New York Post",
+      "title": "Bret Stephens on El-Sayed",
+      "description": "I was going to put this in my critique of Abdul El-Sayed yesterday, but forgot. Fortunately, Bret Stephens, in his latest NYT column, alludes to something like what I\u2019m about to say: This is what I forgot to add to my own post: Imagine that a white American h\u2026",
+      "url": "https://whyevolutionistrue.com/2026/11/03/bret-stephens-on-el-sayed/",
+      "source": "Whyevolutionistrue.com",
       "date": "2026-11-03",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/newspress-collage-f1wkfqaqk-1793665977494.jpg?quality=75&strip=all&1793647990&w=1200",
+      "image": "https://whyevolutionistrue.com/wp-content/uploads/2026/11/Screenshot-2026-11-03-at-6.08.02-AM.png",
       "category": "market"
     },
     {
-      "title": "Mark Cuban says your 401(k) is part of the healthcare problem",
-      "description": "Mark Cuban has a habit of saying things that make people uncomfortable. His latest target is not a specific executive or a federal policy. It is your retirement account.\nIn a post on X, Cuban argued that anyone whose retirement fund holds shares of the bigges\u2026",
-      "url": "https://biztoc.com/x/d4e4b3b636a9f45a",
-      "source": "Biztoc.com",
+      "title": "What US midterm elections mean for Ukraine, Iran and elsewhere",
+      "description": "Donald Trump's Republicans control the US Congress, but that could change after the midterm elections. The outcome of the ballot will not only impact domestic policy but also conflicts in Europe and the Middle East.",
+      "url": "https://www.dw.com/en/what-us-midterm-elections-mean-for-ukraine-iran-and-elsewhere/a-79836423",
+      "source": "DW (English)",
       "date": "2026-11-03",
-      "image": "https://biztoc.com/cdn/d4e4b3b636a9f45a_s.webp",
-      "category": "central_bank"
+      "image": "https://static.dw.com/image/79832271_6.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "How Marketing Can Drive Mission For Nonprofits",
+      "description": "The goal should be for nonprofits to tap into public trust.",
+      "url": "https://www.forbes.com/councils/forbesnonprofitcouncil/2026/11/03/how-marketing-can-drive-mission-for-nonprofits/",
+      "source": "Forbes",
+      "date": "2026-11-03",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/69c5316dacfb2fd66bcb7faf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "category": "market"
+    },
+    {
+      "title": "9th Circuit Abruptly Vacates Ruling Clearing DOJ to Pursue Noncitizen Ballots",
+      "description": "A three-judge panel had lifted restrictions on the DOJ's efforts to have California and Washington separate ballots cast by suspected noncitizens just hours before the full court intervened.\nThe post 9th Circuit Abruptly Vacates Ruling Clearing DOJ to Pursue \u2026",
+      "url": "https://legalinsurrection.com/2026/11/9th-circuit-abruptly-vacates-ruling-clearing-doj-to-pursue-noncitizen-ballots/",
+      "source": "Legalinsurrection.com",
+      "date": "2026-11-03",
+      "image": "https://legalinsurrection.com/wp-content/uploads/2025/04/Vote-Here.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Precious metals continue to plunge for 2nd consecutive month - Anadolu Ajans\u0131",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNbHBtU0NJTlZJRjFTeHVyNlZqSGhVM1NOSDlQZE4ybUdJMGpIS3VZU0J0TmRTel9BTWk2OVpCSDRCdW1wbDVnU1MtN3FlQTBiYjdVakZzckhMU05DTldnaHBHbjZuekdHaHQxZzhsRmRucDlIbjQ0WXowRlNKZGhtTi1fZ05tSDViQlNkY2ktX2t4ZWFvWk1mUnRPd0hSdw?oc=5\" target=\"_blank\">Precious meta",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbHBtU0NJTlZJRjFTeHVyNlZqSGhVM1NOSDlQZE4ybUdJMGpIS3VZU0J0TmRTel9BTWk2OVpCSDRCdW1wbDVnU1MtN3FlQTBiYjdVakZzckhMU05DTldnaHBHbjZuekdHaHQxZzhsRmRucDlIbjQ0WXowRlNKZGhtTi1fZ05tSDViQlNkY2ktX2t4ZWFvWk1mUnRPd0hSdw?oc=5",
+      "source": "Google News - Precious Metals",
+      "date": "2026-11-02",
+      "image": "",
+      "category": "metals"
     }
   ],
   "history": [
@@ -530,15 +530,15 @@
     {
       "date": "2026-11-04",
       "week": "2026-W45",
-      "gold_10g": 123320.3,
-      "silver_kg": 158641.43,
-      "platinum_g": 4462.03,
-      "gold_usd_oz": 4044.72,
-      "silver_usd_oz": 52.03,
-      "platinum_usd_oz": 1463.48
+      "gold_10g": 123363.75,
+      "silver_kg": 159315.24,
+      "platinum_g": 4516.63,
+      "gold_usd_oz": 4046.14,
+      "silver_usd_oz": 52.25,
+      "platinum_usd_oz": 1481.38
     }
   ],
-  "timestamp": "2026-11-04T16:49:54.571112+05:30",
+  "timestamp": "2026-11-04T20:15:23.123904+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
