@@ -1,24 +1,24 @@
 {
   "prices": {
     "gold": {
-      "price_per_gram_inr": 12336.37,
-      "price_usd_oz": 4046.14,
-      "change_percent": 2.95,
-      "change_value_usd": 115.89,
-      "price_per_10g_inr": 123363.75
+      "price_per_gram_inr": 12393.76,
+      "price_usd_oz": 4064.97,
+      "change_percent": 3.43,
+      "change_value_usd": 134.72,
+      "price_per_10g_inr": 123937.55
     },
     "silver": {
-      "price_per_gram_inr": 159.32,
-      "price_usd_oz": 52.25,
-      "change_percent": 4.94,
-      "change_value_usd": 2.46,
-      "price_per_kg_inr": 159315.24
+      "price_per_gram_inr": 159.47,
+      "price_usd_oz": 52.3,
+      "change_percent": 5.04,
+      "change_value_usd": 2.51,
+      "price_per_kg_inr": 159467.69
     },
     "platinum": {
-      "price_per_gram_inr": 4516.63,
-      "price_usd_oz": 1481.38,
-      "change_percent": 4.29,
-      "change_value_usd": 60.96
+      "price_per_gram_inr": 4569.02,
+      "price_usd_oz": 1498.57,
+      "change_percent": 5.5,
+      "change_value_usd": 78.15
     },
     "currencies": {
       "USD_INR": 94.8321,
@@ -30,8 +30,8 @@
       "CAD_INR": 67.7614,
       "SGD_INR": 74.0182
     },
-    "gold_silver_ratio": 77.43,
-    "timestamp": "2026-11-04T14:45:17.569117",
+    "gold_silver_ratio": 77.72,
+    "timestamp": "2026-11-04T17:24:03.273102",
     "source": "GoldAPI"
   },
   "currencies": {
@@ -53,8 +53,8 @@
         "sell": 25,
         "hold": 50
       },
-      "summary": "Gold is showing negative signals. Strong daily gain of 3.0%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-04T14:45:22.896139",
+      "summary": "Gold is showing negative signals. Strong daily gain of 3.4%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
+      "timestamp": "2026-11-04T17:24:08.848988",
       "source": "rule-based"
     },
     "silver": {
@@ -65,8 +65,8 @@
         "sell": 25,
         "hold": 50
       },
-      "summary": "Silver is showing negative signals. Strong daily gain of 4.9%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-04T14:45:23.002480",
+      "summary": "Silver is showing negative signals. Strong daily gain of 5.0%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
+      "timestamp": "2026-11-04T17:24:08.931481",
       "source": "rule-based"
     },
     "platinum": {
@@ -77,8 +77,8 @@
         "sell": 25,
         "hold": 50
       },
-      "summary": "Platinum is showing negative signals. Strong daily gain of 4.3%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-04T14:45:23.111700",
+      "summary": "Platinum is showing negative signals. Strong daily gain of 5.5%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
+      "timestamp": "2026-11-04T17:24:09.001323",
       "source": "rule-based"
     }
   },
@@ -90,13 +90,13 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -3.9% in 4 weeks"
+        "Weak momentum: -3.4% in 4 weeks"
       ],
       "support": 118437.13,
       "resistance": 134616.17,
-      "current_price": 123363.75,
-      "ma_short": 125079.17,
-      "ma_long": 128867.43,
+      "current_price": 123937.55,
+      "ma_short": 125222.62,
+      "ma_long": 128915.25,
       "trend_score": -4.0
     },
     "silver": {
@@ -106,14 +106,14 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -14.8% in 4 weeks",
+        "Weak momentum: -14.7% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
       "support": 150153.09,
       "resistance": 210317.38,
-      "current_price": 159315.24,
-      "ma_short": 171036.69,
-      "ma_long": 187555.62,
+      "current_price": 159467.69,
+      "ma_short": 171074.8,
+      "ma_long": 187568.33,
       "trend_score": -3.5
     },
     "platinum": {
@@ -123,26 +123,35 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -14.3% in 4 weeks",
+        "Weak momentum: -13.3% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
       "support": 4387.55,
       "resistance": 5662.91,
-      "current_price": 4516.63,
-      "ma_short": 4853.24,
-      "ma_long": 5158.32,
+      "current_price": 4569.02,
+      "ma_short": 4866.34,
+      "ma_long": 5162.69,
       "trend_score": -3.5
     }
   },
   "news": [
     {
-      "title": "Democratic sweep adds new twist to markets' Iran, AI, and debt worries",
-      "description": "Investors are watching the implications of the recent Democratic win in the US midterm elections. Geopolitical tensions, particularly the Iran war, continue to elevate oil prices and market risks. Regulatory scrutiny on the rapidly growing AI sector is expected following the election outcomes. Marke",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/democratic-sweep-adds-new-twist-to-markets-iran-ai-and-debt-worries/articleshow/135539439.cms",
+      "title": "Gold gains 3% as dollar slides after Democratic midterm gains",
+      "description": "On Wednesday, gold prices surged by 3%, reaching impressive new levels following the midterm elections, during which Democrats secured control of both the Senate and House. This political transformation, combined with a weaker dollar, heightened gold and precious metals demand. Investors are keenly ",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/gold-gains-3-as-dollar-slides-after-democratic-midterm-gains/articleshow/135543824.cms",
       "source": "Economic Times Markets",
       "date": "2026-11-04",
       "image": "",
-      "category": "geopolitics"
+      "category": "central_bank"
+    },
+    {
+      "title": "Indian bonds rally most since April as oil slides after US midterm verdict",
+      "description": "Indian government bonds experienced a significant rally influenced by falling oil prices after the US midterm elections. The benchmark bond yield dropped notably, reflecting a three-day decline in yields. Brent crude oil prices decreased, easing inflation and fiscal pressures on India. The Reserve B",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-rally-most-since-april-as-oil-slides-after-us-midterm-verdict/articleshow/135543664.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-11-04",
+      "image": "",
+      "category": "inflation"
     },
     {
       "title": "Gold, silver and precious metals prices jump, dollar dips as Democrats take control of Congress - CNBC",
@@ -160,6 +169,69 @@
       "source": "Google News - Precious Metals",
       "date": "2026-11-04",
       "image": "",
+      "category": "metals"
+    },
+    {
+      "title": "Copper at 6.405 USD/lb with mixed moves in palladium, platinum and silver - index.vn",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOcGtuTnhPTWFESVpFWkIwZUNCQjZBT2M4NERiZDhuYU5JYkVEeVc4dVdpNlFraUV5MnY0eHR6TzBMNUFxdXhsbk5MdkZJRDhWNFpxLTNiaFhOT2NvLUsyQ3hoTnFrc2hpTUFwNmk5dElyYU9WYmxhU0NVWl8xUGJKSlluM3JnLS01ZElDT2lmWXNYWE9nZ2VUVW1GVy1JaWtXS0JQdlB2TF9MLWNzVkxRVDNiRk56RHJKZn",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcGtuTnhPTWFESVpFWkIwZUNCQjZBT2M4NERiZDhuYU5JYkVEeVc4dVdpNlFraUV5MnY0eHR6TzBMNUFxdXhsbk5MdkZJRDhWNFpxLTNiaFhOT2NvLUsyQ3hoTnFrc2hpTUFwNmk5dElyYU9WYmxhU0NVWl8xUGJKSlluM3JnLS01ZElDT2lmWXNYWE9nZ2VUVW1GVy1JaWtXS0JQdlB2TF9MLWNzVkxRVDNiRk56RHJKZnFNMkJRSFE1YU40Y1NIUzlsOA?oc=5",
+      "source": "Google News - Precious Metals",
+      "date": "2026-11-04",
+      "image": "",
+      "category": "currency"
+    },
+    {
+      "title": "How to identify fake silver coins at home: 4 simple tests to check purity before buying this Dhanteras",
+      "description": "While hallmarking provides an important means of verifying the purity of precious metals, consumers should not rely solely on the appearance of a silver coin. There are several simple tests that can offer preliminary indications of whether a silver coin is ge\u2026",
+      "url": "https://www.livemint.com/money/personal-finance/how-to-identify-fake-silver-coins-at-home-4-simple-tests-to-check-purity-before-buying-this-dhanteras-11793720726372.html",
+      "source": "Livemint",
+      "date": "2026-11-03",
+      "image": "https://www.livemint.com/lm-img/img/2026/11/03/1600x900/logo/silver_1793722049007_wKRw_1793722066462_QbaG_7c0be03d-cb45-4d33-b91d-10f261ac6c08_7DNO.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Gold investment on Dhanteras 2026: Physical gold or gold ETFs? Which offers better tax benefits to investors?",
+      "description": "Physical gold and gold ETFs have different capital gains tax rules. While gold ETFs qualify for LTCG taxation after 12 months, physical gold requires a 24-month holding period. Compare tax rates, GST and other costs before investing on Dhanteras 2026.",
+      "url": "https://www.livemint.com/money/personal-finance/gold-investment-on-dhanteras-2026-physical-gold-or-gold-etfs-which-offers-better-tax-benefits-to-investors-11793720366747.html",
+      "source": "Livemint",
+      "date": "2026-11-03",
+      "image": "https://www.livemint.com/lm-img/img/2026/11/03/1600x900/logo/Gemini_Gnerated_Image_bc1wbfbc1wbfbc1w_179372081_1793720820731_vUDR_1793720820851_QT2d_85ee9351-9030-4d3d-a3ac-658f68f8eae7_vAHF.png",
+      "category": "metals"
+    },
+    {
+      "title": "Today\u2019s News in a Nutshell",
+      "description": "KATHMANDU: Khabarhub brings you a glimpse of major developments of the day in Nepal, including politics, business/economy, sports, entertainment, and more. Cabinet recommends two Ordinances, takes six decisions The government has taken six major decisions, in\u2026",
+      "url": "https://english.khabarhub.com/2026/03/574241/",
+      "source": "Khabarhub.com",
+      "date": "2026-11-03",
+      "image": "https://english.khabarhub.com/wp-content/uploads/2024/05/News-Nutshell.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Forthright Securities Debuts at Hong Kong FinTech Week 2026, Showcasing Smart Investment Terminal",
+      "description": "HONG KONG, Nov. 3, 2026 /PRNewswire/ -- Forthright Securities Company Limited (\"Forthright Securities\") made its debut this week as a Gold Sponsor of Hong Kong FinTech Week x StartmeupHK 2026, with the Forthright Smart Investment Terminal at the centre of its\u2026",
+      "url": "https://biztoc.com/x/7fd82161e66dbceb",
+      "source": "Biztoc.com",
+      "date": "2026-11-03",
+      "image": "https://biztoc.com/cdn/7fd82161e66dbceb_s.webp",
+      "category": "metals"
+    },
+    {
+      "title": "Wildfire smoke, conflict, and conversion: Asian Laudato Si\u2019 groups compare notes in Philippines",
+      "description": "Leaders from Myanmar, South Korea, Timor-Leste, Indonesia, and the Philippines shared their work and adopted the movement\u2019s plan for 2027\u20132030.",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/wildfire-smoke-coal-and-conflict-asian-laudato-si-groups-compare-notes-in-philippines",
+      "source": "Ewtnnews.com",
+      "date": "2026-11-03",
+      "image": "https://res.cloudinary.com/ewtn/image/upload/c_fill,g_auto,w_1200,h_630/v1793681571/ewtn-news/en/WhatsApp_Image_2026-10-29_at_13.39.17_iuwan3.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Why is the US stock market split as Americans vote in the 2026 midterm elections today? Dow falls as S&P 500 and Nasdaq rise; Apple, Nvidia, and AMD in focus - gold and silver dip",
+      "description": "US stock market today: US stocks opened mixed on Tuesday as Americans voted in the midterm elections. Investors are also waiting for AMD\u2019s earnings report after the closing bell. By 9:43 a.m. ET, the Nasdaq and S&P 500 were up, and the Dow was down. The Dow J\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/us/why-is-the-us-stock-market-split-as-americans-vote-in-the-2026-midterm-elections-today-dow-falls-as-sp-500-and-nasdaq-rise-apple-nvidia-and-amd-in-focus-gold-and-silver-dip/articleshow/135503234.cms",
+      "source": "The Times of India",
+      "date": "2026-11-03",
+      "image": "https://img.etimg.com/thumb/msid-135504141,width-1200,height-900,imgsize-102436,overlay-economictimes/articleshow.jpg",
       "category": "metals"
     },
     {
@@ -181,22 +253,22 @@
       "category": "market"
     },
     {
-      "title": "Apple OLED iPad mini (2026) Review: The Tiniest iPad Is Mightier Than Ever",
-      "description": "With a beefy A20 chip, a gorgeous OLED screen, and a waterproof build, the 2026 Apple iPad mini gets some nice upgrades. But starting at $699, it sits in a curious spot in Apple's lineup. It's smaller, but $250 more expensive than the base iPad, and just $50 \u2026",
-      "url": "https://uk.pcmag.com/tablets/168214/apple-ipad-mini-2026",
-      "source": "PCMag.com",
+      "title": "Top Business & Market Headlines Today \u2014 BL Morning Report, November 4, 2026",
+      "description": "BL Morning Report, November 4, 2026: Get today\u2019s top business news, market headlines about the Stock Market, Sensex & Nifty trends, key market insights, economic highlights, and the latest updates from India and global markets.",
+      "url": "https://www.thehindubusinessline.com/multimedia/audio/top-business-market-headlines-today-bl-morning-report-november-4-2026/article71662298.ece",
+      "source": "BusinessLine",
       "date": "2026-11-03",
-      "image": "https://sm.pcmag.com/t/pcmag_uk/review/a/apple-oled/apple-oled-ipad-mini-2026-review-the-tiniest-ipad-is-mightie_jy4r.1200.jpg",
+      "image": "https://bl-i.thgim.com/public/incoming/gg5epk/article71658109.ece/alternates/LANDSCAPE_1200/Copy%20of%20BL%20Morning%20report%201920%20x%201080%20px.png",
       "category": "market"
     },
     {
-      "title": "Apple iPad mini (2026) Review: The Tiniest iPad Is Mightier Than Ever",
-      "description": "With a beefy A20 chip, a gorgeous OLED screen, and a waterproof build, the 2026 Apple iPad mini gets some nice upgrades. But starting at $699, it sits in a curious spot in Apple's lineup. It's smaller, but $250 more expensive than the base iPad, and just $50 \u2026",
-      "url": "https://uk.pcmag.com/tablets/168214/apple-ipad-mini-2026-review-the-tiniest-ipad-is-mightier-than-ever",
-      "source": "PCMag.com",
+      "title": "From gold coins to EVs, festive shopping goes beyond metros this Dhanteras",
+      "description": "Festive shopping expands beyond metros as Amazon and Swiggy Instamart report surging jewellery, precious metals, and two-wheeler purchases across tier-two/three cities.",
+      "url": "https://www.thehindubusinessline.com/companies/from-gold-coins-to-evs-festive-shopping-goes-beyond-metros-this-dhanteras/article71661665.ece",
+      "source": "BusinessLine",
       "date": "2026-11-03",
-      "image": "https://sm.pcmag.com/t/pcmag_uk/review/a/apple-ipad/apple-ipad-mini-2026-review-the-tiniest-ipad-is-mightier-tha_ct15.1200.jpg",
-      "category": "market"
+      "image": "https://bl-i.thgim.com/public/incoming/y6z301/article71662416.ece/alternates/LANDSCAPE_1200/IMG_bl07_shopping_5_1_838O6M99.jpg",
+      "category": "metals"
     },
     {
       "title": "The Precious Metals Crisis That Could Trigger a Global Financial\u00a0Reckoning",
@@ -206,24 +278,6 @@
       "date": "2026-11-03",
       "image": "https://activistpost.com/wp-content/uploads/2026/10/istockphoto-459987579-612x612-1.jpg",
       "category": "metals"
-    },
-    {
-      "title": "Gold price crashes on Election Day, Silver drops: Will Gold rate fall further after US midterm elections 2026 results?",
-      "description": "Election Day Gold rate: Gold price was down on Tuesday as investors seem to be waiting for US midterm elections 2026 results for Donald Trump-led Republicans and Democrats.",
-      "url": "https://economictimes.indiatimes.com/news/international/us/gold-price-crashes-on-election-day-silver-drops-will-gold-rate-fall-further-after-us-midterm-elections-2026-results/articleshow/135501880.cms",
-      "source": "The Times of India",
-      "date": "2026-11-03",
-      "image": "https://img.etimg.com/thumb/msid-135502073,width-1200,height-900,imgsize-164702,overlay-economictimes/articleshow.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "Apple India\u2019s record sales; Giva\u2019s $100 million fundraise",
-      "description": "Apple reported strong September quarter results driven by early demand for its iPhone 18 Pro lineup and price hikes. This and more in today\u2019s ETtech Top 5.",
-      "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/apple-indias-record-sales-givas-100-million-fundraise/articleshow/135500613.cms",
-      "source": "The Times of India",
-      "date": "2026-11-03",
-      "image": "https://img.etimg.com/thumb/msid-135500613,width-1070,height-580,imgsize-38032,overlay-ettech/editionshow.jpg",
-      "category": "supply_demand"
     },
     {
       "title": "97-Year-Old Sues \u2018Toy Story\u2019 Star Over 58% Gold Markups as Bankrupt Dealer Owes Customers $49 Million",
@@ -253,157 +307,103 @@
       "category": "market"
     },
     {
-      "title": "Gold, silver rates crash today: What's behind plunging precious metals prices ahead of Dhanteras, Diwali 2026? Details",
-      "description": "Gold fell  \u20b9542 per 10 grams and silver  \u20b9875 per kg from AM to PM on November 3, according to IBJA. Ahead of Dhanteras and Diwali, here's what's driving the precious metals correction and what buyers and investors should consider.",
-      "url": "https://www.livemint.com/money/personal-finance/gold-silver-rates-crash-today-whats-behind-plunging-precious-metals-prices-ahead-of-dhanteras-diwali-2026-details-11793708983830.html",
-      "source": "Livemint",
+      "title": "3.4 magnitude earthquake near Esterhazy, Sask., likely caused by mining, Natural Resources Canada says",
+      "description": "The earthquake \u2014 measured at a 3.4 magnitude \u2014 struck at 7:04 a.m. CST. Its epicentre was about nine kilometres east-northeast of Esterhazy, according to the NRC's Earthquake Canada website.",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/earthquake-esterhazy-potash-mine-9.7407363",
+      "source": "CBC News",
       "date": "2026-11-03",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/03/1600x900/logo/Gemini_Generatd_Image_ap43haap43haap43_179370937_1793709383559_kR1P_1793709383703_LsIs_ed6f93f7-fc99-4d3b-9ce5-19368437d184_teLT.png",
-      "category": "metals"
-    },
-    {
-      "title": "Dhanteras 2026: Buying gold and silver coins on Blinkit, Zepto or Instamart? 5 things to check before placing an order",
-      "description": "Buying gold and silver coins on Blinkit, Zepto and Instamart can be convenient this Dhanteras. But before ordering, check the seller, purity, weight, certification, final price and refund policy. Here's how to buy precious metals safely online.",
-      "url": "https://www.livemint.com/money/personal-finance/dhanteras-2026-buying-gold-and-silver-coins-on-blinkit-zepto-or-instamart-5-things-to-check-before-placing-an-order-11793705064434.html",
-      "source": "Livemint",
-      "date": "2026-11-03",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/03/1600x900/Gemini_Generated_Iage_nsd3ihnsd3ihnsd3_179370532_1793705336280_FeGf_1793705336414_I7lV_a7e0c161-6b6c-475a-8219-fb3db7f0ef85_5AhX.png",
-      "category": "metals"
-    },
-    {
-      "title": "Nifty crosses 23,800 for first time since August on falling crude prices, earnings boost",
-      "description": "Markets closed higher for the fourth straight session on Tuesday, with the Nifty crossing the 23,800 mark for the first time since August 2026, as falling crude oil prices, strong corporate earnings and returning foreign investors combined to sustain the rall\u2026",
-      "url": "https://www.thehindubusinessline.com/markets/nifty-crosses-23800-for-first-time-since-august-on-falling-crude-prices-earnings-boost/article71660642.ece",
-      "source": "BusinessLine",
-      "date": "2026-11-03",
-      "image": "https://bl-i.thgim.com/public/incoming/4cobmp/article71660651.ece/alternates/LANDSCAPE_1200/PO_Candle_chart.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Rolling Stone USA - November 2026",
-      "description": "Rolling Stone remains one of the most famous brands in the world. Rolling Stone magazine features all the latest news, reviews, interviews with major Rock bands, gossip from the USA, as well as covering serious topics such as global warming and War. Rolling S\u2026",
-      "url": "https://post.rlsbb.cc/rolling-stone-usa-november-2026/",
-      "source": "Rlsbb.cc",
-      "date": "2026-11-03",
-      "image": null,
-      "category": "geopolitics"
-    },
-    {
-      "title": "Revenue of 51 cos in ASK Private Wealth Hurun India Gazelle index jump 50% in one year",
-      "description": "ASK Private Wealth and Hurun India's Gazelle index shows 51 fast-growth firms up 50% to \u20b933,233 crore in FY25, signaling unicorn-ready potential.",
-      "url": "https://www.thehindubusinessline.com/companies/revenue-of-51-cos-in-ask-private-wealth-hurun-india-gazelle-index-jump-50-in-one-year/article71661425.ece",
-      "source": "BusinessLine",
-      "date": "2026-11-03",
-      "image": "https://bl-i.thgim.com/public/news/or2il0/article71661857.ece/alternates/LANDSCAPE_1200/Fintech.jpeg",
-      "category": "market"
-    },
-    {
-      "title": "Astrobase, Bayer to invest Rs 700 crore in Karnataka, creating nearly 1,500 jobs",
-      "description": "Astrobase and Bayer have announced a combined investment of Rs 700 crore in Karnataka. Astrobase will invest Rs 500 crore to set up a manufacturing facility for rocket engines. This project aims to create approximately 1,250 jobs in the region. Bayer plans to\u2026",
-      "url": "https://economictimes.indiatimes.com/news/science/astrobase-bayer-to-invest-rs-700-crore-in-karnataka-creating-nearly-1500-jobs-bengaluru/articleshow/135503451.cms",
-      "source": "The Times of India",
-      "date": "2026-11-03",
-      "image": "https://img.etimg.com/thumb/msid-135503585,width-1200,height-900,imgsize-96402,overlay-economictimes/articleshow.jpg",
-      "category": "market"
-    },
-    {
-      "title": "The Worst Is Yet to Come for Memory Shortages, Warns Team Group",
-      "description": "We might not be past the worst part of the global memory shortages, as the most severe supply chain squeeze could happen soon. During Team Group's earnings conference on November 2, the company stated that the worst period in memory demand is projected to be \u2026",
-      "url": "https://www.techpowerup.com/354432/the-worst-is-yet-to-come-for-memory-shortages-warns-team-group",
-      "source": "Techpowerup.com",
-      "date": "2026-11-03",
-      "image": "https://www.techpowerup.com/img/0fJ7wQjkpk75E6s8.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Sportradar Stock Soars 14% After Earnings Beat as Prediction Markets and Betting Tech Fuel 24% Growth",
-      "description": "Sportradar shares climbed 14% after third-quarter revenue and profit beat expectations, supported by betting technology and prediction markets, while the company maintained its 2026 financial forecast.",
-      "url": "https://www.ibtimes.com.au/sportradar-shares-jump-third-quarter-results-1877853",
-      "source": "Ibtimes.com.au",
-      "date": "2026-11-03",
-      "image": "https://d.ibtimes.com.au/en/full/1895503/sportradar-shares-plunge-nearly-16-after-q2-loss-updated.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Collins Dictionary names \u2018mogging\u2019 2026 Word of the Year",
-      "description": "Collins Dictionary has named \u2018mogging\u2019, a slang term for outshining someone, its 2026 Word of the Year, reflecting its growing use by younger generations.\n\nRead More: https://punchng.com/collins-dictionary-names-mogging-2026-word-of-the-year/",
-      "url": "https://punchng.com/collins-dictionary-names-mogging-2026-word-of-the-year/",
-      "source": "The Punch",
-      "date": "2026-11-03",
-      "image": "https://cdn.punchng.com/wp-content/uploads/2026/11/03153934/26.10.30_WOTY2026_Bannerv2_1920x1080-1536x864_1793716774-1200x630.webp",
-      "category": "market"
-    },
-    {
-      "title": "Senate demands direct Nigeria-China flights",
-      "description": "The Nigerian Senate has threatened to review its air service agreement with China unless Nigerian airlines are granted reciprocal rights for direct flights\n\nRead More: https://punchng.com/senate-demands-direct-nigeria-china-flights/",
-      "url": "https://punchng.com/senate-demands-direct-nigeria-china-flights/",
-      "source": "The Punch",
-      "date": "2026-11-03",
-      "image": "https://punchng.com/wp-content/uploads/2026/06/Senate.webp",
+      "image": "https://i.cbc.ca/ais/1.7601571,1754415024000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C271%2C1440%2C810%29%3BResize%3D620",
       "category": "supply_demand"
     },
     {
-      "title": "The Fight Against Big Tech\u2019s AI Takeover Must Continue Past the Midterms",
-      "description": "The midterms are just the start. Labor struggles and grassroots coalitions show a path forward for anti-AI organizers.",
-      "url": "https://truthout.org/articles/the-fight-against-big-techs-ai-takeover-must-continue-past-the-midterms/",
-      "source": "Truthout",
+      "title": "cccc-pair 0.4.47",
+      "description": "Global multi-agent delivery kernel with working groups, scopes, and an append-only collaboration ledger",
+      "url": "https://pypi.org/project/cccc-pair/0.4.47/",
+      "source": "Pypi.org",
       "date": "2026-11-03",
-      "image": "https://truthout.org/app/uploads/2026/11/GettyImages-2296284534-scaled.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Ashley Hinson\u2019s Digital Chief Oversees Firm Paid Millions to Push Israeli Propaganda",
-      "description": "The GOP candidate for Iowa\u2019s open Senate seat tapped the co-founder of a consulting firm with a $9.9 million Israel contract.\nThe post Ashley Hinson\u2019s Digital Chief Oversees Firm Paid Millions to Push Israeli Propaganda appeared first on The Intercept.",
-      "url": "https://theintercept.com/2026/11/03/ashley-hinson-israel-aipac/",
-      "source": "The Intercept",
-      "date": "2026-11-03",
-      "image": "https://theintercept.com/wp-content/uploads/2026/11/GettyImages-2302765902_034f41-e1793659339311.jpg?fit=4442%2C2220&w=1200&h=800",
+      "image": null,
       "category": "market"
     },
     {
-      "title": "Bret Stephens on El-Sayed",
-      "description": "I was going to put this in my critique of Abdul El-Sayed yesterday, but forgot. Fortunately, Bret Stephens, in his latest NYT column, alludes to something like what I\u2019m about to say: This is what I forgot to add to my own post: Imagine that a white American h\u2026",
-      "url": "https://whyevolutionistrue.com/2026/11/03/bret-stephens-on-el-sayed/",
-      "source": "Whyevolutionistrue.com",
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "description": "Is there an existing issue for this? I have searched the tracker for existing similar issues and I know that duplicates will be closed Describe the Issue Opening Postman on my Mac was followed by u...",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "source": "Github.com",
       "date": "2026-11-03",
-      "image": "https://whyevolutionistrue.com/wp-content/uploads/2026/11/Screenshot-2026-11-03-at-6.08.02-AM.png",
+      "image": "https://opengraph.githubassets.com/2ab4b3d0ad49644720ef450377a3510d786ddd957e4e986caef058573f529ba8/postmanlabs/postman-app-support/issues/14370",
       "category": "market"
     },
     {
-      "title": "What US midterm elections mean for Ukraine, Iran and elsewhere",
-      "description": "Donald Trump's Republicans control the US Congress, but that could change after the midterm elections. The outcome of the ballot will not only impact domestic policy but also conflicts in Europe and the Middle East.",
-      "url": "https://www.dw.com/en/what-us-midterm-elections-mean-for-ukraine-iran-and-elsewhere/a-79836423",
-      "source": "DW (English)",
+      "title": "McFarlane Toys Reveals DC Multiverse Batman (The World \u2013 Paris) Figure",
+      "description": "McFarlane Toys is taking the Dark Knight across the globe with a new DC Multiverse collectible inspired by DC Comics' Batman: The World! This time, Batman is heading to the streets of Paris with a new 7-inch scale figure, bringing an international take on the\u2026",
+      "url": "https://bleedingcool.com/collectibles/mcfarlane-toys-reveals-dc-multiverse-batman-the-world-paris-figure/",
+      "source": "Bleeding Cool News",
       "date": "2026-11-03",
-      "image": "https://static.dw.com/image/79832271_6.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "How Marketing Can Drive Mission For Nonprofits",
-      "description": "The goal should be for nonprofits to tap into public trust.",
-      "url": "https://www.forbes.com/councils/forbesnonprofitcouncil/2026/11/03/how-marketing-can-drive-mission-for-nonprofits/",
-      "source": "Forbes",
-      "date": "2026-11-03",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/69c5316dacfb2fd66bcb7faf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "image": "https://bleedingcool.com/wp-content/uploads/2026/11/DC-Multiverse-Batman-The-Word-Paris-e1793630475921-2000x1125.jpg",
       "category": "market"
     },
     {
-      "title": "9th Circuit Abruptly Vacates Ruling Clearing DOJ to Pursue Noncitizen Ballots",
-      "description": "A three-judge panel had lifted restrictions on the DOJ's efforts to have California and Washington separate ballots cast by suspected noncitizens just hours before the full court intervened.\nThe post 9th Circuit Abruptly Vacates Ruling Clearing DOJ to Pursue \u2026",
-      "url": "https://legalinsurrection.com/2026/11/9th-circuit-abruptly-vacates-ruling-clearing-doj-to-pursue-noncitizen-ballots/",
-      "source": "Legalinsurrection.com",
+      "title": "Markets extend gains for fourth day; FPI buying highest in a year",
+      "description": "Nifty up 1.6% on favourable earnings, festival demand",
+      "url": "https://www.business-standard.com/markets/news/markets-extend-gains-for-fourth-day-fpi-buying-highest-in-a-year-126110301699_1.html",
+      "source": "Business Standard",
       "date": "2026-11-03",
-      "image": "https://legalinsurrection.com/wp-content/uploads/2025/04/Vote-Here.jpg",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/03/full/1793726415-8428.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "The world promised to halt biodiversity loss by 2030 \u2013\u00a0now it needs to turn pledges into action",
+      "description": "A recent UN biodiversity summit showed little progress has been made.",
+      "url": "https://theconversation.com/the-world-promised-to-halt-biodiversity-loss-by-2030-now-it-needs-to-turn-pledges-into-action-295028",
+      "source": "The Conversation Africa",
+      "date": "2026-11-03",
+      "image": "https://images.theconversation.com/files/769775/original/file-20261103-64-g51mi6.jpg?ixlib=rb-4.1.1&rect=0%2C1106%2C4495%2C2247&q=45&auto=format&w=1356&h=668&fit=crop",
       "category": "market"
     },
     {
-      "title": "Precious metals continue to plunge for 2nd consecutive month - Anadolu Ajans\u0131",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNbHBtU0NJTlZJRjFTeHVyNlZqSGhVM1NOSDlQZE4ybUdJMGpIS3VZU0J0TmRTel9BTWk2OVpCSDRCdW1wbDVnU1MtN3FlQTBiYjdVakZzckhMU05DTldnaHBHbjZuekdHaHQxZzhsRmRucDlIbjQ0WXowRlNKZGhtTi1fZ05tSDViQlNkY2ktX2t4ZWFvWk1mUnRPd0hSdw?oc=5\" target=\"_blank\">Precious meta",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbHBtU0NJTlZJRjFTeHVyNlZqSGhVM1NOSDlQZE4ybUdJMGpIS3VZU0J0TmRTel9BTWk2OVpCSDRCdW1wbDVnU1MtN3FlQTBiYjdVakZzckhMU05DTldnaHBHbjZuekdHaHQxZzhsRmRucDlIbjQ0WXowRlNKZGhtTi1fZ05tSDViQlNkY2ktX2t4ZWFvWk1mUnRPd0hSdw?oc=5",
-      "source": "Google News - Precious Metals",
-      "date": "2026-11-02",
-      "image": "",
-      "category": "metals"
+      "title": "Why the tropics lose the most birds when cities expand",
+      "description": "Urban diversity losses may be stemmed by greener urban planning.",
+      "url": "https://theconversation.com/why-the-tropics-lose-the-most-birds-when-cities-expand-294561",
+      "source": "The Conversation Africa",
+      "date": "2026-11-03",
+      "image": "https://images.theconversation.com/files/768098/original/file-20261024-50-1yelt.JPG?ixlib=rb-4.1.1&rect=0%2C930%2C7105%2C3552&q=45&auto=format&w=1356&h=668&fit=crop",
+      "category": "market"
+    },
+    {
+      "title": "Concrete jungle, silent canopy: Why tropical birds vanish in cities",
+      "description": "Urban diversity losses may be stemmed by greener urban planning.",
+      "url": "https://theconversation.com/concrete-jungle-silent-canopy-why-tropical-birds-vanish-in-cities-294561",
+      "source": "The Conversation Africa",
+      "date": "2026-11-03",
+      "image": "https://images.theconversation.com/files/768098/original/file-20261024-50-1yelt.JPG?ixlib=rb-4.1.1&rect=0%2C930%2C7105%2C3552&q=45&auto=format&w=1356&h=668&fit=crop",
+      "category": "market"
+    },
+    {
+      "title": "'Obscene': Billionaire Funders Allowed California Wealth Tax Foes to Outspend Proponents 250 to 1",
+      "description": "Foes of a California ballot initiative to establish a one-time 5% wealth tax on the state's billionaires have spent vastly more on advertising than proponents\u2014and polls show that money may be having an impact.A Monday report in The Washington Post estimated t\u2026",
+      "url": "https://www.commondreams.org/news/wealth-tax-opponents-spending",
+      "source": "Common Dreams",
+      "date": "2026-11-03",
+      "image": "https://www.commondreams.org/media-library/image.jpg?id=68489396&width=1200&height=600&coordinates=0%2C417%2C0%2C418",
+      "category": "market"
+    },
+    {
+      "title": "PWHL Insists Mark Walter Isn\u2019t Selling League",
+      "description": "The league maintains that it remains firmly under Walter\u2019s ownership.",
+      "url": "https://frontofficesports.com/article/pwhl-insists-mark-walter-isnt-selling-league/",
+      "source": "Frontofficesports.com",
+      "date": "2026-11-03",
+      "image": "https://s.yimg.com/lo/mysterio/api/78c1f47deecd95822416bcd6e79aa7118acb66e507e6405a1bc9ed88623e47fd/lightyear_networkapi/resizefill_w1024_h577%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffront_office_sports_190%2F10a01ee99d73368d33569f876652ae55.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Haley Stevens Releases 887-Word Response Slamming Democratic Party for Abandoning Her After Mike Rogers Endorsement: \u201cAbdul El-Sayed is Not Fit to Serve in the United States Senate\u201d",
+      "description": "Democratic Rep.\nThe post Haley Stevens Releases 887-Word Response Slamming Democratic Party for Abandoning Her After Mike Rogers Endorsement: \u201cAbdul El-Sayed is Not Fit to Serve in the United States Senate\u201d appeared first on The Gateway Pundit.",
+      "url": "https://www.thegatewaypundit.com/2026/11/haley-stevens-slams-democratic-party-abandoning-her-after/",
+      "source": "Thegatewaypundit.com",
+      "date": "2026-11-03",
+      "image": "https://www.thegatewaypundit.com/wp-content/uploads/2026/11/img_9357-1200x630.jpeg",
+      "category": "market"
     }
   ],
   "history": [
@@ -530,15 +530,15 @@
     {
       "date": "2026-11-04",
       "week": "2026-W45",
-      "gold_10g": 123363.75,
-      "silver_kg": 159315.24,
-      "platinum_g": 4516.63,
-      "gold_usd_oz": 4046.14,
-      "silver_usd_oz": 52.25,
-      "platinum_usd_oz": 1481.38
+      "gold_10g": 123937.55,
+      "silver_kg": 159467.69,
+      "platinum_g": 4569.02,
+      "gold_usd_oz": 4064.97,
+      "silver_usd_oz": 52.3,
+      "platinum_usd_oz": 1498.57
     }
   ],
-  "timestamp": "2026-11-04T20:15:23.123904+05:30",
+  "timestamp": "2026-11-04T22:54:09.009457+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
