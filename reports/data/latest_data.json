@@ -1,24 +1,24 @@
 {
   "prices": {
     "gold": {
-      "price_per_gram_inr": 12490.73,
-      "price_usd_oz": 4105.88,
-      "change_percent": 1.09,
-      "change_value_usd": 44.28,
-      "price_per_10g_inr": 124907.26
+      "price_per_gram_inr": 12506.39,
+      "price_usd_oz": 4111.02,
+      "change_percent": 1.22,
+      "change_value_usd": 49.43,
+      "price_per_10g_inr": 125063.93
     },
     "silver": {
-      "price_per_gram_inr": 158.7,
-      "price_usd_oz": 52.17,
-      "change_percent": -0.16,
-      "change_value_usd": -0.09,
-      "price_per_kg_inr": 158697.28
+      "price_per_gram_inr": 159.73,
+      "price_usd_oz": 52.5,
+      "change_percent": 0.48,
+      "change_value_usd": 0.25,
+      "price_per_kg_inr": 159725.53
     },
     "platinum": {
-      "price_per_gram_inr": 4638.82,
-      "price_usd_oz": 1524.85,
-      "change_percent": 1.65,
-      "change_value_usd": 24.79
+      "price_per_gram_inr": 4658.06,
+      "price_usd_oz": 1531.17,
+      "change_percent": 2.07,
+      "change_value_usd": 31.11
     },
     "currencies": {
       "USD_INR": 94.6218,
@@ -30,8 +30,8 @@
       "CAD_INR": 67.7467,
       "SGD_INR": 73.9926
     },
-    "gold_silver_ratio": 78.71,
-    "timestamp": "2026-11-05T14:50:42.559561",
+    "gold_silver_ratio": 78.3,
+    "timestamp": "2026-11-05T17:31:05.199127",
     "source": "GoldAPI"
   },
   "currencies": {
@@ -53,20 +53,20 @@
         "sell": 25,
         "hold": 50
       },
-      "summary": "Gold is showing negative signals. Strong daily gain of 1.1%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-05T14:50:48.194813",
+      "summary": "Gold is showing negative signals. Strong daily gain of 1.2%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
+      "timestamp": "2026-11-05T17:31:10.776283",
       "source": "rule-based"
     },
     "silver": {
       "metal": "silver",
       "recommendation": "SELL",
       "confidence": {
-        "buy": 10,
-        "sell": 65,
-        "hold": 25
+        "buy": 15,
+        "sell": 56,
+        "hold": 29
       },
-      "summary": "Silver is showing negative signals. Slight decline of -0.2%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-05T14:50:48.282590",
+      "summary": "Silver is showing negative signals. Positive daily movement of 0.5%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-11-05T17:31:10.853024",
       "source": "rule-based"
     },
     "platinum": {
@@ -77,8 +77,8 @@
         "sell": 25,
         "hold": 50
       },
-      "summary": "Platinum is showing negative signals. Strong daily gain of 1.6%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-05T14:50:48.369098",
+      "summary": "Platinum is showing negative signals. Strong daily gain of 2.1%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.",
+      "timestamp": "2026-11-05T17:31:10.953937",
       "source": "rule-based"
     }
   },
@@ -90,13 +90,13 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -2.7% in 4 weeks"
+        "Weak momentum: -2.5% in 4 weeks"
       ],
       "support": 118437.13,
       "resistance": 134616.17,
-      "current_price": 124907.26,
-      "ma_short": 125465.05,
-      "ma_long": 128996.06,
+      "current_price": 125063.93,
+      "ma_short": 125504.22,
+      "ma_long": 129009.11,
       "trend_score": -4.0
     },
     "silver": {
@@ -106,142 +106,150 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -15.1% in 4 weeks",
+        "Weak momentum: -14.6% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
       "support": 150153.09,
       "resistance": 210317.38,
-      "current_price": 158697.28,
-      "ma_short": 170882.2,
-      "ma_long": 187504.12,
+      "current_price": 159725.53,
+      "ma_short": 171139.26,
+      "ma_long": 187589.81,
       "trend_score": -3.5
     },
     "platinum": {
       "trend": "bearish",
-      "strength": 6,
+      "strength": 0,
       "signals": [
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -12.0% in 4 weeks",
-        "Near support \u2014 potential buy zone"
+        "Weak momentum: -11.6% in 4 weeks"
       ],
       "support": 4387.55,
       "resistance": 5662.91,
-      "current_price": 4638.82,
-      "ma_short": 4883.79,
-      "ma_long": 5168.51,
-      "trend_score": -3.5
+      "current_price": 4658.06,
+      "ma_short": 4888.6,
+      "ma_long": 5170.11,
+      "trend_score": -4.0
     }
   },
   "news": [
     {
-      "title": "Gold, Silver, Stocks: Why Bonds Deserve a Place on Your Dhanteras Shopping List",
-      "description": "Traditionally, investors have turned to gold and silver on Dhanteras, but this trend is shifting. Recent fluctuations in these precious metals and stock equities have raised apprehensions over their reliability. Bonds present a viable alternative with their assured returns and steady interest payout",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/gold-silver-stocks-why-bonds-deserve-a-place-on-your-dhanteras-shopping-list/articleshow/135576862.cms",
+      "title": "Apple seeks about $7 billion from bond sale, Bloomberg News reports",
+      "description": "Apple is seeking about $7 billion from a US-dollar bond offering, Bloomberg News reported on Thursday, citing people familiar with the matter. The iPhone maker is the latest major tech company to tap debt markets as the sector raises large sums to fund AI expansion.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/apple-seeks-about-7-billion-from-bond-sale-bloomberg-news-reports/articleshow/135578897.cms",
       "source": "Economic Times Markets",
       "date": "2026-11-05",
       "image": "",
+      "category": "currency"
+    },
+    {
+      "title": "Stocks surge after Trump\u2019s election rout",
+      "description": "Democrats won control of both houses, gaining power to block legislation.",
+      "url": "https://www.nzherald.co.nz/world/stocks-surge-after-trumps-election-rout/XR3F27OXO5C73BIFWVFNZSXPFU/",
+      "source": "New Zealand Herald",
+      "date": "2026-11-04",
+      "image": "https://www.nzherald.co.nz/resizer/v2/7TTCZK5NPZGYZFDDOPP4JYZYEE.jpg?auth=f034b13348b46a7ed00ff616bcf8ec947a11ec45649e8a6433df7269e1cf0853&width=1200&height=675&quality=70&focal=1172%2C406&smart=false",
+      "category": "market"
+    },
+    {
+      "title": "Bitcoin Rebounds After Democratic Midterm Sweep, But Crypto Faces Tougher Fight in Washington",
+      "description": "Bitcoin bounced back after Democrats won control of Congress, but a stalled market structure bill and heavy industry campaign spending reveal crypto\u2019s exposure to shifting US political power.",
+      "url": "https://decrypt.co/382515/bitcoin-rebounds-democratic-midterm-sweep-crypto-washington",
+      "source": "Decrypt",
+      "date": "2026-11-04",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Bitcoin-America-decrypt-style-01-gID_7.png",
+      "category": "market"
+    },
+    {
+      "title": "JPMorgan Projects Bitcoin To Outperform Stocks And Gold With 10% Annual Return Over The Next Decade",
+      "description": "In a report published today, JPMorgan Asset Management made a bold prediction: Bitcoin will outperform gold and US stocks over the next decade.",
+      "url": "https://zycrypto.com/jpmorgan-projects-bitcoin-to-outperform-stocks-and-gold-with-10-annual-return-over-the-next-decade/",
+      "source": "ZyCrypto",
+      "date": "2026-11-04",
+      "image": "https://zycrypto.com/wp-content/uploads/2024/02/Crypto-Community-Abuzz-As-Jeff-Bezos-Is-Rumored-To-Buy-Bitcoin-After-Offloading-Billions-In-Amazon-Stock.jpg",
       "category": "metals"
     },
     {
-      "title": "Fed's Beth Hammack favors gradual rate-hike path to lower inflation",
-      "description": "Cleveland's Federal Reserve President Beth Hammack has emphasized the need for additional rate hikes to achieve the target inflation rate of 2%. She proposes implementing smaller, more frequent adjustments to minimize impacts on households and markets. Dissatisfied with the last Fed meeting's outcom",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/feds-beth-hammack-favors-gradual-rate-hike-path-to-lower-inflation/articleshow/135576467.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-11-05",
-      "image": "",
-      "category": "central_bank"
+      "title": "Diamond duds! As De Beers\u2019 sales plummet, even brides want a handbag over a ring",
+      "description": "As diamonds lose 50% of their resale value, some shoppers are hoping handbags are a smarter \u2014 and flashier \u2014 investment.",
+      "url": "https://nypost.com/2026/11/04/lifestyle/as-de-beers-sales-plummet-even-brides-want-a-handbag-over-a-ring/",
+      "source": "New York Post",
+      "date": "2026-11-04",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/handbag-hp-2.jpg?quality=75&strip=all&1793732130&w=1200",
+      "category": "market"
     },
     {
-      "title": "Bank of England hikes rates to 4%, first raise since 2023, says more may come amid high UK inflation",
-      "description": "In a decisive move, the Bank of England has escalated interest rates to 4% amidst spiraling inflation, projected to hit 4.8% in Q2 next year. Governor Andrew Bailey cautioned that further hikes may be necessary, especially with ongoing global conflicts. Market reactions were notably favorable, with ",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/bank-of-england-hikes-rates-to-4-first-raise-since-2023-says-more-may-come-amid-high-uk-inflation/articleshow/135574865.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-11-05",
-      "image": "",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Rising oil prices cap India bond rally; traders cash in gains",
-      "description": "Indian government bonds saw a rise as traders reacted to a US Treasury rally and falling crude prices. The benchmark 6.94% 2036 bond yield declined by nearly 2 basis points after intraday fluctuations. Oil prices rebounded after initially falling, causing traders to lock in profits. Attention will t",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/rising-oil-prices-cap-india-bond-rally-traders-cash-in-gains/articleshow/135572997.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-11-05",
-      "image": "",
-      "category": "inflation"
-    },
-    {
-      "title": "Gold ETFs attract \u20b93,300 crore in Oct as investors go on a buying spree ahead of Diwali",
-      "description": "Assets under management of gold ETFs increased steadily from \u20b91.58 lakh crore in April to around \u20b91.91 lakh crore in October, reflecting growing investor interest in the category",
-      "url": "https://www.thehindubusinessline.com/markets/gold-etfs-attract-3300-crore-in-oct-as-investors-go-on-a-buying-spree-ahead-of-diwali/article71665451.ece",
+      "title": "Q2 Results Today Highlights: BSE, Sundaram Finance, Dabur, Nykaa, Lenskart, Alembic Pharma, Aurobindo Pharma, HUDCO, Apollo Hospitals, NHPC Q2 profit rises, Biocon, Zydus Life profit declines",
+      "description": "Q2 Results Today, 04th November 2026 Updates: Find all the latest Q2 results 2026 updates of 63 Moons Technologies, Aarvi Encon, Aayush Art And Bullion, Abans Enterprises, Abhinav Capital Services, Accedere, Adroit Infotech, Advance Agrolife, Advance Petroche\u2026",
+      "url": "https://www.thehindubusinessline.com/markets/q2-results-today-highights-bse-cummins-zydus-apollo-lenskart-nykaa-aurobindo-nhpc-dabur-torrent-power-biocon-sundaram-premier-energies-physicswallah-nse-sbi-results-04-november-2026/article71660621.ece",
       "source": "BusinessLine",
       "date": "2026-11-04",
-      "image": "https://bl-i.thgim.com/public/incoming/slfwhh/article71666538.ece/alternates/LANDSCAPE_1200/IMG_bl21_ETF_2_1_ARFK771M.jpg",
+      "image": "https://bl-i.thgim.com/public/incoming/xbzc6g/article71660620.ece/alternates/LANDSCAPE_1200/IMG_PO12_Planning_2_1_T8F0RPRU.jpg",
       "category": "metals"
     },
     {
-      "title": "New Samvat brings opportunities in mutual funds, equities and gold: Experts",
-      "description": "Experts from different segments shared their views at Business Standard Hindi's special webinar, 'New Samvat, New Beginning: An Opportunity for Investors to Reset Their Portfolios'",
-      "url": "https://www.business-standard.com/markets/news/new-samvat-brings-opportunities-in-mutual-funds-equities-and-gold-experts-126110401842_1.html",
-      "source": "Business Standard",
+      "title": "Gold vs silver investment: Which metal gave better returns on \u20b91 lakh over 1, 3 & 5 years? See the full comparison",
+      "description": "A  \u20b91 lakh investment in silver three years ago would be worth nearly  \u20b92.49 lakh today, against  \u20b92.25 lakh in gold. Silver leads over one and three years, while gold edges ahead over five years, based on IBJA rates.",
+      "url": "https://www.livemint.com/money/personal-finance/gold-vs-silver-investment-val-which-metal-gave-better-returns-on-1-lakh-over-1-3-5-years-see-the-full-comparis-11793806608030.html",
+      "source": "Livemint",
       "date": "2026-11-04",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-02/06/thumb/fitandfill/1200X628/1770399831-6571.jpg",
+      "image": "https://www.livemint.com/lm-img/img/2026/11/04/1600x900/logo/Gemini_Generated_Imag_9p9ra9p9ra9p9ra9_179380696_1793806991370_GXUj_1793806991496_s6a0_da5b7fa6-5b4d-4f4a-9424-375dec8dde36_ztWk.png",
       "category": "metals"
     },
     {
-      "title": "Russia-Africa Summit 2026: Outcomes and Future Perspectives",
-      "description": "The late October Russia-Africa Summit consolidated Russia\u2019s economic and geopolitical influence on the continent through the signing of 146 documents, building on 240 agreements from 2023 and 92 from 2019, with over 3,500 participants from 74 countries and bi\u2026",
-      "url": "https://www.globalresearch.ca/russia-africa-summit-2026-outcomes-future-perspectives/5945107",
-      "source": "Globalresearch.ca",
+      "title": "The Business of Watches Podcast: WatchCharts Top Executives Talk Market Reports And Where Prices Might Be Heading",
+      "description": "Charles Tian and Hamza Masood discuss what's driving secondary market watch prices, what brands and models are hot and which are lagging, and whether the recovery in watch values is here to stay.",
+      "url": "https://www.hodinkee.com/articles/watchcharts-top-executives-talk-morgan-stanleys-q3-secondary-watch-market-report-and-where-prices-mi",
+      "source": "HODINKEE",
       "date": "2026-11-04",
-      "image": "https://www.globalresearch.ca/wp-content/uploads/2026/11/Russia-Africa-Summit.-October-28-2026.jpg",
+      "image": "https://hodinkee.imgix.net/uploads/images/db9dbca0-cd15-412a-9188-7d5f151c2e3b/BusinessOfWatcheshero01.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=1200&h=630&fit=crop",
+      "category": "market"
+    },
+    {
+      "title": "Stock markets roar and Dow rallies staggering 1,100 points after resounding Democratic midterms win",
+      "description": "Democrats seized control of both houses in a victory that gives them the power to block legislation, open investigations into Trump's administration and thwart his judicial and senior government appointments.",
+      "url": "https://www.dailymail.com/yourmoney/article-16265475/Stock-markets-roar-dow-Democratic-midterms-win.html",
+      "source": "Dailymail.com",
+      "date": "2026-11-04",
+      "image": "https://i.dailymail.com/1s/2026/11/04/15/112297441-0-image-m-29_1793807509014.jpg",
       "category": "geopolitics"
     },
     {
-      "title": "Rafael Nadal Enters Football's Power Circle!",
-      "description": "Real Madrid have nominated 22-time Grand Slam champion Rafael Nadal as a director, with the tennis legend accepting the invitation as speculation over future presidential succession continues.",
-      "url": "https://www.rediff.com/sports/report/rafael-nadal-makes-his-move-into-football-set-to-join-real-madrids-board-of-directors/20261104.htm",
-      "source": "Rediff.com",
+      "title": "Bitcoin Touches $81K as $380M in Shorts Are Wiped Out",
+      "description": "Why is bitcoin going up? A post-midterm stock rally and $380M in hourly short liquidations accompanied BTC's brief rebound from $75,600 to $81,000.\nThe post Bitcoin Touches $81K as $380M in Shorts Are Wiped Out appeared first on Bitcoin Foundation.",
+      "url": "https://bitcoinfoundation.org/news/bitcoin/bitcoin-touches-81k-as-380m-in-shorts-are-wiped-out/",
+      "source": "Bitcoinfoundation.org",
       "date": "2026-11-04",
-      "image": "https://im.rediff.com/1200-630/sports/2026/nov/04rafael-nadal.jpg",
+      "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/bitcoin-touches-81k-as-380m-in-shorts-are-wiped-out.webp",
       "category": "market"
     },
     {
-      "title": "Gold price correction to lift Dhanteras sentiment, but sales volumes likely to remain flat: Jewellers",
-      "description": "The decline in gold prices is expected to boost demand this Dhanteras, All India Gem and Jewellery Domestic Council (GJC) Chairman Rajesh Rokde told.",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/gold-price-correction-to-lift-dhanteras-sentiment-but-sales-volumes-likely-to-remain-flat-jewellers/articleshow/135540492.cms",
+      "title": "Dollar falls after Democrats take US Congress in midterm elections",
+      "description": "NEW YORK, Nov 4 : The dollar dropped on Wednesday and was on pace for its biggest daily percentage decline in three weeks after a sweeping victory by Democrats in the US midterm elections, removing an uncertainty for the market as investors gauged potential r\u2026",
+      "url": "https://www.channelnewsasia.com/business/dollar-falls-after-democrats-take-us-congress-in-midterm-elections-6519116",
+      "source": "CNA",
+      "date": "2026-11-04",
+      "image": "https://dam.mediacorp.sg/image/upload/s--WUZ9Jn-0--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-04T014544Z_1_LYNXNPEMA304L_RTROPTP_3_USA-DOLLAR-TECHTRADE.JPG?itok=QtiBY5sV",
+      "category": "currency"
+    },
+    {
+      "title": "Dollar declines after Democrats take US Congress in midterm elections",
+      "description": "NEW YORK, Nov 4 : The dollar retreated on Wednesday but was off its earlier lows after a sweeping victory by Democrats in the US midterm elections removed a source of uncertainty for the market while investors gauged the potential for regulatory changes.Democ\u2026",
+      "url": "https://www.channelnewsasia.com/business/dollar-declines-after-democrats-take-us-congress-in-midterm-elections-6519116",
+      "source": "CNA",
+      "date": "2026-11-04",
+      "image": "https://dam.mediacorp.sg/image/upload/s--WUZ9Jn-0--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-04T014544Z_1_LYNXNPEMA304L_RTROPTP_3_USA-DOLLAR-TECHTRADE.JPG?itok=QtiBY5sV",
+      "category": "currency"
+    },
+    {
+      "title": "Gold gains 3% as dollar slides after Democratic midterm gains",
+      "description": "On Wednesday, gold prices surged by 3%, reaching impressive new levels following the midterm elections, during which Democrats secured control of both the Senate and House. This political transformation, combined with a weaker dollar, heightened gold and prec\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/gold-gains-3-as-dollar-slides-after-democratic-midterm-gains/articleshow/135543824.cms",
       "source": "The Times of India",
       "date": "2026-11-04",
-      "image": "https://img.etimg.com/thumb/msid-135540559,width-1200,height-900,imgsize-1331181,overlay-economictimes/articleshow.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Australian Original \"Who the Hell Is Hamish?\" Premieres Thursday, December 10 Exclusively on Paramount+",
-      "description": "The six-episode drama features an all-star ensemble cast led by Dominic Cooper and Claire van der Boom.",
-      "url": "http://www.thefutoncritic.com/news/2026/11/04/australian-original-who-the-hell-is-hamish-premieres-thursday-december-10-exclusively-on-paramountplus-764212/20261104paramount01/",
-      "source": "Thefutoncritic.com",
-      "date": "2026-11-04",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "Tennis great Rafael Nadal set to join Real Madrid board",
-      "description": "The 22-time Grand Slam winner is to be ratified onto club's board of directors.",
-      "url": "https://www.aljazeera.com/sports/2026/11/4/tennis-great-rafael-nadal-set-to-join-real-madrid-board",
-      "source": "Al Jazeera English",
-      "date": "2026-11-04",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-04T122904Z_225052763_RC2JA3ARZDC8_RTRMADP_3_SOCCER-SPAIN-RMA-NADAL-1793797126.jpg?resize=1920%2C1440",
-      "category": "market"
-    },
-    {
-      "title": "China expands overseas mining stakes, tightening grip on critical minerals",
-      "description": "Beijing is building a system of agencies and state-backed vehicles to own more of the metals it depends on, while keeping its edge in processing skills.",
-      "url": "https://www.cnbc.com/2026/11/04/china-critical-minerals-rare-earths-trump-japan-export-control-.html",
-      "source": "CNBC",
-      "date": "2026-11-04",
-      "image": "https://image.cnbcfm.com/api/v1/image/108478779-1793251763135-gettyimages-2297073660-img_3717.jpeg?v=1793251776&w=1920&h=1080",
-      "category": "supply_demand"
+      "image": "https://img.etimg.com/thumb/msid-135543854,width-1200,height-900,imgsize-88148,overlay-etmarkets/articleshow.jpg",
+      "category": "currency"
     },
     {
       "title": "Real gold, unreal weight: How a new adulteration scam using heavy metals is beating acid and touchstone purity tests",
@@ -271,138 +279,129 @@
       "category": "metals"
     },
     {
-      "title": "Silver jumps by 5% as Dems win US midterms",
-      "description": "The prices of precious metals continued to grow on Wednesday as the results of the United States midterms showed that the Democrats had overperformed the Republicans significantly, claiming control of...",
-      "url": "https://biztoc.com/x/81dfbc2d7a915929",
-      "source": "Biztoc.com",
-      "date": "2026-11-04",
-      "image": "https://biztoc.com/cdn/81dfbc2d7a915929_s.webp",
-      "category": "metals"
-    },
-    {
-      "title": "Buying gold, silver coins for Dhanteras? 0.5-10g gold and 1-100 gm silver coins available on Instamart: Check offers",
-      "description": "Ahead of Dhanteras, Instamart has partnered with Kalyan Jewellers to offer the first 1,000 customers each day buying a gold coin a free 1-gram silver coin gold and silver coins. Check offers for online purchases\u2026&nbsp;",
-      "url": "https://www.livemint.com/money/buying-coins-online-dhanteras-0-5g-gold-10g-1-g-silver-100-g-silver-available-swiggy-instamart-kalyan-jewellers-offers-11793779395032.html",
-      "source": "Livemint",
-      "date": "2026-11-04",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/04/1600x900/logo/fedd_1793266152429_DzDE_1793266158212_uyRI_2eb6b52_1793782998983_HNdE_1793782999138_Ac72_b27ecde3-18de-40e1-ad5d-780d62319af2_fhFo.png",
-      "category": "metals"
-    },
-    {
-      "title": "Silver prices jump over 4% to reclaim $51/oz as Democrats secure US midterm victory. What\u2019s happening?",
-      "description": "Silver prices surged over 4% to reclaim the $51/oz mark after Democrats secured a victory in the US midterm elections, weakening the dollar and Treasury yields. However, HSBC expects further gains to be limited as silver trades close to levels justified by fu\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-prices-jump-over-4-to-reclaim-51/oz-as-democrats-secure-us-midterm-victory-whats-happening/articleshow/135531935.cms",
+      "title": "CEC flags staff, surveillance gaps in Chambal sanctuary",
+      "description": "CEC report flags staff vacancies and surveillance gaps in National Chambal Wildlife Sanctuary, urges UP to fill key posts and tighten checks on illegal sand mining.",
+      "url": "https://timesofindia.indiatimes.com/city/agra/cec-flags-staff-surveillance-gaps-in-chambal-sanctuary/articleshow/135547631.cms",
       "source": "The Times of India",
       "date": "2026-11-04",
-      "image": "https://img.etimg.com/thumb/msid-135532155,width-1200,height-900,imgsize-51644,overlay-etmarkets/articleshow.jpg",
-      "category": "currency"
+      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "category": "supply_demand"
     },
     {
-      "title": "Gold, silver and precious metals prices jump, dollar dips as Democrats take control of Congress",
-      "description": "Precious metals saw strong gains on Tuesday morning, while the value of the dollar fell, following the U.S. midterm elections.\nSpot gold was 2% higher at $4,005.40 an ounce by 1:30 a.m. ET, while spot silver jumped 4% to trade at $51.68 per ounce.\nFront-month\u2026",
-      "url": "https://biztoc.com/x/2a82a6cf170d9808",
-      "source": "Biztoc.com",
+      "title": "RIAT Permanently Relocates to MOD Boscombe Down From 2027",
+      "description": "The Royal International Air Tattoo will leave RAF Fairford after decades at the Gloucestershire airbase, moving to MOD Boscombe Down in Wiltshire as part of an effort to secure the long-term future of the world\u2019s largest military airshow. The Royal Air Force \u2026",
+      "url": "https://theaviationist.com/2026/11/04/riat-relocates-boscombe-down/",
+      "source": "Theaviationist.com",
       "date": "2026-11-04",
-      "image": "https://biztoc.com/cdn/2a82a6cf170d9808_s.webp",
-      "category": "currency"
+      "image": "https://theaviationist.com/wp-content/uploads/2026/11/RIAT_Wedgetail_Red_Arrows.jpg",
+      "category": "geopolitics"
     },
     {
-      "title": "IT stocks bleed as defence, consumer names rally; Nifty holds above 23,800",
-      "description": "On the BSE, 4,379 stocks were traded, with advances at 2,813 outnumbering declines at 1,323, while 243 stocks remained unchanged",
-      "url": "https://www.thehindubusinessline.com/markets/it-stocks-bleed-as-defence-consumer-names-rally-nifty-holds-above-23800/article71664628.ece",
-      "source": "BusinessLine",
+      "title": "BJP, Cong workers clash during George Everest estate protest",
+      "description": "BJP and Congress workers clashed at Mussoorie\u2019s George Everest estate during a protest against leasing 144 hectares to Swami Bal Kishan-linked firm for Rs 1 crore.",
+      "url": "https://timesofindia.indiatimes.com/city/dehradun/bjp-cong-workers-clash-during-george-everest-estate-protest/articleshow/135547442.cms",
+      "source": "The Times of India",
       "date": "2026-11-04",
-      "image": "https://bl-i.thgim.com/public/todays-paper/tp-markets/dl0q2/article71646921.ece/alternates/LANDSCAPE_1200/PE_VC-investmenGI3GO13AL.4.jpg.jpg",
+      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
       "category": "market"
     },
     {
-      "title": "Massive Study Upends Common Understanding of Collectivism",
-      "description": "Source: PsyPost\r\nA study of more than 12,000 people across 100 cultures suggests that common measures of collectivism confuse an obligation to close family and friends with general friendliness toward everyone. By redefining collectivism as \"responsibilism,\" \u2026",
-      "url": "https://www.psypost.org/massive-study-upends-our-understanding-of-the-psychology-of-collectivism/",
-      "source": "PsyPost",
+      "title": "Conquered from Within: How Terror-Tied MPAC Is Placing Islamic Operatives Inside American Police Departments",
+      "description": "Under the banner of fighting \u201cIslamophobia,\u201d groups like MPAC are quietly gaining direct access to local police departments and municipal power. By embedding hand-pick members of mosques into law enforcement, they are effectively rewriting threat priorities a\u2026",
+      "url": "https://freerepublic.com/focus/f-chat/4401794/posts",
+      "source": "Freerepublic.com",
       "date": "2026-11-04",
-      "image": "https://www.psypost.org/wp-content/uploads/2026/11/woman-walking-with-her-grandmother.jpg",
-      "category": "geopolitics"
+      "image": null,
+      "category": "market"
     },
     {
-      "title": "Sam Altman defends RAM comments, rebrands as \u2018Ram Altman\u2019 on X",
-      "description": "Altman's comments highlight the tension between AI advancements and consumer tech needs, underscoring potential shifts in resource allocation priorities.\nThe post Sam Altman defends RAM comments, rebrands as \u2018Ram Altman\u2019 on X appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/sam-altman-defends-ram-comments/",
-      "source": "Crypto Briefing",
+      "title": "Naming That Sense Of Civic Disconnect Of Values",
+      "description": "How do we give shape to this disquiet? We might call it fatigue, burnout, or \u2018just needing a break from the world\u2019, but often it\u2019s grief \u2013 mourning for a faith we once had in fellow citizens to recognise a certain decency or sense of fairness. It isn\u2019t partis\u2026",
+      "url": "https://psyche.co/ideas/that-feeling-of-values-crumbling-has-a-name-civic-grief",
+      "source": "Psyche.co",
       "date": "2026-11-04",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/04094947/library-sam-altman-defends-ram-comments-rebrands-as-ram-altman-o-800x450.png",
-      "category": "geopolitics"
+      "image": "https://images.aeonmedia.co/images/7c18a740-843f-4599-8945-6695ff16570c/sz-final-gettyimages-2170760168.jpg?top=130&left=0&cropWidth=2496&cropHeight=1404&width=1200&quality=75&format=jpeg",
+      "category": "market"
     },
     {
-      "title": "HP Inc hires former GSK boss as CEO",
-      "description": "Brit Emma Walsley swaps big pharma for big printer: Prep for PCs, ink, and lots of DRAM-induced headaches",
-      "url": "https://www.theregister.com/personal-tech/2026/11/04/hp-inc-hires-former-gsk-boss-as-ceo/5307588",
+      "title": "Fire Shuts Equinor\u2019s Visund Platform in Norwegian North Sea",
+      "description": "Equinor halted output at its Visund oil and gas platform in the Norwegian North Sea on Wednesday after a fire in an electrical switchboard room, taking all 13.2 million cubic meters per day of the field\u2019s gas export capacity off the market from Thursday. The \u2026",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Fire-Shuts-Equinors-Visund-Platform-in-Norwegian-North-Sea.html",
+      "source": "OilPrice.com",
+      "date": "2026-11-04",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-04_4oinydakpq.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Bare metal boom: On-prem server sales for HPC and AI up 20% this year",
+      "description": "Firms still want kit on-premises, but spike in revenue is as much about increased costs as higher sales",
+      "url": "https://www.theregister.com/on-prem/2026/11/04/bare-metal-boom-on-prem-server-sales-for-hpc-and-ai-up-20-this-year/5307611",
       "source": "Theregister.com",
       "date": "2026-11-04",
-      "image": "https://image.theregister.com/5307591.jpg?imageId=5307591&x=0&y=22.96&cropw=100&croph=31.85&panox=0&panoy=22.96&panow=100&panoh=31.85&width=1200&height=683",
+      "image": "https://image.theregister.com/1684886.jpg?imageId=1684886&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
       "category": "market"
     },
     {
-      "title": "NPS retirement planning: Can investments in AIFs, REITs and InvITs help improve returns and diversify your portfolio?",
-      "description": "NPS subscribers could benefit from greater exposure to AIFs, REITs and InvITs as pension funds explore alternative investments. SBI Pension Funds MD &amp; CEO Pranay Ranjan Dwivedi explains the potential returns, suggested allocation and risks.",
-      "url": "https://www.livemint.com/money/personal-finance/nps-retirement-planning-can-investments-in-aifs-reits-and-invits-help-improve-returns-and-diversify-your-portfolio-11793797552229.html",
-      "source": "Livemint",
+      "title": "Intelligence failure, delayed police intervention and lack of a contingency plan allowed Oct 27 protest over Shiv Sena (UBT) man\u2019s murder to escalate into highway blockade in Thane: Experts",
+      "description": "Intelligence failure, delayed police intervention and lack of a contingency plan allowed Oct 27 protest over Shiv Sena (UBT) man\u2019s murder to escalate into highway blockade in Thane: Experts",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/intelligence-failure-delayed-police-intervention-and-lack-of-a-contingency-plan-allowed-oct-27-protest-over-shiv-sena-ubt-mans-murder-to-escalate-into-highway-blockade-in-thane-experts/articleshow/135547581.cms",
+      "source": "The Times of India",
       "date": "2026-11-04",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/04/1600x900/logo/Gemini_Generated_Image_euod4euo8d4euo8_17937977_1793797737232_rRPs_1793797737382_49LX_571bb9fd-3a7d-4290-8b18-39d966a5074b_uXqE.png",
+      "image": "https://static.toiimg.com/thumb/msid-134678993,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "category": "market"
     },
     {
-      "title": "Why Cipher Digital Stock Lost 53.9% in October",
-      "description": "October was a rough month to own Cipher Digital (NASDAQ:CIFR). According to data from S&P Global Market Intelligence, the stock fell 53.9%, while the S&P 500 barely blinked with a 0.9% dip.\nThe data center developer was already sliding alongside other AI infr\u2026",
-      "url": "https://biztoc.com/x/8a4822d5c306caca",
-      "source": "Biztoc.com",
+      "title": "DoorDash is buying Instacart for $17 billion. Its employees can\u2019t add Instacart staff on LinkedIn",
+      "description": "An internal Q&A filed with the SEC tells DoorDash staff to stay unconnected until the deal closes, which could be mid-2028, to avoid antitrust trouble.",
+      "url": "https://fortune.com/2026/11/04/doordash-instacart-linkedin-ban-employees-antitrust/",
+      "source": "Fortune",
       "date": "2026-11-04",
-      "image": "https://biztoc.com/cdn/8a4822d5c306caca_s.webp",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/54775002120_b5cd3f58c1_o.jpg?resize=1200,600",
       "category": "market"
     },
     {
-      "title": "Google Photos now lets you turn off background music in Memories",
-      "description": "In an update, Google Photos is making it possible to fully disable background music in Memories. Memories in Google Photos...",
-      "url": "http://9to5google.com/2026/11/04/google-photos-now-lets-you-turn-off-background-music-in-memories/",
-      "source": "9to5google.com",
+      "title": "Former MLB Star Mark Teixeira Defeats Ex-NIH Scientist To Win House Seat",
+      "description": "Republican Mark Teixeira hit a home run at the polls yesterday, winning a U.S. House seat in Congress and beating out a former federal scientist.",
+      "url": "https://dailycaller.com/2026/11/04/mark-teixeira-texas-house-seat-kristin-hook-nih-mlb",
+      "source": "The Daily Caller",
       "date": "2026-11-04",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/google-photos-1.jpg?quality=82&strip=all&resize=1200,628",
+      "image": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/11/GettyImages-2280989788%20(1).jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "When is life insurance taxable?",
+      "description": "Life insurance isn't usually taxable, but there are some occasions when you or your heirs may wind up with a bill.",
+      "url": "https://www.cbsnews.com/news/when-is-life-insurance-taxable/",
+      "source": "CBS News",
+      "date": "2026-11-04",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/02/6584388c-d2b9-4b53-b470-f175a4ee144c/thumbnail/1200x630/88ce5c868e8b1dc22b9240d37e336f68/gettyimages-1218165390.jpg",
       "category": "market"
     },
     {
-      "title": "Thomson Reuters raises revenue guidance amid strong AI-driven growth",
-      "description": "Thomson Reuters' AI-driven growth highlights a transformative shift in professional services, emphasizing AI's increasing role and potential risks.\nThe post Thomson Reuters raises revenue guidance amid strong AI-driven growth appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/thomson-reuters-raises-guidance-ai-growth/",
-      "source": "Crypto Briefing",
+      "title": "Lesson From Lansing: To Win in Swing Districts, Fight Data Centers",
+      "description": "Left-aligned candidate Will Lawrence declared victory over a Republican incumbent after battling new AI infrastructure in his purple Michigan district.\nThe post Lesson From Lansing: To Win in Swing Districts, Fight Data Centers appeared first on The Intercept.",
+      "url": "https://theintercept.com/2026/11/04/will-lawrence-michigan-midterms-data-centers/",
+      "source": "The Intercept",
       "date": "2026-11-04",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/04094327/library-thomson-reuters-raises-revenue-guidance-amid-strong-ai-d-800x450.png",
+      "image": "https://theintercept.com/wp-content/uploads/2026/11/GettyImages-2294869660-e1793760503656.jpg?fit=8325%2C4163&w=1200&h=800",
       "category": "market"
     },
     {
-      "title": "SonicWall warns of unpatched flaws in end-of-life GMS software",
-      "description": "SonicWall warned customers of two security flaws affecting end-of-life Global Management System (GMS) systems that will not be patched. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/",
-      "source": "BleepingComputer",
+      "title": "Could SpaceX\u2019s retirement of Falcon 9 spark a launch crisis?",
+      "description": "What happens when the most successful rocket in history stops flying? The world is about to find out",
+      "url": "https://www.scientificamerican.com/article/could-spacexs-retirement-of-falcon-9-spark-a-launch-crisis/",
+      "source": "Scientific American",
       "date": "2026-11-04",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/11/04/SonicWall.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Soros-Linked \u201cCenter for U.S. Voters Abroad\u201d Sends Midterm Voting Letter to Australian Non-Citizen \u2014 Postmarked from Belgium, Signed by Former Democrat Staffer",
-      "description": "A troubling new allegation involving overseas voter outreach is raising fresh questions about how political organizations identify potential voters abroad, and whether American election officials have adequate safeguards to prevent ineligible foreign national\u2026",
-      "url": "https://www.thegatewaypundit.com/2026/11/soros-linked-center-u-s-voters-abroad-sends/",
-      "source": "Thegatewaypundit.com",
-      "date": "2026-11-04",
-      "image": "https://www.thegatewaypundit.com/wp-content/uploads/2026/11/blurred-frame-2026-11-04t083427.871-1200x630.jpg",
+      "image": "https://static.scientificamerican.com/dam/asset/836cbb6b-342f-49fa-8cac-0236d013899d/shutterstock_2765232793.jpg?m=1793812478.347&w=1200",
       "category": "market"
     },
     {
-      "title": "The Bay Area Just Rescued Its Public Transit System",
-      "description": "In a huge win for public transit, voters in the San Francisco Bay Area appear to have approved a measure that will slightly increase the sales tax to fund transportation in the region over the next 14 years, according to the San Francisco Chronicle. The measu\u2026",
-      "url": "https://www.motherjones.com/politics/2026/11/bay-area-bart-measure-election/",
-      "source": "Mother Jones",
+      "title": "Incoming House Oversight Chair Has Two Words for 'Trump Crime Family' and Their Allies: 'Lawyer Up'",
+      "description": "After Democrats took back both chambers of the US Congress Tuesday, Rep. Robert Garcia, the incoming Democratic chair of the House Oversight Committee, had two words for President Donald Trump and his family: \u201cLawyer up.\u201dWith solid majorities in the House and\u2026",
+      "url": "https://www.commondreams.org/news/garcia-trump-lawyer-up",
+      "source": "Common Dreams",
       "date": "2026-11-04",
-      "image": "https://www.motherjones.com/wp-content/uploads/2026/11/bart-bay-area.jpg?w=1200&h=630&crop=1",
+      "image": "https://www.commondreams.org/media-library/image.jpg?id=68592137&width=1200&height=600&coordinates=0%2C416%2C0%2C417",
       "category": "market"
     }
   ],
@@ -530,15 +529,15 @@
     {
       "date": "2026-11-05",
       "week": "2026-W45",
-      "gold_10g": 124907.26,
-      "silver_kg": 158697.28,
-      "platinum_g": 4638.82,
-      "gold_usd_oz": 4105.88,
-      "silver_usd_oz": 52.17,
-      "platinum_usd_oz": 1524.85
+      "gold_10g": 125063.93,
+      "silver_kg": 159725.53,
+      "platinum_g": 4658.06,
+      "gold_usd_oz": 4111.02,
+      "silver_usd_oz": 52.5,
+      "platinum_usd_oz": 1531.17
     }
   ],
-  "timestamp": "2026-11-05T20:20:48.377144+05:30",
+  "timestamp": "2026-11-05T23:01:10.961709+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
