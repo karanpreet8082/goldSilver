@@ -1,24 +1,24 @@
 {
   "prices": {
     "gold": {
-      "price_per_gram_inr": 12353.0,
-      "price_usd_oz": 4064.25,
-      "change_percent": -0.59,
-      "change_value_usd": -24.32,
-      "price_per_10g_inr": 123530.02
+      "price_per_gram_inr": 12258.49,
+      "price_usd_oz": 4033.16,
+      "change_percent": -1.36,
+      "change_value_usd": -55.41,
+      "price_per_10g_inr": 122584.91
     },
     "silver": {
-      "price_per_gram_inr": 157.62,
-      "price_usd_oz": 51.86,
-      "change_percent": 0.13,
-      "change_value_usd": 0.07,
-      "price_per_kg_inr": 157624.82
+      "price_per_gram_inr": 156.33,
+      "price_usd_oz": 51.44,
+      "change_percent": -0.69,
+      "change_value_usd": -0.36,
+      "price_per_kg_inr": 156333.06
     },
     "platinum": {
-      "price_per_gram_inr": 4620.02,
-      "price_usd_oz": 1520.03,
-      "change_percent": 0.04,
-      "change_value_usd": 0.59
+      "price_per_gram_inr": 4616.45,
+      "price_usd_oz": 1518.86,
+      "change_percent": -0.04,
+      "change_value_usd": -0.59
     },
     "currencies": {
       "USD_INR": 94.5369,
@@ -30,8 +30,8 @@
       "CAD_INR": 67.5698,
       "SGD_INR": 73.9957
     },
-    "gold_silver_ratio": 78.37,
-    "timestamp": "2026-11-06T11:14:07.920030",
+    "gold_silver_ratio": 78.41,
+    "timestamp": "2026-11-06T14:28:36.666896",
     "source": "GoldAPI"
   },
   "currencies": {
@@ -53,32 +53,32 @@
         "sell": 65,
         "hold": 25
       },
-      "summary": "Gold is showing negative signals. Slight decline of -0.6%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-06T11:14:12.321643",
+      "summary": "Gold is showing negative signals. Significant daily drop of -1.4%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-11-06T14:28:41.123133",
       "source": "rule-based"
     },
     "silver": {
       "metal": "silver",
       "recommendation": "SELL",
       "confidence": {
-        "buy": 15,
-        "sell": 56,
-        "hold": 29
+        "buy": 10,
+        "sell": 65,
+        "hold": 25
       },
-      "summary": "Silver is showing negative signals. Positive daily movement of 0.1%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-06T11:14:12.459390",
+      "summary": "Silver is showing negative signals. Slight decline of -0.7%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-11-06T14:28:41.264190",
       "source": "rule-based"
     },
     "platinum": {
       "metal": "platinum",
       "recommendation": "SELL",
       "confidence": {
-        "buy": 15,
-        "sell": 56,
-        "hold": 29
+        "buy": 10,
+        "sell": 65,
+        "hold": 25
       },
-      "summary": "Platinum is showing negative signals. Positive daily movement of 0.0%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-06T11:14:12.528532",
+      "summary": "Platinum is showing negative signals. Slight decline of -0.0%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.",
+      "timestamp": "2026-11-06T14:28:41.390460",
       "source": "rule-based"
     }
   },
@@ -90,13 +90,13 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -3.7% in 4 weeks"
+        "Weak momentum: -4.5% in 4 weeks"
       ],
       "support": 118437.13,
       "resistance": 134616.17,
-      "current_price": 123530.02,
-      "ma_short": 125120.74,
-      "ma_long": 128881.29,
+      "current_price": 122584.91,
+      "ma_short": 124884.46,
+      "ma_long": 128802.53,
       "trend_score": -4.0
     },
     "silver": {
@@ -106,14 +106,14 @@
         "Price below 4-week moving average (bearish)",
         "Price below 12-week moving average (bearish)",
         "Short-term MA below long-term MA (downtrend)",
-        "Weak momentum: -15.7% in 4 weeks",
+        "Weak momentum: -16.4% in 4 weeks",
         "Near support \u2014 potential buy zone"
       ],
       "support": 150153.09,
       "resistance": 210317.38,
-      "current_price": 157624.82,
-      "ma_short": 170614.08,
-      "ma_long": 187414.75,
+      "current_price": 156333.06,
+      "ma_short": 170291.14,
+      "ma_long": 187307.11,
       "trend_score": -3.5
     },
     "platinum": {
@@ -128,13 +128,31 @@
       ],
       "support": 4387.55,
       "resistance": 5662.91,
-      "current_price": 4620.02,
-      "ma_short": 4879.09,
-      "ma_long": 5166.94,
+      "current_price": 4616.45,
+      "ma_short": 4878.2,
+      "ma_long": 5166.64,
       "trend_score": -3.5
     }
   },
   "news": [
+    {
+      "title": "India's 10-year bond posts best week in 7 years, leads emerging Asia as oil slides",
+      "description": "This week, Indian government bonds saw a remarkable performance, outpacing other Asian markets as benchmark yields dropped significantly. Following the Democratic win in the US midterms, crude prices fell sharply, enticing foreign investors back to purchase a significant volume of Indian bonds. This",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/indias-10-year-bond-posts-best-week-in-7-years-leads-emerging-asia-as-oil-slides/articleshow/135606792.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-11-06",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Copper falls for 4th day, heads for worst week since March on AI rout",
+      "description": "Copper prices have faced yet another decline, marking four consecutive sessions of decrease, primarily due to a dip in technology shares and rising concerns over artificial intelligence investments. The three-month copper rate on the London Metal Exchange fell to a low not seen since late July. Whil",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/copper-falls-for-4th-day-heads-for-worst-week-since-march-on-ai-rout/articleshow/135605625.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-11-06",
+      "image": "",
+      "category": "geopolitics"
+    },
     {
       "title": "Indian rupee strengthens past 94/$ as oil slides, foreign inflows return",
       "description": "The Indian rupee strengthened past 94 per dollar after regaining appeal among emerging-market currencies recently. Significant foreign inflows into Indian equities and a sharp fall in oil prices are key factors. Analysts suggest India's equity markets may attract global investments as concerns about",
@@ -145,19 +163,10 @@
       "category": "currency"
     },
     {
-      "title": "Rupee falls 9 paise to 94.50 against US dollar in early trade",
-      "description": "In early trading on Friday, the rupee slipped by 9 paise to reach 94.50 against the US dollar, driven by a robust dollar and surging crude oil prices. After a brief bounce-back, it peaked at 94.36. The domestic equity market exhibited mixed performance, with Sensex rising yet Nifty falling. Notably,",
-      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-falls-9-paise-to-94-50-against-us-dollar-in-early-trade/articleshow/135597848.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-11-06",
-      "image": "",
-      "category": "currency"
-    },
-    {
-      "title": "India bonds emerge as top Asian performers as oil, Treasury yields decline",
-      "description": "This week, Indian government bonds saw a positive trend following a Democratic win in the U.S. midterm elections. The reduction in oil prices and Treasury yields eased rupee pressure, boosting investor confidence. The benchmark bond yield improved significantly, declining by approximately 22 basis p",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-emerge-as-top-asian-performers-as-oil-treasury-yields-decline/articleshow/135597789.cms",
-      "source": "Economic Times Markets",
+      "title": "Gold drops 1% as strong US payrolls boost dollar, yields - Reuters",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQQVNBUlY0RkQ3Vm5qcDFmbS12Nlo0Wjd4RWNEWkROOFRSX0hha1VobWJkTW82YTM1QzNMUXlzX1V5bktiSHJDYklFR2ZDUnN4aEhGM3U0UmlRT3pDcjVFRkR5ak9IZ1NVbG4wempaX1Y0R2JXb0U2THRLcE80d0l1NFppQ3l5b2M4c3RQZU1sS1RNRHdiYmFsYmw0czRoUnVJRVJLNTl0VmVNODg3NWVR?oc=5\" target=",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQVNBUlY0RkQ3Vm5qcDFmbS12Nlo0Wjd4RWNEWkROOFRSX0hha1VobWJkTW82YTM1QzNMUXlzX1V5bktiSHJDYklFR2ZDUnN4aEhGM3U0UmlRT3pDcjVFRkR5ak9IZ1NVbG4wempaX1Y0R2JXb0U2THRLcE80d0l1NFppQ3l5b2M4c3RQZU1sS1RNRHdiYmFsYmw0czRoUnVJRVJLNTl0VmVNODg3NWVR?oc=5",
+      "source": "Google News - Precious Metals",
       "date": "2026-11-06",
       "image": "",
       "category": "currency"
@@ -170,6 +179,78 @@
       "date": "2026-11-06",
       "image": "",
       "category": "currency"
+    },
+    {
+      "title": "Gold, Silver, Stocks: Why Bonds Deserve a Place on Your Dhanteras Shopping List",
+      "description": "Traditionally, investors have turned to gold and silver on Dhanteras, but this trend is shifting. Recent fluctuations in these precious metals and stock equities have raised apprehensions over their reliability. Bonds present a viable alternative with their a\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/gold-silver-stocks-why-bonds-deserve-a-place-on-your-dhanteras-shopping-list/articleshow/135576862.cms",
+      "source": "The Times of India",
+      "date": "2026-11-05",
+      "image": "https://img.etimg.com/thumb/msid-135576907,width-1200,height-900,imgsize-600647,overlay-etmarkets/articleshow.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "Uranium Digital raises $16.5 million to bring uranium trading on-chain",
+      "description": "Tokenizing uranium trading could democratize access, enhance transparency, and streamline transactions, potentially transforming the energy sector.\nThe post Uranium Digital raises $16.5 million to bring uranium trading on-chain appeared first on Crypto Briefi\u2026",
+      "url": "https://cryptobriefing.com/uranium-digital-raises-series-a-tokenized-uranium/",
+      "source": "Crypto Briefing",
+      "date": "2026-11-05",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/05091153/library-uranium-digital-raises-16-5-million-to-bring-uranium-tra-800x450.png",
+      "category": "market"
+    },
+    {
+      "title": "As Big Tech bets on nuclear power, startup Uranium Digital raises $16.5 million to modernize uranium trading",
+      "description": "Blockchain Capital led the Series A for the startup, which uses blockchain to track ownership of physical uranium.",
+      "url": "https://fortune.com/2026/11/05/big-tech-nuclear-power-startup-uranium-digital-uranium-trading/",
+      "source": "Fortune",
+      "date": "2026-11-05",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/AVQ07867.jpg?resize=1200,600",
+      "category": "market"
+    },
+    {
+      "title": "Sovereign AI puts cash and compute behind UK startup using AI to redefine chemistry",
+      "description": "Potential Sciences, a British startup aiming to unlock the next big advance in how we use AI to design new medicines, has secured backing from Sovereign AI",
+      "url": "https://www.gov.uk/government/news/sovereign-ai-puts-cash-and-compute-behind-uk-startup-using-ai-to-redefine-chemistry",
+      "source": "Www.gov.uk",
+      "date": "2026-11-05",
+      "image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "category": "market"
+    },
+    {
+      "title": "Planning to buy gold this Dhanteras? Experts advise caution amid volatility",
+      "description": "Restore your target allocation to gold, maintain realistic return expectations, and be prepared for near-term volatility",
+      "url": "https://www.business-standard.com/markets/news/planning-to-buy-gold-this-dhanteras-experts-advise-caution-amid-volatility-126110501704_1.html",
+      "source": "Business Standard",
+      "date": "2026-11-05",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/04/thumb/featurecrop/1200X628/1793813101-7582.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "ISLAMIC FINANCE MUST TURN ETHICAL PRINCIPLES INTO TRUSTED INSTITUTIONS AND MEASURABLE IMPACT",
+      "description": "- Keynote speaker H.E. Mufti Muhammad Taqi Usmani said current Islamic financial structures are \"only a beginning\" and that permissibility alone doesn't settle ethical responsibility. - Asked what change the sector most needed, Usmani replied: \"A change of me\u2026",
+      "url": "https://www.prnewswire.co.uk/news-releases/islamic-finance-must-turn-ethical-principles-into-trusted-institutions-and-measurable-impact-302930683.html",
+      "source": "PR Newswire UK",
+      "date": "2026-11-05",
+      "image": "https://mmx.prnewswire.com/media/MS1760593/AlBaraka-Summits-London-Logo.jpg?id=OA3060373&p=facebook",
+      "category": "market"
+    },
+    {
+      "title": "Hundreds of bronze gravesite vases were stolen from cemeteries in Burnaby, British Columbia; police said some vases cost over $1,000 each",
+      "description": "Bronze gravesite vase thefts in Burnaby, British Columbia, prompted a police investigation after several hundred of the memorial fixtures were believed to",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/hundreds-of-bronze-gravesite-vases-were-stolen-from-cemeteries-in-burnaby-british-columbia-police-said-some-vases-cost-over-1000-each/articleshow/135568976.cms",
+      "source": "The Times of India",
+      "date": "2026-11-05",
+      "image": "https://static.toiimg.com/thumb/msid-135569232,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Cleaning your home this Diwali? Your finances need clean-up too: 10 key checks on money, investments, insurance and more",
+      "description": "Diwali cleaning is the perfect time to declutter not just your home but also your finances. A few key checks can help you organise your money and investments, review financial commitments, and bring greater clarity to your financial health.",
+      "url": "https://www.livemint.com/money/personal-finance/cleaning-your-home-this-diwali-your-finances-need-clean-up-too-10-key-checks-on-money-investments-insurance-and-more-11793875224882.html",
+      "source": "Livemint",
+      "date": "2026-11-05",
+      "image": "https://www.livemint.com/lm-img/img/2026/11/05/1600x900/logo/Diwali_Cleani_HoFinances_1793877753936_c4wf_1793877758242_i9Uz_686021e6-6eaf-439a-898d-f04fcd8035e4_rs3L.png",
+      "category": "market"
     },
     {
       "title": "US midterms impact on gold, silver ETFs: Why bullion is rallying after Trump's setback",
@@ -190,33 +271,6 @@
       "category": "metals"
     },
     {
-      "title": "Dhanteras 2026: Is gold's 30% correction a buying opportunity for you?",
-      "description": "Gold at Rs 1.4 lakh ahead of Dhanteras: Why Monarch sees long-term value",
-      "url": "https://www.business-standard.com/finance/personal-finance/dhanteras-2026-is-gold-s-30-correction-a-buying-opportunity-for-you-126110501142_1.html",
-      "source": "Business Standard",
-      "date": "2026-11-05",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/29/thumb/featurecrop/1200X628/1793278442-3371.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "From classroom to billion-dollar fortune: How Chinese siblings struck gold in the stock market",
-      "description": "Michael Mai and his sister, Mai Huixia, reached billionaire status following the public debut of Crown New Materials Technology on the Shenzhen Stock Exchange, where shares surged nearly eightfold in just one day. This company, known for producing adhesives f\u2026",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/from-classroom-to-billion-dollar-fortune-how-chinese-siblings-struck-gold-in-the-stock-market/articleshow/135568033.cms",
-      "source": "The Times of India",
-      "date": "2026-11-05",
-      "image": "https://static.toiimg.com/thumb/msid-135568721,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "category": "currency"
-    },
-    {
-      "title": "Bitcoin and gold surge after US elections, but $378 million short squeeze casts doubt on debasement trade",
-      "description": "Bitcoin's rally above $81,000 alongside gold has revived speculation that investors are seeking protection against the weakening US dollar. The largest cryptocurrency rebounded from about $75,600 on Nov. 4, while gold futures surged 3.4% to $4,061.10, their b\u2026",
-      "url": "https://cryptoslate.com/bitcoin-and-gold-surge-after-us-elections-but-378-million-short-squeeze-casts-doubt-on-debasement-trade/",
-      "source": "CryptoSlate",
-      "date": "2026-11-05",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-election-relief-breath.webp",
-      "category": "currency"
-    },
-    {
       "title": "Trump, Tzakri (\u201cWe\u2019re screwed!\u201d) and the election celebrations, the banker\u2019s immunity, Champions League (second half), propellers, oil and \u20ac300 million for UEFA",
       "description": "Hello there. Now, I\u2019m not a fan of extreme language, but in Trump\u2019s case, everything Theodora Tzakri has said from time to time about Tsipras applies: \u201cWe\u2019re screwed\u201d or \u201cWe\u2019ve been completely screwed,\u201d what can you do? The truth is that the results of yester\u2026",
       "url": "https://en.protothema.gr/2026/11/05/trump-tzakri-were-screwed-and-the-election-celebrations-the-bankers-immunity-champions-league-second-half-propellers-oil-and-e300-million-for-uefa/",
@@ -224,15 +278,6 @@
       "date": "2026-11-05",
       "image": "https://en.protothema.gr/wp-content/uploads/2024/06/ProtothemaEn.png",
       "category": "market"
-    },
-    {
-      "title": "Dhanteras, Diwali 2026 shopping guide: How do the costs of investing in gold ETFs differ from buying gold jewellery?",
-      "description": "Gold ETFs and physical jewellery offer different ways to buy gold this Dhanteras. But which is more cost-effective? Compare brokerage, expense ratio, making charges, GST and other costs to understand how much you pay upfront and over time.",
-      "url": "https://www.livemint.com/money/personal-finance/dhanteras-diwali-2026-shopping-guide-how-do-the-costs-of-investing-in-gold-etfs-differ-from-buying-gold-jewellery-11793868557274.html",
-      "source": "Livemint",
-      "date": "2026-11-05",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/05/1600x900/logo/goldds_1793869971790_ijhl_1793869975343_wPzp_202a7305-c05d-4851-b011-439d60a4ddd1_4n7Y.png",
-      "category": "metals"
     },
     {
       "title": "Silver on Dhanteras: Prices down 50% from peak, should investors buy now?",
@@ -262,148 +307,103 @@
       "category": "supply_demand"
     },
     {
-      "title": "Gold soars Rs. 13,300 per tola in Nepali market",
-      "description": "KATHMANDU: Gold and silver prices witnessed a sharp rise in the domestic market on Thursday, with gold increasing by Rs. 13,300 per tola and silver by Rs. 265 per tola. According to the Federation of Nepal Gold and Silver Dealers\u2019 Associations, the price of h\u2026",
-      "url": "https://english.khabarhub.com/2026/05/574556/",
-      "source": "Khabarhub.com",
+      "title": "Was Eliminating the Iran Nuclear Threat Worth the Political Price? Put Yourself in the President\u2019s Position",
+      "description": "Politicians and presidents sometimes make Faustian bargains. They make trade-offs. The stereotypical Faustian bargain is one in which someone sells his or her soul to the devil in exchange for money or fame. But let\u2019s say you\u2019re the president of the United St\u2026",
+      "url": "https://freerepublic.com/focus/f-news/4401912/posts",
+      "source": "Freerepublic.com",
       "date": "2026-11-05",
-      "image": "https://english.khabarhub.com/wp-content/uploads/2026/01/gold-shop-9.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "Gold Rates Today (November 5) Live: Gold, silver jump up to 2% on MCX. What should investors expect next?",
-      "description": "Gold Price Today Live: Gold and silver prices rallied up to 2% on the MCX, rebounding amid improved investor sentiment and renewed buying interest in the precious metals.",
-      "url": "https://m.economictimes.com/markets/stocks/live-blog/gold-price-today-live-updates-22k-24k-18k-gold-rate-mcx-gold-silver-rate-city-wise-date-latest-gold-news/liveblog/135558270.cms",
-      "source": "Economictimes.com",
-      "date": "2026-11-05",
-      "image": "https://economictimes.indiatimes.com/thumb/msid-135558270,width-1200,height-900,resizemode-4,imglength-1570434/markets/stocks/live-blog/gold-price-today-live-updates-22k-24k-18k-gold-rate-mcx-gold-silver-rate-city-wise-date-latest-gold-news.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "LG Electronics India Q2 net up 25.7% on balanced volume and value growth",
-      "description": "LG Electronics India posted a net profit of \u20b9489.3 crore in September quarter up 25.7 per cent over \u20b9389.4 crore in the year-ago period despite commodity pressures and rupee depreciation.",
-      "url": "https://www.thehindubusinessline.com/companies/lg-electronics-india-q2-net-up-257-on-balanced-volume-and-value-growth/article71669575.ece",
-      "source": "BusinessLine",
-      "date": "2026-11-05",
-      "image": "https://bl-i.thgim.com/public/incoming/u72vqv/article71669660.ece/alternates/LANDSCAPE_1200/2025-10-06T173227Z_704690429_RC2V2HAA0ZXK_RTRMADP_3_LG-ELECTRONICS-INDIA-IPO.JPG",
-      "category": "currency"
-    },
-    {
-      "title": "India, Israel vote against Pak-backed UN arms control resolution: Sources dismiss voting coordination",
-      "description": "India has voiced its opposition to a Pakistan-led UN resolution on regional arms control, asserting that arms control transcends regional boundaries. With approximately 180 nations endorsing it, both India and Israel stood alone in dissent. India reiterated i\u2026",
-      "url": "https://economictimes.indiatimes.com/news/defence/india-israel-vote-against-pak-backed-un-arms-control-resolution-sources-dismiss-voting-coordination/articleshow/135570728.cms",
-      "source": "The Times of India",
-      "date": "2026-11-05",
-      "image": "https://img.etimg.com/thumb/msid-135570806,width-1200,height-900,imgsize-317106,overlay-etdefence/articleshow.jpg",
+      "image": null,
       "category": "market"
     },
     {
-      "title": "\u015eim\u015fek says T\u00fcrkiye\u2019s economic program strengthened resilience",
-      "description": "The economic program has strengthened macroeconomic fundamentals and increased T\u00fcrkiye\u2019s resilience, Treasury and Finance Minister Mehmet \u015eim\u015fek said, adding that deviations from the program\u2019s targets remained limited despite the multiple shocks experienced i\u2026",
-      "url": "https://www.hurriyetdailynews.com/simsek-says-turkiyes-economic-program-strengthened-resilience-229061",
-      "source": "Hurriyet Daily News",
+      "title": "Open Channels FM: SUSE Cuts Jobs as AI Grows, E2E Fuels Open Source Testing and Drupal Seeks Sustainable Support",
+      "description": "SUSE navigates AI-driven job cuts, E2E gains traction in software validation, and Drupal weighs new approaches for shared maintenance.",
+      "url": "https://openchannels.fm/suse-cuts-jobs-as-ai-grows-e2e-fuels-open-source-testing-and-drupal-seeks-sustainable-support/",
+      "source": "Openchannels.fm",
       "date": "2026-11-05",
-      "image": "https://image.hurimg.com/i/hurriyet/75/200x200/6aec642a242372ca50175293.jpg",
-      "category": "market"
-    },
-    {
-      "title": "From Off-Road Travel to Nature Conservation: JETOUR Brings Its \"Travel+\" Ecosystem to Life",
-      "description": "For JETOUR, travel means more than discovering new places, it also means respecting and protecting the natural world. As its &quot;Travel+&quot; ecosystem ...",
-      "url": "https://en.antaranews.com/news/440515/from-off-road-travel-to-nature-conservation-jetour-brings-its-travel-ecosystem-to-life",
-      "source": "Antaranews.com",
-      "date": "2026-11-05",
-      "image": "https://cdn.antaranews.com/cache/1200x800/2026/11/05/OFF-ROAD.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Maggie Haberman, Claire McCaskill Name Who Trump Could Dump After Midterm Rout",
-      "description": "\u201cThis might be an easy move\u201d for Donald Trump to make, they argued.",
-      "url": "https://www.huffpost.com/entry/maggie-haberman-donald-trump-cabinet_n_6aec2b9ee4b0dcee62e2c6fa",
-      "source": "HuffPost",
-      "date": "2026-11-05",
-      "image": "https://img.huffingtonpost.com/asset/6aec62a01400001198e024df.jpeg?cache=8l8SrnRvyK&ops=500_281%2Cscalefit_1200_630",
-      "category": "market"
-    },
-    {
-      "title": "Adani Ports to acquire European storage major Evos for \u20ac2.56 billion",
-      "description": "The \u20ac2.56 billion all-cash acquisition will give Adani Ports a presence across eight liquid storage terminals in five European countries, expanding its global network to 28 ports and terminals.",
-      "url": "https://www.business-standard.com/companies/news/adani-ports-to-acquire-european-storage-major-evos-for-2-56-billion-126110501294_1.html",
-      "source": "Business Standard",
-      "date": "2026-11-05",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-07/10/thumb/fitandfill/1200X628/1783659979-5106.jpg",
-      "category": "currency"
-    },
-    {
-      "title": "Lennie James goes Nightswimming with Two Brothers in ITV thriller",
-      "description": "UK commercial broadcaster ITV has commissioned an original thriller called Nightswimming from screenwriter siblings Harry and Jack Williams and their production company Two Brothers Pictures. Nightswim...",
-      "url": "https://www.c21media.net/news/lennie-james-goes-nightswimming-with-two-brothers-in-itv-thriller/",
-      "source": "C21media.net",
-      "date": "2026-11-05",
-      "image": "https://cdn.c21media.net/wp-content/uploads/2026/11/lennie-james-credit-anthony-francis-ls.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "worldmonitor v2.11.8",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "url": "https://kitploit.com/en/posts/worldmonitor-f1c4654e06d3a5a0",
-      "source": "Kitploit.com",
-      "date": "2026-11-05",
-      "image": "https://assets.kitploit.com/production/public/tools/215/5ee3464b0ae300afa22fa82091d61f50128036ecf8d1b6860d2d104fd089d7ba.jpg",
+      "image": "https://i0.wp.com/openchannels.fm/wp-content/uploads/2026/11/Episode-839.jpg?resize=1200%2C1200&quality=89&ssl=1",
       "category": "geopolitics"
     },
     {
-      "title": "White House official details what gets Trump\u2019s attention in intelligence briefings",
-      "description": "President Trump receives photos of drug seizures during briefings and presses officials on protecting individual victims amid the sweeping cartel crackdown.",
-      "url": "https://www.foxnews.com/politics/white-house-official-details-what-gets-trumps-attention-intelligence-briefings",
-      "source": "Fox News",
+      "title": "Estrella del Mar returns to the next Monday Night Foodball",
+      "description": "Star Urquidi will fuck up a pizza, a Polish, fried rice, or wings, \u201cbecause that\u2019s what Latinos in Chicago eat,\u201d she says. As the new chef behind the Wicker Park Korean street food spot Seoul Stick, she will also fuck up a Flamin\u2019 Hot Cheetos\u2013crusted corn dog\u2026",
+      "url": "https://chicagoreader.com/food/monday-night-foodball/estrella-del-mar-star-urquidi-miya-medina-mexican-hawaiian-food-thattu/",
+      "source": "Chicago Reader",
       "date": "2026-11-05",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/White-House-Exclusive-task-force-against-transnational-gangs.jpg",
+      "image": "https://chicagoreader.com/wp-content/uploads/2026/11/IMG_7693.jpeg",
       "category": "market"
     },
     {
-      "title": "Oil Prices Tumble After Midterms",
-      "description": "Oil prices 'tumbled' eight percent yesterday following the U.S. midterm elections, Saxo Bank highlighted.",
-      "url": "https://www.rigzone.com/news/oil_prices_tumble_after_midterms-05-nov-2026-185014-article/",
-      "source": "Rigzone",
+      "title": "Democratic sweep puts crypto on defensive in Washington",
+      "description": "Democrats in Congress could impose tougher rules on crypto and investigate President Donald Trump, ushering in a tougher era for the industry.",
+      "url": "https://www.cnbc.com/2026/11/05/crypto-midterms-democrats-clarity-act.html",
+      "source": "CNBC",
       "date": "2026-11-05",
-      "image": "https://images.rigzone.com/images/news/articles/Oil-Prices-Tumble-After-Midterms-185014-1200x628.png",
+      "image": "https://image.cnbcfm.com/api/v1/image/108503920-1793626236128-gettyimages-2302713434-AFP_D66N3CZ.jpeg?v=1793626603&w=1920&h=1080",
       "category": "market"
     },
     {
-      "title": "Get Ready for the Great Democratic Judicial Blockade",
-      "description": "Some earthquakes are felt with greatest force far from their epicenter.",
-      "url": "https://slate.com/news-and-politics/2026/11/midterms-2026-trump-judges-alito-thomas-retirement.html",
-      "source": "Slate Magazine",
+      "title": "Why Mark Carney is still betting big on Europe",
+      "description": "Canada and the EU have found in each other stable liberal partners who take democracy seriously.",
+      "url": "https://theconversation.com/why-mark-carney-is-still-betting-big-on-europe-295647",
+      "source": "The Conversation Africa",
       "date": "2026-11-05",
-      "image": "https://compote.slate.com/images/8775644f-4ec8-49ac-af83-84220e4f1851.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+      "image": "https://images.theconversation.com/files/770059/original/file-20261104-78-f7ymca.JPG?ixlib=rb-4.1.1&rect=0%2C63%2C3635%2C1817&q=45&auto=format&w=1356&h=668&fit=crop",
+      "category": "currency"
+    },
+    {
+      "title": "From church pews to ballroom floors, AGO\u2019s \u2018Sunday Best\u2019 showcases the power and glory of Black style",
+      "description": "The Art Gallery of Ontario\u2019s \u2018Sunday Best\u2019 gathers a century of Black style, from churches to ballrooms, and reveals dressing well as an ethic of dignity and care.",
+      "url": "https://theconversation.com/from-church-pews-to-ballroom-floors-agos-sunday-best-showcases-the-power-and-glory-of-black-style-293182",
+      "source": "The Conversation Africa",
+      "date": "2026-11-05",
+      "image": "https://images.theconversation.com/files/769810/original/file-20261103-78-h0jc25.jpg?ixlib=rb-4.1.1&rect=0%2C60%2C1920%2C960&q=45&auto=format&w=1356&h=668&fit=crop",
       "category": "market"
     },
     {
-      "title": "Why Challenges to a Fair Count in Mississippi and Alaska Will Fall Flat",
-      "description": "The margins mean that election meddling just doesn\u2019t make sense.",
-      "url": "https://slate.com/news-and-politics/2026/11/republicans-mississippi-alaska-results-recount-fraud-fight-2026-midterms.html",
-      "source": "Slate Magazine",
+      "title": "How football, smartphones and mobile money drive youth sports betting in Africa",
+      "description": "We should not assume that young people see betting simply as entertainment.",
+      "url": "https://theconversation.com/how-football-smartphones-and-mobile-money-drive-youth-sports-betting-in-africa-290999",
+      "source": "The Conversation Africa",
       "date": "2026-11-05",
-      "image": "https://compote.slate.com/images/27623b0a-28ed-497e-b5f3-fffdda39123e.jpeg?crop=1403%2C936%2Cx0%2Cy0&width=1560",
+      "image": "https://images.theconversation.com/files/768508/original/file-20261027-63-ckfjb7.jpg?ixlib=rb-4.1.1&rect=0%2C150%2C2670%2C1335&q=45&auto=format&w=1356&h=668&fit=crop",
       "category": "market"
     },
     {
-      "title": "Christmas mortgage misery as BoE poised to hike interest rates today - wiping out Labour's cost of living help - despite oil price tumbling after Trump midterms meltdown",
-      "description": "The Monetary Policy Committee is regarded as nailed on to hike the base rate by 0.25 percentage points at noon, to 4 per cent.",
-      "url": "https://www.dailymail.com/news/article-16267609/Christmas-mortgages-economy-tax-rates-Trump-midterms.html",
-      "source": "Dailymail.com",
+      "title": "Donor aid models don\u2019t determine food security in Zambia, but local farming practices do",
+      "description": "Local realities matter more than donor aid models when it comes to food security for households in eastern Zambia.",
+      "url": "https://theconversation.com/donor-aid-models-dont-determine-food-security-in-zambia-but-local-farming-practices-do-295174",
+      "source": "The Conversation Africa",
       "date": "2026-11-05",
-      "image": "https://i.dailymail.com/1s/2026/11/05/10/112318663-0-image-a-27_1793873426927.jpg",
+      "image": "https://images.theconversation.com/files/768349/original/file-20261026-62-rm9yvc.jpg?ixlib=rb-4.1.1&rect=0%2C787%2C2866%2C1433&q=45&auto=format&w=1356&h=668&fit=crop",
+      "category": "market"
+    },
+    {
+      "title": "Fed\u2019s Barkin: AI investments contributing to near-term inflation pressures",
+      "description": "AI-driven inflation pressures may prompt the Fed to consider further rate hikes, impacting economic growth and monetary policy strategies.\nThe post Fed\u2019s Barkin: AI investments contributing to near-term inflation pressures appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/feds-barkin-ai-investments-contributing-to-near-term-inflation-pressures/",
+      "source": "Crypto Briefing",
+      "date": "2026-11-05",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/05092731/library-fed-s-barkin-ai-investments-contributing-to-near-term-in-1-800x450.png",
       "category": "central_bank"
     },
     {
-      "title": "Gold and silver prices jump, dollar dips as Democrats take control of Congress - CNBC",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1vZWlTQ2F2aWtGb012RVY2UHM5WlgtMDhpWU5FVFRtQTQ0Yld1NURka05Zd054LWFveWFJV3JwSThqNzg5NTR5Z0RhTUVDWkhQOXFNNVNJb29vSHFLMmZNUnB4TF9rVldRRG9VQ2MzTEJNRUdrcHZyN014aFNaZ9IBgwFBVV95cUxNUExBejVyMG8zamR1cjA4VXpSbkc1UE41dXMwd1JKLTVpSTRVNDJFUDRFWWc3U1FuT2",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vZWlTQ2F2aWtGb012RVY2UHM5WlgtMDhpWU5FVFRtQTQ0Yld1NURka05Zd054LWFveWFJV3JwSThqNzg5NTR5Z0RhTUVDWkhQOXFNNVNJb29vSHFLMmZNUnB4TF9rVldRRG9VQ2MzTEJNRUdrcHZyN014aFNaZ9IBgwFBVV95cUxNUExBejVyMG8zamR1cjA4VXpSbkc1UE41dXMwd1JKLTVpSTRVNDJFUDRFWWc3U1FuT2tPV05qMUlMMDRUNnJwRlBxYXRHLVBLTW44RTc2Vzcta1BHZ19BWnNPY0kzcEp2LW5iMzN3ZUJKM19vRE8wZjVlUEgtb3ZaSENiNA?oc=5",
-      "source": "Google News - Precious Metals",
-      "date": "2026-11-04",
-      "image": "",
-      "category": "currency"
+      "title": "Hegseth\u2019s Wife Was Paid by Lockheed-Tied Firm and His Book Money Vanished From His Filings, Records Show",
+      "description": "A Military.com review of four Hegseth filings shows where his wife's consulting money came from and what is now missing from his disclosures.",
+      "url": "https://military.com/hegseths-wife-was-paid-by-lockheed-tied-firm-and-his-book-money-vanished-from-his-filings-records-show",
+      "source": "Military.com",
+      "date": "2026-11-05",
+      "image": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/11/9449923.jpg?w=1600&h=900&fit=crop",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Lesbian combat veteran Cait Conley unseats Republican Mike Lawler in New York U.S. House race",
+      "description": "New York voters have elected Cait Conley to Congress, sending a lesbian Army combat veteran who served under \u201cdon\u2019t ask, don\u2019t tell\u201d to Washington and flipping a Republican-held House seat.",
+      "url": "https://www.advocate.com/politics/election/cait-conley-mike-lawler-results",
+      "source": "Advocate.com",
+      "date": "2026-11-05",
+      "image": "https://www.advocate.com/media-library/cait-conley.jpg?id=68564957&width=1200&height=600&coordinates=0%2C39%2C0%2C39",
+      "category": "market"
     }
   ],
   "history": [
@@ -530,15 +530,15 @@
     {
       "date": "2026-11-06",
       "week": "2026-W45",
-      "gold_10g": 123530.02,
-      "silver_kg": 157624.82,
-      "platinum_g": 4620.02,
-      "gold_usd_oz": 4064.25,
-      "silver_usd_oz": 51.86,
-      "platinum_usd_oz": 1520.03
+      "gold_10g": 122584.91,
+      "silver_kg": 156333.06,
+      "platinum_g": 4616.45,
+      "gold_usd_oz": 4033.16,
+      "silver_usd_oz": 51.44,
+      "platinum_usd_oz": 1518.86
     }
   ],
-  "timestamp": "2026-11-06T16:44:12.536147+05:30",
+  "timestamp": "2026-11-06T19:58:41.399824+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
