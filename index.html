@@ -1,0 +1,1259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="color-scheme" content="dark only">
+    <title>Gold Silver Platinum — Bullion Dashboard</title>
+    <style>
+        :root {
+            --bg: #0d1117;
+            --card: #161b22;
+            --card-alt: #1c2128;
+            --border: #30363d;
+            --text: #e6edf3;
+            --muted: #8b949e;
+            --gold: #FFD700;
+            --silver: #C0C0C0;
+            --platinum: #E5E4E2;
+            --buy: #2ea043;
+            --sell: #da3633;
+            --hold: #d29922;
+            --info: #58a6ff;
+            --shadow: 0 18px 40px rgba(1, 4, 9, 0.28);
+            --radius: 18px;
+            --container: 1260px;
+        }
+        * { box-sizing: border-box; }
+        body {
+            margin: 0;
+            min-height: 100vh;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+            color: var(--text);
+            background:
+                radial-gradient(circle at top left, rgba(255, 215, 0, 0.08), transparent 24%),
+                radial-gradient(circle at top right, rgba(88, 166, 255, 0.08), transparent 28%),
+                linear-gradient(180deg, #0d1117 0%, #0b1016 100%);
+        }
+        a { color: inherit; }
+        button, input, select, textarea { font: inherit; }
+        .shell { min-height: 100vh; }
+        .header-wrap, .content, .footer-wrap, .tab-bar { max-width: var(--container); margin: 0 auto; }
+        .header-wrap { padding: 28px 20px 20px; }
+        .hero {
+            padding: 28px;
+            border-radius: calc(var(--radius) + 4px);
+            border: 1px solid rgba(48, 54, 61, 0.95);
+            background: linear-gradient(180deg, rgba(22, 27, 34, 0.96), rgba(22, 27, 34, 0.84));
+            box-shadow: var(--shadow);
+            backdrop-filter: blur(12px);
+        }
+        .hero-row {
+            display: flex;
+            align-items: flex-start;
+            justify-content: space-between;
+            gap: 24px;
+            flex-wrap: wrap;
+        }
+        .hero h1 {
+            margin: 0;
+            font-size: clamp(2rem, 4vw, 3rem);
+            line-height: 1.05;
+            letter-spacing: -0.03em;
+        }
+        .hero p {
+            margin: 10px 0 0;
+            color: var(--muted);
+            max-width: 760px;
+            line-height: 1.6;
+        }
+        .hero-pills {
+            margin-top: 18px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        .pill {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 10px 14px;
+            border-radius: 999px;
+            background: rgba(110, 118, 129, 0.12);
+            border: 1px solid rgba(110, 118, 129, 0.24);
+            font-size: 0.92rem;
+        }
+        .pill.muted { color: var(--muted); }
+        .hero-side {
+            min-width: 240px;
+            display: grid;
+            gap: 12px;
+        }
+        .hero-stat {
+            padding: 14px 16px;
+            border-radius: 16px;
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(48, 54, 61, 0.9);
+        }
+        .hero-stat .label {
+            color: var(--muted);
+            font-size: 0.8rem;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            margin-bottom: 6px;
+        }
+        .hero-stat .value { font-weight: 700; }
+        .tabs-sticky {
+            position: sticky;
+            top: 0;
+            z-index: 50;
+            background: rgba(13, 17, 23, 0.84);
+            backdrop-filter: blur(14px);
+            border-top: 1px solid rgba(48, 54, 61, 0.45);
+            border-bottom: 1px solid rgba(48, 54, 61, 0.9);
+        }
+        .tab-bar {
+            display: flex;
+            gap: 8px;
+            overflow-x: auto;
+            padding: 10px 20px;
+        }
+        .tab-btn {
+            border: 1px solid transparent;
+            background: transparent;
+            color: var(--muted);
+            padding: 12px 16px;
+            border-radius: 12px;
+            cursor: pointer;
+            font-weight: 700;
+            white-space: nowrap;
+        }
+        .tab-btn:hover {
+            color: var(--text);
+            background: rgba(110, 118, 129, 0.12);
+        }
+        .tab-btn.active {
+            color: var(--text);
+            background: rgba(88, 166, 255, 0.16);
+            border-color: rgba(88, 166, 255, 0.35);
+        }
+        .content { padding: 24px 20px 40px; }
+        .panel { display: none; animation: fadeIn 0.24s ease; }
+        .panel.active { display: block; }
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(8px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .section, .card, .table-card {
+            border-radius: var(--radius);
+            border: 1px solid rgba(48, 54, 61, 0.92);
+            background: linear-gradient(180deg, rgba(22, 27, 34, 0.97), rgba(19, 24, 31, 0.94));
+            box-shadow: var(--shadow);
+        }
+        .section, .card { padding: 24px; }
+        .section-head {
+            display: flex;
+            align-items: flex-end;
+            justify-content: space-between;
+            gap: 18px;
+            flex-wrap: wrap;
+            margin-bottom: 18px;
+        }
+        .section-head h2, .section-head h3 { margin: 0; }
+        .section-head p {
+            margin: 6px 0 0;
+            color: var(--muted);
+            line-height: 1.5;
+        }
+        .small-note { color: var(--muted); font-size: 0.92rem; line-height: 1.5; }
+        .grid { display: grid; gap: 18px; }
+        .price-grid, .recommendation-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+        .dashboard-grid { margin-top: 18px; grid-template-columns: repeat(3, minmax(0, 1fr)); }
+        .summary-grid { grid-template-columns: repeat(7, minmax(0, 1fr)); }
+        .forms-grid { margin-top: 18px; grid-template-columns: 1.4fr 1fr 1fr; align-items: start; }
+        .news-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 18px; }
+        .price-card {
+            position: relative;
+            overflow: hidden;
+            padding: 22px;
+            border-radius: var(--radius);
+            border: 1px solid rgba(48, 54, 61, 0.95);
+            background: linear-gradient(180deg, rgba(22, 27, 34, 0.98), rgba(19, 24, 31, 0.94));
+        }
+        .price-card::before {
+            content: "";
+            position: absolute;
+            inset: 0 auto 0 0;
+            width: 4px;
+            background: var(--accent-color, var(--info));
+        }
+        .price-card:hover, .card:hover, .table-card:hover, .news-card:hover { transform: translateY(-2px); transition: transform 0.18s ease; }
+        .metal-head {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 12px;
+            margin-bottom: 14px;
+        }
+        .metal-title {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-size: 1.12rem;
+            font-weight: 800;
+        }
+        .metal-price {
+            font-size: clamp(1.5rem, 3vw, 2.2rem);
+            font-weight: 800;
+            letter-spacing: -0.03em;
+            margin-bottom: 8px;
+        }
+        .sub-price { color: var(--muted); font-size: 0.96rem; margin-bottom: 18px; }
+        .meta-list { display: grid; gap: 12px; }
+        .meta-row {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 14px;
+            padding-top: 10px;
+            border-top: 1px solid rgba(48, 54, 61, 0.65);
+            font-size: 0.95rem;
+        }
+        .meta-row .label { color: var(--muted); }
+        .badge {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            padding: 7px 12px;
+            border-radius: 999px;
+            border: 1px solid transparent;
+            font-size: 0.78rem;
+            font-weight: 800;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+        .badge.buy { background: rgba(46, 160, 67, 0.14); color: #3fb950; border-color: rgba(46, 160, 67, 0.28); }
+        .badge.sell { background: rgba(218, 54, 51, 0.14); color: #ff7b72; border-color: rgba(218, 54, 51, 0.28); }
+        .badge.hold { background: rgba(210, 153, 34, 0.14); color: #e3b341; border-color: rgba(210, 153, 34, 0.28); }
+        .badge.source { background: rgba(88, 166, 255, 0.12); color: #79c0ff; border-color: rgba(88, 166, 255, 0.22); }
+        .badge.large { font-size: 1.08rem; padding: 10px 16px; }
+        .badge.category-metals { background: rgba(255, 215, 0, 0.14); color: #f2cc60; border-color: rgba(255, 215, 0, 0.24); }
+        .badge.category-geopolitics { background: rgba(121, 192, 255, 0.14); color: #79c0ff; border-color: rgba(121, 192, 255, 0.24); }
+        .badge.category-central-bank { background: rgba(163, 113, 247, 0.16); color: #d2a8ff; border-color: rgba(163, 113, 247, 0.26); }
+        .badge.category-currency { background: rgba(56, 139, 253, 0.16); color: #58a6ff; border-color: rgba(56, 139, 253, 0.24); }
+        .badge.category-inflation { background: rgba(210, 153, 34, 0.16); color: #e3b341; border-color: rgba(210, 153, 34, 0.26); }
+        .badge.category-supply-demand { background: rgba(63, 185, 80, 0.14); color: #3fb950; border-color: rgba(63, 185, 80, 0.24); }
+        .badge.category-market { background: rgba(110, 118, 129, 0.16); color: #c9d1d9; border-color: rgba(110, 118, 129, 0.26); }
+        .positive { color: #3fb950; }
+        .negative { color: #ff7b72; }
+        .neutral { color: var(--muted); }
+        .change { display: inline-flex; align-items: center; gap: 6px; font-weight: 700; }
+        .mini-stats { display: grid; gap: 12px; }
+        .mini-stat {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 14px;
+            padding: 12px 14px;
+            border-radius: 14px;
+            background: rgba(255, 255, 255, 0.025);
+            border: 1px solid rgba(48, 54, 61, 0.7);
+        }
+        .mini-stat .name { color: var(--muted); font-size: 0.92rem; }
+        .mini-stat .value { font-weight: 700; text-align: right; }
+        .quick-recs { display: flex; flex-wrap: wrap; gap: 10px; }
+        .quick-item {
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            padding: 10px 12px;
+            border-radius: 14px;
+            border: 1px solid rgba(48, 54, 61, 0.8);
+            background: rgba(255, 255, 255, 0.03);
+        }
+        .table-card { margin-top: 18px; overflow: hidden; }
+        .table-scroll { overflow-x: auto; }
+        table { width: 100%; border-collapse: collapse; }
+        th, td {
+            text-align: left;
+            padding: 14px 16px;
+            border-bottom: 1px solid rgba(48, 54, 61, 0.75);
+            vertical-align: top;
+        }
+        th {
+            color: var(--muted);
+            font-size: 0.84rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.06em;
+            background: rgba(255, 255, 255, 0.02);
+        }
+        tr:last-child td { border-bottom: none; }
+        .rec-card { display: flex; flex-direction: column; gap: 18px; }
+        .rec-head {
+            display: flex;
+            align-items: flex-start;
+            justify-content: space-between;
+            gap: 16px;
+            flex-wrap: wrap;
+        }
+        .rec-title { display: flex; flex-direction: column; gap: 8px; }
+        .rec-title h3 { margin: 0; font-size: 1.35rem; }
+        .confidence-wrap { display: grid; gap: 10px; }
+        .confidence-bar {
+            height: 14px;
+            overflow: hidden;
+            border-radius: 999px;
+            background: rgba(110, 118, 129, 0.18);
+            border: 1px solid rgba(48, 54, 61, 0.7);
+            display: flex;
+        }
+        .seg.buy { background: linear-gradient(90deg, rgba(46, 160, 67, 0.92), rgba(63, 185, 80, 0.82)); }
+        .seg.hold { background: linear-gradient(90deg, rgba(210, 153, 34, 0.92), rgba(227, 179, 65, 0.82)); }
+        .seg.sell { background: linear-gradient(90deg, rgba(218, 54, 51, 0.92), rgba(255, 123, 114, 0.82)); }
+        .legend { display: flex; flex-wrap: wrap; gap: 12px; font-size: 0.9rem; color: var(--muted); }
+        .legend-item { display: inline-flex; align-items: center; gap: 8px; }
+        .dot { width: 10px; height: 10px; border-radius: 999px; }
+        .dot.buy { background: var(--buy); }
+        .dot.hold { background: var(--hold); }
+        .dot.sell { background: var(--sell); }
+        .summary-text { color: #d0d7de; line-height: 1.72; }
+        .tech-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
+        .tech-box {
+            padding: 16px;
+            border-radius: 16px;
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(48, 54, 61, 0.75);
+        }
+        .tech-box h4 { margin: 0 0 8px; font-size: 0.95rem; }
+        .signal-list { margin: 0; padding-left: 18px; line-height: 1.65; color: #d0d7de; }
+        .signal-list li + li { margin-top: 6px; }
+        .summary-stat {
+            padding: 18px;
+            border-radius: 18px;
+            border: 1px solid rgba(48, 54, 61, 0.82);
+            background: linear-gradient(180deg, rgba(28, 33, 40, 0.96), rgba(22, 27, 34, 0.92));
+        }
+        .summary-stat .label {
+            color: var(--muted);
+            font-size: 0.84rem;
+            text-transform: uppercase;
+            letter-spacing: 0.06em;
+        }
+        .summary-stat .value { margin-top: 10px; font-size: 1.22rem; font-weight: 800; line-height: 1.25; }
+        .summary-stat .sub { margin-top: 8px; font-size: 0.9rem; color: var(--muted); }
+        .toolbar {
+            margin-top: 18px;
+            padding: 16px 18px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 12px;
+            flex-wrap: wrap;
+        }
+        .toolbar-actions { display: flex; gap: 10px; flex-wrap: wrap; }
+        .btn {
+            appearance: none;
+            border: 1px solid rgba(48, 54, 61, 0.85);
+            border-radius: 12px;
+            padding: 11px 14px;
+            background: #21262d;
+            color: var(--text);
+            cursor: pointer;
+            font-weight: 700;
+        }
+        .btn:hover { border-color: rgba(88, 166, 255, 0.5); background: #262c36; }
+        .btn-primary { background: rgba(88, 166, 255, 0.16); border-color: rgba(88, 166, 255, 0.34); }
+        .btn-success { background: rgba(46, 160, 67, 0.15); border-color: rgba(46, 160, 67, 0.34); }
+        .btn-danger { background: rgba(218, 54, 51, 0.14); border-color: rgba(218, 54, 51, 0.34); }
+        .btn-secondary { background: rgba(110, 118, 129, 0.12); border-color: rgba(110, 118, 129, 0.3); }
+        .form-card h3 { margin: 0 0 6px; font-size: 1.15rem; }
+        .form-card p { margin: 0 0 18px; color: var(--muted); line-height: 1.5; }
+        .form-grid { display: grid; gap: 14px; }
+        .field { display: grid; gap: 8px; }
+        .field label { color: var(--muted); font-size: 0.92rem; }
+        .field input, .field select, .field textarea {
+            width: 100%;
+            border: 1px solid rgba(48, 54, 61, 0.9);
+            border-radius: 12px;
+            padding: 12px 14px;
+            background: #0d1117;
+            color: var(--text);
+            outline: none;
+        }
+        .field input:focus, .field select:focus, .field textarea:focus {
+            border-color: rgba(88, 166, 255, 0.6);
+            box-shadow: 0 0 0 3px rgba(88, 166, 255, 0.12);
+        }
+        .field textarea { min-height: 112px; resize: vertical; }
+        .inline-note { color: var(--muted); font-size: 0.85rem; }
+        .hidden { display: none !important; }
+        .empty {
+            padding: 28px;
+            text-align: center;
+            color: var(--muted);
+        }
+        .empty strong { display: block; color: var(--text); margin-bottom: 6px; font-size: 1.05rem; }
+        .status {
+            margin-top: 18px;
+            padding: 12px 14px;
+            border-radius: 14px;
+            border: 1px solid rgba(48, 54, 61, 0.85);
+            background: rgba(255, 255, 255, 0.03);
+        }
+        .status.success { border-color: rgba(46, 160, 67, 0.35); background: rgba(46, 160, 67, 0.12); }
+        .status.error { border-color: rgba(218, 54, 51, 0.35); background: rgba(218, 54, 51, 0.12); }
+        .status.info { border-color: rgba(88, 166, 255, 0.34); background: rgba(88, 166, 255, 0.11); }
+        .news-card {
+            padding: 20px;
+            border-radius: var(--radius);
+            border: 1px solid rgba(48, 54, 61, 0.85);
+            background: linear-gradient(180deg, rgba(22, 27, 34, 0.96), rgba(19, 24, 31, 0.92));
+            display: flex;
+            flex-direction: column;
+            gap: 14px;
+            min-height: 100%;
+        }
+        .news-title { font-size: 1.05rem; font-weight: 800; line-height: 1.45; text-decoration: none; }
+        .news-title:hover { color: #79c0ff; }
+        .news-desc { color: #d0d7de; line-height: 1.65; flex: 1; }
+        .news-meta {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 12px;
+            flex-wrap: wrap;
+            color: var(--muted);
+            font-size: 0.9rem;
+        }
+        .filters { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 18px; }
+        .filter-btn {
+            border: 1px solid rgba(48, 54, 61, 0.85);
+            background: rgba(255, 255, 255, 0.03);
+            color: var(--muted);
+            padding: 10px 13px;
+            border-radius: 999px;
+            cursor: pointer;
+            font-weight: 700;
+        }
+        .filter-btn:hover, .filter-btn.active {
+            color: var(--text);
+            border-color: rgba(88, 166, 255, 0.4);
+            background: rgba(88, 166, 255, 0.14);
+        }
+        .sell-info {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 12px;
+            flex-wrap: wrap;
+            margin-bottom: 12px;
+            padding: 12px 14px;
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(48, 54, 61, 0.75);
+            border-radius: 14px;
+        }
+        .footer-wrap { padding: 0 20px 34px; }
+        .footer {
+            padding: 18px 20px;
+            border-radius: var(--radius);
+            border: 1px solid rgba(48, 54, 61, 0.92);
+            background: linear-gradient(180deg, rgba(22, 27, 34, 0.94), rgba(18, 22, 28, 0.94));
+            color: var(--muted);
+            display: flex;
+            justify-content: space-between;
+            gap: 18px;
+            flex-wrap: wrap;
+            line-height: 1.6;
+        }
+        .footer strong { color: var(--text); }
+        @media (max-width: 1180px) {
+            .summary-grid { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+            .price-grid, .dashboard-grid, .recommendation-grid, .forms-grid, .news-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+        }
+        @media (max-width: 860px) {
+            .summary-grid, .price-grid, .dashboard-grid, .recommendation-grid, .forms-grid, .tech-grid, .news-grid { grid-template-columns: 1fr; }
+            .hero, .section, .card, .price-card, .news-card { padding: 18px; }
+            .tab-bar { padding-left: 12px; padding-right: 12px; }
+            th, td { padding: 12px 10px; font-size: 0.92rem; }
+        }
+    </style>
+</head>
+<body>
+<div class="shell">
+    <header class="header-wrap">
+        <div class="hero">
+            <div class="hero-row">
+                <div>
+                    <h1>Gold Silver Platinum — Bullion Dashboard</h1>
+                    <p>Interactive bullion spot dashboard for Gold, Silver and Platinum with market recommendations, local portfolio tracking and curated macro news.</p>
+                    <div class="hero-pills">
+                        <span class="pill"><strong>Last updated:</strong> <span id="headerTimestamp">07 Nov 2026, 06:53 PM</span></span>
+                        <span class="pill muted">Bullion spot rates only — no GST or jewellery making charges</span>
+                        <span class="pill"><strong>Source:</strong> <span id="headerSource">GoldAPI</span></span>
+                    </div>
+                </div>
+                <div class="hero-side">
+                    <div class="hero-stat"><div class="label">Schedule</div><div class="value" id="headerSchedule">4× daily (9 AM, 12 PM, 3 PM, 6 PM IST)</div></div>
+                    <div class="hero-stat"><div class="label">Timezone</div><div class="value" id="headerTimezone">Asia/Kolkata</div></div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="tabs-sticky">
+        <nav class="tab-bar" aria-label="Dashboard tabs">
+            <button class="tab-btn active" data-tab="dashboard">📊 Dashboard</button>
+            <button class="tab-btn" data-tab="recommendations">📈 Recommendations</button>
+            <button class="tab-btn" data-tab="portfolio">💼 Portfolio</button>
+            <button class="tab-btn" data-tab="news">📰 News</button>
+        </nav>
+    </div>
+
+    <main class="content">
+        <section class="panel active" id="tab-dashboard">
+            <div class="section">
+                <div class="section-head">
+                    <div>
+                        <h2>Today's bullion snapshot</h2>
+                        <p>Domestic and international bullion prices, quick signals and currency context.</p>
+                    </div>
+                    <div class="small-note">Rates shown are bullion references only.</div>
+                </div>
+                <div class="grid price-grid" id="metalPriceCards"></div>
+                <div class="grid dashboard-grid">
+                    <div class="card">
+                        <div class="section-head" style="margin-bottom:12px;">
+                            <div><h3>Gold / Silver ratio</h3><p>Relative value gauge between gold and silver.</p></div>
+                        </div>
+                        <div class="metal-price" id="goldSilverRatio">—</div>
+                        <div class="small-note" id="ratioInsight">Ratio insight will appear here.</div>
+                    </div>
+                    <div class="card">
+                        <div class="section-head" style="margin-bottom:12px;">
+                            <div><h3>Quick recommendations</h3><p>Fast glance on the latest BUY / HOLD / SELL calls.</p></div>
+                        </div>
+                        <div class="quick-recs" id="quickRecommendations"></div>
+                    </div>
+                    <div class="card">
+                        <div class="section-head" style="margin-bottom:12px;">
+                            <div><h3>Market context</h3><p>Runtime metadata and historical coverage.</p></div>
+                        </div>
+                        <div class="mini-stats" id="marketMeta"></div>
+                    </div>
+                </div>
+                <div class="table-card">
+                    <div class="section-head" style="padding:24px 24px 0; margin-bottom:14px;">
+                        <div><h3>Currency rates vs INR</h3><p>Reference FX conversions used for international bullion context.</p></div>
+                    </div>
+                    <div class="table-scroll">
+                        <table>
+                            <thead>
+                                <tr><th>Currency</th><th>Pair</th><th>Rate</th><th>Context</th></tr>
+                            </thead>
+                            <tbody id="currencyTableBody"></tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="panel" id="tab-recommendations">
+            <div class="section">
+                <div class="section-head">
+                    <div>
+                        <h2>Recommendations & technical view</h2>
+                        <p>Metal-by-metal AI guidance, confidence split and technical levels.</p>
+                    </div>
+                    <div class="small-note">Signals are informational and not financial advice.</div>
+                </div>
+                <div class="recommendation-grid" id="recommendationsContent"></div>
+            </div>
+        </section>
+
+        <section class="panel" id="tab-portfolio">
+            <div class="section">
+                <div class="section-head">
+                    <div>
+                        <h2>Your bullion portfolio</h2>
+                        <p>Stored only in your browser under <code>goldsilver_portfolio</code>.</p>
+                    </div>
+                    <div class="small-note">Portfolio data never leaves your browser.</div>
+                </div>
+                <div class="grid summary-grid" id="portfolioSummary"></div>
+                <div class="card toolbar">
+                    <div>
+                        <strong>Import / Export</strong>
+                        <div class="small-note">Backup or restore your local portfolio JSON.</div>
+                    </div>
+                    <div class="toolbar-actions">
+                        <button class="btn btn-primary" type="button" id="exportPortfolioBtn">Export JSON</button>
+                        <button class="btn btn-secondary" type="button" id="importPortfolioBtn">Import JSON</button>
+                        <input type="file" id="portfolioImportInput" accept="application/json" class="hidden">
+                    </div>
+                </div>
+                <div id="portfolioMessage" class="status info hidden"></div>
+                <div class="grid forms-grid">
+                    <form class="card form-card" id="addHoldingForm">
+                        <h3>Add holding</h3>
+                        <p>Add a bullion holding in grams with its average purchase price.</p>
+                        <div class="form-grid">
+                            <div class="field"><label for="holdingMetal">Metal</label><select id="holdingMetal" required><option value="gold">Gold</option><option value="silver">Silver</option><option value="platinum">Platinum</option></select></div>
+                            <div class="field"><label for="holdingQuantity">Quantity (grams)</label><input id="holdingQuantity" type="number" min="0.01" step="0.01" required></div>
+                            <div class="field"><label for="holdingBuyPrice">Buy price per gram (₹)</label><input id="holdingBuyPrice" type="number" min="0.01" step="0.01" required></div>
+                            <div class="field"><label for="holdingDate">Purchase date</label><input id="holdingDate" type="date" required></div>
+                            <div class="field"><label for="holdingNotes">Notes</label><textarea id="holdingNotes" placeholder="Example: 10g bar x10"></textarea></div>
+                            <button class="btn btn-success" type="submit">Add holding</button>
+                        </div>
+                    </form>
+
+                    <form class="card form-card" id="cashForm">
+                        <h3>Update cash</h3>
+                        <p>Track the cash portion of your bullion portfolio.</p>
+                        <div class="form-grid">
+                            <div class="field"><label>Current cash available</label><div class="pill"><strong id="currentCashDisplay">₹0</strong></div></div>
+                            <div class="field"><label for="cashAmount">Set cash amount (₹)</label><input id="cashAmount" type="number" min="0" step="0.01" required></div>
+                            <div class="inline-note">Sells automatically add proceeds to cash. Holdings can be entered independently.</div>
+                            <button class="btn btn-primary" type="submit">Save cash</button>
+                        </div>
+                    </form>
+
+                    <form class="card form-card hidden" id="sellFormCard">
+                        <h3>Sell holding</h3>
+                        <p>Record a bullion sale and automatically move proceeds to cash.</p>
+                        <div class="sell-info">
+                            <div><strong id="sellHoldingTitle">No holding selected</strong><div class="small-note" id="sellHoldingMeta"></div></div>
+                            <button class="btn btn-secondary" type="button" id="cancelSellBtn">Cancel</button>
+                        </div>
+                        <input id="sellHoldingId" type="hidden">
+                        <div class="form-grid">
+                            <div class="field"><label for="sellQuantity">Quantity to sell (grams)</label><input id="sellQuantity" type="number" min="0.01" step="0.01" required></div>
+                            <div class="field"><label for="sellPrice">Sell price per gram (₹)</label><input id="sellPrice" type="number" min="0.01" step="0.01" required></div>
+                            <div class="field"><label for="sellDate">Sell date</label><input id="sellDate" type="date" required></div>
+                            <button class="btn btn-danger" type="submit">Confirm sell</button>
+                        </div>
+                    </form>
+                </div>
+
+                <div class="table-card">
+                    <div class="section-head" style="padding:24px 24px 0; margin-bottom:14px;">
+                        <div><h3>Holdings</h3><p>Live valuation uses the embedded current bullion prices.</p></div>
+                    </div>
+                    <div class="table-scroll">
+                        <table>
+                            <thead>
+                                <tr><th>Metal</th><th>Qty (g)</th><th>Buy Price/g</th><th>Current Price/g</th><th>Value</th><th>P&amp;L</th><th>Actions</th></tr>
+                            </thead>
+                            <tbody id="holdingsTableBody"></tbody>
+                        </table>
+                    </div>
+                    <div id="holdingsEmpty" class="empty hidden"><strong>No holdings added yet</strong>Add your first bullion holding to start tracking live value and P&amp;L.</div>
+                </div>
+
+                <div class="table-card">
+                    <div class="section-head" style="padding:24px 24px 0; margin-bottom:14px;">
+                        <div><h3>Sell history</h3><p>Realised transactions with quantity, prices and profit/loss.</p></div>
+                    </div>
+                    <div class="table-scroll">
+                        <table>
+                            <thead>
+                                <tr><th>Date</th><th>Metal</th><th>Qty</th><th>Buy Price</th><th>Sell Price</th><th>P&amp;L</th></tr>
+                            </thead>
+                            <tbody id="sellHistoryBody"></tbody>
+                        </table>
+                    </div>
+                    <div id="sellHistoryEmpty" class="empty hidden"><strong>No sales recorded</strong>Sold bullion positions will appear here once you use the sell action.</div>
+                </div>
+            </div>
+        </section>
+
+        <section class="panel" id="tab-news">
+            <div class="section">
+                <div class="section-head">
+                    <div>
+                        <h2>Precious metals news</h2>
+                        <p>Filter the latest headlines across bullion, macro and policy themes.</p>
+                    </div>
+                    <div class="small-note"><span id="newsCount">0</span> article(s) shown</div>
+                </div>
+                <div class="filters" id="newsFilterBar">
+                    <button class="filter-btn active" type="button" data-category="all">All</button>
+                    <button class="filter-btn" type="button" data-category="metals">Metals</button>
+                    <button class="filter-btn" type="button" data-category="geopolitics">Geopolitics</button>
+                    <button class="filter-btn" type="button" data-category="central bank">Central Bank</button>
+                    <button class="filter-btn" type="button" data-category="currency">Currency</button>
+                    <button class="filter-btn" type="button" data-category="inflation">Inflation</button>
+                    <button class="filter-btn" type="button" data-category="supply/demand">Supply/Demand</button>
+                    <button class="filter-btn" type="button" data-category="market">Market</button>
+                </div>
+                <div class="news-grid" id="newsGrid"></div>
+                <div id="newsEmpty" class="empty hidden"><strong>No articles for this filter</strong>Try switching to another category or reviewing the full feed.</div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer-wrap">
+        <div class="footer">
+            <div>
+                <strong>Data source:</strong> <span id="footerSource">GoldAPI</span><br>
+                <strong>Schedule:</strong> <span id="footerSchedule">4× daily (9 AM, 12 PM, 3 PM, 6 PM IST)</span> • <strong>Timezone:</strong> <span id="footerTimezone">Asia/Kolkata</span><br>
+                Bullion spot reference rates only. Figures exclude GST, dealer spreads, import duty and jewellery making charges.
+            </div>
+            <div>
+                Generated: 07 Nov 2026, 06:53 PM<br>
+                Interactive portfolio saved locally in your browser
+            </div>
+        </div>
+    </footer>
+</div>
+
+<script>const PRICES_DATA = {"gold":{"price_per_gram_inr":12323.49,"price_usd_oz":4071.67,"change_percent":-0.41,"change_value_usd":-16.9,"price_per_10g_inr":123234.93},"silver":{"price_per_gram_inr":157.22,"price_usd_oz":51.94,"change_percent":0.29,"change_value_usd":0.15,"price_per_kg_inr":157217.47},"platinum":{"price_per_gram_inr":4658.0,"price_usd_oz":1539,"change_percent":1.29,"change_value_usd":19.56},"currencies":{"USD_INR":94.1392,"EUR_INR":105.0543,"GBP_INR":125.905,"JPY_INR":0.5944,"CHF_INR":114.8179,"AUD_INR":64.7005,"CAD_INR":66.7654,"SGD_INR":73.443},"gold_silver_ratio":78.39,"timestamp":"2026-11-07T13:22:58.000196","source":"GoldAPI"};</script>
+<script>const CURRENCIES_DATA = {"USD_INR":94.1392,"EUR_INR":105.0543,"GBP_INR":125.905,"JPY_INR":0.5944,"CHF_INR":114.8179,"AUD_INR":64.7005,"CAD_INR":66.7654,"SGD_INR":73.443};</script>
+<script>const ANALYSIS_DATA = {"gold":{"metal":"gold","recommendation":"SELL","confidence":{"buy":10,"sell":65,"hold":25},"summary":"Gold is showing negative signals. Slight decline of -0.4%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.","timestamp":"2026-11-07T13:23:01.640068","source":"rule-based"},"silver":{"metal":"silver","recommendation":"SELL","confidence":{"buy":15,"sell":56,"hold":29},"summary":"Silver is showing negative signals. Positive daily movement of 0.3%. Technical indicators show bearish trend. Recommendation: SELL with moderate confidence based on current indicators.","timestamp":"2026-11-07T13:23:01.786089","source":"rule-based"},"platinum":{"metal":"platinum","recommendation":"HOLD","confidence":{"buy":25,"sell":25,"hold":50},"summary":"Platinum is showing negative signals. Strong daily gain of 1.3%. Technical indicators show bearish trend. Recommendation: HOLD with moderate confidence based on current indicators.","timestamp":"2026-11-07T13:23:01.907231","source":"rule-based"}};</script>
+<script>const TECHNICAL_DATA = {"gold":{"trend":"bearish","strength":0,"signals":["Price below 4-week moving average (bearish)","Price below 12-week moving average (bearish)","Short-term MA below long-term MA (downtrend)","Weak momentum: -4.0% in 4 weeks"],"support":118437.13,"resistance":134616.17,"current_price":123234.93,"ma_short":125046.97,"ma_long":128856.7,"trend_score":-4.0},"silver":{"trend":"bearish","strength":6,"signals":["Price below 4-week moving average (bearish)","Price below 12-week moving average (bearish)","Short-term MA below long-term MA (downtrend)","Weak momentum: -15.9% in 4 weeks","Near support — potential buy zone"],"support":150153.09,"resistance":210317.38,"current_price":157217.47,"ma_short":170512.24,"ma_long":187380.81,"trend_score":-3.5},"platinum":{"trend":"bearish","strength":0,"signals":["Price below 4-week moving average (bearish)","Price below 12-week moving average (bearish)","Short-term MA below long-term MA (downtrend)","Weak momentum: -11.6% in 4 weeks"],"support":4387.55,"resistance":5662.91,"current_price":4658.0,"ma_short":4888.59,"ma_long":5170.11,"trend_score":-4.0}};</script>
+<script>const NEWS_DATA = [{"title":"Wall Street grapples with $5.7 trillion rout as AI bets unwind","description":"Wall Street is undergoing notable shifts as worries about the AI investment frenzy and political developments arise. This sharp sell-off brings forth doubts about the viability of AI infrastructure investments, scrutinizing valuations and corporate expenditures. The Democratic majority in Congress p","url":"https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-grapples-with-5-7-trillion-rout-as-ai-bets-unwind/articleshow/135628032.cms","source":"Economic Times Markets","date":"2026-11-07","image":"","category":"geopolitics"},{"title":"Dollar jumps after strong US payrolls report","description":"The US dollar index jumped significantly following the Labor Department's report indicating an increase of 165,000 jobs last month, which far exceeded economists' forecasts. As a result, the probability of a rate hike from the Federal Reserve climbed to nearly 80% for next month. Moreover, Federal R","url":"https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-jumps-after-strong-us-payrolls-report/articleshow/135626197.cms","source":"Economic Times Markets","date":"2026-11-07","image":"","category":"central_bank"},{"title":"Gold drops as strong US payrolls boost dollar, yields","description":"In light of stronger-than-anticipated US payroll figures, gold prices dipped significantly as the data suggested a robust labor market. This development heightened expectations for sustained high-interest rates from the Federal Reserve, bolstering the dollar's strength. Spot gold saw a decline of 0.","url":"https://economictimes.indiatimes.com/markets/commodities/news/gold-drops-as-strong-us-payrolls-boost-dollar-yields/articleshow/135626183.cms","source":"Economic Times Markets","date":"2026-11-07","image":"","category":"central_bank"},{"title":"The Last Mercedes-Benz SLR McLaren Stirling Moss Could Now Fetch Over $6 Million","description":"One of only 75 made and soon available through RM Sotheby’s, this example was commissioned by royalty and has only 32.9 miles on it.","url":"http://robbreport.com/motors/cars/mercedes-slr-mclaren-stirling-moss-rm-sothebys-1238819901/","source":"Robb Report","date":"2026-11-06","image":"https://robbreport.com/wp-content/uploads/2026/11/2010-Mercedes-Benz-SLR-McLaren-Stirling-Moss-opener.jpg?w=681&h=383&crop=1","category":"market"},{"title":"In 2003, comedian Jeff Foxworthy bought about 3,000 acres in Georgia; nine years later he put 1,000 of them under an easement that bars development forever","description":"Since 2003, Jeff Foxworthy has made notable strides in land ownership within Harris County, Georgia. His commitment to preservation is highlighted by a 1,000-acre conservation easement aimed at halting future development. This initiative has led to the Chatta…","url":"https://timesofindia.indiatimes.com/real-estate/in-2003-comedian-jeff-foxworthy-bought-about-3000-acres-in-georgia-nine-years-later-he-put-1000-of-them-under-an-easement-that-bars-development-forever/articleshow/135567331.cms","source":"The Times of India","date":"2026-11-06","image":"https://static.toiimg.com/thumb/msid-135567488,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg","category":"market"},{"title":"SHANE WATSON'S ultimate autumn/winter fashion guide for the over-50s - the trends to avoid and new season styles you CAN pull off","description":"Here are nine style tips with a built-in anti-ageing formula that you might want to consider for this season - plus high street pieces worth the investment","url":"https://www.dailymail.com/lifestyle/article-16206045/SHANE-WATSON-ultimate-autumn-winter-fashion-guide-50s.html","source":"Dailymail.com","date":"2026-11-06","image":"https://i.dailymail.com/1s/2026/11/06/12/112345435-0-image-m-12_1793966721601.jpg","category":"market"},{"title":"The Birkin of Leather Journals","description":"Women are lining up to spend hundreds of dollars on fully customized notebooks from a French luxury-stationery brand.","url":"http://www.thecut.com/article/louise-carmen-leather-journals.html","source":"The Cut","date":"2026-11-06","image":"https://pyxis.nymag.com/v1/imgs/4ce/95a/5f0d6beeb19b1321f5649f914863f85ab7-roadbook.1x.rsocial.w1200.jpg","category":"currency"},{"title":"US stock market today: Dow futures fall 475 points as S&P 500 and Nasdaq futures rebound, Nvidia, Micron and AMD lead chip recovery after $3 trillion AI-driven Wall Street selloff","description":"US stock market futures are mixed today, Friday, Nov. 6, after Thursday’s nearly $3 trillion AI-led selloff, as chip shares attempt a rebound. Dow futures are down 475 points, while S&P 500 futures gain 0.26% to 7,402.50 and Nasdaq futures rise 1.33% to 27,10…","url":"https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-dow-futures-fall-475-points-as-sp-500-and-nasdaq-futures-rebound-nvidia-micron-and-amd-lead-chip-recovery-after-3-trillion-ai-driven-wall-street-selloff/articleshow/135605601.cms","source":"The Times of India","date":"2026-11-06","image":"https://img.etimg.com/thumb/msid-135606213,width-1200,height-900,imgsize-245364,overlay-economictimes/articleshow.jpg","category":"market"},{"title":"Sensex today | Stock Market Highlights: Stock markets on fire; Sensex jumps 1,718 points, Nifty reclaims 25,000","description":"Sensex, Nifty, Share Prices Highlights: Benchmark indices registered their seventh day of rally on Friday, defying a global market rout, with the Sensex climbing 1,718 points and the Nifty regaining the 25,000 level, as sustained foreign fund inflows and easi…","url":"https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-6-november-2026/article71669668.ece","source":"BusinessLine","date":"2026-11-06","image":"https://bl-i.thgim.com/public/incoming/1gh06o/article71672631.ece/alternates/LANDSCAPE_1200/PO30_Candlestick_graph.jpg","category":"market"},{"title":"Presentation: The Socio-Technical Staff+ Engineer: Architecture, Culture and Organisational Change","description":"Vanessa Formicola shares how technical leaders can move beyond \"wishful architecture\" by practicing holistic socio-technical engineering. She discusses why engineering leaders must account for organizational maturity, reward structures, geopolitical climate, …","url":"https://www.infoq.com/presentations/sociotechnical-staff-engineer-architecture/","source":"InfoQ.com","date":"2026-11-06","image":"https://res.infoq.com/presentations/sociotechnical-staff-engineer-architecture/en/card_header_image/twittercard-1792066457983.jpg","category":"geopolitics"},{"title":"Global Central Banks Splurge $42,423,360,000 on Gold in Just Three Months Amid Heightened ‘Geopolitical Risk and Concerns’","description":"Central banks added a net 321 tonnes of gold in the third quarter, the most since late 2024, the World Gold Council says.\nThe post Global Central Banks Splurge $42,423,360,000 on Gold in Just Three Months Amid Heightened ‘Geopolitical Risk and Concerns’ appea…","url":"https://dailyhodl.com/2026/11/06/global-central-banks-splurge-42423360000-on-gold-in-just-three-months-amid-heightened-geopolitical-risk-and-concerns/","source":"The Daily Hodl","date":"2026-11-06","image":"https://dailyhodl.com/wp-content/uploads/2026/11/gold-central-banks_pink.jpg?resize=1365,800","category":"geopolitics"},{"title":"Gold price prediction: Gold rate falls amidst big movement in oil price, inflation, check experts' opinions","description":"Gold rate on Friday took a hit after pivotal factors like oil prices and inflation have impact on the bullion.","url":"https://economictimes.indiatimes.com/news/international/us/gold-price-prediction-gold-rate-falls-amidst-big-movement-in-oil-price-inflation-check-experts-opinions/articleshow/135609088.cms","source":"The Times of India","date":"2026-11-06","image":"https://img.etimg.com/thumb/msid-135609316,width-1200,height-900,imgsize-98956,overlay-economictimes/articleshow.jpg","category":"inflation"},{"title":"Old-economy, banking and finance stocks dominate in Deepavali picks by brokerages","description":"Old-economy and banking stocks top Deepavali picks amid guarded enthusiasm for new-era names, with earnings-driven growth and macro risks shaping Samvat 2083 bets.","url":"https://www.thehindubusinessline.com/markets/old-economy-banking-and-finance-stocks-dominate-in-deepavali-picks-by-brokerages/article71674172.ece","source":"BusinessLine","date":"2026-11-06","image":"https://bl-i.thgim.com/public/incoming/acsyxq/article71674482.ece/alternates/LANDSCAPE_1200/PTI02_01_2025_000201A.jpg","category":"market"},{"title":"Silver price in Chennai today, Nov 6, 2026: Up or down on Dhanteras? Check latest rate in ‘Gateway to South India'","description":"Silver prices reversed their recent upward trend on Dhanteras. Check how much silver costs in Chennai today.","url":"https://www.livemint.com/money/silver-price-in-chennai-today-nov-6-2026-up-or-down-on-dhanteras-check-latest-rate-in-gateway-to-south-india-11793963705701.html","source":"Livemint","date":"2026-11-06","image":"https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/pexels-photo-36355530_17936_1793966883955_pHQ3_1793966884338_jSrn_7088ab5e-270d-498a-9339-ce43679241fa_tf7e.jpeg","category":"geopolitics"},{"title":"Caviar’s Zodiac iPhone Duo Lets You Mix Gold, Gems, and Meteorite","description":"The Caviar Zodiac iPhone Duo turns your zodiac sign into a custom luxury phone decorated with gold plating, gemstones, leather, and meteorite. You start with one of 12 astrological designs, then choose the materials and finishes that will cover your…","url":"https://the-gadgeteer.com/2026/11/06/caviars-zodiac-iphone-duo-lets-you-mix-gold-gems-and-meteorite/","source":"The Gadgeteer","date":"2026-11-06","image":"https://the-gadgeteer.com/wp-content/uploads/2026/11/Caviar-Zodiac-iPhone-Duo-Cover.jpg","category":"metals"},{"title":"Dhanteras 2026: How much gold and silver should you buy? Experts reveal the right portfolio allocation for investors","description":"Planning to invest in gold and silver this Dhanteras 2026? Experts explain how much of your investment portfolio should go into precious metals, why gold should form the core allocation and how staggered purchases can help manage investment risks.","url":"https://www.livemint.com/money/personal-finance/dhanteras-2026-how-much-gold-and-silver-should-you-buy-experts-reveal-the-right-portfolio-allocation-for-investors-11793952443911.html","source":"Livemint","date":"2026-11-06","image":"https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/bfbb896f-cdb0-4362-9173-c6fdb783dc71_1793952690096_Qq3x_1793952694575_06hQ_1f8c22b0-cc97-41d3-a267-d2db0b541d81_WzA3.png","category":"metals"},{"title":"Gold may glitter at Rs 1.68 lakh as global uncertainties bolster outlook: Report","description":"Gold prices in India could rise to ₹1.60-1.68 lakh per 10 grams over the next 6-12 months, according to Motilal Oswal Financial Services (MOFSL), which sees price corrections as buying opportunities amid sustained investment demand and central-bank purchases..","url":"https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/gold-may-glitter-at-rs-1-68-lakh-as-global-uncertainties-bolster-outlook-report/articleshow/135600374.cms","source":"The Times of India","date":"2026-11-06","image":"https://img.etimg.com/thumb/msid-135600924,width-1200,height-900,imgsize-266060,overlay-economictimes/articleshow.jpg","category":"supply_demand"},{"title":"Sensex reclaims 80,000 after March; Nifty tops 24,700 despite global tech rout","description":"India’s relative resilience underpinned by firmer rupee, moderating crude oil prices and sustained foreign institutional investor buying","url":"https://www.thehindubusinessline.com/markets/sensex-reclaims-80000-after-march-nifty-tops-24700-despite-global-tech-rout/article71673442.ece","source":"BusinessLine","date":"2026-11-06","image":"https://bl-i.thgim.com/public/incoming/mka3sj/article71673489.ece/alternates/LANDSCAPE_1200/PO01_Trading_activity.jpg","category":"currency"},{"title":"Gold, silver fall offers scope for 15-35% gains by next Dhanteras: Analysts","description":"Axis Direct has a more upbeat outlook of gold rising by 18 per cent by next Dhanteras, with target prices of ₹165,000-₹171,00.","url":"https://www.business-standard.com/markets/news/gold-silver-price-crash-offers-scope-for-15-35-gains-by-next-dhanteras-analysts-126110600774_1.html","source":"Business Standard","date":"2026-11-06","image":"https://bsmedia.business-standard.com/_media/bs/img/article/2026-02/17/thumb/featurecrop/1200X628/1771293258-7606.jpg","category":"metals"},{"title":"GIC Re’s NSE windfall masks weaker Q2 as flood claims, health push weigh","description":"The gain from the offer-for-sale in NSE’s IPO helped lift GIC Re’s investment income by11.8% to  ₹4,238.26 crore","url":"https://www.livemint.com/companies/company-results/gic-re-s-nse-windfall-masks-weaker-q2-as-flood-claims-health-push-weigh-11793963292081.html","source":"Livemint","date":"2026-11-06","image":"https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/hitesh-josh-new_1793970900076_bOIq_1793970904395_SoiI_0385f128-0b64-4ed6-bfcb-0cd9bc5f14e4_oiTD.jpg","category":"market"},{"title":"cefast added to PyPI","description":"Fast reader for ESA's Cluster Exchange Format (CEF 2.0)","url":"https://pypi.org/project/cefast/","source":"Pypi.org","date":"2026-11-06","image":null,"category":"market"},{"title":"As the Japanese Countryside Empties Out, Wildlife Is Disappearing","description":"The Japanese population is in decline, but the downward trend is especially pronounced in rural areas. The loss of people might be expected to lead to a resurgence of wildlife. But paradoxically, where farms have been abandoned, wildlife is also disappearing.…","url":"https://e360.yale.edu/digest/japan-depopulation-biodiversity","source":"Yale.edu","date":"2026-11-06","image":"https://yale-threesixty.transforms.svdcdn.com/production/Shirakawa_Wikipedia.jpeg?w=1200&q=60&auto=format&fit=max&dm=1793973537&s=bbde4f1372c99cae19533cd2df95c103","category":"geopolitics"},{"title":"Oil Market Arrives at 'Remarkable Destination'","description":"The oil market has arrived at a remarkable destination, analysts at J.P. Morgan said.","url":"https://www.rigzone.com/news/oil_market_arrives_at_remarkable_destination-06-nov-2026-185028-article/","source":"Rigzone","date":"2026-11-06","image":"https://images.rigzone.com/images/news/articles/Oil-Market-Arrives-at-Remarkable-Destination-185028-1200x628.png","category":"market"},{"title":"Cybercrime networks shift to smaller, mobile scam operations amid enforcement pressure: FATF","description":"In its report released from Paris, the global money-laundering watchdog said large, fortified compounds where cyber slaves were forced to commit financial cybercrimes are being moved to apartments, houses, hotels and office floors, sometimes rebranding as leg…","url":"https://economictimes.indiatimes.com/news/india/cybercrime-networks-shift-to-smaller-mobile-scam-operations-amid-enforcement-pressure-fatf/articleshow/135609203.cms","source":"The Times of India","date":"2026-11-06","image":"https://img.etimg.com/thumb/msid-135609245,width-1200,height-900,imgsize-636033,overlay-economictimes/articleshow.jpg","category":"market"},{"title":"The Bamboos – Sugar On Top (2026)","description":"The Bamboos’ 12th studio album Sugar on Top arrives beneath a cover depicting a ripped sugar packet spilling sugar on an otherwise empty white backdrop, and the music inside is equally straightforward: warm, sweet and immediately accessible. Across ten tracks…","url":"https://exystence.net/blog/2026/11/06/the-bamboos-sugar-on-top-2026/","source":"Exystence.net","date":"2026-11-06","image":null,"category":"geopolitics"},{"title":"Erdoğan says global system ‘bankrupt’ amid crises","description":"President Recep Tayyip Erdoğan on Nov. 6 stressed the international system has gone “bankrupt,” accusing global institutions of standing by as Israeli actions in Gaza and settler violence in the occupied West Bank continue.","url":"https://www.hurriyetdailynews.com/erdogan-says-global-system-bankrupt-amid-crises-229114","source":"Hurriyet Daily News","date":"2026-11-06","image":"https://image.hurimg.com/i/hurriyet/75/200x200/6aedd323242372ca50175d4c.jpg","category":"market"},{"title":"Second Trailer for ‘The Further Mis-Adventures of Cliff Booth’ Lands After Playing With IMAX Re-Release","description":"Watch the high-octane new trailer for David Fincher’s Netflix movie 'The Further Mis-Adventures of Cliff Booth' arriving this Thanksgiving.","url":"https://www.whats-on-netflix.com/news/second-trailer-for-the-further-mis-adventures-of-cliff-booth-lands-after-playing-with-imax-re-release/","source":"What's on Netflix","date":"2026-11-06","image":"https://www.whats-on-netflix.com/wp-content/uploads/2026/11/second-trailer-cliff-booth.png","category":"market"},{"title":"Trump Administration Sues Penn State Over In-State Tuition For Students In The U.S. Illegally","description":"A Penn State spokesperson said the university was aware of the complaint and reviewing it.","url":"https://www.huffpost.com/entry/trump-administration-sues-penn-state-over-in-state-tuition-for-students-in-the-us-illegally_n_6aedd181e4b043b6d4e16eac","source":"HuffPost","date":"2026-11-06","image":"https://img.huffingtonpost.com/asset/6aedd1a01700009155ce4e0f.jpeg?cache=L1cCze0ngm&ops=1200_630","category":"geopolitics"},{"title":"NVDA stock crash: Nvidia’s worst day since the DeepSeek shock - The AI giant fell 9% and is now down for the year","description":"Nvidia stock rebounds 5% after 9.26% crash: Nvidia suffered its worst single-day fall since the January 2025 DeepSeek shock, with shares plunging 9.26% to $181.60 on Thursday and turning negative for 2026. The crash came as Wall Street lost nearly $3 trillion…","url":"https://economictimes.indiatimes.com/news/international/us/nvda-stock-crash-nvidias-worst-day-since-the-deepseek-shock-the-ai-giant-fell-9-and-is-now-down-for-the-year/articleshow/135606299.cms","source":"The Times of India","date":"2026-11-06","image":"https://img.etimg.com/thumb/msid-135606522,width-1200,height-900,imgsize-79656,overlay-economictimes/articleshow.jpg","category":"market"},{"title":"B.C. ending time changes could pose cross-border logistical challenges, says expert","description":"With B.C. adopting year-round daylight time, one researcher warns of confusion and cross-border relationship challenges now that Vancouver and Seattle, Wash. are in different time zones.","url":"https://www.cbc.ca/news/canada/british-columbia/abolishing-timetchanges-poses-cross-border-logistical-challenges-9.7410948","source":"CBC News","date":"2026-11-06","image":"https://i.cbc.ca/ais/1.5467810,1582065587000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C83%2C2801%2C1575%29%3BResize%3D620","category":"geopolitics"}];</script>
+<script>const HISTORY_DATA = [{"date":"2026-05-15","week":"2026-W20","gold_10g":140736.5,"silver_kg":243170.57,"platinum_g":6206.5,"gold_usd_oz":4568.35,"silver_usd_oz":78.93,"platinum_usd_oz":2014.65},{"date":"2026-06-07","week":"2026-W23","gold_10g":132593.54,"silver_kg":207602.87,"platinum_g":5449.55,"gold_usd_oz":4328.87,"silver_usd_oz":67.78,"platinum_usd_oz":1779.15},{"date":"2026-06-09","week":"2026-W24","gold_10g":133318.07,"silver_kg":210317.38,"platinum_g":5419.88,"gold_usd_oz":4331.37,"silver_usd_oz":68.33,"platinum_usd_oz":1760.87},{"date":"2026-07-05","week":"2026-W27","gold_10g":127936.35,"silver_kg":191162.72,"platinum_g":5033.18,"gold_usd_oz":4175.01,"silver_usd_oz":62.38,"platinum_usd_oz":1642.5},{"date":"2026-07-09","week":"2026-W28","gold_10g":126264.96,"silver_kg":181656.12,"platinum_g":4961.56,"gold_usd_oz":4107.77,"silver_usd_oz":59.1,"platinum_usd_oz":1614.14},{"date":"2026-08-02","week":"2026-W31","gold_10g":124137.93,"silver_kg":176726.94,"platinum_g":5060.13,"gold_usd_oz":4043.21,"silver_usd_oz":57.56,"platinum_usd_oz":1648.1},{"date":"2026-08-09","week":"2026-W32","gold_10g":132963.64,"silver_kg":194759.63,"platinum_g":5359.45,"gold_usd_oz":4341.91,"silver_usd_oz":63.6,"platinum_usd_oz":1750.12},{"date":"2026-09-06","week":"2026-W36","gold_10g":134616.17,"silver_kg":201167.03,"platinum_g":5540.25,"gold_usd_oz":4430.18,"silver_usd_oz":66.2,"platinum_usd_oz":1823.28},{"date":"2026-09-09","week":"2026-W37","gold_10g":134261.82,"silver_kg":203128.02,"platinum_g":5662.91,"gold_usd_oz":4403.59,"silver_usd_oz":66.62,"platinum_usd_oz":1857.35},{"date":"2026-10-04","week":"2026-W40","gold_10g":128317.21,"silver_kg":187028.65,"platinum_g":5271.44,"gold_usd_oz":4142.33,"silver_usd_oz":60.38,"platinum_usd_oz":1701.72},{"date":"2026-10-09","week":"2026-W41","gold_10g":130198.6,"silver_kg":187649.77,"platinum_g":5237.36,"gold_usd_oz":4179.89,"silver_usd_oz":60.24,"platinum_usd_oz":1681.4},{"date":"2026-11-01","week":"2026-W44","gold_10g":118437.13,"silver_kg":150153.09,"platinum_g":4387.55,"gold_usd_oz":3875.65,"silver_usd_oz":49.13,"platinum_usd_oz":1435.75},{"date":"2026-11-07","week":"2026-W45","gold_10g":123234.93,"silver_kg":157217.47,"platinum_g":4658.0,"gold_usd_oz":4071.67,"silver_usd_oz":51.94,"platinum_usd_oz":1539}];</script>
+<script>const REPORT_META = {"timestamp":"2026-11-07T18:53:01.919651+05:30","price_source":"GoldAPI","schedule":"4× daily (9 AM, 12 PM, 3 PM, 6 PM IST)","timezone":"Asia/Kolkata","history_points":13};</script>
+<script>
+const PORTFOLIO_STORAGE_KEY = "goldsilver_portfolio";
+const METAL_CONFIG = {
+    gold: { label: "Gold", emoji: "🥇", accent: "var(--gold)", mainKey: "price_per_10g_inr", unit: "per 10g" },
+    silver: { label: "Silver", emoji: "🥈", accent: "var(--silver)", mainKey: "price_per_kg_inr", unit: "per kg" },
+    platinum: { label: "Platinum", emoji: "⚪", accent: "var(--platinum)", mainKey: "price_per_gram_inr", unit: "per gram" },
+};
+const CURRENCY_META = {
+    USD_INR: { label: "US Dollar", flag: "🇺🇸" },
+    EUR_INR: { label: "Euro", flag: "🇪🇺" },
+    GBP_INR: { label: "British Pound", flag: "🇬🇧" },
+    JPY_INR: { label: "Japanese Yen", flag: "🇯🇵" },
+    CHF_INR: { label: "Swiss Franc", flag: "🇨🇭" },
+    AUD_INR: { label: "Australian Dollar", flag: "🇦🇺" },
+    CAD_INR: { label: "Canadian Dollar", flag: "🇨🇦" },
+    SGD_INR: { label: "Singapore Dollar", flag: "🇸🇬" },
+};
+let activeNewsCategory = "all";
+
+function formatInr(value, decimals = 2) {
+    return "₹" + Number(value || 0).toLocaleString("en-IN", { minimumFractionDigits: decimals, maximumFractionDigits: decimals });
+}
+function formatUsd(value, decimals = 2) {
+    return "$" + Number(value || 0).toLocaleString("en-US", { minimumFractionDigits: decimals, maximumFractionDigits: decimals });
+}
+function formatQty(value) {
+    return Number(value || 0).toLocaleString("en-IN", { minimumFractionDigits: 0, maximumFractionDigits: 2 }) + " g";
+}
+function formatPercent(value) {
+    return Math.abs(Number(value || 0)).toFixed(2) + "%";
+}
+function escapeHtml(value) {
+    return String(value ?? "")
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#39;");
+}
+function plainText(value) {
+    return String(value ?? "").replace(/<[^>]*>/g, " " ).replace(/\s+/g, " " ).trim();
+}
+function truncate(value, maxLength = 180) {
+    const text = plainText(value);
+    return text.length <= maxLength ? text : text.slice(0, maxLength - 1).trim() + "…";
+}
+function displayDate(value) {
+    if (!value) return "—";
+    const date = new Date(value);
+    if (Number.isNaN(date.getTime())) return String(value);
+    return date.toLocaleString("en-IN", { year: "numeric", month: "short", day: "numeric", hour: "2-digit", minute: "2-digit" });
+}
+function displayShortDate(value) {
+    if (!value) return "—";
+    const date = new Date(value);
+    if (Number.isNaN(date.getTime())) return String(value);
+    return date.toLocaleDateString("en-IN", { year: "numeric", month: "short", day: "numeric" });
+}
+function recClass(value) {
+    const v = String(value || "HOLD").toLowerCase();
+    return v === "buy" ? "buy" : v === "sell" ? "sell" : "hold";
+}
+function trendClass(value) {
+    const v = String(value || "neutral").toLowerCase();
+    return v.includes("bull") ? "positive" : v.includes("bear") ? "negative" : "neutral";
+}
+function uid() {
+    return Date.now().toString(36) + Math.random().toString(36).substr(2);
+}
+function currentPricePerGram(metal) {
+    return Number(PRICES_DATA?.[metal]?.price_per_gram_inr || 0);
+}
+function defaultPortfolio() {
+    return { holdings: [], sells: [], cash: 0 };
+}
+function normalizeHolding(item) {
+    return {
+        id: String(item?.id || uid()),
+        metal: ["gold", "silver", "platinum"].includes(item?.metal) ? item.metal : "gold",
+        quantity_g: Number(item?.quantity_g || 0),
+        buy_price_per_g: Number(item?.buy_price_per_g || 0),
+        date: item?.date || new Date().toISOString().slice(0, 10),
+        notes: plainText(item?.notes || ""),
+    };
+}
+function normalizeSell(item) {
+    return {
+        id: String(item?.id || uid()),
+        metal: ["gold", "silver", "platinum"].includes(item?.metal) ? item.metal : "gold",
+        quantity_g: Number(item?.quantity_g || 0),
+        sell_price_per_g: Number(item?.sell_price_per_g || 0),
+        buy_avg_price: Number(item?.buy_avg_price || 0),
+        date: item?.date || new Date().toISOString().slice(0, 10),
+        pnl: Number(item?.pnl || 0),
+    };
+}
+function loadPortfolio() {
+    try {
+        const raw = localStorage.getItem(PORTFOLIO_STORAGE_KEY);
+        if (!raw) return defaultPortfolio();
+        const parsed = JSON.parse(raw);
+        return {
+            holdings: Array.isArray(parsed?.holdings) ? parsed.holdings.map(normalizeHolding).filter((i) => i.quantity_g > 0) : [],
+            sells: Array.isArray(parsed?.sells) ? parsed.sells.map(normalizeSell) : [],
+            cash: Number(parsed?.cash || 0),
+        };
+    } catch (error) {
+        console.error("Failed to load portfolio", error);
+        return defaultPortfolio();
+    }
+}
+function savePortfolio(portfolio) {
+    localStorage.setItem(PORTFOLIO_STORAGE_KEY, JSON.stringify(portfolio));
+}
+function portfolioSnapshot(portfolio) {
+    const totals = {
+        gold: { quantity: 0, currentValue: 0, invested: 0 },
+        silver: { quantity: 0, currentValue: 0, invested: 0 },
+        platinum: { quantity: 0, currentValue: 0, invested: 0 },
+    };
+    let totalInvested = 0;
+    let totalMetalValue = 0;
+    const holdings = portfolio.holdings.map((holding) => {
+        const current = currentPricePerGram(holding.metal);
+        const invested = holding.quantity_g * holding.buy_price_per_g;
+        const value = holding.quantity_g * current;
+        const pnl = value - invested;
+        totals[holding.metal].quantity += holding.quantity_g;
+        totals[holding.metal].invested += invested;
+        totals[holding.metal].currentValue += value;
+        totalInvested += invested;
+        totalMetalValue += value;
+        return { ...holding, current_price_per_g: current, current_value: value, pnl };
+    });
+    return {
+        holdings,
+        sells: [...portfolio.sells].sort((a, b) => String(b.date).localeCompare(String(a.date))),
+        totals,
+        cash: Number(portfolio.cash || 0),
+        totalInvested,
+        totalMetalValue,
+        totalPortfolioValue: totalMetalValue + Number(portfolio.cash || 0),
+        unrealisedPnl: totalMetalValue - totalInvested,
+    };
+}
+function setStatus(message, kind = "info") {
+    const el = document.getElementById("portfolioMessage");
+    if (!message) {
+        el.textContent = "";
+        el.className = "status info hidden";
+        return;
+    }
+    el.textContent = message;
+    el.className = "status " + kind;
+}
+function initTabs() {
+    const buttons = [...document.querySelectorAll(".tab-btn")];
+    const panels = [...document.querySelectorAll(".panel")];
+    buttons.forEach((button) => {
+        button.addEventListener("click", () => {
+            const tab = button.dataset.tab;
+            buttons.forEach((b) => b.classList.toggle("active", b === button));
+            panels.forEach((p) => p.classList.toggle("active", p.id === "tab-" + tab));
+        });
+    });
+}
+function renderDashboard() {
+    document.getElementById("headerTimestamp").textContent = displayDate(REPORT_META.timestamp);
+    document.getElementById("headerSource").textContent = REPORT_META.price_source || "unknown";
+    document.getElementById("headerSchedule").textContent = REPORT_META.schedule || "Not specified";
+    document.getElementById("headerTimezone").textContent = REPORT_META.timezone || "Asia/Kolkata";
+    document.getElementById("footerSource").textContent = REPORT_META.price_source || "unknown";
+    document.getElementById("footerSchedule").textContent = REPORT_META.schedule || "Not specified";
+    document.getElementById("footerTimezone").textContent = REPORT_META.timezone || "Asia/Kolkata";
+    renderPriceCards();
+    renderRatio();
+    renderQuickRecommendations();
+    renderMarketMeta();
+    renderCurrencyTable();
+}
+function renderPriceCards() {
+    document.getElementById("metalPriceCards").innerHTML = Object.keys(METAL_CONFIG).map((metal) => {
+        const cfg = METAL_CONFIG[metal];
+        const p = PRICES_DATA?.[metal] || {};
+        const rec = ANALYSIS_DATA?.[metal]?.recommendation || "HOLD";
+        const change = Number(p?.change_percent || 0);
+        const cls = change > 0 ? "positive" : change < 0 ? "negative" : "neutral";
+        const arrow = change > 0 ? "▲" : change < 0 ? "▼" : "•";
+        return `
+            <article class="price-card" style="--accent-color:${cfg.accent};">
+                <div class="metal-head">
+                    <div class="metal-title"><span>${cfg.emoji}</span> ${cfg.label}</div>
+                    <span class="badge ${recClass(rec)}">${escapeHtml(rec)}</span>
+                </div>
+                <div class="metal-price">${formatInr(p?.[cfg.mainKey] || 0, 2)} <span class="small-note" style="font-weight:600;">${cfg.unit}</span></div>
+                <div class="sub-price">International: ${formatUsd(p?.price_usd_oz || 0, 2)} per troy ounce</div>
+                <div class="meta-list">
+                    <div class="meta-row"><span class="label">Daily change</span><span class="change ${cls}">${arrow} ${formatPercent(change)}</span></div>
+                    <div class="meta-row"><span class="label">Price per gram</span><span>${formatInr(p?.price_per_gram_inr || 0, 2)}</span></div>
+                    <div class="meta-row"><span class="label">USD move</span><span class="${cls}">${Number(p?.change_value_usd || 0) >= 0 ? "+" : ""}${formatUsd(p?.change_value_usd || 0, 2)}</span></div>
+                </div>
+            </article>`;
+    }).join("");
+}
+function renderRatio() {
+    const ratio = Number(PRICES_DATA?.gold_silver_ratio || 0);
+    document.getElementById("goldSilverRatio").textContent = ratio ? ratio.toFixed(2) + "x" : "—";
+    let note = "Ratio unavailable.";
+    if (ratio >= 80) note = "Gold looks rich relative to silver; silver may offer relative value if the ratio mean-reverts.";
+    else if (ratio <= 65 && ratio > 0) note = "Silver is relatively strong versus gold. Gold could catch up if the ratio normalises upward.";
+    else if (ratio > 0) note = "Ratio sits in a more balanced zone with neither metal appearing extremely stretched.";
+    document.getElementById("ratioInsight").textContent = note;
+}
+function renderQuickRecommendations() {
+    document.getElementById("quickRecommendations").innerHTML = Object.keys(METAL_CONFIG).map((metal) => {
+        const rec = ANALYSIS_DATA?.[metal]?.recommendation || "HOLD";
+        const cfg = METAL_CONFIG[metal];
+        return `<div class="quick-item"><span>${cfg.emoji} ${cfg.label}</span><span class="badge ${recClass(rec)}">${escapeHtml(rec)}</span></div>`;
+    }).join("");
+}
+function renderMarketMeta() {
+    document.getElementById("marketMeta").innerHTML = `
+        <div class="mini-stat"><div class="name">Last refresh</div><div class="value">${escapeHtml(displayDate(REPORT_META.timestamp))}</div></div>
+        <div class="mini-stat"><div class="name">History points</div><div class="value">${Number(REPORT_META.history_points || 0).toLocaleString("en-IN")}</div></div>
+        <div class="mini-stat"><div class="name">Bullion source</div><div class="value">${escapeHtml(REPORT_META.price_source || "unknown")}</div></div>
+        <div class="mini-stat"><div class="name">Schedule</div><div class="value">${escapeHtml(REPORT_META.schedule || "Not specified")}</div></div>`;
+}
+function renderCurrencyTable() {
+    const keys = Object.keys(CURRENCY_META).filter((key) => CURRENCIES_DATA?.[key] != null);
+    document.getElementById("currencyTableBody").innerHTML = keys.map((key) => {
+        const meta = CURRENCY_META[key];
+        const code = key.replace("_INR", "");
+        const decimals = key === "JPY_INR" ? 4 : 2;
+        return `<tr><td>${meta.flag} ${escapeHtml(meta.label)}</td><td>${escapeHtml(code)}/INR</td><td>${formatInr(CURRENCIES_DATA[key], decimals)}</td><td class="small-note">1 ${escapeHtml(code)} = ${formatInr(CURRENCIES_DATA[key], decimals)}</td></tr>`;
+    }).join("") || `<tr><td colspan="4" class="small-note">Currency data unavailable.</td></tr>`;
+}
+function renderRecommendations() {
+    document.getElementById("recommendationsContent").innerHTML = Object.keys(METAL_CONFIG).map((metal) => {
+        const cfg = METAL_CONFIG[metal];
+        const rec = ANALYSIS_DATA?.[metal] || {};
+        const tech = TECHNICAL_DATA?.[metal] || {};
+        const confidence = rec.confidence || { buy: 0, hold: 0, sell: 0 };
+        return `
+            <article class="card rec-card">
+                <div class="rec-head">
+                    <div class="rec-title">
+                        <h3>${cfg.emoji} ${cfg.label}</h3>
+                        <div class="small-note">Current price: ${formatInr(PRICES_DATA?.[metal]?.price_per_gram_inr || 0, 2)} per gram</div>
+                    </div>
+                    <div style="display:flex; gap:10px; flex-wrap:wrap; align-items:center;">
+                        <span class="badge ${recClass(rec.recommendation)} large">${escapeHtml(rec.recommendation || "HOLD")}</span>
+                        <span class="badge source">${escapeHtml(rec.source || "rule-based")}</span>
+                    </div>
+                </div>
+                <div class="confidence-wrap">
+                    <div class="confidence-bar">
+                        <div class="seg buy" style="width:${Number(confidence.buy || 0)}%"></div>
+                        <div class="seg hold" style="width:${Number(confidence.hold || 0)}%"></div>
+                        <div class="seg sell" style="width:${Number(confidence.sell || 0)}%"></div>
+                    </div>
+                    <div class="legend">
+                        <span class="legend-item"><span class="dot buy"></span> Buy ${Number(confidence.buy || 0)}%</span>
+                        <span class="legend-item"><span class="dot hold"></span> Hold ${Number(confidence.hold || 0)}%</span>
+                        <span class="legend-item"><span class="dot sell"></span> Sell ${Number(confidence.sell || 0)}%</span>
+                    </div>
+                </div>
+                <div class="summary-text">${escapeHtml(plainText(rec.summary || "No recommendation summary available."))}</div>
+                <div class="tech-grid">
+                    <div class="tech-box">
+                        <h4>Technical trend</h4>
+                        <div class="change ${trendClass(tech.trend)}" style="margin-bottom:8px;">${escapeHtml(String(tech.trend || "neutral").toUpperCase())}</div>
+                        <div class="small-note">Strength: ${Number(tech.strength || 0)}%</div>
+                        <div class="small-note">4W MA: ${formatInr(tech.ma_short || 0, 2)} • 12W MA: ${formatInr(tech.ma_long || 0, 2)}</div>
+                    </div>
+                    <div class="tech-box">
+                        <h4>Support / Resistance</h4>
+                        <div class="small-note">Support: ${formatInr(tech.support || 0, 2)}</div>
+                        <div class="small-note">Resistance: ${formatInr(tech.resistance || 0, 2)}</div>
+                        <div class="small-note">Reference price: ${formatInr(tech.current_price || 0, 2)}</div>
+                    </div>
+                </div>
+                <div class="tech-box">
+                    <h4>Signal bullets</h4>
+                    <ul class="signal-list">${Array.isArray(tech.signals) && tech.signals.length ? tech.signals.map((signal) => `<li>${escapeHtml(plainText(signal))}</li>`).join("") : "<li>No technical signals available.</li>"}</ul>
+                </div>
+            </article>`;
+    }).join("");
+}
+function renderPortfolio() {
+    const snapshot = portfolioSnapshot(loadPortfolio());
+    renderPortfolioSummary(snapshot);
+    renderHoldings(snapshot.holdings);
+    renderSells(snapshot.sells);
+    document.getElementById("currentCashDisplay").textContent = formatInr(snapshot.cash, 2);
+    document.getElementById("cashAmount").value = Number(snapshot.cash || 0).toFixed(2);
+}
+function renderPortfolioSummary(snapshot) {
+    const cards = [
+        { label: "Total Gold", value: formatQty(snapshot.totals.gold.quantity), sub: formatInr(snapshot.totals.gold.currentValue, 2) },
+        { label: "Total Silver", value: formatQty(snapshot.totals.silver.quantity), sub: formatInr(snapshot.totals.silver.currentValue, 2) },
+        { label: "Total Platinum", value: formatQty(snapshot.totals.platinum.quantity), sub: formatInr(snapshot.totals.platinum.currentValue, 2) },
+        { label: "Cash Available", value: formatInr(snapshot.cash, 2), sub: "Liquid cash balance" },
+        { label: "Portfolio Value", value: formatInr(snapshot.totalPortfolioValue, 2), sub: "Metals at current prices + cash" },
+        { label: "Total Invested", value: formatInr(snapshot.totalInvested, 2), sub: "Active holdings cost basis" },
+        { label: "Unrealised P&L", value: formatInr(snapshot.unrealisedPnl, 2), sub: snapshot.unrealisedPnl >= 0 ? "In profit at current prices" : "Below cost at current prices", cls: snapshot.unrealisedPnl > 0 ? "positive" : snapshot.unrealisedPnl < 0 ? "negative" : "neutral" },
+    ];
+    document.getElementById("portfolioSummary").innerHTML = cards.map((item) => `<div class="summary-stat"><div class="label">${escapeHtml(item.label)}</div><div class="value ${item.cls || ""}">${escapeHtml(item.value)}</div><div class="sub">${escapeHtml(item.sub)}</div></div>`).join("");
+}
+function renderHoldings(holdings) {
+    const tbody = document.getElementById("holdingsTableBody");
+    const empty = document.getElementById("holdingsEmpty");
+    if (!holdings.length) {
+        tbody.innerHTML = "";
+        empty.classList.remove("hidden");
+        return;
+    }
+    empty.classList.add("hidden");
+    tbody.innerHTML = holdings.map((holding) => {
+        const cfg = METAL_CONFIG[holding.metal];
+        const cls = holding.pnl > 0 ? "positive" : holding.pnl < 0 ? "negative" : "neutral";
+        return `<tr><td><strong>${cfg.emoji} ${escapeHtml(cfg.label)}</strong><div class="small-note">${escapeHtml(holding.notes || "No notes")}</div></td><td>${formatQty(holding.quantity_g)}</td><td>${formatInr(holding.buy_price_per_g, 2)}</td><td>${formatInr(holding.current_price_per_g, 2)}</td><td>${formatInr(holding.current_value, 2)}</td><td class="${cls}">${formatInr(holding.pnl, 2)}</td><td><button class="btn btn-danger sell-btn" type="button" data-id="${escapeHtml(holding.id)}">Sell</button></td></tr>`;
+    }).join("");
+}
+function renderSells(sells) {
+    const tbody = document.getElementById("sellHistoryBody");
+    const empty = document.getElementById("sellHistoryEmpty");
+    if (!sells.length) {
+        tbody.innerHTML = "";
+        empty.classList.remove("hidden");
+        return;
+    }
+    empty.classList.add("hidden");
+    tbody.innerHTML = sells.map((sell) => {
+        const cfg = METAL_CONFIG[sell.metal];
+        const cls = sell.pnl > 0 ? "positive" : sell.pnl < 0 ? "negative" : "neutral";
+        return `<tr><td>${escapeHtml(displayShortDate(sell.date))}</td><td>${cfg.emoji} ${escapeHtml(cfg.label)}</td><td>${formatQty(sell.quantity_g)}</td><td>${formatInr(sell.buy_avg_price, 2)}</td><td>${formatInr(sell.sell_price_per_g, 2)}</td><td class="${cls}">${formatInr(sell.pnl, 2)}</td></tr>`;
+    }).join("");
+}
+function openSellForm(id) {
+    const portfolio = loadPortfolio();
+    const holding = portfolio.holdings.find((item) => item.id === id);
+    if (!holding) return;
+    const cfg = METAL_CONFIG[holding.metal];
+    document.getElementById("sellHoldingId").value = holding.id;
+    document.getElementById("sellHoldingTitle").textContent = `${cfg.emoji} ${cfg.label}`;
+    document.getElementById("sellHoldingMeta").textContent = `Available: ${formatQty(holding.quantity_g)} • Avg buy: ${formatInr(holding.buy_price_per_g, 2)}`;
+    document.getElementById("sellQuantity").value = Number(holding.quantity_g).toFixed(2);
+    document.getElementById("sellQuantity").max = Number(holding.quantity_g).toFixed(2);
+    document.getElementById("sellPrice").value = Number(currentPricePerGram(holding.metal) || holding.buy_price_per_g).toFixed(2);
+    document.getElementById("sellDate").value = new Date().toISOString().slice(0, 10);
+    document.getElementById("sellFormCard").classList.remove("hidden");
+    document.getElementById("sellFormCard").scrollIntoView({ behavior: "smooth", block: "nearest" });
+}
+function hideSellForm() {
+    document.getElementById("sellFormCard").classList.add("hidden");
+    document.getElementById("sellHoldingId").value = "";
+}
+function bindPortfolio() {
+    document.getElementById("addHoldingForm").addEventListener("submit", (event) => {
+        event.preventDefault();
+        const quantity = Number(document.getElementById("holdingQuantity").value || 0);
+        const buyPrice = Number(document.getElementById("holdingBuyPrice").value || 0);
+        if (quantity <= 0 || buyPrice <= 0) {
+            setStatus("Enter a valid quantity and buy price.", "error");
+            return;
+        }
+        const portfolio = loadPortfolio();
+        portfolio.holdings.unshift(normalizeHolding({
+            id: uid(),
+            metal: document.getElementById("holdingMetal").value,
+            quantity_g: quantity,
+            buy_price_per_g: buyPrice,
+            date: document.getElementById("holdingDate").value,
+            notes: document.getElementById("holdingNotes").value,
+        }));
+        savePortfolio(portfolio);
+        event.target.reset();
+        setDefaultDates();
+        renderPortfolio();
+        setStatus("Holding added to your local portfolio.", "success");
+    });
+    document.getElementById("cashForm").addEventListener("submit", (event) => {
+        event.preventDefault();
+        const amount = Number(document.getElementById("cashAmount").value || 0);
+        if (amount < 0) {
+            setStatus("Cash amount cannot be negative.", "error");
+            return;
+        }
+        const portfolio = loadPortfolio();
+        portfolio.cash = amount;
+        savePortfolio(portfolio);
+        renderPortfolio();
+        setStatus("Cash balance updated.", "success");
+    });
+    document.getElementById("sellFormCard").addEventListener("submit", (event) => {
+        event.preventDefault();
+        const holdingId = document.getElementById("sellHoldingId").value;
+        const quantity = Number(document.getElementById("sellQuantity").value || 0);
+        const sellPrice = Number(document.getElementById("sellPrice").value || 0);
+        const sellDate = document.getElementById("sellDate").value;
+        const portfolio = loadPortfolio();
+        const holding = portfolio.holdings.find((item) => item.id === holdingId);
+        if (!holding) {
+            setStatus("Holding not found.", "error");
+            hideSellForm();
+            renderPortfolio();
+            return;
+        }
+        if (quantity <= 0 || quantity > holding.quantity_g) {
+            setStatus("Sell quantity must be greater than zero and not exceed available quantity.", "error");
+            return;
+        }
+        if (sellPrice <= 0) {
+            setStatus("Sell price must be greater than zero.", "error");
+            return;
+        }
+        const pnl = (sellPrice - holding.buy_price_per_g) * quantity;
+        portfolio.sells.unshift(normalizeSell({ id: uid(), metal: holding.metal, quantity_g: quantity, sell_price_per_g: sellPrice, buy_avg_price: holding.buy_price_per_g, date: sellDate, pnl }));
+        portfolio.cash = Number(portfolio.cash || 0) + (sellPrice * quantity);
+        holding.quantity_g = Number(holding.quantity_g) - quantity;
+        portfolio.holdings = portfolio.holdings.filter((item) => Number(item.quantity_g) > 0.000001);
+        savePortfolio(portfolio);
+        hideSellForm();
+        renderPortfolio();
+        setStatus("Sale recorded and cash balance updated.", "success");
+    });
+    document.getElementById("cancelSellBtn").addEventListener("click", () => { hideSellForm(); setStatus("", "info"); });
+    document.addEventListener("click", (event) => {
+        const button = event.target.closest(".sell-btn");
+        if (button) openSellForm(button.dataset.id);
+    });
+    document.getElementById("exportPortfolioBtn").addEventListener("click", () => {
+        const payload = JSON.stringify(loadPortfolio(), null, 2);
+        const blob = new Blob([payload], { type: "application/json" });
+        const url = URL.createObjectURL(blob);
+        const link = document.createElement("a");
+        link.href = url;
+        link.download = `goldsilver-portfolio-${new Date().toISOString().slice(0, 10)}.json`;
+        document.body.appendChild(link);
+        link.click();
+        link.remove();
+        URL.revokeObjectURL(url);
+        setStatus("Portfolio exported as JSON.", "success");
+    });
+    const importInput = document.getElementById("portfolioImportInput");
+    document.getElementById("importPortfolioBtn").addEventListener("click", () => importInput.click());
+    importInput.addEventListener("change", () => {
+        const file = importInput.files && importInput.files[0];
+        if (!file) return;
+        const reader = new FileReader();
+        reader.onload = () => {
+            try {
+                const parsed = JSON.parse(String(reader.result || "{}"));
+                savePortfolio({
+                    holdings: Array.isArray(parsed?.holdings) ? parsed.holdings.map(normalizeHolding).filter((i) => i.quantity_g > 0) : [],
+                    sells: Array.isArray(parsed?.sells) ? parsed.sells.map(normalizeSell) : [],
+                    cash: Number(parsed?.cash || 0),
+                });
+                hideSellForm();
+                renderPortfolio();
+                setStatus("Portfolio imported successfully.", "success");
+            } catch (error) {
+                console.error(error);
+                setStatus("Invalid portfolio file. Please import a valid JSON export.", "error");
+            } finally {
+                importInput.value = "";
+            }
+        };
+        reader.readAsText(file);
+    });
+}
+function normalizeCategory(category) {
+    const raw = String(category || "market").trim().toLowerCase();
+    if (!raw || raw === "all") return "market";
+    if (raw.includes("geo") || raw.includes("war") || raw.includes("sanction") || raw.includes("trade")) return "geopolitics";
+    if (raw.includes("central") || raw.includes("fed") || raw.includes("ecb") || raw.includes("boe") || raw.includes("rbi")) return "central bank";
+    if (raw.includes("currency") || raw.includes("forex") || raw.includes("fx") || raw.includes("dollar")) return "currency";
+    if (raw.includes("inflation") || raw.includes("cpi") || raw.includes("ppi")) return "inflation";
+    if (raw.includes("supply") || raw.includes("demand") || raw.includes("mine") || raw.includes("production")) return "supply/demand";
+    if (raw.includes("metal") || raw.includes("bullion") || raw.includes("gold") || raw.includes("silver") || raw.includes("platinum")) return "metals";
+    return "market";
+}
+function categoryBadgeClass(category) {
+    return normalizeCategory(category).replace(/\s+/g, "-").replace("/", "-");
+}
+function bindNewsFilters() {
+    const buttons = [...document.querySelectorAll("#newsFilterBar .filter-btn")];
+    buttons.forEach((button) => {
+        button.addEventListener("click", () => {
+            activeNewsCategory = button.dataset.category;
+            buttons.forEach((b) => b.classList.toggle("active", b === button));
+            renderNews();
+        });
+    });
+}
+function renderNews() {
+    const articles = Array.isArray(NEWS_DATA) ? NEWS_DATA : [];
+    const filtered = articles.filter((article) => activeNewsCategory === "all" || normalizeCategory(article?.category) === activeNewsCategory);
+    document.getElementById("newsCount").textContent = filtered.length.toLocaleString("en-IN");
+    const grid = document.getElementById("newsGrid");
+    const empty = document.getElementById("newsEmpty");
+    if (!filtered.length) {
+        grid.innerHTML = "";
+        empty.classList.remove("hidden");
+        return;
+    }
+    empty.classList.add("hidden");
+    grid.innerHTML = filtered.map((article) => {
+        const normalized = normalizeCategory(article?.category);
+        const label = normalized === "supply/demand" ? "Supply/Demand" : normalized.replace(/\b\w/g, (c) => c.toUpperCase());
+        return `
+            <article class="news-card">
+                <div style="display:flex; justify-content:space-between; gap:12px; flex-wrap:wrap;">
+                    <span class="badge source">${escapeHtml(plainText(article?.source || "Unknown"))}</span>
+                    <span class="badge category-${categoryBadgeClass(normalized)}">${escapeHtml(label)}</span>
+                </div>
+                <a class="news-title" href="${escapeHtml(article?.url || "#")}" target="_blank" rel="noopener noreferrer">${escapeHtml(plainText(article?.title || "Untitled article"))}</a>
+                <div class="news-desc">${escapeHtml(truncate(article?.description || "No description available."))}</div>
+                <div class="news-meta"><span>${escapeHtml(displayShortDate(article?.date))}</span><span>${escapeHtml(plainText(article?.category || label))}</span></div>
+            </article>`;
+    }).join("");
+}
+function setDefaultDates() {
+    const today = new Date().toISOString().slice(0, 10);
+    const holdingDate = document.getElementById("holdingDate");
+    const sellDate = document.getElementById("sellDate");
+    if (holdingDate && !holdingDate.value) holdingDate.value = today;
+    if (sellDate && !sellDate.value) sellDate.value = today;
+}
+function init() {
+    initTabs();
+    renderDashboard();
+    renderRecommendations();
+    renderPortfolio();
+    renderNews();
+    bindPortfolio();
+    bindNewsFilters();
+    setDefaultDates();
+}
+document.addEventListener("DOMContentLoaded", init);
+</script>
+</body>
+</html>
