@@ -54,7 +54,7 @@
         "hold": 25
       },
       "summary": "Gold is showing positive signals. Positive daily movement of 1.0%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-10T11:28:04.786034",
+      "timestamp": "2026-11-10T15:05:57.066032",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 25
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 1.6%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-10T11:28:04.876428",
+      "timestamp": "2026-11-10T15:05:57.142274",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 25
       },
       "summary": "Platinum is showing positive signals. Positive daily movement of 0.8%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-10T11:28:04.991056",
+      "timestamp": "2026-11-10T15:05:57.210138",
       "source": "rule-based"
     }
   },
@@ -135,6 +135,33 @@
   },
   "news": [
     {
+      "title": "US consumer prices rise above expectations in October",
+      "description": "Consumer prices in the US experienced a larger-than-expected increase in October, affecting future Federal Reserve interest rates. The Consumer Price Index rose by 0.4%, following a 0.6% increase in September. Core CPI also increased, leading many to predict a rate hike in December. Despite missing ",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-consumer-prices-rise-above-expectations-in-october/articleshow/135712897.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-11-10",
+      "image": "",
+      "category": "central_bank"
+    },
+    {
+      "title": "US stocks edge lower after October's hot inflation print: Stock Market Live Updates",
+      "description": "",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-anthropic-ipo-nvidia-intel-marvell-tech-ai-chip-stocks-inflation-fed-rate-hike-treasury-bond-yield-news-10th-november-2026/liveblog/135712173.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-11-10",
+      "image": "",
+      "category": "inflation"
+    },
+    {
+      "title": "Nasdaq futures slip with Nvidia woes, Anthropic IPO in focus",
+      "description": "Nvidia's CEO Jensen Huang is facing scrutiny, impacting investor sentiment in the tech sector. Anthropic is preparing for a huge initial public offering, potentially raising $64.4 billion. The market is anxious about upcoming inflation data that could influence stock performance. Cooling oil prices ",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-futures-slip-with-nvidia-woes-anthropic-ipo-in-focus/articleshow/135711347.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-11-10",
+      "image": "",
+      "category": "inflation"
+    },
+    {
       "title": "US Treasury yields rise as Fed's Waller presses rate hike case",
       "description": "Following remarks from Federal Reserve Governor Christopher Waller, short-dated Treasury yields saw an uptick, as he proposed the necessity of action despite seemingly moderated inflation data. Waller highlighted a possible half-point rate increase if inflation intensifies, signaling potential shift",
       "url": "https://economictimes.indiatimes.com/markets/bonds/us-treasury-yields-rise-as-feds-waller-presses-rate-hike-case/articleshow/135708551.cms",
@@ -153,15 +180,6 @@
       "category": "geopolitics"
     },
     {
-      "title": "Eurozone bond yields fall as lower energy prices ease inflation concerns",
-      "description": "On Tuesday, government bond yields in the Eurozone experienced a notable drop, particularly for French and Italian bonds. The easing of inflation worries, attributed to falling oil and natural gas prices, enhanced demand for bonds. Germany's 10-year bond yield fell to 3.25%, while France's decreased",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/eurozone-bond-yields-fall-as-lower-energy-prices-ease-inflation-concerns/articleshow/135707370.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-11-10",
-      "image": "",
-      "category": "currency"
-    },
-    {
       "title": "Gold (XAUUSD), Silver, Platinum Forecasts \u2013 Gold Gains Ground As Oil Tests New Lows - FXEmpire",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPbEFWXy1YUmhXdFVsT21Rc3JWUmJTTXJacG1ycU1PVUkyRUFlSFUyTHUtZm1fSmt6Uk1SdTY2dzYyYWg2TkVRYWJBM25RakxUdkNIVXl6VkszaHQ4SDV4eVNqNVdGZ2tqamttbWJOeG5zbE1MRmtJc2VmYTNQU1hDMmEwZEpOcmRwYnVKdjFBTFNsVzg3ckYxMlVUUFVzcHNnSm16WHZLZk0xaUNTMlpfVzBpU2dZWEFvTm",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbEFWXy1YUmhXdFVsT21Rc3JWUmJTTXJacG1ycU1PVUkyRUFlSFUyTHUtZm1fSmt6Uk1SdTY2dzYyYWg2TkVRYWJBM25RakxUdkNIVXl6VkszaHQ4SDV4eVNqNVdGZ2tqamttbWJOeG5zbE1MRmtJc2VmYTNQU1hDMmEwZEpOcmRwYnVKdjFBTFNsVzg3ckYxMlVUUFVzcHNnSm16WHZLZk0xaUNTMlpfVzBpU2dZWEFvTmxxYXEzUi11aURONU5j?oc=5",
@@ -171,13 +189,94 @@
       "category": "currency"
     },
     {
-      "title": "Fake federal agents push seniors to turn savings into gold bars for couriers to collect",
-      "description": "Scammers posing as FTC agents convinced retirees to buy gold bars and hand them to couriers using secret passwords like \"tulip\" at restaurants.",
-      "url": "https://www.foxnews.com/us/fake-federal-agents-push-seniors-turn-savings-gold-bars-couriers-collect",
-      "source": "Fox News",
+      "title": "Bit Planet Games' Christopher Stockman On Ultrawings Remakes & More",
+      "description": "In the first episode of VR Spotlight, our live interview series, we sat down with Bit Planet Games CEO Christopher Stockman to discuss the new Ultrawings Quest 3 remasters, PlayStation VR2, Valve's Steam Frame, and the state of VR in 2026.",
+      "url": "https://www.uploadvr.com/vr-spotlight-interview-christopher-stockman-bit-planet-games/",
+      "source": "UploadVR",
       "date": "2026-11-09",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/Sunny-Gold_001.jpg",
-      "category": "central_bank"
+      "image": "https://zapier-dev-files.s3.amazonaws.com/cli-platform/20762/GHmHc7PB-d9Dfpk-rGgbu1GIPXYv-Q3rkVweEDgPySmXM9i4gFNBcEMJ5ddIcAvoncb4KM3oNpXtGdXKiWcWjy8iOkqxJumnIRft1Qd0YWE8CdbSJNnQf4Cc9hUZf-e7depvI3nyDXTfn_-V6Se8h5lE5xpyj-Mo3QmPoaXapiA",
+      "category": "market"
+    },
+    {
+      "title": "Polymarket Expands Chainlink-Powered 15-Minute Markets to Gold and Silver",
+      "description": "Polymarket and Chainlink announced an expansion of their oracle partnership on October 29, bringing high-speed up/down prediction markets to gold and\u2026",
+      "url": "https://www.newsbtc.com/technology/polymarket-expands-chainlink-powered-15-minute-markets-to-gold-and-silver/",
+      "source": "newsBTC",
+      "date": "2026-11-09",
+      "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/newsbtc-n08-23-silver-and-gold-ingots-commons.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "\u20b91.11 lakh on gold coins! Inside India's biggest Diwali shopping splurges",
+      "description": "Diwali's big spenders: One Mumbai shopper bought \u20b91.11 lakh worth of gold coins",
+      "url": "https://www.business-standard.com/finance/personal-finance/1-11-lakh-on-gold-coins-inside-india-s-biggest-diwali-shopping-splurges-126110901202_1.html",
+      "source": "Business Standard",
+      "date": "2026-11-09",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2013-07/10/thumb/featurecrop/1200X628/1373461477-935.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "Grayscale\u2019s Zach Pandl says Hyperliquid could fill the AI compute derivatives gap",
+      "description": "Hyperliquid's potential to bridge the AI compute derivatives gap could revolutionize financial markets, impacting investment strategies and regulatory landscapes.\nThe post Grayscale\u2019s Zach Pandl says Hyperliquid could fill the AI compute derivatives gap appea\u2026",
+      "url": "https://cryptobriefing.com/hyperliquid-ai-compute-derivatives-grayscale/",
+      "source": "Crypto Briefing",
+      "date": "2026-11-09",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/09092842/library-grayscale-s-zach-pandl-says-hyperliquid-could-fill-the-a-800x450.png",
+      "category": "market"
+    },
+    {
+      "title": "Sebi approves 6 IPOs including Mahanadi Coalfields, Veritas Finance and Sagar Defence. Check details",
+      "description": "Sebi has granted approval for initial public offerings from six companies across various sectors. Companies like Mahanadi Coalfields and Sagar Defence Engineering are set to enter the stock market soon. The IPOs include both offers for sale and fresh issue co\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/sebi-approves-6-ipos-including-mahanadi-coalfields-veritas-finance-and-sagar-defence-check-details/articleshow/135684603.cms",
+      "source": "The Times of India",
+      "date": "2026-11-09",
+      "image": "https://img.etimg.com/thumb/msid-135684645,width-1200,height-900,imgsize-19244,overlay-etmarkets/articleshow.jpg",
+      "category": "market"
+    },
+    {
+      "title": "OLIVER HOLT: Man United fans' anti-Glazer walkout flopped because owners don't care - but it's not impossible to oust them. Here's what they should do instead",
+      "description": "OLIVER HOLT: The only chance I got to hold one of the Glazers to account for what they were doing to United came in Tampa in 2009, a few days before the Super Bowl.",
+      "url": "https://www.dailymail.com/sport/football/article-16277683/Manchester-United-supporters-Glazers-walkout.html",
+      "source": "Dailymail.com",
+      "date": "2026-11-09",
+      "image": "https://i.dailymail.com/1s/2026/11/09/11/112394463-0-image-m-13_1794225371870.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 6.07 Million Tokens, and Total Crypto and Total Cash & Marketable Securities Holdings of $14.3 Billion",
+      "description": "Bitmine owns 4.97% of the total ETH coin supply of 122.2 million Vitalik Buterin, founder of Ethereum, states \"I've finally made up my mind, ETH is a store of value, ETH is money\" Bitmine is 99% of the way to the 'Alchemy of 5%' in just 15 months Bitmine rele\u2026",
+      "url": "https://www.prnewswire.co.uk/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-6-07-million-tokens-and-total-crypto-and-total-cash--marketable-securities-holdings-of-14-3-billion-302932906.html",
+      "source": "PR Newswire UK",
+      "date": "2026-11-09",
+      "image": "https://mmx.prnewswire.com/media/MS2030224/image1.jpg?id=OA3065594&p=facebook",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Vinamilk's Optimum Gold Becomes Sole Vietnamese Winner in Infant Formula Category at World Branding Awards",
+      "description": "LONDON, Nov. 9, 2026 /PRNewswire/ -- Vinamilk's premium infant formula, Optimum Gold, has been named \"Brand of the Year\" at the prestigious World Branding Awards 2026-2027, becoming the sole Vietnamese winner in the highly competitive Infant Formula category.\u2026",
+      "url": "https://www.prnewswire.co.uk/news-releases/vinamilks-optimum-gold-becomes-sole-vietnamese-winner-in-infant-formula-category-at-world-branding-awards-302933299.html",
+      "source": "PR Newswire UK",
+      "date": "2026-11-09",
+      "image": "https://mmx.prnewswire.com/media/MS2030442/20261109043258EST_image_1.jpg?id=OA3066166&p=facebook",
+      "category": "geopolitics"
+    },
+    {
+      "title": "The Curse It Is Cast",
+      "description": "\u201c. . . history and even corruption itself have a way of normalizing the unbearable.\u201d \u2014Naomi Wolf on Substack",
+      "url": "https://www.kunstler.com/p/the-curse-it-is-cast-fff",
+      "source": "Kunstler.com",
+      "date": "2026-11-09",
+      "image": "https://substackcdn.com/image/fetch/$s_!6rzx!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1721e162-2129-4fdc-94fc-64c90a96de85_700x396.heic",
+      "category": "market"
+    },
+    {
+      "title": "Nifty holds 25,000 after volatile session; PSU Banks surge 3.7%, IT drags",
+      "description": "The Sensex ended at 81,106.65, up 107.25 points or 0.13%, while the Nifty settled at 25,044.65, gaining 58.25 points or 0.23%",
+      "url": "https://www.thehindubusinessline.com/markets/nifty-holds-25000-after-volatile-session-psu-banks-surge-37-it-drags/article71682374.ece",
+      "source": "BusinessLine",
+      "date": "2026-11-09",
+      "image": "https://bl-i.thgim.com/public/incoming/nokyyc/article71681704.ece/alternates/LANDSCAPE_1200/iStock-2260474979%202.jpg",
+      "category": "market"
     },
     {
       "title": "ORVANA COMPLETES REPAYMENT OF EMIPA BONDS I, PROVIDES UPDATE ON ITS BOLIVIAN SUBSIDIARY, AND ANNOUNCES PARTICIPATION IN THE 2026 PRECIOUS METALS SUMMIT IN ZURICH",
@@ -187,60 +286,6 @@
       "date": "2026-11-09",
       "image": "https://mmx.prnewswire.com/media/MS2030237/Orvana-Minerals-Corp-ORVANA-COMPLETES-REPAYMENT-OF-EMIPA-BONDS.jpg?id=OA3065670&p=facebook",
       "category": "metals"
-    },
-    {
-      "title": "Gold can finance development but cannot define the limits of our economic future",
-      "description": "We are richly endowed with natural resources, including gold, cocoa, crude oil, bauxite, manganese, timber and fertile agricultural land. Among these resources, gold has become one of our most important sources of foreign exchange and government revenue. For \u2026",
-      "url": "https://thechronicle.com.gh/gold-can-finance-development-but-cannot-define-the-limits-of-our-economic-future/",
-      "source": "Thechronicle.com.gh",
-      "date": "2026-11-09",
-      "image": "https://thechronicle.com.gh/wp-content/uploads/2025/11/Dr.-Edward-Kwadwo-Yeboah-the-writer.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Weekly Climate and Energy News Roundup #714",
-      "description": "\u201cOrthodoxy means not thinking \u2014 not needing to think. Orthodoxy is unconsciousness.\u201d\u2014 George Orwell, 1984 [H/t Guy de la B\u00e9doy\u00e8re]\nThe post Weekly Climate and Energy News Roundup #714 appeared first on Watts Up With That?.",
-      "url": "https://wattsupwiththat.com/2026/11/09/weekly-climate-and-energy-news-roundup-714/",
-      "source": "Wattsupwiththat.com",
-      "date": "2026-11-09",
-      "image": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/11/capitol-reef-feature-1024x512-1.webp?fit=1024%2C512&quality=75&ssl=1",
-      "category": "market"
-    },
-    {
-      "title": "LTCG tax: India taxes capital gains. These countries don't: Singapore, Hong Kong and more",
-      "description": "After a pause of 14 long years, it was reintroduced in 2018 by then finance minister Arun Jaitley, who argued that the 'return on investment in equity is already quite attractive' and there's a strong case for bringing long-term capital gains from listed equi\u2026",
-      "url": "https://www.livemint.com/money/personal-finance/ltcg-tax-india-taxes-capital-gains-these-countries-dont-singapore-hong-kong-and-more-11794215773712.html",
-      "source": "Livemint",
-      "date": "2026-11-09",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/Capital_Gains_1794217844613_h67d_1794217853356_G0Xq_b557f6e7-a2e3-47f8-8dd9-063d4483d5e7_seiZ.png",
-      "category": "market"
-    },
-    {
-      "title": "Which Hotel Brands Belong to Which Group? And Which Would I Choose to stay in?",
-      "description": "Last week, I talked about booking engines and how so many belong to the same few companies. In the hotel world, it\u2019s much the same. People often get confused about which hotel belongs to which group. So I thought it would be useful to list the main companies,\u2026",
-      "url": "https://wildabouttravel.boardingarea.com/2026/11/39468/",
-      "source": "Boardingarea.com",
-      "date": "2026-11-09",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "Olympic swimmer Ariarne Titmus announces she's expecting her first child less than two months after engagement to investment analyst",
-      "description": "Ariarne Titmus is about to face her biggest challenge - becoming a first-time mum.",
-      "url": "https://www.dailymail.com/tvshowbiz/article-16277645/ariarne-titmus-baby-pregnancy-olympics-swimming-mac-powell.html",
-      "source": "Dailymail.com",
-      "date": "2026-11-09",
-      "image": "https://i.dailymail.com/1s/2026/11/09/09/112391801-0-image-m-72_1794215954143.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Adam Back Says Bitcoin Is Entering a Third Adoption Wave Led by Banks and Pension Funds",
-      "description": "Bitcoin is about to enter its \u2018third phase\u2019 of global adoption, according to Adam Back, the CEO of Blockstream. In an interview this week (as tracked by Wu Blockchain), the legendary British cryptographer said BTC is preparing to enter this new growth phase. \u2026",
-      "url": "https://zycrypto.com/adam-back-says-bitcoin-is-entering-a-third-adoption-wave-led-by-banks-and-pension-funds/",
-      "source": "ZyCrypto",
-      "date": "2026-11-09",
-      "image": "https://zycrypto.com/wp-content/uploads/2021/10/Blockchain.com-Executive-Blasts-El-Salvadors-Method-Of-Bitcoin-Adoption.jpg",
-      "category": "market"
     },
     {
       "title": "BTC price eyes $73K amid Nvidia volatility: Three things to know in Bitcoin this week",
@@ -270,139 +315,94 @@
       "category": "metals"
     },
     {
-      "title": "Nifty slips to 24,882 at midday; IT, Steel, Cement drag as Rupee hits 2026 high",
-      "description": "The Sensex declined 362.13 points, or 0.45 per cent, to 80,637.27 from its previous close of 80,999.40, as selling pressure broadened across IT, metals and cement sectors, overwhelming early gains in banking and pharma stocks.",
-      "url": "https://www.thehindubusinessline.com/markets/nifty-slips-to-24882-at-midday-it-steel-cement-drag-as-rupee-hits-2026-high/article71681848.ece",
-      "source": "BusinessLine",
-      "date": "2026-11-09",
-      "image": "https://bl-i.thgim.com/public/incoming/6h7w0w/article71681879.ece/alternates/LANDSCAPE_1200/iStock-2284817384.jpg",
-      "category": "currency"
-    },
-    {
-      "title": "Gold rises over 1% as softer oil prices ease inflation worries",
-      "description": "Gold \u200brose more than 1% on Monday as softer \u2060oil prices eased inflation concerns, while investors awaited key US inflation data and fresh signals from the Federal Reserve on its policy outlook.",
-      "url": "https://www.thehindubusinessline.com/markets/commodities/gold-rises-over-1-as-softer-oil-prices-ease-inflation-worries/article71681460.ece",
-      "source": "BusinessLine",
-      "date": "2026-11-09",
-      "image": "https://bl-i.thgim.com/public/incoming/heobf5/article71680774.ece/alternates/LANDSCAPE_1200/hyng_Gold_jewellery_09.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "American West copper hits point to monster Canadian upside",
-      "description": "American West Metals has defined a huge exploration target of up to 214Mt at 1.02 per cent for 2.2Mt of contained copper at its Storm project in Canada, dwarfing its existing prefeasibility study resource.",
-      "url": "https://thewest.com.au/business/bulls-n-bears/american-west-copper-hits-point-to-monster-canadian-upside-c-23135743",
-      "source": "The West Australian",
-      "date": "2026-11-09",
-      "image": "https://images.thewest.com.au/publication/C-23135743/70845d3ecc1ba0bdcf60d200868200f6525d88d1-16x9-x0y75w1440h810.jpg?imwidth=1200",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Gold, silver prices today, 9 November: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
-      "description": "Gold and silver prices today, 9 November: Check the latest 24K, 22K gold and 999 silver retail rates across Delhi, Mumbai, Kolkata and other major Indian cities, along with MCX market updates.",
-      "url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-9-november-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11794188827441.html",
-      "source": "Livemint",
-      "date": "2026-11-09",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/c016497b-2f73-4c4c-a0e1-5ab04fbf7605_1794189165929_S0qu_1794189170189_4EbI_c13d1d4a-af25-40da-90fa-4e62c790397d_3VIt.png",
-      "category": "metals"
-    },
-    {
-      "title": "FPI inflows into FAR G-Secs rise nearly \u20b98K cr as rupee gains, yields ease",
-      "description": "FPI holdings in FAR government securities rose to \u20b93.65 lakh crore on November 9, supported by a stronger rupee and easing bond yields.",
-      "url": "https://www.business-standard.com/economy/news/fpi-inflows-into-far-g-secs-rise-nearly-8k-cr-as-rupee-gains-yields-ease-126110900736_1.html",
-      "source": "Business Standard",
-      "date": "2026-11-09",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/08/thumb/fitandfill/1200X628/1791482125-5173.jpg",
-      "category": "currency"
-    },
-    {
-      "title": "Envision Energy and ju:niz Energy Expand Partnership with 442 MWh BESS Project to Strengthen Germany's Future Energy System",
-      "description": "V\u00d6HRINGEN, Germany, Nov. 9, 2026 /PRNewswire/ -- Envision Energy, a global leader in green technology, and ju:niz Energy are expanding their partnership with the 442 MWh Smareg 13 (V\u00f6hringen II) battery energy storage system project in Bavaria. The project ma\u2026",
-      "url": "https://www.prnewswire.co.uk/news-releases/envision-energy-and-juniz-energy-expand-partnership-with-442-mwh-bess-project-to-strengthen-germanys-future-energy-system-302933281.html",
+      "title": "7th World Media Summit Unveils Preview Video \"AI-Powered, Toward a Shared New Future\"",
+      "description": "BEIJING, Nov. 9, 2026 /PRNewswire/ -- The preview video for the 7th World Media Summit, titled AI-Powered, Toward a Shared New Future, was released on November 7. Combining live-action and archival footage with AI-generated visuals, the video explores the evo\u2026",
+      "url": "https://www.prnewswire.co.uk/news-releases/7th-world-media-summit-unveils-preview-video-ai-powered-toward-a-shared-new-future-302933495.html",
       "source": "PR Newswire UK",
       "date": "2026-11-09",
-      "image": "https://mmx.prnewswire.com/media/MS2030467/20261109055336EST_image_1.jpg?id=OA3066113&p=facebook",
+      "image": "https://mmx.prnewswire.com/media/MS2030333/20261109001547EST_video_1.mp4?id=OA3066626&p=thumbnail",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Yangwang vs Rolls-Royce: size and tech can't beat legacy",
+      "description": "Big value has worked for China's mainstream brands but BYD's luxury arm faces an uphill battle\n\nWith the unveiling of the new Yangwang Altior comes a real test for one of China\u2019s fastest-growing and most prolific global car makers: can BYD\u2019s new luxury brand \u2026",
+      "url": "https://www.autocar.co.uk/opinion/new-cars/yangwang-vs-rolls-royce-size-and-tech-cant-beat-legacy",
+      "source": "Autocar",
+      "date": "2026-11-09",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/first-drives/legacy/l19_0.jpg",
       "category": "market"
     },
     {
-      "title": "Indonesia highlights SMI contributions to record manufacturing growth",
-      "description": "Small and medium-sized industries (SMIs) remain the backbone of Indonesia&rsquo;s industrial expansion, driving job creation and regional economic growth as ...",
-      "url": "https://en.antaranews.com/news/441371/indonesia-highlights-smi-contributions-to-record-manufacturing-growth",
-      "source": "Antaranews.com",
+      "title": "EVs Displace 5 Times More Oil Globally Than They Did 5 Years Ago \u2014 Analysis",
+      "description": "Five years on from Glasgow, EVs have proved the single most effective way to curb oil use, says T&E. Battery electric vehicles (BEVs) make up about 4.2% of the global car fleet but account for a quarter of all new cars sold worldwide; BEVs displace 1.2 millio\u2026",
+      "url": "https://cleantechnica.com/2026/11/09/evs-displace-5-times-more-oil-globally-than-they-did-5-years-ago-analysis/",
+      "source": "CleanTechnica",
       "date": "2026-11-09",
-      "image": "https://cdn.antaranews.com/cache/1200x800/2026/11/09/WhatsApp-Image-2026-11-09-at-13.34.52_edit_166373811399090.jpg",
+      "image": "https://cleantechnica.com/wp-content/uploads/2025/04/New-BYD-Seal-Europe-blue.jpeg",
       "category": "market"
     },
     {
-      "title": "Godrej Properties to launch Rs 32,000 cr homes H2 FY27 amid strong housing demand",
-      "description": "Godrej Properties intends to launch residential projects worth Rs 32,000 crore in the upcoming fiscal year. The company aims to double its previous fiscal launches in response to strong housing demand. Sales bookings are expected to rise by 22 percent to reac\u2026",
-      "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/godrej-properties-to-launch-rs-32000-cr-homes-h2-fy27-amid-strong-housing-demand/articleshow/135680134.cms",
-      "source": "The Times of India",
+      "title": "Data Security Market worth $56.52 billion by 2031 - Exclusive Report by MarketsandMarkets\u2122",
+      "description": "DELRAY BEACH, Fla., Nov. 9, 2026 /PRNewswire/ -- According to MarketsandMarkets\u2122, the Data Security Market is projected to grow from USD 32.89 billion in 2026 to USD 56.52 billion by 2031 at a CAGR of 11.4% during the forecast period. Browse 350 market data T\u2026",
+      "url": "https://www.prnewswire.co.uk/news-releases/data-security-market-worth-56-52-billion-by-2031--exclusive-report-by-marketsandmarkets-302932032.html",
+      "source": "PR Newswire UK",
       "date": "2026-11-09",
-      "image": "https://img.etimg.com/thumb/msid-135680333,width-1200,height-900,imgsize-191004,overlay-economictimes/articleshow.jpg",
-      "category": "supply_demand"
+      "image": "https://mmx.prnewswire.com/media/MS1173081/MarketsandMarkets-Logo.jpg?id=OA3062874&p=facebook",
+      "category": "currency"
     },
     {
-      "title": "The Illusion of the Security Umbrella: The contradiction between hosting an American Base and becoming a target!",
-      "description": "The American fleet was supposed to be the ultimate guarantee of Gulf\u2019s security. Instead, the war with Iran has exposed the uncomfortable bargain beneath Arab Nations strategic partnership with Washington.\n\n\n Edited by\u00a0iEpikairaInternational politics is gener\u2026",
-      "url": "https://i-epikaira.blogspot.com/2026/11/the-illusion-of-security-umbrella.html",
-      "source": "Blogspot.com",
+      "title": "Jakobsen completes McLaren's WEC Hypercar driver line-up",
+      "description": "Malthe Jakobsen has been announced as McLaren\u2019s final signing for its 2027 World Endurance Championship Hypercar project.Fresh from his stint with Peugeot, the Dane will be reunited with his former team-mate\u00a0Mikkel Jensen and joining the other drivers already\u2026",
+      "url": "https://www.autosport.com/wec/news/jakobsen-completes-mclarens-wec-hypercar-driver-line-up/10873377/",
+      "source": "autosport.com",
       "date": "2026-11-09",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwGR6uZ1rk9oY1utTQNAaONAy6UXQA-fuuAfF47Lmp8xmnkK7YRjRJlNaUa0CCi7wCmYF98JGdRlL7kPHpVD97dPu4fSDergNNnMN29b1gN40d-kzfFY8ZUZxk1v2bp1v5-_wm2dQfjTj6F5M0k4FaC9SWfwuGxFpTOtU6ApnVxh-Bi9QcGmq_5RJrjs6Z/w400-h223/179084387035b7.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "A strong El Nino could drag the crisis into 2027 and intensify heatwaves, extremes of rainfall",
-      "description": "Strong El Ni\u00f1o, aided by warming climate, risks record heat, heavy rainfall, and escalating climate crises through 2027, warns WMO.",
-      "url": "https://www.thehindubusinessline.com/economy/agri-business/a-strong-el-nino-could-drag-the-crisis-into-2027-and-intensify-heatwaves-extremes-of-rainfall/article71682253.ece",
-      "source": "BusinessLine",
-      "date": "2026-11-09",
-      "image": "https://bl-i.thgim.com/public/incoming/9jf2mj/article71682369.ece/alternates/LANDSCAPE_1200/2026-11-04T110007Z_1266828331_RC2U9MAP7YVB_RTRMADP_3_CLIMATE-CHANGE-ECB.JPG",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Govt may extend support measures in FY28 Budget to boost manufacturing of 100 products: Official",
-      "description": "The government may announce Budget 2027-28 support measures to boost domestic manufacturing of 100 products, including auto components, chemicals and machinery, to reduce import dependence. DPIIT has identified the products after consultations with ministries\u2026",
-      "url": "https://economictimes.indiatimes.com/news/economy/policy/govt-may-extend-support-measures-in-fy28-budget-to-boost-manufacturing-of-100-products-official/articleshow/135680256.cms",
-      "source": "The Times of India",
-      "date": "2026-11-09",
-      "image": "https://img.etimg.com/thumb/msid-135680308,width-1200,height-900,imgsize-183650,overlay-economictimes/articleshow.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Iran War: Trump Signals No Big Attack in CBS Interview; Barmy CENTCOM \u201cIron Gate\u201d Plan Proof of Weakness or Perhaps Cover for Iraq Ground Operation?",
-      "description": "Today's Iran war news: Is post-election fallout already starting to curb Trump's maneuver room?",
-      "url": "https://www.nakedcapitalism.com/2026/11/iran-war-trump-signals-no-big-attack-in-cbs-interview-barmy-centcom-iron-gate-plan-proof-of-weakness-or-perhaps-cover-for-iraq-ground-operation.html",
-      "source": "Nakedcapitalism.com",
-      "date": "2026-11-09",
-      "image": "https://www.nakedcapitalism.com/wp-content/uploads/2026/11/00-BM-TV.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Drug possession is illegal. Why can people use openly in public?",
-      "description": "The drop in prosecutions \u2014 and the apparent rise in open usage \u2014 coincides with a Public Prosecution Service of Canada policy change in 2020 directing prosecutors away from laying criminal charges for drug possession, according to police officials and experts\u2026",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/nl-open-drug-use-needles-9.7405420",
-      "source": "CBC News",
-      "date": "2026-11-09",
-      "image": "https://i.cbc.ca/ais/b0a8109f-c402-4cf7-9f46-dc112c6e1b7b,1793813672362/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
+      "image": "https://cdn-1.motorsport.com/images/amp/6grQEJbY/s6/malthe-jakobsen-mclaren-racing-3.jpg",
       "category": "market"
     },
     {
-      "title": "Tons of \u201cBunker-Buster\u201d Bomb Parts for Israel Go Through JFK Airport",
-      "description": "At the height of the Iran war, parts for destructive \u201cbunker-buster\u201d bombs moved through JFK airport on their way to the Israeli military.\nThe post Tons of \u201cBunker-Buster\u201d Bomb Parts for Israel Go Through JFK Airport appeared first on The Intercept.",
-      "url": "https://theintercept.com/2026/11/09/israel-weapons-bombs-jfk-airport/",
-      "source": "The Intercept",
+      "title": "Edgevana Signs $700 Million in AI Infrastructure Agreements as Committed Demand Reaches $7 Billion",
+      "description": "With more than $20 billion in active pipeline, the company supporting the largest hyperscalers in the world will deploy NVIDIA Blackwell systems across North America and Europe. SAN FRANCISCO, Nov. 9, 2026 /PRNewswire/ -- Edgevana, the data center, energy and\u2026",
+      "url": "https://www.prnewswire.co.uk/news-releases/edgevana-signs-700-million-in-ai-infrastructure-agreements-as-committed-demand-reaches-7-billion-302933334.html",
+      "source": "PR Newswire UK",
       "date": "2026-11-09",
-      "image": "https://theintercept.com/wp-content/uploads/2026/11/GettyImages-2279668601.ag_-e1793987514597.jpeg?fit=3820%2C1910&w=1200&h=800",
-      "category": "geopolitics"
+      "image": "https://mmx.prnewswire.com/media/MS2030468/image-8.jpg?id=OA3066071&p=facebook",
+      "category": "currency"
     },
     {
-      "title": "Commercial Real Estate\u2019s Biggest New Financing Source? Really Rich People.",
-      "description": "It\u2019s a moment of global instability, inflation, consequential elections and economic uncertainty. And, despite that bitter cocktail, investment volumes continue to climb.\u00a0 Finance firm MSCI found that commercial real estate investment in the third quarter of \u2026",
-      "url": "http://commercialobserver.com/2026/11/commercial-real-estate-family-offices-wealthy-individuals/",
-      "source": "Commercial Observer",
+      "title": "Ogilvy and CAA launch partnership to clone celebrity talent for AI ads",
+      "description": "Big names like actor Terry Crews and athletes could soon appear in AI-generated ads across the web. But they will be marked as such.",
+      "url": "http://digiday.com/marketing/ogilvy-and-caa-launch-partnership-to-clone-celebrity-talent-for-ai-ads/",
+      "source": "Digiday",
       "date": "2026-11-09",
-      "image": "https://commercialobserver.com/wp-content/uploads/sites/3/2026/11/Cozy-home-mantel-1-credit-Google-Gemini-WEB.jpg?quality=80&w=1200&h=630&crop=1",
-      "category": "inflation"
+      "image": "https://digiday.com/wp-content/uploads/sites/3/2026/10/multimedia-ads-digiday.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Will Grand Theft Auto 6 break the internet?",
+      "description": "Back in September 2025, the launch of Hollow Knight: Silksong crashed the digital storefronts of Nintendo, PlayStation, Xbox, and Steam, as players who had waited over eight years for a follow-up to 2017's Hollow Knight rushed to download the highly anticipat\u2026",
+      "url": "https://www.gamesindustry.biz/will-grand-theft-auto-6-break-the-internet",
+      "source": "GamesIndustry.biz",
+      "date": "2026-11-09",
+      "image": "https://assetsio.gnwcdn.com/gta-6-headline-launch-gallery-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "category": "market"
+    },
+    {
+      "title": "Who will take care of us when we get old?",
+      "description": "Unlike projecting how many jobs AI may eliminate over the next 10 years, or what a country\u2019s birth rate might look like, there\u2019s far less debate among policymakers about how large America\u2019s older population will be in a decade\u2019s time, and how many of them are\u2026",
+      "url": "https://www.vox.com/life/507156/caregiving-caregivers-visa-immigration-elderly-seniors-care-congress",
+      "source": "Vox",
+      "date": "2026-11-09",
+      "image": "https://platform.vox.com/wp-content/uploads/sites/2/2026/10/Davis-Vox-Immigration.jpg?quality=90&strip=all&crop=0%2C18.220351881164%2C100%2C78.55366983107&w=1200",
+      "category": "market"
+    },
+    {
+      "title": "STATE OF MONDAY: Gavin Newsom Plays Populist \u2014 Behind The Curtain He\u2019s A Uniparty Darling",
+      "description": "California\u2019s slick-haired executive wants you to believe he\u2019s the nation\u2019s next president, whether he\u2019ll say it out loud or not.",
+      "url": "https://dailycaller.com/2026/11/09/state-of-monday-gavin-newsom-california-corruption-2028",
+      "source": "The Daily Caller",
+      "date": "2026-11-09",
+      "image": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/11/GettyImages-2300183647.jpg",
+      "category": "market"
     }
   ],
   "history": [
@@ -547,7 +547,7 @@
       "platinum_usd_oz": 1551.08
     }
   ],
-  "timestamp": "2026-11-10T16:58:05.000847+05:30",
+  "timestamp": "2026-11-10T20:35:57.222810+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
