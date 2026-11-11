@@ -54,7 +54,7 @@
         "hold": 25
       },
       "summary": "Gold is showing positive signals. Positive daily movement of 1.0%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-11T14:37:29.066350",
+      "timestamp": "2026-11-11T17:18:58.558041",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 25
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 1.6%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-11T14:37:29.161407",
+      "timestamp": "2026-11-11T17:18:58.696040",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 25
       },
       "summary": "Platinum is showing positive signals. Positive daily movement of 0.8%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-11T14:37:29.246384",
+      "timestamp": "2026-11-11T17:18:58.816758",
       "source": "rule-based"
     }
   },
@@ -135,6 +135,42 @@
   },
   "news": [
     {
+      "title": "Yes Bank bondholders press for compliance with Supreme Court's AT-1 order",
+      "description": "Yes Bank bondholders filed a contempt petition in the Supreme Court regarding the restoration of AT-1 bonds. The Supreme Court upheld a ruling that set aside the lender's write-off of 84 billion rupees in bonds. Axis Trustee Services, representing the bondholders, asked for directions to enforce the",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/yes-bank-bondholders-press-for-compliance-with-supreme-courts-at-1-order/articleshow/135744450.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-11-11",
+      "image": "",
+      "category": "currency"
+    },
+    {
+      "title": "Anthropic\u2019s IPO is said to be multiple times oversubscribed",
+      "description": "Anthropic PBC is witnessing an overwhelming response for its initial public offering, potentially accumulating up to $90.4 billion. This bullish sentiment reflects a staggering anticipated market valuation of around $1.4 trillion. With a significant revenue run rate of $81 billion as of October 31, ",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropics-ipo-is-said-to-be-multiple-times-oversubscribed/articleshow/135743507.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-11-11",
+      "image": "",
+      "category": "metals"
+    },
+    {
+      "title": "Market Trading Guide: Astra Microwave among 3 stock recommendations for Thursday",
+      "description": "Indian equities opened higher on positive global cues but surrendered gains amid rising bond yields and hawkish Fed commentary. Smallcaps outperformed as risk appetite improved. Analysts highlighted stock-specific opportunities, including Astra Microwave and Neogen, for Thursday's trading session.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-astra-microwave-among-3-stock-recommendations-for-thursday/slideshow/135742034.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-11-11",
+      "image": "",
+      "category": "central_bank"
+    },
+    {
+      "title": "US stocks: S&amp;P 500, Nasdaq rise as CoreWeave results ease AI spending concerns",
+      "description": "The S&amp;P 500 and Nasdaq indices showed positive growth as CoreWeave posted impressive financial results, calming fears regarding AI expenditure. Following its projection of reaching profitability by 2028, CoreWeave's stock jumped 12.7%, boosting investor confidence about ongoing demand. AI infras",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-as-coreweave-lifts-ai-trade/articleshow/135741336.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-11-11",
+      "image": "",
+      "category": "central_bank"
+    },
+    {
       "title": "EasyJet shareholders approve \u00a35.7 billion Apollo takeover",
       "description": "EasyJet's shareholders voted to approve a \u00a35.7 billion takeover by Apollo on Wednesday. This decision marks a major step towards removing EasyJet from the London stock market. With 97.07% of scheme shares in favor, the airline is targeting a deal completion by the first quarter of next year. Nonethe",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/easyjet-shareholders-approve-5-7-billion-apollo-takeover/articleshow/135740460.cms",
@@ -162,33 +198,6 @@
       "category": "central_bank"
     },
     {
-      "title": "Nasdaq futures rise nearly 2% as CoreWeave earnings calm AI spending fears",
-      "description": "Futures for the S&amp;P 500 and Nasdaq 100 have shown gains following CoreWeave's impressive earnings announcement. Investors reacted positively as CoreWeave predicts profitability by the first half of 2028. Nvidia's shares rebounded after a significant drop attributed to CEO Jensen Huang's controve",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-futures-rise-nearly-2-as-coreweave-earnings-calm-ai-spending-fears/articleshow/135738901.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-11-11",
-      "image": "",
-      "category": "central_bank"
-    },
-    {
-      "title": "Fairfax Financial likely to exit IIFL Finance, sources say",
-      "description": "Canada's Fairfax Financial Holdings intends to divest its nearly 11% stake in IIFL Finance soon. The sale aims to raise funds for acquiring a significant stake in IDBI Bank from the Indian government. Fairfax's current share in IIFL Finance is valued at approximately 30 billion rupees, or $320 milli",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fairfax-financial-likely-to-exit-iifl-finance-sources-say/articleshow/135738516.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-11-11",
-      "image": "",
-      "category": "currency"
-    },
-    {
-      "title": "Sterling drops against firmer dollar as markets price in a hawkish Fed",
-      "description": "The pound fell against the dollar following strong US inflation data and comments from Federal Reserve officials. Despite recent hawkish expectations supporting the pound, crude oil prices are rising, which could be unfavorable. Britain's gross domestic product data is due soon, with growth expectat",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/sterling-drops-against-firmer-dollar-as-markets-price-in-a-hawkish-fed/articleshow/135738659.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-11-11",
-      "image": "",
-      "category": "central_bank"
-    },
-    {
       "title": "Gold (XAUUSD), Silver, Platinum Forecasts \u2013 Gold Dives 3% As U.S. CPI Data Supports Fed Hike - FXEmpire",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcmM2Q190bGg4WnRaMmU3emppZGlsSDJkSUlYR3g5MTdRQ1o0bUtvclF6SWZPUWRpZWFtOS1abjgyMHlPeW5mamtJaUlUSFc2S2lrRmNvdy1pcFdOdk13aUJ3SWF0X3h1Q1NNTVN3aUg5SHNVY2hXaGZ6bE9HOFVJU3ZRYXpVb2pjX2dpTmxLcVR6enZaXzdITTd4d2E0YzkxV1IxTW9YSXk2dmdnMzY1M3QzLUdFc2taYW",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcmM2Q190bGg4WnRaMmU3emppZGlsSDJkSUlYR3g5MTdRQ1o0bUtvclF6SWZPUWRpZWFtOS1abjgyMHlPeW5mamtJaUlUSFc2S2lrRmNvdy1pcFdOdk13aUJ3SWF0X3h1Q1NNTVN3aUg5SHNVY2hXaGZ6bE9HOFVJU3ZRYXpVb2pjX2dpTmxLcVR6enZaXzdITTd4d2E0YzkxV1IxTW9YSXk2dmdnMzY1M3QzLUdFc2taYWxyRkZVTGQ1OGlJVmVqM0dabzduR1JN?oc=5",
@@ -196,6 +205,42 @@
       "date": "2026-11-11",
       "image": "",
       "category": "central_bank"
+    },
+    {
+      "title": "Padres need starting pitching",
+      "description": "GM meetings should be first step.",
+      "url": "https://www.gaslampball.com/san-diego-padres-analysis/63187/padres-need-starting-pitching",
+      "source": "Gaslampball.com",
+      "date": "2026-11-10",
+      "image": "https://s.yimg.com/lo/mysterio/api/163a641af216070d742b3750689007007bf70d79f36b5c8cbe97d5e947c08516/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F3c973713995d592168e7fb730827a5b1.jpg",
+      "category": "market"
+    },
+    {
+      "title": "9 things I wish I\u2019d known sooner about long and fast gravel rides",
+      "description": "Gravel rides can be seriously tough with long, exposed roads, technical climbs, loose surfaces and some absolutely crazy descents. When you\u2019re riding for hours at a time, often in the middle of nowhere, there are plenty of things that can make the difference \u2026",
+      "url": "https://road.cc/feature/9-things-i-wish-id-known-sooner-about-long-and-fast-gravel-rides",
+      "source": "road.cc",
+      "date": "2026-11-10",
+      "image": "https://cdn.road.cc/wp-content/uploads/2026/10/Colnago-G5-X-Riding-7-scaled.jpg",
+      "category": "market"
+    },
+    {
+      "title": "President Trump and Elon Musk Are Circling the Same $16 Trillion MOTHERLODE",
+      "description": "... Read more",
+      "url": "https://www.wnd.com/2026/11/president-trump-elon-musk-are-circling-same-16/",
+      "source": "Wnd.com",
+      "date": "2026-11-10",
+      "image": "https://www.wnd.com/wp-content/uploads/2026/11/oxford-rock-in-glass-1200x630.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Here's where Canadians can build wealth over the next decade",
+      "description": "Stocks and other financial assets have been driving gains more than languishing real estate. Will that continue?",
+      "url": "http://financialpost.com/personal-finance/heres-where-canadians-can-build-wealth-over-the-next-decade/",
+      "source": "Financial Post",
+      "date": "2026-11-10",
+      "image": "https://financialpost.com/wp-content/uploads/sites/3/2026/11/1111-mg-money-1.jpg?w=1024",
+      "category": "market"
     },
     {
       "title": "Megaspeed and the battle to go high-end Nvidia chips into China",
@@ -222,51 +267,6 @@
       "source": "Plos.org",
       "date": "2026-11-10",
       "image": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0014476.g002&size=inline",
-      "category": "market"
-    },
-    {
-      "title": "Current price of gold as of November 9, 2026",
-      "description": "The price of gold was trading at $4,123 per ounce as of 9:05 a.m. Eastern Time today. That\u2019s an $84 increase from the same time on November 6 and an $34 increase from a year ago.\nIf you\u2019re looking for an investment that is not tied directly to the variance of\u2026",
-      "url": "https://biztoc.com/x/e6677dfaf0d67929",
-      "source": "Biztoc.com",
-      "date": "2026-11-10",
-      "image": "https://biztoc.com/cdn/e6677dfaf0d67929_s.webp",
-      "category": "metals"
-    },
-    {
-      "title": "Gold price, silver rate today: Why is gold rate down on Tuesday? Check latest bullion outlook",
-      "description": "Gold price prediction: The decline in crude prices has eased some inflation concerns, although movements in the dollar and global bullion markets continue to influence gold's near-term direction.",
-      "url": "https://economictimes.indiatimes.com/news/international/us/gold-price-silver-rate-today-why-is-gold-rate-down-on-tuesday-check-latest-bullion-outlook/articleshow/135712558.cms",
-      "source": "The Times of India",
-      "date": "2026-11-10",
-      "image": "https://img.etimg.com/thumb/msid-135712644,width-1200,height-900,imgsize-98956,overlay-economictimes/articleshow.jpg",
-      "category": "currency"
-    },
-    {
-      "title": "Blackstone to invest \u20b95,000 crore in IIFL Finance for 16% stake",
-      "description": "Blackstone will invest  \u20b95,000 crore in IIFL Finance for a 16% stake on a fully diluted basis, giving the lender a stronger capital base to expand its secured lending business. The deal, part of a  \u20b96,414-crore fundraise, marks a major private equity bet on I\u2026",
-      "url": "https://www.livemint.com/companies/blackstone-iifl-finance-16-stake-buy-nbfc-pe-deal-11794312414497.html",
-      "source": "Livemint",
-      "date": "2026-11-10",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/im-853406_1695059423377_1794317133055_htJB_5758a118-0c51-4e3c-a09d-bbe89de63ccb_Gq1y.jpg",
-      "category": "market"
-    },
-    {
-      "title": "IIFL Finance\u2019s\u00a0Board okays \u20b96,414 cr\u00a0capital raise from Blackstone PE, Co-promoters, Anchorage Capital",
-      "description": "IIFL Finance said funds managed by Blackstone Private Equity, which is the world\u2019s largest alternative asset manager,\u00a0will invest \u20b95,000 crores ($535 million) through a preferential allotment of compulsorily convertible preference shares (CCPS)",
-      "url": "https://www.thehindubusinessline.com/money-and-banking/iifl-financesboard-okays-6414-crcapital-raise-from-blackstone-pe-co-promoters-anchorage-capital/article71686148.ece",
-      "source": "BusinessLine",
-      "date": "2026-11-10",
-      "image": "https://bl-i.thgim.com/public/incoming/s761ao/article71686217.ece/alternates/LANDSCAPE_1200/IIFL-Finance.jpg",
-      "category": "market"
-    },
-    {
-      "title": "IIFL Finance to raise \u20b96,414 crore from Blackstone, promoters, others",
-      "description": "Blackstone will invest \u20b95,000 crore for a 15.57 per cent stake, while promoters will infuse \u20b91,264 crore, boosting the NBFC's capital adequacy ratio to around 30 per cent",
-      "url": "https://www.business-standard.com/companies/news/iifl-finance-to-raise-6-414-crore-from-blackstone-promoters-others-126111000601_1.html",
-      "source": "Business Standard",
-      "date": "2026-11-10",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-10/18/thumb/fitandfill/1200X628/1697641159-094.jpg",
       "category": "market"
     },
     {
@@ -306,102 +306,102 @@
       "category": "central_bank"
     },
     {
-      "title": "ORLEN Cites Foreign Operations as Profit Rises",
-      "description": "Poland's majority state-owned ORLEN reported a 40 percent increase in revenue from foreign markets, saying expansion abroad has allowed it to pursue profitability while holding down its prices at home.",
-      "url": "https://www.rigzone.com/news/orlen_cites_foreign_operations_as_profit_rises-10-nov-2026-185051-article/",
-      "source": "Rigzone",
-      "date": "2026-11-10",
-      "image": "https://images.rigzone.com/images/news/articles/ORLEN-Cites-Foreign-Operations-as-Profit-Rises-185051-1200x628.png",
-      "category": "market"
-    },
-    {
-      "title": "Jensen Huang net worth before vs after Alice Huang affair controversy: How much has Nvidia CEO lost as NVDA stock slides?",
-      "description": "Nvidia CEO Jensen Huang net worth today: Jensen Huang has dropped to 12th place among the world's richest people after losing $6.5 billion as Nvidia shares fell sharply. The decline comes amid a broader tech sell-off and growing scrutiny over his relationship\u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/us/jensen-huang-net-worth-before-vs-after-alice-huang-affair-controversy-how-much-has-nvidia-ceo-lost-as-nvda-stock-slides/articleshow/135713005.cms",
+      "title": "Andhra Pradesh cabinet approves \u20b937,000 crore investments",
+      "description": "Andhra Pradesh cabinet okays \u20b937,000 crore investments, new AVGC-XR and robotics policies, and plans IBM quantum computer launch on Feb 3.",
+      "url": "https://timesofindia.indiatimes.com/city/vijayawada/andhra-pradesh-cabinet-approves-37000-crore-investments/articleshow/135717412.cms",
       "source": "The Times of India",
       "date": "2026-11-10",
-      "image": "https://img.etimg.com/thumb/msid-135713595,width-1200,height-900,imgsize-34598,overlay-economictimes/articleshow.jpg",
+      "image": "https://static.toiimg.com/thumb/msid-135717870,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "category": "market"
     },
     {
-      "title": "Gas prices dip below $4 but inflation remains stubbornly high",
-      "description": "Gasoline prices fell below $4 a gallon Tuesday for the first time in three months \u2014 but the overall cost of living remains stubbornly high.",
-      "url": "https://www.npr.org/2026/11/10/nx-s1-6034518/inflation-consumer-prices-economy-gas-prices",
-      "source": "NPR",
+      "title": "graphify-mesh 0.0.26",
+      "description": "Scheduled sync engine + companion MCP server that merges many per-repo graphify knowledge graphs into one repo-attributed, human-named global graph with a cross-project dependency/similarity/API overlay.",
+      "url": "https://pypi.org/project/graphify-mesh/0.0.26/",
+      "source": "Pypi.org",
       "date": "2026-11-10",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7877x4431+0+410/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3f%2Fce%2Fba6ccbe045b3b5f9ea9cfeccb106%2Fgettyimages-2293682715.jpg",
-      "category": "inflation"
-    },
-    {
-      "title": "COP31 presidency pitches for global 35-by-35 electrification pledge, India may skip signing this informal commitment",
-      "description": "NEW DELHI: The UN climate conference (COP31) presidency in Antalya, Turkiye, on Tuesday pitched for \u201c35-by-35\u201d global electrification pledge that aims to",
-      "url": "https://timesofindia.indiatimes.com/india/cop31-presidency-pitches-for-global-35-by-35-electrification-pledge-india-may-skip-signing-this-informal-commitment/articleshow/135713468.cms",
-      "source": "The Times of India",
-      "date": "2026-11-10",
-      "image": "https://static.toiimg.com/thumb/msid-135713532,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "image": null,
       "category": "market"
     },
     {
-      "title": "Decrypt Money Account Gets Confidential Transfers With Solana Privacy Firm Helius",
-      "description": "Helius' Solana Privacy Rings will let Decrypt users send funds without broadcasting amounts, as it grows out The Information Exchange.",
-      "url": "https://decrypt.co/382806/decrypt-money-account-gets-confidential-transfers-with-solana-privacy-firm-helius",
-      "source": "Decrypt",
+      "title": "Credit card debt climbs to a record $1.29 trillion, New York Fed research finds",
+      "description": "As high prices continue to strain household budgets, many consumers have turned to credit cards to help make ends meet.",
+      "url": "https://www.cnbc.com/2026/11/10/credit-card-debt-record.html",
+      "source": "CNBC",
       "date": "2026-11-10",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/11/decrypt-the-information-exchange-helius-gID_7.png",
-      "category": "market"
-    },
-    {
-      "title": "Happy Hybrid Helix 2026: Uncomfortable Truth at 4 Years of ChatGPT",
-      "description": "The Hybrid Helix captures the artificial and natural intelligence interplay. We are becoming capable of doing things while unable to decide what is worth doing. The time to build agency is now.",
-      "url": "https://www.psychologytoday.com/us/blog/harnessing-hybrid-intelligence/202611/happy-hybrid-helix-2026-uncomfortable-truth-at-4-years",
-      "source": "Psychology Today",
-      "date": "2026-11-10",
-      "image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-11/intertwined_black_and_white_arrow_ribbons.png.jpg?itok=uTT30ZJf",
-      "category": "market"
-    },
-    {
-      "title": "Democrats Might Not Be Able to Keep Their Medicaid Expansion Promises",
-      "description": "Newly elected Democratic governors and state lawmakers will have to contend with work requirements and cost concerns.",
-      "url": "https://www.washingtonsun.com/health/democrats-medicaid-expansion-wisconsin-georgia-texas",
-      "source": "Washingtonsun.com",
-      "date": "2026-11-10",
-      "image": "https://static.washingtonsun.com/dims4/default/8f718fc/2147483647/strip/true/crop/4799x2699+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F93%2F8c%2Fce3d2d9c4e33b9a1962be39e6cf6%2Felection-2026-wisconsin-26299850467344.jpg",
-      "category": "market"
-    },
-    {
-      "title": "PhRMA Spent an Estimated $58.8 Million on Search Ads, With Nearly Half Steering Users to Anti-PBM Pages",
-      "description": "An analysis estimates that PhRMA spent $58.8 million on paid search ads from 2019 to 2025, with nearly half directing users to pages criticizing pharmacy benefit managers.",
-      "url": "https://www.medicaldaily.com/phrma-search-ad-spending-pbm-criticism-481058",
-      "source": "Medical Daily",
-      "date": "2026-11-10",
-      "image": "https://d.medicaldaily.com/en/full/488439/pharmacist-patient-consultation.jpg",
-      "category": "market"
-    },
-    {
-      "title": "At least 19 ICE recruits named in DHS hack were hired despite red flags",
-      "description": "One officer in Detroit fired multiple shots at a fleeing teenage suspect, fatally striking him in the back in an incident that led to a $2.5 million settlement with his family.An Arkansas officer was castigated by his supervisor for showing \"unreasonable ange\u2026",
-      "url": "https://www.yahoo.com/news/us/articles/least-19-ice-recruits-named-142257143.html",
-      "source": "Yahoo Entertainment",
-      "date": "2026-11-10",
-      "image": "https://s.yimg.com/lo/mysterio/api/598e666fb27f320f3781e14d4419fdf35cc082e5743f5a3134a5bfd90cdfeb46/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Fc7474526-8d24-4a11-b9e4-de5fe46f03af",
-      "category": "market"
-    },
-    {
-      "title": "HHS Advisers Scheduled Votes on Medicare and Medicaid Coverage of Medically Tailored Meals and New Fraud Controls",
-      "description": "A federal advisory committee was scheduled to vote on medically tailored meals and Medicare fraud controls, but CMS had not released results and any recommendations would be nonbinding.",
-      "url": "https://www.medicaldaily.com/federal-panel-medically-tailored-meals-medicare-fraud-controls-481057",
-      "source": "Medical Daily",
-      "date": "2026-11-10",
-      "image": "https://d.medicaldaily.com/en/full/488438/medically-tailored-meals.jpg",
+      "image": "https://image.cnbcfm.com/api/v1/image/108253695-1768588966424-gettyimages-2153961867-dsc07236.jpeg?v=1774894550&w=1920&h=1080",
       "category": "central_bank"
     },
     {
-      "title": "All Medicare Part D and Medicaid Enrollees Had Naloxone Coverage, but Part D Generally Excluded the OTC Spray",
-      "description": "A Government Accountability Office report found naloxone coverage for all Medicare Part D and Medicaid enrollees studied, but Medicare generally excludes over-the-counter Narcan and nalmefene coverage remains limited.",
-      "url": "https://www.medicaldaily.com/medicare-medicaid-naloxone-coverage-over-counter-narcan-481054",
-      "source": "Medical Daily",
+      "title": "Gridlock on the streets, logjams on climate: Cop31 gets off to a low-ambition start",
+      "description": "Traffic jams and a pared-back agenda have set the tone for a summit where delegates are being quietly warned not to expect too much",
+      "url": "https://www.irishtimes.com/world/europe/2026/11/10/gridlock-on-the-streets-logjams-on-climate-cop31-gets-off-to-a-low-ambition-start/",
+      "source": "The Irish Times",
       "date": "2026-11-10",
-      "image": "https://d.medicaldaily.com/en/full/488435/naloxone-administration-training.jpg",
+      "image": "https://www.irishtimes.com/resizer/v2/ATZTQ7XVHRHE5HABLYURAGIULI.jpg?smart=true&auth=2db5a9e679be3a53c59fb710f10e0d34e36ae63d03ea7f27df74ce77066a237b&width=1200&height=630",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Pavitra Rishta fame Ankita Lokhande on celebrating Diwali in Bhilaspur: says \u2018It\u2019s not about how grand the celebrations are\u2019",
+      "description": "Pavitra Rishta fame Ankita Lokhande on celebrating Diwali in Bhilaspur: says \u2018It\u2019s not about how grand the celebrations are\u2019",
+      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/pavitra-rishta-fame-ankita-lokhande-on-celebrating-diwali-in-bhilaspur-says-its-not-about-how-grand-the-celebrations-are/articleshow/135717280.cms",
+      "source": "The Times of India",
+      "date": "2026-11-10",
+      "image": "https://static.toiimg.com/thumb/msid-135717898,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Prices Prop Up Travel as Demand Cools",
+      "description": "Travel interest is slipping, but revenue is holding because prices are doing the work. That cushion only lasts as long as travelers keep paying more, which makes falling search activity worth watching closely heading into 2027.",
+      "url": "https://skift.com/2026/11/10/prices-prop-up-travel-as-demand-cools/",
+      "source": "Skift",
+      "date": "2026-11-10",
+      "image": "https://skift.com/wp-content/uploads/2026/11/pexels-brunafisantos-36702911.jpg?resize=1024,682",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Xiaomi launches new smartwatch globally with 14 days battery and 3,000-nit AMOLED display",
+      "description": "Xiaomi has finally launched one of its latest smartwatches globally. Featuring a 3,000-nit AMOLED display and up to 14 days of battery life, the Watch S5 41 mm comes in three colours and even supports Google Pay thanks to built-in NFC connectivity.",
+      "url": "https://www.notebookcheck.net/Xiaomi-launches-new-smartwatch-globally-with-14-days-battery-and-3-000-nit-AMOLED-display.1447062.0.html",
+      "source": "Notebookcheck.net",
+      "date": "2026-11-10",
+      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/xiaomi-watch-s5-41-mm-global-launch-kv.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Marco Rubio Urges Nations To 'Step Up' On Strait Of Hormuz Security",
+      "description": "\u201cI raised it. I didn\u2019t get a response,\u201d Rubio said when asked how other G7 foreign ministers reacted to his appeal.",
+      "url": "https://www.huffpost.com/entry/marco-rubio-urges-nations-step-up-strait-hormuz-security_n_6af34f24e4b0a8468d8ac54d",
+      "source": "HuffPost",
+      "date": "2026-11-10",
+      "image": "https://img.huffingtonpost.com/asset/6af3501a1800006c1394bb0d.jpeg?cache=CTSYO1MvGd&ops=1200_630",
+      "category": "market"
+    },
+    {
+      "title": "'We work for America, not the global order': Marco Rubio asserts US' 1st stance on China and trilateral engagement",
+      "description": "Addressing the core friction between Washington and Beijing, Secretary Rubio emphasised that major power competition is an inevitable reality driven by competing national systems, on the sidelines of the G7 Foreign Ministers Meeting held in Paris, France.",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/we-work-for-america-not-the-global-order-marco-rubio-asserts-us-1st-stance-on-china-and-trilateral-engagement/articleshow/135717222.cms",
+      "source": "The Times of India",
+      "date": "2026-11-10",
+      "image": "https://img.etimg.com/thumb/msid-135717246,width-1200,height-900,imgsize-83166,overlay-economictimes/articleshow.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Local Electeds, Groups Urge Democratic Leaders to Block Big Oil Immunity During Lame Duck",
+      "description": "Nearly 400 state and local elected officials from 30 states and the District of Columbia and more than 500 groups\r\n are urging Democratic leaders in the House and Senate to fight any effort during the lame duck session to shield fossil fuel companies from cli\u2026",
+      "url": "https://www.commondreams.org/newswire/local-electeds-groups-urge-democratic-leaders-to-block-big-oil-immunity-during-lame-duck",
+      "source": "Common Dreams",
+      "date": "2026-11-10",
+      "image": "https://www.commondreams.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy82NjgzNzk4My9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTg1NDAwNzA1OH0.IJs35jaeCQ3jGYrrWjwnupdDJO4OtMUelRKt4Cngd3I/image.png?width=210",
+      "category": "market"
+    },
+    {
+      "title": "\u2018Sabotage\u2019: Read Hegseth\u2019s Fiery Speech Against His Impeachment",
+      "description": "Hegseth decried the effort as a \u201cfarce\u201d and a \u201cstunt.\u201d",
+      "url": "http://foreignpolicy.com/2026/11/10/hegseth-speech-impeachment-transcript-pentagon-full-text/",
+      "source": "Foreign Policy",
+      "date": "2026-11-10",
+      "image": "https://foreignpolicy.com/wp-content/uploads/2026/11/Pete-Hegseth.jpeg",
       "category": "market"
     }
   ],
@@ -547,7 +547,7 @@
       "platinum_usd_oz": 1551.08
     }
   ],
-  "timestamp": "2026-11-11T20:07:29.264501+05:30",
+  "timestamp": "2026-11-11T22:48:58.829433+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
