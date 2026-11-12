@@ -54,7 +54,7 @@
         "hold": 25
       },
       "summary": "Gold is showing positive signals. Positive daily movement of 1.0%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-12T15:29:06.875731",
+      "timestamp": "2026-11-12T17:40:45.111147",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 25
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 1.6%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-12T15:29:06.984671",
+      "timestamp": "2026-11-12T17:40:45.240214",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 25
       },
       "summary": "Platinum is showing positive signals. Positive daily movement of 0.8%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-12T15:29:07.112615",
+      "timestamp": "2026-11-12T17:40:45.382951",
       "source": "rule-based"
     }
   },
@@ -135,6 +135,24 @@
   },
   "news": [
     {
+      "title": "October retail inflation surge may weigh on housing demand, raise rate hike concerns: Knight Frank, PHDCCI",
+      "description": "Rising retail inflation could weaken household purchasing power and constrain discretionary spending, including housing expenditure, while increasing the possibility of further monetary tightening by the Reserve Bank of India (RBI), industry bodies said on Thursday, following the acceleration in con",
+      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/october-retail-inflation-surge-may-weigh-on-housing-demand-raise-rate-hike-concerns-knight-frank-phdcci/articleshow/135776096.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-11-12",
+      "image": "",
+      "category": "central_bank"
+    },
+    {
+      "title": "US stocks: S&amp;P 500, Nasdaq fall as Nvidia CEO exit rattles AI stocks",
+      "description": "Nvidia's stock took a hit after CEO Jensen Huang stepped down, amid swirling personal controversies. This turmoil added noticeable pressure to the AI sector, dragging down the value of related stocks. Additionally, surging oil prices are exacerbating inflation worries across the market. Investors ar",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-lower-after-nvidia-ceo-steps-down/articleshow/135773944.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-11-12",
+      "image": "",
+      "category": "inflation"
+    },
+    {
       "title": "Nasdaq, S&amp;P 500 futures fall as Nvidia turbulence unsettles AI stocks",
       "description": "Futures tracking the Nasdaq 100 fell significantly after Nvidia shares plummeted due to leadership concerns. Reports about CEO Jensen Huang led to a decline in investor sentiment towards AI-linked stocks. Additionally, the upcoming Producer Price Index data is raising inflation expectations among in",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-sp-500-futures-fall-as-nvidia-turbulence-unsettles-ai-stocks/articleshow/135771074.cms",
@@ -153,13 +171,22 @@
       "category": "central_bank"
     },
     {
-      "title": "Punjab National Bank among 4 stocks hitting 52-week highs; rally up to 22% in a month",
-      "description": "Four BSE 100 stocks, including Punjab National Bank, Federal Bank and Kotak Mahindra Bank, hit fresh 52-week highs, with monthly gains ranging from 10% to 22%.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/punjab-national-bank-among-4-stocks-hitting-52-week-highs-rally-up-to-22-in-a-month/slideshow/135769519.cms",
-      "source": "Economic Times Markets",
+      "title": "Bipartisan SILVER Act Gains Strong Momentum in Congress as Lawmakers Eye National Defense Bill - LinkedIn",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPTHBxdWxuTlVXZWo1aVU0NDBjTHhSYVJqVXNfdkFFX0pTcTZOcGFTSkdCdjBlNEdwOWdTMTAwQXVTRklBWW14NXNTdGRUWnQyY1l6RUdRWnY4V2VDMGRMUHJLOTBfbElKTUx2aW9KdlotY2ZUeHdfWGc1N3J0aU5OSmhSdnM4c1NDVXY5VmF0UEpCdC1mX0Y3YVRLc0dGUkRx?oc=5\" target=\"_blank\">Bipartisan ",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTHBxdWxuTlVXZWo1aVU0NDBjTHhSYVJqVXNfdkFFX0pTcTZOcGFTSkdCdjBlNEdwOWdTMTAwQXVTRklBWW14NXNTdGRUWnQyY1l6RUdRWnY4V2VDMGRMUHJLOTBfbElKTUx2aW9KdlotY2ZUeHdfWGc1N3J0aU5OSmhSdnM4c1NDVXY5VmF0UEpCdC1mX0Y3YVRLc0dGUkRx?oc=5",
+      "source": "Google News - Precious Metals",
       "date": "2026-11-12",
       "image": "",
-      "category": "central_bank"
+      "category": "metals"
+    },
+    {
+      "title": "Asteroid Mining Will Crash the Platinum Market, But That\u2019s Good News for Earth",
+      "description": "Science fiction authors have been dreaming of robotic spacecraft harvesting fortunes from asteroids for decades. Humanity is slowly getting closer to that reality. But if you ask asteroid mining skeptics, they will usually ask one specific question - what hap\u2026",
+      "url": "https://www.universetoday.com/articles/asteroid-mining-will-crash-the-platinum-market-but-thats-good-news-for-earth",
+      "source": "Universe Today",
+      "date": "2026-11-11",
+      "image": "https://www.universetoday.com/article_images/PIA21275_-_Psyche_Artists_Concept_20261111_170620.jpg",
+      "category": "supply_demand"
     },
     {
       "title": "From enterprise context to action: Genie Agents now analyze more data sources to transform your work",
@@ -225,15 +252,6 @@
       "category": "market"
     },
     {
-      "title": "US, Ghana join forces to tackle galamsey pollution",
-      "description": "The United States and Ghana have reaffirmed their commitment to strengthening scientific cooperation and promoting mercury-free mining technologies to address mercury pollution associated with illegal small-scale mining. The two countries have identified scie\u2026",
-      "url": "https://thechronicle.com.gh/us-ghana-join-forces-to-tackle-galamsey-pollution/",
-      "source": "Thechronicle.com.gh",
-      "date": "2026-11-11",
-      "image": "https://thechronicle.com.gh/wp-content/uploads/2026/11/The-Charge-dAffaires-of-the-US-Embassy-Mr-Rolf-Olson.jpg",
-      "category": "supply_demand"
-    },
-    {
       "title": "Why The New Garrick S8 Might Be The Brand\u2019s Best Watch Yet",
       "description": "OK, we\u2019ve all read and probably scoffed at headlines like this. I\u2019m with you; this kind of superlative reeks of marketing BS. Unfortunately, though, genuine enthusiasm can sometimes get lost behind such claims. This is one of those occasions when the reality \u2026",
       "url": "https://www.fratellowatches.com/new-garrick-s8/",
@@ -288,121 +306,103 @@
       "category": "central_bank"
     },
     {
-      "title": "Building a GPU workstation for visual effects with Amazon EC2: Part 5 \u2013 Security",
-      "description": "The final post in our GPU workstation series covers security for visual effects workstations on Amazon EC2: controlling who can reach the desktop, protecting the Amazon DCV session in transit, and safeguarding credentials, images, and storage, plus IAM, encry\u2026",
-      "url": "https://aws.amazon.com/blogs/compute/building-a-gpu-workstation-for-visual-effects-with-amazon-ec2-part-5-security/",
-      "source": "Amazon.com",
+      "title": "Statins, Aging, and Liver Health: Unraveling Age and Sex Influence on Transcriptomic Responses in MASLD",
+      "description": "This study reveals how age and sex modulate liver transcriptomic responses to statin therapy in metabolic dysfunction-associated steatotic liver disease (MASLD), highlighting stat\u2026",
+      "url": "https://www.medxy.ai/news/statins-aging-and-liver-health-unraveling-age-and-sex-influence-on-transcriptomic-responses-in-masld",
+      "source": "Medxy.ai",
       "date": "2026-11-11",
-      "image": "https://d2908q01vomqb2.cloudfront.net/1b6453892473a467d07372d45eb05abc2031647a/2026/10/23/ComputeBlog-2763-featured-image.png",
+      "image": "https://img.medxy.ai/activity/rules/2026/11/06/c3a16528a20d_1793906208457_3588b33b-a784-4725-bf1b-9134af062074_w1200.webp",
       "category": "market"
     },
     {
-      "title": "Building a GPU workstation for visual effects on Amazon EC2: Part 2 \u2013 Linux",
-      "description": "The second post in a five-part series on building GPU-backed visual effects (VFX) workstations on Amazon EC2. You deploy and configure a Rocky Linux 9.5 workstation with NVIDIA GPU drivers, Wacom drivers, and Amazon DCV as a high-performance desktop display p\u2026",
-      "url": "https://aws.amazon.com/blogs/compute/building-a-gpu-workstation-for-visual-effects-on-amazon-ec2-part-2-linux/",
-      "source": "Amazon.com",
+      "title": "Albanese puts Pacific first at COP31, but critics say Australia must do more",
+      "description": "Prime Minister Anthony Albanese has put the Pacific at the centre of his COP31 pitch, but Australia's continued expansion of coal and gas is drawing criticism from climate advocates.",
+      "url": "https://www.abc.net.au/news/2026-11-12/cop31-australia-criticised-over-fossil-fuel-expansion/107375792",
+      "source": "ABC News (AU)",
       "date": "2026-11-11",
-      "image": "https://d2908q01vomqb2.cloudfront.net/1b6453892473a467d07372d45eb05abc2031647a/2026/10/23/ComputeBlog-2759-featured-image.png",
+      "image": "https://live-production.wcms.abc-cdn.net.au/76b4289b03b1fe833e76d7709b345934?impolicy=wcms_watermark_news&cropH=1341&cropW=2384&xPos=0&yPos=124&width=862&height=485&imformat=generic",
       "category": "market"
     },
     {
-      "title": "Build a GPU workstation for visual effects on Amazon EC2: Part 1 \u2013 Setup",
-      "description": "The first in a five-part series on building NVIDIA GPU-powered virtual workstations on Amazon EC2 G-series instances. Part 1 covers the G instance families, Amazon DCV desktop streaming, connectivity options, and the account, service quota, networking, and IA\u2026",
-      "url": "https://aws.amazon.com/blogs/compute/build-a-gpu-workstation-for-visual-effects-on-amazon-ec2-part-1-setup/",
-      "source": "Amazon.com",
+      "title": "Netflix House\u2019s new \u2018KPop Demon Hunters\u2019 experience is a monster-slashing frenzy",
+      "description": "We slashed subway demons, survived a haunted flight and wound up front row at a Huntrix concert during the \u201cKPop Demon Hunters\u201d immersive experience.",
+      "url": "http://www.dallasobserver.com/arts-culture/netflix-houses-new-kpop-demon-hunters-experience-is-a-monster-slashing-frenzy-40732656/",
+      "source": "Dallas Observer",
       "date": "2026-11-11",
-      "image": "https://d2908q01vomqb2.cloudfront.net/1b6453892473a467d07372d45eb05abc2031647a/2026/10/23/ComputeBlog-2764-featured-image.png",
+      "image": "https://www.dallasobserver.com/wp-content/uploads/sites/3/2026/11/01_KPop-Demon-Hunters-Experience_Netflix-House-Dallas.jpg",
       "category": "market"
     },
     {
-      "title": "Meet TwylaTokTok, the thrift queen making treasure out of trash",
-      "description": "From Pok\u00e9mon cardis to outfits based on fruit, the Texan thrifting expert has amassed a huge audience on TikTok with her unique take on self-styling",
-      "url": "https://www.dazeddigital.com/fashion/article/71343/1/twylatoktok-twyla-rhode-tik-tok-fashion-thrifting?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=meet-twylatoktok-the-thrift-queen-making-treasure-out-of-trash",
-      "source": "Dazed",
+      "title": "Fraud through calls, messages a global threat: MoS Telecom",
+      "description": "Minister of State for Telecom Chandra Sekhar Pemmasani highlighted the threat of fraudulent activities at the ITU Plenipotentiary Conference. He emphasized the importance of trust in technology alongside expanding telecom network coverage. India's fraud alert\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/fraud-through-calls-messages-a-global-threat-mos-telecom/articleshow/135745374.cms",
+      "source": "The Times of India",
       "date": "2026-11-11",
-      "image": "https://images-prod.dazeddigital.com/1200/azure/dazed-prod/1450/9/1459324.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Alleged Chinese Spy\u2019s Scandalous Past Emerges After Nvidia CEO\u2019s Affair Threatens Global Economy",
-      "description": "Everyone\u2019s talking about Alice Huang for her affair with Nvidia\u2019s CEO. But there's one detail that might have escaped people\u2019s attention: she's married.",
-      "url": "https://www.boredpanda.com/nvidia-ceo-jensen-huang-affair-chinese-spy-scandalous-past/",
-      "source": "Boredpanda.com",
-      "date": "2026-11-11",
-      "image": "https://static.boredpanda.com/blog/wp-content/uploads/2026/11/fb_image_6af4774933eb5.png",
-      "category": "market"
-    },
-    {
-      "title": "I am a Plugin Developer\u2026",
-      "description": "I am a Plugin Developer and am uploading my Spanish Mexico and Spanish ES translations. I am a native Spanish Speaker. In order to help and speed up the availability of my Spanish plugin languages, I want to become a PTE for these languages: #es_ES #es_MX Wha\u2026",
-      "url": "https://make.wordpress.org/polyglots/2026/11/11/i-am-a-plugin-developer-2/",
-      "source": "Wordpress.org",
-      "date": "2026-11-11",
-      "image": "https://s.w.org/images/home/wordpress-default-ogimage.png",
-      "category": "market"
-    },
-    {
-      "title": "Democrat Takeover of Texas Threatens Biden-Style Migrant Flood",
-      "description": "With the election of a Democrat as the next governor of Texas, outgoing Gov. Greg Abbott's \"Operation Lone Star\" border policy is on the chopping block, and the end of this stopgap program will likely open a massive hole in border security allowing a Joe Bide\u2026",
-      "url": "https://www.breitbart.com/immigration/2026/11/11/democrat-takeover-of-texas-threatens-biden-style-migrant-flood/",
-      "source": "Breitbart News",
-      "date": "2026-11-11",
-      "image": "https://media.breitbart.com/media/2026/11/AP24008676955604-640x335.png",
-      "category": "market"
-    },
-    {
-      "title": "Michael Saylor pitches Strategy\u2019s tax-efficient Bitcoin dividend model",
-      "description": "Michael Saylor says Strategy can fund dividends with unrealized Bitcoin gains, using return of capital treatment to defer taxes for investors.\nThe post Michael Saylor pitches Strategy\u2019s tax-efficient Bitcoin dividend model appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/saylor-strategy-tax-efficient-bitcoin-dividends/",
-      "source": "Crypto Briefing",
-      "date": "2026-11-11",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/11101608/library-michael-saylor-pitches-strategy-s-tax-efficient-bitcoin--800x450.png",
-      "category": "market"
-    },
-    {
-      "title": "Did the Ice Under Chuck Schumer Just Get a Bit Thinner?",
-      "description": "You\u2019re reading The TNR Blue Book. Get daily scoops, strategy, and developments inside the liberal ideas factory delivered right to your inbox. Sign up for free.Inside Washington Senators were skittish on Tuesday when asked if they would support Senator Chuck \u2026",
-      "url": "https://newrepublic.com/post/217866/chuck-schumer-senate-leader-race-ice-thinner",
-      "source": "The New Republic",
-      "date": "2026-11-11",
-      "image": "https://images.newrepublic.com/3bde2b1ee51590d1ab93942c223f7faab108249c.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "More work than it looks: the new jobs coming from AI adoption",
-      "description": "From synthesisers to assembly lines, technological change has threatened familiar jobs while creating unexpected forms of work. Research into AI-related job vacancies is revealing strong demand for the people who help organisations adopt AI. Ed Teather argues\u2026",
-      "url": "https://blogs.lse.ac.uk/businessreview/2026/11/11/more-work-than-it-looks-the-new-jobs-coming-from-ai-adoption/",
-      "source": "Lse.ac.uk",
-      "date": "2026-11-11",
-      "image": "https://blogsmedia.lse.ac.uk/blogs.dir/99/files/2026/11/synthesiser_AI-747-x-420.jpg",
+      "image": "https://img.etimg.com/thumb/msid-135745463,width-1200,height-900,imgsize-58366,overlay-economictimes/articleshow.jpg",
       "category": "supply_demand"
     },
     {
-      "title": "In Default Judgment, Court Orders Pirate Site To Pay Publishers Millions In Damages",
-      "description": "\u201cA federal judge in Manhattan has ordered the pirate site WeLib to pay 13 publishers $19.5 million in statutory damages. Judge Victor Marrero also directed the companies that register and host its domains to take it offline, after the site\u2019s operators failed \u2026",
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101735-court-orders-pirate-site-welib-to-pay-publishers-19-5-million.html",
-      "source": "Publishers Weekly",
+      "title": "What a Hormuz Endgame Could Actually Look Like",
+      "description": "There is no wayback machine, so a jointly managed strait will be key to final talks.",
+      "url": "http://foreignpolicy.com/2026/11/11/strait-hormuz-endgame-iran-trump-control-oman-war-shipping-oil/",
+      "source": "Foreign Policy",
       "date": "2026-11-11",
-      "image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132741-1.PNG",
-      "category": "central_bank"
-    },
-    {
-      "title": "The Boom-Bust-Bailout System: How Private Banking Losses Become Public Debt",
-      "description": "[Note: This article was first published by Global Research on February 11, 2025, under Mark Keenan\u2019s Reality Books imprint. This updated edition revisits the concentration of financial power, debt-based banking and the boom-bust-bailout process.]\nIntroduction\u2026",
-      "url": "https://www.globalresearch.ca/boom-bust-bailout-system-private-banking-losses-public-debt/5945658",
-      "source": "Globalresearch.ca",
-      "date": "2026-11-11",
-      "image": "https://www.globalresearch.ca/wp-content/uploads/2026/11/lehman-brothers-776x1024.png",
+      "image": "https://foreignpolicy.com/wp-content/uploads/2026/11/GettyImages-2289149008.jpg",
       "category": "market"
     },
     {
-      "title": "\u2018Dare Him to Veto It\u2019: Democrats Are Ready to Push for Real Reform",
-      "description": "Elizabeth Warren talks to Rolling Stone about how Democrats can't let fear of Trump stop the party from executing their voter mandate.",
-      "url": "http://www.rollingstone.com/politics/politics-features/elizabeth-warren-democrats-reform-veto-1235655756/",
-      "source": "Rolling Stone",
+      "title": "Democrats are at Cop31 to show that the US has not abandoned the fight against climate change",
+      "description": "Democratic control of Congress means they have more power to challenge Trump\u2019s environmental stance.",
+      "url": "https://theconversation.com/democrats-are-at-cop31-to-show-that-the-us-has-not-abandoned-the-fight-against-climate-change-296218",
+      "source": "The Conversation Africa",
       "date": "2026-11-11",
-      "image": "https://www.rollingstone.com/wp-content/uploads/2026/11/liz-warren-what-comes-next-for-dems.jpg?crop=0px%2C21px%2C1800px%2C1014px&resize=1600%2C900",
+      "image": "https://images.theconversation.com/files/771335/original/file-20261111-78-sj9h9a.jpg?ixlib=rb-4.1.1&rect=0%2C60%2C1000%2C500&q=45&auto=format&w=1356&h=668&fit=crop",
+      "category": "market"
+    },
+    {
+      "title": "India should join AI play, not ride anti-AI wave: Citi's Raghavan",
+      "description": "India must embrace AI to remain competitive, while leveraging overseas acquisition opportunities and strengthening its investment proposition to attract global capital, says Citi's Viswas Raghavan",
+      "url": "https://www.business-standard.com/economy/news/india-should-join-ai-play-not-ride-anti-ai-wave-citi-s-raghavan-126111101599_1.html",
+      "source": "Business Standard",
+      "date": "2026-11-11",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/11/thumb/fitandfill/1200X628/1794418228-913.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Danganronpa Lead Says Day-One Patches Help Keep Physical Media Alive: \u2019To Be Frank, We Sometimes Submit Builds Where We Think, \u2018No One Should Ever Play It In This State\u2019",
+      "description": "\u2018I\u2019m not sure if I should be making such risky confessions in a venue like this\u2019",
+      "url": "https://kotaku.com/kazutaka-kodaka-danganronpa-physical-collectors-edition-2000755945",
+      "source": "Kotaku",
+      "date": "2026-11-11",
+      "image": "https://kotaku.com/app/uploads/2026/11/monokuma.jpg",
+      "category": "market"
+    },
+    {
+      "title": "\u2018Major legal victory\u2019: Cops can break out tear gas, flash grenades to crack down on illegals, court rules",
+      "description": "Judges previously barred agents from using chemical or projectile munitions unless a specific person posed an imminent threat of physical harm",
+      "url": "https://www.wnd.com/2026/11/major-legal-victory-cops-can-break-tear-gas/",
+      "source": "Wnd.com",
+      "date": "2026-11-11",
+      "image": "https://www.wnd.com/wp-content/uploads/2024/11/riot-police-swatting-team-tear-gas-unsplash-1200x630.jpg",
+      "category": "market"
+    },
+    {
+      "title": "FG moves to harmonise conflicting health statistics",
+      "description": "The Federal Government has raised concerns over conflicting health statistics in Nigeria, calling for a unified national data system to address discrepanci\n\nRead More: https://punchng.com/fg-moves-to-harmonise-conflicting-health-statistics/",
+      "url": "https://punchng.com/fg-moves-to-harmonise-conflicting-health-statistics/",
+      "source": "The Punch",
+      "date": "2026-11-11",
+      "image": "https://punchng.com/wp-content/uploads/2026/06/WhatsApp-Image-2025-07-22-at-23.21.36_ae3a23a6-1080x630.webp",
       "category": "geopolitics"
+    },
+    {
+      "title": "Integration of immigrants in Germany: Much has been accomplished but problems remain",
+      "description": "Integration Report: While the integration of people with a migrant background is improving, violent youth remain a problem. This could soon spark political controversy. Few topics in Germany spark as many heated debates as integration. How successful have eff\u2026",
+      "url": "https://www.dw.com/en/integration-of-immigrants-in-germany-much-has-been-accomplished-but-problems-remain/a-79923241",
+      "source": "DW (English)",
+      "date": "2026-11-11",
+      "image": "https://static.dw.com/image/75665619_6.jpg",
+      "category": "market"
     }
   ],
   "history": [
@@ -547,7 +547,7 @@
       "platinum_usd_oz": 1551.08
     }
   ],
-  "timestamp": "2026-11-12T20:59:07.122655+05:30",
+  "timestamp": "2026-11-12T23:10:45.393319+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
