@@ -54,7 +54,7 @@
         "hold": 25
       },
       "summary": "Gold is showing positive signals. Positive daily movement of 1.0%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-12T11:35:01.660286",
+      "timestamp": "2026-11-12T15:29:06.875731",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 25
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 1.6%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-12T11:35:01.783599",
+      "timestamp": "2026-11-12T15:29:06.984671",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 25
       },
       "summary": "Platinum is showing positive signals. Positive daily movement of 0.8%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-12T11:35:01.919379",
+      "timestamp": "2026-11-12T15:29:07.112615",
       "source": "rule-based"
     }
   },
@@ -135,30 +135,75 @@
   },
   "news": [
     {
-      "title": "Rupee slips with traders clinging to equity cues, awaiting inflation data",
-      "description": "The Indian rupee faced a setback on Thursday, dipping to 94.0425 against the dollar amidst rising oil prices and escalating inflation fears. Previously, it had seen a peak of 93.62 thanks to foreign portfolio inflows. Investors are now holding their breath for October's consumer inflation figures, a",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-slips-with-traders-clinging-to-equity-cues-awaiting-inflation-data/articleshow/135765691.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-11-12",
-      "image": "",
-      "category": "currency"
-    },
-    {
-      "title": "Indian bonds drift as US debt rout saps oil relief before CPI",
-      "description": "On Thursday morning, Indian government bonds remained stable, reflecting a pause after recent volatility. Market sentiment is influenced by declining oil prices and climbing US Treasury yields, with inflation data on the horizon. The Reserve Bank of India is expected to modify its policy rate in lig",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-drift-as-us-debt-rout-saps-oil-relief-before-cpi/articleshow/135758028.cms",
+      "title": "Nasdaq, S&amp;P 500 futures fall as Nvidia turbulence unsettles AI stocks",
+      "description": "Futures tracking the Nasdaq 100 fell significantly after Nvidia shares plummeted due to leadership concerns. Reports about CEO Jensen Huang led to a decline in investor sentiment towards AI-linked stocks. Additionally, the upcoming Producer Price Index data is raising inflation expectations among in",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-sp-500-futures-fall-as-nvidia-turbulence-unsettles-ai-stocks/articleshow/135771074.cms",
       "source": "Economic Times Markets",
       "date": "2026-11-12",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "FIIs are back! Jefferies lists 11 stocks that can be the biggest beneficiaries",
-      "description": "In November, foreign institutional investors unexpectedly shifted to become net buyers of Indian equities, indicating a noteworthy change in market dynamics. Jefferies has pinpointed 11 stocks poised to gain from this influx, including heavyweights like Reliance Industries, HDFC Bank, and Axis Bank,",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-are-back-jefferies-lists-11-stocks-that-can-be-the-biggest-beneficiaries/slideshow/135758277.cms",
+      "title": "India bonds track Treasury weakness ahead of debt supply",
+      "description": "Indian government bonds are currently facing losses as traders brace for an influx of debt supply and mounting inflation pressures. The 10-year US Treasury yield is nearing the 5% mark, fueled by predictions of the Federal Reserve's interest rate hikes in December. With India's retail inflation clim",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-track-treasury-weakness-ahead-of-debt-supply/articleshow/135769595.cms",
       "source": "Economic Times Markets",
       "date": "2026-11-12",
       "image": "",
+      "category": "central_bank"
+    },
+    {
+      "title": "Punjab National Bank among 4 stocks hitting 52-week highs; rally up to 22% in a month",
+      "description": "Four BSE 100 stocks, including Punjab National Bank, Federal Bank and Kotak Mahindra Bank, hit fresh 52-week highs, with monthly gains ranging from 10% to 22%.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/punjab-national-bank-among-4-stocks-hitting-52-week-highs-rally-up-to-22-in-a-month/slideshow/135769519.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-11-12",
+      "image": "",
+      "category": "central_bank"
+    },
+    {
+      "title": "From enterprise context to action: Genie Agents now analyze more data sources to transform your work",
+      "description": "* Analyze unstructured data: Ask questions across governed tables and thousands of documents in Unity Catalog volumes, with page-level citations. Now in Public Preview.\r\n* Connect and take action: Pull in app data with Lakeflow and use native MCP connectors (\u2026",
+      "url": "https://www.databricks.com/blog/enterprise-context-action-genie-agents-now-analyze-more-data-sources-transform-your-work",
+      "source": "Databricks.com",
+      "date": "2026-11-11",
+      "image": "https://www.databricks.com/sites/default/files/2026-11/image-5_2.png",
+      "category": "market"
+    },
+    {
+      "title": "A widow clearing out her late husband's shed found a biscuit tin packed with 62 gold coins, including pieces he bought for \u00a370 to \u00a380 each in 1975; after 50 years hidden away, the collection sold for \u00a3113,000",
+      "description": "A remarkable discovery was made when a metal biscuit tin filled with 62 gold coins fetched an astonishing \u00a3113,000 at auction. Hidden for nearly five decades, these coins were acquired by a man who chose to keep his investment secret from his family during th\u2026",
+      "url": "https://timesofindia.indiatimes.com/world/uk/a-widow-clearing-out-her-late-husbands-shed-found-a-biscuit-tin-packed-with-62-gold-coins-including-pieces-he-bought-for-70-to-80-each-in-1975-after-50-years-hidden-away-the-collection-sold-for-113000/articleshow/135740272.cms",
+      "source": "The Times of India",
+      "date": "2026-11-11",
+      "image": "https://static.toiimg.com/thumb/msid-135740823,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "Seiya Suzuki Is The Right Power Hit For Boston",
+      "description": "The Red Sox need more power at Fenway. Seiya Suzuki offers that pop and defense. See why he fits Boston better than other teams this winter.",
+      "url": "https://gamedaynewengland.com/seiya-suzuki-is-the-right-power-hit-for-boston/",
+      "source": "Gamedaynewengland.com",
+      "date": "2026-11-11",
+      "image": "https://s.yimg.com/lo/mysterio/api/3b12142028baa1c7001c96915cb1a0d70549164da2738acc6adc355f14ffbd59/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgameday_new_england_897%2F5e541c7c163f9d31b57758baa079eac4.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Jason Brown, having weathered the storm, brings his figure skating career back home",
+      "description": "Jason Brown is back at Saatva Skate America, where he made his senior Grand Prix debut in 2013.",
+      "url": "https://www.nbcsports.com/olympics/news/jason-brown-figure-skater-skate-america",
+      "source": "NBCSports.com",
+      "date": "2026-11-11",
+      "image": "https://s.yimg.com/lo/mysterio/api/89b0cad3bdd9ee109e3b5e99f42124997d3cc7c5de08d46ddb6082a4d8166c87/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnbcsports.com%2Ff54a397acd420baafa9c815d52e435ea.jpg",
+      "category": "market"
+    },
+    {
+      "title": "India needs suitable evaluation matrix for awarding exploration and mining projects: NITI CEO",
+      "description": "NITI Aayog CEO Anurag Jain underscored the development of an evaluation matrix for gold mining projects. The focus is on promoting technical competence and sustainable development of gold resources in India. Discussions revolved around improving geological da\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/india-needs-suitable-evaluation-matrix-for-awarding-exploration-and-mining-projects-niti-ceo/articleshow/135737588.cms",
+      "source": "The Times of India",
+      "date": "2026-11-11",
+      "image": "https://img.etimg.com/thumb/msid-135737719,width-1200,height-900,imgsize-103366,overlay-economictimes/articleshow.jpg",
       "category": "geopolitics"
     },
     {
@@ -189,48 +234,12 @@
       "category": "supply_demand"
     },
     {
-      "title": "PLS Group Shares Surge 6.5% as Lithium Stocks Rally, Lifting Australia's Biggest Independent Producer Off Lows",
-      "description": "PLS Group shares gained 6.5% as lithium stocks rallied on the ASX, although the producer remains exposed to volatile spodumene prices and battery-market demand.",
-      "url": "https://www.ibtimes.com.au/pls-group-shares-rise-lithium-stocks-rally-1878332",
-      "source": "Ibtimes.com.au",
+      "title": "Why The New Garrick S8 Might Be The Brand\u2019s Best Watch Yet",
+      "description": "OK, we\u2019ve all read and probably scoffed at headlines like this. I\u2019m with you; this kind of superlative reeks of marketing BS. Unfortunately, though, genuine enthusiasm can sometimes get lost behind such claims. This is one of those occasions when the reality \u2026",
+      "url": "https://www.fratellowatches.com/new-garrick-s8/",
+      "source": "Fratellowatches.com",
       "date": "2026-11-11",
-      "image": "https://d.ibtimes.com.au/en/full/1896931/pls-group-shares-jump-7-battered-lithium-producer-rebounds.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Blackstone to buy 16% in IIFL Finance for Rs 5,000 crore: What's the deal all about?",
-      "description": "Global investment titan Blackstone is poised to acquire a 16% stake in IIFL Finance for a whopping Rs 5,000 crore. This strategic investment is part of a broader Rs 6,414 crore fundraising initiative endorsed by IIFL Finance's board. The capital influx aims t\u2026",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/blackstone-to-buy-16-in-iifl-finance-for-rs-5000-crore-whats-the-deal-all-about/articleshow/135730489.cms",
-      "source": "The Times of India",
-      "date": "2026-11-11",
-      "image": "https://static.toiimg.com/thumb/msid-135730597,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "category": "market"
-    },
-    {
-      "title": "For Manchester United, a disastrous start goes beyond just a manager",
-      "description": "Michael Carrick is set to be relieved of his duties soon after one of the world\u2019s biggest clubs has totaled only 8 points through 10 matches.",
-      "url": "https://www.nbcnews.com/sports/soccer/manchester-united-disastrous-start-goes-just-manager-rcna608462",
-      "source": "NBC News",
-      "date": "2026-11-11",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261109-fernandez-man-united-vsb-1925-ca059d.jpg",
-      "category": "market"
-    },
-    {
-      "title": "The rich pivot to real estate in India after tepid stock returns",
-      "description": "Wealth managers are witnessing growing interest in income-generating properties, logistics, warehousing and infrastructure funds following two years of subdued equity market performance.",
-      "url": "https://www.thehindubusinessline.com/news/real-estate/the-rich-pivot-to-real-estate-in-india-after-tepid-stock-returns/article71688544.ece",
-      "source": "BusinessLine",
-      "date": "2026-11-11",
-      "image": "https://bl-i.thgim.com/public/incoming/nvtbzj/article71688657.ece/alternates/LANDSCAPE_1200/ALL.1.FundInsigG7HGK60HH.4.jpg.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Hellyer Metals liquidator removed in federal judge ruling",
-      "description": "The liquidator of a company involved in Tasmanian gold mine has been removed from the role, with a federal judge ruling the man had made \"a serious error of judgement\" and had failed to properly investigate the company.",
-      "url": "https://www.abc.net.au/news/2026-11-11/judge-removes-tasmania-hellyer-metals-liquidator-liam-bailey/107372894",
-      "source": "ABC News (AU)",
-      "date": "2026-11-11",
-      "image": "https://live-production.wcms.abc-cdn.net.au/6f7999b747a4d040dc4dd94d8bee558c?impolicy=wcms_watermark_news&cropH=401&cropW=713&xPos=0&yPos=158&width=862&height=485&imformat=generic",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Garrick-S8-23.jpg",
       "category": "central_bank"
     },
     {
@@ -279,129 +288,120 @@
       "category": "central_bank"
     },
     {
-      "title": "ITV\u2019s McCall confident Sky assets deal will complete in second half of 2027",
-      "description": "ITV CEO Carolyn McCall has said Sky\u2019s deal for its broadcast assets remains on course despite UK media regulator Ofcom and the Competition and Markets Authority (CMA)\u2019s review into the take...",
-      "url": "https://www.c21media.net/news/itvs-mccall-confident-sky-assets-deal-will-complete-in-second-half-of-2027/",
-      "source": "C21media.net",
+      "title": "Building a GPU workstation for visual effects with Amazon EC2: Part 5 \u2013 Security",
+      "description": "The final post in our GPU workstation series covers security for visual effects workstations on Amazon EC2: controlling who can reach the desktop, protecting the Amazon DCV session in transit, and safeguarding credentials, images, and storage, plus IAM, encry\u2026",
+      "url": "https://aws.amazon.com/blogs/compute/building-a-gpu-workstation-for-visual-effects-with-amazon-ec2-part-5-security/",
+      "source": "Amazon.com",
       "date": "2026-11-11",
-      "image": "https://cdn.c21media.net/wp-content/uploads/2022/04/mccall-carolyn-620-feat.jpg",
+      "image": "https://d2908q01vomqb2.cloudfront.net/1b6453892473a467d07372d45eb05abc2031647a/2026/10/23/ComputeBlog-2763-featured-image.png",
       "category": "market"
     },
     {
-      "title": "Bare-knuckle entering sporting mainstream as BKB stage O2 London show",
-      "description": "Nov 11 : Once an underground combat sport, bare-knuckle boxing has followed the way into the mainstream paved by mixed martial arts, and professional fighters now find themselves with greater possibilities than ever before.Saturday's card at London's O2 Arena\u2026",
-      "url": "https://www.channelnewsasia.com/sport/bare-knuckle-entering-sporting-mainstream-bkb-stage-o2-london-show-6542856",
-      "source": "CNA",
+      "title": "Building a GPU workstation for visual effects on Amazon EC2: Part 2 \u2013 Linux",
+      "description": "The second post in a five-part series on building GPU-backed visual effects (VFX) workstations on Amazon EC2. You deploy and configure a Rocky Linux 9.5 workstation with NVIDIA GPU drivers, Wacom drivers, and Amazon DCV as a high-performance desktop display p\u2026",
+      "url": "https://aws.amazon.com/blogs/compute/building-a-gpu-workstation-for-visual-effects-on-amazon-ec2-part-2-linux/",
+      "source": "Amazon.com",
       "date": "2026-11-11",
-      "image": "https://dam.mediacorp.sg/image/upload/s--m1GDvu6W--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-11T114332Z_1_LYNXNPEMAA0ZI_RTROPTP_3_BRITAIN-BOXING-BAREKNUCKLE.JPG?itok=lgquqB_O",
+      "image": "https://d2908q01vomqb2.cloudfront.net/1b6453892473a467d07372d45eb05abc2031647a/2026/10/23/ComputeBlog-2759-featured-image.png",
       "category": "market"
     },
     {
-      "title": "The \u20b95 digital lifeline: The quiet turf war over India\u2019s sachet internet",
-      "description": "From Batla House living rooms to rural service centres, India\u2019s working class is turning to  \u20b95 Wi-Fi sachets to bypass pricey cellular plans. Inside story of the slow moving PM-WANI scheme and startups battling big telcos to rewire digital access.",
-      "url": "https://www.livemint.com/industry/telecom/pmwanipublicwifiindiasachetinternet-11794394164059.html",
-      "source": "Livemint",
+      "title": "Build a GPU workstation for visual effects on Amazon EC2: Part 1 \u2013 Setup",
+      "description": "The first in a five-part series on building NVIDIA GPU-powered virtual workstations on Amazon EC2 G-series instances. Part 1 covers the G instance families, Amazon DCV desktop streaming, connectivity options, and the account, service quota, networking, and IA\u2026",
+      "url": "https://aws.amazon.com/blogs/compute/build-a-gpu-workstation-for-visual-effects-on-amazon-ec2-part-1-setup/",
+      "source": "Amazon.com",
       "date": "2026-11-11",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/Mohammad_Moin_1794394270319_tBaa_1794394276675_ofXL_46cc118b-d4ef-4655-b1b5-50d1a66a4676_t7KM.jpg",
+      "image": "https://d2908q01vomqb2.cloudfront.net/1b6453892473a467d07372d45eb05abc2031647a/2026/10/23/ComputeBlog-2764-featured-image.png",
+      "category": "market"
+    },
+    {
+      "title": "Meet TwylaTokTok, the thrift queen making treasure out of trash",
+      "description": "From Pok\u00e9mon cardis to outfits based on fruit, the Texan thrifting expert has amassed a huge audience on TikTok with her unique take on self-styling",
+      "url": "https://www.dazeddigital.com/fashion/article/71343/1/twylatoktok-twyla-rhode-tik-tok-fashion-thrifting?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=meet-twylatoktok-the-thrift-queen-making-treasure-out-of-trash",
+      "source": "Dazed",
+      "date": "2026-11-11",
+      "image": "https://images-prod.dazeddigital.com/1200/azure/dazed-prod/1450/9/1459324.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Alleged Chinese Spy\u2019s Scandalous Past Emerges After Nvidia CEO\u2019s Affair Threatens Global Economy",
+      "description": "Everyone\u2019s talking about Alice Huang for her affair with Nvidia\u2019s CEO. But there's one detail that might have escaped people\u2019s attention: she's married.",
+      "url": "https://www.boredpanda.com/nvidia-ceo-jensen-huang-affair-chinese-spy-scandalous-past/",
+      "source": "Boredpanda.com",
+      "date": "2026-11-11",
+      "image": "https://static.boredpanda.com/blog/wp-content/uploads/2026/11/fb_image_6af4774933eb5.png",
+      "category": "market"
+    },
+    {
+      "title": "I am a Plugin Developer\u2026",
+      "description": "I am a Plugin Developer and am uploading my Spanish Mexico and Spanish ES translations. I am a native Spanish Speaker. In order to help and speed up the availability of my Spanish plugin languages, I want to become a PTE for these languages: #es_ES #es_MX Wha\u2026",
+      "url": "https://make.wordpress.org/polyglots/2026/11/11/i-am-a-plugin-developer-2/",
+      "source": "Wordpress.org",
+      "date": "2026-11-11",
+      "image": "https://s.w.org/images/home/wordpress-default-ogimage.png",
+      "category": "market"
+    },
+    {
+      "title": "Democrat Takeover of Texas Threatens Biden-Style Migrant Flood",
+      "description": "With the election of a Democrat as the next governor of Texas, outgoing Gov. Greg Abbott's \"Operation Lone Star\" border policy is on the chopping block, and the end of this stopgap program will likely open a massive hole in border security allowing a Joe Bide\u2026",
+      "url": "https://www.breitbart.com/immigration/2026/11/11/democrat-takeover-of-texas-threatens-biden-style-migrant-flood/",
+      "source": "Breitbart News",
+      "date": "2026-11-11",
+      "image": "https://media.breitbart.com/media/2026/11/AP24008676955604-640x335.png",
+      "category": "market"
+    },
+    {
+      "title": "Michael Saylor pitches Strategy\u2019s tax-efficient Bitcoin dividend model",
+      "description": "Michael Saylor says Strategy can fund dividends with unrealized Bitcoin gains, using return of capital treatment to defer taxes for investors.\nThe post Michael Saylor pitches Strategy\u2019s tax-efficient Bitcoin dividend model appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/saylor-strategy-tax-efficient-bitcoin-dividends/",
+      "source": "Crypto Briefing",
+      "date": "2026-11-11",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/11101608/library-michael-saylor-pitches-strategy-s-tax-efficient-bitcoin--800x450.png",
+      "category": "market"
+    },
+    {
+      "title": "Did the Ice Under Chuck Schumer Just Get a Bit Thinner?",
+      "description": "You\u2019re reading The TNR Blue Book. Get daily scoops, strategy, and developments inside the liberal ideas factory delivered right to your inbox. Sign up for free.Inside Washington Senators were skittish on Tuesday when asked if they would support Senator Chuck \u2026",
+      "url": "https://newrepublic.com/post/217866/chuck-schumer-senate-leader-race-ice-thinner",
+      "source": "The New Republic",
+      "date": "2026-11-11",
+      "image": "https://images.newrepublic.com/3bde2b1ee51590d1ab93942c223f7faab108249c.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
       "category": "geopolitics"
     },
     {
-      "title": "Sanlorenzo Just Unveiled Its Largest Explorer Yacht to Date",
-      "description": "Sanlorenzo's 1150 Explorer measures 197 feet and has an interior volume of approximately 1,150 GT, making it the Italian yard's largest explorer yet.",
-      "url": "http://robbreport.com/motors/marine/sanlorenzo-unveils-1150-explorer-yacht-1238829209/",
-      "source": "Robb Report",
+      "title": "More work than it looks: the new jobs coming from AI adoption",
+      "description": "From synthesisers to assembly lines, technological change has threatened familiar jobs while creating unexpected forms of work. Research into AI-related job vacancies is revealing strong demand for the people who help organisations adopt AI. Ed Teather argues\u2026",
+      "url": "https://blogs.lse.ac.uk/businessreview/2026/11/11/more-work-than-it-looks-the-new-jobs-coming-from-ai-adoption/",
+      "source": "Lse.ac.uk",
       "date": "2026-11-11",
-      "image": "https://robbreport.com/wp-content/uploads/2026/11/sanlorenzo-1150EXP-8.jpg?w=681&h=383&crop=1",
-      "category": "market"
-    },
-    {
-      "title": "RWE and KKR Seal $16 Billion UK Offshore Wind Mega-Deal",
-      "description": "German energy company RWE and global investment firm KKR will invest $16 billion (\u00a312 billion) in offshore wind projects in the UK in what is likely the biggest renewable energy investment in Britain ever. RWE and KKR expect to deliver the Vanguard West and V\u2026",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/RWE-and-KKR-Seal-16-Billion-UK-Offshore-Wind-Mega-Deal.html",
-      "source": "OilPrice.com",
-      "date": "2026-11-11",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-11_csyxenqp58.jpg",
-      "category": "market"
-    },
-    {
-      "title": "El Ni\u00f1o will push temperatures above 1.5 degrees C. Will we ever come back down?",
-      "description": "The astonishing strength of this El Ni\u00f1o could mean we surpass an important climate threshold\u2014possibly for good",
-      "url": "https://www.scientificamerican.com/article/el-nino-will-push-temperatures-above-1-5-degrees-c-will-we-ever-come-back-down/",
-      "source": "Scientific American",
-      "date": "2026-11-11",
-      "image": "https://static.scientificamerican.com/dam/asset/d12a63cd-4744-4768-b2dd-d790a5c0618d/Screenshot-2026-11-10-at-2-35-43-PM.jpg?m=1794340372.594&w=1200",
+      "image": "https://blogsmedia.lse.ac.uk/blogs.dir/99/files/2026/11/synthesiser_AI-747-x-420.jpg",
       "category": "supply_demand"
     },
     {
-      "title": "20 Best SEO Companies in Australia for 2027: Award-Winning Agencies Leading the Shift to AI Search Results",
-      "description": "Australian businesses are entering a rapidly changing search market, with 20 SEO agencies assessed on awards, independent rankings, services, locations, pricing transparency and emerging AI search expertise.",
-      "url": "https://www.ibtimes.com.au/best-australian-seo-agencies-2027-ai-search-1878376",
-      "source": "Ibtimes.com.au",
+      "title": "In Default Judgment, Court Orders Pirate Site To Pay Publishers Millions In Damages",
+      "description": "\u201cA federal judge in Manhattan has ordered the pirate site WeLib to pay 13 publishers $19.5 million in statutory damages. Judge Victor Marrero also directed the companies that register and host its domains to take it offline, after the site\u2019s operators failed \u2026",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101735-court-orders-pirate-site-welib-to-pay-publishers-19-5-million.html",
+      "source": "Publishers Weekly",
       "date": "2026-11-11",
-      "image": "https://d.ibtimes.com.au/en/full/1896933/seo-agencies.png",
-      "category": "geopolitics"
-    },
-    {
-      "title": "EU threatens significant fines for unfair online trade practices",
-      "description": "The European Commission is proposing a new Digital Fairness Act aimed at enhancing consumer rights. This legislation will impose fines on companies engaging in unfair practices such as deceptive advertising targeted at children. It seeks to ban dark patterns \u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/business/eu-threatens-significant-fines-for-unfair-online-trade-practices/articleshow/135735394.cms",
-      "source": "The Times of India",
-      "date": "2026-11-11",
-      "image": "https://img.etimg.com/thumb/msid-135735517,width-1200,height-900,imgsize-84564,overlay-economictimes/articleshow.jpg",
-      "category": "currency"
-    },
-    {
-      "title": "Solana could dip to $74 as Fed rate-hike odds hit 99%",
-      "description": "Key takeaways Solana (SOL) has declined 9% over the past seven days as US political uncertainty and growing expectations of tighter monetary policy weigh on cryptocurrency markets. CME FedWatch data cited in the report shows the probability of a December Fede\u2026",
-      "url": "https://coinjournal.net/news/solana-could-dip-to-74-as-fed-rate-hike-odds-hit-99/",
-      "source": "Coinjournal.net",
-      "date": "2026-11-11",
-      "image": "https://coinjournal.net/wp-content/uploads/2026/11/Solana-Coin-Over-the-Abyss.png",
+      "image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132741-1.PNG",
       "category": "central_bank"
     },
     {
-      "title": "Claroc finds 35,578 Grok Build apps open to anyone with a link",
-      "description": "The widespread exposure of sensitive data via Grok Build apps highlights critical security gaps in AI-driven platforms, urging stricter access controls.\nThe post Claroc finds 35,578 Grok Build apps open to anyone with a link appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/claroc-grok-build-apps-exposed-online/",
-      "source": "Crypto Briefing",
+      "title": "The Boom-Bust-Bailout System: How Private Banking Losses Become Public Debt",
+      "description": "[Note: This article was first published by Global Research on February 11, 2025, under Mark Keenan\u2019s Reality Books imprint. This updated edition revisits the concentration of financial power, debt-based banking and the boom-bust-bailout process.]\nIntroduction\u2026",
+      "url": "https://www.globalresearch.ca/boom-bust-bailout-system-private-banking-losses-public-debt/5945658",
+      "source": "Globalresearch.ca",
       "date": "2026-11-11",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/11060405/library-claroc-finds-35-578-grok-build-apps-open-to-anyone-with--800x450.png",
+      "image": "https://www.globalresearch.ca/wp-content/uploads/2026/11/lehman-brothers-776x1024.png",
       "category": "market"
     },
     {
-      "title": "Trump's judicial confirmations to face resistance in Democratic-controlled Senate",
-      "description": "A Democratic-controlled Senate is unlikely to help President Trump and Republicans continue their push to remake the federal judiciary in the next two years.",
-      "url": "https://www.cbsnews.com/news/trump-judicial-confirmations-democrats-senate/",
-      "source": "CBS News",
+      "title": "\u2018Dare Him to Veto It\u2019: Democrats Are Ready to Push for Real Reform",
+      "description": "Elizabeth Warren talks to Rolling Stone about how Democrats can't let fear of Trump stop the party from executing their voter mandate.",
+      "url": "http://www.rollingstone.com/politics/politics-features/elizabeth-warren-democrats-reform-veto-1235655756/",
+      "source": "Rolling Stone",
       "date": "2026-11-11",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/10/3022ba7f-3c16-4143-b6b2-3d8194b22ae0/thumbnail/1200x630g2/ae1a03bddd1ba455cd73e3d68f600f19/gettyimages-2302566480.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "How Democrats could snarl Trump administration stakes in private-sector companies",
-      "description": "The Trump administration had established some form of equity position in 41 companies as of November, according to the CATO Institute's tally.",
-      "url": "https://www.cnbc.com/2026/11/11/trump-company-equity-takes.html",
-      "source": "CNBC",
-      "date": "2026-11-11",
-      "image": "https://image.cnbcfm.com/api/v1/image/108546919-1794260827573-gettyimages-2304340042-_s013830_kqju5lnf.jpeg?v=1794343497&w=1920&h=1080",
-      "category": "market"
-    },
-    {
-      "title": "As Trump Administration Decimates Title IX Sexual Assault Protections, Students Call for Abolition of Fraternities and Other All-Male Groups",
-      "description": "Under the Trump administration\u2019s new Title IX rules, a student who reports being assaulted at an off-campus fraternity house may find that her school has no obligation to investigate at all. And if it does, she could face cross-examination by a representative\u2026",
-      "url": "https://msmagazine.com/2026/11/11/trump-title-ix-rollback-campus-sexual-assault-fraternities-is-this-conversation-helpful-so-far/",
-      "source": "Ms. Magazine",
-      "date": "2026-11-11",
-      "image": "https://msmagazine.com/wp-content/uploads/2026/11/GettyImages-2300067521.jpg",
-      "category": "market"
-    },
-    {
-      "title": "House Democrats prepare tougher crypto rules with SEC oversight",
-      "description": "Stricter crypto regulations could reshape market dynamics, impacting industry lobbying efforts and potentially leading to partisan conflicts.\nThe post House Democrats prepare tougher crypto rules with SEC oversight appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/house-democrats-sec-crypto-market-structure-bill/",
-      "source": "Crypto Briefing",
-      "date": "2026-11-11",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/11055330/library-house-democrats-prepare-tougher-crypto-rules-with-sec-ov-800x450.png",
+      "image": "https://www.rollingstone.com/wp-content/uploads/2026/11/liz-warren-what-comes-next-for-dems.jpg?crop=0px%2C21px%2C1800px%2C1014px&resize=1600%2C900",
       "category": "geopolitics"
     }
   ],
@@ -547,7 +547,7 @@
       "platinum_usd_oz": 1551.08
     }
   ],
-  "timestamp": "2026-11-12T17:05:01.932190+05:30",
+  "timestamp": "2026-11-12T20:59:07.122655+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
