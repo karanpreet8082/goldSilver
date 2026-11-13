@@ -54,7 +54,7 @@
         "hold": 25
       },
       "summary": "Gold is showing positive signals. Positive daily movement of 1.0%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-13T14:46:05.320594",
+      "timestamp": "2026-11-13T17:18:10.848204",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 25
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 1.6%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-13T14:46:05.421459",
+      "timestamp": "2026-11-13T17:18:10.926141",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 25
       },
       "summary": "Platinum is showing positive signals. Positive daily movement of 0.8%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-13T14:46:05.560141",
+      "timestamp": "2026-11-13T17:18:10.999389",
       "source": "rule-based"
     }
   },
@@ -135,27 +135,45 @@
   },
   "news": [
     {
-      "title": "German yields set for biggest weekly rise in two months",
-      "description": "As traders ramp up their expectations for European Central Bank interest rate hikes, yields on German government bonds are climbing steadily. This shift follows US inflation figures that were unexpectedly high, disrupting the bond market landscape. Meanwhile, global stock indices are witnessing a do",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/german-yields-set-for-biggest-weekly-rise-in-two-months/articleshow/135804160.cms",
+      "title": "Anthropic IPO share orders from China are said to be rebuffed",
+      "description": "Investors based in mainland China and Hong Kong are excluded from placing orders in Anthropic's IPO. This decision reflects the strategic sensitivities between Washington and Beijing regarding technology advancements. Some investors are exploring alternative methods to participate in the public offe",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-share-orders-from-china-are-said-to-be-rebuffed/articleshow/135809948.cms",
       "source": "Economic Times Markets",
       "date": "2026-11-13",
       "image": "",
       "category": "central_bank"
     },
     {
-      "title": "India 10-year bond yield reverses half of last week's drop on elevated inflation",
-      "description": "Indian government bonds fell for a third consecutive session, driven by inflation and interest-rate outlook concerns. The benchmark yield increased to 7.3079%, reversing much of last week's gains. Retail inflation in India accelerated, surpassing the Reserve Bank of India's target range, which raise",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-10-year-bond-yield-reverses-half-of-last-weeks-drop-on-elevated-inflation/articleshow/135804127.cms",
+      "title": "BofA adds January Fed hike to forecast, says quarterly pace no longer enough",
+      "description": "BofA Global Research anticipates that the Federal Reserve will implement a rate hike in January 2027. This adjustment follows the unexpectedly high Consumer Price Index report for October. Expectations of a 25-basis-point increase are supported by increasing inflation driven by various factors. Othe",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/bofa-adds-january-fed-hike-to-forecast-says-quarterly-pace-no-longer-enough/articleshow/135808910.cms",
       "source": "Economic Times Markets",
       "date": "2026-11-13",
       "image": "",
       "category": "central_bank"
     },
     {
-      "title": "Razorpay, Sembcorp Green Infra get Sebi nod to float IPOs",
-      "description": "Razorpay Software Ltd and Sembcorp Green Infra recently received approval from Sebi for their initial public offerings, marking a major milestone in their growth journeys. Razorpay aims to secure Rs 5,000-6,000 crore to enhance its financial services platform, while Sembcorp Green Infra plans to rai",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/razorpay-sembcorp-green-infra-get-sebi-nod-to-float-ipos/articleshow/135803228.cms",
+      "title": "US stocks: US stocks reverse early gains as Nvidia turmoil hits tech sector",
+      "description": "US stocks fell as Nvidia\u2019s leadership turmoil triggered a broad technology selloff, sending the Nasdaq down 1.42% and the S&amp;P 500 nearly 1% lower. Softer-than-expected producer inflation offered little relief as investors weighed the outlook for interest rates and the wider AI trade.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-after-soft-producer-prices-data/articleshow/135807296.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-11-13",
+      "image": "",
+      "category": "central_bank"
+    },
+    {
+      "title": "Chicago Fed's Goolsbee says on CNBC the Fed needs to guard against demand overheating",
+      "description": "Chicago Fed president Austan Goolsbee stated that inflation has moved beyond temporary energy and tariff-related price shocks. He highlighted that increased demand from the AI buildout is pushing prices higher across many sectors including health care and services. Goolsbee emphasized the importance",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/chicago-feds-goolsbee-says-on-cnbc-the-fed-needs-to-guard-against-demand-overheating/articleshow/135807011.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-11-13",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "US Treasury chief says Fed should not hike rates over energy shock tied to Iran war",
+      "description": "During his speech, US Treasury Secretary Scott Bessent advocated for the Federal Reserve to keep an open mind about interest rate adjustments. He pointed out that the current economic indicators could be skewed due to a supply shock from the ongoing conflict in Iran. Despite recent market volatility",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-treasury-chief-says-fed-should-not-hike-rates-over-energy-shock-tied-to-iran-war/articleshow/135806960.cms",
       "source": "Economic Times Markets",
       "date": "2026-11-13",
       "image": "",
@@ -169,6 +187,33 @@
       "date": "2026-11-13",
       "image": "",
       "category": "currency"
+    },
+    {
+      "title": "Jensen Huang's Nvidia exit casts shadow over Wall Street\u2019s $500 billion AI financing bet",
+      "description": "Nvidia's leadership crisis threatens to spill over into the AI financing boom.",
+      "url": "https://www.cnbc.com/2026/11/12/nvidia-ceo-exit-ai-financing.html",
+      "source": "CNBC",
+      "date": "2026-11-12",
+      "image": "https://image.cnbcfm.com/api/v1/image/108353940-1787671145319-gettyimages-2285783827-JAPAN_NVIDIA.jpeg?v=1787671381&w=1920&h=1080",
+      "category": "market"
+    },
+    {
+      "title": "Connecting ideas with investment at InvestFest 2026 - Gold Coast Health & Knowledge Precinct",
+      "description": "More than 175 one-on-one meetings between founders and investors took place in the Gold Coast Health and Knowledge Precinct as InvestFest returned to Cohort Innovation Space for 2026.\u00a0 The two-day...",
+      "url": "https://gchkp.com.au/news/connecting-ideas-with-investment-at-investfest-2026/",
+      "source": "Gchkp.com.au",
+      "date": "2026-11-12",
+      "image": "https://gchkp.com.au/app/uploads/2026/11/IMG_8958.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "BMO says silver\u2019s solar boom is fading, investment demand unlikely to compensate",
+      "description": "Growing fears that rising inflation will force the Federal Reserve to raise interest rates aggressively next month are weighing on gold, with the yellow metal down more than 1% on the day. However, silver is significantly outperforming, with prices holding ab\u2026",
+      "url": "https://biztoc.com/x/8ff9fb8b44fb53a0",
+      "source": "Biztoc.com",
+      "date": "2026-11-12",
+      "image": "https://biztoc.com/cdn/996/og.png",
+      "category": "central_bank"
     },
     {
       "title": "PGA Create Lab Announces 2026 Fellows",
@@ -216,30 +261,21 @@
       "category": "supply_demand"
     },
     {
-      "title": "House Of The Dragon Officially Returns In The Dragon's Divide",
-      "description": "House of the Dragon is officially back with The Dragon's Divide, a brand-new adventure bringing back Rhaenyra and various other fan-favorites.",
-      "url": "https://screenrant.com/house-of-the-dragon-dragons-divide-november-2026/",
-      "source": "Screen Rant",
+      "title": "Sri Lankan Manuscripts at the National Library of Medicine: Part I",
+      "description": "Circulating Now\u00a0welcomes guest blogger\u00a0Dr. Anna Winterbottom, an affiliate member of the History Department at McGill University and a 2025 Michael E. DeBakey fellow, for a two-part series about th\u2026",
+      "url": "https://circulatingnow.nlm.nih.gov/2026/11/12/sri-lankan-manuscripts-at-the-national-library-of-medicine-part-i/",
+      "source": "National Institutes of Health",
       "date": "2026-11-12",
-      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/06/aemond-targaryen-sitting-on-the-iron-throne-in-house-of-the-dragon-season-3.jpg?w=1600&h=900&fit=crop",
+      "image": "https://i0.wp.com/circulatingnow.nlm.nih.gov/wp-content/uploads/2026/10/Winterbottom_Part-I_Feature.jpg?fit=900%2C400&ssl=1",
       "category": "market"
     },
     {
-      "title": "Bitcoin ETFs Bleed $1.4B in Five Days as Investors Cut Risk",
-      "description": "U.S. spot Bitcoin exchange-traded funds have recorded five consecutive days of net outflows, as investors retreat from risk assets after a turbulent week for markets. The funds lost some $1.44 billion between November 5 and November 11, including $299.9 milli\u2026",
-      "url": "https://decrypt.co/383122/bitcoin-etfs-bleed-1-4b-in-five-days-as-investors-cut-risk",
-      "source": "Decrypt",
+      "title": "20 Common Garage Sale Finds That Can Be Surprisingly Valuable",
+      "description": "From pyrex to vinyl records, here's what to look for when you're combing through somebody else's stuff.",
+      "url": "https://www.mentalfloss.com/live-smarter/money/surprisingly-valuable-garage-sale-finds",
+      "source": "Mental Floss",
       "date": "2026-11-12",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Sensex today | Stock Market Highlights: Markets extend gains for 3rd day; Sensex ends above 81,900 on FII inflows, lower crude oil",
-      "description": "Sensex, Nifty, Share Prices Highlights: Benchmark equity indices Sensex and Nifty ended marginally higher on Thursday, taking their winning run to the third straight day, amid sustained foreign fund inflows and lower crude oil prices.",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-12-november-2026/article71689385.ece",
-      "source": "BusinessLine",
-      "date": "2026-11-12",
-      "image": "https://bl-i.thgim.com/public/incoming/6ysij7/article71689387.ece/alternates/LANDSCAPE_1200/finance.jpg",
+      "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_203,w_2560,h_1440/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/mentalfloss/01m73ek2f18xg4w90s04.jpg",
       "category": "market"
     },
     {
@@ -297,112 +333,76 @@
       "category": "central_bank"
     },
     {
-      "title": "Indians buy 30% more gold after recent price correction",
-      "description": "Indians showed a significant increase in gold and silver purchases during Dhanteras-Diwali this year. Gold buying rose by 30% while silver demand increased by 10% compared to last year. Consumers bought 52 tonnes of gold valued at \u20b972,000 crore and 300 tonnes\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/indians-buy-30-more-gold-after-recent-price-correction/articleshow/135751399.cms",
-      "source": "The Times of India",
+      "title": "Stephen Miller Wants to Win Back Young Men. It Might Not Be So Easy",
+      "description": "Stephen Miller, the new White House Chief of Staff, wants to help Donald Trump and MAGA win back young men. It might not be so easy.",
+      "url": "http://www.rollingstone.com/politics/political-commentary/stephen-miller-maga-young-men-1235656571/",
+      "source": "Rolling Stone",
       "date": "2026-11-12",
-      "image": "https://img.etimg.com/thumb/msid-135751509,width-1200,height-900,imgsize-93522,overlay-etmarkets/articleshow.jpg",
+      "image": "https://www.rollingstone.com/wp-content/uploads/2026/11/Miller11-11.jpg?w=1600&h=900&crop=1",
+      "category": "market"
+    },
+    {
+      "title": "Nvidia Shares Plunge, Shaking Up Tech Stocks",
+      "description": "Nvidia\u2019s shares plummeted Thursday, sending tremors through global markets, as the company\u2019s chief executive, Jensen Huang, stepped down from his role.\nShares in Nvidia dropped as much as 14 percent when markets opened for trading on Thursday, extending a dec\u2026",
+      "url": "https://biztoc.com/x/dabb42aeba63b157",
+      "source": "Biztoc.com",
+      "date": "2026-11-12",
+      "image": "https://biztoc.com/cdn/dabb42aeba63b157_s.webp",
+      "category": "market"
+    },
+    {
+      "title": "Standard Chartered brings four Signature CIO Funds from GIFT City",
+      "description": "Standard Chartered has partnered with Amundi Asset Management and SBI Funds International to offer multi-asset portfolios investing across global markets from GIFT City.",
+      "url": "https://www.business-standard.com/markets/news/standard-chartered-brings-four-signature-cio-funds-from-gift-city-126111201886_1.html",
+      "source": "Business Standard",
+      "date": "2026-11-12",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-05/18/thumb/fitandfill/1200X628/1779070924-2183.jpg",
+      "category": "market"
+    },
+    {
+      "title": "MSCI Is Removing Strategy, Holder of 850,364 Bitcoin, From Its Indexes. Will Saylor Have to Sell BTC?",
+      "description": "The post MSCI Is Removing Strategy, Holder of 850,364 Bitcoin, From Its Indexes. Will Saylor Have to Sell BTC? appeared first on 24/7 Wall St..\nMSCI (NYSE:MSCI) has announced it\u2019s removing Michael Saylor\u2019s Strategy Inc. (NASDAQ:MSTR) and several other compani\u2026",
+      "url": "https://biztoc.com/x/0969be79dc60269e",
+      "source": "Biztoc.com",
+      "date": "2026-11-12",
+      "image": "https://biztoc.com/cdn/0969be79dc60269e_s.webp",
+      "category": "market"
+    },
+    {
+      "title": "Indonesia seeks self-reliance in pharmaceutical raw materials",
+      "description": "Indonesia&#39;s Food and Drug Authority (BPOM) has targeted national drug raw material self-reliance through synergy among academia, businesses, and ...",
+      "url": "https://en.antaranews.com/news/442255/indonesia-seeks-self-reliance-in-pharmaceutical-raw-materials",
+      "source": "Antaranews.com",
+      "date": "2026-11-12",
+      "image": "https://cdn.antaranews.com/cache/1200x800/2026/11/12/IMG_20261112_141401.jpg.jpeg",
+      "category": "market"
+    },
+    {
+      "title": "Modi urges farmers to diversify crops, adopt natural farming and reduce chemical use",
+      "description": "Addressing an agriculture conference, the Prime Minister highlighted farm exports, fertiliser subsidies and agricultural growth while making a pitch for sustainable practices",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/modi-urges-farmers-to-diversify-crops-adopt-natural-farming-and-reduce-chemical-use/article71695193.ece",
+      "source": "BusinessLine",
+      "date": "2026-11-12",
+      "image": "https://bl-i.thgim.com/public/incoming/36n6it/article71695198.ece/alternates/LANDSCAPE_1200/20261112515L.jpg",
       "category": "supply_demand"
     },
     {
-      "title": "India tops global economic resilience rankings for 2026-30 with a score of 71",
-      "description": "The ASSOCHAM assessment highlights India\u2019s projected growth, savings and investment strength, while flagging fiscal consolidation as a key area for improvement",
-      "url": "https://www.thehindubusinessline.com/economy/india-tops-global-economic-resilience-rankings-for-2026-30-with-a-score-of-71/article71694563.ece",
-      "source": "BusinessLine",
+      "title": "The Global Story: Why the Nvidia scandal is bigger than one tech CEO\u2019s affair",
+      "description": "China appears determined to acquire America\u2019s most advanced computing technology \u2013 but how far might it go to get it?\n \nNvidia CEO Jensen Huang has resigned after publicly acknowledging having an affair, amid reports raising questions about whether the woman \u2026",
+      "url": "https://www.bbc.co.uk/programmes/p0pmp0bf",
+      "source": "BBC News",
       "date": "2026-11-12",
-      "image": "https://bl-i.thgim.com/public/todays-paper/tp-others/jxag2l/article67032432.ece/alternates/LANDSCAPE_1200/PO02_p4_Alerts_GLPBE3MCH.4.jpg.jpg",
+      "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p0p8d4fg.jpg",
       "category": "market"
     },
     {
-      "title": "Rupee hits one-week low, slips past 94 per dollar",
-      "description": "Rupee slips to a one-week low near 94/USD amid strong dollar demand, with near-term support around 93.50 and RBI intervention risks.",
-      "url": "https://www.thehindubusinessline.com/markets/forex/rupee-hits-one-week-low-slips-past-94-per-dollar/article71694417.ece",
-      "source": "BusinessLine",
-      "date": "2026-11-12",
-      "image": "https://bl-i.thgim.com/public/incoming/wdilp0/article71694539.ece/alternates/LANDSCAPE_1200/IMG_iStock-1335433018_2_1_MA9VUEEH.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "Geopolitics and the global green transition",
-      "description": "Falkner, R. ORCID logo (2026). Geopolitics and the global green transition. LSE IDEAS (Research Center). https://doi.org/10.21953/researchonline.lse.ac.uk.00141977",
-      "url": "https://researchonline.lse.ac.uk/id/eprint/141977/",
-      "source": "Lse.ac.uk",
+      "title": "Why CEOs Fail At Turnarounds: The Brand-Business Connection",
+      "description": "In January 2003, McDonald\u2019s announced its first quarterly loss, a $344 million deficit for the final three months of 2002. Restructuring charges accounted for much of the loss, but the warning signs were already visible in the restaurants. Comparable sales we\u2026",
+      "url": "https://brandingstrategyinsider.com/2026/11/why-ceos-fail-at-turnarounds-the-brand-business-connection/?utm_source=rss&utm_medium=rss&utm_campaign=why-ceos-fail-at-turnarounds-the-brand-business-connection",
+      "source": "Brandingstrategyinsider.com",
       "date": "2026-11-12",
       "image": null,
       "category": "geopolitics"
-    },
-    {
-      "title": "Forrester Consulting Finds IntelliJ IDEA Delivered 155% ROI and Highlights Open Approach to AI",
-      "description": "We\u2019re excited to share Forrester\u2019s newly released Total Economic Impact\u2122 (TEI) study of IntelliJ IDEA, which JetBrains commissioned to understand how IntelliJ IDEA has delivered value historically and how it continues to do so. Forrester interviewed nine seni\u2026",
-      "url": "https://blog.jetbrains.com/idea/2026/11/forrester-consulting-finds-intellij-idea-delivered-155-roi-and-highlights-open-approach-to-ai/",
-      "source": "Jetbrains.com",
-      "date": "2026-11-12",
-      "image": "https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/preview.png",
-      "category": "market"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang resigns amid affair and alleged Chinese spy scandal",
-      "description": "Nvidia has announced that its co-founder and long-serving CEO Jensen Huang has resigned with immediate effect, ending his 33-year leadership of the company that has become a dominant force in artificial intelligence (AI). The surprise departure comes amid gro\u2026",
-      "url": "https://soyacincau.com/2026/11/12/nvidia-ceo-jensen-huang-resigns-affair-and-alleged-chinese-spy-scandal/",
-      "source": "SoyaCincau.com",
-      "date": "2026-11-12",
-      "image": "https://soyacincau.com/wp-content/uploads/2026/11/261112-jenson-huang-nvidia-ceo-KL.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Cryptos tumble over 3%, lowest since August",
-      "description": "Major global cryptocurrencies lost ground on Thursday, hitting their lowest level since late August.The selloff was likely sparked by the recent Nvidia espionage scandal, which pushed CEO Jensen Huang...",
-      "url": "https://biztoc.com/x/2c7fe0cdedbc3426",
-      "source": "Biztoc.com",
-      "date": "2026-11-12",
-      "image": "https://biztoc.com/cdn/2c7fe0cdedbc3426_s.webp",
-      "category": "market"
-    },
-    {
-      "title": "The Audacious Plan to Electrify the Global Economy\u2014Again",
-      "description": "Plus: The cost of hardening the grid in California\u2019s wildfire country, the Iran war\u2019s impact on carbon emissions and a surprising reversal in the polar vortex.",
-      "url": "https://biztoc.com/x/26f3b412b95c4fe2",
-      "source": "Biztoc.com",
-      "date": "2026-11-12",
-      "image": "https://biztoc.com/cdn/996/og.png",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Antimicrobial Resistance",
-      "description": "Antimicrobial resistance (AMR)\u2014the ability of a microorganism (bacteria, virus, fungi, parasite) to resist the effects of a drug\u2014is a serious, complex and costly public health problem. Learn what FDA is doing to address AMR.",
-      "url": "https://www.fda.gov/emergency-preparedness-and-response/medical-countermeasure-mcm-issues/antimicrobial-resistance",
-      "source": "FDA.gov",
-      "date": "2026-11-12",
-      "image": "https://www.fda.gov/files/MRSA_1600px.jpg",
-      "category": "market"
-    },
-    {
-      "title": "\u2018Do not let Sauron have the ring\u2019: Voorhees warns against a government veto on AI",
-      "description": "His Sauron warning targets control over AI releases, a power already proposed in a September bill and El-Sayed\u2019s campaign platform.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your in\u2026",
-      "url": "https://cryptoslate.com/voorhees-sauron-government-ai-veto/",
-      "source": "CryptoSlate",
-      "date": "2026-11-12",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/11/ai-access-master-key.webp",
-      "category": "geopolitics"
-    },
-    {
-      "title": "The Nvidia Affairs",
-      "description": "Plus: Measles in New York, Democrats in Mississippi, and more...",
-      "url": "https://reason.com/2026/11/12/the-nvidia-affairs/",
-      "source": "Reason",
-      "date": "2026-11-12",
-      "image": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/11/Jensen-Affair.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Even right-wingers uneasy as Trump set to unleash 'secret weapon'",
-      "description": "A college accreditation overhaul that Donald Trump once called his \u201csecret weapon\u201d against higher education is on track to take effect next summer, and even some conservatives are uneasy about part of it, NPR reported Thursday.\u201cOur secret weapon will be the c\u2026",
-      "url": "https://www.rawstory.com/trump-dept-of-ed/",
-      "source": "Raw Story",
-      "date": "2026-11-12",
-      "image": "https://www.rawstory.com/media-library/berkeley-ca-usa-april-17-2025-students-professors-and-staff-protest-the-dictates-of-president-trump-on-the-university-or-f.jpg?id=68665203&width=1200&height=600&coordinates=0%2C83%2C0%2C84",
-      "category": "market"
     }
   ],
   "history": [
@@ -547,7 +547,7 @@
       "platinum_usd_oz": 1551.08
     }
   ],
-  "timestamp": "2026-11-13T20:16:05.572069+05:30",
+  "timestamp": "2026-11-13T22:48:11.008375+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
