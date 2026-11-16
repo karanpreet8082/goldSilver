@@ -54,7 +54,7 @@
         "hold": 25
       },
       "summary": "Gold is showing positive signals. Positive daily movement of 1.0%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-16T16:12:58.933663",
+      "timestamp": "2026-11-16T19:45:13.757452",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 25
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 1.6%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-16T16:12:59.009108",
+      "timestamp": "2026-11-16T19:45:13.882058",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 25
       },
       "summary": "Platinum is showing positive signals. Positive daily movement of 0.8%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-16T16:12:59.095173",
+      "timestamp": "2026-11-16T19:45:13.966584",
       "source": "rule-based"
     }
   },
@@ -135,22 +135,58 @@
   },
   "news": [
     {
-      "title": "US stocks: Nasdaq falls 1% at open as Nvidia woes weigh on sentiment ahead of earnings",
-      "description": "The Nasdaq fell over 1% at the open on Monday as investors remained wary ahead of Nvidia's earnings later this week, with turbulence in the AI trade showing no sign of easing.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-nasdaq-falls-1-at-open-as-nvidia-woes-weigh-on-sentiment-ahead-of-earnings/articleshow/135894333.cms",
+      "title": "Barclays lowers 2027 year-end target for S&amp;P 500 index to 8,700",
+      "description": "On Monday, Barclays revised its S&amp;P 500 index target for the 2027 year-end from 8,800 to 8,700. The adjustment reflects concerns regarding higher interest rates impacting financial conditions. Analysts believe that tighter financial conditions may lead to increased valuation dips. Strategies sug",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/barclays-lowers-2027-year-end-target-for-sp-500-index-to-8700/articleshow/135894874.cms",
       "source": "Economic Times Markets",
       "date": "2026-11-16",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "Warren Buffett donates $5.47 billion in Berkshire Hathaway shares to charities, confidence in successors remains 'strong as ever'",
-      "description": "Warren Buffett announced a donation of approximately $5.47 billion in Berkshire Hathaway shares to various charities. This donation consists of 9,225,000 Class B shares allocated to four foundations. Following this contribution, he has donated over $29 billion of his Berkshire stock to those organiz",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/warren-buffett-donates-more-berkshire-shares-confidence-in-successors-as-strong-as-ever/articleshow/135890059.cms",
+      "title": "US stocks: Nasdaq slides over 1% as AI selloff deepens ahead of Nvidia earnings",
+      "description": "US stocks fell as investors reacted to a selloff in AI firms, with Nvidia taking a hit. The resignation of Jensen Huang, Nvidia's leader, raised concerns, adding to market anxiety. Simultaneously, fresh US regulations limited China's access to advanced AI chips, further affecting sentiment. Major se",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-nasdaq-falls-1-at-open-as-nvidia-woes-weigh-on-sentiment-ahead-of-earnings/articleshow/135894333.cms",
       "source": "Economic Times Markets",
       "date": "2026-11-16",
       "image": "",
+      "category": "central_bank"
+    },
+    {
+      "title": "Gold (XAUUSD), Silver, Platinum Forecasts \u2013 Gold Tests $3850 Amid Sell-Off In Precious Metals Markets - FXEmpire",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOX1N3UzRsOGpOUkZDOHB3U2pYZ3F2emNKSHVHd0x5aFoyVmc2TS1VVGxLOGRJLUVOZUV0SVVKVnVEaXZLMTEzdldOV3o4d0ZuMEpRYmJURUZpUFNFNUZKWDJydktBNlVueDRwUzJYbzR0Z041UlBWNmNHVkF6T0UzUUFuSHRLcDk0SldtcnBtNlI1cUxzaUF6WUhEY3dYYWVsRHk4TzZtdUhCZVZyZHFzZFN4MjBFaUtjR3",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOX1N3UzRsOGpOUkZDOHB3U2pYZ3F2emNKSHVHd0x5aFoyVmc2TS1VVGxLOGRJLUVOZUV0SVVKVnVEaXZLMTEzdldOV3o4d0ZuMEpRYmJURUZpUFNFNUZKWDJydktBNlVueDRwUzJYbzR0Z041UlBWNmNHVkF6T0UzUUFuSHRLcDk0SldtcnBtNlI1cUxzaUF6WUhEY3dYYWVsRHk4TzZtdUhCZVZyZHFzZFN4MjBFaUtjR3hEMW9Jc1loN015MWhmUEtpakVVeG9LMXFIZmdwVGZlOHFxaUE?oc=5",
+      "source": "Google News - Precious Metals",
+      "date": "2026-11-16",
+      "image": "",
+      "category": "currency"
+    },
+    {
+      "title": "Precious Metals Under Pressure As Dollar Strengthens Ahead Of Fed Signals - Forbes Middle East",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ2NVTFhwVFZyeU9udm81SW1QdmV2c3NCZ3k1bTNDUUhSWkN2dWItd1JCZi1kdGp3bkFwUl93cFpjUlN0TjY1RkVXWV96Rl9leVI1QVQzRUdOVDZaLXRGTWZoSWhwOEstaDdwS3hpTW1rTjYwMWgwOWowZUNENlFQYVdTWGQwdlB6OUpZZS1YX0IwRVh4ZURMV3BkMUNmeDAtWTB0dzh3T1NkQ000?oc=5\" target=\"_bl",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ2NVTFhwVFZyeU9udm81SW1QdmV2c3NCZ3k1bTNDUUhSWkN2dWItd1JCZi1kdGp3bkFwUl93cFpjUlN0TjY1RkVXWV96Rl9leVI1QVQzRUdOVDZaLXRGTWZoSWhwOEstaDdwS3hpTW1rTjYwMWgwOWowZUNENlFQYVdTWGQwdlB6OUpZZS1YX0IwRVh4ZURMV3BkMUNmeDAtWTB0dzh3T1NkQ000?oc=5",
+      "source": "Google News - Precious Metals",
+      "date": "2026-11-16",
+      "image": "",
+      "category": "central_bank"
+    },
+    {
+      "title": "Brisbane 2032's Olympic boss and his pickleball conflict",
+      "description": "He is in charge of Australian sport's biggest money-pots. But can Brisbane's Olympic boss manage the tensions surrounding the 2032 Games?",
+      "url": "https://www.abc.net.au/news/2026-11-16/andrew-liveris-brisbane-olympics-profile/107379516",
+      "source": "ABC News (AU)",
+      "date": "2026-11-15",
+      "image": "https://live-production.wcms.abc-cdn.net.au/e8b452e7f4bb7861c9fa8635e9078725?impolicy=wcms_watermark_news&cropH=1713&cropW=3045&xPos=673&yPos=326&width=862&height=485&imformat=generic",
       "category": "geopolitics"
+    },
+    {
+      "title": "Rakuten Bought More IBIT ETF Shares in Bitcoin\u2019s Q2 Slump and Cut Ether to 4%",
+      "description": "Rakuten's 13F shows 124,495 IBIT ETF shares, 13.3% more after it bought in Q2's slump, while its ether ETF stake shrank to 4% of its crypto funds.",
+      "url": "https://www.dcforecasts.com/bitcoin-news/ibit-etf-rakuten-13f-bitcoin-ether-q3-2026/",
+      "source": "Dcforecasts.com",
+      "date": "2026-11-15",
+      "image": "https://www.dcforecasts.com/wp-content/uploads/2026/11/ibit-etf-rakuten-13f-bitcoin-ether-q3-2026.webp",
+      "category": "market"
     },
     {
       "title": "Today\u2019s News in a Nutshell",
@@ -207,22 +243,13 @@
       "category": "market"
     },
     {
-      "title": "IPO-bound Muthoot Fincorp doubles Q2 profit to Rs 779 crore, bucks trend of rising bad loans",
-      "description": "Muthoot Fincorp doubled its second-quarter net profit to Rs 779 crore from Rs 388 crore a year earlier, while its gross bad-loan ratio improved to 1.07% despite rising stress across the sector. The gold loan lender, which filed for a Rs 3,000 crore IPO in Aug\u2026",
-      "url": "https://economictimes.indiatimes.com/industry/banking/finance/ipo-bound-muthoot-fincorp-doubles-q2-profit-to-rs-779-crore-bucks-trend-of-rising-bad-loans/articleshow/135869162.cms",
-      "source": "The Times of India",
+      "title": "KunstlerCast 455 \u2014 Mike McCormick on the Byzantine Back Rooms of the White House",
+      "description": "Full transcript: tap Transcript under the audio player.",
+      "url": "https://www.kunstler.com/p/kunstlercast-455-mike-mccormick-on",
+      "source": "Kunstler.com",
       "date": "2026-11-15",
-      "image": "https://img.etimg.com/thumb/msid-135851630,width-1200,height-900,imgsize-19030,overlay-etmarkets/articleshow.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "Gold rate in this UP city sees major crash; price plunges over \u20b96,611 in just 3 days, slips below \u20b91.36 lakh mark",
-      "description": "Gold price today in Meerut: The yellow metal fell \u20b96,611 over three days, as global gold prices recorded their steepest weekly drop since June. On 15 November, gold and silver prices varied slightly across major Indian cities \u2014 check here\u2026&nbsp;",
-      "url": "https://www.livemint.com/money/gold-rate-up-city-meerut-sees-major-crash-price-plunges-over-rs-6611-in-just-3-days-slips-below-rs-1-36-lakh-mark-silver-11794721026951.html",
-      "source": "Livemint",
-      "date": "2026-11-15",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/Gold_and_Silver_Market_Drop_1793985509601_YJwL_179_1794725019926_nggD_1794725020040_erZV_5042fd23-d8f8-46d8-8bc5-5fd81404d54f_stEA.png",
-      "category": "metals"
+      "image": "https://substackcdn.com/image/fetch/$s_!g_1G!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F225048963%2Fd875597e-bf1b-48e7-b0fd-31dd26cd5049%2Ftranscoded-1794757971.png",
+      "category": "market"
     },
     {
       "title": "Gold and silver are supposed to protect against inflation. So why are both metals tumbling instead?",
@@ -243,138 +270,120 @@
       "category": "metals"
     },
     {
-      "title": "IFFK selects films for various sections; introduces Critics\u2019 Discovery initiative",
-      "description": "IFFK 2026: Kerala Chalachitra Academy finalises section selections and launches Malayalam Cinema\u2013Critics\u2019 Discovery to boost global exposure for films.",
-      "url": "https://timesofindia.indiatimes.com/city/thiruvananthapuram/iffk-selects-films-for-various-sections-introduces-critics-discovery-initiative/articleshow/135859860.cms",
-      "source": "The Times of India",
+      "title": "Against a bitter backdrop of competing egos and legal wrangles, the question is: Will Grand Theft Auto still rule the world?",
+      "description": "At the eastern extremity of Edinburgh's Old Town two modern buildings stand as next-door neighbours.",
+      "url": "https://www.dailymail.com/news/article-16294575/Will-Grand-Theft-Auto-rule-world.html",
+      "source": "Dailymail.com",
       "date": "2026-11-15",
-      "image": "https://static.toiimg.com/thumb/msid-135859859,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "image": "https://i.dailymail.com/1s/2026/11/15/18/112521939-0-image-a-9_1794767129813.jpg",
       "category": "market"
     },
     {
-      "title": "William and Kate to fly out on first joint foreign visit in four years as they meet Indian PM Modi during three-day trip",
-      "description": "The couple had been due to be based in the coastal city of Mumbai throughout their stay for William's Earthshot prize environmental awards.",
-      "url": "https://www.dailymail.com/news/article-16294385/William-Kate-India.html",
-      "source": "Dailymail.com",
+      "title": "NATO cancels 2027 leaders\u2019 summit",
+      "description": "NATO scrapped plans to hold a summit in Tirana next year, Albanian PM Edi Rama has said amid a rift between the US and European members Read Full Article at RT.com",
+      "url": "https://rt-english.com/news/648866-nato-cancels-leaders-summit/",
+      "source": "Rt-english.com",
       "date": "2026-11-15",
-      "image": "https://i.dailymail.com/1s/2026/11/15/16/112520631-0-image-m-19_1794758421846.jpg",
+      "image": "https://mf.b37mrtl.ru/files/2026.11/article/6af9f337203027157c0812a2.jpg",
       "category": "geopolitics"
     },
     {
-      "title": "Markster Expands Its AI Business System Beyond Sales and Marketing - IssueWire",
-      "description": "Built for owner-led companies and operated by Markster, the system now extends into delivery, hiring and finance.",
-      "url": "https://www.issuewire.com/markster-expands-its-ai-business-system-beyond-sales-and-marketing-1881788693777379",
-      "source": "Issuewire.com",
+      "title": "\u2018Extreme\u2019: Blue state utility wants to raise power rates by more than half, puts blame in one place",
+      "description": "'Americans need more dependable electricity and fewer government obstacles driving up the price'",
+      "url": "https://www.wnd.com/2026/11/extreme-blue-state-utility-wants-raise-power-rates/",
+      "source": "Wnd.com",
       "date": "2026-11-15",
-      "image": "https://s3-us-west-2.amazonaws.com/issuewireassets/primg/226846/mid_ivan-ivanka-at-the-markster-stand-at-web-summit-lisbon-november-2026620307537.jpg",
+      "image": "https://www.wnd.com/wp-content/uploads/2022/08/lightbulb-lights-plugged-in-electricty-energy-power-plants-ideas-creative-electrical-bills-utility-utilities-pixabay-1200x630.jpg",
       "category": "market"
     },
     {
-      "title": "Sunshine On My Solars Makes Me Happy: Wonkette Fall Book Club, Part 3.",
-      "description": "We\u2019re finishing up Bill McKibben\u2019s \u2018Here Comes The Sun,\u2019 and announcing a new book for next month!",
-      "url": "https://www.wonkette.com/p/sunshine-on-my-solars-makes-me-happy",
-      "source": "Wonkette.com",
+      "title": "Box Office Global: Johnny Depp's 'Ebenezer' Richer Abroad with $42M Bow - Deadline",
+      "description": "Box Office Global: Johnny Depp's 'Ebenezer' Richer Abroad with $42M BowDeadline Ebenezer Box Office: Johnny Depp Movie Leads Over How to Rob a BankVariety Johnny Depp film 'Ebenezer' gets actor first No. 1 opening in 8 yearsNewsday Johnny Depp\u2019s \u2018Ebenezer\u2019 Un\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186732878",
+      "source": "Slashdot.org",
       "date": "2026-11-15",
-      "image": "https://substackcdn.com/image/fetch/$s_!4vSH!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdebfbb74-8647-401a-9c7e-b19241fa6130_1080x801.jpeg",
+      "image": null,
       "category": "market"
     },
     {
-      "title": "How Wall Street Is Racing to Claim the Onchain Dollar",
-      "description": "From Goldman and Citi\u2019s $270 million \u201cProject Faro\u201d to SoFi, Anchorage, Mastercard, Visa and Circle, traditional finance is racing to claim the onchain dollar once dominated by Tether and Circle.",
-      "url": "https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins",
-      "source": "Decrypt",
+      "title": "Roger Goodell Sees NFL\u2019s Global Blueprint Come To Life Through Amon-Ra St. Brown",
+      "description": "For Lions wide receiver Amon-Ra St. Brown, playing in Munich wasn't just another game on the schedule but a powerful homecoming.",
+      "url": "https://www.foxsports.com/stories/nfl/roger-goodell-nfl-global-blueprint-through-lions-amon-ra-st-brown",
+      "source": "Fox Sports",
       "date": "2026-11-15",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/01/decrypt-style-wall-street-gID_7.png",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/lions1.jpg?ve=1&tl=1",
+      "category": "market"
+    },
+    {
+      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "description": "PMTiles is a tile format which works via HTTP Range requests and can be deployed as a single file to a storage bucket.",
+      "url": "https://bruceroettgers.eu/blog/protomaps/",
+      "source": "Bruceroettgers.eu",
+      "date": "2026-11-15",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "Fadnavis inaugurates Lloyds skills academy in Gadchiroli",
+      "description": "Fadnavis inaugurates Lloyds global skills academy in Gadchiroli, boosting jobs with mining training, women trainees, overseas programs, and sustainable mining focus.",
+      "url": "https://timesofindia.indiatimes.com/city/nagpur/fadnavis-inaugurates-lloyds-skills-academy-in-gadchiroli/articleshow/135864874.cms",
+      "source": "The Times of India",
+      "date": "2026-11-15",
+      "image": "https://static.toiimg.com/thumb/msid-135864872,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Louisiana AG calls CFTC chair\u2019s claims \u2018flatly false\u2019 in prediction market fight",
+      "description": "The clash over prediction market regulation highlights ongoing tensions between state and federal authority, impacting market operations nationwide.\nThe post Louisiana AG calls CFTC chair\u2019s claims \u2018flatly false\u2019 in prediction market fight appeared first on Cr\u2026",
+      "url": "https://cryptobriefing.com/louisiana-ag-cftc-prediction-markets-fight/",
+      "source": "Crypto Briefing",
+      "date": "2026-11-15",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/15140521/library-louisiana-ag-calls-cftc-chair-s-claims-flatly-false-in-p-800x450.png",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" Nov. 15, 2026",
+      "description": "On this \"Face the Nation with Margaret Brennan\" broadcast, Transportation Secretary Sean Duffy and Sen. Bill Cassidy join Margaret Brennan.",
+      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-11-15-2026/",
+      "source": "CBS News",
+      "date": "2026-11-15",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/15/0c521c81-6f53-42c9-9474-edd849818c82/thumbnail/1200x630/8348453c6f61fc673311fba01868c718/1794769167764.png",
+      "category": "market"
+    },
+    {
+      "title": "AI Boom Is Far From Over as Analysts Predict Stronger Recovery in 2027",
+      "description": "Artificial intelligence stocks could regain momentum in the second half of 2027 as excessive market expectations ease and investors assess the impact of tighter U.S. data center regulations, according to Daiwa Securities strategist Yugo Tsuboi, who argues tha\u2026",
+      "url": "https://newsonjapan.com/article/151379.php",
+      "source": "Newsonjapan.com",
+      "date": "2026-11-15",
+      "image": "https://i2.ytimg.com/vi/lYlWlFDkj2I/maxresdefault.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Ignoring these rebels would plunge America into a historic disaster",
+      "description": "Elon Musk spent almost a half-billion traceable dollars (and we have no idea how much \u201cdark money\u201d that\u2019s not traceable but legalized by corrupt Republicans on the Supreme Court) to try to help rightwing politicians win this week\u2019s election. As the old joke g\u2026",
+      "url": "https://www.rawstory.com/raw-investigates/democratic-moderate/",
+      "source": "Raw Story",
+      "date": "2026-11-15",
+      "image": "https://www.rawstory.com/media-library/image.jpg?id=68689657&width=1200&height=600&coordinates=0%2C416%2C0%2C417",
       "category": "currency"
     },
     {
-      "title": "Fight to make climate polluters pay for crushing poor countries at Cop31",
-      "description": "Nepal\u2019s disaster showed adaptation funding to help people withstand extreme events would cost less than paying for the damage afterwards",
-      "url": "https://www.irishtimes.com/world/europe/2026/11/15/fight-to-make-climate-polluters-pay-for-crushing-poor-countries-at-cop31/",
-      "source": "The Irish Times",
+      "title": "Pete Hegseth defended his anti-trans slurs under penalty of perjury. The DOJ wants them excluded from trial",
+      "description": "Defense Secretary Pete Hegseth is standing by his descriptions of transgender\r\n people as \u201cweird\u201d and his use of an anti-trans slur. The Trump administration, meanwhile, is asking a federal judge to prevent those statements from being used as evidence that it\u2026",
+      "url": "https://www.advocate.com/politics/national/doj-moves-strike-hegseth-words",
+      "source": "Advocate.com",
       "date": "2026-11-15",
-      "image": "https://www.irishtimes.com/resizer/v2/WIVKXA43ZJSLHJBKEQX47VYUXQ.jpg?smart=true&auth=65c9731249a07b477501754b5a9bcda658a034cf625d7a39179d5667d8a8c753&width=1200&height=630",
-      "category": "geopolitics"
-    },
-    {
-      "title": "New York's biggest trash dump is releasing even more methane than thought",
-      "description": "A report finds Seneca Meadows landfill and five other upstate dumps surpassed federal limits. [ more \u203a ]",
-      "url": "https://gothamist.com/news/new-yorks-biggest-trash-dump-is-releasing-even-more-methane-than-thought",
-      "source": "Gothamist",
-      "date": "2026-11-15",
-      "image": "https://api-prod.gothamist.com/images/362422/fill-1200x650|format-webp|webpquality-85/",
+      "image": "https://www.advocate.com/media-library/pete-hegseth.jpg?id=68689690&width=1200&height=600&coordinates=0%2C39%2C0%2C39",
       "category": "central_bank"
     },
     {
-      "title": "Pastor who advised three US presidents warns Christ's return is 'right around the corner' as he reveals signs of the Antichrist",
-      "description": "A pastor who advised former President Barack Obama has revealed the terrifying signs he believes are signaling the rise of the Antichrist.",
-      "url": "https://www.dailymail.com/sciencetech/article-16252777/pastor-samuel-rodriguez-christ-return-antichrist.html",
-      "source": "Dailymail.com",
-      "date": "2026-11-15",
-      "image": "https://i.dailymail.com/1s/2026/11/14/02/112502325-0-image-m-26_1794621855902.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "German economy returns to growth, so why is the country still worried?",
-      "description": "The German economy is growing again, albeit slightly. However, economists warn that without reforms, higher productivity and solid public finances, a loss of prosperity and growing debt threaten future generations.",
-      "url": "https://www.dw.com/en/german-economy-returns-to-growth-so-why-is-the-country-still-worried/a-79932220",
-      "source": "DW (English)",
-      "date": "2026-11-15",
-      "image": "https://static.dw.com/image/77040689_6.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "America's first Muslim senator exposes a political blind spot",
-      "description": "Abdul El-Sayed's election as the first Muslim senator-elect puts Islamism, the Muslim Brotherhood and antisemitism at the heart of a national debate.",
-      "url": "https://www.foxnews.com/opinion/americas-first-muslim-senator-exposes-political-blind-spot",
-      "source": "Fox News",
-      "date": "2026-11-15",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/abdul-el-sayed-michigan-democratic-convention-fox-news_.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Texas Democrat Governor-Elect Gina Hinojosa Vows to REVERSE Greg Abbott\u2019s Terrorist Designation of CAIR",
-      "description": "It hasn\u2019t taken long for Democrats to begin plotting the dismantling of Republican Governor Greg Abbott\u2019s policies in the Lone Star State.\nThe post Texas Democrat Governor-Elect Gina Hinojosa Vows to REVERSE Greg Abbott\u2019s Terrorist Designation of CAIR appeare\u2026",
-      "url": "https://www.thegatewaypundit.com/2026/11/texas-democrat-governor-elect-gina-hinojosa-vows-reverse/",
-      "source": "Thegatewaypundit.com",
-      "date": "2026-11-15",
-      "image": "https://www.thegatewaypundit.com/wp-content/uploads/2026/11/screenshot-2026-11-15-at-12.27.39am-1200x630.jpg",
-      "category": "market"
-    },
-    {
-      "title": "The Candidates Who Made MAGA Pay",
-      "description": "Democrats won both chambers of Congress in the November midterms, but the national result tells only part of the story. In races from Texas to Georgia, candidates gave voters specific answers to a question that mattered at home: What would they do about the c\u2026",
-      "url": "https://www.fairobserver.com/united-states/the-candidates-who-made-maga-pay/",
-      "source": "Fair Observer",
-      "date": "2026-11-15",
-      "image": "https://www.fairobserver.com/wp-content/uploads/2026/11/newspapers-2.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Rural Minnesota Seniors Could Pay Thousands More as Medicare Advantage Plans Disappear in 2027",
-      "description": "Crow Wing, Wadena and Lake of the Woods counties will lose all Medicare Advantage plans in 2027, forcing rural seniors to compare more expensive alternatives before open enrollment ends Dec. 7.",
-      "url": "https://www.medicaldaily.com/minnesota-counties-lose-medicare-advantage-plans-2027-481263",
+      "title": "Democrats Push Medicare Buy-In for Americans Ages 50 to 64 as Filibuster and Veto Threats Loom",
+      "description": "Senate Democrats introduced a bill allowing Americans ages 50 to 64 to buy into Medicare, but the proposal faces major obstacles, including a potential filibuster and presidential veto.",
+      "url": "https://www.medicaldaily.com/democrats-medicare-buy-ages-50-64-481266",
       "source": "Medical Daily",
       "date": "2026-11-15",
-      "image": "https://d.medicaldaily.com/en/full/488647/seniors-could-pay-thousands-more-medicare-advantage-plans-disappear.jpg",
-      "category": "market"
-    },
-    {
-      "title": "The peptide revolution is here: Get ahead of the curve as new rules look set to turn once-radical 'miracle' treatments mainstream",
-      "description": "Robert F Kennedy Jr relaxed legal guidelines on wellness peptides in October. Three experts in law and medicine told the Daily Mail how this new policy impacts consumers.",
-      "url": "https://www.dailymail.com/health/article-16285545/peptide-treatment-rules-pills.html",
-      "source": "Dailymail.com",
-      "date": "2026-11-15",
-      "image": "https://i.dailymail.com/1s/2026/11/13/20/112454965-0-image-a-7_1794602992581.jpg",
-      "category": "market"
-    },
-    {
-      "title": "US midterms: What history says about sharemarket returns in 2027",
-      "description": "OPINION: A small group of mega-cap tech stocks could decide whether the run continues.",
-      "url": "https://www.nzherald.co.nz/rotorua-daily-post/business/us-midterms-what-history-says-about-sharemarket-returns-in-2027/premium/GFQ5IAYECVFIFI6BIAPIPAF7EY/",
-      "source": "New Zealand Herald",
-      "date": "2026-11-15",
-      "image": "https://www.nzherald.co.nz/resizer/v2/JWC2DHGNEFK7RJMPQRSZAYSMJY.jpg?auth=306cddc393bdf166ebdecb13006bbcd3b04ada3d05c3b06778ed17ac8349ba3a&width=1200&height=675&quality=70&smart=true",
+      "image": "https://d.medicaldaily.com/en/full/488650/democrats-push-medicare-buy-americans-ages-50-64.jpg",
       "category": "market"
     },
     {
@@ -394,15 +403,6 @@
       "date": "2026-11-14",
       "image": "https://bl-i.thgim.com/public/incoming/266ze1/article71701490.ece/alternates/LANDSCAPE_1200/IMG_PO17_Bear_gold_2_1_4MG07B56.jpg",
       "category": "currency"
-    },
-    {
-      "title": "Commodities\u2019 place in the Indian investor\u2019s portfolio",
-      "description": "Over the past decade, MCX Gold has moved almost independently of the Nifty50 \u2014 the correlation of their returns over long periods has been quite low",
-      "url": "https://www.thehindubusinessline.com/markets/commodities/commodities-place-in-the-indian-investors-portfolio/article71698643.ece",
-      "source": "BusinessLine",
-      "date": "2026-11-14",
-      "image": "https://bl-i.thgim.com/public/incoming/b5t9tq/article71700841.ece/alternates/LANDSCAPE_1200/iStock-1472696526.jpg",
-      "category": "metals"
     }
   ],
   "history": [
@@ -547,7 +547,7 @@
       "platinum_usd_oz": 1551.08
     }
   ],
-  "timestamp": "2026-11-16T21:42:59.104735+05:30",
+  "timestamp": "2026-11-17T01:15:13.979492+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
