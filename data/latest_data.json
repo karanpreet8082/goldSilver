@@ -54,7 +54,7 @@
         "hold": 25
       },
       "summary": "Gold is showing positive signals. Positive daily movement of 1.0%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-18T15:52:55.115240",
+      "timestamp": "2026-11-18T18:16:54.852486",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 25
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 1.6%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-18T15:52:55.269326",
+      "timestamp": "2026-11-18T18:16:54.917062",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 25
       },
       "summary": "Platinum is showing positive signals. Positive daily movement of 0.8%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-18T15:52:55.426747",
+      "timestamp": "2026-11-18T18:16:54.985188",
       "source": "rule-based"
     }
   },
@@ -135,48 +135,84 @@
   },
   "news": [
     {
-      "title": "World gold prices plummet, a series of precious metals fall sharply - Laodong.vn",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNSW1rNEwxT1kwaTZtbm5wc3ZJdDk3QTZtMjFmYUF2VTdyVVVpbzN4NHc3SHMwLVdpenRlMno4bUFJNTZXOTFpNUVhcUV1MzFTelBzV2pLbFJIMUFITXVLTUVyc1U3SURaQjJjX2ZfXzM4Q3pzV3dCTXl3RFAwLXdwZ3BkeEdKZy1FWTUzSk5yZF9Xa3FVOFNGUkU3Z09nSU9PRjJHc1hUcXhXaFF2NGc?oc=5\" target=\"",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSW1rNEwxT1kwaTZtbm5wc3ZJdDk3QTZtMjFmYUF2VTdyVVVpbzN4NHc3SHMwLVdpenRlMno4bUFJNTZXOTFpNUVhcUV1MzFTelBzV2pLbFJIMUFITXVLTUVyc1U3SURaQjJjX2ZfXzM4Q3pzV3dCTXl3RFAwLXdwZ3BkeEdKZy1FWTUzSk5yZF9Xa3FVOFNGUkU3Z09nSU9PRjJHc1hUcXhXaFF2NGc?oc=5",
-      "source": "Google News - Precious Metals",
-      "date": "2026-11-18",
-      "image": "",
-      "category": "metals"
-    },
-    {
-      "title": "Former Wall Street watchdog sounds the alarm on market crash that could trigger a recession by 2028 - time to 'batten down the hatches'",
-      "description": "The AI gold rush could be heading for a spectacular crash, with a former Wall Street regulator warning that the fallout could plunge the US into recession before the next presidential election.",
-      "url": "https://www.dailymail.com/yourmoney/article-16298935/gary-gensler-wall-street-ai-crash.html",
-      "source": "Dailymail.com",
-      "date": "2026-11-17",
-      "image": "https://i.dailymail.com/1s/2026/11/17/15/112562537-0-image-a-85_1794929868688.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Maharashtra govt grants Rs 9.7 crore to revive Mumbai University\u2019s high-end research equipment",
-      "description": "Maharashtra govt sanctions Rs 9.75 crore to repair and upgrade Mumbai University\u2019s NCNNUM research equipment, restoring advanced nanoscience facilities.",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/maharashtra-govt-grants-rs-9-7-crore-to-revive-mumbai-universitys-high-end-research-equipment/articleshow/135931374.cms",
+      "title": "Centre temporarily waives PAP for Nagaland tourists after Rio and assembly sought complete withdrawal",
+      "description": "Centre waives Protected Area Permit for foreign tourists visiting Nagaland for 20 days from Nov 26, covering Hornbill Festival; Afghan, Chinese, Pakistani nationals excluded.",
+      "url": "https://timesofindia.indiatimes.com/city/guwahati/centre-temporarily-waives-pap-for-nagaland-tourists-after-rio-and-assembly-sought-complete-withdrawal/articleshow/135936757.cms",
       "source": "The Times of India",
       "date": "2026-11-17",
-      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-132836597/132836597.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "BJP defends naming of bridge as Nitish Setu",
-      "description": "BJP defends naming Kachchi Dargah-Bidupur Ganga bridge as Nitish Setu, rejects RJD criticism; says Centre-state effort with ADB aid boosts connectivity.",
-      "url": "https://timesofindia.indiatimes.com/city/patna/bjp-defends-naming-of-bridge-as-nitish-setu/articleshow/135931262.cms",
-      "source": "The Times of India",
-      "date": "2026-11-17",
-      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-135931261/135931261.jpg",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-47529300/47529300.jpg",
       "category": "market"
     },
     {
-      "title": "Rs 177 crore Torres jewellery scam: CBI brings Ukrainian accused Alex to Mumbai after arrest in Romania",
-      "description": "Ukrainian citizen Oleksandr Zapichenko was extradited from Romania for his role in the Torres Jewellery fraud case. The Enforcement Directorate and Mumbai police investigated him due to the fraudulent activities related to moissanite gemstones. Torres alleged\u2026",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/rs-177-crore-torres-jewellery-scam-cbi-brings-ukrainian-accused-alex-to-mumbai-after-arrest-in-romania/articleshow/135931056.cms",
+      "title": "Coinbase expands onchain crypto loans to New York residents",
+      "description": "Coinbase's expansion into New York could boost decentralized finance adoption, highlighting regulatory shifts and potential market growth.\nThe post Coinbase expands onchain crypto loans to New York residents appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/coinbase-onchain-crypto-loans-new-york/",
+      "source": "Crypto Briefing",
+      "date": "2026-11-17",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/17130555/cb-image-YxDGNClp-800x420.webp",
+      "category": "market"
+    },
+    {
+      "title": "Gulf Trade With Central Asia Surges as Energy Ties Deepen",
+      "description": "Trade between Central Asia and Gulf states has almost quadrupled between 2020 and 2025 but still accounts for just a tiny percentage of the region\u2019s overall trade turnover. Over a similar timeframe, Gulf investment in Central Asia has grown three-fold, accord\u2026",
+      "url": "https://oilprice.com/Energy/Energy-General/Gulf-Trade-With-Central-Asia-Surges-as-Energy-Ties-Deepen.html",
+      "source": "OilPrice.com",
+      "date": "2026-11-17",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x900/2026-11-16_pdg6bmqdlh.jpg",
+      "category": "market"
+    },
+    {
+      "title": "MP cabinet may discuss green power plan for data centres, chipmakers",
+      "description": "MP cabinet to discuss green power for data centres and chip plants, plus Gwalior telecom zone expansion, Omkareshwar floating solar phase II, and new industrial parks.",
+      "url": "https://timesofindia.indiatimes.com/city/bhopal/mp-cabinet-may-discuss-green-power-plan-for-data-centres-chipmakers/articleshow/135935947.cms",
       "source": "The Times of India",
       "date": "2026-11-17",
-      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-135931098/135931098.jpg",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-135935944/135935944.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Ecuador\u2019s Fraught Mining Boom",
+      "description": "President Daniel Noboa\u2019s economic agenda puts him at odds with the constitution.",
+      "url": "https://foreignpolicy.com/2026/11/17/ecuador-mining-boom-noboa-agenda-economics-environment-democracy/",
+      "source": "Foreign Policy",
+      "date": "2026-11-17",
+      "image": "https://foreignpolicy.com/wp-content/uploads/2026/11/Ecuador-mining-protest-GettyImages-2295072199.jpg?resize=1200,1200",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Andhra Pradesh Launches AVGC-XR Policy, Plans 200-Acre Park in Amaravati",
+      "description": "Andhra Pradesh launches AVGC-XR Policy 2026-31, planning a 200+ acre Amaravati park, targeting \u20b95,000 crore investment and 1 lakh jobs by 2031.",
+      "url": "https://timesofindia.indiatimes.com/city/vijayawada/andhra-pradesh-launches-avgc-xr-policy-plans-200-acre-park-in-amaravati/articleshow/135935282.cms",
+      "source": "The Times of India",
+      "date": "2026-11-17",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-135935280/135935280.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Naidu seeks Centre\u2019s aid for \u20b97,000 crore cyclone losses",
+      "description": "Naidu meets Nirmala Sitharaman seeking immediate Centre aid for Andhra Pradesh\u2019s \u20b97,000 crore cyclone losses; backs Rayalaseema Horticulture Hub, Visakhapatnam Economic Region.",
+      "url": "https://timesofindia.indiatimes.com/city/vijayawada/naidu-seeks-centres-aid-for-7000-crore-cyclone-losses/articleshow/135935083.cms",
+      "source": "The Times of India",
+      "date": "2026-11-17",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-135935081/135935081.jpg",
+      "category": "market"
+    },
+    {
+      "title": "HDK accuses state govt of delaying Mandya ARAI project",
+      "description": "HD Kumaraswamy accuses Karnataka govt of delaying Mandya ARAI unit by not transferring land to KIADB, saying lack of allotment blocks the project.",
+      "url": "https://timesofindia.indiatimes.com/city/mysuru/hdk-accuses-state-govt-of-delaying-mandya-arai-project/articleshow/135935028.cms",
+      "source": "The Times of India",
+      "date": "2026-11-17",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-47529300/47529300.jpg",
+      "category": "market"
+    },
+    {
+      "title": "The Analog Trade Begins",
+      "description": "Get some wealth you can hold in your hands\u2026",
+      "url": "https://dailyreckoning.com/post/the-analog-trade-begins",
+      "source": "Dailyreckoning.com",
+      "date": "2026-11-17",
+      "image": "https://images.ctfassets.net/vha3zb1lo47k/7eQ5fLCugVAr8dqwv3s0il/2d1ff1584f324911c16a17a55c6e79bf/dr-hero-img-11-17-26.jpg",
       "category": "market"
     },
     {
@@ -189,15 +225,6 @@
       "category": "metals"
     },
     {
-      "title": "Bangladesh seeks WB support to ease business, diversify exports",
-      "description": "Bangladesh has sought World Bank support to improve the business Details \nThe post Bangladesh seeks WB support to ease business, diversify exports appeared first on SYLHETMIRROR.COM.",
-      "url": "https://sylhetmirror.com/2026/11/17/bangladesh-seeks-wb-support-to-ease-business-diversify-exports/",
-      "source": "Sylhetmirror.com",
-      "date": "2026-11-17",
-      "image": "http://sylhetmirror.com/files/uploads/2026/11/r4tr54t.jpg",
-      "category": "supply_demand"
-    },
-    {
       "title": "Why you should invest in gold for 2027",
       "description": "A gold investment heading into the new year makes a lot of sense. Here's what investors should consider now.",
       "url": "https://www.cbsnews.com/news/why-invest-in-gold-2027/",
@@ -205,15 +232,6 @@
       "date": "2026-11-17",
       "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/13/be914a6a-1bdd-4a35-90a0-bdc686c2845a/thumbnail/1200x630/ed97887ce9a3651378cb5f56b95e38d3/gettyimages-2288036160.jpg",
       "category": "metals"
-    },
-    {
-      "title": "Teachers to get training in financial literacy",
-      "description": "CBSE to train Class 9-10 vocational teachers in financial literacy and markets for 2026-27 syllabus; free online registration open till Nov 20.",
-      "url": "https://timesofindia.indiatimes.com/city/delhi/teachers-to-get-training-in-financial-literacy/articleshow/135929172.cms",
-      "source": "The Times of India",
-      "date": "2026-11-17",
-      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-47529300/47529300.jpg",
-      "category": "market"
     },
     {
       "title": "What's taking the shine off gold and silver?",
@@ -252,157 +270,139 @@
       "category": "metals"
     },
     {
-      "title": "Gold to fall more? Check gold price outlook for November 17, 2026",
-      "description": "Gold price prediction today: Although gold is quite oversold, it is likely to fall further in the short term on expectations of aggressive rate hikes, a firmer US dollar and rising yields.The metal may draw some support from weakness in tech equities, though,\u2026",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-where-are-gold-rates-headed-on-november-17-2026-and-in-the-near-term-mcx-gold-silver-prices/articleshow/135913028.cms",
-      "source": "The Times of India",
+      "title": "Continuous improvement comes to Microsoft Foundry",
+      "description": "Discover how continuous improvement in Microsoft Foundry helps organizations evaluate, optimize, and improve agents over time while keeping teams in control.\nThe post Continuous improvement comes to Microsoft Foundry appeared first on Microsoft Azure Blog.",
+      "url": "https://azure.microsoft.com/en-us/blog/continuous-improvement-comes-to-microsoft-foundry/",
+      "source": "Microsoft.com",
       "date": "2026-11-17",
-      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135913092/135913092.jpg",
-      "category": "central_bank"
+      "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/11/Continuous-improvement-Azure-blog-hero-no-text-1920x1080-option-B-quieter-ribbon-RECOMMENDED-1.png",
+      "category": "market"
     },
     {
-      "title": "Gold price today Delhi: 22 carat 10 gram in rupees; check 24K, 20K, 18K rates in national capital on 17 Nov, Tuesday",
-      "description": "With Diwali festivities over, gold buyers in Delhi are gearing up for the upcoming wedding season, which gains momentum after Dev Uthani Ekadashi. Here's a look at the latest 22K, 24K, 20K, and 18K gold prices in the national capital on 17 November and how ra\u2026",
-      "url": "https://www.livemint.com/money/personal-finance/gold-price-today-delhi-22-carat-10-gram-in-rupees-check-24k-20k-18k-rates-in-national-capital-on-17-nov-tuesday-11794889807905.html",
-      "source": "Livemint",
+      "title": "Meta reportedly brings its Muse AI agent to Australia on mobile, web and Mac",
+      "description": "Meta's Muse AI expansion highlights the growing global demand for advanced AI agents, potentially reshaping digital consumer interactions.\nThe post Meta reportedly brings its Muse AI agent to Australia on mobile, web and Mac appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/meta-muse-ai-agent-launches-australia/",
+      "source": "Crypto Briefing",
       "date": "2026-11-17",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/17/1600x900/logo/gold_dee_1794891126493_ondd_1794891132604_unBp_9b76c7d4-fb7f-42a3-827d-48d0e1002d42_Hp3j.png",
-      "category": "currency"
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/17131348/cb-image-X7JQ1nqe-800x420.webp",
+      "category": "supply_demand"
     },
     {
-      "title": "How Agentic AI is Driving ROI for Textile\u00a0Recyclers",
-      "description": "Applied Industrials CEO Oliver Ardery explains why automating front- and back-office paperwork\u2014not buying expensive robotics\u2014is the fastest way for operators to navigate compliance and protect margins.",
-      "url": "https://wwd.com/sourcing-journal/sustainability/agentic-ai-roi-textile-recycling-firms-applied-industrials-1239420223/",
+      "title": "Bangladesh on Edge: Defusing the\u00a0Tinderbox",
+      "description": "When Monday\u2019s wage board meeting in Dhaka was postponed at the last minute, many in the industry viewed the delay as a relief in what had become a tinderbox that threatens to ignite.",
+      "url": "https://wwd.com/sourcing-journal/industry-news/bangladesh-wage-board-meeting-apparel-workers-labor-wages-1239421202/",
       "source": "WWD",
       "date": "2026-11-17",
-      "image": "https://wwd.com/wp-content/uploads/2026/10/AI_finalWWD.jpg",
+      "image": "https://wwd.com/wp-content/uploads/2026/11/bangladeshwage.jpg",
       "category": "market"
     },
     {
-      "title": "Nigeria can\u2019t afford to ignore technology in education \u2014 Minister",
-      "description": "The Minister of Education, Dr Tunji Alausa, has said Nigeria cannot afford to ignore the opportunities offered by technology in addressing challenges in the education sector and improving learning outcomes.\n\nRead More: https://punchng.com/nigeria-cant-afford-\u2026",
-      "url": "https://punchng.com/nigeria-cant-afford-to-ignore-technology-in-education-minister/",
-      "source": "The Punch",
+      "title": "How to watch Charlotte Hornets vs LA Lakers: TV/live stream info for tonight's game",
+      "description": "Live coverage begins at 11 PM ET on NBC and Peacock.",
+      "url": "https://www.nbcsports.com/nba/news/how-to-watch-charlotte-hornets-vs-la-lakers-tv-live-stream-info-for-tonights-game",
+      "source": "NBCSports.com",
       "date": "2026-11-17",
-      "image": "https://punchng.com/wp-content/uploads/2026/06/The-Minister-of-Education-Dr-Maruf-Tunji-Alausa._1782728314-1200x630.webp",
+      "image": "https://s.yimg.com/lo/mysterio/api/491a30d2f4740b70e7d8323c5c3c621d8ff5660e77b40a05c41f7a4d361858f2/lightyear_networkapi/resizefill_w500_h281%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnbcsports.com%2Fa1bc3a79c15f62b8bce44674700b5cfd.jpg",
       "category": "market"
     },
     {
-      "title": "Should we let \u2018market forces\u2019 decide the fate of Canada\u2019s auto industry? Not so fast",
-      "description": "Some of the most powerful forces weighing on the industry are functions of American protectionism and Chinese industrial policy",
-      "url": "https://www.theglobeandmail.com/business/commentary/article-canada-auto-industry-market-forces-carney-china/",
-      "source": "The Globe And Mail",
+      "title": "Xiaomi 18 Pro and 18 Pro Max Go Global With Two 200MP Cameras and Big Batteries",
+      "description": "Xiaomi 18 Pro and 18 Pro Max go global with 200MP main and telephoto cameras, new 2nm Snapdragon chips, and up to 7,050mAh.",
+      "url": "https://www.ubergizmo.com/2026/11/xiaomi-18-pro-and-18-pro-max-go-global-with-two-200mp-cameras-and-big-batteries/",
+      "source": "Ubergizmo",
       "date": "2026-11-17",
-      "image": "https://author-service-images-prod-us-east-1.publishing.aws.arc.pub/tgam/e79e336f-4826-40aa-b0c8-627188c5074a.png",
+      "image": "https://i0.wp.com/cdnbunny.ubergizmo.com/wp-content/uploads/2026/11/xiaomi-18-pro-camera-module-velvet-red.jpg",
       "category": "market"
     },
     {
-      "title": "AI Advances Coincide With Sharp Rise in Cyber Incidents, Marsh Data Shows",
-      "description": "Artificial intelligence is accelerating the pace and scale of cyberattacks, leading to more incidents reported by businesses and creating new challenges for companies and their insurers, data from insurance broker Marsh showed. \u201cThe signs that the attackers a\u2026",
-      "url": "https://www.insurancejournal.com/news/national/2026/11/17/892881.htm",
-      "source": "Insurance Journal",
+      "title": "5 Million Scam Accounts Purged, Nearly $17 Billion Seized In FBI's Operation Blackout",
+      "description": "5 Million Scam Accounts Purged, Nearly $17 Billion Seized In FBI's Operation Blackout\n \nAuthored by Naveen Athrappully via The Epoch Times,\nMore than 5 million illicit social media accounts have been removed as part of Operation Blackout, the FBI's global sca\u2026",
+      "url": "https://biztoc.com/x/51726f9274330d60",
+      "source": "Biztoc.com",
       "date": "2026-11-17",
-      "image": "https://www.insurancejournal.com/app/uploads/2026/08/cost-of-data-breach-scaled.jpg",
+      "image": "https://cdn.biztoc.com/51726f9274330d60_s.webp",
       "category": "market"
     },
     {
-      "title": "Top Business & Market Headlines Today \u2014 BL Morning Report, November 18, 2026",
-      "description": "BL Morning Report November 18: Get today\u2019s top business news, market headlines about the Stock Market, Sensex & Nifty trends, key market insights, economic highlights, and the latest updates from India and global markets.",
-      "url": "https://www.thehindubusinessline.com/multimedia/audio/bl-morning-report-november-18-2026/article71712365.ece",
-      "source": "BusinessLine",
-      "date": "2026-11-17",
-      "image": "https://bl-i.thgim.com/public/incoming/70doar/article71161292.ece/alternates/LANDSCAPE_1200/Shakthi%201.png",
-      "category": "market"
-    },
-    {
-      "title": "COP31: Nigeria calls for $1.3 trillion annual climate finance",
-      "description": "The minister argued that climate action must catalyse sustainable development and align with national priorities.",
-      "url": "https://www.premiumtimesng.com/business/business-news/925918-cop31-nigeria-calls-for-1-3-trillion-annual-climate-finance.html",
-      "source": "Premium Times",
-      "date": "2026-11-17",
-      "image": "https://media.premiumtimesng.com/wp-content/files/2026/11/cop31-venue-unfccc_1200x675.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Maya Jama poses in underwear to showcase the results of lymphatic massage as Bond girl speculation heats up",
-      "description": "Maya Jama enjoyed a pamper session on Tuesday, as she remains at the heart of speculation surrounding the identity of the next Bond girl.",
-      "url": "https://www.dailymail.com/tvshowbiz/article-16299889/Maya-Jama-poses-underwear-showcase-results-lymphatic-massage-Bond-girl-speculation-heats-up.html",
-      "source": "Dailymail.com",
-      "date": "2026-11-17",
-      "image": "https://i.dailymail.com/1s/2026/11/17/15/112562481-0-image-m-21_1794930061421.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Bond has always reflected the masculinity of his time \u2013 Robert Pattinson\u2019s 007 will need to embody a new era",
-      "description": "Pattinson could be seen as the safe choice but his back catalogue belongs to an actor who is capable of surprise.",
-      "url": "https://theconversation.com/bond-has-always-reflected-the-masculinity-of-his-time-robert-pattinsons-007-will-need-to-embody-a-new-era-296807",
-      "source": "The Conversation Africa",
-      "date": "2026-11-17",
-      "image": "https://images.theconversation.com/files/772433/original/file-20261117-78-lpzhe4.png?ixlib=rb-4.1.1&rect=0%2C169%2C2000%2C1000&q=45&auto=format&w=1356&h=668&fit=crop",
-      "category": "market"
-    },
-    {
-      "title": "Wall Street\u2019s \u2018Dr. Doom\u2019 sees AI sparking 80% unemployment and universal basic income in coming decades",
-      "description": "Nouriel Roubini flagged the risk of \"massive\" inequality amid the AI productivity boom, lifting the unemployment rate to 80% in coming decades.",
-      "url": "https://www.businessinsider.com/dr-doom-nouriel-roubini-ai-unemployment-forecast-universal-basic-income-2026-11",
-      "source": "Business Insider",
-      "date": "2026-11-17",
-      "image": "https://i.insider.com/6afc51d20b1a00fc0bd50da1?width=1200&format=jpeg",
-      "category": "market"
-    },
-    {
-      "title": "Karoline Leavitt\u2019s Words Come Back to Bite Trump in Legal Fight",
-      "description": "A federal judge cited former White House press secretary Karoline Leavitt\u2019s lies while demanding materials on President Donald Trump\u2019s efforts to extort big law firms. U.S. District Judge Amir Ali ordered the executive office of the president Monday to turn o\u2026",
-      "url": "https://newrepublic.com/post/218078/karoline-leavitt-words-come-back-bite-trump-legal-fight",
-      "source": "The New Republic",
-      "date": "2026-11-17",
-      "image": "https://images.newrepublic.com/c1523358a48cc5356fbe0c58e33d5f9a4c36a8b2.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "The 10-Year Treasury Yield Is Back at 5.12%. Bitcoin Hit $85K the Last Time It Peaked",
-      "description": "The 10-year Treasury yield climbed back to 5.12% as the 2-year jumped 42 basis points in six sessions. When yields hit a 24-year high in October, Bitcoin was at $85,749.",
-      "url": "https://www.dcforecasts.com/bitcoin-news/10-year-treasury-yield-back-above-5-percent-bitcoin/",
-      "source": "Dcforecasts.com",
-      "date": "2026-11-17",
-      "image": "https://www.dcforecasts.com/wp-content/uploads/2026/11/10-year-treasury-yield-back-above-5-percent-bitcoin.webp",
-      "category": "market"
-    },
-    {
-      "title": "At Least 10 States Require In-Person Businesses to Accept Cash",
-      "description": "At least 10 states and 10 municipalities require in-person businesses to accept cash, with some exceptions.",
-      "url": "https://www.pewresearch.org/short-reads/2026/11/17/at-least-10-states-require-in-person-businesses-to-accept-cash/",
-      "source": "Pew Research Center",
-      "date": "2026-11-17",
-      "image": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/11/SR_26.11.17_require-cash_featured.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Trump Treasury aims to slam shut banking loopholes that could enable fraud tied to illegal immigration",
-      "description": "Treasury Secretary Scott Bessent says the FinCEN proposal gives banks more flexibility to combat money laundering and terrorist financing risks.",
-      "url": "https://www.foxnews.com/politics/trump-proposal-gives-banks-more-leeway-probe-business-ownership-amid-illegal-immigration-concerns",
+      "title": "Ex-hostage recounts captivity in Iran-backed militia stronghold now targeted by Iraqi prime minister",
+      "description": "Israeli-Russian researcher Elizabeth Tsurkov describes where Iran-backed Iraqi terrorists held her captive for months as Iraq's Trump-backed prime minister orders a crackdown on the militia.",
+      "url": "https://www.foxnews.com/world/ex-hostage-recounts-captivity-iran-backed-militia-stronghold-now-targeted-iraqi-prime-minister",
       "source": "Fox News",
       "date": "2026-11-17",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/scott-bessent-shield-americas-unga.jpg",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/kataib-hezbollah-iraq.jpg",
       "category": "market"
     },
     {
-      "title": "Strong economy vital to Nigeria\u2019s foreign policy \u2013 FG",
-      "description": "The Federal Government has said Nigeria\u2019s foreign policy can only achieve meaningful results when anchored on a strong domestic foundation, stating the need to align the country\u2019s diplomatic\u2026\n\nRead More: https://punchng.com/strong-economy-vital-to-nigerias-fo\u2026",
-      "url": "https://punchng.com/strong-economy-vital-to-nigerias-foreign-policy-fg/",
-      "source": "The Punch",
+      "title": "Nvidia Stock Is Sinking Like a Stone",
+      "description": "Without founder Jensen Huang at the helm, Nvidia's shares continue to sink like a stone, plunging over ten percent over the last five days.",
+      "url": "https://futurism.com/artificial-intelligence/nvidia-stock-sinking-stone",
+      "source": "Futurism",
       "date": "2026-11-17",
-      "image": "https://punchng.com/wp-content/uploads/2026/06/Enikanolaye-Sola-3-627x400-1_1782403457-1200x630.webp",
+      "image": "https://futurism.com/wp-content/uploads/2026/11/nvidia-stock-sinking-stone.jpg?w=1200",
+      "category": "market"
+    },
+    {
+      "title": "Bitwise CIO says crypto selloff was driven by biggest rate shock since 2022",
+      "description": "The crypto market's vulnerability to interest rate shocks highlights the need for robust risk management and diversification strategies.\nThe post Bitwise CIO says crypto selloff was driven by biggest rate shock since 2022 appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/crypto-market-rate-shock-impact/",
+      "source": "Crypto Briefing",
+      "date": "2026-11-17",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/17131008/bitwise-1-800x420.jpg",
       "category": "central_bank"
     },
     {
-      "title": "Reps demand FG intervention as Gabon demolitions displace Nigerians",
-      "description": "The House of Representatives has called on the Federal Government to urgently intervene in the demolition of homes and business premises belonging to thousands of Nigerians, particularly Ilaje fishermen, by the Gabonese authorities.\n\nRead More: https://punchn\u2026",
-      "url": "https://punchng.com/reps-demand-fg-intervention-as-gabon-demolitions-displace-nigerians/",
-      "source": "The Punch",
+      "title": "California sheriff\u2019s deputy and special officer stripped of duty after five-second chat with ICE",
+      "description": "Two Orange County Sheriff\u2019s Department employees have been placed on leave as officials investigate a five-second exchange they had with ICE agents.",
+      "url": "https://nypost.com/2026/11/17/us-news/california-sheriffs-deputy-officer-placed-on-leave-after-ice-exchange/",
+      "source": "New York Post",
       "date": "2026-11-17",
-      "image": "https://punchng.com/wp-content/uploads/2026/07/House-of-Reps-Green-Chamber_1784558768.webp",
-      "category": "central_bank"
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/149105059.jpg?quality=75&strip=all&w=1200",
+      "category": "market"
+    },
+    {
+      "title": "Congratulations, Bobby! You did it!",
+      "description": "Due to an increase in infections in recent years, the US has lost its measles elimination status, something that RFK Jr has contributed to. The US lost its measles elimination status, global health authorities announced, an official recognition that the infec\u2026",
+      "url": "https://freethoughtblogs.com/singham/2026/11/17/congratulations-bobby-you-did-it/",
+      "source": "Freethoughtblogs.com",
+      "date": "2026-11-17",
+      "image": "https://freethoughtblogs.com/singham/wp-content/themes/ftb2-theme/images/logo.gif",
+      "category": "market"
+    },
+    {
+      "title": "The FAA Ground Stop Shows Why Network Transformation Must Be Engineered For Failure",
+      "description": "A change at two locations reportedly destabilized communications across 17 of the US Federal Aviation Administration\u2019s (FAA) 22 en-route control centers. This is more than an outage story. It\u2019s a warning about what can happen when network modernization expand\u2026",
+      "url": "https://www.forrester.com/blogs/the-faa-ground-stop-shows-why-network-transformation-must-be-engineered-for-failure/",
+      "source": "Forrester.com",
+      "date": "2026-11-17",
+      "image": "https://go.forrester.com/wp-content/uploads/2026/11/Blog-FAA-AK.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Ford worker fired over $1.95 cookie sues automaker, Aramark \u2014 claiming AI falsely flagged him as thief",
+      "description": "The lawsuit, which seeks more than $75,000 in compensatory damages, alleges Aramark's AI-powered surveillance system mistakenly flagged the cookie purchase as theft.",
+      "url": "https://nypost.com/2026/11/17/business/ford-worker-fired-over-cookie-sues-and-claims-ai-falsely-flagged-him-as-thief/",
+      "source": "New York Post",
+      "date": "2026-11-17",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/149107769.jpg?quality=75&strip=all&w=1200",
+      "category": "market"
+    },
+    {
+      "title": "Trump On All Those Outages: \u201cIt\u2019s Fine\u201d",
+      "description": "Early Tuesday morning, an official Trump administration account posted the President\u2019s response to the slew of online infrastructure outages the nation has experienced over the past several days. \u201cIt\u2019s life,\u201d Trump said. \u201cWhen you\u2019re big and powerful and have\u2026",
+      "url": "https://www.motherjones.com/politics/2026/11/trump-on-all-those-outages-its-fine/",
+      "source": "Mother Jones",
+      "date": "2026-11-17",
+      "image": "https://www.motherjones.com/wp-content/uploads/2026/11/airport-delay.jpg?w=1200&h=630&crop=1",
+      "category": "market"
+    },
+    {
+      "title": "Gold (XAUUSD), Silver, Platinum Forecasts \u2013 Gold Tests $3850 Amid Sell-Off In Precious Metals Markets - FXEmpire",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOX1N3UzRsOGpOUkZDOHB3U2pYZ3F2emNKSHVHd0x5aFoyVmc2TS1VVGxLOGRJLUVOZUV0SVVKVnVEaXZLMTEzdldOV3o4d0ZuMEpRYmJURUZpUFNFNUZKWDJydktBNlVueDRwUzJYbzR0Z041UlBWNmNHVkF6T0UzUUFuSHRLcDk0SldtcnBtNlI1cUxzaUF6WUhEY3dYYWVsRHk4TzZtdUhCZVZyZHFzZFN4MjBFaUtjR3",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOX1N3UzRsOGpOUkZDOHB3U2pYZ3F2emNKSHVHd0x5aFoyVmc2TS1VVGxLOGRJLUVOZUV0SVVKVnVEaXZLMTEzdldOV3o4d0ZuMEpRYmJURUZpUFNFNUZKWDJydktBNlVueDRwUzJYbzR0Z041UlBWNmNHVkF6T0UzUUFuSHRLcDk0SldtcnBtNlI1cUxzaUF6WUhEY3dYYWVsRHk4TzZtdUhCZVZyZHFzZFN4MjBFaUtjR3hEMW9Jc1loN015MWhmUEtpakVVeG9LMXFIZmdwVGZlOHFxaUE?oc=5",
+      "source": "Google News - Precious Metals",
+      "date": "2026-11-17",
+      "image": "",
+      "category": "currency"
     }
   ],
   "history": [
@@ -547,7 +547,7 @@
       "platinum_usd_oz": 1551.08
     }
   ],
-  "timestamp": "2026-11-18T21:22:55.432901+05:30",
+  "timestamp": "2026-11-18T23:46:54.997459+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
