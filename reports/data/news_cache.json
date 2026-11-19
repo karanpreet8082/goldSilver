@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "title": "AMD shares slide 8% as report says China links could invite US scrutiny",
+      "description": "Shares of AMD plunged by 8% after a report surfaced linking the company to certain Chinese firms, including those on the US government's blacklist. The report indicates that AMD's firmware is being used by a Chinese server manufacturer, which poses potential regulatory issues. Furthermore, the prese",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/amd-shares-slide-8-as-report-says-china-links-could-invite-us-scrutiny/articleshow/136002141.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-11-19",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
       "title": "Amundi CIO says not bearish on France bonds, AI at the start of repricing",
       "description": "Amundi has chosen a reserved approach towards French government bonds, amidst climbing yields and worries regarding fiscal management. Chief Investment Officer Vincent Mortier expressed a preference for bonds from nations with lower debt-to-GDP ratios and shorter maturities. He also highlighted a po",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/amundi-cio-says-not-bearish-on-france-bonds-ai-at-the-start-of-repricing/articleshow/135998168.cms",
@@ -19,58 +28,85 @@
       "category": "inflation"
     },
     {
-      "title": "Nasdaq rallies as record Anthropic IPO revives AI stocks",
-      "description": "The Nasdaq surged following Anthropic's IPO, which sparked a revival in artificial intelligence investments. Pricing higher than expected, the IPO raked in impressive funds and valuations, positively impacting tech peers like Amazon and Alphabet. Despite some investor caution, notable gains were see",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-nasdaq-rises-over-1-at-open-as-anthropic-ipo-pricing-bolsters-ai-trade/articleshow/135996273.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-11-19",
-      "image": "",
+      "title": "\u20b9221cr industrial cluster cleared in Barabanki",
+      "description": "UP govt clears \u20b9221 crore integrated manufacturing and logistics cluster on Purvanchal Expressway in Barabanki to boost industry, jobs and investment.",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/221cr-industrial-cluster-cleared-in-barabanki/articleshow/135971306.cms",
+      "source": "The Times of India",
+      "date": "2026-11-18",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-47529300/47529300.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Land subsidy norms eased to woo foreign biz",
+      "description": "UP cabinet amends 2023 FDI/FCI policy: upfront land subsidy on identified land, bank guarantee option, and custom incentives for Rs 3,000 cr+ projects.",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/land-subsidy-norms-eased-to-woo-foreign-biz/articleshow/135971134.cms",
+      "source": "The Times of India",
+      "date": "2026-11-18",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-135971133/135971133.jpg",
+      "category": "market"
+    },
+    {
+      "title": "CM Mann seeks Centre\u2019s nod to visit Kartarpur Sahib in Pakistan",
+      "description": "Punjab CM Bhagwant Mann seeks MEA clearance to visit Kartarpur Sahib on Nov 24 for Guru Nanak Jayanti, via corridor or Attari-Wagah border.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/cm-mann-seeks-centres-nod-to-visit-kartarpur-sahib-in-pakistan/articleshow/135970831.cms",
+      "source": "The Times of India",
+      "date": "2026-11-18",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-135937821/135937821.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Investors hail UP\u2019s fast approvals, pro-business policies",
+      "description": "Investors praise Uttar Pradesh for fast approvals, incentives and infrastructure at a CII roadshow, highlighting Invest UP support and new food processing opportunities.",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/investors-hail-ups-fast-approvals-pro-business-policies/articleshow/135970764.cms",
+      "source": "The Times of India",
+      "date": "2026-11-18",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-135970763/135970763.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Austrian firms explore semiconductor JV, manufacturing opportunities in UP",
+      "description": "Austrian firms explore semiconductor joint ventures and defence, renewable, water and infra projects in Uttar Pradesh at an Invest UP investment roundtable in Delhi.",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/austrian-firms-explore-semiconductor-jv-manufacturing-opportunities-in-up/articleshow/135970756.cms",
+      "source": "The Times of India",
+      "date": "2026-11-18",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-135970755/135970755.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Gold loan firms seek RBI clarity on selling stressed loans to ARCs to help borrowers reclaim pledged jewellery",
+      "description": "Gold loan companies are urging the Reserve Bank of India (RBI) to clarify rules allowing lenders to sell stressed gold loans to asset reconstruction companies (ARCs). They say the mechanism could give borrowers facing temporary repayment difficulties more tim\u2026",
+      "url": "https://m.economictimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/gold-loan-firms-seek-rbi-clarity-on-selling-stressed-loans-to-arcs-to-help-borrowers-reclaim-pledged-jewellery/articleshow/135970450.cms",
+      "source": "Economictimes.com",
+      "date": "2026-11-18",
+      "image": "https://img.etimg.com/thumb/msid-135970492,resizemode-4,width-1200,height-900,imgsize-257250,overlay-etmarkets/articleshow.jpg",
       "category": "central_bank"
     },
     {
-      "title": "Haryana sets up Rs 100cr fund for climate resilience, green growth",
-      "description": "Haryana launches Rs 100-crore Green Climate Resilience Fund to support clean energy, EV charging, circular economy and nature-based projects, aligning with net-zero 2070.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/haryana-sets-up-rs-100cr-fund-for-climate-resilience-green-growth/articleshow/135969691.cms",
+      "title": "Chennai stares at another summer of power woes as grid projects drag on",
+      "description": "Chennai may face summer power cuts as key grid upgrades, including Guindy 400kV substation and 28 delayed projects, stall; new substations, tenders pending.",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/chennai-stares-at-another-summer-of-power-woes-as-grid-projects-drag-on/articleshow/135970132.cms",
       "source": "The Times of India",
       "date": "2026-11-18",
-      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-135034362/135034362.jpg",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-135970131/135970131.jpg",
       "category": "market"
     },
     {
-      "title": "Haryana notifies 4 schemes to drive \u20b95,000cr agri-business investment",
-      "description": "Haryana notifies 4 schemes under Agri-Business & Food Processing Policy 2026, offering 25\u201345% subsidies to attract \u20b95,000cr investment and 30,000 jobs.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/haryana-notifies-4-schemes-to-drive-5000cr-agri-business-investment/articleshow/135969623.cms",
+      "title": "Banker, family promised 2.5% monthly returns, loses \u20b996.5L",
+      "description": "Ahmedabad banker\u2019s family alleges \u20b996.5 lakh fraud in 2.5% monthly return FII scheme; Vastrapur police file cheating, breach of trust case against Mumbai man.",
+      "url": "https://timesofindia.indiatimes.com/city/ahmedabad/banker-family-promised-2-5-monthly-returns-loses-96-5l/articleshow/135970028.cms",
       "source": "The Times of India",
       "date": "2026-11-18",
-      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-135969620/135969620.jpg",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-135970026/135970026.jpg",
       "category": "market"
     },
     {
-      "title": "Bihar cabinet nod to prepare DPR for Buxar-Bhagalpur expressway linking 13 districts",
-      "description": "Bihar cabinet approves Rs 66.58 crore DPR for 336-km six-lane Buxar-Bhagalpur expressway via 13 districts, to boost connectivity, tourism, trade.",
-      "url": "https://timesofindia.indiatimes.com/city/patna/bihar-cabinet-nod-to-prepare-dpr-for-buxar-bhagalpur-expressway-linking-13-districts/articleshow/135962968.cms",
-      "source": "The Times of India",
+      "title": "Gold, Silver, Platinum Pounded To One-Year-Plus Lows After This Shock",
+      "description": "A dramatic sell-off for precious and industrial metals ripped through the equity markets. Newmont and other gold stocks sank.\nThe post Gold, Silver, Platinum Pounded To One-Year-Plus Lows After This Shock appeared first on Investor's Business Daily.",
+      "url": "https://biztoc.com/x/ef21209a6be8a4d1",
+      "source": "Biztoc.com",
       "date": "2026-11-18",
-      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-135962966/135962966.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Copper Heads for Longest Weekly Losing Streak in Two Years",
-      "description": "Nvidia (Nasdaq: NVDA) beat Wall Street\u2019s revenue forecast by about $6.7 billion on Tuesday night, and copper fell for a fifth straight session on Wednesday. Three-month copper on the London Metal Exchange was down 3.6% at $12,763 a metric ton in early London \u2026",
-      "url": "https://oilprice.com/Metals/Commodities/Copper-Heads-for-Longest-Weekly-Losing-Streak-in-Two-Years.html",
-      "source": "OilPrice.com",
-      "date": "2026-11-18",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x900/2026-11-18_umsjoay1gr.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Hard Truths on Iran and Ukraine",
-      "description": "Jim Rickards doesn\u2019t sugarcoat it\u2026",
-      "url": "https://dailyreckoning.com/post/hard-truths-on-iran-and-ukraine",
-      "source": "Dailyreckoning.com",
-      "date": "2026-11-18",
-      "image": "https://images.ctfassets.net/vha3zb1lo47k/6ReSXEnvk7Wm9VSjOLwW3Q/7ce94a26da37463d86359cc1d809d08e/dr-hero-img-11-18-26.jpg",
-      "category": "market"
+      "image": "https://biztoc.com/cdn/996/og.png",
+      "category": "platinum"
     },
     {
       "title": "Gold plunges 3% to one-year low as hawkish Fed lifts dollar, yields",
@@ -80,24 +116,6 @@
       "date": "2026-11-18",
       "image": "https://img.etimg.com/thumb/msid-135969331,resizemode-4,width-1200,height-900,imgsize-173044,overlay-etmarkets/articleshow.jpg",
       "category": "central_bank"
-    },
-    {
-      "title": "Sonbhadra police bust international cyber fraud network; 1 arrested, over Rs 100 crore fraud suspected",
-      "description": "In a significant breakthrough, Sonbhadra police have apprehended a suspect tied to a sprawling international cyber fraud scheme. This illicit operation employed fraudulent job offers to gain access to victims' bank accounts, with investigators estimating that\u2026",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/sonbhadra-police-bust-international-cyber-fraud-network-1-arrested-over-rs-100-crore-fraud-suspected/articleshow/135968784.cms",
-      "source": "The Times of India",
-      "date": "2026-11-18",
-      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-135968844/135968844.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Polymarket US takes rapid-fire crypto trading format to oil, natural gas",
-      "description": "Polymarket US is expanding its rapid-fire prediction markets to oil and natural gas after short-duration crypto contracts topped $1 billion in volume in six weeks.",
-      "url": "https://cointelegraph.com/news/polymarket-us-takes-rapid-fire-crypto-trading-format-oil-natural-gas",
-      "source": "Cointelegraph",
-      "date": "2026-11-18",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7PGAVAC26A920BS70GX2Q7N/polymarket-1280x853.webp",
-      "category": "market"
     },
     {
       "title": "Chainlink bets equities and commodities will pull more users to Polymarket",
@@ -154,32 +172,14 @@
       "category": "market"
     },
     {
-      "title": "Gold, silver imports worth $715 million at Indian Customs, says bullion industry body",
-      "description": "DGFT and CBIC\u2019s icegate not accepting revised tariff rates of the precious metals, while interest is being charged for no fault of importers",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-silver-imports-worth-715-million-at-indian-customs-says-bullion-industry-body/article71716461.ece",
-      "source": "BusinessLine",
+      "title": "Major Institutional Milestone for XRP: XRPL Becomes First Public Blockchain to Pass Global Financial Infrastructure Standards Assessment",
+      "description": "The XRP Ledger (XRPL) has scored a major institutional milestone that could bolster its appeal to traditional financial institutions.",
+      "url": "https://zycrypto.com/major-institutional-milestone-for-xrp-xrpl-becomes-first-public-blockchain-to-pass-global-financial-infrastructure-standards-assessment/",
+      "source": "ZyCrypto",
       "date": "2026-11-18",
-      "image": "https://bl-i.thgim.com/public/incoming/sx6u8t/article71716986.ece/alternates/LANDSCAPE_1200/iStock-506120376.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "S&P Global Ratings downgrades Tether\u2019s USDT peg assessment to weak",
-      "description": "The downgrade raises concerns about Tether's reserve transparency and stability, potentially impacting investor confidence in stablecoins.\nThe post S&P Global Ratings downgrades Tether\u2019s USDT peg assessment to weak appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/sp-global-downgrades-tether-usdt-weak/",
-      "source": "Crypto Briefing",
-      "date": "2026-11-18",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/18132614/library-s-p-global-ratings-downgrades-tether-s-usdt-peg-assessme-800x450.jpg",
-      "category": "currency"
-    },
-    {
-      "title": "Carney Says Less Telecom Choice Could Lead to More Competition",
-      "description": "Carney says fewer telecom players can mean more competition. Canadian wireless evidence shows why the Quebecor\u2013Telus proposal needs closer scrutiny.\nThe post Carney Says Less Telecom Choice Could Lead to More Competition first appeared on iPhone in Canada.",
-      "url": "https://www.iphoneincanada.ca/2026/11/18/carney-fewer-telecom-players-competition/",
-      "source": "iPhone in Canada",
-      "date": "2026-11-18",
-      "image": "https://cdn.iphoneincanada.ca/wp-content/uploads/2026/09/rogers-telus-bell-freedom-2026.jpg",
+      "image": "https://zycrypto.com/wp-content/uploads/2026/10/XRPs-1-Lifeline-Could-Unlock-10-and-20-Targets-as-XRPL-Patches-Decade-Old-Flaw-That-Risked-Billions-in-Fake-XRP.jpg",
       "category": "market"
     }
   ],
-  "timestamp": "2026-11-19T18:27:20.020474"
+  "timestamp": "2026-11-19T20:54:29.522694"
 }
