@@ -54,7 +54,7 @@
         "hold": 25
       },
       "summary": "Gold is showing positive signals. Positive daily movement of 1.0%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-19T11:57:02.993032",
+      "timestamp": "2026-11-19T15:56:45.437045",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 25
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 1.6%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-19T11:57:03.086758",
+      "timestamp": "2026-11-19T15:56:45.575050",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 25
       },
       "summary": "Platinum is showing positive signals. Positive daily movement of 0.8%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-19T11:57:03.185724",
+      "timestamp": "2026-11-19T15:56:45.718350",
       "source": "rule-based"
     }
   },
@@ -135,6 +135,24 @@
   },
   "news": [
     {
+      "title": "Fund managers turn overweight on India, first such classification since Jan",
+      "description": "Fund managers have recently indicated an increased interest in investing in India after several months of cautious sentiment. A significant number of investors are concerned about the absence of artificial intelligence-related investment options available. Increased interest in healthcare and shifts",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fund-managers-turn-overweight-on-india-first-such-classification-since-jan/articleshow/135996610.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-11-19",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "India bonds end choppy session little changed as fresh cues on interest rates eyed",
+      "description": "Indian government bonds exhibited volatility and ended little changed as market participants awaited interest rate cues. The benchmark bond yield dropped from the previous day's closing level, reflecting market uncertainties. Expectations of rate hikes from the Reserve Bank of India and the Federal ",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-end-choppy-session-little-changed-as-fresh-cues-on-interest-rates-eyed/articleshow/135991621.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-11-19",
+      "image": "",
+      "category": "central_bank"
+    },
+    {
       "title": "Stock rally keeps rupee upbeat, traders eye exporters for fresh fuel",
       "description": "The Indian rupee has surged to its highest value in seven months, driven by a notable uptick in equity markets. A 1% rise in the Nifty 50 index has fostered optimism among traders and analysts alike. As the foreign exchange market's corporate activities demonstrate mixed reactions from exporters and",
       "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/india-rupee-stock-rally-keeps-rupee-upbeat-traders-eye-exporters-for-fresh-fuel/articleshow/135986825.cms",
@@ -144,21 +162,129 @@
       "category": "currency"
     },
     {
-      "title": "Goldman Sachs names 22 \u2018high-growth\u2019 stocks; Bharti Airtel, Eternal and HDFC Bank feature in the list",
-      "description": "Goldman Sachs has identified 22 Indian companies exposed to structural growth themes and initiated Buy ratings on 21. Bharti Airtel, Eternal, HDFC Bank and InterGlobe Aviation feature prominently.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-names-22-high-growth-stocks-bharti-airtel-eternal-and-hdfc-bank-feature-in-the-list/slideshow/135981076.cms",
-      "source": "Economic Times Markets",
+      "title": "Lear Capital Earns Top Spot in New York Post's Gold and Silver IRA Guides - StreetInsider",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQT0JKYTJQMFlIcmNlUG1UbldBd1hVNW9EdDIxSjktV3M0NUdZcEpZbjJPUUptTjg1VGtqZGV5SXRwNk1TTjhHbklZMEVpYVFVZ1dLZ2IwcjZ2aEd6bEV5LWFNR2xBOGtnZHR0V0lsTDBQVHBGWnFNM0NhMm85VlJuY21WNWRNMzBTWW5vdEpyckV4ZGp4QXA2dEs1ZUZ4anR5ZHFJZlpZMEt6VFc3LU5OVkNnRFg5MkxsYj",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQT0JKYTJQMFlIcmNlUG1UbldBd1hVNW9EdDIxSjktV3M0NUdZcEpZbjJPUUptTjg1VGtqZGV5SXRwNk1TTjhHbklZMEVpYVFVZ1dLZ2IwcjZ2aEd6bEV5LWFNR2xBOGtnZHR0V0lsTDBQVHBGWnFNM0NhMm85VlJuY21WNWRNMzBTWW5vdEpyckV4ZGp4QXA2dEs1ZUZ4anR5ZHFJZlpZMEt6VFc3LU5OVkNnRFg5MkxsYjlxSW8tN2JzZjQ1NlE?oc=5",
+      "source": "Google News - Precious Metals",
       "date": "2026-11-19",
       "image": "",
       "category": "metals"
     },
     {
-      "title": "Gold Rates Live Updates: Gold prices fall marginally, silver gains on MCX. Check future estimates",
-      "description": "",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/live-updates-gold-rate-today-19th-november-24k-22k-20k-18-carat-mcx-gold-silver-price-in-delhi-hyderabad-chennai-bengaluru-citywise/liveblog/135979606.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-11-19",
-      "image": "",
+      "title": "Today\u2019s News in a Nutshell",
+      "description": "KATHMANDU: Khabarhub brings you a glimpse of major developments of the day in Nepal, including politics, business/economy, sports, entertainment, and more. Two former ministers, four government officials arrested over fraud and organized crime allegations Nep\u2026",
+      "url": "https://english.khabarhub.com/2026/18/576048/",
+      "source": "Khabarhub.com",
+      "date": "2026-11-18",
+      "image": "https://english.khabarhub.com/wp-content/uploads/2024/05/News-Nutshell.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Bihar\u2019s first IT park to come up near Bapu Tower in Patna",
+      "description": "Bihar\u2019s first IT park near Bapu Tower, Patna: Rs 413-crore NBCC project to host 100+ firms, create 5,000 direct and 15,000 indirect jobs.",
+      "url": "https://timesofindia.indiatimes.com/city/patna/bihars-first-it-park-to-come-up-near-bapu-tower-in-patna/articleshow/135966412.cms",
+      "source": "The Times of India",
+      "date": "2026-11-18",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-135966411/135966411.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Gold Price Today Crashes Below $3,800 to Lowest Since September 2025 as Fed Hike Bets Lift Dollar; Silver Sags",
+      "description": "Gold fell more than 2% to its lowest level in over a year as traders priced in a near-certain Federal Reserve rate increase and the US dollar strengthened.",
+      "url": "https://www.ibtimes.com.au/gold-price-falls-fed-rate-hike-bets-dollar-1878875",
+      "source": "Ibtimes.com.au",
+      "date": "2026-11-18",
+      "image": "https://d.ibtimes.com.au/en/full/1890872/gold.jpg?w=1600&h=900&q=88&f=ada5934e62141651c354fb9e826e52bc",
+      "category": "central_bank"
+    },
+    {
+      "title": "MEIL raises $700 million from global investors at Rs 1 lakh crore valuation",
+      "description": "MEIL MD PV Krishna Reddy raises $700 million from global investors to buy out founder P Pitchi Reddy\u2019s 43% stake; deal values MEIL at Rs 1 lakh crore.",
+      "url": "https://timesofindia.indiatimes.com/city/hyderabad/meil-raises-700-million-from-global-investors-at-rs-1-lakh-crore-valuation/articleshow/135965417.cms",
+      "source": "The Times of India",
+      "date": "2026-11-18",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-135965737/135965737.jpg",
+      "category": "market"
+    },
+    {
+      "title": "World Of Hyatt Status Revamps For 2027\u2014Award Stacking And New Benefit Choices, But Cuts Come Also",
+      "description": "Hyatt will finally let members combine a free night certificate with a confirmed suite upgrade starting January 1, 2027. I've wanted that for years. They're also extending milestone free night certificates from 180 days to a year, and adding rewards after jus\u2026",
+      "url": "https://viewfromthewing.com/world-of-hyatt-status-revamps-for-2027-award-stacking-and-new-benefit-choices-but-cuts-come-also/",
+      "source": "Viewfromthewing.com",
+      "date": "2026-11-18",
+      "image": "https://viewfromthewing.com/wp-content/uploads/2023/11/20231115_153405.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Bengal govt working to amend \u2018restrictive\u2019 land reform policies",
+      "description": "West Bengal plans land reform amendments, possibly easing Section 14Y landholding caps for priority sectors; draft under vetting, SOPs from Jan 2027.",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/bengal-govt-working-to-amend-restrictive-land-reform-policies/articleshow/135965152.cms",
+      "source": "The Times of India",
+      "date": "2026-11-18",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-47529300/47529300.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Noida schools asked to resume physical classes as AQI improves",
+      "description": "Noida schools to resume physical classes after AQI improves and GRAP Stage III is revoked across Delhi-NCR, ending hybrid mode for Classes I-V.",
+      "url": "https://timesofindia.indiatimes.com/city/noida/noida-schools-asked-to-resume-physical-classes-as-aqi-improves/articleshow/135965029.cms",
+      "source": "The Times of India",
+      "date": "2026-11-18",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-131775791/131775791.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Prey base, habitat improvement key priorities, says new deputy director of PTR south division",
+      "description": "Ajinkya Bankar takes charge as Palamu Tiger Reserve south division deputy director, prioritising prey base growth, habitat improvement and staff collaboration.",
+      "url": "https://timesofindia.indiatimes.com/city/ranchi/prey-base-habitat-improvement-key-priorities-says-new-deputy-director-of-ptr-south-division/articleshow/135962171.cms",
+      "source": "The Times of India",
+      "date": "2026-11-18",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-135962169/135962169.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Jeweler Solange Azagury-Partridge Gives Her Hotlips Design a Makeover for Beauty\u00a0Inc",
+      "description": "Jeweler Solange Azagury-Partridge has fused her Hotlips and eye designs to create a colorful award for Beauty Inc.",
+      "url": "https://wwd.com/beauty-industry-news/beauty-features/solange-azagury-partridge-hotlips-design-beauty-makeover-1239390928/",
+      "source": "WWD",
+      "date": "2026-11-18",
+      "image": "https://wwd.com/wp-content/uploads/2026/10/HotlipsBeautyInc.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Gold, silver imports worth $715 million at Indian Customs, says bullion industry body",
+      "description": "DGFT and CBIC\u2019s icegate not accepting revised tariff rates of the precious metals, while interest is being charged for no fault of importers",
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-silver-imports-worth-715-million-at-indian-customs-says-bullion-industry-body/article71716461.ece",
+      "source": "BusinessLine",
+      "date": "2026-11-18",
+      "image": "https://bl-i.thgim.com/public/incoming/sx6u8t/article71716986.ece/alternates/LANDSCAPE_1200/iStock-506120376.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "The Lord of the Rings: The Rings of Power Recap: Bad Times at Barad-d\u00fbr",
+      "description": "Celeborn is tormented by Sauron, who monologues about taking over the world and shows off his fancy new computer.",
+      "url": "https://www.vulture.com/article/lord-of-the-rings-the-rings-of-power-recap-season-3-episode-6-prime-video.html",
+      "source": "Vulture",
+      "date": "2026-11-18",
+      "image": "https://pyxis.nymag.com/v1/imgs/96e/0e6/dc45015f5392308092c366c09b114975fb-LOTR-S3-UT-250711-ROTBEN-00281-R2-3000.1x.rsocial.w1200.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Profit-booking trims recent gains as SEBI margin rules rattle D-Street",
+      "description": "The NSE Nifty50 closed at 25,227.95, down 159.45 points or 0.63%, while the BSE Sensex fell 500.38 points or 0.61% to 82,031.81",
+      "url": "https://www.thehindubusinessline.com/markets/profit-booking-trims-recent-gains-as-sebi-margin-rules-rattle-d-street/article71715919.ece",
+      "source": "BusinessLine",
+      "date": "2026-11-18",
+      "image": "https://bl-i.thgim.com/public/todays-paper/tp-opinion/7is9it/article71713495.ece/alternates/LANDSCAPE_1200/bl18-think-dc-nGEDGQFPK9.3.jpg.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Heliostar Posts Record Quarterly Earnings As Cash Balance Reaches $53.6 Million",
+      "description": "Gold and silver exploration business Heliostar Metals (TSX:HSTR), reported its strongest quarterly operating earnings to date, supported by higher gold prices and improving operating costs across its Mexican mines.\nFor the three months ended September 30, 202\u2026",
+      "url": "https://biztoc.com/x/8704e882ac3a183c",
+      "source": "Biztoc.com",
+      "date": "2026-11-18",
+      "image": "https://cdn.biztoc.com/8704e882ac3a183c_s.webp",
       "category": "metals"
     },
     {
@@ -171,238 +297,112 @@
       "category": "market"
     },
     {
-      "title": "PU plans biosafety lab to boost infectious disease research",
-      "description": "Patna University plans a Biosafety Level-3 lab under its five-year research vision to expand infectious disease studies, interdisciplinary work, and partnerships.",
-      "url": "https://timesofindia.indiatimes.com/city/patna/pu-plans-biosafety-lab-to-boost-infectious-disease-research/articleshow/135961451.cms",
-      "source": "The Times of India",
+      "title": "Markwayne Mullin Has A Lot To Say About His LSU Game Trip At House Hearing",
+      "description": "The homeland security secretary accused Democrats of hypocrisy over his weekend at a Louisiana football game, saying lawmakers \u201cwould have called it a campaign event.\u201d",
+      "url": "https://www.huffpost.com/entry/dhs-secretary-markwayne-mullin-house-hearing_n_6afdbdd3e4b011bd4afcbc08",
+      "source": "HuffPost",
       "date": "2026-11-18",
-      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-131774487/131774487.jpg",
+      "image": "https://img.huffingtonpost.com/asset/6afdc3f0180000d5e794c750.jpeg?cache=ccJpny5kKp&ops=1778_1000",
       "category": "market"
     },
     {
-      "title": "Brindavihari is driven by its emotional connect, says producer Samruddhi V Manjunath",
-      "description": "For producer Samruddhi V Manjunath, backing a film is ultimately about believing in its content.",
-      "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/brindavihari-is-driven-by-its-emotional-connect-says-producer-samruddhi-v-manjunath/articleshow/135960482.cms",
-      "source": "The Times of India",
+      "title": "ANOT 7th edition has two nights, Todd Dulaney and seating innovation | Three Men On a Boat",
+      "description": "Since its inaugural edition at the Celebration Center in 2017, ANOT has grown exponentially, consistently holding its space on the 1st of January as a cornerstone event for the new year. It has added a second day",
+      "url": "https://3-mob.com/entertainment/anot-7th-edition-has-two-nights-todd-dulaney-and-seating-innovation/",
+      "source": "3-mob.com",
       "date": "2026-11-18",
-      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135960594/135960594.jpg",
+      "image": "https://3-mob.com/wp-content/uploads/2026/01/Janet-Manyowa-at-ANOT-2026-1.jpg",
       "category": "market"
     },
     {
-      "title": "Gold prices fall in Bangalore, 24-carat rate drops by Rs 278 per gram; silver declines too",
-      "description": "Gold prices fall in Bangalore, 24-carat rate drops by Rs 278 per gram; silver declines toofact.net.in",
-      "url": "https://www.fact.net.in/business/gold-prices-fall-in-bangalore-24-carat-rate-drops-by-rs-278-per-gram-silver-declines-too",
-      "source": "Fact.net.in",
+      "title": "Nvidia\u2019s RTX Spark Desktops Imagine They Can Actually Compete With the Mac Studio - Gizmodo",
+      "description": "Nvidia\u2019s RTX Spark Desktops Imagine They Can Actually Compete With the Mac StudioGizmodo Palm-Sized with 128GB Memory: The Ultra-Compact Desktop ArrivesInven Global Dell Creator Edition Desktop joins the RTX Spark mini PC line-upCamera Jabber Gigabyte unveils\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&id=186780790",
+      "source": "Slashdot.org",
       "date": "2026-11-18",
-      "image": "https://media.assettype.com/fact-net%2F2026-10-08%2F8mi0n31z%2FPTI04192026000152A.jpg?rect=0%2C128%2C4800%2C2700&w=1200&h=675&auto=format%2Ccompress&fit=crop",
-      "category": "metals"
+      "image": null,
+      "category": "market"
     },
     {
-      "title": "U.S. export controls and Nvidia\u2019s leadership transition remain key watchpoints\u00a0for the Gulf",
-      "description": "In this week\u2019s Fortune Gulf Brief.",
-      "url": "https://fortune.com/2026/11/18/us-export-controls-nvidia-leadership-transition-remain-key-watchpoints/",
-      "source": "Fortune",
-      "date": "2026-11-18",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2192215403-1-e1794997931948.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Aging means learning how to prevent costly scams targeting older Americans",
-      "description": "FTC reports fraud targeting older adults could have cost up to $119.5 billion last year, with romance and impersonation scams among top threats.",
-      "url": "https://www.foxnews.com/opinion/aging-means-learning-how-prevent-costly-scams-targeting-older-americans",
+      "title": "How to travel in comfort: 11 essentials for stress-free flights and vacations",
+      "description": "Flying isn't always relaxing. Travel more comfortably on flights with must-have flight accessories, including neck pillows, sleep masks, compression socks and clever airplane gadgets.",
+      "url": "https://www.foxnews.com/deals/travel-comfort-essentials",
       "source": "Fox News",
       "date": "2026-11-18",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/senior-citizen-scams.jpg",
+      "image": "https://m.media-amazon.com/images/I/311n6JAgg2L._SL500_.jpg",
       "category": "market"
     },
     {
-      "title": "Gold Fields Defends Tarkwa Record, Cites US$3.3bn Payments to Government",
-      "description": "Gold Fields Ghana Limited has mounted a strong defence of its Tarkwa mining record, citing US$3.3 billion in payments to the Government of Ghana through royalties, corporate taxes and dividends, as the debate over the renewal of its mining leases intensifies.\u2026",
-      "url": "https://thechronicle.com.gh/gold-fields-defends-tarkwa-record-cites-us3-3bn-payments-to-government/",
-      "source": "Thechronicle.com.gh",
+      "title": "Mississippi gov. says AI infrastructure messaging went sour when it stopped being about necessity: \u2018Everybody in America uses data centers regularly\u2019",
+      "description": "\u201cIn terms of necessity and the need for everyday American citizens, it is without question that there is going to be a need to keep this data,\u201d Gov. Tate Reeves told Fortune.",
+      "url": "https://fortune.com/2026/11/18/mississippi-governor-data-center-messaging-midterm-elections/",
+      "source": "Fortune",
       "date": "2026-11-18",
-      "image": "https://thechronicle.com.gh/wp-content/uploads/2023/06/Capture-16.jpg",
-      "category": "supply_demand"
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/55658026502_fa8f14280a_o.jpg",
+      "category": "market"
     },
     {
-      "title": "Perenti Shares Slide 7% as Mining Services Contractor Gets Caught in Deepening ASX Resources Sell-Off",
-      "description": "Perenti shares fell 7.1% to A$1.96 as Australian resources stocks extended their losses, with commodity prices, weak Chinese demand and broader sector concerns weighing on investors.",
-      "url": "https://www.ibtimes.com.au/perenti-shares-fall-mining-sector-selloff-1878817",
-      "source": "Ibtimes.com.au",
+      "title": "PS5 Pro Enhanced Action Game Is 60% Off on PlayStation Store",
+      "description": "An acclaimed PS5 Pro Enhanced action game is now available at an attractive discount on the PlayStation Store. The decade-old title is developed and published by IO Interactive. PlayStation 5 Pro owners can now get Hitman World of Assassination for just $27.9\u2026",
+      "url": "https://www.playstationlifestyle.net/2026/11/18/hitman-world-of-assassination-ps5-60-percent-off",
+      "source": "PlayStation LifeStyle",
       "date": "2026-11-18",
-      "image": "https://d.ibtimes.com.au/en/full/1896438/perenti-shares-jump-nearly-9-after-mining-services-firm-wins.jpg?w=1600&h=900&l=46&t=49&q=88&f=a7a4ecafa5afad2ae090129395a5c74c",
-      "category": "supply_demand"
+      "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/11/01.jpg?resize=1200,630",
+      "category": "market"
     },
     {
-      "title": "Heliostar Posts Record Quarterly Earnings As Cash Balance Reaches $53.6 Million",
-      "description": "Gold and silver exploration business Heliostar Metals (TSX:HSTR), reported its strongest quarterly operating earnings to date, supported by higher gold prices and improving operating costs across its Mexican mines.\nFor the three months ended September 30, 202\u2026",
-      "url": "https://biztoc.com/x/8704e882ac3a183c",
+      "title": "Coca-Cola vs. Monster Beverage: Which Consumer Goods Stock Is a Better Buy for 2027?",
+      "description": "Investors often choose between established dividend stability and high-octane growth. Choosing between Coca-Cola (NYSE:KO)and Monster Beverage (NASDAQ:MNST)involves weighing a massive global powerhouse against a rapidly expanding energy drink leader.\nWhile bo\u2026",
+      "url": "https://biztoc.com/x/6a4960f676993a85",
       "source": "Biztoc.com",
       "date": "2026-11-18",
-      "image": "https://cdn.biztoc.com/8704e882ac3a183c_s.webp",
-      "category": "metals"
-    },
-    {
-      "title": "Gold Price Drop Reaches a 14-Month Low, 29% Below January\u2019s Record",
-      "description": "Gold futures slid to about $3,772, their lowest since September 2025 and 29% below January's record, as U.S. real yields climbed to 2.89%. Bitcoin, by contrast, is flat since Feb. 23.",
-      "url": "https://www.dcforecasts.com/bitcoin-news/gold-price-drop-14-month-low-real-yields-bitcoin/",
-      "source": "Dcforecasts.com",
-      "date": "2026-11-18",
-      "image": "https://www.dcforecasts.com/wp-content/uploads/2026/11/gold-price-drop-14-month-low-real-yields-bitcoin.webp",
-      "category": "metals"
-    },
-    {
-      "title": "The Lord of the Rings: The Rings of Power season 3 episode 6 recap & review: Sauron delights in a bit of torture",
-      "description": "The Rings of Power season 3 delivers some of its most powerful and most unhinged moments all at once in its sixth episode.",
-      "url": "https://winteriscoming.net/lord-of-the-rings-the-rings-of-power-season-3-episode-6-recap-review",
-      "source": "Winter is Coming",
-      "date": "2026-11-18",
-      "image": "https://images2.minutemediacdn.com/image/upload/c_fill,w_1200,ar_1:1,f_auto,q_auto,g_auto/images/ImageExchange/mmsport/385/01m7pwjwcae2jkbferh0.jpg",
+      "image": "https://cdn.biztoc.com/6a4960f676993a85_s.webp",
       "category": "market"
     },
     {
-      "title": "Gold, silver prices in Indian markets crash to nearly a year\u2019s low",
-      "description": "Rates drop in line with global trend, where the precious metals have dropped to a 14-month low on strengthening dollar, hopes of US Fed rate hike",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-silver-prices-in-indian-markets-crash-to-nearly-a-years-low/article71714989.ece",
-      "source": "BusinessLine",
+      "title": "The good and the bad of climate change policy",
+      "description": "The downside risks are so large that only a fool or a knave \u2013 and, yes, we must admit there are far too many of both \u2013 would sit idly by",
+      "url": "https://www.irishtimes.com/business/economy/2026/11/18/the-good-and-the-bad-of-climate-change-policy/",
+      "source": "The Irish Times",
       "date": "2026-11-18",
-      "image": "https://bl-i.thgim.com/public/incoming/nigv1w/article71715003.ece/alternates/LANDSCAPE_1200/PO09_Gold_bars.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "Profit-booking drags Nifty below 25,200; Pharma holds firm as metals, durables bleed",
-      "description": "Benchmark indices fell sharply in mid-session trade on Wednesday, with broad-based profit-booking accelerating after the morning open.",
-      "url": "https://www.thehindubusinessline.com/markets/profit-booking-drags-nifty-below-25200-pharma-holds-firm-as-metals-durables-bleed/article71714954.ece",
-      "source": "BusinessLine",
-      "date": "2026-11-18",
-      "image": "https://bl-i.thgim.com/public/incoming/h5ezon/article71714968.ece/alternates/LANDSCAPE_1200/iStock-2284817384.jpg",
+      "image": "https://www.irishtimes.com/resizer/v2/6K6MNOHMQJEAXQ3OIXVXMPUPOQ.jpg?auth=313c550a7ca8447815a5c582f7e0ad46c745dcfe5298ea4794c17f27919dca4a&smart=true&width=1600&height=900",
       "category": "market"
     },
     {
-      "title": "Gold jewellery passes hallmark test despite adulteration: What we know",
-      "description": "A recent investigation found that gold adulterated with rhenium powder passed purity tests and received a 22-carat hallmark",
-      "url": "https://www.business-standard.com/india-news/gold-jewellery-passes-hallmark-test-despite-adulteration-what-we-know-126111800495_1.html",
-      "source": "Business Standard",
+      "title": "Stars who told Trump to stop using their music: From Beyonce to Adele",
+      "description": "From TikTok takedowns to court action, these Trump campaign music cease-and-desist moments show artists pushing back.\nThe post Stars who told Trump to stop using their music: From Beyonce to Adele appeared first on PinkNews | Latest lesbian, gay, bi and trans\u2026",
+      "url": "https://www.thepinknews.com/2026/11/18/trump-music-cease-desist/",
+      "source": "Thepinknews.com",
       "date": "2026-11-18",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-04/28/full/1745863707-7849.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "Visa Adds PayPal and Stripe to Agentic Ready Program",
-      "description": "Visa is expanding its Agentic Ready program to the merchant acceptance ecosystem, adding several new partners including PayPal, Adyen and Fiserv. Part of Visa Intelligent Commerce, the expanded program helps prepare merchants, payment service providers (PSPs)\u2026",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/visa-adds-paypal-and-stripe-to-agentic-ready-program/",
-      "source": "pymnts.com",
-      "date": "2026-11-18",
-      "image": "https://www.pymnts.com/wp-content/uploads/2025/12/visa-ai-artificial-intelligence-agentic-ai-ai-agents-adoption-stablecoin-consumer-insights.jpeg",
-      "category": "currency"
-    },
-    {
-      "title": "jsql-neo added to PyPI",
-      "description": "Python client and CLI for JSQL-NEO (Node.js backend)",
-      "url": "https://pypi.org/project/jsql-neo/",
-      "source": "Pypi.org",
-      "date": "2026-11-18",
-      "image": null,
+      "image": "https://www.thepinknews.com/wp-content/uploads/2026/11/trump-campaign-music-cease-desist-artists_a82a43.jpg",
       "category": "market"
     },
     {
-      "title": "GTA VI arrives after 13 years, unlocking a business world beyond gaming",
-      "description": "From billion-dollar pre-orders and creator-led role-play to qcom deliveries and burger joints turning into fictional Vice City, the game's 13-year wait has created an economy well beyond the console",
-      "url": "https://www.business-standard.com/technology/tech-news/gta-vi-arrives-after-13-years-unlocking-a-business-world-beyond-gaming-126111800950_1.html",
-      "source": "Business Standard",
+      "title": "Leaked Ohio bill could allow AI data center companies to seize private land for their buildouts using eminent domain law",
+      "description": "A leaked Ohio bill could allow data centers to qualify as public utilities for the purpose of eminent domain law, allowing companies to seize private land for building new facilities.",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/leaked-ohio-bill-could-allow-ai-data-center-companies-to-seize-private-land-for-their-buildouts-using-eminent-domain-law-proposed-law-would-expand-list-of-beneficiaries",
+      "source": "Tom's Hardware UK",
       "date": "2026-11-18",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/18/full/1794980736-316.jpg",
-      "category": "currency"
-    },
-    {
-      "title": "UK inflation rises to year high and keeps risk of second straight rate hike alive",
-      "description": "Inflation in the U.K. has risen rose to its highest level for a year",
-      "url": "https://abcnews.com/International/wireStory/uk-inflation-rises-year-high-possibility-straight-rate-138242229",
-      "source": "Abcnews.com",
-      "date": "2026-11-18",
-      "image": "https://i.abcnewsfe.com/a/afbec721-e7c4-4111-a39c-b0af717ae6e1/wirestory_fe3a7091affaa7a5a850e30581be9c93_16x9.jpg?w=1600",
-      "category": "central_bank"
-    },
-    {
-      "title": "Lord\u2019s Mark Industries reports \u20b982 Crore H1 profit; plans AI healthcare product launches in 2027",
-      "description": "Lord's Mark Industries Ltd has reported a consolidated net profit of \u20b982.01 crore during the first half of FY27, with revenue hitting \u20b9718.77 crore, outpacing last year's figures. The company is gearing up to introduce innovative products, such as AI-powered \u2026",
-      "url": "https://m.economictimes.com/industry/healthcare/biotech/healthcare/lords-mark-industries-reports-82-crore-h1-profit-plans-ai-healthcare-product-launches-in-2027/articleshow/135962278.cms",
-      "source": "Economictimes.com",
-      "date": "2026-11-18",
-      "image": "https://img.etimg.com/thumb/msid-135962319,resizemode-4,width-1200,height-900,imgsize-67091,overlay-economictimes/articleshow.jpg",
+      "image": "https://cdn.mos.cms.futurecdn.net/wdQ45S9jtuGPuURS79mUbA-2000-80.jpg",
       "category": "market"
     },
     {
-      "title": "Polygon eyes US banking licence with $50 million to $100 million acquisition plans: Report",
-      "description": "Polygon's banking ambitions could significantly enhance its global payments influence, potentially reshaping cross-border financial services.\nThe post Polygon eyes US banking licence with $50 million to $100 million acquisition plans: Report appeared first on\u2026",
-      "url": "https://cryptobriefing.com/polygon-payment-expansion-regulated-business/",
+      "title": "Russia authorizes 30 crypto operators as EU sanctions risk looms",
+      "description": "Russia's crypto registry may inadvertently expose operators to EU sanctions, highlighting the tension between regulatory compliance and international scrutiny.\nThe post Russia authorizes 30 crypto operators as EU sanctions risk looms appeared first on Crypto \u2026",
+      "url": "https://cryptobriefing.com/russia-authorizes-30-crypto-operators-eu-sanctions/",
       "source": "Crypto Briefing",
       "date": "2026-11-18",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/18063550/Polygon-Labs-explores-raising-up-to-100-million-to-launch-stablecoin-unit-800x420.jpg",
-      "category": "market"
-    },
-    {
-      "title": "GTA 6 is Now The Joint-Highest Rated Game of All Time",
-      "description": "GTA 6 has become the joint-highest rated game of all time, following the widespread publication of reviews.",
-      "url": "https://www.ign.com/articles/gta-6-is-now-the-joint-highest-rated-game-of-all-time",
-      "source": "IGN",
-      "date": "2026-11-18",
-      "image": "https://assets-prd.ignimgs.com/2026/11/18/gtavi-37-1795002431431.jpg?width=1200&height=1200&fit=crop&format=jpg&auto=webp&quality=80",
-      "category": "market"
-    },
-    {
-      "title": "Why is the internet on its knees? As yet another cyberattack leaves major websites scrambling, experts warn the web is more vulnerable than ever",
-      "description": "As websites scramble to restore services and patch security flaws, experts have warned that the web is more vulnerable than ever.",
-      "url": "https://www.dailymail.com/sciencetech/article-16302021/internet-cyberattack-vulnerable-warning.html",
-      "source": "Dailymail.com",
-      "date": "2026-11-18",
-      "image": "https://i.dailymail.com/1s/2026/11/18/11/112580957-0-image-a-8_1795001100826.jpg",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2020/12/02092245/link-bull-1024x538.jpg",
       "category": "geopolitics"
     },
     {
-      "title": "India bonds reverse intraday gains to end lower as profit booking takes center stage",
-      "description": "Indian government bonds faced a setback as profit-seeking traders reacted to earlier gains, with the benchmark bond yield increasing to 7.2858% compared to the previous closure. The fluctuations in crude prices have influenced the market outlook on the Reserv\u2026",
-      "url": "https://m.economictimes.com/markets/bonds/india-bonds-reverse-intraday-gains-to-end-lower-as-profit-booking-takes-center-stage/articleshow/135962385.cms",
-      "source": "Economictimes.com",
+      "title": "Surveillance Isn't Safety: A Comic About Organizing Against Flock and Other Foes",
+      "description": "In the new comic \"Surveillance Isn't Safety\"\u2014available for free today\u2014 cartoonist Bryn Adams explores the growing movement against mass surveillance through their involvement in the community fight against Flock Safety in Cleveland, Ohio. It's a personal jour\u2026",
+      "url": "https://www.eff.org/deeplinks/2026/11/surveillance-isnt-safety-comic-about-organizing-against-surveillance",
+      "source": "EFF",
       "date": "2026-11-18",
-      "image": "https://img.etimg.com/thumb/msid-135962427,resizemode-4,width-1200,height-900,imgsize-190570,overlay-etmarkets/articleshow.jpg",
+      "image": "https://www.eff.org/files/banner_library/flock-comic-banner-2.jpg",
       "category": "market"
-    },
-    {
-      "title": "Creativity and Its Identical Twin Innovation Have Led Us to the Edge of the Abyss",
-      "description": "Thomas Frank, who was a founding editor of The Baffler (1988, and still going) along with Rick Pearlstein (author of the essential Nixonland and his books that followed), has been one of our most perspicacious analysts of the demise of our polity and society \u2026",
-      "url": "https://www.nakedcapitalism.com/2026/11/creativity-and-its-identical-twin-innovation-have-led-us-to-the-edge-of-the-abyss.html",
-      "source": "Nakedcapitalism.com",
-      "date": "2026-11-18",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "BI raises rate to 6 percent to defend rupiah against Fed moves",
-      "description": "Bank Indonesia (BI) has raised its benchmark interest rate by 25 basis points to 6 percent in a pre-emptive move to maintain the attractiveness of domestic ...",
-      "url": "https://en.antaranews.com/news/443543/bi-raises-rate-to-6-percent-to-defend-rupiah-against-fed-moves",
-      "source": "Antaranews.com",
-      "date": "2026-11-18",
-      "image": "https://cdn.antaranews.com/cache/1200x800/2026/11/18/WhatsApp-Image-2026-11-18-at-14.48.09_1.jpeg",
-      "category": "central_bank"
-    },
-    {
-      "title": "Can Van Hollen Chuck Schumer?",
-      "description": "Does Chris Van Hollen really have a shot against Chuck Schumer? Inside the Maryland senator\u2019s uphill battle to become Senate majority leader.",
-      "url": "https://nymag.com/intelligencer/article/chris-van-hollen-uphill-battle-chuck-schumer.html",
-      "source": "New York Magazine",
-      "date": "2026-11-18",
-      "image": "https://pyxis.nymag.com/v1/imgs/f15/fe8/72cdc5c84b6c84f7017c40a28f01b68858-vanhollen.1x.rsocial.w1200.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "They Were Just Admitted to the Bar. Now They\u2019re Federal Prosecutors. Meet Trump\u2019s New DOJ.",
-      "description": "The Justice Department has lost thousands of years of experience in Trump\u2019s second term. Amid the brain drain, the DOJ has loosened standards to hire young attorneys as it focuses more on immigration and less on fraud and drug cases in key districts.",
-      "url": "https://www.propublica.org/article/federal-prosecutors-hiring-trump-doj",
-      "source": "ProPublica",
-      "date": "2026-11-18",
-      "image": "https://www.propublica.org/wp-content/uploads/2026/11/ACTUAL-final-sorry-3.jpg?resize=2000,1050",
-      "category": "central_bank"
     }
   ],
   "history": [
@@ -547,7 +547,7 @@
       "platinum_usd_oz": 1551.08
     }
   ],
-  "timestamp": "2026-11-19T17:27:03.198183+05:30",
+  "timestamp": "2026-11-19T21:26:45.728501+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
