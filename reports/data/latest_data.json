@@ -54,7 +54,7 @@
         "hold": 25
       },
       "summary": "Gold is showing positive signals. Positive daily movement of 1.0%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-20T15:39:48.977938",
+      "timestamp": "2026-11-20T17:55:59.316225",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 25
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 1.6%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-20T15:39:49.053977",
+      "timestamp": "2026-11-20T17:55:59.384348",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 25
       },
       "summary": "Platinum is showing positive signals. Positive daily movement of 0.8%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-20T15:39:49.121102",
+      "timestamp": "2026-11-20T17:55:59.453628",
       "source": "rule-based"
     }
   },
@@ -135,6 +135,15 @@
   },
   "news": [
     {
+      "title": "Nasdaq tumbles 2% as Anthropic retreat deepens AI trade concerns",
+      "description": "Following a rocky market debut, Anthropic\u2019s stock price plunge led to a notable drop in the Nasdaq Composite index. The AI sector faces growing skepticism amidst high valuations and investment risks, putting pressure on major U.S. stock indexes. Despite some companies reporting strong earnings, inve",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-nasdaq-falls-1-at-open-as-anthropic-fails-to-steady-ai-trade/articleshow/136030779.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-11-20",
+      "image": "",
+      "category": "central_bank"
+    },
+    {
       "title": "Rupee climbs past 93/USD as investors seek shelter in Indian stocks, shorts unwind",
       "description": "The Indian rupee has strengthened past the 93-per-dollar mark for the first time since April. This recovery is attributed to over $12 billion of foreign investments in Indian equities in November. Hedge funds have unwound bearish positions on the rupee, contributing to its recent gains. The Reserve ",
       "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-climbs-past-93/usd-as-investors-seek-shelter-in-indian-stocks-shorts-unwind/articleshow/136023536.cms",
@@ -162,94 +171,94 @@
       "category": "currency"
     },
     {
-      "title": "Gold's slide deepens as AI rout, rate hike bets hurt bullion - Reuters",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOMFFjdnZJUDZiUXhKNUdPUWMtQ2tkd0ZKdmN4TTZ3bnQyb09SQ3cxSS1hNVYtcmF5WGpNSlJzS1dWYkdBUzBJZ2s5TnhLQ29mNWNIUy10MGJkN294UndsTmRmOF9GelkyVkdWRl8wcVJQNnRaRGp0a3NIMWNHT1dJSHhZRk1BT3FRV2pFcHVGa3ozS1ZCdjJXenJvSXlBOEdxLUp2MVVVTVBDY0NGX3ZRRUN3?oc=5\" tar",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMFFjdnZJUDZiUXhKNUdPUWMtQ2tkd0ZKdmN4TTZ3bnQyb09SQ3cxSS1hNVYtcmF5WGpNSlJzS1dWYkdBUzBJZ2s5TnhLQ29mNWNIUy10MGJkN294UndsTmRmOF9GelkyVkdWRl8wcVJQNnRaRGp0a3NIMWNHT1dJSHhZRk1BT3FRV2pFcHVGa3ozS1ZCdjJXenJvSXlBOEdxLUp2MVVVTVBDY0NGX3ZRRUN3?oc=5",
-      "source": "Google News - Precious Metals",
-      "date": "2026-11-20",
-      "image": "",
-      "category": "central_bank"
-    },
-    {
-      "title": "Gold (XAUUSD), Silver, Platinum Forecasts \u2013 Gold Tests Yearly Lows As Sell-Off Continues - FXEmpire",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQM3c4dnNlZXh0U194M3dIeFBFTU95RTNPajRGMC1ITFNhbXU1LVE3N3JYN3lDUnFyNWlxeEhsOGtNTDhBVDl2MmJVSzdjdk1zUDVVeWRlWEx5RlR3RHk5YWEzT25GY19kMDJqcHFjNnIyeGh6WjE1N28xZWtBVkpua2t4ZVJoUURsZUtBUTBTTW9aeHNHZWNzMGhZTWpBU0tTWEIwZ25kRUF3T0ZaSDBEZW5ucFVCdmhKay",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQM3c4dnNlZXh0U194M3dIeFBFTU95RTNPajRGMC1ITFNhbXU1LVE3N3JYN3lDUnFyNWlxeEhsOGtNTDhBVDl2MmJVSzdjdk1zUDVVeWRlWEx5RlR3RHk5YWEzT25GY19kMDJqcHFjNnIyeGh6WjE1N28xZWtBVkpua2t4ZVJoUURsZUtBUTBTTW9aeHNHZWNzMGhZTWpBU0tTWEIwZ25kRUF3T0ZaSDBEZW5ucFVCdmhKay1PaGE2RjY3cTNIR29vSkZIN2FyZw?oc=5",
+      "title": "Gold (XAUUSD), Silver, Platinum Forecasts \u2013 Gold Tests New Lows Amid Panic In Markets - FXEmpire",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNSHlkVV92b21POWFZanFRbHlZQVFOSktkVmx1Smltcm1OZGIyQVpVbUNJcTBGYWdFZnNWT1BkdzRqSHFLRnRrNlRDZUpLZlNVcWxoTXdDM2JBVkRaOF9aNkw1ZG92U3E4d3JTb0dZZW1rU0hJWUVzOGVTRm51YldseHkxNk5CTDVEZ0tzb1BlVExYT25QUlZibEZaVktlRU9GbXVvLVFjbENXUlcwakVXM1RwU0Z3VVZOV1",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSHlkVV92b21POWFZanFRbHlZQVFOSktkVmx1Smltcm1OZGIyQVpVbUNJcTBGYWdFZnNWT1BkdzRqSHFLRnRrNlRDZUpLZlNVcWxoTXdDM2JBVkRaOF9aNkw1ZG92U3E4d3JTb0dZZW1rU0hJWUVzOGVTRm51YldseHkxNk5CTDVEZ0tzb1BlVExYT25QUlZibEZaVktlRU9GbXVvLVFjbENXUlcwakVXM1RwU0Z3VVZOV1hhYlZHSUN5cWoyVVlOSGNn?oc=5",
       "source": "Google News - Precious Metals",
       "date": "2026-11-20",
       "image": "",
       "category": "currency"
     },
     {
-      "title": "5 held for orchestrating Rs 55 L cryptocurrency investment fraud",
-      "description": "Delhi Police arrested five for a Rs 55 lakh USDT crypto investment scam via Instagram ads, using fake IDs and wallet access to withdraw funds quickly.",
-      "url": "https://timesofindia.indiatimes.com/city/delhi/5-held-for-orchestrating-rs-55-l-cryptocurrency-investment-fraud/articleshow/135997223.cms",
-      "source": "The Times of India",
+      "title": "What Are Perpetual Futures? How Crypto's Most Popular Derivative Works",
+      "description": "Perpetual futures let traders bet on prices with leverage and no expiry date. Here's how they work, and why they dominate crypto trading.",
+      "url": "https://decrypt.co/resources/what-are-perpetual-futures-how-cryptos-most-popular-derivative-works",
+      "source": "Decrypt",
       "date": "2026-11-19",
-      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-47529300/47529300.jpg",
-      "category": "currency"
-    },
-    {
-      "title": "GTA 6 Crypto Scams Greet Launch Day With 8,800 Flagged Copycat Tokens",
-      "description": "Blockaid flagged more than 8,800 GTA-themed Solana tokens and fake pre-order pages that swap the card checkout for a wallet drainer as GTA VI launches.",
-      "url": "https://www.dcforecasts.com/blockchain-news/gta-6-crypto-scam-copycat-tokens-wallet-drainer/",
-      "source": "Dcforecasts.com",
-      "date": "2026-11-19",
-      "image": "https://www.dcforecasts.com/wp-content/uploads/2026/11/gta-6-crypto-scam-copycat-tokens-wallet-drainer.webp",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2019/11/bitcoin-investment_2-gID_1-pID_6.png",
       "category": "market"
     },
     {
-      "title": "Need a new blow dryer? These three just hit jaw-dropping low prices, \u00e0 la Black Friday",
-      "description": "If there\u2019s one hair tool that consistently earns its luxury reputation, it\u2019s the Dyson Airwrap i.d., which does so much more than simply dry your hair. This multitasking favorite can dry, curl, wave, smooth and add volume, using Coanda airflow technology and \u2026",
-      "url": "https://nypost.com/2026/11/19/shopping/3-blow-dryers-on-sale-for-black-friday-level-prices/",
-      "source": "New York Post",
-      "date": "2026-11-19",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/black-friday.png?w=1200",
-      "category": "market"
-    },
-    {
-      "title": "Fund managers turn overweight on India, first such classification since Jan",
-      "description": "Fund managers have recently indicated an increased interest in investing in India after several months of cautious sentiment. A significant number of investors are concerned about the absence of artificial intelligence-related investment options available. In\u2026",
-      "url": "https://m.economictimes.com/markets/stocks/news/fund-managers-turn-overweight-on-india-first-such-classification-since-jan/articleshow/135996610.cms",
-      "source": "Economictimes.com",
-      "date": "2026-11-19",
-      "image": "https://img.etimg.com/thumb/msid-135996674,resizemode-4,width-1200,height-900,imgsize-55112,overlay-etmarkets/articleshow.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Bengal to install 1 kW grid-connected rooftop in 1L EWS homes under the PM-Surya Ghar: Muft Bijli Yojana",
-      "description": "West Bengal to install free 1 kW rooftop solar systems in 1 lakh EWS homes under PM-Surya Ghar; Rs 550 crore project via WBSEDCL, to finish in 1 year.",
-      "url": "https://timesofindia.indiatimes.com/city/kolkata/bengal-to-install-1-kw-grid-connected-rooftop-in-1l-ews-homes-under-the-pm-surya-ghar-muft-bijli-yojana/articleshow/135996173.cms",
+      "title": "IIT-Madras researchers propose AI framework for India",
+      "description": "IIT Madras proposes Frugal AI Framework for India: responsible, low-resource AI prioritizing public value, vernacular models, shared infra, and oversight.",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/iit-madras-researchers-propose-ai-framework-for-india/articleshow/136000694.cms",
       "source": "The Times of India",
       "date": "2026-11-19",
       "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-47529300/47529300.jpg",
       "category": "market"
     },
     {
-      "title": "AT&T Extends Longstanding Partnership With U.S. Soccer",
-      "description": "AT&T extends its U.S. Soccer partnership, investing in fan engagement, athlete storytelling and training center technology to support the sport's growth.",
-      "url": "https://www.forbes.com/sites/allisonsmith/2026/11/19/att-extends-longstanding-partnership-with-us-soccer/",
-      "source": "Forbes",
+      "title": "Kumbh infra works boost construction sector in Nashik",
+      "description": "Kumbh Mela 2027 infrastructure projects drove Nashik\u2019s construction sector to top GST growth, up 27% to Rs 3,107 crore in Apr\u2013Sept 2026.",
+      "url": "https://timesofindia.indiatimes.com/city/nashik/kumbh-infra-works-boost-construction-sector-in-nashik/articleshow/136000540.cms",
+      "source": "The Times of India",
       "date": "2026-11-19",
-      "image": "https://s.yimg.com/lo/mysterio/api/e10e4e55a436ed2e3432ac16fb9039b9d17c511cb632d9fb005f8130cdc823a2/lightyear_networkapi/resizefill_w959_h680%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2Fdae987b63f1f042941bdf1425622cc17.png",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-136000539/136000539.jpg",
       "category": "market"
     },
     {
-      "title": "Chhattisgarh's closed coal mines could unlock 6,000 hectares for green industries, jobs by 2035",
-      "description": "Raipur: Chhattisgarh's closed and ageing coal mines could become the foundation of a new industrial economy, with nearly 6,000 hectares of mining land",
-      "url": "https://timesofindia.indiatimes.com/city/raipur/chhattisgarhs-closed-coal-mines-could-unlock-6000-hectares-for-green-industries-jobs-by-2035/articleshow/135994078.cms",
-      "source": "The Times of India",
+      "title": "VanEck\u2019s New ETF Makes a Triple Bet on AI, Energy and Gold - VanEck Pivotal Trends ETF (NASDAQ:PIVT)",
+      "description": "VanEck\u2019s new PIVT ETF combines AI, gold, nuclear energy and commodities in one actively managed bet on three major global investment trends.",
+      "url": "https://biztoc.com/x/153de97944f4f939",
+      "source": "Biztoc.com",
       "date": "2026-11-19",
-      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-135994174/135994174.jpg",
-      "category": "supply_demand"
+      "image": "https://cdn.biztoc.com/153de97944f4f939_s.webp",
+      "category": "metals"
     },
     {
-      "title": "Crypto market update: Bitcoin struggles below $64,000 amid $306M ETF outflows and Fed fears; Ethereum reclaims $1,800",
-      "description": "Bitcoin remained under pressure near $64,000 amid institutional ETF outflows, Fed rate uncertainty and global market weakness. Ethereum recovered above $1,800, supported by institutional accumulation, whale buying and improving technical indicators despite br\u2026",
-      "url": "https://m.economictimes.com/markets/us-stocks/wall-street-guide/crypto-market-update-bitcoin-struggles-below-64000-amid-306m-etf-outflows-and-fed-fears-ethereum-reclaims-1800/articleshow/135993732.cms",
-      "source": "Economictimes.com",
+      "title": "The Intangible Investor: What You Can See Everything Reveals About Invention",
+      "description": "You Can See Everything is a thought-provoking amalgam of fact, flare and creative personality profiling inventor Elizabeth Holmes and her partner, Billy Evans, as she prepares for an 11-year prison sentence for defrauding high-profile investors. While her nam\u2026",
+      "url": "https://ipwatchdog.com/2026/11/19/the-intangible-investor-what-you-can-see-everything-reveals-about-invention/",
+      "source": "IPWatchdog.com",
       "date": "2026-11-19",
-      "image": "https://img.etimg.com/thumb/msid-135994021,resizemode-4,width-1200,height-900,imgsize-231064,overlay-etmarkets/articleshow.jpg",
-      "category": "central_bank"
+      "image": "https://ipwatchdog.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-14-at-2.30.49-PM-e1600115704168.png",
+      "category": "market"
+    },
+    {
+      "title": "Anthropic's first VC backer Spark Capital's $777 million investment swells to $10.3 billion",
+      "description": "Led by general partner Yasmin Razavi, the venture firm was the first institutional investor to lead a funding round in 2023 and continued backing the Claude-maker through six rounds",
+      "url": "https://www.moneycontrol.com/news/business/startup/anthropic-s-first-vc-backer-spark-capital-s-777-million-investment-swells-to-10-3-billion-14084506.html",
+      "source": "Moneycontrol",
+      "date": "2026-11-19",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/10/20261027113357_Anthropic-IPO_-AI-Meets-Wall-Street.png?impolicy=website&width=1600&height=900",
+      "category": "market"
+    },
+    {
+      "title": "How to analyse a mutual fund? A beginner\u2019s guide to returns, risk, costs and fund performance for better returns",
+      "description": "Choosing a mutual fund requires more than checking past returns. Beginners should assess rolling returns, risk, expense ratios, portfolio quality, fund manager stability and benchmark performance to find schemes suited to their financial goals.",
+      "url": "https://www.livemint.com/money/personal-finance/how-to-analyse-a-mutual-fund-a-beginner-s-guide-to-returns-risk-costs-and-fund-performance-for-better-returns-11795107230060.html",
+      "source": "Livemint",
+      "date": "2026-11-19",
+      "image": "https://www.livemint.com/lm-img/img/2026/11/19/1600x900/logo/Gemini_Generated_Imge_awuiklawuiklawui_179510766_1795107672229_Qc4f_1795107672378_OQJY_db49f0f5-875d-45f5-a2e4-128159381ea4_Fu0V.png",
+      "category": "market"
+    },
+    {
+      "title": "The 50 Open Worlds That Shaped Video Games",
+      "description": "From the cliffs of Hyrule to the streets of Vice City to the vastness of space and sea, we asked historians and critics to chart the five decades of thrilling discovery that led to \u2018GTA VI.\u2019 These are the open worlds that shaped video games.",
+      "url": "https://www.vulture.com/article/most-influential-open-worlds-video-game-history.html",
+      "source": "Vulture",
+      "date": "2026-11-19",
+      "image": "https://pyxis.nymag.com/v1/imgs/f3b/35b/8c9767c280fc0a5a50f01e32643ea881ee-50-open-world-games.1x.rsocial.w1200.jpg",
+      "category": "market"
+    },
+    {
+      "title": "KunstlerCast 456 \u2014 Attorney Bobbie Anne Cox on the Rogues Gallery of New York State Politics",
+      "description": "Full transcript: tap Transcript under the audio player.",
+      "url": "https://www.kunstler.com/p/kunstlercast-456-attorney-bobbie",
+      "source": "Kunstler.com",
+      "date": "2026-11-19",
+      "image": "https://substack-video.s3.amazonaws.com/video_upload/post/225670225/df86abd5-668d-4b01-ae55-78ddadd15d06/transcoded-1795103544.png",
+      "category": "market"
     },
     {
       "title": "From a Surface Pro to a Tiny Home, These 5 Designs Put Purple Front and Center",
@@ -306,103 +315,94 @@
       "category": "supply_demand"
     },
     {
-      "title": "Gold was at Rs 1.81 lakh at the start of 2026, and now it has crashed almost 29% to Rs 1.29 lakh per 10 grams; why is gold falling and how much more will it drop?",
-      "description": "Gold futures edged down by Rs 44 to Rs 1,29,770 per 10 grams on Thursday, as demand in the spot market remained subdued. On the Multi Commodity Exchange (MCX), gold contracts for December delivery slipped Rs 44, or 0.03%, to Rs 1,29,770 per 10 grams. The cont\u2026",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-was-at-rs-1-81-lakh-at-the-start-of-2026-and-now-it-has-crashed-almost-29-to-rs-1-29-lakh-per-10-grams-why-is-gold-falling-and-how-much-more-will-it-drop/articleshow/135981326.cms",
-      "source": "The Times of India",
+      "title": "Iran\u2019s \u2018Boiling Frog\u2019 Strategy",
+      "description": "Why Tehran believes its strategy to hurt the West is working.",
+      "url": "https://foreignpolicy.com/2026/11/19/iran-war-us-strikes-dirty-bomb-trump-congress-democrats-vali-nasr/",
+      "source": "Foreign Policy",
       "date": "2026-11-19",
-      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135982266/135982266.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "S&P 500 slips negative as Wall Street braces for Anthropic\u2019s ANT debut",
-      "description": "Anthropic's IPO highlights the growing influence of AI firms in financial markets, potentially reshaping investment strategies and market dynamics.\nThe post S&P 500 slips negative as Wall Street braces for Anthropic\u2019s ANT debut appeared first on Crypto Briefi\u2026",
-      "url": "https://cryptobriefing.com/sp-500-negative-anthropic-ant-ipo/",
-      "source": "Crypto Briefing",
-      "date": "2026-11-19",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/19103524/library-s-p-500-slips-negative-as-wall-street-braces-for-anthrop-800x450.jpg",
+      "image": "https://foreignpolicy.com/wp-content/uploads/2026/11/GettyImages-2302492589-e1794332921921.jpg?resize=1200,1200",
       "category": "market"
     },
     {
-      "title": "Raine\u2019s Joe Ravitch Talks Growth Strategies For Arab Film & TV: \u201cIt\u2019s Not About Getting Tom Cruise To Shoot His Movie\u201d \u2013 Industry Days Doha",
-      "description": "Veteran global entertainment investor and advisor Joe Ravitch told an industry panel in Doha on Thursday that he believes the Arab world has the potential to follow in the footsteps of the likes of Korea and China to become the next big thing in content creat\u2026",
-      "url": "https://deadline.com/2026/11/raines-joe-ravitch-strategies-arab-content-1237228966/",
-      "source": "Deadline",
+      "title": "Trilateral summit high on spectacle, short on substance",
+      "description": "The visuals of the historic trilateral meeting may be the only lasting impression left by the summit.",
+      "url": "https://www.bbc.co.uk/news/articles/cwn70vrjlg8ro",
+      "source": "BBC News",
       "date": "2026-11-19",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/Joe-Ravitch.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/88a9/live/a5990840-e437-11f1-8346-933d3547e297.jpg",
       "category": "market"
     },
     {
-      "title": "Ha\u00efti\u00a0: l\u2019intervention militaire de Bukele, premier test \u00e0 l\u2019\u00e9tranger de sa m\u00e9thode contre les\u00a0gangs",
-      "description": "Le Salvador a d\u00e9ploy\u00e9 2\u00a0500\u00a0soldats en Ha\u00efti. Applaudie par une partie de la population ha\u00eftienne exc\u00e9d\u00e9e par la violence des gangs, l\u2019intervention pose toutefois de nombreuses questions.",
-      "url": "https://theconversation.com/ha-ti-lintervention-militaire-de-bukele-premier-test-a-letranger-de-sa-methode-contre-les-gangs-296691",
-      "source": "The Conversation Africa",
+      "title": "Trump China summit with Putin and Xi high on spectacle",
+      "description": "The visuals of the historic trilateral meeting may be the only lasting impression left by the summit.",
+      "url": "https://www.bbc.com/news/articles/cwn70vrjlg8ro",
+      "source": "BBC News",
       "date": "2026-11-19",
-      "image": "https://images.theconversation.com/files/772981/original/file-20261119-64-b2hiwx.jpg?ixlib=rb-4.1.1&rect=0%2C1333%2C5397%2C2698&q=45&auto=format&w=1356&h=668&fit=crop",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/88a9/live/a5990840-e437-11f1-8346-933d3547e297.jpg",
       "category": "market"
     },
     {
-      "title": "Study: Muslims on Track to Outnumber Christians Globally by 2035",
-      "description": "Islam is destined to be the largest religion in the world by 2035 with its followers projected to far outnumber Christians. Religious and ethnographic dominance by Muslims is being\u00a0driven by a markedly higher birth rate, a Pew Research Centre study released W\u2026",
-      "url": "https://www.breitbart.com/europe/2026/11/19/study-muslims-on-track-to-outnumber-christians-globally-by-2035/",
-      "source": "Breitbart News",
+      "title": "As US, China and Russia redraw the global order, India needs new strategic partnerships",
+      "description": "India is actively developing its strategic relations with Japan and the EU to respond to global changes. The upcoming EU-India Free Trade Agreement and Horizon Europe pact aim to strengthen collaboration on technology and trade. Additionally, the reactivated \u2026",
+      "url": "https://m.economictimes.com/opinion/et-commentary/as-us-china-and-russia-redraw-the-global-order-india-needs-new-strategic-partnerships/articleshow/136001509.cms",
+      "source": "Economictimes.com",
       "date": "2026-11-19",
-      "image": "https://media.breitbart.com/media/2026/11/muslim-birth-rates-640x335.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Broadcom passes Saudi Aramco to become the world\u2019s eighth most valuable company",
-      "description": "Broadcom's rise highlights tech's growing dominance over traditional sectors, emphasizing the volatile nature of market valuations.\nThe post Broadcom passes Saudi Aramco to become the world\u2019s eighth most valuable company appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/broadcom-passes-saudi-aramco-market-value/",
-      "source": "Crypto Briefing",
-      "date": "2026-11-19",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/19103352/library-broadcom-passes-saudi-aramco-to-become-the-world-s-eight-800x450.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Luca Guadagnino and Andrew Garfield Get Real About 'Artificial'",
-      "description": "Luca Guadagnino\u2019s anxiety-inducing OpenAI origin story is the opposite of slop. We got a full download from the sensualist director and his stars: Yura Borisov, who plays idealistic engineer Ilya Sutskever, and Andrew Garfield, who plays a very slippery Sam A\u2026",
-      "url": "https://www.vanityfair.com/story/artficial-luca-guadagnino-andrew-garfield",
-      "source": "Vanity Fair",
-      "date": "2026-11-19",
-      "image": "https://media.vanityfair.com/photos/6afdd58814d188f64f82a0d4/16:9/w_2000,h_1125,c_limit/122026_Artificial01.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Anthropic excludes China, Hong Kong from IPO amid US export-control concerns",
-      "description": "Anthropic's IPO exclusion highlights escalating geopolitical tensions, potentially reshaping global AI investment landscapes and market dynamics.\nThe post Anthropic excludes China, Hong Kong from IPO amid US export-control concerns appeared first on Crypto Br\u2026",
-      "url": "https://cryptobriefing.com/anthropic-excludes-china-hong-kong-from-ipo-amid-us-export-control-concerns/",
-      "source": "Crypto Briefing",
-      "date": "2026-11-19",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/19103314/cb-image-yfAfAsbW-800x450.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Pensions, jobs and tax: What Ireland has riding on the AI boom",
-      "description": "As the ECB warns that high hopes for AI profits and rising borrowing could leave share and bond markets exposed, what's at stake for Ireland's pensions, jobs and tax receipts if the boom falters?",
-      "url": "https://www.rte.ie/news/primetime/2026/1119/1599884-pensions-jobs-and-tax-what-ireland-has-riding-on-the-ai-boom/",
-      "source": "RTE",
-      "date": "2026-11-19",
-      "image": "https://www.rte.ie/images/00255ee0-1600.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Elon Musk Thinks You\u2019re Dumb Enough to Believe He\u2019s \u201cNot MAGA\u201d",
-      "description": "After spending the last several years licking Donald Trump\u2019s boots with full-throated zeal, Elon Musk is apparently banking on a collective amnesia so stupifying that the public will believe him when he claims that he is \u201cnot MAGA.\u201d \u201cI mean, I\u2019m not MAGA,\u201d Mu\u2026",
-      "url": "https://www.motherjones.com/politics/2026/11/elon-musk-thinks-youre-dumb-enough-to-believe-hes-not-maga/",
-      "source": "Mother Jones",
-      "date": "2026-11-19",
-      "image": "https://www.motherjones.com/wp-content/uploads/2026/11/musk.jpg?w=1200&h=630&crop=1",
-      "category": "market"
-    },
-    {
-      "title": "Rand sinks to weakest level in more than a year",
-      "description": "The South African rand continues to come under pressure against the US dollar, weakening to R17.35 in early trade \u2013 its lowest level in nearly a year.",
-      "url": "https://www.enca.com/business/rand-sinks-weakest-level-more-year",
-      "source": "eNCA",
-      "date": "2026-11-19",
-      "image": "https://www.enca.com/sites/default/files/styles/large/public/2026-06/Screenshot%202026-06-05%20181335_0.png.webp?itok=IowPsqER",
+      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-189588,resizemode-75,msid-136001509/opinion/et-commentary/as-us-china-and-russia-redraw-the-global-order-india-needs-new-strategic-partnerships.jpg",
       "category": "currency"
+    },
+    {
+      "title": "Xi-Trump-Putin summit: What did it achieve?",
+      "description": "The presidents of China, the US and Russia have held an unprecedented summit. While Trump said the three leaders were \"making history,\" Xi described the talks as \"fruitful,\" and Putin called them \"open and candid.\" Chinese President Xi Jinping hosted US Presi\u2026",
+      "url": "https://www.dw.com/en/xi-trump-putin-summit-what-did-it-achieve/a-79996668",
+      "source": "DW (English)",
+      "date": "2026-11-19",
+      "image": "https://static.dw.com/image/79991902_804.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Xi Jinping, Donald Trump and Vladimir Putin have held trilateral talks \u2015 but what did they achieve?",
+      "description": "The presidents of China, the US and Russia have held an unprecedented summit. While Trump said the three leaders were \"making history,\" Xi described the talks as \"fruitful\" and Putin called them \"open and candid.\" Chinese President Xi Jinping hosted US Presid\u2026",
+      "url": "https://www.dw.com/en/xi-jinping-donald-trump-and-vladimir-putin-have-held-trilateral-talks-but-what-did-they-achieve/a-79996668",
+      "source": "DW (English)",
+      "date": "2026-11-19",
+      "image": "https://static.dw.com/image/79991902_804.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Watch: Cincinnati Zoo Says No Surgery For Hippo That Swallowed Hat",
+      "description": "Fiona the hippo is under around-the-clock care at the Cincinnati Zoo after swallowing a visitor's knit hat that accidentally blew into her enclosure. \nThe nine-year-old hippo, who captured global hearts following her premature birth in 2017, underwent a colon\u2026",
+      "url": "https://biztoc.com/x/7dcb6f5287a247c9",
+      "source": "Biztoc.com",
+      "date": "2026-11-19",
+      "image": "https://cdn.biztoc.com/7dcb6f5287a247c9_s.webp",
+      "category": "market"
+    },
+    {
+      "title": "\u2018Declaration toward Peace\u2019: Trump confirms U.S., China, Russia will seek reduction in \u2018nuclear risks\u2019",
+      "description": "Plan also addresses another concern president has expressed: Bias at the United Nations",
+      "url": "https://www.wnd.com/2026/11/declaration-toward-peace-trump-confirms-u-s-china/",
+      "source": "Wnd.com",
+      "date": "2026-11-19",
+      "image": "https://www.wnd.com/wp-content/uploads/2026/11/trump-xi-putin26-1200x630.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Second Amendment Org Sues New Mexico After State Defies Court Ruling On Gun Waiting Period",
+      "description": "A pro-Second Amendment organization took New Mexico to court Wednesday, accusing it of defying a federal appeals court.",
+      "url": "https://dailycaller.com/2026/11/19/blue-state-sued-after-defying-court-ruling-on-waiting-period/",
+      "source": "The Daily Caller",
+      "date": "2026-11-19",
+      "image": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https%3A%2F%2Fcdn01.dailycaller.com%2Fwp-content%2Fuploads%2F2026%2F11%2FDCNF%2520-%25202A%2520NM%2520Waiting%2520Lawsuit%2520-%2520Featured.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Upset diner baffled by surprise tip on her $300 bill \u2014 and blames the restaurant for a misleading menu",
+      "description": "She read the fine print. She knew how to count. Yet somehow, the math wasn't adding up.",
+      "url": "https://nypost.com/2026/11/19/lifestyle/nj-mom-slams-restaurant-over-surprise-18-auto-gratuity-on-300-bill/",
+      "source": "New York Post",
+      "date": "2026-11-19",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/149382821.jpg?quality=75&strip=all&w=1200",
+      "category": "market"
     }
   ],
   "history": [
@@ -547,7 +547,7 @@
       "platinum_usd_oz": 1551.08
     }
   ],
-  "timestamp": "2026-11-20T21:09:49.131378+05:30",
+  "timestamp": "2026-11-20T23:25:59.466490+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
