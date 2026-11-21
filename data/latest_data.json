@@ -1,0 +1,556 @@
+{
+  "prices": {
+    "gold": {
+      "price_per_gram_inr": 12431.25,
+      "price_usd_oz": 4110.88,
+      "change_percent": 0.96,
+      "change_value_usd": 39.2,
+      "price_per_10g_inr": 124312.48
+    },
+    "silver": {
+      "price_per_gram_inr": 159.63,
+      "price_usd_oz": 52.79,
+      "change_percent": 1.62,
+      "change_value_usd": 0.84,
+      "price_per_kg_inr": 159630.43
+    },
+    "platinum": {
+      "price_per_gram_inr": 4690.45,
+      "price_usd_oz": 1551.08,
+      "change_percent": 0.78,
+      "change_value_usd": 12.08
+    },
+    "currencies": {
+      "USD_INR": 94.0567,
+      "EUR_INR": 104.8687,
+      "GBP_INR": 125.677,
+      "JPY_INR": 0.594,
+      "CHF_INR": 114.7453,
+      "AUD_INR": 64.6127,
+      "CAD_INR": 66.6313,
+      "SGD_INR": 73.3157
+    },
+    "gold_silver_ratio": 77.88,
+    "timestamp": "2026-11-09T11:54:14.425351",
+    "source": "GoldAPI"
+  },
+  "currencies": {
+    "USD_INR": 94.0567,
+    "EUR_INR": 104.8687,
+    "GBP_INR": 125.677,
+    "JPY_INR": 0.594,
+    "CHF_INR": 114.7453,
+    "AUD_INR": 64.6127,
+    "CAD_INR": 66.6313,
+    "SGD_INR": 73.3157
+  },
+  "analysis": {
+    "gold": {
+      "metal": "gold",
+      "recommendation": "BUY",
+      "confidence": {
+        "buy": 65,
+        "sell": 10,
+        "hold": 25
+      },
+      "summary": "Gold is showing positive signals. Positive daily movement of 1.0%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
+      "timestamp": "2026-11-21T14:50:11.633306",
+      "source": "rule-based"
+    },
+    "silver": {
+      "metal": "silver",
+      "recommendation": "BUY",
+      "confidence": {
+        "buy": 65,
+        "sell": 10,
+        "hold": 25
+      },
+      "summary": "Silver is showing positive signals. Strong daily gain of 1.6%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
+      "timestamp": "2026-11-21T14:50:11.698227",
+      "source": "rule-based"
+    },
+    "platinum": {
+      "metal": "platinum",
+      "recommendation": "BUY",
+      "confidence": {
+        "buy": 65,
+        "sell": 10,
+        "hold": 25
+      },
+      "summary": "Platinum is showing positive signals. Positive daily movement of 0.8%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
+      "timestamp": "2026-11-21T14:50:11.752358",
+      "source": "rule-based"
+    }
+  },
+  "technical": {
+    "gold": {
+      "trend": "bearish",
+      "strength": 25,
+      "signals": [
+        "Price above 4-week moving average (bullish)",
+        "Price below 12-week moving average (bearish)",
+        "Short-term MA below long-term MA (downtrend)",
+        "Weak momentum: -4.5% in 4 weeks"
+      ],
+      "support": 118437.13,
+      "resistance": 134616.17,
+      "current_price": 124312.48,
+      "ma_short": 124037.7,
+      "ma_long": 128163.91,
+      "trend_score": -2.0
+    },
+    "silver": {
+      "trend": "bearish",
+      "strength": 6,
+      "signals": [
+        "Price below 4-week moving average (bearish)",
+        "Price below 12-week moving average (bearish)",
+        "Short-term MA below long-term MA (downtrend)",
+        "Weak momentum: -14.9% in 4 weeks",
+        "Near support \u2014 potential buy zone"
+      ],
+      "support": 150153.09,
+      "resistance": 210317.38,
+      "current_price": 159630.43,
+      "ma_short": 163652.38,
+      "ma_long": 183379.67,
+      "trend_score": -3.5
+    },
+    "platinum": {
+      "trend": "bearish",
+      "strength": 0,
+      "signals": [
+        "Price below 4-week moving average (bearish)",
+        "Price below 12-week moving average (bearish)",
+        "Short-term MA below long-term MA (downtrend)",
+        "Weak momentum: -10.4% in 4 weeks"
+      ],
+      "support": 4387.55,
+      "resistance": 5662.91,
+      "current_price": 4690.45,
+      "ma_short": 4743.03,
+      "ma_long": 5106.74,
+      "trend_score": -4.0
+    }
+  },
+  "news": [
+    {
+      "title": "AI to lead investment strategy in 2027; Energy and borrowing costs shape macro outlook: Barclays",
+      "description": "According to the latest report from Barclays Private Bank, the impending year 2027 calls for a stronger investment focus on artificial intelligence. While infrastructure is steadily developing, the rising costs of debt financing could negatively impact the economics of these projects. The report war",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ai-to-lead-investment-strategy-in-2027-energy-and-borrowing-costs-shape-macro-outlook-barclays/articleshow/136046648.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-11-21",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "US Treasury yields drop for day and week; AI trade concern spurs safe-haven bid",
+      "description": "US Treasury yields experienced a significant decline due to heightened investor concerns surrounding the AI trade. As a result, investors shifted their focus towards safe-haven assets such as Treasury securities. The yield on the 10-year Treasury note fell below 5% for the first time in several mont",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/us-treasury-yields-drop-for-day-and-week-ai-trade-concern-spurs-safe-haven-bid/articleshow/136045682.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-11-21",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Dollar weaker as Fed-fueled rally stalls; lower US yields help yen",
+      "description": "The US dollar has encountered a modest downturn, sliding to 103.86 as investor confidence wavers in the currency market. Despite this pullback, traders expect the Federal Reserve to maintain a hawkish stance in upcoming statements. Concurrently, Bitcoin has dipped below the $60,000 mark, sparking co",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-weaker-as-fed-fueled-rally-stalls-lower-us-yields-help-yen/articleshow/136045620.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-11-21",
+      "image": "",
+      "category": "central_bank"
+    },
+    {
+      "title": "Crude prices may normalise to USD 70 by end-2027 as global oil market moves into surplus: Report",
+      "description": "Global crude oil prices are projected to normalize around USD 70 per barrel by the end of 2027. Rising non-OPEC+ supplies and declining Chinese oil demand are expected to lead to a market surplus. Refining margins are likely to remain elevated in the near term before gradual normalization occurs. Ge",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/crude-prices-may-normalise-to-usd-70-by-end-2027-as-global-oil-market-moves-into-surplus-report/articleshow/136045576.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-11-21",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Gold (XAUUSD), Silver, Platinum Forecasts \u2013 Gold Tests New Lows Amid Panic In Markets - FXEmpire",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNSHlkVV92b21POWFZanFRbHlZQVFOSktkVmx1Smltcm1OZGIyQVpVbUNJcTBGYWdFZnNWT1BkdzRqSHFLRnRrNlRDZUpLZlNVcWxoTXdDM2JBVkRaOF9aNkw1ZG92U3E4d3JTb0dZZW1rU0hJWUVzOGVTRm51YldseHkxNk5CTDVEZ0tzb1BlVExYT25QUlZibEZaVktlRU9GbXVvLVFjbENXUlcwakVXM1RwU0Z3VVZOV1",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSHlkVV92b21POWFZanFRbHlZQVFOSktkVmx1Smltcm1OZGIyQVpVbUNJcTBGYWdFZnNWT1BkdzRqSHFLRnRrNlRDZUpLZlNVcWxoTXdDM2JBVkRaOF9aNkw1ZG92U3E4d3JTb0dZZW1rU0hJWUVzOGVTRm51YldseHkxNk5CTDVEZ0tzb1BlVExYT25QUlZibEZaVktlRU9GbXVvLVFjbENXUlcwakVXM1RwU0Z3VVZOV1hhYlZHSUN5cWoyVVlOSGNn?oc=5",
+      "source": "Google News - Precious Metals",
+      "date": "2026-11-21",
+      "image": "",
+      "category": "currency"
+    },
+    {
+      "title": "Gold and other precious metals prices fall sharply - Apa.az",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHpaNjRiVUlEWk1YQzVVc200TVZ2QjNpXzdTbGktYm1ybHpIYmZCQjJnODR0Vlh4Z18zUUlwUF9wYy1RQ0JFTWhOaGY2cFA5eXJiZy1MNkpkc3RYZFA3VFVYZHc5cnN0N0dXUHdPa2xwd0ZvX0EwRGhOd25QNk1ad253dDZQZGxwbkE?oc=5\" target=\"_blank\">Gold and other precious metals prices fa",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHpaNjRiVUlEWk1YQzVVc200TVZ2QjNpXzdTbGktYm1ybHpIYmZCQjJnODR0Vlh4Z18zUUlwUF9wYy1RQ0JFTWhOaGY2cFA5eXJiZy1MNkpkc3RYZFA3VFVYZHc5cnN0N0dXUHdPa2xwd0ZvX0EwRGhOd25QNk1ad253dDZQZGxwbkE?oc=5",
+      "source": "Google News - Precious Metals",
+      "date": "2026-11-21",
+      "image": "",
+      "category": "metals"
+    },
+    {
+      "title": "Bitcoin suffered identical sell-off pattern ahead of Anthropic, SpaceX IPOs \u2014 what happens next?",
+      "description": "With Anthropic now public, investors are watching to see whether bitcoin and ether find a floor, and if institutional demand returns.",
+      "url": "https://www.cnbc.com/2026/11/20/bitcoin-pre-ipo-selloff-pattern-anthropic-spacex.html",
+      "source": "CNBC",
+      "date": "2026-11-20",
+      "image": "https://image.cnbcfm.com/api/v1/image/108268517-1771860022960-gettyimages-2260490322-AFP_96YR6Q2.jpeg?v=1789476137&w=1200&h=675",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Gold price crash: From Rs 1.80 lakh to below Rs 1.25 lakh, will gold now plunge to Rs 1 lakh per 10 gms?",
+      "description": "Gold started falling in January as investors booked profit, but before it could find its equilibrium, the US-Iran war triggered another crash. Analysts say that the recent decline reflects a combination of profit-booking, liquidation of leveraged positions, c\u2026",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-crash-from-rs-1-80-lakh-to-below-rs-1-25-lakh-will-gold-now-plunge-to-rs-1-lakh-per-10-gms/articleshow/136027967.cms",
+      "source": "The Times of India",
+      "date": "2026-11-20",
+      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136030311/136030311.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "NPS retirement planning: Active Choice or Auto Choice? Which can help you maximise your corpus over 20 years?",
+      "description": "NPS subscribers aged 35 can choose Active Choice to maintain higher equity exposure or Auto Choice to reduce risk as they age. Here is how the two options differ and which approach could help build a larger retirement corpus over 20 years.",
+      "url": "https://www.livemint.com/money/personal-finance/nps-retirement-planning-active-choice-or-auto-choice-which-can-help-you-maximise-your-corpus-over-20-years-11795182131914.html",
+      "source": "Livemint",
+      "date": "2026-11-20",
+      "image": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/Gemii_Generated_Image_my4bibmy4bibmy4b_179518226_1795182275002_PjAF_1795182275322_Poij_6043b939-e9fc-4511-b0f1-dd2ea8a2723a_mTZ8.png",
+      "category": "market"
+    },
+    {
+      "title": "7 Best Brad Pitt Crime Thriller Movies, Ranked Worst To Best",
+      "description": "Collaborations with David Fincher, the Coen Brothers, and Guy Ritchie push Brad Pitt into unsettling intensity and deadpan crime thriller gold.",
+      "url": "https://screenrant.com/best-brad-pitt-crime-thriller-movies-ranked/",
+      "source": "Screen Rant",
+      "date": "2026-11-20",
+      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/09/brad-pitt-as-cliff-booth.jpg?w=1600&h=900&fit=crop",
+      "category": "metals"
+    },
+    {
+      "title": "1 table, 3 egos, 4 promises: Trump, Xi & Putin sit down to set the world straight",
+      "description": "This week, we are tracking: The world's most powerful trio: A peace declaration, big promises and India's dilemma Wall Street's new AI darling:",
+      "url": "https://timesofindia.indiatimes.com/toi-blogs/toi-newsletters/from-the-editors-desk/1-table-3-egos-4-promises-trump-xi-putin-sit-down-to-set-the-world-straight/articleshow/136026573.cms",
+      "source": "The Times of India",
+      "date": "2026-11-20",
+      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136026589/136026589.jpg",
+      "category": "market"
+    },
+    {
+      "title": "The Other Summitry in Shenzhen",
+      "description": "The leaders of Chile, Mexico, and Peru also made high-stakes visits to China this week.",
+      "url": "https://foreignpolicy.com/2026/11/20/apec-summit-chile-mexico-peru-china-xi/",
+      "source": "Foreign Policy",
+      "date": "2026-11-20",
+      "image": "https://foreignpolicy.com/wp-content/uploads/2026/11/Claudia-Sheinbam-Xi-Jinping-GettyImages-2305259908.jpg?resize=1200,1200",
+      "category": "market"
+    },
+    {
+      "title": "Hazaribag police probe hotel shooting linked to Rahul Dubey gang",
+      "description": "Hazaribag police probe hotel firing in Sardarpur; no injuries. Rahul Dubey gang pamphlet found as raids, CCTV review continue amid recent attacks.",
+      "url": "https://timesofindia.indiatimes.com/city/ranchi/hazaribag-police-probe-hotel-shooting-linked-to-rahul-dubey-gang/articleshow/136026376.cms",
+      "source": "The Times of India",
+      "date": "2026-11-20",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-136026375/136026375.jpg",
+      "category": "market"
+    },
+    {
+      "title": "The AI Billionaire Club Just Got 1 Ashton Kutcher Bigger",
+      "description": "The actor\u2019s $435 million investment in Anthropic paid off.",
+      "url": "https://www.jezebel.com/ashton-kutcher-anthropic-ipo-billionaire-investment",
+      "source": "Jezebel",
+      "date": "2026-11-20",
+      "image": "https://www.jezebel.com/wp-content/uploads/2026/11/20/ashton-feat.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Waterdrop Filter\u2019s Black Friday sale brings big savings on under-sink, countertop, and whole-home systems",
+      "description": "Black Friday is one of the best times of the year to tackle some of the bigger upgrades around your...",
+      "url": "https://9to5google.com/2026/11/20/waterdrop-filters-black-friday-sale-brings-big-savings-on-under-sink-countertop-and-whole-home-systems/",
+      "source": "9to5google.com",
+      "date": "2026-11-20",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "Bengal can emerge as eastern India\u2019s manufacturing hub: Report",
+      "description": "Primus Partners-ASSOCHAM report says West Bengal can become an eastern manufacturing and export hub, urging tech-led value addition and 10 reforms to boost competitiveness.",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/bengal-can-emerge-as-eastern-indias-manufacturing-hub-report/articleshow/136029726.cms",
+      "source": "The Times of India",
+      "date": "2026-11-20",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-47529300/47529300.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "The Miracle Metal: How Titanium Got Into Your Pocket",
+      "description": "The late 1950s. In a Soviet metals export office, a telex clatters out an order. A...\nThe post The Miracle Metal: How Titanium Got Into Your Pocket appeared first on Carryology.",
+      "url": "https://www.carryology.com/liking/the-miracle-metal-how-titanium-got-into-your-pocket/",
+      "source": "Carryology.com",
+      "date": "2026-11-20",
+      "image": "https://www.carryology.com/wp-content/uploads/2026/11/titanium-primer.png",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Augusta Precious Metals Named Winner Of Best Place To Buy/Invest In Gold & Silver At The 2026 Benzinga Awards",
+      "description": "DETROIT, 11/20/2026/PRNewswire/ \u2014 Benzinga today announced Augusta Precious Metals as the winner of Best Place to Buy/Invest In Gold & Silver in the 2026 Benzinga Awards, recognizing excellence and innovation across",
+      "url": "https://biztoc.com/x/918219d2f828f048",
+      "source": "Biztoc.com",
+      "date": "2026-11-20",
+      "image": "https://cdn.biztoc.com/918219d2f828f048_s.webp",
+      "category": "geopolitics"
+    },
+    {
+      "title": "If",
+      "description": "\u201cThey\u2019re signaling deep \u2018structural reform\u2019 everywhere \u2014 meaning, they fully intend to end our republic.\u201d \u2014Data Republican on X",
+      "url": "https://www.kunstler.com/p/if",
+      "source": "Kunstler.com",
+      "date": "2026-11-20",
+      "image": "https://substackcdn.com/image/fetch/$s_!nhuT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F81eeae17-5c02-4bb1-bee3-6be017d140ec_700x485.heic",
+      "category": "market"
+    },
+    {
+      "title": "Gold falls below $3,650, silver tumbles as Fed rate concerns pressure metals - Kitco PM Report",
+      "description": "Spot gold and silver prices were sharply lower in late U.S. trading Thursday, extending their recent selloff as expectations for further Federal Reserve interest rate increases, a firm U.S. dollar and another sharp decline in North American equity markets pre\u2026",
+      "url": "https://biztoc.com/x/54bd9dac64f73ff7",
+      "source": "Biztoc.com",
+      "date": "2026-11-20",
+      "image": "https://cdn.biztoc.com/54bd9dac64f73ff7_s.webp",
+      "category": "central_bank"
+    },
+    {
+      "title": "Texas appeals court restores $630,603 award in family dispute over mother's gold and silver coins",
+      "description": "In a surprising turn of events, a Texas appeals court has reinstated a jury's decision in a contentious family dispute over valuable gold and silver coins. These coins were allegedly removed from their ailing mother's safe by her sons under the pretext of han\u2026",
+      "url": "https://timesofindia.indiatimes.com/world/us/a-texas-woman-alleged-her-three-brothers-divided-gold-and-silver-coins-from-their-mothers-safe-while-she-was-in-hospice-a-jury-valued-the-coins-at-630603-and-a-november-19-appeals-court-restored-its-damages-finding/articleshow/136024993.cms",
+      "source": "The Times of India",
+      "date": "2026-11-20",
+      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136025274/136025274.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Daraxonrasib With Chemotherapy Shrank Tumors in 60.7% of Patients Starting Treatment for Metastatic Pancreatic Cancer in Early Trial",
+      "description": "An early trial found that daraxonrasib combined with chemotherapy shrank tumors in 60.7% of patients with metastatic pancreatic cancer, but the study lacked a control group.",
+      "url": "https://www.medicaldaily.com/daraxonrasib-chemotherapy-first-line-pancreatic-cancer-early-trial-481513",
+      "source": "Medical Daily",
+      "date": "2026-11-20",
+      "image": "https://d.medicaldaily.com/en/full/488900/cancer-treatment-progress.jpg?w=1600&h=900&q=88&f=caee48a9eebb86eb5dcfcda0b28fa85b",
+      "category": "market"
+    },
+    {
+      "title": "India ranks second to the US for share of companies expanding tech teams to support AI growth, study finds",
+      "description": "India is experiencing a significant increase in AI hiring, ranking second globally among surveyed countries. Companies are increasingly depending on flexible workers to address critical AI skill shortages. Many organizations are investing in training for thei\u2026",
+      "url": "https://timesofindia.indiatimes.com/technology/aiq/india-ranks-second-to-the-us-for-share-of-companies-expanding-tech-teams-to-support-ai-growth-study-finds/articleshow/136030918.cms",
+      "source": "The Times of India",
+      "date": "2026-11-20",
+      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136030952/136030952.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Working on zero wastewater discharge projects: Ecolab's Mukul Girotra",
+      "description": "Ecolab is developing pilot projects to reduce wastewater discharge from semiconductor and electronics plants, while focusing on recycling and reusing ultra-pure water.",
+      "url": "https://www.business-standard.com/industry/news/working-on-zero-wastewater-discharge-projects-ecolab-s-mukul-girotra-126112001196_1.html",
+      "source": "Business Standard",
+      "date": "2026-11-20",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/20/full/1795185987-7178.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Making Earth Cool Again",
+      "description": "Climate multilateralism is evolving into a two-tiered system in which high-level negotiations toward shared commitments and the real-world implementation of climate solutions become more mutually supportive. Only by unleashing such virtuous cycles can we keep\u2026",
+      "url": "https://www.project-syndicate.org/commentary/global-climate-processes-emphasizing-implementation-not-a-moment-too-soon-by-andre-correa-do-lago-and-tulio-andrade-2026-11",
+      "source": "Project Syndicate",
+      "date": "2026-11-20",
+      "image": "https://webapi.project-syndicate.org/library/51f838b813dda0b73c8973b06e8da813.2-1-super.1.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "GPD launching new handheld for $1,699 with 32 GB RAM and Intel Panther Lake",
+      "description": "GPD has finally confirmed global pricing for its Win Mini Ultra handheld. Blaming rising memory prices, GPD warns that 'there\u2019s no telling how wild prices will get' could get for its first Intel Panther Lake-based gaming handheld.",
+      "url": "https://www.notebookcheck.net/GPD-launching-new-handheld-for-1-699-with-32-GB-RAM-and-Intel-Panther-Lake.1455275.0.html",
+      "source": "Notebookcheck.net",
+      "date": "2026-11-20",
+      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/gpd-win-mini-ultra-pricing-kv.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "USA Sour Crude's War Premium Vanishes",
+      "description": "The price of U.S. sour oil has plunged.",
+      "url": "https://www.rigzone.com/news/wire/usa_sour_crudes_war_premium_vanishes-20-nov-2026-185138-article/",
+      "source": "Rigzone",
+      "date": "2026-11-20",
+      "image": "https://images.rigzone.com/images/news/articles/USA-Sour-Crudes-War-Premium-Vanishes-185138-1200x628.png",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Hockey-Themed Slots and Sports Culture in Canada",
+      "description": "Hockey holds a place in Canadian life that few pastimes reach anywhere else. The National Sports of Canada Act of 1994 named it the country\u2019s official winter sport, kids grow up skating on backyard rinks, and Saturday nights have meant Hockey Night in Canada \u2026",
+      "url": "https://androidguys.com/promoted-news/hockey-themed-slots-and-sports-culture-in-canada/",
+      "source": "AndroidGuys",
+      "date": "2026-11-20",
+      "image": "https://i0.wp.com/androidguys.com/wp-content/uploads/2026/11/hockey-slots-hero.webp?fit=1920%2C960&ssl=1",
+      "category": "market"
+    },
+    {
+      "title": "Ukraine Hockey Official Says IIHF Tried to Quietly Reinstate Russia",
+      "description": "He told FOS he believes U.S. silence is due to political pressure.",
+      "url": "https://frontofficesports.com/article/ukraine-ice-hockey-iihf-cas-russia/",
+      "source": "Frontofficesports.com",
+      "date": "2026-11-20",
+      "image": "https://s.yimg.com/lo/mysterio/api/50604b9f8239aef1f523503f8be62b46bba42fe1319981c21949e3e82fefdbcf/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffront_office_sports_190%2F6fc25100cd7fc35741b244f5736b2c72.jpg_up.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Coinbase Institutional: US dollar was the lone gainer as Bitcoin and Ethereum led monthly losses",
+      "description": "Crypto market volatility highlights investor preference for stability, with institutions consolidating into perceived safer assets like Bitcoin.\nThe post Coinbase Institutional: US dollar was the lone gainer as Bitcoin and Ethereum led monthly losses appeared\u2026",
+      "url": "https://cryptobriefing.com/coinbase-institutional-dollar-bitcoin-ethereum-losses/",
+      "source": "Crypto Briefing",
+      "date": "2026-11-20",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/20094805/library-coinbase-institutional-us-dollar-was-the-lone-gainer-as--800x450.jpg",
+      "category": "currency"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-05-15",
+      "week": "2026-W20",
+      "gold_10g": 140736.5,
+      "silver_kg": 243170.57,
+      "platinum_g": 6206.5,
+      "gold_usd_oz": 4568.35,
+      "silver_usd_oz": 78.93,
+      "platinum_usd_oz": 2014.65
+    },
+    {
+      "date": "2026-06-07",
+      "week": "2026-W23",
+      "gold_10g": 132593.54,
+      "silver_kg": 207602.87,
+      "platinum_g": 5449.55,
+      "gold_usd_oz": 4328.87,
+      "silver_usd_oz": 67.78,
+      "platinum_usd_oz": 1779.15
+    },
+    {
+      "date": "2026-06-09",
+      "week": "2026-W24",
+      "gold_10g": 133318.07,
+      "silver_kg": 210317.38,
+      "platinum_g": 5419.88,
+      "gold_usd_oz": 4331.37,
+      "silver_usd_oz": 68.33,
+      "platinum_usd_oz": 1760.87
+    },
+    {
+      "date": "2026-07-05",
+      "week": "2026-W27",
+      "gold_10g": 127936.35,
+      "silver_kg": 191162.72,
+      "platinum_g": 5033.18,
+      "gold_usd_oz": 4175.01,
+      "silver_usd_oz": 62.38,
+      "platinum_usd_oz": 1642.5
+    },
+    {
+      "date": "2026-07-09",
+      "week": "2026-W28",
+      "gold_10g": 126264.96,
+      "silver_kg": 181656.12,
+      "platinum_g": 4961.56,
+      "gold_usd_oz": 4107.77,
+      "silver_usd_oz": 59.1,
+      "platinum_usd_oz": 1614.14
+    },
+    {
+      "date": "2026-08-02",
+      "week": "2026-W31",
+      "gold_10g": 124137.93,
+      "silver_kg": 176726.94,
+      "platinum_g": 5060.13,
+      "gold_usd_oz": 4043.21,
+      "silver_usd_oz": 57.56,
+      "platinum_usd_oz": 1648.1
+    },
+    {
+      "date": "2026-08-09",
+      "week": "2026-W32",
+      "gold_10g": 132963.64,
+      "silver_kg": 194759.63,
+      "platinum_g": 5359.45,
+      "gold_usd_oz": 4341.91,
+      "silver_usd_oz": 63.6,
+      "platinum_usd_oz": 1750.12
+    },
+    {
+      "date": "2026-09-06",
+      "week": "2026-W36",
+      "gold_10g": 134616.17,
+      "silver_kg": 201167.03,
+      "platinum_g": 5540.25,
+      "gold_usd_oz": 4430.18,
+      "silver_usd_oz": 66.2,
+      "platinum_usd_oz": 1823.28
+    },
+    {
+      "date": "2026-09-09",
+      "week": "2026-W37",
+      "gold_10g": 134261.82,
+      "silver_kg": 203128.02,
+      "platinum_g": 5662.91,
+      "gold_usd_oz": 4403.59,
+      "silver_usd_oz": 66.62,
+      "platinum_usd_oz": 1857.35
+    },
+    {
+      "date": "2026-10-04",
+      "week": "2026-W40",
+      "gold_10g": 128317.21,
+      "silver_kg": 187028.65,
+      "platinum_g": 5271.44,
+      "gold_usd_oz": 4142.33,
+      "silver_usd_oz": 60.38,
+      "platinum_usd_oz": 1701.72
+    },
+    {
+      "date": "2026-10-09",
+      "week": "2026-W41",
+      "gold_10g": 130198.6,
+      "silver_kg": 187649.77,
+      "platinum_g": 5237.36,
+      "gold_usd_oz": 4179.89,
+      "silver_usd_oz": 60.24,
+      "platinum_usd_oz": 1681.4
+    },
+    {
+      "date": "2026-11-01",
+      "week": "2026-W44",
+      "gold_10g": 118437.13,
+      "silver_kg": 150153.09,
+      "platinum_g": 4387.55,
+      "gold_usd_oz": 3875.65,
+      "silver_usd_oz": 49.13,
+      "platinum_usd_oz": 1435.75
+    },
+    {
+      "date": "2026-11-08",
+      "week": "2026-W45",
+      "gold_10g": 123202.59,
+      "silver_kg": 157176.22,
+      "platinum_g": 4656.78,
+      "gold_usd_oz": 4071.67,
+      "silver_usd_oz": 51.94,
+      "platinum_usd_oz": 1539
+    },
+    {
+      "date": "2026-11-09",
+      "week": "2026-W46",
+      "gold_10g": 124312.48,
+      "silver_kg": 159630.43,
+      "platinum_g": 4690.45,
+      "gold_usd_oz": 4110.88,
+      "silver_usd_oz": 52.79,
+      "platinum_usd_oz": 1551.08
+    }
+  ],
+  "timestamp": "2026-11-21T20:20:11.764542+05:30",
+  "run_info": {
+    "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
+    "timezone": "Asia/Kolkata",
+    "source": "GoldAPI"
+  }
+}
