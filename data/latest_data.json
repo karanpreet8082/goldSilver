@@ -54,7 +54,7 @@
         "hold": 25
       },
       "summary": "Gold is showing positive signals. Positive daily movement of 1.0%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-24T20:16:34.912428",
+      "timestamp": "2026-11-24T22:41:20.726318",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 25
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 1.6%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-24T20:16:35.054092",
+      "timestamp": "2026-11-24T22:41:20.783114",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 25
       },
       "summary": "Platinum is showing positive signals. Positive daily movement of 0.8%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-24T20:16:35.201331",
+      "timestamp": "2026-11-24T22:41:20.853654",
       "source": "rule-based"
     }
   },
@@ -135,6 +135,15 @@
   },
   "news": [
     {
+      "title": "Nasdaq, S&amp;P 500 end lower as investors assess Jensen Huang's return to Nvidia",
+      "description": "The Nasdaq and S&amp;P 500 indices experienced a drop as Nvidia and other tech shares fell. Investors reacted to potential new tariffs, raising concerns about market stability. Nvidia's CEO Jensen Huang was reinstated, which had previously spurred a market rally. In contrast, the Dow Jones Industria",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-sp-500-end-lower-as-investors-assess-jensen-huangs-return-to-nvidia/articleshow/136141893.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-11-24",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
       "title": "AI boom looms over Warsh's Fed as inflation worries grow",
       "description": "Chairman Kevin Warsh of the Federal Reserve underscores the transformative impact of artificial intelligence on the economic landscape. While he conveys measured optimism about AI's benefits, he also warns of inflationary risks associated with its advancement. Recent discussions outline the challeng",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-boom-looms-over-warshs-fed-as-inflation-worries-grow/articleshow/136129160.cms",
@@ -162,15 +171,6 @@
       "category": "currency"
     },
     {
-      "title": "Price Forecasts for Gold, Silver, and Platinum (2026\u20132027) - Mitrade",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOQVNIZ2Y1NE93UzdQYXlRTWJJVWRwcEJtb0lvc25NeWx2MW9kcG10TXpjZE5wdkViSVk5b2RBVi1QUWo1V00ycFNrVkFpaGNGdmx4SGdUalo0VkFxUDFUaEVnSHNoYmpxYWEyRzNqN1hiUUthUnFmQ1k5UnRTMmhHZ2ZiTHNCZlZpOFJyV19n?oc=5\" target=\"_blank\">Price Forecasts for Gold, Silver, a",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQVNIZ2Y1NE93UzdQYXlRTWJJVWRwcEJtb0lvc25NeWx2MW9kcG10TXpjZE5wdkViSVk5b2RBVi1QUWo1V00ycFNrVkFpaGNGdmx4SGdUalo0VkFxUDFUaEVnSHNoYmpxYWEyRzNqN1hiUUthUnFmQ1k5UnRTMmhHZ2ZiTHNCZlZpOFJyV19n?oc=5",
-      "source": "Google News - Precious Metals",
-      "date": "2026-11-24",
-      "image": "",
-      "category": "platinum"
-    },
-    {
       "title": "Gold, Silver, Platinum Forecasts \u2013 Gold Soars 3% As Jensen Huang Is Reinstated As Nvidia CEO - FXEmpire",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaEtDNVNEbzFTWldSVFYxdEtSQTBkNWFiLWRvWUFoaGNZQmtZTHBiSnBxVTlxOGgyRE1DVXNDdUhkeWhPUW92anBwelRMM1ZyUWUtZXJPc1VmQXZrTkRJbXBnZi1kNVBNeEdSU0V6cWZveFpWbVZMOE9nR3FnaFk2RkJVTmJKOE9Vc18wa2RiS0lWMDBNUzVHX2ZGSHM3TlBhdnZnZHA1aE8yUUpJenRVaktiSXdjbnctWm",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaEtDNVNEbzFTWldSVFYxdEtSQTBkNWFiLWRvWUFoaGNZQmtZTHBiSnBxVTlxOGgyRE1DVXNDdUhkeWhPUW92anBwelRMM1ZyUWUtZXJPc1VmQXZrTkRJbXBnZi1kNVBNeEdSU0V6cWZveFpWbVZMOE9nR3FnaFk2RkJVTmJKOE9Vc18wa2RiS0lWMDBNUzVHX2ZGSHM3TlBhdnZnZHA1aE8yUUpJenRVaktiSXdjbnctWmpWVS1vaWdCdVJreU5WeWdHdHFRX0hPUlJNZw?oc=5",
@@ -178,6 +178,15 @@
       "date": "2026-11-24",
       "image": "",
       "category": "platinum"
+    },
+    {
+      "title": "More ways for Singapore retail investors to buy gold, but volatility remains a risk",
+      "description": "As banks widen gold access, experts say the metal still carries risks for local investors.",
+      "url": "https://www.channelnewsasia.com/singapore/physical-gold-investing-bank-6571501",
+      "source": "CNA",
+      "date": "2026-11-23",
+      "image": "https://dam.mediacorp.sg/image/upload/s--0rqQxZa6--/c_crop,h_900,w_1600,x_0,y_60/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/03/21/gold_bars.jpg?itok=52BVVLkW",
+      "category": "metals"
     },
     {
       "title": "Cyber fraud losses surge 81% in Odisha, hit Rs 305cr in 9 months",
@@ -241,15 +250,6 @@
       "date": "2026-11-23",
       "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/11/decrypt-trade-the-news-learn-gID_1-pID_2.png",
       "category": "market"
-    },
-    {
-      "title": "SKM to seek implementation of its demands accepted by Centre in 2021",
-      "description": "SKM to submit charter of demands to President on Nov 26, seeking 2021 assurances: legal MSP, loan waiver, compensation, repeal key bills, welfare and relief measures.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/skm-to-seek-implementation-of-its-demands-accepted-by-centre-in-2021/articleshow/136112058.cms",
-      "source": "The Times of India",
-      "date": "2026-11-23",
-      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-133744934/133744934.jpg",
-      "category": "supply_demand"
     },
     {
       "title": "Whiplashed",
@@ -324,84 +324,84 @@
       "category": "market"
     },
     {
-      "title": "US Business Growth Hits 4-Month Low as Prices Climb",
-      "description": "High prices and delayed shipments caused U.S. business activity to grow at its slowest pace in four months. That\u2019s according to the S&P Global flash composite index, which declined 1.3 points in November to 54.6. This figure is still above the threshold to de\u2026",
-      "url": "https://biztoc.com/x/473bcb7daaefe2a8",
+      "title": "Trump Just Handed Congress The Mother Of All Presidential Scandals",
+      "description": "The Jensen Huang affair is a gift-wrapped scandal for Democrats looking to marry a populist affordability agenda with oversight of Trump and corporate bad actors.",
+      "url": "https://www.huffpost.com/entry/donald-trump-jensen-huang-nvidia-scandal_n_6b04a7e1e4b0cf294a137fe0",
+      "source": "HuffPost",
+      "date": "2026-11-23",
+      "image": "https://img.huffingtonpost.com/asset/6b04aef4150000ad1713c880.jpg?cache=PEdYxZcZdM&ops=1778_1000",
+      "category": "market"
+    },
+    {
+      "title": "Tech Moves: AWS nabs Salesforce exec; former OpenAI employees launch Seattle startup; Portal hire",
+      "description": "Muralidhar Krishnaprasad \"MK\" leaves Salesforce to join AWS as VP of analytics, storage and databases; three former OpenAI employees depart to launch stealth startup; Portal name a principal satellite guidance, navigation and control (GNC) engineer; and more \u2026",
+      "url": "https://www.geekwire.com/2026/tech-moves-aws-nabs-salesforce-exec-former-openai-employees-launch-seattle-startup-portal-hire/",
+      "source": "GeekWire",
+      "date": "2026-11-23",
+      "image": "https://cdn.geekwire.com/wp-content/uploads/2026/11/Muralidhar-Krishnaprasad-horizontal.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Canada adds Masar Badil group to terrorist entity list, citing status as alias for Samidoun",
+      "description": "Canada's public safety minister announced Monday that Masar Badil had been added to the country's terrorist entity list, as an alias for Samidoun, a group which was added to the same list in 2024.",
+      "url": "https://www.cbc.ca/news/world/masar-badil-added-terrorist-entity-list-9.7433007",
+      "source": "CBC News",
+      "date": "2026-11-23",
+      "image": "https://i.cbc.ca/ais/20ff3d2a-fb72-4a55-8ec7-59d6a52b4f2d,1795471306857/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C149%2C4340%2C2441%29%3B",
+      "category": "market"
+    },
+    {
+      "title": "Israeli achievement: UN adopts Israeli-initiated resolution with 145 votes in favor",
+      "description": "The UN adopts an Israeli-initiated resolution promoting global entrepreneurship, innovation and sustainable development, with 145 countries voting in favor.",
+      "url": "https://www.israelnationalnews.com/flashes/698352",
+      "source": "Israelnationalnews.com",
+      "date": "2026-11-23",
+      "image": "https://2.a7.org/files/pictures/000/1075218.jpg",
+      "category": "market"
+    },
+    {
+      "title": "A Leaked Teaser Suggests HMD Is Bringing Nokia's PureView Camera Branding Back on a Four-Camera Phone",
+      "description": "Finnish site SuomiMobiili spotted the clip on a company discussion board, and a German lens maker's logo on the module adds a twist.",
+      "url": "https://lockergnome.com/pick-3ef1d5d210b7e6bb24f4cc2b5884f0f94a3d5abd30ec8eb0b70ec1dde810c14a/",
+      "source": "Lockergnome.com",
+      "date": "2026-11-23",
+      "image": "https://lockergnome.com/_astro/pick-3ef1d5d210b7e6bb24f4cc2b5884f0f94a3d5abd30ec8eb0b70ec1dde810c14a.D_7Nc_-h_13ro8A.jpg",
+      "category": "market"
+    },
+    {
+      "title": "The Push for Payment Independence Could Make Global Trade More Expensive",
+      "description": "Governments around the world are coming to view control over their payment systems as a matter of economic security. For companies doing business across borders, that push for independence could come with a price. European Central Bank policymaker Fabio Panet\u2026",
+      "url": "https://biztoc.com/x/1bb00b72f85ae543",
       "source": "Biztoc.com",
       "date": "2026-11-23",
       "image": "https://biztoc.com/cdn/996/og.png",
+      "category": "central_bank"
+    },
+    {
+      "title": "Even Hegseth\u2019s Former Chief of Staff Says It\u2019s Time for Him to Be Ousted",
+      "description": "The secretary\u2019s former top aide blasted the Iran war as a \u201cshitshow.\u201d\u2026",
+      "url": "https://truthout.org/articles/even-hegseths-former-chief-of-staff-says-its-time-for-him-to-be-ousted/",
+      "source": "Truthout",
+      "date": "2026-11-23",
+      "image": "https://truthout.org/app/uploads/2026/11/2026_11-23-pete-hegseth-2400x1350.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Commerce to blacklist Megaspeed, Nvidia customer at center of spy scandal",
+      "description": "The news comes the same day Nvidia's board reinstated Jensen Huang as chief executive at Trump's urging.",
+      "url": "https://www.politico.com/news/2026/11/23/us-prepares-to-blacklist-megaspeed-as-huang-returns-to-nvidia-01180920",
+      "source": "Politico",
+      "date": "2026-11-23",
+      "image": "https://i.insider.com/6b04ba9fd6c5d341c9b4c75d?width=1200&format=jpeg",
       "category": "market"
     },
     {
-      "title": "I tried Razer's $350 magnesium controller, then asked its design boss why it exists",
-      "description": "Razer made just 1,337 Raiju V3 Pro Signature Edition controllers, complete with an exposed magnesium exoskeleton and $349.99 price tag. I've been using one on PC, and spoke with Charlie Bolton, Razer's Senior Director and Global Head of Design, about why Sign\u2026",
-      "url": "https://www.windowscentral.com/hardware/razer/the-razer-raiju-v3-pro-signature-edition-interview",
-      "source": "Windows Central",
+      "title": "Welcome to elite impunity, Jensen Huang",
+      "description": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of ba\u2026",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+      "source": "The Verge",
       "date": "2026-11-23",
-      "image": "https://cdn.mos.cms.futurecdn.net/xbgH7wj6VHecEwJL6dWBb4-2448-80.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Faurschou Ends Its Public Exhibition Program as Its New York Space Heads for\u00a0Demolition",
-      "description": "The sale of 148-150 Green Street finalizes that after four decades, Faurschou's public exhibitions are over.",
-      "url": "https://www.artnews.com/art-news/news/faurschou-foundation-ends-shows-sells-new-york-building-1234807321/",
-      "source": "ARTnews",
-      "date": "2026-11-23",
-      "image": "https://www.artnews.com/wp-content/uploads/2026/11/GettyImages-1289727328-1.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Karol G No. 1 on Global Charts & Wham!, Mariah Carey Climb",
-      "description": "Karol G\u2019s \u201cBbY WOW\u201d makes it seven weeks at No. 1 on the Global 200 and eight atop Global Excl. U.S., as Wham! and Mariah Carey carols climb.",
-      "url": "https://www.billboard.com/music/chart-beat/karol-g-global-charts-number-one-seven-weeks-1236387993/",
-      "source": "Billboard",
-      "date": "2026-11-23",
-      "image": "https://www.billboard.com/wp-content/uploads/2026/10/P106J5O7-e1791821074738.jpg",
-      "category": "market"
-    },
-    {
-      "title": "oo-solver added to PyPI",
-      "description": "Native O_o finite element solver with NumPy result arrays",
-      "url": "https://pypi.org/project/oo-solver/",
-      "source": "Pypi.org",
-      "date": "2026-11-23",
-      "image": null,
-      "category": "market"
-    },
-    {
-      "title": "Pelicot 'deeply shocked' nude photos used to promote psychoanalyst's book",
-      "description": "The nude photographs of Gis\u00e8le Pelicot had been used without her consent to promote a psychoanalyst's essay on the concept of coercive control.",
-      "url": "https://www.abc.net.au/news/2026-11-24/pelicot-nude-photos-used-to-promote-psychoanalyst-book/107419434",
-      "source": "ABC News (AU)",
-      "date": "2026-11-23",
-      "image": "https://live-production.wcms.abc-cdn.net.au/ef87dc8e042dced18e3c7aa3d910352b?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=50&width=862&height=485",
-      "category": "market"
-    },
-    {
-      "title": "COP 31 Plants A Big Wet Kiss On Failed Carbon Capture Technology",
-      "description": "COP 31, the annual UN climate conference that took place this month, ended on a sour note after negotiators were unable to reach an agreement to include language calling for a transition away from fossil fuels in the final communiqu\u00e9\u00a0 \u2014 language that was incl\u2026",
-      "url": "https://cleantechnica.com/2026/11/23/cop-31-plants-a-big-wet-kiss-on-failed-carbon-capture-technology/",
-      "source": "CleanTechnica",
-      "date": "2026-11-23",
-      "image": "https://cleantechnica.com/wp-content/uploads/2024/09/Screenshot-2024-09-16-at-2.16.57%E2%80%AFPM-800x449.png",
-      "category": "market"
-    },
-    {
-      "title": "Payoneer Lands Conditional Approval to Open Stablecoin Bank",
-      "description": "Payoneer\u00a0says it has moved one step closer to establishing its stablecoin-centric bank. The cross-border payments FinTech\u00a0announced\u00a0Monday (Nov. 23) that it had received preliminary conditional approval from the\u00a0U.S. Office of the Comptroller of the Currency\u00a0\u2026",
-      "url": "https://www.pymnts.com/news/banking/2026/payoneer-lands-conditional-approval-to-open-stablecoin-bank/",
-      "source": "pymnts.com",
-      "date": "2026-11-23",
-      "image": "https://www.pymnts.com/wp-content/uploads/2026/11/Payoneer-bank-stablecoin.jpeg",
-      "category": "currency"
-    },
-    {
-      "title": "A Revolutionary Change to the 2028 Presidential Election Is Within Reach",
-      "description": "It\u2019s called the National Popular Vote Compact.",
-      "url": "https://slate.com/news-and-politics/2026/11/2028-presidential-election-electoral-college-reform-popular-vote.html",
-      "source": "Slate Magazine",
-      "date": "2026-11-23",
-      "image": "https://compote.slate.com/images/da6081ab-c9eb-414b-9445-db56a871f153.gif?crop=1560%2C1040%2Cx0%2Cy0&width=1200",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_06.jpg?quality=90&strip=all&crop=0,12.339110464558,100,75.321779070884",
       "category": "market"
     }
   ],
@@ -547,7 +547,7 @@
       "platinum_usd_oz": 1551.08
     }
   ],
-  "timestamp": "2026-11-25T01:46:35.211197+05:30",
+  "timestamp": "2026-11-25T04:11:20.866228+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
