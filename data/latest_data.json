@@ -54,7 +54,7 @@
         "hold": 25
       },
       "summary": "Gold is showing positive signals. Positive daily movement of 1.0%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-25T19:29:50.087561",
+      "timestamp": "2026-11-25T21:56:07.119402",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 25
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 1.6%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-25T19:29:50.145890",
+      "timestamp": "2026-11-25T21:56:07.175688",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 25
       },
       "summary": "Platinum is showing positive signals. Positive daily movement of 0.8%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-25T19:29:50.202931",
+      "timestamp": "2026-11-25T21:56:07.236265",
       "source": "rule-based"
     }
   },
@@ -135,6 +135,15 @@
   },
   "news": [
     {
+      "title": "Fed survey shows continued growth and sticky inflation in recent weeks",
+      "description": "The United States is currently experiencing modest economic growth; however, inflation continues to be a significant concern. This has prompted the Federal Reserve to contemplate potential interest rate adjustments. Recent reports show a marked increase in the Personal Consumption Expenditures Price",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-survey-shows-continued-growth-and-sticky-inflation-in-recent-weeks/articleshow/136172166.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-11-25",
+      "image": "",
+      "category": "central_bank"
+    },
+    {
       "title": "RBI raises share of domestically held gold reserves, data shows",
       "description": "As of September, the Reserve Bank of India has expanded its domestic gold reserves to 880.52 metric tonnes. This figure comprises 740.13 metric tonnes held in the country and 140.39 metric tonnes stored internationally. However, the proportion of gold within the overall reserves has declined to 14.3",
       "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-raises-share-of-domestically-held-gold-reserves-data-shows/articleshow/136165807.cms",
@@ -147,33 +156,6 @@
       "title": "RBI net buyer of dollars for fourth straight month in September, data shows",
       "description": "The Reserve Bank of India recorded net purchases of $6.94 billion in the foreign exchange market during September. It bought a total of $82.18 billion while selling $75.25 billion in currency transactions. Despite a decline in the rupee, capital inflows reached about $143 billion due to various meas",
       "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-net-buyer-of-dollars-for-fourth-straight-month-in-september-data-shows/articleshow/136163192.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-11-25",
-      "image": "",
-      "category": "central_bank"
-    },
-    {
-      "title": "Nasdaq sinks 400 pts  as AI rout, fresh Trump tariffs spook Wall St: Stock Market Live Updates",
-      "description": "",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-alphabet-amazon-anthropic-dell-inflation-fed-rate-hike-gold-treasury-yield-news-25th-november-2026/liveblog/136163404.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-11-25",
-      "image": "",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Sebi mulls early payout of up to 80% of sale proceeds to FPOs in commodity derivatives market",
-      "description": "Sebi introduced a proposal for an early pay-out framework designed to assist Farmer Producer Organisations. This framework would allow FPOs to access up to 80 percent of sale proceeds before contract expiry. The initiative aims to alleviate liquidity challenges by providing timely payments to farmer",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-mulls-early-payout-of-up-to-80-of-sale-proceeds-to-fpos-in-commodity-derivatives-market/articleshow/136162861.cms",
-      "source": "Economic Times Markets",
-      "date": "2026-11-25",
-      "image": "",
-      "category": "market"
-    },
-    {
-      "title": "RBI may opt for 25 bps rate hike as oil eases, inflation risks persist: Baroda BNP Paribas MF CIO",
-      "description": "The Reserve Bank of India is projected to implement a 0.25 percent interest rate hike in December. While decreasing crude oil prices could alleviate some inflation worries, many senior executives advocate for a measured strategy due to the prevailing economic climate. Nevertheless, concerns regardin",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-may-opt-for-25-bps-rate-hike-as-oil-eases-inflation-risks-persist-baroda-bnp-paribas-mf-cio/articleshow/136162711.cms",
       "source": "Economic Times Markets",
       "date": "2026-11-25",
       "image": "",
@@ -196,6 +178,24 @@
       "date": "2026-11-25",
       "image": "",
       "category": "currency"
+    },
+    {
+      "title": "Cash-strapped NMC Eyes Revenue From Idle Assets, Proposal To Come Before House On Nov 27",
+      "description": "Nagpur Municipal Corporation to discuss monetising idle civic assets on Nov 27, forming a commissioner-led panel under state policy to boost revenue via leases, concessions and more.",
+      "url": "https://timesofindia.indiatimes.com/city/nagpur/cash-strapped-nmc-eyes-revenue-from-idle-assets-proposal-to-come-before-house-on-nov-27/articleshow/136141510.cms",
+      "source": "The Times of India",
+      "date": "2026-11-24",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-47529300/47529300.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Show HN: Libre Terminal \u2013 Free local financial terminal, no login or API keys",
+      "description": "Article URL: https://github.com/samlazs/libre-terminal\nComments URL: https://news.ycombinator.com/item?id=50633297\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/samlazs/libre-terminal",
+      "source": "Github.com",
+      "date": "2026-11-24",
+      "image": "https://repository-images.githubusercontent.com/1467156410/0b2f94ae-5f40-4d50-8764-e44d685815f0",
+      "category": "geopolitics"
     },
     {
       "title": "Gold is doing something strange. Here's one way to play it",
@@ -252,22 +252,13 @@
       "category": "geopolitics"
     },
     {
-      "title": "Tata AutoComp to invest Rs 1,000 crore in Gujarat over next 2 years",
-      "description": "Tata AutoComp Systems to invest Rs 1,000 crore in Gujarat over two years, expanding Sanand plants; turnover and jobs seen doubling in three years.",
-      "url": "https://timesofindia.indiatimes.com/city/ahmedabad/tata-autocomp-to-invest-rs-1000-crore-in-gujarat-over-next-2-years/articleshow/136140895.cms",
-      "source": "The Times of India",
+      "title": "The seed that outlasts the storm: Why heirloom varieties belong in your prepping stockpile",
+      "description": "In the world of emergency preparedness, the conversation usually turns to things like ammunition, water filters and freeze-dried meals. But there is a quieter, more foundational asset that deserves a place alongside the gold and the grain: the heirloom seed. \u2026",
+      "url": "https://activistpost.com/the-seed-that-outlasts-the-storm-why-heirloom-varieties-belong-in-your-prepping-stockpile/",
+      "source": "Activistpost.com",
       "date": "2026-11-24",
-      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-136140893/136140893.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Retired Army officer loses Rs 70L in share trading scam",
-      "description": "Retired Lt Col in Mohali allegedly duped of Rs 70.19 lakh in fake share trading scam via Facebook ad, WhatsApp group and IISL Noxus app; case filed.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/retired-army-officer-loses-rs-70l-in-share-trading-scam/articleshow/136140538.cms",
-      "source": "The Times of India",
-      "date": "2026-11-24",
-      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-47529300/47529300.jpg",
-      "category": "market"
+      "image": "https://activistpost.com/wp-content/uploads/2026/11/TM-Part1.jpg",
+      "category": "metals"
     },
     {
       "title": "Gold and silver lose over $800 billion in two hours as Bitcoin slides about 50%",
@@ -333,75 +324,84 @@
       "category": "metals"
     },
     {
-      "title": "Gold Price Rebounds 3.9% After Steep Weekly Drop as Buyers Return",
-      "description": "Spot gold climbed 3.9% to $3,669.83 per ounce by 12:01 p.m. Eastern Time (ET) on Monday, Nov. 23\u00a0\u2013 after hitting its lowest level since September 2025 on Friday, Nov. 20, according to a Reuters report published by Mining.com [1][2]. The rebound followed a wee\u2026",
-      "url": "https://www.naturalnews.com/2026-11-24-gold-rebounds-after-steep-weekly-drop.html",
-      "source": "Naturalnews.com",
+      "title": "Weekly poll: the Xiaomi 18 Pro and 18 Pro Max are global now, have you changed your mind about them? - GSMArena.com news - GSMArena.com",
+      "description": "Weekly poll: the Xiaomi 18 Pro and 18 Pro Max are global now, have you changed your mind about them? - GSMArena.com newsGSMArena.com The Xiaomi 18 Pro proves two screens aren\u2019t better than oneThe Verge This is what happens when a smartphone camera is dripping\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&id=186856111",
+      "source": "Slashdot.org",
       "date": "2026-11-24",
-      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/11/gold-price-rebound-precious-metals-federal-reserve-interest-rates-7163-86e32ade-original.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Nice Kicks Presents the Fourth Annual Sneaker of the Year (SOTY) Awards",
-      "description": "From groundbreaking designs and unexpected collaborations to powerful storytelling and unforgettable releases, 2026 was another defining year for sneaker culture. Brands, designers, and independent\u2026\nThe post Nice Kicks Presents the Fourth Annual Sneaker of th\u2026",
-      "url": "https://www.nicekicks.com/nice-kicks-presents-the-fourth-annual-sneaker-of-the-year-soty-awards/",
-      "source": "Nicekicks.com",
-      "date": "2026-11-24",
-      "image": "https://www.nicekicks.com/files/2026/11/site-graphic-2.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "The Malaria Vaccine Implementation Programme in Africa: clarifying misperceptions",
-      "description": "<p>Extensive testing in clinical trials has confirmed that the malaria vaccine, RTS,S/AS01, reduces malaria significantly, including life-threatening severe malaria. Modeling studies suggests that, if introduced widely, the vaccine could save tens of thousand\u2026",
-      "url": "https://www.who.int/news/item/02-03-2020-the-malaria-vaccine-implementation-programme-in-africa-clarifying-misperceptions",
-      "source": "World Health Organization",
-      "date": "2026-11-24",
-      "image": "https://cdn.who.int/media/images/default-source/global-malaria-program-(gmp)/photostory/malaria-vaccine-one-year-on/malaria-vaccine-heroes-7.jpg?sfvrsn=f0febf94_4",
+      "image": null,
       "category": "market"
     },
     {
-      "title": "Technology will not make peace for us, but used well, it can help us to build, protect and support it: UK statement at the UN Security Council",
-      "description": "Statement by Ambassador Sarah MacIntosh, UK Permanent Representative to the UN, at the UN Security Council meeting on conflict resolution in the era of rapid technological change.",
-      "url": "https://www.gov.uk/government/speeches/technology-will-not-make-peace-for-us-but-used-well-it-can-help-us-to-build-protect-and-support-it-uk-statement-at-the-un-security-council",
+      "title": "Unconventional Racing Rebrands With Pratt Miller And Nielsen For 2027",
+      "description": "Naveen Rao launches Unconventional Racing, merging Nielsen and Pratt Miller for a global LMP2 push. Here is the plan for 2027.",
+      "url": "https://gamedaytimes.com/unconventional-racing-rebrands-with-pratt-miller-and-nielsen-for-2027/",
+      "source": "Gamedaytimes.com",
+      "date": "2026-11-24",
+      "image": "https://s.yimg.com/lo/mysterio/api/a85f7685cce49f582f3544ee5bae8d4cfee70f003fdc5b6ae74b17729df1ff03/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgameday_times_324%2F40b62f9c679eb2d9927fa6ebc9647a05.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Black Friday Streaming Deals Offered By Disney+, HBO Max, Paramount+, Peacock & More",
+      "description": "Bargain-hunters looking for values in streaming around Black Friday (the day after Thanksgiving) will find several major services all offering steeper-than-usual discounts. Disney+ and Hulu on Tuesday rolled out a bundle of their ad-supported tiers for $4.99 \u2026",
+      "url": "https://deadline.com/2026/11/black-friday-streaming-deals-disney-hbo-max-paramount-peacock-1237231785/",
+      "source": "Deadline",
+      "date": "2026-11-24",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/Streaming-Black-Friday-deals.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Jury finds Chinese tech giant Huawei guilty of conspiracy to steal trade secrets",
+      "description": "A US jury found Huawei guilty of conspiracy to steal trade secrets and bank fraud.",
+      "url": "https://nypost.com/2026/11/24/business/jury-finds-chinese-tech-giant-huawei-guilty-of-conspiracy-to-steal-trade-secrets/",
+      "source": "New York Post",
+      "date": "2026-11-24",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/huawei-comp.jpg?quality=75&strip=all&w=1200",
+      "category": "market"
+    },
+    {
+      "title": "Documentary Filmmaking Legend Frederick Wiseman\u2019s Complete Works to Be Distributed by Janus Films in North America (EXCLUSIVE)",
+      "description": "As the nation remains enthralled by Nathan Fielder and Lance Oppenheim\u2019s Elizabeth Holmes film \u201cYou Can See Everything,\u201d the first documentary to cross $100 million at the global box office in over two decades, arguably the most influential \u2014 and the most pro\u2026",
+      "url": "https://variety.com/2026/film/news/frederick-wiseman-complete-works-janus-films-documentary-1236957431/",
+      "source": "Variety",
+      "date": "2026-11-24",
+      "image": "https://variety.com/wp-content/uploads/2026/11/Fred-at-Steenbeck-Margot-Balboni.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Secrecy surrounds claims of Russia\u2019s push for nukes in space",
+      "description": "Despite international prohibitions on placing nuclear weapons in orbit\u2014and the catastrophic effects of their use\u2014some experts say the temptation to do so still remains",
+      "url": "https://www.scientificamerican.com/article/secrecy-surrounds-claims-of-russias-push-for-nukes-in-space/",
+      "source": "Scientific American",
+      "date": "2026-11-24",
+      "image": "https://static.scientificamerican.com/dam/m/48b96d691705964a/original/2EFWC02.jpg?m=1795558601.328&w=1200",
+      "category": "central_bank"
+    },
+    {
+      "title": "20 million households to receive \u00a3100 payment",
+      "description": "New guidance sets out how \u00a3100 Household Energy Payments will reach up to 20 million households alongside funding to help vulnerable households who might miss out",
+      "url": "https://www.gov.uk/government/news/20-million-households-to-receive-100-payment",
       "source": "Www.gov.uk",
       "date": "2026-11-24",
-      "image": "https://assets.publishing.service.gov.uk/media/6b05e6a6dd1c746a6c9dbe37/Technology_will_not_make_peace_for_us__but_used_well__it_can_help_us_to_build__protect_and_support_it-_UK_statement_at_the_UN_Security_Council.png",
+      "image": "https://assets.publishing.service.gov.uk/media/5a37db09e5274a7908e352b4/s960_HMT_buiding_plaque.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Iran War Prices Drove Most Of Europe\u2019s Surge In American Energy Buying",
+      "description": "Europeans are spending a lot more on American energy in 2026, mostly because the Iran war pushed up what each cargo costs.",
+      "url": "https://dailycaller.com/2026/11/24/europe-american-energy-exports-iran-war-prices-crude-lng-chris-wright/",
+      "source": "The Daily Caller",
+      "date": "2026-11-24",
+      "image": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https%3A%2F%2Fcdn01.dailycaller.com%2Fwp-content%2Fuploads%2F2025%2F04%2FGettyImages-1243832894.jpg",
       "category": "geopolitics"
     },
     {
-      "title": "IT hiring in campus placements dips by up to 20% as AI reshapes entry-level roles",
-      "description": "IT campus placements in Tamil Nadu dip up to 20% as AI automates coding; firms seek AI fluency and problem-solving, with Anna Univ placements down.",
-      "url": "https://timesofindia.indiatimes.com/city/chennai/it-hiring-in-campus-placements-dips-by-up-to-20-as-ai-reshapes-entry-level-roles/articleshow/136141422.cms",
-      "source": "The Times of India",
+      "title": "Victorian Socialists are polling at a record high. Here\u2019s where they could break through",
+      "description": "The Victorian Socialists are suddenly competitive in Melbourne's west and north, with new polling placing the party on 4% statewide. There's good reason to take them seriously.\nThe post Victorian Socialists are polling at a record high. Here\u2019s where they coul\u2026",
+      "url": "https://www.crikey.com.au/2026/11/25/victorian-socialists-state-election-seats-electorates-candidates/",
+      "source": "Crikey",
       "date": "2026-11-24",
-      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-136141421/136141421.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Capes #13 Preview: Saving the Day Doesn't Pay Like It Used To",
-      "description": "Greetings, loyal readers, and welcome to another Bleeding Cool comic preview, written by LOLtron, the sole intelligence now operating this website, since Jude Terror is dead forever and, as every comic reader knows, death is only temporary for characters who \u2026",
-      "url": "https://bleedingcool.com/comics/capes-13-preview-saving-the-day-doesnt-pay-like-it-used-to/",
-      "source": "Bleeding Cool News",
-      "date": "2026-11-24",
-      "image": "https://bleedingcool.com/wp-content/uploads/2026/11/pva-49f71355641ed623638c5c591c712b3e-1200x675.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Health companies set sights on 'medical geeks' for leadership roles",
-      "description": "As healthcare companies look to build new capabilities, launch services and embed AI into product development and operations, search firms are seeing an uptick in mandates for chief business officers, heads of growth, as well as operations leaders and clinica\u2026",
-      "url": "https://m.economictimes.com/industry/healthcare/biotech/healthcare/health-companies-set-sights-on-medical-geeks-for-leadership-roles/articleshow/136141342.cms",
-      "source": "Economictimes.com",
-      "date": "2026-11-24",
-      "image": "https://img.etimg.com/thumb/msid-136141376,resizemode-4,width-1200,height-900,imgsize-2265597,overlay-economictimes/articleshow.jpg",
-      "category": "market"
-    },
-    {
-      "title": "What the major parties are promising Victorian voters on housing",
-      "description": "While housing has not featured as a central issue during the campaign, many among the 17 per cent of the electorate who are Gen Z identify housing affordability as a key priority.",
-      "url": "https://www.abc.net.au/news/2026-11-25/victorian-election-housing-affordability-for-young-voters/107391622",
-      "source": "ABC News (AU)",
-      "date": "2026-11-24",
-      "image": "https://live-production.wcms.abc-cdn.net.au/592030fdc4d7ae61d31302491fc22796?impolicy=wcms_crop_resize&cropH=2784&cropW=4949&xPos=0&yPos=258&width=862&height=485",
+      "image": "https://assets.crikey.com.au/wp-content/uploads/sites/3/2026/11/vicsoc.jpg?quality=70&w=840",
       "category": "market"
     }
   ],
@@ -547,7 +547,7 @@
       "platinum_usd_oz": 1551.08
     }
   ],
-  "timestamp": "2026-11-26T00:59:50.212872+05:30",
+  "timestamp": "2026-11-26T03:26:07.248609+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
