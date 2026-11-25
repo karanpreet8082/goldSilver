@@ -54,7 +54,7 @@
         "hold": 25
       },
       "summary": "Gold is showing positive signals. Positive daily movement of 1.0%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-25T13:16:15.897413",
+      "timestamp": "2026-11-25T17:28:52.274188",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 25
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 1.6%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-25T13:16:15.976950",
+      "timestamp": "2026-11-25T17:28:52.342924",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 25
       },
       "summary": "Platinum is showing positive signals. Positive daily movement of 0.8%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-25T13:16:16.056089",
+      "timestamp": "2026-11-25T17:28:52.404047",
       "source": "rule-based"
     }
   },
@@ -135,31 +135,40 @@
   },
   "news": [
     {
-      "title": "US Treasury gains lift India bonds ahead of RBI meet",
-      "description": "On Wednesday, Indian government bonds rallied, influenced by a decrease in US Treasury yields. The benchmark 10-year bond yield fell to 7.1641%, marking a two-week low. The Indian rupee strengthened to its highest level for the fiscal year against the dollar. Overseas investors returned as net buyer",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/us-treasury-gains-lift-india-bonds-ahead-of-rbi-meet/articleshow/136161527.cms",
+      "title": "RBI raises share of domestically held gold reserves, data shows",
+      "description": "As of September, the Reserve Bank of India has expanded its domestic gold reserves to 880.52 metric tonnes. This figure comprises 740.13 metric tonnes held in the country and 140.39 metric tonnes stored internationally. However, the proportion of gold within the overall reserves has declined to 14.3",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-raises-share-of-domestically-held-gold-reserves-data-shows/articleshow/136165807.cms",
       "source": "Economic Times Markets",
       "date": "2026-11-25",
       "image": "",
       "category": "central_bank"
     },
     {
-      "title": "Fed policymakers at odds over causes of high inflation",
-      "description": "US inflation is expected to increase again in October, with potential implications for Federal Reserve interest rate decisions. Economists predict the Personal Consumption Expenditures Price Index to reach 3.8% this month. Analysts are divided regarding whether inflation is caused by demand or suppl",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-policymakers-at-odds-over-causes-of-high-inflation/articleshow/136160394.cms",
+      "title": "RBI net buyer of dollars for fourth straight month in September, data shows",
+      "description": "The Reserve Bank of India recorded net purchases of $6.94 billion in the foreign exchange market during September. It bought a total of $82.18 billion while selling $75.25 billion in currency transactions. Despite a decline in the rupee, capital inflows reached about $143 billion due to various meas",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-net-buyer-of-dollars-for-fourth-straight-month-in-september-data-shows/articleshow/136163192.cms",
       "source": "Economic Times Markets",
       "date": "2026-11-25",
       "image": "",
       "category": "central_bank"
     },
     {
-      "title": "Rupee scales 8-month high after holiday as foreign flows to Indian equities persist",
-      "description": "The Indian rupee has shown significant strength against the US dollar, propelled by robust foreign portfolio investments. Surging to an eight-month high on Thursday, it closed at 92.23 per dollar. Analysts connect this to favorable market dynamics, including falling crude oil prices. With record for",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-scales-8-month-high-after-holiday-as-foreign-flows-to-indian-equities-persist/articleshow/136158513.cms",
+      "title": "Sebi mulls early payout of up to 80% of sale proceeds to FPOs in commodity derivatives market",
+      "description": "Sebi introduced a proposal for an early pay-out framework designed to assist Farmer Producer Organisations. This framework would allow FPOs to access up to 80 percent of sale proceeds before contract expiry. The initiative aims to alleviate liquidity challenges by providing timely payments to farmer",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-mulls-early-payout-of-up-to-80-of-sale-proceeds-to-fpos-in-commodity-derivatives-market/articleshow/136162861.cms",
       "source": "Economic Times Markets",
       "date": "2026-11-25",
       "image": "",
-      "category": "currency"
+      "category": "market"
+    },
+    {
+      "title": "RBI may opt for 25 bps rate hike as oil eases, inflation risks persist: Baroda BNP Paribas MF CIO",
+      "description": "The Reserve Bank of India is projected to implement a 0.25 percent interest rate hike in December. While decreasing crude oil prices could alleviate some inflation worries, many senior executives advocate for a measured strategy due to the prevailing economic climate. Nevertheless, concerns regardin",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-may-opt-for-25-bps-rate-hike-as-oil-eases-inflation-risks-persist-baroda-bnp-paribas-mf-cio/articleshow/136162711.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-11-25",
+      "image": "",
+      "category": "central_bank"
     },
     {
       "title": "Gold (XAUUSD), Silver, Platinum Forecasts \u2013 Gold Retreats Below $3600 - FXEmpire",
@@ -171,58 +180,94 @@
       "category": "currency"
     },
     {
-      "title": "Grayscale calls Bitcoin \u2018oversold\u2019 at $62K but warns of AI risks",
-      "description": "Grayscale said Bitcoin looked oversold after more than $2 billion left crypto investment products in a week, but AI risks could drive near-term prices.",
-      "url": "https://cointelegraph.com/markets/bitcoin-oversold-ai-risks-grayscale",
-      "source": "Cointelegraph",
-      "date": "2026-11-24",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M86R3XR84EC6JZ8PPBN2SC3P/bitcoin1111-1280x853.webp",
-      "category": "geopolitics"
+      "title": "Gold (XAUUSD), Silver, Platinum Forecasts \u2013 Gold Drops Below $3500 On Strong U.S. GDP Data - FXEmpire",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQOW1JY0VEcjNNajlwRkgyTUZJT3RSeHUzcUxEWFNOQUhrTFV1QWJLWXZhSDZjRDJmLVlvckJsbTBSZDF1cjgwejVyZ0lWVml1ZU9pSkV2VkI4OVl4YnpEbFoyZFhaelBTNnpjOG9Mc3JRd3ZXYzhiMnVzcTNtNkJzZ0VLQjFOOWxvV2xRdlE4bDVVQjVqUkMtcFhHVnlZb1F5aGhJX2I1T296MXFnLVB6aVNOUE5VWl9URl",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOW1JY0VEcjNNajlwRkgyTUZJT3RSeHUzcUxEWFNOQUhrTFV1QWJLWXZhSDZjRDJmLVlvckJsbTBSZDF1cjgwejVyZ0lWVml1ZU9pSkV2VkI4OVl4YnpEbFoyZFhaelBTNnpjOG9Mc3JRd3ZXYzhiMnVzcTNtNkJzZ0VLQjFOOWxvV2xRdlE4bDVVQjVqUkMtcFhHVnlZb1F5aGhJX2I1T296MXFnLVB6aVNOUE5VWl9URlZtdEEtNXJ2eHRqc09BZ0syQW9LUQ?oc=5",
+      "source": "Google News - Precious Metals",
+      "date": "2026-11-25",
+      "image": "",
+      "category": "currency"
     },
     {
-      "title": "Chicago Cubs news \u2014 Skubal, Webb, Soroka, Bubic, Sato, Schneider",
-      "description": "High-risk, high-return guys like Michael Soroka and Kris Bubic are two back-of-rotation guys that can pay off big.",
-      "url": "https://www.bleedcubbieblue.com/chicago-cubs-news/238066/chicago-cubs-news-skubal-webb-soroka-bubic-sato-schneider",
-      "source": "Bleed Cubbie Blue",
+      "title": "AP govt allots 10,389 acres to SIPB-cleared industrial projects",
+      "description": "Andhra Pradesh allots 10,389 acres (36%) for SIPB-approved industrial projects; Prakasam leads with 4,524 acres as APIIC speeds land handover.",
+      "url": "https://timesofindia.indiatimes.com/city/vijayawada/ap-govt-allots-10389-acres-to-sipb-cleared-industrial-projects/articleshow/136137776.cms",
+      "source": "The Times of India",
       "date": "2026-11-24",
-      "image": "https://s.yimg.com/lo/mysterio/api/ba494392fbf0a22255ea10a23e0bc6d11c69ead135c17a85a99401275a5b3105/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F9dc78568a85feb63e337d2c0100d6374.jpg",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-136137775/136137775.jpg",
       "category": "market"
     },
     {
-      "title": "House Democrat Expands Investigation Into Donald Trump Jr.'s Investment Firm",
-      "description": "Both Trump Jr. and his venture capital fund 1789 Capital, which is based in Palm Beach, Florida, deny any wrongdoing.",
-      "url": "https://www.huffpost.com/entry/don-jr-probe-expands-raskin_n_6b05796be4b0cf294a14a7cc",
-      "source": "HuffPost",
+      "title": "Run, don\u2019t walk: These 2-carat diamond earrings are under $200 for Black Friday",
+      "description": "We found stunning 2-carat hoop earrings marked down by a whopping 77%, bringing their price tag down to under $200.",
+      "url": "https://pagesix.com/2026/11/24/style/macys-black-friday-sale-has-2-carat-diamond-earrings-under-200/",
+      "source": "Page Six",
       "date": "2026-11-24",
-      "image": "https://img.huffingtonpost.com/asset/6b057a4c180000001cdd29bd.jpeg?cache=9BXecr18ay&ops=1778_1000",
+      "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/comp_fffaa8.jpg?quality=75&strip=all&w=1200",
       "category": "market"
     },
     {
-      "title": "40+ best Black Friday deals in the UK \u2014 Switch 2, Shark vacuums, iPhone 18, Lego, PS5 bundles, Samsung, LG OLED TVs, and more",
-      "description": "TechRadar's guide to all of the best Black Friday deals available now as the big end-of-year shopping season is underway at Amazon, Argos, Currys, Very, Samsung, Apple, and more.",
-      "url": "https://www.techradar.com/live/news/black-friday-deals-uk-2026-november-24",
-      "source": "TechRadar",
+      "title": "India-Chile FTA talks drag on over differences in critical minerals, market access",
+      "description": "India-Chile CEPA talks stall over critical minerals and market access, delaying final negotiations though most chapters are ready.",
+      "url": "https://www.thehindubusinessline.com/economy/india-chile-fta-talks-drag-on-over-differences-in-critical-minerals-market-access/article71739271.ece",
+      "source": "BusinessLine",
       "date": "2026-11-24",
-      "image": "https://cdn.mos.cms.futurecdn.net/xXEBkeF7YR8FxwqzNRfPdj-1920-80.jpg",
+      "image": "https://bl-i.thgim.com/public/incoming/y2mvr3/article71739518.ece/alternates/LANDSCAPE_1200/Hindustan-PowerGKUGQKLG0.4.jpg.jpg",
       "category": "market"
     },
     {
-      "title": "Sailing-Britain's Hannah Mills to lead new UAE team in SailGP",
-      "description": "Nov 24 : SailGP's fleet of foiling catamarans will hit 14 next season with the addition of a new United Arab Emirates team skippered by Hannah Mills, who is leaving Ben\u00a0Ainslie's British crew after five seasons as strategist on their F50.Mills, who won two go\u2026",
-      "url": "https://www.channelnewsasia.com/sport/sailing-britains-hannah-mills-lead-new-uae-team-in-sailgp-6577951",
-      "source": "CNA",
+      "title": "MoU signed to establish AI-based delivery centre in state",
+      "description": "Bihar signs MoU with Tiger Analytics to set up an AI/ML global delivery centre by 2027, creating 200 skilled jobs and boosting training under new IT policies.",
+      "url": "https://timesofindia.indiatimes.com/city/patna/mou-signed-to-establish-ai-based-delivery-centre-in-state/articleshow/136136692.cms",
+      "source": "The Times of India",
       "date": "2026-11-24",
-      "image": "https://dam.mediacorp.sg/image/upload/s--wuoO2Jyk--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-24T104256Z_1_LYNXNPEMAN0TV_RTROPTP_3_SAILING-SAILGP-AUSTRALIA.JPG?itok=FD1E0EPd",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-136136689/136136689.jpg",
       "category": "market"
     },
     {
-      "title": "Adutwum Schools Government: You Can\u2019t Transform Ghana Without Transforming Education",
-      "description": "Former Education Minister and Ranking Member of Parliament\u2019s Education Committee, Dr Yaw Osei Adutwum, has criticised the 2027 Budget for failing to prioritise education and human capital development, arguing that the government\u2019s economic transformation agen\u2026",
-      "url": "https://thechronicle.com.gh/adutwum-schools-government-you-cant-transform-ghana-without-transforming-education/",
-      "source": "Thechronicle.com.gh",
+      "title": "Bybit Introduces TradFi Earn, Unifying Access to Global ETFs and RWA",
+      "description": "Dubai, United Arab Emirates, 24th November 2026, Chainwire\nThe post Bybit Introduces TradFi Earn, Unifying Access to Global ETFs and RWA appeared first on The Daily Hodl.",
+      "url": "https://dailyhodl.com/2026/11/24/bybit-introduces-tradfi-earn-unifying-access-to-global-etfs-and-rwa/",
+      "source": "The Daily Hodl",
       "date": "2026-11-24",
-      "image": "https://thechronicle.com.gh/wp-content/uploads/2026/11/Dr-Yaw-Osei-Adutwum.jpeg",
+      "image": "https://dailyhodl.com/wp-content/uploads/2026/11/TradFiEarn_1795535374JSTCNRBFxE.jpg?resize=1280,720",
       "category": "market"
+    },
+    {
+      "title": "Bengal\u2019s new business model to draw from Maharashtra, Gujarat & UP: CM Suvendu Adhikari",
+      "description": "West Bengal CM Suvendu Adhikari says Bengal will replicate industrial policies of UP, Maharashtra and Gujarat to attract investors, build land bank and boost manufacturing.",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/bengals-new-business-model-to-draw-from-maharashtra-gujarat-up-cm-suvendu-adhikari/articleshow/136136059.cms",
+      "source": "The Times of India",
+      "date": "2026-11-24",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-136136058/136136058.jpg",
+      "category": "market"
+    },
+    {
+      "title": "House Democrat expands investigation into Donald Trump Jr's investment firm",
+      "description": "Rep. Jamie Raskin, the ranking member of the House Judiciary Committee and the panel's incoming chair, sent letters on Monday evening to the defence contractor Hadrian Automation, vape maker Juul Labs, prediction market platform Polymarket and the online fire\u2026",
+      "url": "https://m.economictimes.com/news/international/world-news/house-democrat-expands-investigation-into-donald-trump-jrs-investment-firm/articleshow/136134317.cms",
+      "source": "Economictimes.com",
+      "date": "2026-11-24",
+      "image": "https://img.etimg.com/thumb/msid-136134411,resizemode-4,width-1200,height-900,imgsize-1749914,overlay-economictimes/articleshow.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Ensure Global Summit showcases Telangana\u2019s industrial ecosystem: IT minister Sridhar Babu tells officials",
+      "description": "IT minister Sridhar Babu says Invest Telangana Global Summit 2026 will showcase the state\u2019s industrial ecosystem, attract investments, boost jobs, and highlight key sectors.",
+      "url": "https://timesofindia.indiatimes.com/city/hyderabad/ensure-global-summit-showcases-telanganas-industrial-ecosystem-it-minister-sridhar-babu-tells-officials/articleshow/136133883.cms",
+      "source": "The Times of India",
+      "date": "2026-11-24",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-136133875/136133875.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Metals extend losses, silver drops 5%",
+      "description": "The prices of precious metals went deeper into the red territory on Tuesday, with silver tanking as much as 5%, hitting a fresh September 2025 low. Worries about the United States Federal Reserve's ne...",
+      "url": "https://biztoc.com/x/d4037058bd0a55b5",
+      "source": "Biztoc.com",
+      "date": "2026-11-24",
+      "image": "https://cdn.biztoc.com/d4037058bd0a55b5_s.webp",
+      "category": "central_bank"
     },
     {
       "title": "Groomed to perfection: Elevate your wedding style with dazzling accessories!",
@@ -288,120 +333,75 @@
       "category": "inflation"
     },
     {
-      "title": "What smell attracts salmon?",
-      "description": "What Smell Attracts Salmon?: Decoding the Olfactory Secrets of the Silver Torpedoes The smells that attract salmon are complex blends of amino acids, bile salts, and other organic compounds released by prey and even other salmon; however, the dominant attract\u2026",
-      "url": "https://www.lifesciencesworld.com/what-smell-attracts-salmon/",
-      "source": "Lifesciencesworld.com",
+      "title": "160+ Climate Scientists Call On US House to Block BAAJA After Senate Passage",
+      "description": "In copies of a letter that arrived at the offices of every member of the US House of Representatives late Monday, more than 160 climate scientists said they were aware of the need for \"trade-offs and compromise when passing bipartisan legislation\" like the pe\u2026",
+      "url": "https://www.commondreams.org/news/baaja-climate-scientists",
+      "source": "Common Dreams",
+      "date": "2026-11-24",
+      "image": "https://www.commondreams.org/media-library/an-aerial-view-shows-single-family-homes-adjacent-to-a-lot-being-cleared-to-build-a-new-data-center.jpg?id=68759569&width=1200&height=600&coordinates=0%2C416%2C0%2C416",
+      "category": "geopolitics"
+    },
+    {
+      "title": "One Thing Jennifer Lopez Won\u2019t Do With Her Romances Moving Forward: \u2018I\u2019ve Learned Lessons\u2019",
+      "description": "JLo's romantic life has made headlines for decades.",
+      "url": "https://www.cinemablend.com/movies/one-thing-jennifer-lopez-wont-do-romances-moving-forward",
+      "source": "CinemaBlend",
+      "date": "2026-11-24",
+      "image": "https://cdn.mos.cms.futurecdn.net/hQJAUbeAEU6yfbgEfDftak-2000-80.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Taylor Swift Reportedly Turned Down Cond\u00e9 Nast\u2019s Wedding Photo Requests Twice Before Vanity Fair\u2019s Harsh Profile",
+      "description": "Taylor Swift reportedly turned down 2 requests from Cond\u00e9 Nast for exclusive wedding photos months before its magazine Vanity Fair published a harsh account of her personal and professional life on Nov. 23.",
+      "url": "https://thoughtcatalog.com/sari-moon/2026/11/taylor-swift-reportedly-turned-down-conde-nasts-wedding-photo-requests-twice-before-vanity-fairs-harsh-profile/",
+      "source": "Thoughtcatalog.com",
+      "date": "2026-11-24",
+      "image": "https://thoughtcatalog.com/wp-content/uploads/2026/11/taylor-swift-reportedly-turned-down-conde-nast-s-wedding-photo-requests-twice-be.jpg?w=768&h=768&crop=1",
+      "category": "market"
+    },
+    {
+      "title": "esolat-mcp 1.0.6",
+      "description": "MCP server for prayer times (JAKIM/global), nearest mosque finder, and Islamic calendar events",
+      "url": "https://pypi.org/project/esolat-mcp/1.0.6/",
+      "source": "Pypi.org",
       "date": "2026-11-24",
       "image": null,
-      "category": "metals"
-    },
-    {
-      "title": "Scindia announces advisory panel to address telecom startup, MSME issues",
-      "description": "The advisory panel will address concerns of telecom startups and MSMEs, facilitate government support and help Indian entrepreneurs focus on indigenous technology development.",
-      "url": "https://www.business-standard.com/india-news/scindia-announces-advisory-panel-to-address-telecom-startup-msme-issues-126112400886_1.html",
-      "source": "Business Standard",
-      "date": "2026-11-24",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/04/full/1785861111-8939.jpg",
       "category": "market"
     },
     {
-      "title": "Cosmetic surgery is on the rise globally, with social media and celebrities reducing taboos and influencing beauty ideals",
-      "description": "\u2018Instagram face\u2019 is still a thing, but most countries have their own cultural beauty preferences.",
-      "url": "https://theconversation.com/cosmetic-surgery-is-on-the-rise-globally-with-social-media-and-celebrities-reducing-taboos-and-influencing-beauty-ideals-295431",
-      "source": "The Conversation Africa",
+      "title": "The Inconvenient Truth About the Electricity AI Requires",
+      "description": "AI companies are facing political backlash, but they\u2019re staring down an even bigger problem as they look to take over the world.",
+      "url": "https://www.esquire.com/news-politics/a74457759/data-centers-electricity-explained/",
+      "source": "esquire.com",
       "date": "2026-11-24",
-      "image": "https://images.theconversation.com/files/773312/original/file-20261120-76-ml4stc.jpg?ixlib=rb-4.1.1&rect=0%2C105%2C4349%2C2174&q=45&auto=format&w=1356&h=668&fit=crop",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/441ed568-9ffb-4613-994e-86fcf0a7f246.jpeg?crop=0.631407851963xw:1xh;center,top&resize=1200:*",
       "category": "market"
     },
     {
-      "title": "Mizuho starts SpaceX coverage at Outperform with a $205 price target",
-      "description": "Mizuho's bullish stance on SpaceX highlights the growing importance of space and AI in transforming the aerospace and defense sectors.\nThe post Mizuho starts SpaceX coverage at Outperform with a $205 price target appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/mizuho-spacex-outperform-205-price-target/",
-      "source": "Crypto Briefing",
+      "title": "Cardi B's Ready for Her Global Honor: Billboard Canada Women In Music 2026",
+      "description": "Cardi B is ready for her global honor at Billboard Canada Women In Music 2026. She discusses what's to come in new music and more in her interview.",
+      "url": "http://www.billboard.com/music/rb-hip-hop/cardi-b-billboard-canada-women-in-music-2026-cover-interview-1236388810/",
+      "source": "Billboard",
       "date": "2026-11-24",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/24081256/library-mizuho-starts-spacex-coverage-at-outperform-with-a-205-p-800x450.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Heat deaths reach record high in UK in 2026",
-      "description": "The UK Health Security Agency estimates that the total number of deaths has reached 5,258 for the summer of 2026.",
-      "url": "https://www.aljazeera.com/news/2026/11/24/heat-deaths-reach-record-high-in-uk-in-2026",
-      "source": "Al Jazeera English",
-      "date": "2026-11-24",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/epa_6a3e10c78a22-1782452423.jpg?resize=1920%2C1440",
+      "image": "https://www.billboard.com/wp-content/uploads/2026/11/cardi-b-billboard-canada-1800.jpg",
       "category": "market"
     },
     {
-      "title": "Morning Minute: Jensen Returns, Markets Soar (Except Crypto)",
-      "description": "It was a very green Monday for most markets, but crypto couldn\u2019t hold the pump as ETF sellers race for the exits.",
-      "url": "https://decrypt.co/383868/morning-minute-jensen-returns-markets-soar-except-crypto",
-      "source": "Decrypt",
+      "title": "Benchmark finds GTA 6 PS5 performance inferior to Xbox Series X, with more framerate drops",
+      "description": "GTA 6 on the Xbox Series X has fewer performance drawbacks than on the base PS5. Digital Foundry discovered that framerates stay closer to the 30 fps target on the Microsoft system. VRR at 120Hz also helps the Series X maintain smoother graphics in congested \u2026",
+      "url": "https://www.notebookcheck.net/Benchmark-finds-GTA-6-PS5-performance-inferior-to-Xbox-Series-X-with-more-framerate-drops.1459106.0.html",
+      "source": "Notebookcheck.net",
       "date": "2026-11-24",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-04-gID_7.jpg",
+      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/GTA6XboxSeriesXBannerNew.jpg",
       "category": "market"
     },
     {
-      "title": "What Jensen Huang\u2019s return could mean for Nvidia\u2019s CFO Colette Kress",
-      "description": "A reported SEC accounting probe raises questions about financial oversight and what comes next for the longtime finance chief.",
-      "url": "https://fortune.com/2026/11/24/what-jensen-huang-return-could-mean-nvidia-cfo-colette-kress/",
-      "source": "Fortune",
+      "title": "US weighs new import duties on India, China and 14 other trading partners",
+      "description": "The US is preparing fresh import duties on India, China and 14 other trading partners after a probe into alleged excess industrial capacity.",
+      "url": "https://www.thehindubusinessline.com/news/us-weighs-new-import-duties-on-india-china-and-14-other-trading-partners/article71739874.ece",
+      "source": "BusinessLine",
       "date": "2026-11-24",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/CFO-Daily-Colette-Kress-EVP-CFO-Nvidia.webp",
-      "category": "market"
-    },
-    {
-      "title": "Rs 800 crore a year for govt, a faster journey for lakhs of pilgrims: How Nitin Gadkari's BOT model could build Kedarnath ropeway without draining the budget and change the Himalayan Yatra forever",
-      "description": "Union minister Nitin Gadkari says the proposed Rs 5,000-crore Kedarnath ropeway could take devotees from Sonprayag to the shrine in about 27 minutes. Built on a BOT model with Rs 800 crore annual royalty, the 12.9-km 3S gondola project can carry 18,000 pilgri\u2026",
-      "url": "https://timesofindia.indiatimes.com/city/dehradun/rs-800-crore-a-year-for-govt-a-faster-journey-for-lakhs-of-pilgrims-how-nitin-gadkaris-bot-model-could-build-kedarnath-ropeway-without-draining-the-budget-and-change-the-himalayan-yatra-forever/articleshow/136130903.cms",
-      "source": "The Times of India",
-      "date": "2026-11-24",
-      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-136131535/136131535.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Seva, faith and family bonds mark Guru Nanak Jayanti celebrations in Hyderabad",
-      "description": "Hyderabad marks Guru Nanak Jayanti with Vishaal Deewan at Nampally, prayers, kirtan, langar and seva; families gather to pass on Sikh traditions.",
-      "url": "https://timesofindia.indiatimes.com/city/hyderabad/seva-faith-and-family-bonds-mark-guru-nanak-jayanti-celebrations-in-hyderabad/articleshow/136131616.cms",
-      "source": "The Times of India",
-      "date": "2026-11-24",
-      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-136131613/136131613.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Navigating Health Care: Washington Health Benefit Exchange Addresses Cost Concerns and Access During Open Enrollment \u2014 Converge Media",
-      "description": "On a recent Community Voices Special, host Angela Poe Russell sat down with J. Manny Santiago, the Chief of Equity and Community Partnerships at the Washington Health Benefit Exchange, demystifying the process of securing health insurance with Washington Heal\u2026",
-      "url": "https://www.whereweconverge.com/post/navigating-health-care-washington-health-benefit-exchange-addresses-cost-concerns-and-access-during-open-enrollment",
-      "source": "Whereweconverge.com",
-      "date": "2026-11-24",
-      "image": "http://static1.squarespace.com/static/5ee30ba9e4ae195e50acdd2c/t/6aff46af4f385a2af7d2a985/1795114671330/COMMUNITY+VOICES+COVER.png?format=1500w",
-      "category": "market"
-    },
-    {
-      "title": "California raised minimum wages for fast-food workers \u2013 here\u2019s how it played out 2 years later",
-      "description": "Larger chains were mostly unaffected by the new law, while smaller ones shed workers and locations.",
-      "url": "https://theconversation.com/california-raised-minimum-wages-for-fast-food-workers-heres-how-it-played-out-2-years-later-294552",
-      "source": "The Conversation Africa",
-      "date": "2026-11-24",
-      "image": "https://images.theconversation.com/files/772254/original/file-20261116-64-zhdurv.jpg?ixlib=rb-4.1.1&rect=0%2C719%2C5862%2C2931&q=45&auto=format&w=1356&h=668&fit=crop",
-      "category": "market"
-    },
-    {
-      "title": "If You Thought The Cybertruck Was Ugly, Get A Load Of This EV On Rails",
-      "description": "The US startup Intramotev has ditched aesethetic appeal in favor of an EV model that gets the job done, namely, replacing diesel-powered locomotives with rail cars retrofitted for zero-emission propulsion and autonomous operation.\nThe post If You Thought The \u2026",
-      "url": "https://cleantechnica.com/2026/11/24/autonomou-electric-railcars-federal-grant-us-energy-policy/",
-      "source": "CleanTechnica",
-      "date": "2026-11-24",
-      "image": "https://cleantechnica.com/wp-content/uploads/2026/11/Intramotiv.png",
-      "category": "market"
-    },
-    {
-      "title": "What the junk bond market can tell Bitcoin traders after Monday\u2019s rebound",
-      "description": "Investment-grade yields fell while the weakest borrowers faced the largest jump in the premium investors demanded over Treasuries.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inb\u2026",
-      "url": "https://cryptoslate.com/what-the-junk-bond-market-can-tell-bitcoin-traders-after-mondays-rebound/",
-      "source": "CryptoSlate",
-      "date": "2026-11-24",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/11/junk-bond-yield-divergence-960x720.webp",
+      "image": "https://bl-i.thgim.com/public/incoming/wbzmfm/article71718712.ece/alternates/LANDSCAPE_1200/2026-11-19T033158Z_669501001_RC2PQOANOMLR_RTRMADP_3_APEC-SUMMIT.JPG",
       "category": "supply_demand"
     }
   ],
@@ -547,7 +547,7 @@
       "platinum_usd_oz": 1551.08
     }
   ],
-  "timestamp": "2026-11-25T18:46:16.068690+05:30",
+  "timestamp": "2026-11-25T22:58:52.416278+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
