@@ -54,7 +54,7 @@
         "hold": 25
       },
       "summary": "Gold is showing positive signals. Positive daily movement of 1.0%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-27T16:53:09.627609",
+      "timestamp": "2026-11-27T19:06:47.129006",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 25
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 1.6%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-27T16:53:09.697808",
+      "timestamp": "2026-11-27T19:06:47.193119",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 25
       },
       "summary": "Platinum is showing positive signals. Positive daily movement of 0.8%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-27T16:53:09.756792",
+      "timestamp": "2026-11-27T19:06:47.250553",
       "source": "rule-based"
     }
   },
@@ -135,6 +135,15 @@
   },
   "news": [
     {
+      "title": "Gold pares gains as Fed-hike risks linger, eyes first weekly rise in three weeks",
+      "description": "Gold prices have recently experienced a modest uptick after bottoming out at a 15-month low. Despite the robustness of the US dollar, surging Treasury yields are making investors wary. Following two weeks of declines, gold is now positioned for a weekly gain close to 2.5%. There has been a notable r",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/gold-pares-gains-as-fed-hike-risks-linger-eyes-first-weekly-rise-in-three-weeks/articleshow/136231951.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-11-27",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
       "title": "India bonds slump as oil spike adds to RBI hike bets",
       "description": "Indian government bonds experienced a decline this week, largely influenced by rising oil prices and US Treasury yields. The benchmark bond yield reached its highest point in a week at 7.2650% on Friday. Analysts are anticipating a potential increase in interest rates from the Reserve Bank of India ",
       "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-slump-as-oil-spike-adds-to-rbi-hike-bets/articleshow/136221243.cms",
@@ -144,22 +153,103 @@
       "category": "central_bank"
     },
     {
-      "title": "Eurozone bond yields rise as investors return to riskier assets, oil prices rebound",
-      "description": "Eurozone government bond yields edged higher as investors shifted back towards riskier assets and oil prices rebounded amid escalating Middle East tensions. Markets also assessed the European Central Bank's policy outlook, with money markets pricing in two 25-bps rate hikes by June 2027, despite exp",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/eurozone-bond-yields-rise-as-investors-return-to-riskier-assets-oil-prices-rebound/articleshow/136218279.cms",
-      "source": "Economic Times Markets",
+      "title": "Precious Metals Prices Canada | Gold, Silver, Platinum, Palladium, Rhodium in CAD - Kitco",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqalFQMEJZcTRGQUUtck45dzl5MEtzYmFhZURNVVU1NnFwcXZuNG9MQnhoenNBc28yV2RHU18wM3BuT3RpRnJPQ0FKbkNzMmlLbWxUUmduQjdPUFpGSkt3?oc=5\" target=\"_blank\">Precious Metals Prices Canada | Gold, Silver, Platinum, Palladium, Rhodium in CAD</a>&nbsp;&nbsp;<f",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqalFQMEJZcTRGQUUtck45dzl5MEtzYmFhZURNVVU1NnFwcXZuNG9MQnhoenNBc28yV2RHU18wM3BuT3RpRnJPQ0FKbkNzMmlLbWxUUmduQjdPUFpGSkt3?oc=5",
+      "source": "Google News - Precious Metals",
       "date": "2026-11-27",
       "image": "",
-      "category": "geopolitics"
+      "category": "platinum"
     },
     {
-      "title": "Rupee rally takes a hit as AI trade revival dents shares, currency sees weekly dip",
-      "description": "The Indian rupee has seen a downturn against the US dollar, driven by a drop in local stocks and a rise in oil prices. Interestingly, foreign investments in Indian equities have rebounded, reaching approximately $16 billion this month. With growing interest in AI markets, the rupee's stability could",
-      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-rally-takes-a-hit-as-ai-trade-revival-dents-shares-currency-sees-weekly-dip/articleshow/136218142.cms",
-      "source": "Economic Times Markets",
+      "title": "Gold (XAUUSD), Silver, Platinum Forecasts \u2013 Gold Rallies Amid Rising Demand For Risk Assets - FXEmpire",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVUZKcUhaa0M0aVNjTUk4b0ZHZHktRFVmT3g1NmMxSVhrQW1icnhZbnQxNWVMQ2JFeElWNGx4T256OC1CcEIySFdGNHk3MnZNVFVuYzRRN1M0VU0ybzFmdzJTaVZueXg4ajQ0b0FRWTA0TUE0eklhZTlndTlqZmQ3TjNCZTJfTmVaRnFFaXN0WkphVzZ0V1FyR0hpY2VaeF9MUkhZSVREYlktVENaVDctQlpzWjFmQTBvTW",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVUZKcUhaa0M0aVNjTUk4b0ZHZHktRFVmT3g1NmMxSVhrQW1icnhZbnQxNWVMQ2JFeElWNGx4T256OC1CcEIySFdGNHk3MnZNVFVuYzRRN1M0VU0ybzFmdzJTaVZueXg4ajQ0b0FRWTA0TUE0eklhZTlndTlqZmQ3TjNCZTJfTmVaRnFFaXN0WkphVzZ0V1FyR0hpY2VaeF9MUkhZSVREYlktVENaVDctQlpzWjFmQTBvTWxreE16d2RCLU5zVXRCa0JhdllGTlBMUnc?oc=5",
+      "source": "Google News - Precious Metals",
       "date": "2026-11-27",
       "image": "",
       "category": "currency"
+    },
+    {
+      "title": "GLTR Is Not Glittering, Which Could Be A Golden Opportunity (Rating Downgrade) (GLTR) - Seeking Alpha",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQMGFuVm8xS3JibF9wVTlLb1p0Sjh2OThNNGE5bG1OVDY3RHkyUTNMaTBFNVBuR1Q0OFF0WWxEdlpQMXZHbEdjLW1OMVBoWGpKME0wQkEwN0NZR0k4MDBYTUNYWk9zVXNjV041Vk9reUlzZk9qb0RSZmk4ZVl2YjlkSy1XVHpWRlFVZ0hzYnJNSFFLWmVnaHFTdnNiMUtQLWRPYUw5eEFSYTVFdWp2aEZ3WmxKT2k0Zk9YVF",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMGFuVm8xS3JibF9wVTlLb1p0Sjh2OThNNGE5bG1OVDY3RHkyUTNMaTBFNVBuR1Q0OFF0WWxEdlpQMXZHbEdjLW1OMVBoWGpKME0wQkEwN0NZR0k4MDBYTUNYWk9zVXNjV041Vk9reUlzZk9qb0RSZmk4ZVl2YjlkSy1XVHpWRlFVZ0hzYnJNSFFLWmVnaHFTdnNiMUtQLWRPYUw5eEFSYTVFdWp2aEZ3WmxKT2k0Zk9YVFE?oc=5",
+      "source": "Google News - Precious Metals",
+      "date": "2026-11-27",
+      "image": "",
+      "category": "metals"
+    },
+    {
+      "title": "\u2018It\u2019ll Rain Eventually\u2019 Is Not a Water Strategy",
+      "description": "The good news is that most of the effective measures are not expensive, and several cost almost nothing at all.\nThe post \u2018It\u2019ll Rain Eventually\u2019 Is Not a Water Strategy appeared first on The Good Men Project.",
+      "url": "https://goodmenproject.com/featured-content/itll-rain-eventually-is-not-a-water-strategy/",
+      "source": "The Good Men Project",
+      "date": "2026-11-26",
+      "image": "https://goodmenproject.com/wp-content/uploads/2026/11/unsplash-GKFsewkhz0.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Rs40,000cr projects lined up to woo investors at Rising Nagpur",
+      "description": "Nagpur to pitch Rs40,000 crore PPP infrastructure pipeline at Rising Nagpur Investment Meet on Nov 30, featuring markets, transit hubs, jail land and lakefront projects.",
+      "url": "https://timesofindia.indiatimes.com/city/nagpur/rs40000cr-projects-lined-up-to-woo-investors-at-rising-nagpur/articleshow/136202014.cms",
+      "source": "The Times of India",
+      "date": "2026-11-26",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-136202012/136202012.jpg",
+      "category": "market"
+    },
+    {
+      "title": "CM calls preserving constitutional values every citizen\u2019s foremost duty",
+      "description": "Odisha CM Mohan Charan Majhi urges citizens to uphold constitutional values on Constitution Day, citing Emergency lessons, democratic institutions, and development.",
+      "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/cm-calls-preserving-constitutional-values-every-citizens-foremost-duty/articleshow/136202002.cms",
+      "source": "The Times of India",
+      "date": "2026-11-26",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-47529300/47529300.jpg",
+      "category": "market"
+    },
+    {
+      "title": "SKM presses for MSP law, scrap US trade deal on stir\u2019s 6th anniversary",
+      "description": "SKM marks farmers\u2019 stir anniversary, seeks MSP law at C2+50%, loan waiver, halt power privatisation and scrap India\u2013US trade deal and other FTAs.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/skm-presses-for-msp-law-scrap-us-trade-deal-on-stirs-6th-anniversary/articleshow/136201907.cms",
+      "source": "The Times of India",
+      "date": "2026-11-26",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-136201905/136201905.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Land demand outstrips availability at PM MITRA Park, MP to develop second textile hub in Dhar",
+      "description": "Madhya Pradesh to build a second 843-acre textile park in Dhar after PM MITRA Park drew 726 acres of demand vs 200 available, targeting Rs 6,150 crore investment.",
+      "url": "https://timesofindia.indiatimes.com/city/bhopal/land-demand-outstrips-availability-at-pm-mitra-park-mp-to-develop-second-textile-hub-in-dhar/articleshow/136200435.cms",
+      "source": "The Times of India",
+      "date": "2026-11-26",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-136201740/136201740.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Two retired DySPs from Gujarat accuse father-son duo of Rs 72 lakh investment fraud",
+      "description": "Two retired Gujarat DySPs file FIRs alleging Vishnu \u201cN D\u201d Chaudhary and son Akash duped them of Rs 72 lakh in real estate investment fraud amid earlier transfer racket case.",
+      "url": "https://timesofindia.indiatimes.com/city/ahmedabad/two-retired-dysps-from-gujarat-accuse-father-son-duo-of-rs-72-lakh-investment-fraud/articleshow/136201729.cms",
+      "source": "The Times of India",
+      "date": "2026-11-26",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-136201722/136201722.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Natural sweetener stevia offers new farm-to-industry opportunity for Telangana",
+      "description": "Telangana eyes stevia as a commercial crop; summit suggests 500\u20131,000 acres initially, university nursery support, and potential for processing and four harvests yearly.",
+      "url": "https://timesofindia.indiatimes.com/city/hyderabad/natural-sweetener-stevia-offers-new-farm-to-industry-opportunity-for-telangana/articleshow/136201546.cms",
+      "source": "The Times of India",
+      "date": "2026-11-26",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-136201503/136201503.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Tadej Poga\u010dar advised by Paul Kimmage to speak to UAE boss about cycling\u2019s past after five-time Tour de France winner claimed \u201cdoping doesn\u2019t exist now\u201d",
+      "description": "\u201cHe could have framed that answer as, \u2018I know from the experiences of my general manager Mauro Gianetti that doping was a really dangerous game, that people did this, and I\u2019m not prepared to do it\u2019. Not presenting it like, why would you ever do this? When tha\u2026",
+      "url": "https://road.cc/news/tadej-pogacar-advised-by-paul-kimmage-to-speak-to-uae-boss-about-cyclings-doping-past",
+      "source": "road.cc",
+      "date": "2026-11-26",
+      "image": "https://cdn.road.cc/wp-content/uploads/2026/07/DP2_5884-scaled.jpg",
+      "category": "market"
     },
     {
       "title": "Govt clears 19 projects worth Rs 3,810cr",
@@ -168,69 +258,6 @@
       "source": "The Times of India",
       "date": "2026-11-26",
       "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-136198163/136198163.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Hyatt signs agreement with SIDG to develop hotel at Gold Coast",
-      "description": "Hyatt Hotels has signed an agreement with Sunnyland Investment Development Group (SIDG) to develop Hyatt Regency Gold Coast in Australia.\nThe hotel is scheduled to open in 2030 within Orlo, a waterfront mixed-use development in Surfers Paradise.\nOnce complete\u2026",
-      "url": "https://biztoc.com/x/4969b3e83155d43b",
-      "source": "Biztoc.com",
-      "date": "2026-11-26",
-      "image": "https://cdn.biztoc.com/4969b3e83155d43b_s.webp",
-      "category": "metals"
-    },
-    {
-      "title": "Today\u2019s News in a Nutshell",
-      "description": "KATHMANDU: Khabarhub brings you a glimpse of major developments of the day in Nepal, including politics, business/economy, sports, entertainment, and more. PM Balen, RSP Chair Rabi hold five-hour meeting Prime Minister (PM) Balendra Shah and Rastriya Swatantr\u2026",
-      "url": "https://english.khabarhub.com/2026/26/577102/",
-      "source": "Khabarhub.com",
-      "date": "2026-11-26",
-      "image": "https://english.khabarhub.com/wp-content/uploads/2024/05/News-Nutshell.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Defence, aerospace growing faster than IT, pharma in Telangana, says Uttam Kumar Reddy",
-      "description": "Telangana defence & aerospace outpacing IT, pharma with 100% YoY rise in production, exports, says Uttam at CII conclave; invites firms to Raksha Expo 2026.",
-      "url": "https://timesofindia.indiatimes.com/city/hyderabad/defence-aerospace-growing-faster-than-it-pharma-in-telangana-says-uttam-kumar-reddy/articleshow/136190199.cms",
-      "source": "The Times of India",
-      "date": "2026-11-26",
-      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-47529300/47529300.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Fake female profiles, scripted conversations: 164 Indonesians and Malaysians rescued from Delih's Dwarka premises after being lured with job offers and forced into online fraud",
-      "description": "A significant human trafficking case unfolded in India, leading to the rescue of 164 foreign nationals. They were allegedly manipulated into making fraudulent calls and had their passports confiscated. The illegal operation involved training them to deceive i\u2026",
-      "url": "https://timesofindia.indiatimes.com/city/delhi/fake-female-profiles-scripted-conversations-164-indonesians-and-malaysians-rescued-from-delihs-dwarka-premises-after-being-lured-with-job-offers-and-forced-into-online-fraud/articleshow/136195670.cms",
-      "source": "The Times of India",
-      "date": "2026-11-26",
-      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-136195997/136195997.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Mumbai's Matunga workshop goes solar with 2MW rooftop capacity, set to meet 42.5% of electricity needs and save central railway Rs 1.90 crore annually",
-      "description": "Central Railway's Matunga Workshop has been upgraded with a 2 MW rooftop solar power system to enhance sustainability. This installation is estimated to provide 42.5% of the workshop's electricity needs and save Rs 1.90 crore per year. The solar plants are fi\u2026",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/mumbais-matunga-workshop-goes-solar-with-2mw-rooftop-capacity-set-to-meet-42-5-of-electricity-needs-and-save-central-railway-rs-1-90-crore-annually/articleshow/136195782.cms",
-      "source": "The Times of India",
-      "date": "2026-11-26",
-      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-136195878/136195878.jpg",
-      "category": "market"
-    },
-    {
-      "title": "PrimeXBT Celebrates 8 Years of Redefining Crypto Trading with 50% Deposit Bonus",
-      "description": "PrimeXBT celebrates its 8th anniversary, marking its evolution from crypto margin trading into a global multi-asset broker and crypto asset service provider. Since its founding in 2018, the company has expanded its offering through continuous product innovati\u2026",
-      "url": "https://zycrypto.com/primexbt-celebrates-8-years-of-redefining-crypto-trading-with-50-deposit-bonus/",
-      "source": "ZyCrypto",
-      "date": "2026-11-26",
-      "image": "https://zycrypto.com/wp-content/uploads/2026/11/unnamed-2026-11-26T144414.131.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Axis Bank expects MSME loan book to grow 25% in second half of FY27",
-      "description": "Axis Bank expects its micro, small and medium enterprises loan portfolio to grow significantly by 25%. The MSME loan book was reported at Rs 3.3 lakh crore as of September. Women borrowers comprise approximately 15% of the Banks MSME segment, with a goal to i\u2026",
-      "url": "https://m.economictimes.com/industry/banking/finance/banking/axis-bank-expects-msme-loan-book-to-grow-25-in-second-half-of-fy27/articleshow/135993107.cms",
-      "source": "Economictimes.com",
-      "date": "2026-11-26",
-      "image": "https://img.etimg.com/thumb/msid-135993125,resizemode-4,width-1200,height-900,imgsize-76408,overlay-economictimes/articleshow.jpg",
       "category": "market"
     },
     {
@@ -297,112 +324,85 @@
       "category": "metals"
     },
     {
-      "title": "Anurag Thakur demands Congress to apologise for imposing Emergency",
-      "description": "Anurag Thakur slams Congress at Hyderabad rally, seeks apology for 1975 Emergency, defends electoral roll revision, and accuses party of sidelining Ambedkar.",
-      "url": "https://timesofindia.indiatimes.com/city/hyderabad/anurag-thakur-demands-congress-to-apologise-for-imposing-emergency/articleshow/136198756.cms",
-      "source": "The Times of India",
+      "title": "Nigeria, Togo sign deal to develop twin data parks",
+      "description": "Nigeria and Togo sign an MoU to develop two interconnected data parks, seeking private investment to draw global data centre operators to West Africa.\n\nRead More: https://punchng.com/nigeria-togo-sign-deal-to-develop-twin-data-parks/",
+      "url": "https://punchng.com/nigeria-togo-sign-deal-to-develop-twin-data-parks/",
+      "source": "The Punch",
       "date": "2026-11-26",
-      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-47529300/47529300.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Hollywood's most dramatic Thanksgiving moments: From Halle Berry's holiday brawl to Kanye West's onstage meltdown and beyond",
-      "description": "Thanksgiving\u00a0has long been a beloved holiday for Americans taking stock of their blessings, but the long weekend has also been a source of controversy and conflict for Hollywood stars.",
-      "url": "https://www.dailymail.com/tvshowbiz/article-16323365/Hollywood-dramatic-Thanksgiving-Halle-Berry-Kanye-West.html",
-      "source": "Dailymail.com",
-      "date": "2026-11-26",
-      "image": "https://i.dailymail.com/1s/2026/11/26/05/112734637-0-image-m-16_1795670339632.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Global stocks move upward despite shock warning from Panmure Liberum analyst who sold all equities in his personal portfolio",
-      "description": "There is nothing but bad news on the horizon, multiple Wall Street and London City analysts said in emails to Fortune.",
-      "url": "https://fortune.com/2026/11/26/global-stocks-move-upward-despite-shock-warning-from-panmure-liberum-to-sell-all-equities-now/",
-      "source": "Fortune",
-      "date": "2026-11-26",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-1211350756.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Jensen Huang\u2019s return to Nvidia exposes risks of concentrated AI infrastructure, io.net strategist says",
-      "description": "Centralized AI infrastructure heightens systemic risks, urging diversification to mitigate leadership crises and geopolitical vulnerabilities.\nThe post Jensen Huang\u2019s return to Nvidia exposes risks of concentrated AI infrastructure, io.net strategist says app\u2026",
-      "url": "https://cryptobriefing.com/concentrated-ai-infrastructure-risks/",
-      "source": "Crypto Briefing",
-      "date": "2026-11-26",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/26114047/library-jensen-huang-s-return-to-nvidia-exposes-risks-of-concent-800x450.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Uber names Rakesh Ranjan as India president",
-      "description": "Uber appoints ex-Zomato exec Rakesh Ranjan as president for India and South Asia from Jan 4, to lead its third-largest market and boost rider, driver experience.",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/uber-names-rakesh-ranjan-as-india-president/articleshow/136198546.cms",
-      "source": "The Times of India",
-      "date": "2026-11-26",
-      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136198543/136198543.jpg",
+      "image": "https://cdn.punchng.com/wp-content/uploads/2026/11/26195407/6155d0f4-aefc-4fc7-bbc2-c35ee38c3006_1795719247-1200x630.webp",
       "category": "market"
     },
     {
-      "title": "Nifty at 29,000 by end-2027; three more RBI rate hikes expected: JP Morgan",
-      "description": "JP Morgan projects an upswing in Nifty 50, fueled by recovering corporate earnings and a decline in oil prices. With consumer demand holding steady, the domestic economy could thrive as private investments surge. However, should the Reserve Bank of India choo\u2026",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/nifty-at-29000-by-end-2027-three-more-rbi-rate-hikes-expected-jp-morgan/articleshow/136197512.cms",
-      "source": "The Times of India",
-      "date": "2026-11-26",
-      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136198365/136198365.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "Bizarre conspiracy theories explaining Macy\u2019s Thanksgiving Parade delay from \u2018quantum leap\u2019 to corporate cash",
-      "description": "Microsoft outages, grounded flights, and tumbling tech stocks apparently weren't enough to convince Americans that something sinister was afoot. But mess with their giant inflatable Snoopy, and suddenly the space-time continuum is collapsing\u2014or, if you ask Ne\u2026",
-      "url": "https://nypost.com/2026/11/26/lifestyle/macys-thanksgiving-day-parade-postponement-sparks-wild-conspiracy-theories/",
-      "source": "New York Post",
-      "date": "2026-11-26",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/newspress-collage-4xymlm6bd-1795709131174.jpg?quality=75&strip=all&1795691183&w=1200",
-      "category": "market"
-    },
-    {
-      "title": "Switzerland Crypto Tax Data Will Reach 57 Countries in 2028, Not 74 in 2027",
-      "description": "Switzerland's Federal Council approved 57 partners for the automatic exchange of crypto tax data from 2028, down from 74 proposed in June 2025 with a 2027 start.",
-      "url": "https://www.dcforecasts.com/regulation/switzerland-crypto-tax-data-57-partners-2028/",
-      "source": "Dcforecasts.com",
-      "date": "2026-11-26",
-      "image": "https://www.dcforecasts.com/wp-content/uploads/2026/11/switzerland-crypto-tax-data-57-partners-2028.webp",
-      "category": "central_bank"
-    },
-    {
-      "title": "Federal judge blocks the FCC from reviewing ABC\u2019s licenses early",
-      "description": "US District Judge Loren AliKhan has blocked the Federal Communications Commission from conducting an early review of ABC's broadcast licenses in a preliminary injunction, and rejected its efforts to dismiss ABC's First Amendment lawsuit. ABC has accused the F\u2026",
-      "url": "https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block",
-      "source": "The Verge",
-      "date": "2026-11-26",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25840497/STKP211_BRENDAN_CARR_B.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-      "category": "central_bank"
-    },
-    {
-      "title": "Federal Scientist Shared Draft Climate Lesson For Judges With Lawyer Weighing Oil Lawsuit",
-      "description": "A federal lab scientist sent a draft climate lesson for judges to an attorney weighing a lawsuit against oil companies, House records show.",
-      "url": "https://dailycaller.com/2026/11/26/michael-wehner-roger-worthington-environmental-law-institute-climate-judiciary-project-multnomah-county/",
-      "source": "The Daily Caller",
-      "date": "2026-11-26",
-      "image": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https%3A%2F%2Fcdn01.dailycaller.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fportland-heat-dome-cooling-center-oregon-convention-center-getty.jpg",
-      "category": "central_bank"
-    },
-    {
-      "title": "The 2026 HIPAA Privacy Rule: what it means for health app builders | Terra",
-      "description": "The 2026 HIPAA Privacy Rule lets patients send medical records to any app. Here's what developers can build with it.",
-      "url": "https://tryterra.co/blog/hipaa-privacy-rule-health-apps",
-      "source": "Tryterra.co",
-      "date": "2026-11-26",
-      "image": "https://loved-hug-5d84552294.media.strapiapp.com/697054b5_8b2a_457b_bbd5_62a5701cf710_d3b55703d1.svg",
-      "category": "market"
-    },
-    {
-      "title": "Trump calls GDP figures 'fake' and demands investigation of Commerce Department",
-      "description": "WEST PALM BEACH, Fla. (AP) \u2014 President Donald Trump on Thursday accused his Commerce Department of purposely issuing incorrect economic growth figures before the midterm elections, and said he wants to launch an investigation.\n Trump has repeatedly sought to \u2026",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_fa967610-ebce-4482-b3c8-8a8f8de4bbb3",
-      "source": "Yahoo Entertainment",
+      "title": "My 2026 Thanksgiving Gratitude Poem",
+      "description": "",
+      "url": "https://www.blogger.com/browser-not-supported/?ref=/comment/fullpage/post/26204193/6178818734912508660",
+      "source": "Blogger.com",
       "date": "2026-11-26",
       "image": null,
-      "category": "supply_demand"
+      "category": "market"
+    },
+    {
+      "title": "Microsoft: Hackers in China, N Korea using ARTEX AI tool to break into global tech systems",
+      "description": "Agentic offensive framework automates familiar attack techniques, with weak defenses potentially breached in minutes",
+      "url": "https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433",
+      "source": "Theregister.com",
+      "date": "2026-11-26",
+      "image": "https://image.theregister.com/5310524.webp?width=1200",
+      "category": "market"
+    },
+    {
+      "title": "Elizabeth Holmes\u2019 Partner Billy Evans Writes Her an Emotional Thanksgiving Love Letter: \u2018Our Most Beautiful Days Are Still Ahead of Us\u2019",
+      "description": "Billy Evans, Elizabeth Holmes\u2019 partner and the father of their two children, took to X on Nov. 26 to write an emotional Thanksgiving message to her. The text is primarily about how much he misses her and how their kids need their mother. Holmes is currently s\u2026",
+      "url": "https://variety.com/2026/film/news/elizabeth-holmes-billy-evans-thanksgiving-love-letter-1236959067/",
+      "source": "Variety",
+      "date": "2026-11-26",
+      "image": "https://variety.com/wp-content/uploads/2026/11/1248465318.jpg",
+      "category": "market"
+    },
+    {
+      "title": "quantset 0.1.3",
+      "description": "QuantSet (https://quantset.dev) \u2014 Institutional market data API for AI hedge funds, autonomous trading agents & quant backtests in Python: 90,000+ global stocks (67 countries, 64yr history), reconciled SEC EDGAR XBRL financials (10-K, 10-Q, 13F, Form 4), 4,89\u2026",
+      "url": "https://pypi.org/project/quantset/0.1.3/",
+      "source": "Pypi.org",
+      "date": "2026-11-26",
+      "image": null,
+      "category": "market"
+    },
+    {
+      "title": "Before the Sell-Off, AI Stocks Showed Dot-Com-Level Bubble Signals: Study",
+      "description": "A study of 170 years of financial journalism suggests AI stocks rivaled dot-com bubble levels, but estimates vary.",
+      "url": "https://decrypt.co/384066/before-the-sell-off-ai-stocks-showed-dot-com-level-bubble-signals-study",
+      "source": "Decrypt",
+      "date": "2026-11-26",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/crypto-trading-decrypt-style-02-gID_7.png",
+      "category": "market"
+    },
+    {
+      "title": "Merz Warns Germany \u2018Can No Longer Afford Everything\u2019 in Record 2027 Budget Debate",
+      "description": "Germany can't sustain its generous welfare system while defense spending grows, Merz explained.\nThe post Merz Warns Germany \u2018Can No Longer Afford Everything\u2019 in Record 2027 Budget Debate first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
+      "url": "https://legalinsurrection.com/2026/11/merz-warns-germany-can-no-longer-afford-everything-in-record-2027-budget-debate/",
+      "source": "Legalinsurrection.com",
+      "date": "2026-11-26",
+      "image": "https://legalinsurrection.com/wp-content/uploads/2026/11/Merz-Germany-Budget-2027.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Jack Preger, the Irish-trained doctor who gave his life to the poor of Calcutta",
+      "description": "The English medic and founder of Calcutta Rescue also spent time in Monaghan, working at St Davnet\u2019s psychiatric hospital",
+      "url": "https://www.irishtimes.com/opinion/an-irish-diary/2026/11/26/jack-preger-the-irish-trained-doctor-who-gave-his-life-to-the-poor-of-calcutta/",
+      "source": "The Irish Times",
+      "date": "2026-11-26",
+      "image": "https://www.irishtimes.com/resizer/v2/DDSIDXQSNZGWHN3SRWKSNR42XU.jpg?auth=35c3a70d91817c0c19c005ccb2b95e6c6e7cc307c479e8b853abc6bd304c26c4&smart=true&width=1600&height=900",
+      "category": "market"
+    },
+    {
+      "title": "NUC sets up group to boost innovation, entrepreneurship in varsities",
+      "description": "NUC and EyeCity Africa inaugurate the Higher Education Innovation Working Group to boost entrepreneurship, graduate employability and research commercialis\n\nRead More: https://punchng.com/nuc-sets-up-group-to-boost-innovation-entrepreneurship-in-varsities/",
+      "url": "https://punchng.com/nuc-sets-up-group-to-boost-innovation-entrepreneurship-in-varsities/",
+      "source": "The Punch",
+      "date": "2026-11-26",
+      "image": "https://cdn.punchng.com/wp-content/uploads/2026/11/26191450/085c0172-cfca-4921-a133-da2c9276ba8f_1795716890-452x630.webp",
+      "category": "market"
     }
   ],
   "history": [
@@ -547,7 +547,7 @@
       "platinum_usd_oz": 1551.08
     }
   ],
-  "timestamp": "2026-11-27T22:23:09.766849+05:30",
+  "timestamp": "2026-11-28T00:36:47.260951+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
