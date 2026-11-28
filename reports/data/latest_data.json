@@ -54,7 +54,7 @@
         "hold": 25
       },
       "summary": "Gold is showing positive signals. Positive daily movement of 1.0%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-27T21:33:29.356725",
+      "timestamp": "2026-11-28T12:03:49.881925",
       "source": "rule-based"
     },
     "silver": {
@@ -66,7 +66,7 @@
         "hold": 25
       },
       "summary": "Silver is showing positive signals. Strong daily gain of 1.6%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-27T21:33:29.413831",
+      "timestamp": "2026-11-28T12:03:49.964613",
       "source": "rule-based"
     },
     "platinum": {
@@ -78,7 +78,7 @@
         "hold": 25
       },
       "summary": "Platinum is showing positive signals. Positive daily movement of 0.8%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
-      "timestamp": "2026-11-27T21:33:29.466067",
+      "timestamp": "2026-11-28T12:03:50.068216",
       "source": "rule-based"
     }
   },
@@ -135,273 +135,273 @@
   },
   "news": [
     {
-      "title": "Gold pares gains as Fed-hike risks linger, eyes first weekly rise in three weeks",
-      "description": "Gold prices have recently experienced a modest uptick after bottoming out at a 15-month low. Despite the robustness of the US dollar, surging Treasury yields are making investors wary. Following two weeks of declines, gold is now positioned for a weekly gain close to 2.5%. There has been a notable r",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/gold-pares-gains-as-fed-hike-risks-linger-eyes-first-weekly-rise-in-three-weeks/articleshow/136231951.cms",
+      "title": "Bond market to stay cautious ahead of RBI policy: Equirus",
+      "description": "The bond market is expected to remain cautious due to persistent inflationary pressures and anticipated rate hikes. Analysts predict a 25 basis points hike in the RBI's upcoming monetary policy review. Market yields are likely to be influenced by geopolitical tensions and global bond movements. Fore",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/bond-market-to-stay-cautious-ahead-of-rbi-policy-equirus/articleshow/136240295.cms",
       "source": "Economic Times Markets",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "image": "",
       "category": "geopolitics"
     },
     {
-      "title": "India bonds slump as oil spike adds to RBI hike bets",
-      "description": "Indian government bonds experienced a decline this week, largely influenced by rising oil prices and US Treasury yields. The benchmark bond yield reached its highest point in a week at 7.2650% on Friday. Analysts are anticipating a potential increase in interest rates from the Reserve Bank of India ",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-slump-as-oil-spike-adds-to-rbi-hike-bets/articleshow/136221243.cms",
+      "title": "From war premium to demand concerns: What is driving the sharp fall in crude oil prices?",
+      "description": "Crude oil prices have fallen sharply from their September highs as geopolitical risk premiums fade and concerns over oversupply and slowing demand take centre stage. Rising production from non-OPEC countries, resilient Middle Eastern exports and weaker consumption expectations are weighing on global",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/from-war-premium-to-demand-concerns-what-is-driving-the-sharp-fall-in-crude-oil-prices/articleshow/136238953.cms",
       "source": "Economic Times Markets",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "image": "",
-      "category": "central_bank"
+      "category": "geopolitics"
     },
     {
-      "title": "Precious Metals Prices Canada | Gold, Silver, Platinum, Palladium, Rhodium in CAD - Kitco",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqalFQMEJZcTRGQUUtck45dzl5MEtzYmFhZURNVVU1NnFwcXZuNG9MQnhoenNBc28yV2RHU18wM3BuT3RpRnJPQ0FKbkNzMmlLbWxUUmduQjdPUFpGSkt3?oc=5\" target=\"_blank\">Precious Metals Prices Canada | Gold, Silver, Platinum, Palladium, Rhodium in CAD</a>&nbsp;&nbsp;<f",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqalFQMEJZcTRGQUUtck45dzl5MEtzYmFhZURNVVU1NnFwcXZuNG9MQnhoenNBc28yV2RHU18wM3BuT3RpRnJPQ0FKbkNzMmlLbWxUUmduQjdPUFpGSkt3?oc=5",
-      "source": "Google News - Precious Metals",
-      "date": "2026-11-27",
+      "title": "Gold pares gains as Fed hike risks linger, eyes first weekly rise in three weeks",
+      "description": "Gold prices saw a notable uptick as investors seized the opportunity for bargain purchases, despite a robust US dollar and escalating yields causing some hesitance. After reaching a 15-month low recently, spot gold has recorded a potential weekly increase of nearly 3%. Analysts caution, however, tha",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-pares-gains-as-fed-hike-risks-linger-eyes-first-weekly-rise-in-three-weeks/articleshow/136237788.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-11-28",
       "image": "",
-      "category": "platinum"
+      "category": "geopolitics"
     },
     {
       "title": "Gold (XAUUSD), Silver, Platinum Forecasts \u2013 Gold Rallies Amid Rising Demand For Risk Assets - FXEmpire",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVUZKcUhaa0M0aVNjTUk4b0ZHZHktRFVmT3g1NmMxSVhrQW1icnhZbnQxNWVMQ2JFeElWNGx4T256OC1CcEIySFdGNHk3MnZNVFVuYzRRN1M0VU0ybzFmdzJTaVZueXg4ajQ0b0FRWTA0TUE0eklhZTlndTlqZmQ3TjNCZTJfTmVaRnFFaXN0WkphVzZ0V1FyR0hpY2VaeF9MUkhZSVREYlktVENaVDctQlpzWjFmQTBvTW",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVUZKcUhaa0M0aVNjTUk4b0ZHZHktRFVmT3g1NmMxSVhrQW1icnhZbnQxNWVMQ2JFeElWNGx4T256OC1CcEIySFdGNHk3MnZNVFVuYzRRN1M0VU0ybzFmdzJTaVZueXg4ajQ0b0FRWTA0TUE0eklhZTlndTlqZmQ3TjNCZTJfTmVaRnFFaXN0WkphVzZ0V1FyR0hpY2VaeF9MUkhZSVREYlktVENaVDctQlpzWjFmQTBvTWxreE16d2RCLU5zVXRCa0JhdllGTlBMUnc?oc=5",
       "source": "Google News - Precious Metals",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "image": "",
       "category": "currency"
     },
     {
-      "title": "GLTR Is Not Glittering, Which Could Be A Golden Opportunity (Rating Downgrade) (GLTR) - Seeking Alpha",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPV3JYQmJaQjhfQkg5U3hqVm0wS0RUTENqS251dUVJd29QTzg4NlV2NkFMQzl4SC1WU25wTGNIWFBYbFl1MWVKOWV3UEkwam15bTZScXEzTlpZV0NkaXNRT2kyb3piczcweEE4c2VlLTZ6VmJuRVA0TllhMWZXRFZzUnlQZjIxeml0R2lfUnlDcHhsc043eWhzRmZRRDdtdDVG?oc=5\" target=\"_blank\">GLTR Is Not",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV3JYQmJaQjhfQkg5U3hqVm0wS0RUTENqS251dUVJd29QTzg4NlV2NkFMQzl4SC1WU25wTGNIWFBYbFl1MWVKOWV3UEkwam15bTZScXEzTlpZV0NkaXNRT2kyb3piczcweEE4c2VlLTZ6VmJuRVA0TllhMWZXRFZzUnlQZjIxeml0R2lfUnlDcHhsc043eWhzRmZRRDdtdDVG?oc=5",
-      "source": "Google News - Precious Metals",
+      "title": "RBI gold share in forex reserves falls below 14% after price correction",
+      "description": "Gold\u2019s share in India\u2019s forex reserves fell to 13.98% by November 13, as prices dropped from their January peak while RBI gold holdings stayed nearly unchanged.",
+      "url": "https://www.thehindubusinessline.com/data-stories/data-focus/rbi-gold-share-in-forex-reserves-falls-below-14-after-price-correction/article71750525.ece",
+      "source": "BusinessLine",
       "date": "2026-11-27",
-      "image": "",
-      "category": "metals"
-    },
-    {
-      "title": "Wedding shoppers strike gold as price tumbles",
-      "description": "Lucknow wedding shoppers boost gold, silver buying as prices fall; lightweight jewellery, coins and bars see demand for weddings and long-term investment.",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/wedding-shoppers-strike-gold-as-price-tumbles/articleshow/136202700.cms",
-      "source": "The Times of India",
-      "date": "2026-11-26",
-      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-136202699/136202699.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "Kumbh infra to boost Nashik\u2019s tourism, industrial growth: Singh",
-      "description": "85% of Nashik\u2019s 2027 Kumbh Mela infrastructure will be permanent, including a 65.6km ring road, boosting tourism, industry and connectivity for 15\u201320 years.",
-      "url": "https://timesofindia.indiatimes.com/city/nashik/kumbh-infra-to-boost-nashiks-tourism-industrial-growth-singh/articleshow/136202599.cms",
-      "source": "The Times of India",
-      "date": "2026-11-26",
-      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-136202598/136202598.jpg",
-      "category": "market"
-    },
-    {
-      "title": "SP govt\u2019s past record belies its manifesto promises: BJP",
-      "description": "BJP slams Samajwadi Party manifesto, citing SP\u2019s past record on law and order, women\u2019s welfare and recruitment scams; calls promises for 2027 \u201clies.\u201d",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/sp-govts-past-record-belies-its-manifesto-promises-bjp/articleshow/136202513.cms",
-      "source": "The Times of India",
-      "date": "2026-11-26",
-      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-136202507/136202507.jpg",
-      "category": "market"
-    },
-    {
-      "title": "\u2018It\u2019ll Rain Eventually\u2019 Is Not a Water Strategy",
-      "description": "The good news is that most of the effective measures are not expensive, and several cost almost nothing at all.\nThe post \u2018It\u2019ll Rain Eventually\u2019 Is Not a Water Strategy appeared first on The Good Men Project.",
-      "url": "https://goodmenproject.com/featured-content/itll-rain-eventually-is-not-a-water-strategy/",
-      "source": "The Good Men Project",
-      "date": "2026-11-26",
-      "image": "https://goodmenproject.com/wp-content/uploads/2026/11/unsplash-GKFsewkhz0.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Rs40,000cr projects lined up to woo investors at Rising Nagpur",
-      "description": "Nagpur to pitch Rs40,000 crore PPP infrastructure pipeline at Rising Nagpur Investment Meet on Nov 30, featuring markets, transit hubs, jail land and lakefront projects.",
-      "url": "https://timesofindia.indiatimes.com/city/nagpur/rs40000cr-projects-lined-up-to-woo-investors-at-rising-nagpur/articleshow/136202014.cms",
-      "source": "The Times of India",
-      "date": "2026-11-26",
-      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-136202012/136202012.jpg",
-      "category": "market"
-    },
-    {
-      "title": "CM calls preserving constitutional values every citizen\u2019s foremost duty",
-      "description": "Odisha CM Mohan Charan Majhi urges citizens to uphold constitutional values on Constitution Day, citing Emergency lessons, democratic institutions, and development.",
-      "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/cm-calls-preserving-constitutional-values-every-citizens-foremost-duty/articleshow/136202002.cms",
-      "source": "The Times of India",
-      "date": "2026-11-26",
-      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-47529300/47529300.jpg",
-      "category": "market"
-    },
-    {
-      "title": "SKM presses for MSP law, scrap US trade deal on stir\u2019s 6th anniversary",
-      "description": "SKM marks farmers\u2019 stir anniversary, seeks MSP law at C2+50%, loan waiver, halt power privatisation and scrap India\u2013US trade deal and other FTAs.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/skm-presses-for-msp-law-scrap-us-trade-deal-on-stirs-6th-anniversary/articleshow/136201907.cms",
-      "source": "The Times of India",
-      "date": "2026-11-26",
-      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-136201905/136201905.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Land demand outstrips availability at PM MITRA Park, MP to develop second textile hub in Dhar",
-      "description": "Madhya Pradesh to build a second 843-acre textile park in Dhar after PM MITRA Park drew 726 acres of demand vs 200 available, targeting Rs 6,150 crore investment.",
-      "url": "https://timesofindia.indiatimes.com/city/bhopal/land-demand-outstrips-availability-at-pm-mitra-park-mp-to-develop-second-textile-hub-in-dhar/articleshow/136200435.cms",
-      "source": "The Times of India",
-      "date": "2026-11-26",
-      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-136201740/136201740.jpg",
-      "category": "supply_demand"
-    },
-    {
-      "title": "No Way Out of Huge Global Debt \u2013 David Morgan",
-      "description": "Economic analyst and financial writer David Morgan is worried about the huge unpayable global debt.\u00a0 Is a debt implosion in the cards?\u00a0 Why is it that at least three dozen countries around the world are telling people to prepare for an emergency and telling t\u2026",
-      "url": "https://activistpost.com/no-way-out-of-huge-global-debt-david-morgan/",
-      "source": "Activistpost.com",
-      "date": "2026-11-26",
-      "image": "https://activistpost.com/wp-content/uploads/2026/11/central-bank-gold-demand-world-gold-council-gold-prices-6174-1793874526249-ebbb4bd6-original-1024x687.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Govt clears 19 projects worth Rs 3,810cr",
-      "description": "Odisha govt clears 19 projects worth Rs 3,810 crore across 10 districts, including tourism, garments, metals, power and a Vedanta 200-bed hospital, to create 11,250 jobs.",
-      "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/govt-clears-19-projects-worth-rs-3810cr/articleshow/136198164.cms",
-      "source": "The Times of India",
-      "date": "2026-11-26",
-      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-136198163/136198163.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Why Copper's Thanksgiving Bounce May Not Be the Start of Anything",
-      "description": "Cross-asset sentiment is firmer on Thursday morning, with London copper prices up more than 3% from the lows on Wednseday. AI stocks rebounded yesterday following a US selloff, only to abruptly reverse course around noontime. With no obvious catalyst beyond a\u2026",
-      "url": "https://oilprice.com/Metals/Commodities/Why-Coppers-Thanksgiving-Bounce-May-Not-Be-the-Start-of-Anything.html",
-      "source": "OilPrice.com",
-      "date": "2026-11-26",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x900/2026-11-26_gofhqc62ia.jpg",
-      "category": "market"
-    },
-    {
-      "title": "West Asia conflict\u00a0has generated a relatively stronger oil price shock, larger rupee depreciation, surge\u00a0in price of gold: RBI Study",
-      "description": "RBI study shows West Asia conflict triggers stronger oil price shocks, rupee depreciation, and surging gold prices, broadening imported inflation versus the Russia-Ukraine episode.",
-      "url": "https://www.thehindubusinessline.com/money-and-banking/west-asia-conflicthas-generated-a-relatively-stronger-oil-price-shock-larger-rupee-depreciation-surgein-price-of-gold-rbi-study/article71746541.ece",
-      "source": "BusinessLine",
-      "date": "2026-11-26",
-      "image": "https://bl-i.thgim.com/public/incoming/jtkke2/article71746718.ece/alternates/LANDSCAPE_1200/IMG_PO01_Gold_silver_oil_2_1_HAFH12H0.jpg",
-      "category": "geopolitics"
-    },
-    {
-      "title": "What Isn\u2019t Capitalism?",
-      "description": "In 2015, as Chancellor George Osborne presented an austerity budget that cut \u00a312 billion in welfare spending, the British government paid the final installment on a debt incurred in 1835. This loan was taken out to compensate slaveholders who had lost human \u201c\u2026",
-      "url": "https://www.nybooks.com/articles/2026/12/17/what-isnt-capitalism-the-insatiable-machine-jackson/",
-      "source": "The New York Review of Books",
-      "date": "2026-11-26",
-      "image": "https://www.nybooks.com/wp-content/uploads/2026/11/Schneider_1rgb-121726-1200.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Gold, silver and copper slide: Is a recovery in sight?\u00a0| Trending Commodity Podcast | EP 16",
-      "description": "As precious and base metals come under sharp selling pressure, in this episode of BusinessLine\u2019s Agrispective podcast, host Subramani Ra Mancombu speaks with N.S. Ramaswamy, Head of Commodity and CRM at Ventura, about what is driving the fall, including the s\u2026",
-      "url": "https://www.thehindubusinessline.com/multimedia/audio/gold-silver-and-copper-slide-is-a-recovery-in-sight-trending-commodity-podcast-ep-16/article71746311.ece",
-      "source": "BusinessLine",
-      "date": "2026-11-26",
-      "image": "https://bl-i.thgim.com/public/incoming/y3jim2/article71746302.ece/alternates/LANDSCAPE_1200/2cd224bd-a2d2-458e-a6c8-60da7ee72adf.jpeg",
-      "category": "metals"
-    },
-    {
-      "title": "Gold, silver prices rebound on MCX, Comex on buying at lower levels",
-      "description": "In the domestic market, gold futures on the Multi Commodity Exchange (MCX) were trading near \u20b91,22,900 per 10 gram, while silver futures were trading near \u20b91,47,500 per kg",
-      "url": "https://www.business-standard.com/markets/commodities/gold-silver-prices-rebound-on-mcx-comex-on-buying-at-lower-levels-126112600534_1.html",
-      "source": "Business Standard",
-      "date": "2026-11-26",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/03/full/1793687457-3324.jpg",
-      "category": "metals"
-    },
-    {
-      "title": "'Significant concern' as summer bushfire risk grows",
-      "description": "Fire risk is heightened across several states as the long-range forecast predicts a hot, dry summer for most.",
-      "url": "https://www.abc.net.au/news/2026-11-27/australia-summer-bushfire-risk/107425264",
-      "source": "ABC News (AU)",
-      "date": "2026-11-26",
-      "image": "https://live-production.wcms.abc-cdn.net.au/9fd029d74eebb3ff5f5e7a23ff2a6dd7?impolicy=wcms_crop_resize&cropH=1153&cropW=2048&xPos=0&yPos=93&width=862&height=485",
-      "category": "market"
-    },
-    {
-      "title": "HMD\u2019s new $113 phone has one real feature: A Non-English AI Assistant",
-      "description": "HMD has spent years playing a very specific character: the brand that keeps Nokia's old instincts alive with chunky batteries, sturdy plastic, and prices that don't require a loan. Last year's HMD Touch 4G took that formula to its logical extreme. It landed i\u2026",
-      "url": "https://www.yankodesign.com/2026/11/26/hmds-new-113-phone-has-one-real-feature-a-non-english-ai-assistant/",
-      "source": "Yanko Design",
-      "date": "2026-11-26",
-      "image": "https://www.yankodesign.com/images/design_news/2026/11/auto-draft/hmd_rise_1.jpg",
-      "category": "market"
-    },
-    {
-      "title": "If We Don\u2019t Start Counting Insect Populations, We Won\u2019t Know What We\u2019re Losing (Commentary)",
-      "description": "Insects are in steep decline from habitat loss, pesticides, invasive species, and a destabilizing climate, but it\u2019s also hard to quantify what happens after disturbances like the floods we\u2019ve seen lately \u2014 unless we begin counting them, a new op-ed argues.\nTh\u2026",
-      "url": "https://goodmenproject.com/featured-content/if-we-dont-start-counting-insect-populations-we-wont-know-what-were-losing-commentary/",
-      "source": "The Good Men Project",
-      "date": "2026-11-26",
-      "image": "https://goodmenproject.com/wp-content/uploads/2026/11/istock-2230451141.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Why I think Macquarie shares could outperform the big four banks in 2027",
-      "description": "It could be a tough 12 months for the big four banks.\nThe post Why I think Macquarie shares could outperform the big four banks in 2027 appeared first on The Motley Fool Australia.",
-      "url": "https://www.fool.com.au/2026/11/27/why-i-think-macquarie-shares-could-outperform-the-big-four-banks-in-2027/",
-      "source": "Motley Fool Australia",
-      "date": "2026-11-26",
-      "image": "https://www.fool.com.au/wp-content/uploads/2024/01/two-colleagues-1200x900.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Intel Agencies Pushed USAID To Partner With Censorship NGO That Targeted Daily Caller, Other Conservative And Independent Outlets",
-      "description": "Memos from the now-defunct USAID confirmed it had a central role in a censorship operation intent on blacklisting and deplatforming conservatives.",
-      "url": "https://dailycaller.com/2026/11/26/usaid-censorship-ngo-targeted-conservative-outlets/",
-      "source": "The Daily Caller",
-      "date": "2026-11-26",
-      "image": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https%3A%2F%2Fcdn01.dailycaller.com%2Fwp-content%2Fuploads%2F2026%2F11%2FUSAID.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Do Not Miss These 5 Black Friday Deals For AMEX Platinum Cardholders!",
-      "description": "The Platinum Card\u00ae from American Express has an $895 annual fee and comes with a plethora of great benefits. Use them this weekend to make them go even further! Learn more about the AMEX Platinum and all of its benefits here! These credits are on the consumer\u2026",
-      "url": "https://www.dansdeals.com/credit-cards/do-not-miss-these-5-black-friday-deals-for-amex-platinum-cardholders/",
-      "source": "Dansdeals.com",
-      "date": "2026-11-26",
-      "image": "https://i.dansdeals.com/wp-content/uploads/2026/11/26130839/bf26-amex-platinum-featured.jpg",
-      "category": "platinum"
-    },
-    {
-      "title": "Jim Nantz makes Taylor Swift joke live on CBS\u2019 Thanksgiving broadcast of Lions-Bears",
-      "description": "Wu-Tang Clan performed the Thanksgiving halftime show at Ford Field on Thursday, as the Detroit Lions hosted the Chicago Bears. It was a lesser-known artist, Antonio Cipriano, who opened the show with an incredible rendition of the national anthem.",
-      "url": "https://www.hitc.com/jim-nantz-makes-taylor-swift-joke-live-on-cbs-thanksgiving-broadcast-of-lions-bears/",
-      "source": "HITC - Football, Gaming, Movies, TV, Music",
-      "date": "2026-11-26",
-      "image": "https://s.yimg.com/lo/mysterio/api/0dd895a4767eb02f11f117e6d28a45e129089752d11cc61c1168525a961abc1a/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhitc_articles_832%2F39d89ed4baee431631688058bc56f2ef.jpg",
-      "category": "market"
-    },
-    {
-      "title": "Dark Eagle, America\u2019s first operational long-range hypersonic missile battery, is \u2018ready to go,\u2019 Army honcho claims",
-      "description": "The Army's first long-range hypersonic weapon battery is now operational and \"ready to go,\" the general in charge of munitions told a defense publication.",
-      "url": "https://nypost.com/2026/11/26/us-news/dark-eagle-americas-first-operational-long-range-hypersonic-missile-battery-is-ready-to-go-army-honcho-claims/",
-      "source": "New York Post",
-      "date": "2026-11-26",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/150135304.jpg?quality=75&strip=all&w=1200",
-      "category": "market"
-    },
-    {
-      "title": "Traveler Says American Pilots Should Have Just \u201cHad A Cup Of Coffee\u201d Instead Of Following Federal Law",
-      "description": "There\u2019s no denying that traveling by air can be stressful, and that it\u2019s extremely frustrating when things go wrong. Furthermore, not everyone is a frequent traveler, and understands the ins and outs of how the airline industry functions. So that brings us to\u2026",
-      "url": "https://onemileatatime.com/news/traveler-says-american-pilots-should-have-cup-coffee-instead-following-federal-law/",
-      "source": "One Mile at a Time",
-      "date": "2026-11-26",
-      "image": "https://cdn.onemileatatime.com/wp-content/uploads/2024/02/American-737-First-Class-5.jpeg?width=720&quality=75&height=450&aspect_ratio=8%3A5",
+      "image": "https://bl-i.thgim.com/public/incoming/k6qto9/article71750566.ece/alternates/LANDSCAPE_1200/IMG_Gold_bars__wealth_an_2_1_36DT3NB3.jpg",
       "category": "central_bank"
     },
     {
-      "title": "Manitoba First Nations leaders back Peguis chief in fight for greater oversight of First Nation's CFS",
-      "description": "Manitoba First Nations leaders are standing by the chief of Manitoba's largest First Nation in his ongoing dispute over greater accountability and independent oversight of the community's child and family services agency.",
-      "url": "https://www.cbc.ca/news/canada/manitoba/manitoba-first-nations-leaders-back-peguis-chief-in-fight-for-greater-oversight-of-first-nation-s-cfs-9.7436375",
-      "source": "CBC News",
-      "date": "2026-11-26",
-      "image": "https://i.cbc.ca/ais/7d14ebb4-f265-445b-b80d-79e66e9df5f7,1795712527978/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C211%2C4016%2C2259%29%3B",
+      "title": "CM Devendra Fadnavis directs setting up of Maharashtra-Lower Saxony Joint Working Group to boost partnership",
+      "description": "Maharashtra's Chief Minister Devendra Fadnavis emphasized collaboration with Lower Saxony on economic initiatives and investment opportunities. The partnership aims to establish research centers and enhance industries like automotive, robotics, and renewable \u2026",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/cm-devendra-fadnavis-directs-setting-up-of-maharashtra-lower-saxony-joint-working-group-to-boost-partnership/articleshow/136219921.cms",
+      "source": "The Times of India",
+      "date": "2026-11-27",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-136219971/136219971.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Sensex today | Stock Market Highlights: Sensex tumbles 989 points, Nifty slips below 25,650 as IT stocks, HDFC Bank drag",
+      "description": "Sensex Today, Nifty 50 | Stock Market Highlights:  Indian benchmark equity indices snapped their two-day winning streak on Friday, with the Sensex plunging 989.33 points, or 1.17 per cent, to 83,339.26 and the Nifty declining 277.30 points, or 1.07 per cent, \u2026",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-27-november-2026/article71746210.ece",
+      "source": "BusinessLine",
+      "date": "2026-11-27",
+      "image": "https://bl-i.thgim.com/public/incoming/47v2wa/article71749193.ece/alternates/LANDSCAPE_1200/iStock-1944986665.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Green Friday: US futures and global stocks jump in a post-Thanksgiving rally",
+      "description": "US stocks rallied in premarket trading on Friday as investors shrugged off concerns about AI spending, interest-rate hikes, and stricter regulations.",
+      "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-thanksgiving-ai-spending-tech-rates-regulation-2026-11",
+      "source": "Business Insider",
+      "date": "2026-11-27",
+      "image": "https://i.insider.com/6b095881d6c5d341c9b4dafb?width=1200&format=jpeg",
+      "category": "central_bank"
+    },
+    {
+      "title": "What is Gold ETF-to-jewellery bridge buying strategy? Should you opt for it amid falling gold prices? Experts explain",
+      "description": "Gold prices have rebounded to \u20b91.25 lakh per 10 grams, leaving jewellery buyers uncertain about when to purchase. A Gold ETF-to-jewellery strategy can help stagger investments and manage price fluctuations. Here's how it works, its benefits and key risks.&nbs\u2026",
+      "url": "https://www.livemint.com/money/personal-finance/what-is-gold-etf-to-jewellery-bridge-buying-strategy-should-you-opt-for-it-amid-falling-gold-prices-experts-explain-11795771887395.html",
+      "source": "Livemint",
+      "date": "2026-11-27",
+      "image": "https://www.livemint.com/lm-img/img/2026/11/27/1600x900/logo/Gold_ETF_to_Jewelry_Conversion_1795774216783_9EYW_1795774222130_bQDK_a757a1ff-424e-45d2-b952-200970fb1ff1_QTDq.png",
+      "category": "metals"
+    },
+    {
+      "title": "MEXC Launches Golden Gratitude Gala With a 10M USDT Prize Pool, Including a Gold Bar and BTC",
+      "description": "Mutsamudu, Comoros, November 27, 2026 \u2013 MEXC, a pioneer in 0-fee digital asset trading, announced the launch of the Golden Gratitude Gala. In appreciation of users\u2019 support over the past year, the event features MEXC\u2019s largest prize pool of the year, with up \u2026",
+      "url": "https://www.newsbtc.com/news/mexc-launches-golden-gratitude-gala-with-a-10m-usdt-prize-pool-including-a-gold-bar-and-btc/",
+      "source": "newsBTC",
+      "date": "2026-11-27",
+      "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/photo_2026-11-27-12.02.20.jpeg",
+      "category": "currency"
+    },
+    {
+      "title": "Britain repaid \u00a31.94 billion of its World War I debt in 2015, but a Bhopal merchant's Rs 35,000 war loan from 1917 is still unresolved; UK's debt office says family must approach Indian issuer",
+      "description": "A Bhopal merchant subscribed Rs 35,000 to the 1917 Indian War Loan, and his family says it still holds the original certificate. The UK's Debt Management Office now says it has no records of the loan and suggests approaching the Indian issuer. Britain redeeme\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/bhopal/britain-repaid-1-94-billion-of-its-world-war-i-debt-in-2015-but-a-bhopal-merchants-rs-35000-war-loan-from-1917-is-still-unresolved-uks-debt-office-says-family-must-approach-indian-issuer/articleshow/136216745.cms",
+      "source": "The Times of India",
+      "date": "2026-11-27",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-136216887/136216887.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Gold, equity ETFs or debt mutual funds: How should investors balance their portfolios in 2027? Expert shares allocation",
+      "description": "Gold, equity ETFs and debt mutual funds serve different investment purposes. BankBazaar CEO Adhil Shetty suggests a 50:40:10 allocation for moderate investors investing  \u20b91 lakh in 2027, while explaining how financial goals, risk appetite and investment horiz\u2026",
+      "url": "https://www.livemint.com/money/personal-finance/gold-equity-etfs-or-debt-mutual-funds-how-should-investors-balance-their-portfolios-in-2027-expert-shares-allocation-11795768188827.html",
+      "source": "Livemint",
+      "date": "2026-11-27",
+      "image": "https://www.livemint.com/lm-img/img/2026/11/27/1600x900/logo/c417537b-873c-4085-8429-4241783fb19b_1795768419301_QKDM_1795768423655_jmiO_9d4e9fd1-50be-413b-80e6-00ac817a9370_ulIP.png",
+      "category": "metals"
+    },
+    {
+      "title": "Gold prices: Is the correction over? HSBC warns bullion could test $3,400 as global equity markets remain under pressure",
+      "description": "HSBC warns that gold prices may fall further, with $3,400 an ounce emerging as a key level to watch. The bank says it is too early to call a bottom as equity market weakness, a stronger US dollar and interest rate uncertainty weigh on bullion.",
+      "url": "https://www.livemint.com/money/personal-finance/gold-prices-is-the-correction-over-hsbc-warns-bullion-could-test-3-400-as-global-equity-markets-remain-under-pressure-11795779330096.html",
+      "source": "Livemint",
+      "date": "2026-11-27",
+      "image": "https://www.livemint.com/lm-img/img/2026/11/27/1600x900/logo/Gemini_Generated_mage_k77cyek77cyek77c_1795780020_1795780029225_f1JA_1795780029434_kTc2_93fd8613-af26-49f9-a4d5-b90b728b3fa5_5dMv.png",
+      "category": "geopolitics"
+    },
+    {
+      "title": "The Top 5 Watches Released In November 2026",
+      "description": "Another Friday, another list! This week, we take a short break from our year-end roundups and focus on our favorite watches released in November. As we approach the year\u2019s end, the stream of new releases gradually slows down. But that doesn\u2019t mean we haven\u2019t \u2026",
+      "url": "https://www.fratellowatches.com/the-top-5-watches-released-in-november-2026/",
+      "source": "Fratellowatches.com",
+      "date": "2026-11-27",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Panerai-Submersible-Marina-Militare-PAM01757-and-PAM01757-4.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Sensex falls 764 points, Nifty slips below 25,700 as IT, financials drag",
+      "description": "Benchmark indices traded sharply lower in afternoon trade on Friday as information technology and financial stocks declined, while the broader market held up better.",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-falls-764-points-nifty-slips-below-25700-as-it-financials-drag/article71749880.ece",
+      "source": "BusinessLine",
+      "date": "2026-11-27",
+      "image": "https://bl-i.thgim.com/public/incoming/8o2sgf/article71749892.ece/alternates/LANDSCAPE_1200/BL09_Market_down.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Gold, silver prices extend rebound on strong buying at lower levels",
+      "description": "At the time of writing, gold futures on Comex were trading near $3,630 per ounce, while silver was trading near $43.40 per ounce",
+      "url": "https://www.business-standard.com/markets/commodities/gold-silver-prices-extend-rebound-on-strong-buying-at-lower-levels-126112700373_1.html",
+      "source": "Business Standard",
+      "date": "2026-11-27",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/23/full/1795412225-6287.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "High flying Nifty stocks vs beaten down gold: Which category should investors bet on now?",
+      "description": "Nifty stocks are showing impressive gains while gold struggles at a 14-month low. High interest rates and a resilient US dollar are weighing heavily on gold's performance. Meanwhile, Indian equities are drawing renewed attention from foreign institutional inv\u2026",
+      "url": "https://m.economictimes.com/markets/stocks/news/high-flying-nifty-stocks-vs-beaten-down-gold-which-category-should-investors-bet-on-now/articleshow/136208530.cms",
+      "source": "Economictimes.com",
+      "date": "2026-11-27",
+      "image": "https://img.etimg.com/thumb/msid-136208568,resizemode-4,width-1200,height-900,imgsize-238620,overlay-etmarkets/articleshow.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Sensex slips, Nifty flat as IT stocks fall; metals, Titan gain",
+      "description": "Benchmark indices opened largely unchanged on Friday. The Sensex traded lower and the Nifty edged up as information technology shares declined and metal stocks advanced.",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-slips-nifty-flat-as-it-stocks-fall-metals-titan-gain/article71749339.ece",
+      "source": "BusinessLine",
+      "date": "2026-11-27",
+      "image": "https://bl-i.thgim.com/public/incoming/jsp8lr/article71749344.ece/alternates/LANDSCAPE_1200/iStock-2284817384.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Multi-Asset Funds: Can one fund do the job of five investments \u2013 equity, debt, gold, silver and real estate?",
+      "description": "As per SEBI categorisation, a multi-asset allocation fund must invest at least 10% in each of three different asset classes. Beyond this, fund houses have flexibility in deciding how to construct and manage these funds.",
+      "url": "https://www.livemint.com/money/personal-finance/multiasset-funds-can-one-fund-do-the-job-of-five-investments-equity-debt-gold-silver-and-real-estate-11795693845299.html",
+      "source": "Livemint",
+      "date": "2026-11-27",
+      "image": "https://www.livemint.com/lm-img/img/2026/11/26/1600x900/logo/Diversified_Assets_in_One_Fund_1795694423319_udM5_1795694436850_LR2t_bde8d0ce-6b17-4eef-8a10-7d2f4ef065f8_Hkjc.png",
+      "category": "metals"
+    },
+    {
+      "title": "Economic Digest: A Snapshot of Nepal\u2019s Business News",
+      "description": "KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. Nepal\u2019s economic landscape presents a mixed picture, with short-term market fluctuations, persistent im\u2026",
+      "url": "https://english.khabarhub.com/2026/27/577194/",
+      "source": "Khabarhub.com",
+      "date": "2026-11-27",
+      "image": "https://english.khabarhub.com/wp-content/uploads/2024/05/Economic-Digest.jpg",
+      "category": "market"
+    },
+    {
+      "title": "How East Germany boosted Vietnam's coffee industry",
+      "description": "When East Germany could no longer afford to import coffee, it introduced a substitute blend containing rye and chicory in 1977. A public outcry ensued. The solution to the problem lay 9,000 kilometers away \u2014 in Vietnam.",
+      "url": "https://www.dw.com/en/how-east-germany-boosted-vietnams-coffee-industry/a-80029974",
+      "source": "DW (English)",
+      "date": "2026-11-27",
+      "image": "https://static.dw.com/image/79966096_804.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Show HN: Unterm v0.73 \u2013 Pure-Rust GPU Terminal Built for Claude Code, Codex, Agy",
+      "description": "The pure-Rust GPU terminal built as the best runtime environment and native assistant for Claude Code, Codex CLI, Antigravity (agy), and Gemini CLI. Fixes typing lag & dropped keys, TUI tearing, Windows console flashes, multi-agent git conflicts, context-wind\u2026",
+      "url": "https://unterm.app/",
+      "source": "Unterm.app",
+      "date": "2026-11-27",
+      "image": "https://unterm.app/assets/og.png?v=0.73.0-craft",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Can You Be a Feminist and Still Have a Wedding?",
+      "description": "An excerpt from Suzanne Leonard\u2019s latest book, A Feminist Guide to Marriage, published Nov. 10, 2026, by Goldsmiths Press.\n\"It\u2019s satisfying to believe you are furthering the cause of social justice by shopping locally for your wedding favors. \n\"Make no mistak\u2026",
+      "url": "https://msmagazine.com/2026/11/27/feminist-wedding-book-excerpt-guide-to-marriage/",
+      "source": "Ms. Magazine",
+      "date": "2026-11-27",
+      "image": "https://msmagazine.com/wp-content/uploads/2026/11/a-feminist-guide-to-marriage-2025-11-18-1.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "November and December 2026 New Releases",
+      "description": "Learn about the new resources releasing this month, including Pilgrim\u2019s Progress: The Graphic Novel and Prodigal Culture by Andrew Walker.",
+      "url": "https://www.crossway.org/articles/november-and-december-2026-new-releases/",
+      "source": "Crossway.org",
+      "date": "2026-11-27",
+      "image": "https://static.crossway.org/articles/images/Nov_and_Dec_2026_New_Releases-L.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Render Bender brings colour grading and camera effects to Blender",
+      "description": "3D Tudor released Render Bender, a Blender add-on for finishing renders. It puts colour grading, atmosphere, render-pass adjustments and camera effects in organised panels, with 74 presets and animated VFX such as film grain, VHS and light leaks.\nSource",
+      "url": "https://www.blendernation.com/2026/11/27/render-bender-brings-colour-grading-and-camera-effects-to-blender/",
+      "source": "Blendernation.com",
+      "date": "2026-11-27",
+      "image": "https://www.blendernation.com/wp-content/uploads/2026/11/Render_Bender_1920x1080_No3DTudor-800x450.png.webp",
+      "category": "market"
+    },
+    {
+      "title": "What It Takes for International Brands to Succeed in the US\u00a0Market",
+      "description": "Fashion by Informa just launched a playbook for global fashion brands and retailers looking to enter and scale in the United States.",
+      "url": "https://wwd.com/sourcing-journal/industry-news/informa-playbook-international-brands-us-market-1239419394/",
+      "source": "WWD",
+      "date": "2026-11-27",
+      "image": "https://wwd.com/wp-content/uploads/2026/08/20260811_SEZANE_BRENTWOOD_HD_PRIOS-4.jpg",
+      "category": "market"
+    },
+    {
+      "title": "EXCLUSIVE: China Develops Secret Submarine Amid Rising Global Tensions",
+      "description": "China's development of a covert submarine raises concerns as tensions between world powers grow.",
+      "url": "https://radaronline.com/p/china-secret-submarine-project-global-security-concerns/",
+      "source": "Radaronline.com",
+      "date": "2026-11-27",
+      "image": "https://media.radaronline.com/brand-img/UyHcpFVFV/0x0/china-secret-submarine-project-global-security-concerns-1795209862882.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Spider-Man, New Avengers Leader In The Daily LITG, 27th November 2026",
+      "description": "Spider-Man, New Leader Of The Avengers was the biggest story on Bleeding Cool yesterday, again. Lying In The Gutters is the daily runaround for the most-read stories the day before, as well as over the past eight years. Founded seventeen years ago and steeped\u2026",
+      "url": "https://bleedingcool.com/comics/spider-man-new-avengers-leader-in-the-daily-litg-27th-november-2026/",
+      "source": "Bleeding Cool News",
+      "date": "2026-11-27",
+      "image": "https://bleedingcool.com/wp-content/uploads/2026/11/aven2026002-interior1-1200x675.jpeg",
+      "category": "market"
+    },
+    {
+      "title": "ECB's gender gap set to widen further after Lagarde exit",
+      "description": "The European Central Bank is on course to become the most male-dominated major central bank in the world when President Christine Lagarde leaves in February, a jarring outcome for an institution that has spent years promoting gender balance.",
+      "url": "https://www.rte.ie/news/business/2026/1127/1600895-ecbs-gender-gap-set-to-widen-further-after-lagarde-exit/",
+      "source": "RTE",
+      "date": "2026-11-27",
+      "image": "https://www.rte.ie/images/002480c4-1600.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Could Donald Trump And Abdul El-Sayed Really Team Up On Universal Healthcare?",
+      "description": "The Michigan Democrat and the president have been talking up an unlikely grand bargain.",
+      "url": "https://www.huffpost.com/entry/donald-trump-abdul-el-sayed-medicare-for-all_n_6b058b9be4b0da866ee3da5f",
+      "source": "HuffPost",
+      "date": "2026-11-27",
+      "image": "https://img.huffingtonpost.com/asset/6b059a1a180000f49f94d081.jpeg?cache=OQSnlzAy7z&ops=1778_1000",
       "category": "market"
     }
   ],
@@ -547,7 +547,7 @@
       "platinum_usd_oz": 1551.08
     }
   ],
-  "timestamp": "2026-11-28T03:03:29.474312+05:30",
+  "timestamp": "2026-11-28T17:33:50.076173+05:30",
   "run_info": {
     "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
     "timezone": "Asia/Kolkata",
