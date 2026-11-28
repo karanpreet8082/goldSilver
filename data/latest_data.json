@@ -1,0 +1,556 @@
+{
+  "prices": {
+    "gold": {
+      "price_per_gram_inr": 12431.25,
+      "price_usd_oz": 4110.88,
+      "change_percent": 0.96,
+      "change_value_usd": 39.2,
+      "price_per_10g_inr": 124312.48
+    },
+    "silver": {
+      "price_per_gram_inr": 159.63,
+      "price_usd_oz": 52.79,
+      "change_percent": 1.62,
+      "change_value_usd": 0.84,
+      "price_per_kg_inr": 159630.43
+    },
+    "platinum": {
+      "price_per_gram_inr": 4690.45,
+      "price_usd_oz": 1551.08,
+      "change_percent": 0.78,
+      "change_value_usd": 12.08
+    },
+    "currencies": {
+      "USD_INR": 94.0567,
+      "EUR_INR": 104.8687,
+      "GBP_INR": 125.677,
+      "JPY_INR": 0.594,
+      "CHF_INR": 114.7453,
+      "AUD_INR": 64.6127,
+      "CAD_INR": 66.6313,
+      "SGD_INR": 73.3157
+    },
+    "gold_silver_ratio": 77.88,
+    "timestamp": "2026-11-09T11:54:14.425351",
+    "source": "GoldAPI"
+  },
+  "currencies": {
+    "USD_INR": 94.0567,
+    "EUR_INR": 104.8687,
+    "GBP_INR": 125.677,
+    "JPY_INR": 0.594,
+    "CHF_INR": 114.7453,
+    "AUD_INR": 64.6127,
+    "CAD_INR": 66.6313,
+    "SGD_INR": 73.3157
+  },
+  "analysis": {
+    "gold": {
+      "metal": "gold",
+      "recommendation": "BUY",
+      "confidence": {
+        "buy": 65,
+        "sell": 10,
+        "hold": 25
+      },
+      "summary": "Gold is showing positive signals. Positive daily movement of 1.0%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
+      "timestamp": "2026-11-28T12:03:49.881925",
+      "source": "rule-based"
+    },
+    "silver": {
+      "metal": "silver",
+      "recommendation": "BUY",
+      "confidence": {
+        "buy": 65,
+        "sell": 10,
+        "hold": 25
+      },
+      "summary": "Silver is showing positive signals. Strong daily gain of 1.6%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
+      "timestamp": "2026-11-28T12:03:49.964613",
+      "source": "rule-based"
+    },
+    "platinum": {
+      "metal": "platinum",
+      "recommendation": "BUY",
+      "confidence": {
+        "buy": 65,
+        "sell": 10,
+        "hold": 25
+      },
+      "summary": "Platinum is showing positive signals. Positive daily movement of 0.8%. Technical indicators show bullish trend. Recommendation: BUY with moderate confidence based on current indicators.",
+      "timestamp": "2026-11-28T12:03:50.068216",
+      "source": "rule-based"
+    }
+  },
+  "technical": {
+    "gold": {
+      "trend": "bearish",
+      "strength": 25,
+      "signals": [
+        "Price above 4-week moving average (bullish)",
+        "Price below 12-week moving average (bearish)",
+        "Short-term MA below long-term MA (downtrend)",
+        "Weak momentum: -4.5% in 4 weeks"
+      ],
+      "support": 118437.13,
+      "resistance": 134616.17,
+      "current_price": 124312.48,
+      "ma_short": 124037.7,
+      "ma_long": 128163.91,
+      "trend_score": -2.0
+    },
+    "silver": {
+      "trend": "bearish",
+      "strength": 6,
+      "signals": [
+        "Price below 4-week moving average (bearish)",
+        "Price below 12-week moving average (bearish)",
+        "Short-term MA below long-term MA (downtrend)",
+        "Weak momentum: -14.9% in 4 weeks",
+        "Near support \u2014 potential buy zone"
+      ],
+      "support": 150153.09,
+      "resistance": 210317.38,
+      "current_price": 159630.43,
+      "ma_short": 163652.38,
+      "ma_long": 183379.67,
+      "trend_score": -3.5
+    },
+    "platinum": {
+      "trend": "bearish",
+      "strength": 0,
+      "signals": [
+        "Price below 4-week moving average (bearish)",
+        "Price below 12-week moving average (bearish)",
+        "Short-term MA below long-term MA (downtrend)",
+        "Weak momentum: -10.4% in 4 weeks"
+      ],
+      "support": 4387.55,
+      "resistance": 5662.91,
+      "current_price": 4690.45,
+      "ma_short": 4743.03,
+      "ma_long": 5106.74,
+      "trend_score": -4.0
+    }
+  },
+  "news": [
+    {
+      "title": "Bond market to stay cautious ahead of RBI policy: Equirus",
+      "description": "The bond market is expected to remain cautious due to persistent inflationary pressures and anticipated rate hikes. Analysts predict a 25 basis points hike in the RBI's upcoming monetary policy review. Market yields are likely to be influenced by geopolitical tensions and global bond movements. Fore",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/bond-market-to-stay-cautious-ahead-of-rbi-policy-equirus/articleshow/136240295.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-11-28",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "From war premium to demand concerns: What is driving the sharp fall in crude oil prices?",
+      "description": "Crude oil prices have fallen sharply from their September highs as geopolitical risk premiums fade and concerns over oversupply and slowing demand take centre stage. Rising production from non-OPEC countries, resilient Middle Eastern exports and weaker consumption expectations are weighing on global",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/from-war-premium-to-demand-concerns-what-is-driving-the-sharp-fall-in-crude-oil-prices/articleshow/136238953.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-11-28",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Gold pares gains as Fed hike risks linger, eyes first weekly rise in three weeks",
+      "description": "Gold prices saw a notable uptick as investors seized the opportunity for bargain purchases, despite a robust US dollar and escalating yields causing some hesitance. After reaching a 15-month low recently, spot gold has recorded a potential weekly increase of nearly 3%. Analysts caution, however, tha",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-pares-gains-as-fed-hike-risks-linger-eyes-first-weekly-rise-in-three-weeks/articleshow/136237788.cms",
+      "source": "Economic Times Markets",
+      "date": "2026-11-28",
+      "image": "",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Gold (XAUUSD), Silver, Platinum Forecasts \u2013 Gold Rallies Amid Rising Demand For Risk Assets - FXEmpire",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVUZKcUhaa0M0aVNjTUk4b0ZHZHktRFVmT3g1NmMxSVhrQW1icnhZbnQxNWVMQ2JFeElWNGx4T256OC1CcEIySFdGNHk3MnZNVFVuYzRRN1M0VU0ybzFmdzJTaVZueXg4ajQ0b0FRWTA0TUE0eklhZTlndTlqZmQ3TjNCZTJfTmVaRnFFaXN0WkphVzZ0V1FyR0hpY2VaeF9MUkhZSVREYlktVENaVDctQlpzWjFmQTBvTW",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVUZKcUhaa0M0aVNjTUk4b0ZHZHktRFVmT3g1NmMxSVhrQW1icnhZbnQxNWVMQ2JFeElWNGx4T256OC1CcEIySFdGNHk3MnZNVFVuYzRRN1M0VU0ybzFmdzJTaVZueXg4ajQ0b0FRWTA0TUE0eklhZTlndTlqZmQ3TjNCZTJfTmVaRnFFaXN0WkphVzZ0V1FyR0hpY2VaeF9MUkhZSVREYlktVENaVDctQlpzWjFmQTBvTWxreE16d2RCLU5zVXRCa0JhdllGTlBMUnc?oc=5",
+      "source": "Google News - Precious Metals",
+      "date": "2026-11-28",
+      "image": "",
+      "category": "currency"
+    },
+    {
+      "title": "RBI gold share in forex reserves falls below 14% after price correction",
+      "description": "Gold\u2019s share in India\u2019s forex reserves fell to 13.98% by November 13, as prices dropped from their January peak while RBI gold holdings stayed nearly unchanged.",
+      "url": "https://www.thehindubusinessline.com/data-stories/data-focus/rbi-gold-share-in-forex-reserves-falls-below-14-after-price-correction/article71750525.ece",
+      "source": "BusinessLine",
+      "date": "2026-11-27",
+      "image": "https://bl-i.thgim.com/public/incoming/k6qto9/article71750566.ece/alternates/LANDSCAPE_1200/IMG_Gold_bars__wealth_an_2_1_36DT3NB3.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "CM Devendra Fadnavis directs setting up of Maharashtra-Lower Saxony Joint Working Group to boost partnership",
+      "description": "Maharashtra's Chief Minister Devendra Fadnavis emphasized collaboration with Lower Saxony on economic initiatives and investment opportunities. The partnership aims to establish research centers and enhance industries like automotive, robotics, and renewable \u2026",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/cm-devendra-fadnavis-directs-setting-up-of-maharashtra-lower-saxony-joint-working-group-to-boost-partnership/articleshow/136219921.cms",
+      "source": "The Times of India",
+      "date": "2026-11-27",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-136219971/136219971.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Sensex today | Stock Market Highlights: Sensex tumbles 989 points, Nifty slips below 25,650 as IT stocks, HDFC Bank drag",
+      "description": "Sensex Today, Nifty 50 | Stock Market Highlights:  Indian benchmark equity indices snapped their two-day winning streak on Friday, with the Sensex plunging 989.33 points, or 1.17 per cent, to 83,339.26 and the Nifty declining 277.30 points, or 1.07 per cent, \u2026",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-27-november-2026/article71746210.ece",
+      "source": "BusinessLine",
+      "date": "2026-11-27",
+      "image": "https://bl-i.thgim.com/public/incoming/47v2wa/article71749193.ece/alternates/LANDSCAPE_1200/iStock-1944986665.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Green Friday: US futures and global stocks jump in a post-Thanksgiving rally",
+      "description": "US stocks rallied in premarket trading on Friday as investors shrugged off concerns about AI spending, interest-rate hikes, and stricter regulations.",
+      "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-thanksgiving-ai-spending-tech-rates-regulation-2026-11",
+      "source": "Business Insider",
+      "date": "2026-11-27",
+      "image": "https://i.insider.com/6b095881d6c5d341c9b4dafb?width=1200&format=jpeg",
+      "category": "central_bank"
+    },
+    {
+      "title": "What is Gold ETF-to-jewellery bridge buying strategy? Should you opt for it amid falling gold prices? Experts explain",
+      "description": "Gold prices have rebounded to \u20b91.25 lakh per 10 grams, leaving jewellery buyers uncertain about when to purchase. A Gold ETF-to-jewellery strategy can help stagger investments and manage price fluctuations. Here's how it works, its benefits and key risks.&nbs\u2026",
+      "url": "https://www.livemint.com/money/personal-finance/what-is-gold-etf-to-jewellery-bridge-buying-strategy-should-you-opt-for-it-amid-falling-gold-prices-experts-explain-11795771887395.html",
+      "source": "Livemint",
+      "date": "2026-11-27",
+      "image": "https://www.livemint.com/lm-img/img/2026/11/27/1600x900/logo/Gold_ETF_to_Jewelry_Conversion_1795774216783_9EYW_1795774222130_bQDK_a757a1ff-424e-45d2-b952-200970fb1ff1_QTDq.png",
+      "category": "metals"
+    },
+    {
+      "title": "MEXC Launches Golden Gratitude Gala With a 10M USDT Prize Pool, Including a Gold Bar and BTC",
+      "description": "Mutsamudu, Comoros, November 27, 2026 \u2013 MEXC, a pioneer in 0-fee digital asset trading, announced the launch of the Golden Gratitude Gala. In appreciation of users\u2019 support over the past year, the event features MEXC\u2019s largest prize pool of the year, with up \u2026",
+      "url": "https://www.newsbtc.com/news/mexc-launches-golden-gratitude-gala-with-a-10m-usdt-prize-pool-including-a-gold-bar-and-btc/",
+      "source": "newsBTC",
+      "date": "2026-11-27",
+      "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/photo_2026-11-27-12.02.20.jpeg",
+      "category": "currency"
+    },
+    {
+      "title": "Britain repaid \u00a31.94 billion of its World War I debt in 2015, but a Bhopal merchant's Rs 35,000 war loan from 1917 is still unresolved; UK's debt office says family must approach Indian issuer",
+      "description": "A Bhopal merchant subscribed Rs 35,000 to the 1917 Indian War Loan, and his family says it still holds the original certificate. The UK's Debt Management Office now says it has no records of the loan and suggests approaching the Indian issuer. Britain redeeme\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/bhopal/britain-repaid-1-94-billion-of-its-world-war-i-debt-in-2015-but-a-bhopal-merchants-rs-35000-war-loan-from-1917-is-still-unresolved-uks-debt-office-says-family-must-approach-indian-issuer/articleshow/136216745.cms",
+      "source": "The Times of India",
+      "date": "2026-11-27",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-136216887/136216887.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Gold, equity ETFs or debt mutual funds: How should investors balance their portfolios in 2027? Expert shares allocation",
+      "description": "Gold, equity ETFs and debt mutual funds serve different investment purposes. BankBazaar CEO Adhil Shetty suggests a 50:40:10 allocation for moderate investors investing  \u20b91 lakh in 2027, while explaining how financial goals, risk appetite and investment horiz\u2026",
+      "url": "https://www.livemint.com/money/personal-finance/gold-equity-etfs-or-debt-mutual-funds-how-should-investors-balance-their-portfolios-in-2027-expert-shares-allocation-11795768188827.html",
+      "source": "Livemint",
+      "date": "2026-11-27",
+      "image": "https://www.livemint.com/lm-img/img/2026/11/27/1600x900/logo/c417537b-873c-4085-8429-4241783fb19b_1795768419301_QKDM_1795768423655_jmiO_9d4e9fd1-50be-413b-80e6-00ac817a9370_ulIP.png",
+      "category": "metals"
+    },
+    {
+      "title": "Gold prices: Is the correction over? HSBC warns bullion could test $3,400 as global equity markets remain under pressure",
+      "description": "HSBC warns that gold prices may fall further, with $3,400 an ounce emerging as a key level to watch. The bank says it is too early to call a bottom as equity market weakness, a stronger US dollar and interest rate uncertainty weigh on bullion.",
+      "url": "https://www.livemint.com/money/personal-finance/gold-prices-is-the-correction-over-hsbc-warns-bullion-could-test-3-400-as-global-equity-markets-remain-under-pressure-11795779330096.html",
+      "source": "Livemint",
+      "date": "2026-11-27",
+      "image": "https://www.livemint.com/lm-img/img/2026/11/27/1600x900/logo/Gemini_Generated_mage_k77cyek77cyek77c_1795780020_1795780029225_f1JA_1795780029434_kTc2_93fd8613-af26-49f9-a4d5-b90b728b3fa5_5dMv.png",
+      "category": "geopolitics"
+    },
+    {
+      "title": "The Top 5 Watches Released In November 2026",
+      "description": "Another Friday, another list! This week, we take a short break from our year-end roundups and focus on our favorite watches released in November. As we approach the year\u2019s end, the stream of new releases gradually slows down. But that doesn\u2019t mean we haven\u2019t \u2026",
+      "url": "https://www.fratellowatches.com/the-top-5-watches-released-in-november-2026/",
+      "source": "Fratellowatches.com",
+      "date": "2026-11-27",
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Panerai-Submersible-Marina-Militare-PAM01757-and-PAM01757-4.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Sensex falls 764 points, Nifty slips below 25,700 as IT, financials drag",
+      "description": "Benchmark indices traded sharply lower in afternoon trade on Friday as information technology and financial stocks declined, while the broader market held up better.",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-falls-764-points-nifty-slips-below-25700-as-it-financials-drag/article71749880.ece",
+      "source": "BusinessLine",
+      "date": "2026-11-27",
+      "image": "https://bl-i.thgim.com/public/incoming/8o2sgf/article71749892.ece/alternates/LANDSCAPE_1200/BL09_Market_down.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Gold, silver prices extend rebound on strong buying at lower levels",
+      "description": "At the time of writing, gold futures on Comex were trading near $3,630 per ounce, while silver was trading near $43.40 per ounce",
+      "url": "https://www.business-standard.com/markets/commodities/gold-silver-prices-extend-rebound-on-strong-buying-at-lower-levels-126112700373_1.html",
+      "source": "Business Standard",
+      "date": "2026-11-27",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/23/full/1795412225-6287.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "High flying Nifty stocks vs beaten down gold: Which category should investors bet on now?",
+      "description": "Nifty stocks are showing impressive gains while gold struggles at a 14-month low. High interest rates and a resilient US dollar are weighing heavily on gold's performance. Meanwhile, Indian equities are drawing renewed attention from foreign institutional inv\u2026",
+      "url": "https://m.economictimes.com/markets/stocks/news/high-flying-nifty-stocks-vs-beaten-down-gold-which-category-should-investors-bet-on-now/articleshow/136208530.cms",
+      "source": "Economictimes.com",
+      "date": "2026-11-27",
+      "image": "https://img.etimg.com/thumb/msid-136208568,resizemode-4,width-1200,height-900,imgsize-238620,overlay-etmarkets/articleshow.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Sensex slips, Nifty flat as IT stocks fall; metals, Titan gain",
+      "description": "Benchmark indices opened largely unchanged on Friday. The Sensex traded lower and the Nifty edged up as information technology shares declined and metal stocks advanced.",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-slips-nifty-flat-as-it-stocks-fall-metals-titan-gain/article71749339.ece",
+      "source": "BusinessLine",
+      "date": "2026-11-27",
+      "image": "https://bl-i.thgim.com/public/incoming/jsp8lr/article71749344.ece/alternates/LANDSCAPE_1200/iStock-2284817384.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Multi-Asset Funds: Can one fund do the job of five investments \u2013 equity, debt, gold, silver and real estate?",
+      "description": "As per SEBI categorisation, a multi-asset allocation fund must invest at least 10% in each of three different asset classes. Beyond this, fund houses have flexibility in deciding how to construct and manage these funds.",
+      "url": "https://www.livemint.com/money/personal-finance/multiasset-funds-can-one-fund-do-the-job-of-five-investments-equity-debt-gold-silver-and-real-estate-11795693845299.html",
+      "source": "Livemint",
+      "date": "2026-11-27",
+      "image": "https://www.livemint.com/lm-img/img/2026/11/26/1600x900/logo/Diversified_Assets_in_One_Fund_1795694423319_udM5_1795694436850_LR2t_bde8d0ce-6b17-4eef-8a10-7d2f4ef065f8_Hkjc.png",
+      "category": "metals"
+    },
+    {
+      "title": "Economic Digest: A Snapshot of Nepal\u2019s Business News",
+      "description": "KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. Nepal\u2019s economic landscape presents a mixed picture, with short-term market fluctuations, persistent im\u2026",
+      "url": "https://english.khabarhub.com/2026/27/577194/",
+      "source": "Khabarhub.com",
+      "date": "2026-11-27",
+      "image": "https://english.khabarhub.com/wp-content/uploads/2024/05/Economic-Digest.jpg",
+      "category": "market"
+    },
+    {
+      "title": "How East Germany boosted Vietnam's coffee industry",
+      "description": "When East Germany could no longer afford to import coffee, it introduced a substitute blend containing rye and chicory in 1977. A public outcry ensued. The solution to the problem lay 9,000 kilometers away \u2014 in Vietnam.",
+      "url": "https://www.dw.com/en/how-east-germany-boosted-vietnams-coffee-industry/a-80029974",
+      "source": "DW (English)",
+      "date": "2026-11-27",
+      "image": "https://static.dw.com/image/79966096_804.jpg",
+      "category": "supply_demand"
+    },
+    {
+      "title": "Show HN: Unterm v0.73 \u2013 Pure-Rust GPU Terminal Built for Claude Code, Codex, Agy",
+      "description": "The pure-Rust GPU terminal built as the best runtime environment and native assistant for Claude Code, Codex CLI, Antigravity (agy), and Gemini CLI. Fixes typing lag & dropped keys, TUI tearing, Windows console flashes, multi-agent git conflicts, context-wind\u2026",
+      "url": "https://unterm.app/",
+      "source": "Unterm.app",
+      "date": "2026-11-27",
+      "image": "https://unterm.app/assets/og.png?v=0.73.0-craft",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Can You Be a Feminist and Still Have a Wedding?",
+      "description": "An excerpt from Suzanne Leonard\u2019s latest book, A Feminist Guide to Marriage, published Nov. 10, 2026, by Goldsmiths Press.\n\"It\u2019s satisfying to believe you are furthering the cause of social justice by shopping locally for your wedding favors. \n\"Make no mistak\u2026",
+      "url": "https://msmagazine.com/2026/11/27/feminist-wedding-book-excerpt-guide-to-marriage/",
+      "source": "Ms. Magazine",
+      "date": "2026-11-27",
+      "image": "https://msmagazine.com/wp-content/uploads/2026/11/a-feminist-guide-to-marriage-2025-11-18-1.jpg",
+      "category": "metals"
+    },
+    {
+      "title": "November and December 2026 New Releases",
+      "description": "Learn about the new resources releasing this month, including Pilgrim\u2019s Progress: The Graphic Novel and Prodigal Culture by Andrew Walker.",
+      "url": "https://www.crossway.org/articles/november-and-december-2026-new-releases/",
+      "source": "Crossway.org",
+      "date": "2026-11-27",
+      "image": "https://static.crossway.org/articles/images/Nov_and_Dec_2026_New_Releases-L.jpg",
+      "category": "market"
+    },
+    {
+      "title": "Render Bender brings colour grading and camera effects to Blender",
+      "description": "3D Tudor released Render Bender, a Blender add-on for finishing renders. It puts colour grading, atmosphere, render-pass adjustments and camera effects in organised panels, with 74 presets and animated VFX such as film grain, VHS and light leaks.\nSource",
+      "url": "https://www.blendernation.com/2026/11/27/render-bender-brings-colour-grading-and-camera-effects-to-blender/",
+      "source": "Blendernation.com",
+      "date": "2026-11-27",
+      "image": "https://www.blendernation.com/wp-content/uploads/2026/11/Render_Bender_1920x1080_No3DTudor-800x450.png.webp",
+      "category": "market"
+    },
+    {
+      "title": "What It Takes for International Brands to Succeed in the US\u00a0Market",
+      "description": "Fashion by Informa just launched a playbook for global fashion brands and retailers looking to enter and scale in the United States.",
+      "url": "https://wwd.com/sourcing-journal/industry-news/informa-playbook-international-brands-us-market-1239419394/",
+      "source": "WWD",
+      "date": "2026-11-27",
+      "image": "https://wwd.com/wp-content/uploads/2026/08/20260811_SEZANE_BRENTWOOD_HD_PRIOS-4.jpg",
+      "category": "market"
+    },
+    {
+      "title": "EXCLUSIVE: China Develops Secret Submarine Amid Rising Global Tensions",
+      "description": "China's development of a covert submarine raises concerns as tensions between world powers grow.",
+      "url": "https://radaronline.com/p/china-secret-submarine-project-global-security-concerns/",
+      "source": "Radaronline.com",
+      "date": "2026-11-27",
+      "image": "https://media.radaronline.com/brand-img/UyHcpFVFV/0x0/china-secret-submarine-project-global-security-concerns-1795209862882.jpg",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Spider-Man, New Avengers Leader In The Daily LITG, 27th November 2026",
+      "description": "Spider-Man, New Leader Of The Avengers was the biggest story on Bleeding Cool yesterday, again. Lying In The Gutters is the daily runaround for the most-read stories the day before, as well as over the past eight years. Founded seventeen years ago and steeped\u2026",
+      "url": "https://bleedingcool.com/comics/spider-man-new-avengers-leader-in-the-daily-litg-27th-november-2026/",
+      "source": "Bleeding Cool News",
+      "date": "2026-11-27",
+      "image": "https://bleedingcool.com/wp-content/uploads/2026/11/aven2026002-interior1-1200x675.jpeg",
+      "category": "market"
+    },
+    {
+      "title": "ECB's gender gap set to widen further after Lagarde exit",
+      "description": "The European Central Bank is on course to become the most male-dominated major central bank in the world when President Christine Lagarde leaves in February, a jarring outcome for an institution that has spent years promoting gender balance.",
+      "url": "https://www.rte.ie/news/business/2026/1127/1600895-ecbs-gender-gap-set-to-widen-further-after-lagarde-exit/",
+      "source": "RTE",
+      "date": "2026-11-27",
+      "image": "https://www.rte.ie/images/002480c4-1600.jpg",
+      "category": "central_bank"
+    },
+    {
+      "title": "Could Donald Trump And Abdul El-Sayed Really Team Up On Universal Healthcare?",
+      "description": "The Michigan Democrat and the president have been talking up an unlikely grand bargain.",
+      "url": "https://www.huffpost.com/entry/donald-trump-abdul-el-sayed-medicare-for-all_n_6b058b9be4b0da866ee3da5f",
+      "source": "HuffPost",
+      "date": "2026-11-27",
+      "image": "https://img.huffingtonpost.com/asset/6b059a1a180000f49f94d081.jpeg?cache=OQSnlzAy7z&ops=1778_1000",
+      "category": "market"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-05-15",
+      "week": "2026-W20",
+      "gold_10g": 140736.5,
+      "silver_kg": 243170.57,
+      "platinum_g": 6206.5,
+      "gold_usd_oz": 4568.35,
+      "silver_usd_oz": 78.93,
+      "platinum_usd_oz": 2014.65
+    },
+    {
+      "date": "2026-06-07",
+      "week": "2026-W23",
+      "gold_10g": 132593.54,
+      "silver_kg": 207602.87,
+      "platinum_g": 5449.55,
+      "gold_usd_oz": 4328.87,
+      "silver_usd_oz": 67.78,
+      "platinum_usd_oz": 1779.15
+    },
+    {
+      "date": "2026-06-09",
+      "week": "2026-W24",
+      "gold_10g": 133318.07,
+      "silver_kg": 210317.38,
+      "platinum_g": 5419.88,
+      "gold_usd_oz": 4331.37,
+      "silver_usd_oz": 68.33,
+      "platinum_usd_oz": 1760.87
+    },
+    {
+      "date": "2026-07-05",
+      "week": "2026-W27",
+      "gold_10g": 127936.35,
+      "silver_kg": 191162.72,
+      "platinum_g": 5033.18,
+      "gold_usd_oz": 4175.01,
+      "silver_usd_oz": 62.38,
+      "platinum_usd_oz": 1642.5
+    },
+    {
+      "date": "2026-07-09",
+      "week": "2026-W28",
+      "gold_10g": 126264.96,
+      "silver_kg": 181656.12,
+      "platinum_g": 4961.56,
+      "gold_usd_oz": 4107.77,
+      "silver_usd_oz": 59.1,
+      "platinum_usd_oz": 1614.14
+    },
+    {
+      "date": "2026-08-02",
+      "week": "2026-W31",
+      "gold_10g": 124137.93,
+      "silver_kg": 176726.94,
+      "platinum_g": 5060.13,
+      "gold_usd_oz": 4043.21,
+      "silver_usd_oz": 57.56,
+      "platinum_usd_oz": 1648.1
+    },
+    {
+      "date": "2026-08-09",
+      "week": "2026-W32",
+      "gold_10g": 132963.64,
+      "silver_kg": 194759.63,
+      "platinum_g": 5359.45,
+      "gold_usd_oz": 4341.91,
+      "silver_usd_oz": 63.6,
+      "platinum_usd_oz": 1750.12
+    },
+    {
+      "date": "2026-09-06",
+      "week": "2026-W36",
+      "gold_10g": 134616.17,
+      "silver_kg": 201167.03,
+      "platinum_g": 5540.25,
+      "gold_usd_oz": 4430.18,
+      "silver_usd_oz": 66.2,
+      "platinum_usd_oz": 1823.28
+    },
+    {
+      "date": "2026-09-09",
+      "week": "2026-W37",
+      "gold_10g": 134261.82,
+      "silver_kg": 203128.02,
+      "platinum_g": 5662.91,
+      "gold_usd_oz": 4403.59,
+      "silver_usd_oz": 66.62,
+      "platinum_usd_oz": 1857.35
+    },
+    {
+      "date": "2026-10-04",
+      "week": "2026-W40",
+      "gold_10g": 128317.21,
+      "silver_kg": 187028.65,
+      "platinum_g": 5271.44,
+      "gold_usd_oz": 4142.33,
+      "silver_usd_oz": 60.38,
+      "platinum_usd_oz": 1701.72
+    },
+    {
+      "date": "2026-10-09",
+      "week": "2026-W41",
+      "gold_10g": 130198.6,
+      "silver_kg": 187649.77,
+      "platinum_g": 5237.36,
+      "gold_usd_oz": 4179.89,
+      "silver_usd_oz": 60.24,
+      "platinum_usd_oz": 1681.4
+    },
+    {
+      "date": "2026-11-01",
+      "week": "2026-W44",
+      "gold_10g": 118437.13,
+      "silver_kg": 150153.09,
+      "platinum_g": 4387.55,
+      "gold_usd_oz": 3875.65,
+      "silver_usd_oz": 49.13,
+      "platinum_usd_oz": 1435.75
+    },
+    {
+      "date": "2026-11-08",
+      "week": "2026-W45",
+      "gold_10g": 123202.59,
+      "silver_kg": 157176.22,
+      "platinum_g": 4656.78,
+      "gold_usd_oz": 4071.67,
+      "silver_usd_oz": 51.94,
+      "platinum_usd_oz": 1539
+    },
+    {
+      "date": "2026-11-09",
+      "week": "2026-W46",
+      "gold_10g": 124312.48,
+      "silver_kg": 159630.43,
+      "platinum_g": 4690.45,
+      "gold_usd_oz": 4110.88,
+      "silver_usd_oz": 52.79,
+      "platinum_usd_oz": 1551.08
+    }
+  ],
+  "timestamp": "2026-11-28T17:33:50.076173+05:30",
+  "run_info": {
+    "schedule": "4\u00d7 daily (9 AM, 12 PM, 3 PM, 6 PM IST)",
+    "timezone": "Asia/Kolkata",
+    "source": "GoldAPI"
+  }
+}
